@@ -1,0 +1,126 @@
+{
+    "question": "Fungsi g: R \u2192 R ditentukan oleh    g(x) = x2 \u2013 3x + 1 dan f: R \u2192 R sehingga (f o g)(x) = 2x2\r\n \u2013 6x \u2013 1\u00a0\r\n\r\nmaka f(x) = \u2026.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(f o g)(x)= f(g(x)) \u00a0 \u00a0 \u00a0 \u00a0\u00a0=\u00a02x^2<span>\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1)\u00a0=\u00a0</span>2x^2\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x^2-3x+1)\u00a0=\u00a02x^2\u2013 6x + 2 -\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1) = 2(x^2-3x+1) -3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x-3 \u00a0(buktikan saja masukan ke f(g(x))",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bentuk-sederhana-dari-2a3-4a-pangkat-23-426",
+            "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-ingkaran-dari-kalimat-jika-kamu-tidak-jadi-berangkat-ke-kota-788",
+            "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x2 - 8x +\r\n 3\u00a0 dari grafik fungsi kudrat \u00a0g(x) = 4x2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f\u00a00\u00a0g =\u00a04(4x^2)^2 - 8(<span>4x^2)</span>\u00a0+3 = 64x (4x^2-1)",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-299",
+            "question": "suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . . Pake cara ? Yang jwab Thanks yah !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/4 , 2/5 , 3/6 , 4/7 , ...<br>U25 ?<br><br>U1=a=1/4<br>U2=a+b=2/5<br><br>cari b<br>b = U2 - U1<br>b = 2/5 - 1/4<br>b = 3/20<br><br>1/4 + 3/20 = 5+3/20 = 8/20 = 2/5<br>nah, jadi ini termasuk deret aritmetika, karna deret aritmetika, maka memakai rumus<br>Un = a + (n-1)b<br>U25 = a + (25-1)b<br>U25 = a + 24b<br>U25 = 1/4 + 24(3/20)<br>U25 = 1/4 + 72/20<br>U25 = 5+72/20<br>U25 = 77/20<br><br><span>CMIIW ^_^<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-beta-12-dan-sudut-beta-di-kuadran-iimaka-tan-beta-ad-846",
+            "question": "Jika sin beta = 1/2 dan sudut beta di kuadran II,maka tan beta adalah?\r\n thanx before",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sin beta = 1/2 = y/r\u00a0<br>maka, y ( sisi tegak lurus) = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0(sisi miring) = 2<br>Yang dicari x (sisi vertikalnya)<br>Pakai rumus teorema phytagoras--&gt; x\u00b2 = r\u00b2 - y\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a2\u00b2- 1\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a4-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0\u221a3<br><br>Nah, rumus tan beta = y / x<br>Karena di kuadran 2, dimana x bernilai negatif (-), y bernilai positif (+) dan r bernilai positif (+)<br>maka, Tan beta = (+)y / (-)x = 1/-\u221a3 Karena penyebutnya akar, maka harus dirasionalkan dulu,\u00a0<br><br>---&gt; 1 / -\u221a3\u00a0\u00d7 (-\u221a3)/ (-\u221a3) = -\u221a3 / 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2n-1x-n40-mempunyai-dua-akar-rel-ya-432",
+            "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

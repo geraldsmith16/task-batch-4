@@ -1,0 +1,136 @@
+{
+    "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-6-dan-suku-ke-empat-663",
+            "question": "diketahui deret geometri dengan suku pertama 6 dan suku ke empat adalah 48, jumlah enam suku pertama deret tsb adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] u_{1} = a= 6[/tex]<br><br>[tex] u_{4} =[/tex]ar\u00b3 = 48<br><br>ar\u00b3 = 48<br>6r\u00b3=48<br>r\u00b3 = 48/6<br>r\u00b3=8<br>r =\u00a0\u221b8=2<br><br>[tex] s_{6}  =  \\frac{a( r^{n} -1)}{r-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 2^{6} -1)}{2-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 64 -1)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 63)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{378} [/tex]<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pencerminan-titik-32-terhadap-garis-x7-adalah-377",
+            "question": "Hasil pencerminan titik (3,2) terhadap garis x=7 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk y akan tetap sedangkan untuk x akan bergeser\u00a0<br><br>x1 = 3\u00a0<br><br>jarak 3 ke 7 adalah 4\u00a0<br>sehingga bila dicerminkan menjadi\u00a0<br>(7 +4, y)<br>atau (11,2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2n-1x-n40-mempunyai-dua-akar-rel-ya-432",
+            "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-berikut-a13927729-262",
+            "question": "Tentukan jumlah deret berikut :\r\na).1+3+9+27+...+729",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah deret 1+3+9+.....+729<br><br>a=1, r=3<br>un= a.r^(n-1)=729<br>un=1.3^(n-1)=3^6<br>(n-1)=6<br>n=7<br><br>Sn = a(r^n-1) /(r-1)<br>Sn =1.(3^7-1)/(3-1)<br>Sn=(2186)/2<br>Sn=1093",
+                    "attachments": []
+                },
+                {
+                    "answer": "1+3+9+27+\u2026+729\u00a0\u00a0\u00a0<br><span>Dik: a=1, Un=729 , r= 3<br>penyelesaian:<br>\u00a0 \u00a0#\u00a0Un=\u00a0a.r^(n-1) \u00a0 \u00a0 \u00a0\u00a0</span><br>\u00a0 \u00a0 \u00a0729= 1. 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0729= 3^(n.1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<span><br>\u00a0 \u00a0</span>3^(6)= 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a0 \u00a0 \u00a0 6= n -1</span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a06 + 1= n -1+1\u00a0\u00a0\n<br>\u00a0 \u00a07= n \u00a0<br></span><br>\u00a0#Sn = a(r^{n})/r-1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=1(3^{7} -1) /3-1<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=(2187 \u2013 1)/2<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=2187/2\u00a0<br>\u00a0 \u00a0\u00a0Sn\u00a0=1093,5<span><br>Jadi jumlah deret dari\u00a0</span>1+3+9+27+\u2026+729 \u00a0adalah 1093,5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-barisan-aritmatika-adalah-45-jika-suku-kedu-114",
+            "question": "jumlah tiga bilangan barisan aritmatika adalah 45, jika suku kedua dikurangi 1 dan suku ketiga di tambah 5 maka, barisan tersebut menjadi barisan geometri, rasio barisan geometri tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggap suku suku itu adalah\u00a0<br>suku 1 = a-b<br>suku 2 = a<br>suku 3 = a+b<br>dan jumlahnya adalah 45<br><br>maka didapatkan : (a-b) + a +(a+b) = 45<br>b habis dan tersisa 3a = 45, maka a=15.<br><br>maka baris geometrinya menjadi 15-b + 15 + 15+b dan ketentuan soalnya adalah suku 2 dikurang 1 dan suku 3 ditambah 5 maka menjadi:<br>15-b + 14 + 20+b\u00a0<br><br>untuk mencari rasio, kita cari dulu kan biasanya b itu nah b itu didapetin dari cara silang kita yaitu:<br><br>suku2/suku1 = suku3/suku2 (rumus umumnya)<br>hasil kali silangnya dapet kan tuh -b^2 - 5b + 300 = 196 (\u00a0^\u00a0= kudarat ya ahaha)<br>kita turunin lagi tuh jadinya -b^2 - 5b + 104 atau sama juga b^2 + 5b - 104 biar ga bingung negatif dipangkat b^2 nya.<br><br>dapet kan tuh (b-8) (b+13) maka b bisa 8 atau -13<br><br>karna rasio, masukkan aja suku2/suku1<br>14\u00a0/\u00a015-b<br><br>*b nya kita ganti dengan 8 dan -13<br><br>hasilnya adalah untuk b = 8 rasionya 2<br>untuk b = -13 rasionya adalah 1/2<br><br>CMIIW ya hhe<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-deret-geometri-diketahui-sn4-dan-s440-tentukan-suku-921",
+            "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

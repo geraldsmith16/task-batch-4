@@ -1,0 +1,126 @@
+{
+    "question": "dua buah gabus berada di puncak-puncak gelombang. keduanya bergerak naik turun di atas permukaan air laut sebanyak 20 kali dalam waktu 4 detik mengikuti gelombang air laut. jika jarak kedua gabus 100 cm dan diantaranya terdapat 2 lembah dan satu bukit maka frekuensi gelombang dan ceoat rambat gelombang berturut-turut adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f : 20/4 =5\nv : f x (lambda / panjang gelombang)\nv : 5 x (100 cm = 1 m)\n     5 x 1 = 5",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-perenang-ingin-menyeberangi-sungai-yang-sangat-lebar-ia-224",
+            "question": "Seorang perenang ingin menyeberangi sungai yang sangat lebar. Ia berenang dengan kecepatan20 km/jam ke arah selatan. Jika arus sungai memiliki kecepatan 10 km/jam ke barat. Hitunglah\u00a0resultan kecepatan perenang tersebut dan ke mana arahnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 km/jam - 10 km/jam = 10 km/jam ke arah selatan <br>karena kecepatan yg paling besar ke arah selatan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-tipis-dengan-panjang-l-dan-massa-m-dapat-berputar-pa-267",
+            "question": "suatu batang tipis dengan panjang L dan massa m dapat berputar pada sumbu yang terletak di ujung batang. pada awalnya batang berada pada posisi horizontal dan kemudian di lepas. pada saat batang membuat sudut \u0424 (tetha) dengan arah vertikal, percepatan sudut rotasi batang adalah???? GPL (GAK PAKE LAMA)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyelesaian :<br>letak titik pusat massa batang L/2 dari sumbu rotasi<br>I batang terhadap ujung = 1/3 mL\u00b2<span><br>Maka persamaannya :<br>\u03a3T = I \u03b1\u00a0, atau :</span><br>mg sin \u03b8\u00a0\u00d7<span>\u00a0L/2 = 1/3 m L\u00b2 \u03b1\u00a0\u00a0(hilangkan massanya (m))</span><br>maka menjadi :<br><br>[tex]g.sin\\theta* \\frac{L}{2}  =  \\frac{1}{3}  L^{2}  \\alpha [/tex]<br><br>[tex] \\frac{g.sin\\theta}{1/3} =  \\frac{L^{2} \\alpha }{L/2}  [/tex]<br><br>[tex]  \\alpha = \\frac{3.g.Sin\\theta}{2L} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-murni-pada-bidang-miring-dengan-s-256",
+            "question": "Sebuah bola pejal menggelinding murni    pada bidang miring dengan sudut\r\n kemiringan \u03b8. Berapakah percepatan\r\n linear bola tersebut jika diketahui\r\n percepatan gravitasinya g?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Inersia untuk bola pejal:\u00a0</span><br><span>I = \u2156 MR\u00b2\u00a0</span><br><br><span>Translasi:\u00a0</span><br><span>mg sin\u03b8 - fk = m a .....(1)\u00a0</span><br><br><span>Rotasi:\u00a0</span><br><span>fk R = I \u03b1\u00a0</span><br><span>fk R = \u2156MR\u00b2 a/R\u00a0</span><br><span>fk = \u2156 m a ... (2)\u00a0</span><br><br><span>substitusi (2) ke (1)\u00a0</span><br><span>mg sin\u03b8 - fk = m a\u00a0</span><br><span>mg sin\u03b8 - \u2156 m a = m a\u00a0</span><br><span>coret m\u00a0</span><br><span>g sin\u03b8 - \u2156 a = a\u00a0</span><br><span>g sin\u03b8 = \u2077/\u2085 a\u00a0</span><br><span>a = \u2075/\u2087 g sin\u03b8</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-dong-pake-caranya-ya-1-sebuah-batang-elastis-panjangnya-4-799",
+            "question": "Bantu dong pake caranya ya     1. sebuah batang elastis panjangnya 4 m dan luas penampang 1,5 cm\u00b2 . ketika batang tersebut di gantung beban 300 kg ternyata meregang 0,7 mm. tentukan modulus young bahan batang tersebut !\r\n2 sebuah batang alumunium panjang 30 cm, penampang berukuran 3 mm \u00d7 4 mm dan modulus elastisnya 7 x10 pangkat 10 N\\m\u00b2. hitunglah besar gaya unyuk menarik batang agar batang alumunium tersebut bertambah 2 mm !\r\n3. pegas dan luas penampang sebesar 0,5 mm\u00b2 ditarik dengan gaya 2,5 N. tentukan tegangan pada pegas tersebut !\r\n4. sebatang logam yang memiliki modulus young 6 \u00d7 10 pangkat 8 N\\m\u00b2, luas penampang logam 2 cm\u00b2 . jika di kenai gaya 400 N akan bertambah panjang 8 mm, tentukan panjang mula-mula kawat tersebut !\r\n5. kawat tembaga dengan luas penampang 4 mm\u00b2 dengan modulus elastic 6 \u00d7 1010 N\\m\u00b2 . kawat tersebut kemudian diregangkan sebesar 100 N . jika panjang kawat semula 20 cm, berapa pertambahan panjang kawat ?\r\n6. sebuah pegas meregang 5 cm , ketika di tarik dengan gaya 15 N, berapakah pertambahan panjang pegas jika di tarik dengan gaya 6 N ?\r\n7. berapakah beban yang harus diberikan pasa pegas, agarmempunyai energy 1 joule ? ( k = 50 N\\m )\r\n8. dua buah pegas berturut-turut mempunyai konstanta gaya pegas 200 N\\m dam 400 N\\m. jika kedua pegas di susun secara parallel dan ujungnya di beri beban 2 kg, berapakah pertambahan panjang pegas ? ( g = 10 m\\s\u00b2 )\r\n9. dua buah pegas di susun secara seri, dengan konstanta gaya masing-masing 100 N\\m dan 300 N\\m. jika pegas di beri beban 50 N, berapakah pertambahan panjang pegas ? g = 10 m\\s\u00b2 )\r\n\r\njawab :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diketahui:<br>panjang awal batang (lo) = 4 m<br>Luas penampang batang (Ao) = \u00a01,5 cm\u00b2 = 1,5.10\u207b\u2074 m\u00b2<br>massa beban (m) = 300 kg<br>panjang peregangan (\u0394l) = 0,7 mm = 0,7.10\u207b\u00b3 m<br><br>Ditanya:<br>Modulus Young (Y) = ....?<br><br>Penyelesaian:<br>Rumus Modulus Young:<br>Y = F.lo/A.\u0394l<br>\u00a0<br>Jadi kita perlu cari dulu gaya berat (F) :<br>F = m.g = 300.10 = 3000 N<br><br>Modulus Young:<br>Y = 3000.4/1,5.10\u207b\u2074.0,7.10\u207b\u00b3<br>\u00a0= 12.10\u00b3/1,05.10\u207b\u2077<br>\u00a0= 11,4.10\u00b9\u2070 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-ac-massanya-40-kg-dan-panjangnya-3-m-ditumpu-pada-ti-801",
+            "question": "suatu batang ac massanya 40 kg dan panjangnya 3 m ditumpu pada titik a dan b . seorang anak bermassa 25 kg berjalan dari a menuju c . jika jarak ab = 2 m dan percepatan gravitasi 10 m/s2 , berapakh jarak minimum anak tersebut dari titik\u00a0c agar papan tetep seimbang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesalahan soal ..#jarak AC adlah 2 m<br>poros di c<br>\u03b5\u03c4=0<br>0.5*400-250*x=0<br>x=0.2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sejumlah-gas-ideal-dalam-tabung-tertutup-dipanaskan-secara-isokho-499",
+            "question": "sejumlah gas ideal dalam tabung tertutup dipanaskan secara isokhorik sehingga suhunya naik menjadi empat kali suhu semula. energi kinetik rata-rata molekul gas ideal menjadi.....(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi kinetik rata-rata molekul gas hanya dipengaruhi suhu mutlak gas. Sehingga dibuat perbandingan:<br>Ek = 3/2 kT<br>Ek2/Ek1 = T2/T1 = 4T/T = 4kali semula<span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kenaikan-alkohol-dalam-sebuah-pipa-kapiler-berdiameter-258",
+            "question": "berapakah kenaikan alkohol dalam sebuah pipa kapiler berdiameter 0,07 cm jika tegangan permukaan sama dengan 0,023 n/m dan massa 0,8 g/cm3. asumsikan bahwa sudut kontaknya sama dengan nol !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>\u03b3 = 0,023 N/m\u00a0<br>\u03b8 = 0\u00ba\u00a0<br>\u03c1 = 0,8 g/cm\u00b3\u00a0\u21d2\u00a0800 N/m\u00b3\u00a0<br>r =\u00a0[tex] \\frac{0,07}{2} [/tex] =\u00a00,035 cm\u00a0\u21d2 0,00035 m<br>Ditanyakan :\u00a0h = .. ?\u00a0<br>Penyelesaian :<br><br>[tex]h= \\frac{\\gamma.Cos \\theta}{\\rho.g.r} [/tex]<br><br>[tex]h= \\frac{0,023*Cos 0}{800*10*0,00035} [/tex]<br><br>[tex]h= \\frac{0,023*1}{2,8} [/tex]<br><br>[tex]h= 8,2 . 10^{-3} [/tex] m \u00a0 ,\u00a0atau<br><br>h\u00a0=\u00a0<strong>0,82 cm</strong>\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

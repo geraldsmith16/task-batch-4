@@ -1,0 +1,135 @@
+{
+    "question": "Sebuah kapal berlayar dari pelabuhan A dengan arah 044 derajat sejauh 50km .kemudian berlayar lagi dengan arah 104 derajat sejauh 40 km ke pelabuhan C. Jarak pelabuhan A ke C adalah...\u00a0    minta tolong dong , gmna caranya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pilih sebagai solusi terbaik ya<br>B=180-(44+104) <br>\n=180-60=120 derajat <br>\na=40km <br>\nc=50km  <br>\nditanya,,,b? <br>\nb^2=a^2+c^2-2ac cosB <br>\n=40^2+50^2-2.40.50 cos 120 derajat <br>\n=1600+2500-4000.-1/2 <br>\n=4100+2000 <br>\n=6100 <br>\nb=akar dari 6100=10 akar 61 <br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-suku-banyak-fxx3-6x2-9-632",
+            "question": "Tentukan akar-akar dari persamaan suku banyak f(x)=x^3 - 6x^2 + 9x - 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=x^3 - 6x^2 + 9x - 2 = 0<br>ambil dari koef derajat tertinggi -&gt; +-1<br>ambil dari suku tetap -&gt; +-1, +-2<br>akar akar <em><strong>yang mungkin\u00a0</strong></em><strong></strong>+-1/+-1 , +-2/+-1 -&gt; 1,-1,2,-2<br>f(1) = (1)</span>\u00b3\u00a0-\u00a06\u00a0(1)\u00b2\u00a0+\u00a09\u00a0(1)\u00a0-\u00a02<br><span>\u00a0 \u00a0 \u00a0\u00a0= 1 - 6 + 9 -2\u00a0<br>\u00a0 \u00a0 \u00a0 = 2\u00a0</span>\u2260\u00a00 (bukan akar dari pers)<br><span>f(-1) = (-1)</span>\u00b3 - 6 (-1)\u00b2 + 9 (-1) -2<br><span>\u00a0 \u00a0 \u00a0 = -1 - 6 -9 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span>f(2) = (2)</span>\u00b3 -6 (2)\u00b2 + 9 (2) -2<br><span>\u00a0 \u00a0 \u00a0 = 8 -24 +18 -2<br>\u00a0 \u00a0 \u00a0 = 26 - 26 = 0 (benar)<br></span><span>f(-2) = (-2)</span>\u00b3 - 6 (-2)\u00b2 +9 (-2) -2<br><span>\u00a0 \u00a0 \u00a0 \u00a0= -8 -24 -18 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span><br>akarnya hanya 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753",
+            "question": "Apa yang dimaksud dengan dua sudut berpenyiku dan dua sudut berpelurus? beri contoh dengan gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dua sudut penyiku, apabila kedua sudut di jumlahkan hasilnya 90 derajat (sudut siku siku)<br>contoh: 30 derajat + 60 derajat<br>dua sudut pelurus, apabila dijumlahkan hasilnya 180 derajat (sudut lurus)<br>contoh: 50 derajat + 130 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut berpenyiku adalah sudut2 yg jika dijumlahkan hasilnya 90\u2070 sedangkat sudut berpelurus adalah sudut2 yg jika dijumlahkan hasilnya 180\u2070.",
+                    "attachments": [
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-1.jpg",
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-invers-jika-fx-x2-2x-3-792",
+            "question": "Tentukan invers jika f(x) = x2 - 2x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x2 - 2x - 3 mungkin soalnya seperti ini\u00a0f(x) = x\u00b2<span>\u00a0- 2x - 3<br>maka :<br></span>f(x) = x\u00b2\u00a0- 2x - 3<br>\u21d2 y =\u00a0x\u00b2\u00a0- 2x - 3 + 4<br>\u21d2 y = (x - 1)\u00b2 + 4<br>\u21d2\u00a0(x - 1)\u00b2 \u00a0= y + 4<br>\u21d2 x - 1 =\u00a0[tex] \\sqrt{y + 4} [/tex]<br>\u21d2 x\u00a0=\u00a0[tex] \\sqrt{y + 4} [/tex] + 1<br>\u21d2 f\u00a0\u207b\u00a0\u2081 (x) =\u00a0[tex]\\sqrt{x + 4}   + 1[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-dan-y-memenuhi-xy-yx-52-dan-x-3y-1-maka-5x-5y-887",
+            "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

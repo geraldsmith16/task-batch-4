@@ -1,0 +1,142 @@
+{
+    "question": "diketahui barisan geometri : 64 , -32 , 16 , -8 tentukan a. Rasio b. rumus suku ke -n c. suku yang nilainya 1/4",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]a) r = \\frac{ U_{2} }{ U_{1} } \\\\ r= \\frac{-32}{64} \\\\ r= -\\frac{1}{2}  \\\\ \\\\  b)   U_{n}=ar^{ n-1} \\\\  \\\\ c) U_{n} = ar^{n-1} \\\\ \\frac{1}{4} = 64 (\\frac{-1}{2}) ^{n-1} \\\\ \\frac{1}{4} \\frac{-1}{64}= (\\frac{-1}{2}) ^{n-1} \\\\ -\\frac{1}{256}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ -\\frac{1}{2^{9-1}}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ n=9[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285",
+            "question": "1. jumlah semua bilangan ganjil antara 300 dan 750 yang bukan kelipatan 7 adalah 2. jumlah 3 suku pertama suatu deret geometri ialah 21 dan hasil kali 3 suku pertama itu ialah 64. nilai suku ketiga dan suku pertama deret itu berturut- turut adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika Bab Deret <br>Kelas: XII SMA <br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sederhanakanlah-bentuk-persamaan-berikut-ini-acos-xcosec-xta-558",
+            "question": "1.sederhanakanlah bentuk persamaan berikut ini\r\na.cos x.cosec x.tan x\r\nb.cos x.cotan x + sin x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. cos x.cosec x.tan x<br><br>=&gt; [tex] cos x .\\frac{1}{sin x} .\\frac{sin x}{cos x} = 1[/tex]<br><br>b. cos x.cotan x + sin x<br><br>=&gt; [tex]cos x. \\frac{cos x}{sin x} + sin x[/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x}{sin x} + \\frac{sin^{2}x}{sin x} [/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x + sin^{2}x}{sin x}  [/tex]<br><br>=&gt; [tex]\\frac{1}{sin x} [/tex]<br><br>=&gt; cosec x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tlong-gan-jika-hx2-x2-2x-maka-hx-2x-x2-2x-465",
+            "question": "Tlong gan: Jika h(x+2) = x\u00b2 + 2x maka h(x)=....... 2x + X\u00b2 2x - x\u00b2 -x\u00b2 + 2x -x\u00b2 - 2x x\u00b2 - 2x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(x + 2) = x\u00b2 + 2x <br>h(x) =\u00a0 (x - 2)\u00b2 + 2(x - 2)<br>h(x) = x\u00b2 - 4x + 4 + 2x - 4 <br>h(x) = x\u00b2 - 4x + 2x + 4 - 4 <br>h(x) = x\u00b2 - 2x\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-4-dan-suku-ke-336-929",
+            "question": "diketahui deret geometri dengan suku pertama =4 dan suku ke-3=36 jumlah lima suku pertama deret tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3:u1=36:4<br>r^2=9<br>r=3<br>sn=4(-243-1)/2<br>s5=4(242)/2<br>s5=484<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 = a = 4<br>U3 = a\u00d7r\u00b2 = 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r\u00b2 = 36/a = 36 / 4= 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r =\u00a0\u221a9 = 3<br>Sn = a\u00a0\u00d7 (r\u00a0pangkat n - 1) / r -1<br>S5= 4\u00a0\u00d7 (3pankat 5 - 1)/3-1<br>= 4\u00a0\u00d7 (243 -1)/2<br>=2\u00d7242 = 484<br><br>insya Allah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-dari-dimensi-2-dan-tiga-berikan-masing-masing-6-contoh-587",
+            "question": "Pengertian dari dimensi 2 dan tiga berikan masing-masing 6 contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dimensi 2 = yaitu suatu benda dimana hanya memiliki panjang dan lebar, contohnya persegi, persegi panjang, lingkaran, segitiga, layang-layang.<br>Dimensi 3 = yaitu suatu benda dimana memiliki panjang, lebar dan tinggi, contohnya balok, kubus, kerucut, tabung, prisma, limas.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dimensi 2 hanya memiliki panjang dan lebar cth: persegi, layang layang, lingkaran, segitiga persegi panjang, jajargenjang, belah ketupat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

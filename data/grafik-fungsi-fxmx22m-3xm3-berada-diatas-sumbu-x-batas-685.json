@@ -1,0 +1,136 @@
+{
+    "question": "Grafik fungsi f(x)=mx^2+(2m-3)x+m+3 berada diatas sumbu x. Batas-batas nilai m yang memenuhi adalah ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x) = mx\u00b2 +(2m -3)x\u00a0 + m + 3<br>a = m<br>b = 2m -3<br>c = m + 3<br><br>syarat FK punya akar imajiner : D &lt; 0<br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m - 3)\u00b2 - 4.m.(m+3) &lt; 0<br>4m\u00b2 - 12m + 9 - 4m\u00b2 - 12 &lt; 0<br>-12m - 3 &lt; 0<br>-12m &lt; 3<br>m &gt; [tex] \\frac{3}{-12} [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "f(x) berada di atas sumbu x, berarti D &lt; 0<br>a = m<br>b = (2m-3)<br>c = m+3<br><br>D = b\u00b2 - 4.a.c &lt; 0<br>\u00a0 \u00a0 \u00a0 (2m-3)\u00b2 - 4.m.(m+3) &lt; 0<br>\u00a0 \u00a0 \u00a0 4m\u00b2 - 12m + 9 - 4m\u00b2 - 12m &lt; 0<br>\u00a0 \u00a0 \u00a0 -24m + 9 &lt; 0 \u00a0dikali (-1) agm\u00a0ar tidak negatif, hati2 setelah dikali (-1) tanda berubah<br>\u00a0 \u00a0 \u00a0 \u00a024m - 9 &gt; 0 dibagi 3 agar lebih mudah mencari nilai m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a08m - 3 &gt; 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08m &gt; 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m &gt; 3/8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0<br><br>\u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285",
+            "question": "1. jumlah semua bilangan ganjil antara 300 dan 750 yang bukan kelipatan 7 adalah 2. jumlah 3 suku pertama suatu deret geometri ialah 21 dan hasil kali 3 suku pertama itu ialah 64. nilai suku ketiga dan suku pertama deret itu berturut- turut adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika Bab Deret <br>Kelas: XII SMA <br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcdefgh-tentukan-a-garis-yang-memotong-menembus-b-563",
+            "question": "pada kubus ABCDEFGH tentukan a) garis\" yang memotong / menembus bidang ABCD b) garis\" yang berpotongan dengan garis AB c) garis\" yang bersilangan dengan garis AB d) bidang\" yg berpotongan dengan bidang ABFE",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. AE, BF, CG, DH<br>b. AE, AD, BF, BC<br>c. CG, DH<br>d. ABCD, BCGD, EFGH, ADHE<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-buah-buku-dan-2-buah-pensil-rp880000-jika-harga-sebua-328",
+            "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-a-16-putaran-b-25-putaran-935",
+            "question": "Ubahlah ke bentuk satuan derajat dan a. 1/6 putaran b 2/5 putaran c 3/10 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/6 x 360=60 ,;b.2/5 x 360 = 72; c.3/10 x 360=108....\nmaaf bila salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-y-banyaknya-susunan-huruf-yg-berbeda-yang-dapat-dib-420",
+            "question": "Tolong y,,,, :)    Banyaknya susunan huruf yg berbeda yang dapat dibentuk dari kata \"MATEMATIKA\" Adalah ....\r\n\r\na. 151.200\r\nb. 100.800\r\nc. 75.600\r\nd. 60.480\r\ne. 50.400",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Permutasi adalah penyusunan kembali suatu komponen objek dalam urutan yang berbeda dari urutan semula</p><p>Rumus : [tex]P^{n} _{r}=\\frac{n!}{(n-r)!}[/tex]</p><p>Kombinasi adalah menggabungkan beberapa objek dari suatu grup tanpa memperhatikan urutan</p><p>Rumus : \u00a0[tex]C^{n}_ {r}=\\frac{n!}{r!(n-r)!}[/tex]</p><p>2 = huruf T</p><p>3 = huruf A</p><p>2 = huruf M</p><p>10 = huruf matematika </p><p>P=10!/2!3!2!</p><p>P=10.9.8.7.6.5.4.3/3!.2.2</p><p>P=10.9.8.7.2.5.3</p><p>P=151200 (A)</p><p>Materi yang serupa : </p><p>https://brainly.co.id/tugas/16127092</p><p>Semoga Membantu</p><p>Mapel: \u00a0Matematika </p><p>Kelas: \u00a011</p><p>Materi: \u00a0Permutasi dan Kombinasi </p><p>Kata Kunci: \u00a0Permutasi </p><p>Kode soal: \u00a02</p><p>Kode Kategorisasi : 11.2.2 </p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-3-akar-5-4-akar-3-3-akar-5-187",
+            "question": "Akar 3 + akar 5 \u00f7 4 akar 3 - 3 akar 5 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Bentuk Akar<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui\u00a0<br>\u221a3 +\u00a0\u221a5 : 4\u221a3 - 3\u221a5. <br>Soal belum lengkap. Kemungkinan soal yang ditanyakan tentang merasionalkan bentuk akar.\u00a0<br>Mari kita selesaikan.<br><br>[tex] \\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}\\\\=\\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}. \\frac{4 \\sqrt{3}+3 \\sqrt{5}}{4 \\sqrt{3}+3 \\sqrt{5}}\\\\= \\frac{4.3+3 \\sqrt{15}+4 \\sqrt{15}+3.5}{16.3-9.5}\\\\= \\frac{12+7 \\sqrt{15}+15}{48-45}\\\\= \\frac{27+7 \\sqrt{15}}{3}     [/tex]<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Tunjukkan bahwa 1 +\u00a0\u221a2 + 2 + 2\u221a2 + ... sampai 12 suku adalah 63(\u221a2 + 1).",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "deret tersebut adalah deret geometri dengan r = u2/u1 = <span>\u221a2 <br>karena r &gt; 1, maka merupakan deret geometri konvergen<br>rumus jumlah 12 suku awal deret geometri konvergen<br><br>[tex]\\frac{a(r^{n}-1)}{r-1}  \\\\  \\frac{1( (\\sqrt{2})^{12}-1)}{ \\sqrt{2}-1}  \\\\  \\frac{2^{6}-1}{ \\sqrt{2}-1} [/tex]<br><br>= 63 /</span><span> (\u221a2 - 1) <br>rasionalkan<br>= 63 (</span><span>\u221a2 + 1</span>)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-ingkaran-dari-kalimat-jika-kamu-tidak-jadi-berangkat-ke-kota-788",
+            "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ab-garis-ba-apakah-sinar-abba-butuh-jawaban-776",
+            "question": "Garis AB = garis BA, apakah sinar AB=BA? butuh jawaban.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karna garis dan sinar itu berbeda, kalau sinar AB artinya a yg memancarkan sinar ke b, sdangkan sinar BA artinya b yg memancarkan sinar mnuju ke a,, jadi beda,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "iya sinar AB=BA jadi itu sama <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-1-1-sin-a-764",
+            "question": "Bentuk sederhana dari \u00a0 1/\u00a01+ sin A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{1+sinA} [/tex]<br>[tex] \\frac{1}{1+sinA} ( \\frac{1-sinA}{1-sinA} )[/tex]<br>[tex] \\frac{1-sinA}{1-sin^2A} [/tex]<br>[tex] \\frac{1-sinA}{cos^2A} [/tex]<br>[tex]sec^2A-secAtanA[/tex]<br>[tex]secA(secA-tanA)[/tex]<br>gitu bukan maksudnya?<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapa-nilai-kpk-dari-30-dan-48-198",
+            "question": "Berapa nilai kpk dari 30 dan 48?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br>KPK= 2 x 2 x 2 x 2 x 3 x 5 = 240<br>FPB = 2 x 3 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br><br><br>kpk= 2 x 2 x 2 x 2 x 3 x 5 = 240<br><span><br>fpb = 2 x 3 = 6</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-terletak-ddisepanjang-sebuah-temboktanah-itu-dipa-788",
+            "question": "sebidang tanah terletak ddisepanjang sebuah tembok.tanah itu dipagari kawat untuk peternakan ayam.kawat yang tersedia panjangnya 400m.lokasi peternakan itu dibuat berbentuk persegi panjang.tentukan ukuran panjang dan lebar agar dapat dibuat peternakan yang seluas-luasnya dan berapa luas maksimum lokasi peternakan yang dapat dibentuk",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake prinsip turunan<br>keliling = 2x + 2y = 400<br>y = (400 -2x)/2<br>L = xy ---&gt; x(400 - 2x)/2L= 200x - x^2<br>L&#039;= 200 - 2x = 0<br>x = 100<br><span>y = 100<br><br>L maksimum = 10.000 m^2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

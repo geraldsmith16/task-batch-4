@@ -1,0 +1,134 @@
+{
+    "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-trigonometri-berikut-sec2-a-cosec2-a-972",
+            "question": "Buktikan identitas trigonometri berikut! \u00a0 sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A<br></span><br><span>sec\u00b2 A + cosec\u00b2 A <br><br></span><br><span>(1/cos\u00b2 A) + (1/sin\u00b2 A)<br><br>sin\u00b2 A + cos\u00b2 A<br>-----------------------<br>sin\u00b2 A cos\u00b2 A<br><br>..........1..........<br>----------------------<br>sin\u00b2 A cos\u00b2 A...............terbukti<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-terletak-ddisepanjang-sebuah-temboktanah-itu-dipa-788",
+            "question": "sebidang tanah terletak ddisepanjang sebuah tembok.tanah itu dipagari kawat untuk peternakan ayam.kawat yang tersedia panjangnya 400m.lokasi peternakan itu dibuat berbentuk persegi panjang.tentukan ukuran panjang dan lebar agar dapat dibuat peternakan yang seluas-luasnya dan berapa luas maksimum lokasi peternakan yang dapat dibentuk",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake prinsip turunan<br>keliling = 2x + 2y = 400<br>y = (400 -2x)/2<br>L = xy ---&gt; x(400 - 2x)/2L= 200x - x^2<br>L&#039;= 200 - 2x = 0<br>x = 100<br><span>y = 100<br><br>L maksimum = 10.000 m^2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-2sinx-cosx-cosx-0-258",
+            "question": "Tolong yaa,,..\r\n2sinx cosx - cosx =0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 sin x cos x - cos x = 0<br>(2 sin x - 1)cos x = 0 <br>2 sin x - 1 = 0 atau cos x = 0<br>2 sin x = 1 <br>sin x = [tex] \\frac{1}{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-2a3-4a-pangkat-23-426",
+            "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-deret-aritmatika-dengan-un-adalah-suku-ke-n-ji-683",
+            "question": "diketahui barisan deret aritmatika dengan Un adalah suku ke-n. jika U2 + U15 + U40 = 165 makan U19 =.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan deret aritmatika dengan Un adalah suku ke-n. Jika U2 + U15 + U40 = 165 maka U19 = <strong>55</strong>.</p><p></p><h3><strong>P</strong>embahasan</h3><p><u>Diketahui</u>:</p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = 165</p><p></p><p><u>Ditanya</u>:</p><p>U\u2081\u2089 = .....?</p><p></p><p><u>Jawab</u>:</p><p>Dalam mencari suku ke-n pada deret aritmatika dengan suku pertama a dan beda b berlaku persamaan berikut:</p><h3> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2099 = a + (n - 1) b</h3><h3></h3><p>maka dari soal di atas, suku-suku yang telah diketahui dapat diuraikan sebagai berikut:</p><p>U\u2082 \u21d2 n = 2 \u21d2 U\u2082 = a + (2 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2082 = a + b</p><p>U\u2081\u2085 \u21d2 n = 15 \u21d2 U\u2081\u2085 = a + (15 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2085 = a + 14b</p><p>U\u2084\u2080 \u21d2 n = 40 \u21d2 U\u2084\u2080 = a + (40 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2084\u2080 = a + 39b</p><p></p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = (a + b) + (a + 14b) + (a + 39b)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 165 = 3a + 54b \u00a0</p><p>disederhanakan dengan membagi kedua ruas dengan tiga</p><p>{ 3a + 54b = 165 } : 3</p><p>a + 18b = 55</p><p></p><p>U\u2081\u2089 \u21d2 n = 19 \u21d2 U\u2081\u2089 = a + (19 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2089 = a + 18b</p><p>Sehingga nilai U\u2081\u2089 = 55.</p><p></p><p>Semoga dapat membantu. Selamat belajar!</p><p></p><h3>Pelajari lebih lanjut</h3><p>1. Materi tentang Deret Aritmatika https://brainly.co.id/tugas/9607287</p><p>2. Materi tentang Contoh Soal Deret Aritmatika https://brainly.co.id/tugas/23271525, https://brainly.co.id/tugas/15798077</p><p>----------------------------</p><h3>Detil Jawaban</h3><p>Kelas : IX SMP</p><p>Mapel : Matematika</p><p>Bab : Barisan dan Deret Bilangan</p><p>Kode kategori : 9.2.2\t</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-tan-660-derajat-sin-900-derajatcos-390-derajat-ada-324",
+            "question": "Hasil dari tan 660 derajat-Sin 900 derajat+cos (-390 derajat) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 660-sin 900+ cos (-390)=tan 60 - sin 80 + (cos -30)<br>=akar 3 - sin 80 + (-1/2 akar 3)<br>=5/2 akar 3 - sin 80",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan 660 - sin 900 + cos (-390)<br>tan 660 - sin 900 + cos 390<br>tan (1.360 + 300) - sin(2.360 + 180) + cos(1.360 + 30)<br>tan 300 - sin 180 + cos 30<br>tan (360 - 60) - 0 + [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>- [tex] \\sqrt{3}[/tex] + [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>[tex]  - \\frac{3 \\sqrt{3} }{2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-magga-dan-apel-75-buah-jika-perbandingan-78-banyak-buah-a-560",
+            "question": "Jumlah Magga dan Apel 75 Buah jika perbandingan 7:8 Banyak Buah Apel adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya mangga=35<br>apel=40<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mangga = m<br>Apel = a<br>\u00a0<br>m + a = 75<br>\u00a0m : a\u00a0= 7 : 8\u00a0<br>\u00a0Apel = 8/7 x \u00a075\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= \u00a085 , 71 \u00a0 ( dibulatkan )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 86\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

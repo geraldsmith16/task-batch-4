@@ -1,0 +1,144 @@
+{
+    "question": "Dua buah jenis mesin penggiling padi digunakan untuk menggiling satu peti padi. untuk menggiling satu peti padi, mesin jenis pertama lebih cepat 1/2 jan dari mesin jenis kedua. sementara jika kedua mesin digunakan sekaligus, dapat menggiling satu peti padi selama 6 jam.    a. berapa jam waktu yang digunakan mesin jenis pertama untuk menggiling satu peti padi\r\nb. berapa jam waktu yang digunakan mesin jenis kedua untuk menggiling satu peti padi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misal<br>penggiling pertama=a<br>penggiling kedua=b<br>a lebih cepat1/2jam dari b, maka<br>a=b - 1/2 =&gt;a-b=1/2<br>adan b secara bersama 6 jam, maka<br>a + b = 6<br><br>a - b = 1/2 ditambah a + b =\u00a0 6<br><span>hasilnya 2a = 2 1/4\u00a0</span><br>maka lama yang dibutuhkan a 2 1/4 jam<br><br>a + b = 6<br>2 1/4 + b = 6<br>b= 3 3/4 jam<br><span>maka yang lama yang dibutuhkan b 3 1/4 jam<br><br>semoga bermanfaat :)</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-x2-2x-3-0-mempunyai-akar-x1-dan-x2-tentu-867",
+            "question": "persamaan kuadrat x\u00b2 - 2x - 3 = 0 mempunyai akar x1 dan x2 tentukan persamaan kuadrat yang akar-akarnya 4x1 dan 4x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pk. lama:<br><span> x\u00b2 - 2x - 3 = 0<br>a = 1<br>b = -2<br>c = -3<br>x1 + x2 = -b/a = -(-2)/1 = 2<br>x1 x x2 = c/a = -3/1 = -3<br><br>Pk. baru<br></span>\n\n<span>x\u00b2- (\u03b1 + \u03b2)x + (\u03b1 . \u03b2) = 0</span>\n<br><br>\n\u03b1 = 4x1\n<br>\n\u03b2 = 4x2\n<br><br>\n(\u03b1 + \u03b2) = 4x1 + 4x2 = 4 (x1 + x2) = 4 (2) = 8\n<br>\n(\u03b1 . \u03b2) = 4x1 . 4x2 = 4 (x1.x2) = 4 (-3) =\n-12\n<br><br>Pk. Baru =&gt;<span>x\u00b2</span> \u2013 8x \u2013 12 = 0\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] x^{2} [/tex] -2x - 3 = 0<br>(x - 3) (x\u00a0+ 1) = 0<br>[tex] x_{1} [/tex] = 3<br>[tex] x_{2} [/tex] = -1<br><br>menyusun persamaan kuadrat baru jika:<br>[tex] x_{1} [/tex] = 4[tex] x_{1} [/tex] = 4x3 = 12<br>[tex] x_{2} [/tex] = 4[tex] x_{2} [/tex] = 4x-1 = -4<br><br>(x-12) (x+4)<br>= [tex] x^{2} [/tex] + 4x - 12x - 48<br>= [tex] x^{2} [/tex] - 8x -48<br><br>menurut saya ini jawabannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-x2-5x-6-0-prsamaan-kuadrat-berikut-dengan-cara-f-742",
+            "question": "Selesaikan x^2 - 5x +6 = 0 prsamaan kuadrat berikut dengan cara faktorisasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 - 5x + 6 = 0<br>faktornya adalah : <br>(x - 2)(x - 3) = 0 <br>x - 2 = 0 atau x - 3 = 0<br>x = 2 atau x = 3 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya adalah\u00a0(x-2)(x-3)=0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-yang-setara-dengan-pernyataan-jika-hewan-itu-elang-ma-116",
+            "question": "Pernyataan yang setara dengan pernyataan \"jika hewan itu elang maka hewan itu dapat terbang\" adalah ....    tolong jawabannya dan pembahasan nya ... terima kasih...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p-&gt;q setara dengan ~q=&gt;~p<br><span>jika hewan itu elang maka hewan itu dapat terbang setara dengan jika hewan itu tidak bisa terbang maka hewan itu bukan elang<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p =&gt; q \u2261\u00a0 -p \u2228 q \u2261 -q =&gt; -p <br>Pernyataan : <br>Jika hewan itu elang maka hewan itu dapat terbang <br>setara dengan : <br>* Hewan itu bukan elang atau hewan itu dapat terbang<br>* Jika hewan itu dapat terbang maka hewan itu elang <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-persamaan-cos-2x-sin-x-0-untuk-0x2-808",
+            "question": "Himpunan penyelesaian persamaan cos 2x-sin x = 0, untuk 0\u2264x\u22642 \u03c0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : persamaan, trigonometri<br><br>Pembahasan :<br>Persamaan trigonometri dalam derajat, yaitu :<br>Jika sin a\u00b0 = sin\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = (180 -\u00a0\u03b1) + k x 360,<br>Jika cos a\u00b0 = cos\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = -\u03b1 + k x 360,<br>Jika tan a\u00b0 = tan\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 180,<br>dengan k merupakan bilangan bulat.<br><br>Persamaan trigonometri dalam radian, yaitu :<br>Jika sin a = sin\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = (\u03c0 -\u00a0\u03b1) + k x 2\u03c0,<br>Jika cos a = cos\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = -\u03b1 + k x 2\u03c0,<br>Jika tan a = tan\u00a0\u03b1, maka a =\u00a0\u03b1 + k x \u03c0,<br>dengan k merupakan bilangan bulat.<br><br>Mari kita lihat soal tersebut.<br>Tentukan h<span>impunan penyelesaian dari persamaan cos 2x - sin x = 0, untuk\u00a00 \u2264 x \u2264 2\u03c0!<br><br>Jawab :<br>Diketahui persamaan<br>cos 2x - sin x = 0<br></span>\u21d4 cos 2x = sin x<br>\u21d4 cos 2x = cos([tex] \\frac{ \\pi }{2} [/tex] - x)<br>\u21d4 2x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] - x + k . 2\u03c0 atau 2x = -([tex] \\frac{ \\pi }{2} [/tex] - x) + k . 2\u03c0<br>\u21d4 3x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0 atau 2x = -[tex] \\frac{ \\pi }{2} [/tex] + x + k . 2\u03c0<br>\u21d4 x = [tex] \\frac{ \\pi }{6} [/tex] + k .\u00a0[tex] \\frac{2}{3} [/tex]\u03c0 atau x = -[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0<br><br>untuk <br>k = 0, x = [tex] \\frac{ \\pi }{6} [/tex]<br>k = 1, x =\u00a0[tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex]<br>k = 2, x =\u00a0[tex] \\frac{9 \\pi }{6} [/tex]<br><br>Jadi, himpunan penyelesaiannya adalah {[tex] \\frac{ \\pi }{6} [/tex], [tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex], [tex] \\frac{9 \\pi }{6} [/tex]}<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dipotong-menjadi-5-bagian-dan-masing-masing-masing-po-706",
+            "question": "Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?</p><p><strong>Barisan geometri</strong> adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.\n</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p>Deret geometri adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.\n</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui : </p><p>Banyak potongan tali (n) = 5</p><p>panjang tali terpendek (a) = 4 cm</p><p>Panjang tali terpanjang (Un) = 324 cm</p><p>Ditanya :</p><p>Panjang tali mula-mula (Sn) ?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio </strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2075\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2074</p><p> \u00a0 r\u2074 = [tex]\\frac{324}{4}[/tex]</p><p> \u00a0 r\u2074 = 81</p><p> \u00a0 r\u2074 = 3\u2074 </p><p> \u00a0 r = 3</p><p></p><ul><li><strong>Menentukan panjang tali mula-mula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2085 = [tex]\\frac{4 (3^{5} - 1)}{3 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{4 (243 - 1)}{2}[/tex]</p><p> \u00a0 \u00a0 = 2 \u00d7 242</p><p> \u00a0 \u00a0 = 484 cm</p><p></p><p>Jadi panjang tali mula-mula adalah 484 cm atau 4,84 m</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri :</h3><ol><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Panjang kertas semula \u2192 brainly.co.id/tugas/10758102</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang tali mula-mula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahiranya-apakah-relasi-460",
+            "question": "jika siswa direlasikan dengan tanggal kelahiranya. apakah relasi tersebut merupakan fungsi?berikan enjelasanmu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya. karena masing-masing himpunan mendapatkan pasangannya sendiri.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya,karena setiap siswa hanya akan memiliki 1 tanggal lahir,tidak kurang-tidak lebih<br>dan kemungkinan akan ada beberapa\u00a0siswa yang memiliki tanggal lahir yang sama tapi tetap 1 tanggal lahir,itu juga disebut fungsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fxx2-gxx-2-dan-hxx1-tentukan-nilai-fogoh-968",
+            "question": "Diketahui f(x)=x2, g(x)=x-2, dan h(x)=x+1. tentukan nilai (fogoh) (x)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g (h(x)) = (x+1) - 2 = x + 1 - 2 = x - 1<br>f ( g\u00a0o\u00a0h ) =\u00a0\u00a0(x-1)\u00b2 = x\u00b2 - 2x + 1<br><br>Jadi (f o g o h) = x\u00b2 - 2x +1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-diketahui-barisan-aritmetika-dengan-u3-3-dan-u8-13-363",
+            "question": "3. Diketahui barisan    aritmetika dengan U3 = 3 dan U8 = 13\r\n\r\n\u00a0\u00a0\u00a0 \r\nTentukan yang berikut ini !\r\n\r\n\u00a0 \r\n\u00a0 a. Nilai suku pertama dan bedanya\u00a0\r\n\r\n\r\n\u00a0 b. Suku ke-50\r\n\r\n\u00a0\u00a0 \r\n\u00a0 c. n jika Un = 147",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara cari bedanya seperti ini<br>U 3 = 3<br><u>U 8 = 13</u> -<br>-5 = -10<br>B = 2<br>Lalu<br>suku pertama tinggal dikurangin 4 hehe<br>jadi -1<br><br>Suku ke 50 = (3x50 ) - 3<br><br>yang ke c tinggal gunakan cara subtitusi bila masih ada yang ditanyakan silahkan bertanya di komentar thanks :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = a+2b = \u00a0 3<br><u>U8 = a+7b = 13</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  -  5b = -10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 2<br>b=2, U3 = a+(2x2) = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a+4 = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a = 3 - 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = -1<br><br>U50 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + (50 -1) 2<br>\u00a0\u00a0 \u00a0 \u00a0  = (-1) + (49) 2<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + 98<br>\u00a0\u00a0 \u00a0 \u00a0  = 97<br>Un\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 147<br>a+(n-1)b \u00a0\u00a0 = 147<br>(-1)+(n-1)2 = 147<br>(-1)+2n-2\u00a0\u00a0 = 147<br>2n-3\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 147<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 147+3<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 150<br>n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

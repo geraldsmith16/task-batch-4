@@ -1,0 +1,136 @@
+{
+    "question": "Rumus belah ketupat?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/2 X d1 X d2 <br>d1 = diagonal 1<br>d2 = diagonal 2<br>",
+            "attachments": []
+        },
+        {
+            "answer": "L= 1/2.d1.d2<br>K= 4 x sisi<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-jumlah-2-bilangan-adalah-3-dan-selisih-kuadrat-bilangan-itu-454",
+            "question": "Jika jumlah 2 bilangan adalah 3 dan selisih kuadrat bilangan itu adalah 6, bilangan apa sajakah itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0  2pangkat 10 dan 1 pangkat -4\u00a0 (2pangkat 10 dan 1 pangkat -4)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+y = 3<br>x=3-y<br><br>(x-y)\u00b2 = 6<br>(3-y-y)\u00b2 = 6<br>(3-2y)\u00b2 = 6<br>3-2y = \u221a6<br>3-\u221a6 = 2y<br>y= (1/2)(3-\u221a6)<br><br>x=3-y<br>x=3 - (1/2)(3-\u221a6)<br>x=3 - 3/2 - \u221a6/2<br>x=6/2 - 3/2 - \u221a6/2<br>x=3/2 - \u221a6/2<br>x=(1/2)(3-\u221a6)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-lingkaran-dengan-titik-pusat-o-dan-panjang-jari-jari-5-168",
+            "question": "Buatlah lingkaran dengan titik pusat\u00a0O\u00a0dan panjang jari jari 5 cm. Titik\u00a0A, B,\u00a0dan\u00a0C terletak pada keliling lingkaran, sehingga besar\u00a0\u2220AOB\u00a0= 40\u00b0 dan\u00a0\u2220BOC = 60\u00b0. Hitunglah:    a.Keliling Lingkaran,\r\nb.Panjang Busur\u00a0AB,\r\nc.Panjang Busur\u00a0BC,\r\nd.Luas Lingkaran,\r\ne.Luas juring\u00a0OAB, dan\r\nf.Luas juring\u00a0OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling lingkaran : 5*2*3,14 = \npanjang busur ab : keliling lingkaran * 40/360 \npanjang busur bc : keliling lingkaran * 40/360 \nluas lingkaran : 5*5*3,14 = \nluas juring oab : luas lingkaran * 40/360 \nluas juring obc : luas lingkaran * 60/360",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jikadi-ketahuiluas-juring-okl511-880",
+            "question": "Jika\u00a0di ketahui\u00a0luas juring OKL=51\u00a01\u00a0    \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a03\r\ncm\u00b2\u00a0 dan besar \r\n&lt;KOL=\u00a0120\u00a0DERAJAT.\u00a0PANJANG\u00a0BUSUR\u00a0KL \u00a0ADALAH\r\n \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari jari2<br>luas lingkaran = 360/(besar sudut juring) x (luas juring tsb)<br>L = 360/120 x 154/3 ................................................(154/3 = 51 1/3)<br>L = 154<br><br>L = \u03c0r\u00b2<br>154 = (22/7) x r\u00b2<br>r\u00b2 = 49<br>r = 7<br><br>keliling linkaran = 2\u03c0r<br>keliling linkaran = 2 x 22/7 x 7<br>keliling linkaran = 44<br><br>Panjang busur KL = besar sudut/360 x keliling linkaran<br>PB KL = 120/360 x 44<br>PB KL = 1/3 x 44<br>PB KL = 44/3 atau 14 2/3 atau 14,67<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pinjaman-awal-sebesar-rp-400000-akan-diangsur-tiap-bulan-selama-432",
+            "question": "pinjaman awal sebesar rp 400.000 akan diangsur tiap bulan selama 8 bulan. jika besar pinjamanya 18% per tahun,maka sisa angsuran beserta bunganya setelah angsuran ke 6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya jawabannya C, Rp.\u00a0112.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-yang-kelilingnya-314-cm-adalahcm2-343",
+            "question": "Luas lingkaran yang kelilingnya 314 cm adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "314/3,14=100/2=50\n50pangkat 2 kali 3,14=25\u00d7314=7850",
+                    "attachments": []
+                },
+                {
+                    "answer": "cari nilai jari-jari dulu :<br>k. lingkaran = 2[tex] \\pi [/tex]r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 2 x 3,14 x r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 6,28r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r \u00a0= 314/6,28 = 50 cm<br><br>luas lingkaran =\u00a0[tex] \\pi [/tex][tex] r^{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x\u00a0[tex] 50^{2} [/tex] <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 2500 = 7850 [tex] cm^{2} [/tex]\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukman-memanfaatkan-tanah-kosongnya-untuk-tempat-kandang-kambing-624",
+            "question": "Lukman memanfaatkan tanah kosongnya untuk tempat kandang kambing.luas tanah 100m.    ada empat kandang kambing yg akan dibuat dan tiap tiap kandang berbentuk sama yaitu persegi. berapa dm luas tiap tiap kandang kambing??? tolong caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika - satuan<br>Kelas : 6 SD<br><br><span>Pembahasan :\u00a0<br><br></span>Luas tanah = luas\u00a04 kandang kambing = 100m\u00b2<br>1 kandang kambing = 100 : 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 25\u00a0m\u00b2<br><br>konversikan satuan\u00a0m\u00b2 ke dm\u00b2 yaitu\u00a0turun 1 tingkat dengan mengalikan\u00a0100.<br><span>sehingga,<br><br></span><span>1 kandang kambing\u00a0</span><span>= 25 x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02500\u00a0dm\u00b2<br></span><br><span>Jadi,\u00a0luas tiap kandang kambing adalah\u00a0</span><span><strong>2500 dm\u00b2</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-dua-lingkaran-masing-masing-adalah-12cm-dan-5cm-498",
+            "question": "Panjang jari jari dua lingkaran masing masing adalah 12cm dan 5cm. jarak kedua titik pusatnya adalah 25cm. hitunglah    a. panjang garis singgung persekutuan dalam\r\nb. panjang garis singgung persekuuan luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R = 12 cm<br>r = 5 cm<br>p = 25 cm<br><br>a. <br>d\u00b2 = p\u00b2 - (R - r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 - 5)\u00b2<br>d\u00b2 = 625 - 49<br>d\u00b2 = 576<br>d = \u221a576<br>d = 24 cm<br><br>b. <br>d\u00b2 = p\u00b2 - (R + r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 + 5)\u00b2<br>d\u00b2 = 625 - 289<br>d\u00b2 = 336<br>d = \u221a336<br>d = 18,33 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diket-un-ar-n-1-jika-u53125-dan-r5-maka-nilai-u3-u4-927",
+            "question": "Diket= Un ar\u00a0n-1 jika U5=3125 dan r=5 maka nilai u3 +u4=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kita mencari a terlebih dahulu, lalu mencari\u00a0U3 dan U4.<br><br>u5 =\u00a0[tex]a.r^{4} [/tex]<br>3125 = [tex] a.5^{4} [/tex]\u00a0<br>3125 = 625a<br>a = 5<br><br>u3 =\u00a0[tex] a.r^{2} [/tex]<br>u3 =\u00a0[tex] 5.5^{2} [/tex]<br>u3 = 125<br><br>u4 =\u00a0[tex] a.r^{3} [/tex]<br>u4 =\u00a0[tex] 5.5^{3} [/tex]<br>u4 = 625<br><br>u3 + u4 = ?<br>125 + 625 = 750<br><br>Semoga bermanfaat :)<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukislah-pada-kertas-berpetak-lingkaran-dengan-pusat-di-titik-p3-772",
+            "question": "Lukislah pada kertas berpetak lingkaran    dengan pusat di titik P(3, 2) dan jari-jari\r\n4 satuan panjang. Selanjutnya, lukislah\r\ngaris singgung lingkaran yang melalui titik\r\nQ(\u20131, 2).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas : VIII SMP<br>mapel : matematika<br>kategori : garis singgung lingkaran<br>kata kunci : menggambar garis singgung lingkaran<br><br>kode : 8.2.7 [matematika SMP kelas 8 Bab 7 garis singgung lingkaran]<br><br>Pembahasan:<br><br>garis singgung lingkaran adalah garis yang menyinggung lingkaran dan tegak lurus dengan jari-jari lingkaran<br><br>dari ilustrasi soal, dapat kita gambar atau kita lukis garis singgung lingkarannya, atau garis singgung lingkaran yang melalui titik (-1, 2), dan pusat lingkaran di (3, 2) jari-jari lingkaran 4<br><br>silahkan lihat lampiran<br><br><br><br><br>selamat belajar<br>salam indonesia cerdas<br>bana",
+                    "attachments": [
+                        "answer-attachments/lukislah-pada-kertas-berpetak-lingkaran-dengan-pusat-di-titik-p3-772-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-genap-berurutan-berjumlah-78jumlah-bilangan-terbes-570",
+            "question": "Tiga bilangan genap berurutan berjumlah 78.Jumlah bilangan terbesar dan terkecil adalah....    A.26\r\nB.34\r\nC.52\r\nD.54",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal bil genap br urutan tsb adl a, (a+2), (a+4)<br>jml 3 bil gnap brurutan adl 78<br>a+(a+2)+(a+4)=78<br>a+a+a+2+4=78<br>3a+6=78<br>3a=78-6<br>3a=72<br>a=24<br>jml 3 bil gnap berurutan= 24,26,28<br>bil terbsar trkecil= 24+28=52<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

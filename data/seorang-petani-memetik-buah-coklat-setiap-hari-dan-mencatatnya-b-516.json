@@ -1,0 +1,136 @@
+{
+    "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+            "attachments": [
+                "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-dari-sin-2x-sin-x-0-untuk-x-elemen-dar-431",
+            "question": "himpunan penyelesaian dari sin 2x - sin x = 0, untuk x elemen dari R dan 0 derajat\u00a0 x 360 derajat adalah?? mohon jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x - sin x = 0<br>2 sin x cos x - sin x = 0<br>sin x (2 cos x - 1) = 0<br><br>1) sin x = 0<br>sin x = sin 0\u00b0<br>sin x = sin 180\u00b0<br>sin x = sin 360\u00b0<br>x = 0\u00b0, 180\u00b0, 360\u00b0<br><br>2) (2 cos x - 1) = 0<br>2 cos x = 1<br>cos x = 1/2<br>cos x = cos 60\u00b0<br>cos x = cos 300\u00b0<br>x = 60\u00b0, 300\u00b0<br><br>Jadi<br><br>Jika 0\u00b0 &lt; x &lt; 360\u00b0<br>HP = {60\u00b0, 180\u00b0, 300\u00b0}<br><br>Jika 0\u00b0 \u2264 x \u2264 360\u00b0<br>HP = {0\u00b0, 60\u00b0, 180\u00b0, 300\u00b0, 360\u00b0}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcdefgh-tentukan-a-garis-yang-memotong-menembus-b-563",
+            "question": "pada kubus ABCDEFGH tentukan a) garis\" yang memotong / menembus bidang ABCD b) garis\" yang berpotongan dengan garis AB c) garis\" yang bersilangan dengan garis AB d) bidang\" yg berpotongan dengan bidang ABFE",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. AE, BF, CG, DH<br>b. AE, AD, BF, BC<br>c. CG, DH<br>d. ABCD, BCGD, EFGH, ADHE<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kali-dalam-1-hari-terbentuk-sudut-sudut-a90-derajat-b180-878",
+            "question": "Berapa kali dalam 1 hari terbentuk sudut sudut    a.90 derajat \r\n b.180 derajat \r\n c.30 derajat \r\n d. 120 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.90 derajat = 5 kali<br>b.180 derajat= 10 kali<br>c.30 derajat= 12 kali<br>d. 120 derajat= 3 kali",
+                    "attachments": []
+                },
+                {
+                    "answer": "Antara jarum jam dinding?<br><br>90 derajat 4 kali, 03.00 09.00 15.00 21.00<br>180 derajat 2 kali 06.00 18.00<br>30 derajat 4 kali 01.00 11.00 13.00 23.00<br>120 derajat 4 kali 04.00 08.00 16.00 20.00<br><br>Sudut antara jarum jam yang panjangnya tidak tepat di 12 karena selain saat itu sudutnya tidak pas. Bisa saja jarum pendek yang angkanya lebih sedikit sudutnya sudah tidak tepat.<br><br>Maaf kalau salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dijatuhkan-tegak-lurus-dari-ketinggian-4m-dan-setiap-962",
+            "question": "sebuah bola dijatuhkan tegak lurus dari ketinggian 4m dan setiap kali memantul tingginya 3/4 tinggi semula.Tentukan panjang lintasan yang dilalui bola sampai berhenti ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{b + a}{b - a} . 4 =  \\frac{4 + 3}{4 - 3} . 4 =  \\frac{7}{1} . 4 = 28 m[/tex]frac{4 + 3}{4 - 3} \u00d7 4\u00a0=[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-dua-sudut-yang-berkomplemen-adalah-474",
+            "question": "Besar dua sudut yang berkomplemen adalah ..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 kalo ngakkk salahhhh dehhh...",
+                    "attachments": []
+                },
+                {
+                    "answer": "audut komplemen adalah dua buah sudut lancip yg besarnya 90derajat",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

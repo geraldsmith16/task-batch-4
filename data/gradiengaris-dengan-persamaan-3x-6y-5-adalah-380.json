@@ -1,0 +1,146 @@
+{
+    "question": "Gradiengaris dengan persamaan 3x-6y=-5 adalah \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gradien (m) =-a/b=-3/-6=1/2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-dari-4x6lt7x-9-dengan-x-bilangan-bulat-a-582",
+            "question": "Himpunan penyelesaian dari\r\n4x+6&lt;7x-9 dengan x bilangan bulat adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x+6 &lt; 7x-9<br>4x+6-6 &lt; 7x-9-6<br>4x &lt; 7x-15<br>15 &lt; 7x -4x<br>15 &lt; 3x<br>5 &lt; x<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4x + 6 &lt; 7x - 9<br>=4x - 7x &lt; -9 - 6<br>= -3x &lt; -15<br>= x &gt; 5 :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-6-dan-7-dari-barisan-112358-sejalian-caranya-ya-965",
+            "question": "Suku ke 6 dan 7 dari barisan 1,1,2,3,5,8,...\r\nsejalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_1 = 1 \\\\ U_2 = 1 \\\\ U_n = U_{n-2} + U_{n-1} \\\\ U_6 = U_4 + U_5 = U_4 + U_3 + U_4 = 2U_4 + U_3 = 2U_2 + 3U_3 \\\\ = 5U_2 + 3U_1 = 5*1 + 3*1 = 8 \\\\ U_7 = U_5 + U_6 = U_3 + U_4 + 8 = 2U_3 + U_2 + 8 \\\\= 2U_1 + 3U_2 + 8 = 2*1 + 3*1 + 8 = 13[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : U1 / a=1<br>\u00a0\u00a0 \u00a0 \u00a0 U2 /b =2<br>dit: U6 dan U7?<br>jawab :<br>b= U2-U1= 2-1=1\u00a0 \u00a0 U7=1+(7-1)1<br>\u00a0U6= 1+(6-1)1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>\u00a0\u00a0 \u00a0 =6<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-ya-friends-jika-ta-merupakan-tabungan-awal-da-598",
+            "question": "Tolong bantu ya friends....\u00a0    Jika Ta merupakan tabungan awal, dan P merupakan persentase bunga tunggal per tahun, maka besar bunga tabungan selama 3 bulan adalah.....\r\n\r\nA. Ta x p%\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03\r\n\r\nB. Ta x p%\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04\r\n\r\nC. Ta x p% x 3\r\n\r\nD. Ta x \u00a0\u00a04 \u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 p%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ta x 3/12 p% = Ta x p%/4 (jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menentukan-menggunakan-pi-314-atau-227-dalam-me-172",
+            "question": "Bagaimana cara menentukan menggunakan\u00a0pi 3,14 atau 22/7 dalam menghitung keliling lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Cara menentukan nilai \u03c0 yang digunakan antara 3,14 dan \u00b2\u00b2/\u2087 dalam menghitung keliling lingkaran yaitu :</p><ul><li>Penggunaan nilai \u03c0 = \u00b2\u00b2/\u2087 digunakan saat menghitung panjang keliling lingkaran jika diketahui jari jari lingkaran kelipatan 7 (Contoh : 7, 14, 21, 28 dan seterusnya).</li><li>Penggunaan nilai \u03c0 = 3,14 digunakan saat menghitung panjang keliling lingkaran jika jari jari lingkaran bukan kelipatan dari 7.</li></ul><h2><strong>Pembahasan :</strong></h2><p>Nilai \u03c0 adalah lambang matematika yang digunakan saat materi perhitungan lingkaran. Nilai \u03c0 merupakan panjang keliling lingkaran yang diameternya 1 satuan (1 lingkaran penuh). Nilai \u03c0 dapat bernilai 3,14 atau \u00b2\u00b2/\u2087 bergantung dari penggunaan yang tepat. </p><h3>Berikut adalah contoh kapan \u03c0 = \u00b2\u00b2/\u2087 dan \u03c0 = 3,14 digunakan pada soal.</h3><p>1. Diketahui roda sepeda memiliki jari jari 21 cm. Maka keliling roda tersebut adalah ...</p><p>Jawab :</p><p>K = 2\u03c0r \u00a0</p><p>keterangan : \u00a0K = Keliling lingkaran (cm)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u03c0 = \u00b2\u00b2/\u2087 atau 3,14\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r = jari - jari lingkaran (cm)</p><p><em><u><strong>Maka perhitungannya :</strong></u></em></p><p>K = 2\u03c0r </p><p> \u00a0 \u00a0= 2 \u00d7 \u00b2\u00b2/\u2087 \u00d7 21 cm</p><p> \u00a0 \u00a0= 132 cm</p><p><strong><em>Soal diatas diketahui panjang jari jarinya adalah kelipatan dari 7 yaitu 21 cm. Maka nilai \u03c0 yang digunakan adalah \u00b2\u00b2/\u2087.</em></strong></p><p></p><p>2. Diketahui panjang jari jari lingkaran adalah 20 cm. Maka luas lingkaran tersebut adalah ...</p><p>Jawab :</p><p>L = \u03c0 \u00d7 r\u00b2 \u00a0</p><p>Keterangan: L = Luas Lingkaran (cm\u00b2)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u03c0 = 3,14 atau \u00b2\u00b2/\u2087 \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r = jari - jari dari lingkaran (cm)</p><p><em><u><strong>Maka perhitungannya :</strong></u></em></p><p>L = \u03c0 x r\u00b2\n</p><p> \u00a0 = 3,14 \u00d7 (20 cm)\u00b2\n</p><p> \u00a0 = 3,14 \u00d7 400 cm\u00b2\n</p><p> \u00a0 = 1.256 cm\u00b2</p><p><strong><em>Soal diatas diketahui panjang jari jarinya bukan kelipatan dari 7 yaitu 20 cm. Maka nilai \u03c0 yang digunakan adalah 3,14.</em></strong></p><h2>Pelajari lebih lanjut : \u00a0</h2><p>Materi tentang Luas dan keliling lingkaran https://brainly.co.id/tugas/18154443\n</p><p>Materi tentang keliling lingkaran https://brainly.co.id/tugas/20984696 \u00a0</p><p>Materi tentang jumlah putaran roda https://brainly.co.id/tugas/961753</p><p>Materi tentang Luas lingkaran https://brainly.co.id/tugas/26527534\n</p><p>Materi tentang keliling lingkaran https://brainly.co.id/tugas/26140571</p><h3>---------------------------------- \u00a0</h3><h2>Detail Jawaban : \u00a0</h2><p>Kelas : 8 \u00a0</p><p>Mapel : Matematika \u00a0</p><p>Bab : 7 \u00a0</p><p>Kode : 8.2.7 \u00a0</p><p><strong>#AyoBelajar</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-panjang-jari-jari-lingkaran-6cm-dan-panjang-diagonal-pe-564",
+            "question": "diketahui panjang jari jari lingkaran 6cm dan panjang diagonal persegi panjang OPQR 10cm maka panjang garis singgung PQ adalah",
+            "attachments": [
+                "question-attachments/diketahui-panjang-jari-jari-lingkaran-6cm-dan-panjang-diagonal-pe-564-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "B. 8 <br>Alasan: <br>\nPakai Rumus Phytagoras! \u221a10\u00b2-6\u00b2 (akar memanjang sampai 6\u00b2) <br>\u221a100-36=\u221a64\u21928 <br><br> Semoga Membantu^^. Jadikan yang terbaik eaa :v",
+                    "attachments": []
+                },
+                {
+                    "answer": "untuk mengetahui panjang garis singgung\u00a0PQ\u00a0pakai rumus phytagoras :<br><br>PQ=\u00a0\u221aPR\u00b2 - PO\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a10\u00b2 - 6\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a100 - 36<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a64<br>\u00a0 \u00a0 \u00a0= 8 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-sebuah-menara-air-40-meter-tinggi-menarantrsebut-pada-gamb-866",
+            "question": "tinggi sebuah menara air 40 meter tinggi menarantrsebut pada gambar adalah 5 cm skala gambar menara air tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40 : 5 = 8 jadi skalanya 8 meter per cm / 1:800<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tinggi pada gambar : tinggi sebenarnya<br>5 cm : 40x100 cm<br>5 cm : 4000 cm<br>1 : 800",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-membelah-diri-menjadi-dua-setiap-20-menit-jika-mula-mula-t-877",
+            "question": "amuba membelah diri menjadi dua setiap 20 menit. jika mula mula terdapat 15 amuba, maka selama 2 jam banyak amuba adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Materi Baris dan Deret</p><p>Kelas IX</p><p><br></p><p>2 jam = 120 menit</p><p>n = 120 :20</p><p>n = 6</p><p><br></p><p>Un = a.r^n</p><p>U6 = 15.2^6</p><p>U6 = 15.64</p><p>U6 = 960</p><p><br></p><p>Mohon maaf apabila ada kesalahan<br></p><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-persamaan-linear-satu-variabel-251",
+            "question": "Cara menyelesaikan persamaan linear satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menyelesaikan sistem persamaan linear satu variabel :<br>-\u00a0<span>kita harus menentukan nilai dari\u00a0</span>x<span>\u00a0sedemikian sehingga persamaan tersebut menjadi benar, yang berarti, nilai dari ruas kiri sama dengan ruas kanan.<br>-\u00a0</span>kita dapat menuliskan suatu persamaan yang diberikan ke dalam\u00a0persamaan ekuivalen<span>\u00a0yang lebih sederhana, sampai kita mendapatkan solusi yang diminta.\u00a0<br>-\u00a0</span><span>lalu diperoleh dari penyederhanaan kedua ruas persamaan dengan menggunakan sifat-sifat penjumlahan, perkalian, dan distributif dari suatu persamaan, sampai diperoleh suatu persamaan dalam bentuk\u00a0</span>x<span>\u00a0= konstanta.<br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span><strong><em><br>Metode Grafik<br>1</em></strong>.Menggunakan Metode Grafik<span>\u00a0<span>Pada metode grafik, himpunan penyelesaian dari sistem persamaan linear\u00a0dua variabel</span><span>adalah koordinat titik potong kedua garis\u00a0tersebut. Jika garis-garisnya tidak</span><span>berpotongan di satu titik tertentu\u00a0maka himpunan penyelesaiannya adalah himpunan</span>kosong.\u00a0Contoh Soal :Dengan menggunakan metode grafik, tentukan himpunan penyelesaian sistem<span>pers<span>ama<span>an li<span>nea<span>r dua v<span>ari<span>abe<span>l x + y = 3 da<span>n x \u2013 y = 2 un<span>tuk x<span>, y\u00a0R</span></span></span></span></span></span></span></span></span></span></span>\u00a0</span>Kesimpulan :\u00a0<br><br>Metode Substitusi<br><strong><em>2</em></strong><strong><em></em></strong>. Menggunakan Metode SubstitusiPada metode subtitusi, himpunan penyelesaian dari sistem persamaan linear dua</span><span></span></span><span>\u00a0<span>variabel adalah dengan cara menyatakan salah satu variabel dalam bentuk variabel<span>yang lain kemudian nilai variabel tersebut menggantikan variabel\u00a0yang sama dalam</span>persamaan yang lain.Contoh Soal :<span>Dengan menggunakan metode subtitusi , tentukan himpunan penyelesaian sistem</span>persamaan linear dua variabel x + y = 12 dan 2x + 3y = 31.<br></span><br><br>Metode Eliminasi<br><strong><em>3</em></strong>. Menggunakan Metode Eliminasi<span>Pada metode eliminasi, himpunan penyelesaian dari sistem persamaan linear duavariabel adalah dengan cara menghilangkan (mengeliminasi) salah satu variabel dari<span>sistem persamaan tersebut. Misalkan variabelnya adalah x dan y, untuk\u00a0menentukan</span><span>variabel x harus mengeliminasi variabel y terlebih\u00a0dahulu, atau sebaliknya. Dengan</span>kata lain metode eliminasi adalah menghilangkan salah satu variabel untuk dapat<span>menentukan nilai variabel yang lain, oleh karena itu\u00a0koefisien salah satu variabel yang</span>akan dihilangkan haruslah sama atau dibuat sama.Contoh Soal :Dengan menggunakan metode eliminasi, tentukan himpunan penyelesaian sistempersamaan linear dua variabel 3x + 3y = 3 dan 2x - 4y = 14.<br></span><br>Metode Kombinasi<br><strong><em>4</em></strong>. Menggunakan Metode Kombinasi (Eliminasi &amp; Subtitusi)<span>Pada metode kombinasi (eliminasi &amp; subtitusi), himpunan penyelesaian dari sistempersamaan linear dua variabel adalah dengan cara mengeliminasi salah satu variabeldari sistem persamaan tersebut. Kemudian hasil dari eliminasi tersebut disubtitusikanke salah satu persamaan.Contoh Soal :Dengan menggunakan metode kombinasi, tentukan himpunan penyelesaian sistem<span>persamaan linear dua variabel 2x + 3y = 6 dan x - y = 3</span></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553",
+            "question": "Gambarkan sudut 175 derajat, 215 derajat , 310 derajat \r\ntolong di jawab ya...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu ada lingkaran sudut, cara kerjanya sama seperti penggaris busur.<br>",
+                    "attachments": [
+                        "answer-attachments/gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-celana-panjang-dan-5-kemeja-rp-41000000sedangkan-harg-765",
+            "question": "harga 2 celana panjang dan 5 kemeja Rp. 410.000,00,sedangkan harga 3 celana panjang dan 2 kemeja Rp 340.000,00.harga sebuah celana panjang dan 2 kemeja adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2cp + 5k = 410.000 | x3| 6cp+15k = 1.230.000<br>3cp + 2k = 340.000 | x2| 6cp+4k\u00a0 =\u00a0 \u00a0 680.000 _<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11k = 550.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k = 50.000<br><br>2cp + 5k = 410.000<br>2cp + 5x50.000 = 410.000<br>2cp + 250.000 = 410.000<br>2cp = 410.000-250.000<br>2cp = 160.000<br>cp = 80.000<br><br>1cp + 2k = <br>1x80.000 + 2x50.000 <br>80.000 + 100.000 = 180.000<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

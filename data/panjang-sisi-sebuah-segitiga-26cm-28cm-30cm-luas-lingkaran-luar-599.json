@@ -1,0 +1,150 @@
+{
+    "question": "Panjang sisi sebuah segitiga 26cm 28cm 30cm .luas lingkaran luar segitiga \\pi = 3,14 adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "s = 1/2 K<br>s = 1/2(26 + 28 + 30) = 42<br><br>Luas segitiga = [text]sqrt{s(s-a)(s-b)(s-c)}[/text]<br>luas segitiga = [text]sqrt{42(42-26)(42-28)(42-30)}[/text]<br>luas segitiga = [text]sqrt{42(16)(14)(12)}[/text]<br>luas segitiga = [text]sqrt(112896)[/text]<br>luas = 336<br><br>r = (a.b.c)/4 x L<br>selanjutnya sendiri gan...ganbate..<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kelas-terdiri-dari-40-siswa-di-antaranya-18-siswa-suka-ip-810",
+            "question": "Sebuah kelas terdiri dari 40 siswa, di antaranya 18 siswa suka ipa, 23 suka ips, 8 siswa suka kedua-duanya dan x siswa yg tidak suka keduanya,tentukan;    a. nilai x\r\n\r\n#mohon bantuannya yah sebelumnya makasih banyak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(40 - 10 -\u00a08 - 15 )=\u00a07 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "jumlah = 40<br>yang suka ipa=18<br>yang suka ips = 23<br>yang suka ipa dan ips =8<br>yang hanya suka ipa = 18-8 =10<br>yang hanya suka ips = 23-8 =15<br>yang tidak suka keduanya = 40 - (8+10+15)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 40 - 33<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-yg-berputar-sebanyak-25-kali-dapat-menempuh-jarak-22-131",
+            "question": "sebuah roda yg berputar sebanyak 25 kali dapat menempuh jarak 22 m. jika \u03c0= 22/7, maka luas permukaan roda itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2200cm/25 (mau nyari 1puteran[1keliling])<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 88<br>keliling= d x\u00a0\u03c0<br>88 = d x 22/7<br>28 = d<br>jadi r nya itu 14<br>--<br>L =\u00a0\u03c0 x r\u00b2<br>L = 22/7 x 14 x 14<br>L = 616 cm\u00b2<br>aku harap ini membantu^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-kelilingnya-22-cm-diameter-lingkaran-adalah-994",
+            "question": "Sebuah lingkaran kelilingnya 22 cm. diameter lingkaran adalah ... cm\u00a0\r\nini rumus nya gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c0 x d = 22<br>22/7 x d = 22<br>d = 22 x 7/22<br>d = 7",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling adalah\u00a0phi dikali diameter -&gt; phi. D = keliling<br>Jadi, cara mencari diameter adalah dengan keliling dibagi phi -&gt; D= keliling : phi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-limas-segiempat-beraturan-t-abcd-berikutjika-panjang-rusuk-802",
+            "question": "pada limas segiempat beraturan T ABCD berikut,jika panjang rusuk alasnya 6cm, sedangkan tinggi limas adalah 4 cm.hitunglah luas permukaan limas tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=6<br>t limas=4<br>lp=?<br>t selimut=akar 3kuadrat +4kuadra<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar 9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar 25=5<br>LP=luas alas+luas selimut(4Lsegitiga)<br>\u00a0 \u00a0 =6x6 + 1/2x4x6x5<br>\u00a0 \u00a0 \u00a0=36 + 2x6x5<br>\u00a0 \u00a0 \u00a0 =36 +60<br>\u00a0 \u00a0 \u00a0=96 cm persegi",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permk. limas = 2 x Luas alas + (keliling alas . T prisma )<br>= 2 x (4x4) + ( 4x6)\u00a0 . 4<br>=2x 16 + 24.4<br>=128<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lapangan-berbentuk-lingkaran-110-meterjari2-lap-636",
+            "question": "Keliling sebuah lapangan berbentuk lingkaran 110 meter.jari2 lap. tersebut adalah.. ?? m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2\u00d7\u03c0\u00d7r<br>110 = 2\u00d722/7\u00d7r<br>110 = 44r/7<br>r = 770/44<br>r = 17,5 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L =\u00a0\u03c02r<br>110 = 22/7 X 2r<br>110 X 7 = 22 X 2r<br>770 = 44r<br>r\u00a0= 770/44<br>r =17,5 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-menyelesaikan-suatu-pekerjaan-selama-72-hari-diperlukan-pe-629",
+            "question": "untuk menyelesaikan suatu pekerjaan selama 72 hari, diperlukan pekerja 24 orang. setelah dikerjakan 30 hari pekerja di tambah 12 orang. dengan tambahan pekerja tersebut, pekerjaan lebih cepat selesai..........hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : 24 orang = 72 hari<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 72 : 24 = 3 , jadi 1 orang setara dengan 3 hari<br><br>setelah 30 hari , pekerja ditambah 12 orang. Berapa hari lebih cepat ?<br><br>72 - 30 = 42 hari lagi ( waktu normal jika tidak ditambah )<br><br>misal hari baru = Y<br>42 x 24 = 36 Y<br>Y = [tex] \\frac{42 x 24}{36} [/tex]<br>Y = 28 hari<br><br>Jadi pekerjaan lebih cepat selesai 42 hari - 28 hari = 14 hari <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-aritmatika-sosial-165",
+            "question": "Contoh soal Aritmatika sosial",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ibu menjual tas merk furla dengan harga rp650000 . jika membeli 10 ibu menjual 7500000... ibu rugi berapa ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Sebuah Komputer bekas diperbaiki dengan harga 200.000 untuk dijual dengan harga 1.200.000,00 Maka mendapatkan keuntungan 20%. Harga Beli awal ?<br><br>Jawab : <br>HB = Modal - Biaya perbaikan\u00a0<br>=[tex] \\frac{100}{120} [/tex]% x 1.200.000 - 200.000<br>=[tex] \\frac{5}{6} [/tex] x 1.200.000 - 200.000<br>=1.000.000 - 200.000<br>=800.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-lingkaran-abcd-besar-sudut-ltaob30-derajat-ltco-786",
+            "question": "pada sebuah lingkaran ABCD besar sudut &lt;AOB=30 derajat, &lt;COD=78 derajat, dan panjang busur AB= 15cm panjang busur CD adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "78/30 X 15 cm =78/2 = 39 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704",
+            "question": "Pada suatu lingkaran dengan pusat O diketahui titik A,B,C dan D pada keliling lingkaran , sehingga sudut AOB = 35\u00b0 dan sudut COD 140\u00b0 . Jika panjang busur AB = 14 cm , hitunglah panjang busur CD .",
+            "attachments": [
+                "question-attachments/pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Besar &lt;AOB /Besar &lt;COD =Panjang busur AB / Panjang busur CD<br>35/140 = 14/ panjang busur CD<br>\u00a0\u00a0 \u00a0 \u00a0 (dikali silang)<br>35*panjang busur CD = 140*14<br>35*panjang busur CD =1960<br>\u00a0\u00a0 \u00a0 panjang busur CD =1960/35<br>\u00a0\u00a0 \u00a0 panjang busur CD =56\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469",
+            "question": "Diketahui:    S={bilangan asli kurang dari 15 }\r\nA={bilangan asli genap yang kurang dari 10}\r\nB={bilangan asli ganjil antara 1 dan 11}\r\nC={bilagan prima yang kurang dari 10}\r\nD={faktor dari 12 }\r\nnyatakan himpunan himpunan di atas dengan mendaftar anggotanya ! kemudian buatlah diagram venn untuk masing masing himpunan berikut dengan S sebagai himpunan semestanya!\r\na.S,A,DAN\u00a0B \u00a0 \u00a0 \u00a0d.S,B DAN C\r\nb.S,A DAN C \u00a0 \u00a0 \u00a0e.S,B,DAN D\r\nC.S,A DAN D \u00a0 \u00a0 \u00a0f.S,C DAN D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk anggota dari masing2 himpunannya adalah sebagai berikut<br>S={1,2,3,4,5,6,7,8,9,10,11,12,13,14 }<br>A={2,4,6,8}<br>B={3,5,7,9}<br>C={2,3,5,7}<br><span>D={1,2,3,4,6,12}<br><br>untuk diagram venn nya coba lihat gambarnya d google aja<br>diagram venn merupakan gambar diagram menggunakan lingkaran untuk masing2 himpunan,<br>jadi misalkan seperti soal A,ditanyakan adalah S, A dan B<br>karena S merupakan himpunana semstanya , maka S merupakan lingkaran terbesar<br>kemudian di dalamnya di gambar lingkaran A dan B , namun tidak bersinggungan , dikarenakan tidak memiliki anggota dengan nilai yg sama<br>dan di tiap lingkaran dituliskan masing2 anggotanya , untuk S anggota yg sdah berada di dalam A dan B , tidak ditulis kembali, dan yg belum ada di lingkaran A dan B, ditulis di luar lingkaran A dan B, namun tetap berada di dalam lingkaran S<br>untuk contoh soal a nya ada pada lampiran\u00a0<br>yg B dan seterusnya kayaknya bisa menyesuaikan :)</span>",
+                    "attachments": [
+                        "answer-attachments/diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "S= {1,2,3,4,5,6,7,8,9,10,11,12,13,14}\nA= {2,4,6,8}\nB= { 3,5,7,9}\nC= {2,3,5,7}\nD= {1,2,3,4,6,12}",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

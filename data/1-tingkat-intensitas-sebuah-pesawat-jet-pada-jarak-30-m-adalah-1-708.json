@@ -1,0 +1,140 @@
+{
+    "question": "1. Tingkat intensitas sebuah pesawat jet pada jarak 30 m adalah 140 1.\u00a0Tingkat\r\n intensitas sebuah pesawat jet pada jarak 30 m adalah 140 dB. Berapakah tingkat\r\n intensitasnya pada jarak 300 m?\r\n2.\u00a0Cepat rambat gelombang\r\n seismik pada pada lapisan batuan tertentu adalah2000 m/s. Untuk mengetahui ketebalan lapisan tersebut dinamit diledakkan di\r\n suatu titik di bagian atas lapisan tersebut kemudian sinyal pantul ditangkap di\r\n titik yang lain. Jika jarak antara titik peledakan dan titik tempat sinyal\r\n ditangkap adalah 400 m dan selangwaktu antara peledakan dinamit dan penangkapan\r\n sinyal adalah 0,25 s, tentukan ketebalan lapisan batuan tersebut.\r\n3.\u00a0Sebuah\r\n mobil polisi membunyikan sirene dengan frekuensi fO. Kelajuan\r\n bunyi di udara diam adalah vo, sehingga panjang\r\n gelombangnya jika tidak ada gerak adalah \u03bbo. Jika mobil polisi\r\n tersebut diam sedangkan pengamat bergerak terhadap pengamat besaran apa saja\r\n yang berubah dan apa yang tetap? Jelaskan! Jika mobil polisi yang bergerak\r\n terhadap pengamat sedangkan pengamat diam, besaran apa saja yang berubah dan\r\n apa saja yang tetap? Jelaskan!\r\n4.\u00a0Jika\r\n dia mengayuh papan selancarnya sehingga bergerak dengan kecepatan 2 m/s searah\r\n dengan gelombang laut dia merasakan gelombang laut melaluinya setiap\r\n\r\n12 sekon. Tentukan frekuensi, panjang gelombang dan\r\n kecepatan gelombang laut tersebut!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "nomer 1 keanya 120 dB<br>TIb = TIa + 10 log n ( r1/r2 )^2<br>TIb = 140 + 10 log ( 30/300 )^2<br>TIb = 140 + 10 (-2)<br>TIb = 120 dB<br><br>kalo nomer 4 keanya <br>untuk melakukan 1 gelombang dibutuhkan waktu 12s<br>berarti f = 1/12 = 0,083<br>panjang gelombang berarti 2m/s . 12 = 24 m<br>v = lamda . f = 24 . 0,083 = 1,992 m/s <br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-ketika-di-udara-beratnya-800-n-kemudian-balok-terse-143",
+            "question": "sebuah balok ketika di udara, beratnya 800 N kemudian balok tersebut di celubkan dalam zat cair ternyata beratnya menjadi 400 N . hitunglah massa jenis zat jikavolume benda 2000 m\u00b3. dan percepatan gravitasi 10 m/s\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fa = W&#039; - W<br>\u00a0 \u00a0 \u00a0= 800 - 400<br>\u00a0 \u00a0 \u00a0= 400 N<br><br>Fa = p g v<br>400 = p . 10. 2000<br><br>p = 400 : 20 000<br>\u00a0 \u00a0= 0,002 kg/m^3<br>\u00a0 \u00a0= 2 x 10^-3 kg/m^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pemanfaatan-titik-berat-dan-titik-masa-salam-kehidupan-sehari-270",
+            "question": "Apa pemanfaatan titik berat dan titik masa salam kehidupan sehari-sehari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat titik berat dalam kehidupan sehari hari yaitu untuk menentukan titik berat suatu benda atau susunan benda contoh pada bangunan rumah , jalan, buku atau gabungan dua bangun atau lebih agar bangunan tersebut seimbang dan tidak mudah roboh.",
+                    "attachments": []
+                },
+                {
+                    "answer": "titik berat itu penting, pembangunan sebuah kontruksi apapun memerlukan titik keseimbangan, kendaraan bermotor pun perlu, agar kendaraan dapat stabil saat dikemudikan\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ketika-diam-di-bumi-mempunyai-panjang-100-m-roket-t-310",
+            "question": "sebuah roket ketika diam di bumi mempunyai panjang 100 m. roket tersebut bergerak dengan kecepatan 0,8 c ( c = kecepatan cahaya dalam vakum). menurut orang dibumi panjang roket tersebut selama bergerak adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dicari kan L aksen maka menggunakan rumus\nL aksen = Lo \u221a1-(v/c)^2 \n= 100 \u221a1-0.8c^2/c^2 \n=100 \u221a1-0.64c^2 / c^2\nkemudian c^2 di coret menjadi\n=100\u221a0.36\n=100 . 0.6\n= 60 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bejana-berhubungan-memiliki-luas-penampang-15-cm2-dan-500-cm2-ji-112",
+            "question": "Bejana berhubungan memiliki luas penampang 15    cm2 dan 500 cm2. Jika pada penampang kecil ditekan\r\ndengan gaya 10 N maka berapakah massa beban yang\r\ndapat diangkat pada penampang besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus dari bejana berhubungan bila diketahui luas penampang nya adalah\u00a0<br><br>[tex]P = \\frac{F}{A} [/tex]<br><br>P = tekanan\u00a0<br>F = Gaya<br>A = luas penampang\u00a0<br><br>Konsep dari bejana berhubungan adalah memiliki tekanan hidrostatis yang sama.<br><br>p1 = p2\u00a0<br>p1 =\u00a0[tex] \\frac{10}{15} = 0.6[/tex]<br><br>Maka gaya pada F2 adalah<br>p2 = F2 / A2\u00a0<br><br>0.6 = F2 / 500\u00a0<br>F2 = 0.6 * 500\u00a0<br>F2 = 300\u00a0<br><br>F2 = m.g\u00a0<br>300 = m.10<br>m = 30\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "P1 = P2\u00a0<br>udah bandingkan aja dua duanya dapet deh :D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-laju-radiasi-energi-yang-dipancarkanoleh-bola-berjari-ja-251",
+            "question": "Besarnya laju radiasi energi yang dipancarkanoleh bola berjari jari 2 cm pada suhu 2000 K dengan emisivitas 0,1 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>Keterangan</u><span>\u00a0:</span><br>P = daya radiasi (laju radiasi) (watt = joule/s)<br><span>e = emisivitas benda\u00a0</span><br>e = 1 \u2192 benda hitam sempurna<br>A = luas permukaan benda (m2)<br>T = suhu (Kelvin)<br>\u03c3 = Konstanta Stefan-Boltzman = 5,67 x 10\u22128<span>\u00a0W/mK</span>4<span>\u00a0<br><br>luas bola = </span>\u03c0r^2 = 0,02^2 .\u03c0\u00a0= 4x10^-4\u03c0<span><br><br>P = eQT4A<br>P = 0,1 . 5,67 x 10^-8. (2000)^4.4x10^-4</span>\u03c0<br>\u00a0\u00a0 = \u00a04 536x10^-8\u03c0<br>\u00a0 \u00a0= 4,536x10^-5\u00a0\u03c0 j/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-bisa-menjelaskan-sifat-sifat-rangkaian-rlc-siapa-316",
+            "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-jatuh-bebas-dari-ketinggian-20-m-jika-percepatan-681",
+            "question": "sebuah benda jatuh bebas dari ketinggian\u00a020\u00a0m. jika percepatan grafitasi bumi 10\u00a0m/s2, maka kecepatan benda \u00a0pada saat berada 15 m di atas tanah adalah .....(caranya)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik ho = 20 m<br>\u00a0 \u00a0 \u00a0 h1 = 15 m<br>\u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s<br>Dit V ?<br>jawab<br>rumus V =\u00a0\u221a2 g\u00a0\u0394h<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u221a2.10\u00a0(20-15)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u221a100 = 10 m/s^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Vt2 = Vo2 + 2aS<br> Vt2 = (0) + 2 aS<br> Vt = \u221a(2aS) = \u221a[(2)(10)(20-15)] = 10 m/s</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747",
+            "question": "Tentukan besar dan arah dari resultan vektor F\u2081, F\u2082, dan F\u2083 yg diperlihatkan pada gambar di bawah ini.\u00a0(sin 53\u00b0 = 0.8 dan sin 37\u00b0 = 0.6)",
+            "attachments": [
+                "question-attachments/tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "=-F1.sin53+F2.sin37+F3<br>=-2.0,8+4.0,6+5<br>=-1,6+2,4+5<br>=5,8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-astronot-yang-bermassa-96-kg-di-bumi-berada-dalam-sebuah-452",
+            "question": "seorang astronot yang bermassa 96 kg di bumi berada dalam sebuah roket yang bergerak dengan kecepatan 0,8 c. Maka massa astronaut tersebut ketika berada dalam roket adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa dimana-mana tidak berubah / nilainya\u00a0tetap",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

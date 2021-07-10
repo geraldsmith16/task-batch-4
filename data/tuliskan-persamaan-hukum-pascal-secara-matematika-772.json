@@ -1,0 +1,154 @@
+{
+    "question": "Tuliskan persamaan hukum pascal secara matematika",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dalam soal apa dimatematikanya?<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Secara matematis hukum pascal dituliskan sebagai berikut<br><br>F1 = D1\u00f7D2 \u00d7\u00a0F2<br>KET :<br>F1 = gaya pada permukaan A (N)<br>F2= gaya pada permukaan B (N)<br>A1 = Luas permukaan A (m\u00b2)<br>A2 = luas permukaan B (m\u00b2)<br><span>D1 = diameter permukaan A (m)</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-gaya-sebesar-30-n-digunakan-untuk-memindahkan-benda-sejauh-792",
+            "question": "sebuah gaya sebesar 30 N digunakan untuk memindahkan benda sejauh 1m dalam waktu 0,5 menit. hitunglah dayanya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "w= 30N<br>s=1m<br>t=30s ( 0,5 menit )<br>p= ??? (daya)<br>p=w<u></u>/t = fxs/t = 30N x 1m / 30s = 1 Joule/s<br>jadi,dayanya adalah 1 Joule/sekon.",
+                    "attachments": []
+                },
+                {
+                    "answer": "p = w/t<br>watt = joule/ sekon",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-kegiatan-menarikmendorong-meja-di-lantai-dalam-kelas-leb-790",
+            "question": "Mengapa kegiatan menarik/mendorong meja di lantai dalam kelas lebih mudah daripada menarik/mendorongnya di atas tanah di halaman sekolah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena lantai lebih licin daripada tanah di halaman sekolah, maka gaya gesek yang ditimbulkannya menjadi lebih kecil. Karena arah gaya gesek selalu berlawanan dengan arah gerak benda, maka sebenarnya semakin besar gaya gesek hanya mempersulit mendorong atau menarik suatu objek/benda.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Gaya gesek akan terjadi apabila dua buah\u00a0benda saling bersentuhan dan bergerak berlawanan arah, relatif satu dengan yang lain.Gaya gesek\u00a0yang melawan atau menahan gaya tarik/dorong berbeda-beda besarnya. Besar gaya gesek\u00a0tergantung pada keadaan permukaan benda yang saling bersentuhan. Pada permukaan yang licin seperti di\u00a0lantai\u00a0besar gaya gesekan lebih kecil daripada gaya gesek yang terjadi pada permukaan yang kasar seperti permukaan tanah. Jadi\u00a0<span>semakin besar gaya gesek hanya mempersulit mendorong atau menarik suatu objek/benda.</span><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-2000-kg-bergerak-dengan-kecepatan-16msjik-746",
+            "question": "sebuah mobil bermassa 2000 kg bergerak dengan kecepatan 16m/s.jika mobil tersebut di rem dengan gaya 8000N,jarak yang ditempuh mobil mulai direm sampai berhenti adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a\u21d2a=perlambatan<br>8000=2000*a<br>a=4m/s^2<br><br>t= (v\u2081-v\u2080)/a<br>t=(16-0)/4<br>=4s<br><br>s=v\u2080*t-1/2*a*t^2<br>=16*4-1/2*4*4^2<br>=64-32<br>=32m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "aluminium-bermassa-2-kg-dengan-suhu-20c-menerima-kalor-sebesar-627",
+            "question": "Aluminium bermassa 2 kg dengan suhu 20\u00b0C menerima kalor sebesar 180 kJ.Jika kalor jenis aluminium = 900 J/kg\u00b0C,suhu akhir aluminium adalah ........\u00b0C",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><em><strong>Mapel : IPA Fisika\u00a0<br></strong></em></u><u><em><strong>Kelas : 8 SMP/VIII SMP<br></strong></em></u><u><em><strong>Bab : Kalor dan Suhu\u00a0<br></strong></em></u><u><em><strong>Tentang : Kalor Jenis\u00a0<br></strong></em></u><br><u><em><strong>Pembahasan Soal :<br></strong></em></u>Aluminium bermassa 2 kg dengan suhu 20\u00b0C menerima kalor sebesar 180 kilo joule.Jika kalor jenis aluminium\uff1d900 J/Kg \u00b0C,maka suhu akhir aluminium adalah....<br><br><u><em><strong>Pembahasan Jawaban :<br></strong></em></u><u><em><strong>DiKetahui :<br></strong></em></u>m = 2 kg\u00a0<br>T(awal) = 20\u00b0C\u00a0<br>Q = 180 kJ ( 180.000 J )<br>C = 900 J/kg\u00b0C\u00a0<br><br><u><em><strong>DiTanya :<br></strong></em></u>T(akhir) =....?<br><br><u><em><strong>DiJawab :<br></strong></em></u>Rumus mencari T(akhir)<br>Yaitu :<br>Q = m x C x \u0394T<br>Q = m x C x [ T(awal) - T(akhir) ]\u00a0<br>180.000 J = 2 kg x 900 J/kg\u00b0C [ 20\u00b0C - T(akhir) ]\u00a0<br>180.000 J = 1.800 [ 20\u00b0C - T(akhir)\u00a0<br>20\u00b0C - T(akhir) = 180.000 : 1.800\u00a0<br>20\u00b0C - T(akhir) = 100\u00a0<br>T(akhir) = 100 + 20\u00b0C\u00a0<br>T(akhir) = 120\u00b0C\u00a0<br><u><em><strong>Jadi, Suhu Akhirnya adalah 120\u00b0C.\u00a0<br></strong></em></u><br><u><em><strong>Keterangan :<br></strong></em></u>Q = Kalor benda ( Joule )<br>m = Massa benda ( kg )<br>C = Kalor jenis benda ( J/kg\u00b0C )<br>T(awal) = Suhu awal ( \u00b0C )<br>T(akhir) = Suhu Akhir ( \u00b0C )<br><br><u><em><strong>&#039;&#039; Tiada Perjuangan tanpa ada Perjuangan &#039;&#039;<br></strong></em></u><br>#LearnWithBrainly<br>#PejuangUNBK2018<br>#BrainlyMengedukasi<br><br>Semoga Membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-musim-kemaraupohon-jati-melakukan-adaptasi-tingkah-laku-den-208",
+            "question": "Pada musim kemarau,pohon jati melakukan adaptasi tingkah laku dengan cra menggurkan daunnya yang bertujuan untuk ...    A.Memunculkan bunga \r\nB.Menyimpan air\r\nC.Mengurangi uapan\r\nD.Berkembangbiak \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah C.mengurangi penguapan<br><br>SEMOGA MEMBANTU<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "mengurangi penguapan, jadi pohon tidak mati kehabisan cairan di musim kemarau yang panas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pinset-kunci-pas-penjepit-kertas-termasuk-tuas-golongan-458",
+            "question": "Pinset kunci pas penjepit kertas termasuk tuas golongan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pinset = golongan ke 3<br>kunci pas = golongan 1<br>penjepit kertas = golongan 1<br>^^<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-kita-harus-bernafas-lebih-dalam-ketika-sedang-berolahraga-203",
+            "question": "mengapa kita harus bernafas lebih dalam ketika sedang berolahraga daripada ketika sedang beristirahat???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ketika berolahraga , kadar karbondioksida yg terbuang lebih tinggi dibandingkan saat beristirahat, dan paru-paru membutuhkan oksigen lebih banyak , <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena saat kita berolahraga, kita membutuhkan nafas dengan jumlah yang banyak.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-contoh-perpindahan-kalor-500",
+            "question": "Contoh contoh perpindahan kalor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. Konduksi adalah perpindahan kalor yang tidak diikuti partikel-partikel mediumnya.  <br>\n- Kemampuan konduktor menghantarkan kalor berbeda-beda sesuai dengan jenisnya. <br>\n- Konduktor adalah zat yang mudah menghantarkan kalor. <br>\n  Contoh konduktor : tembaga, aluminium, besi, silikon, seng, dll. <br>\n- Isolator adalah zat yang sulit menghantarkan kalor.  <br>\n  Contoh isolator : gelas, kayu, wol, plastik, karet, kertas, dll. <br>\n- Solder dan setrika alat yang memanfaatkan perpindahan kalor secara konduksi.  <br><br>\nB. Konveksi adalah perpindahan kalor yang diikuti perpindahan partikel-partikel zatnya.  <br>\n- Konveksi terjadi pada zat cair dan gas.  <br>\n- Contoh konveksi pada zat cair : terjadinya arus laut dan air yang sedang di masak.  <br>\n- Contoh konveksi pada udara/gas : terjadinya angin darat dan angin \nlaut, adanya cerobong asap       pabrik dan adanya sirkulasi udara pada \nruang kamar di rumah.  <br><br>\nC. Radiasi adalah perpindahan kalor secara langsung tanpa medium/zat perantara.  <br>\n- Contoh radiasi : cahaya dari api unggun,cahaya matahari sampai ke bumi\n melalui ruang hampa, warna hitam kusam penyerap atau pemancar kalor \nyang baik.  <br><br>SEMOGA MEMBANTU<br>JADIKAN TERBAIK YA<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "KONDUKSI, perpindahan kalor scr langsung dari sumber kalor (api) pada benda, contoh besi dibakar. KONVEKSI, perpindahan kalor scr tidak langsung (membutuhkan media) dari sumber kalor, contoh air yang mendidih akibat terkena panci yang panas terkena api. RADIASI, perpindahan kalor tanpa media, seperti panas matahari sampai ke bumi.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-sebesar-10n-dilambangkan-anak-panah-sepanjang-4cm-resultan-121",
+            "question": "gaya sebesar 10n dilambangkan anak panah sepanjang 4cm. resultan dari 5n\u00a0+ 25n - 15n akan mempunyai panjang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10n = 4cm<br>1n = 4/10<br>1n = 0,4<br><br>5n+25n-15n= 5(0,4) + 25(0,4) - 15(0,4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2 + 10 - 6 = 6cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5n+25n-15n = 15n<br>karena 10n melambangkan 4cm, maka 15n berarti =&gt;\u00a0[tex] \\frac{15}{10} [/tex] x 4 = 6 cm<br>jadi resultan gaya tersebut akan memiliki panjang 6 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nama-latin-dari-tanaman-pepaya-483",
+            "question": "Nama latin dari tanaman pepaya??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>nama latinnya pepaya =\u00a0Caricae Fructus</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caricae Fructus.......<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

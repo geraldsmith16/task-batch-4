@@ -1,0 +1,132 @@
+{
+    "question": "sebuah\u00a0roket ditembakan vertikal\u00a0ke atas\u00a0mencapai tinggi h meter setelah t detik dirumuskan dengan h(t)=\u00a0400t-5t\u00b2 tinggi maximum roket adalah ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Untuk mencari nilai tinggi maximum nya, yaitu dengan mencari nilai t pada\u00a0turunan pertamanya<br>h(t) = 400t-5t<span>\u00b2<br>h(t) = 400 - 10t<br><br>0 = 400 - 10t // pindah ruas<br>10t = 400<br>t = 400/10 = 40 \u00a0&lt;-- maka tinggi maksimu terjadi saat t=40<br><br>dan nilai ketinggian maksimunya adalah<br>h(t) = 400t - 5t</span><span>\u00b2<br>h(t) = 400 (40) - 5 (40</span><span>\u00b2)<br></span><span>\u00a0 \u00a0 \u00a0\u00a0= 16000 - 8000 = 8000 meter<br><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-yang-akar-akarnya-27-dan-1-adalah-caranya-y-165",
+            "question": "Persamaan kuadrat yang akar akarnya 2/7 dan -1 adalah ? caranya yah guys",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x-2/7)(x+1)=0<br>\u00a0x^{2}+5/7x-2/7 =0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agak ragu deh....<br><br>x1 = 2/7 \u21d2 (7x - 2) = 0<br>x2 = -1 \u21d2 (x +1) = 0<br>jadi,<br>(7x - 2)(x + 1) = 0<br>7x^{2} +5x-2 = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-setiap-bentuk-berikut-cos-90-a-sin-90-a-202",
+            "question": "Sederhanakan setiap bentuk berikut\r\ncos (90\u00b0-\u03b1\u00b0)\r\nsin (90\u00b0-\u03b1\u00b0)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos (90 - a) = cos 90 cos a + sin 90 sin a \n=&gt; 0.cos a + 1.sin a = sin a\nsin (90 - a) =  sin 90 cos a - cos 90 sin a \n=&gt; 1.cos a - 0.sin a = cos a\n\ncos (90 - a)\n----------------\nsin (90 - a)\n\nsin a\n-----------\ncos a\n\ntan a",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-bilangan-asli-antara-1-sampai-100-yang-habis-diba-957",
+            "question": "Tentukan jumlah bilangan asli antara 1 sampai 100 yang habis dibagi 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bolangan kelipatan 3 antara 1- 100 <br>a = bilangan yang bisa di bagi 3 yang lebih besar dari pada 1<br>\u00a0\u00a0 = 3 <br>b = selisih bilangan <br>\u00a0\u00a0 = 3<br>Un = bilangan yang mendekati 100 dan dapat di bagi 3 <br>\u00a0\u00a0 \u00a0  = 99<br>Un = a + (n-1) b <br>99\u00a0 = 3 + (n-1) 3<br>99\u00a0 = 3 + 3n - 3<br>99\u00a0 = 3n<br>99/3 = n <br>\u00a0 33\u00a0 =<strong> n </strong><br><strong>jumlah bilnagan kelipatannya adalah</strong> <br>sn = n/2 (a +un)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 3+99)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 102)<br>\u00a0\u00a0 \u00a0  = 33 x 51<br>\u00a0 \u00a0\u00a0 = 1683 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-4-buah-peti-telur-dengan-harga-rp543200-476",
+            "question": "Seorang pedagang membeli 4 buah peti telur dengan harga Rp543.200,00. Setiap peti memiliki bruto 25 kg dan tara 3 % . Jika pedagang menghendaki untung 25 %, maka harga jual telur per kg nya adalah ..    a. Rp4.200,00\r\nb. Rp5.600,00\r\nc. Rp6.790,00\r\nd. Rp7.000,00",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bruto: 25x4=100kg<br>Tara: 3/100 x 100= 3 kg<br>Neto: 100kg-3 kg = 97 kg.<br>Harga pembelian per kg nya: 543.200 : 97= 5600<br>Untung= 25/100 x 5600= 1400<br>Jadi harga jualnya 5600+1400= Rp 7.000,00<br>Kalau ada yang kurang paham bisa ditanyakan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

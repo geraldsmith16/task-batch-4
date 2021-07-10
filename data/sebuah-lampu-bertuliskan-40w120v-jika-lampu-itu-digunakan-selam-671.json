@@ -1,0 +1,152 @@
+{
+    "question": "Sebuah lampu bertuliskan 40w/120v. Jika lampu itu digunakan selama 2 jam, energi listrik yang digunakan lampu tersebut adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "W = P x t , W = 40W x 2jam\n\nW = 40W x 7200s\nW = itung aja pke kalkulator",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrik-407",
+            "question": "1. Jelaskan prinsip kerja bimetal sebagai sensor suhu pada setrika listrik ?\u00a0    2. jelaskan dengan pakai cara :\r\n\u00a0 \u00a0 a. 77\u00b0F= ...\u00a0\u00b0C= ....\u00a0\u00b0R= .... K\r\n\u00a0 \u00a0 b. 333K= ...\u00a0\u00b0C= ....\u00b0R= ....\u00b0F",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Kalor merupakan energi panas yang dapat ditranfer melalui konduksi, konveksi dan radiasi. </strong>Pada materi ini ada beberapa poin yang perlu dipelajari diantaranya Asas Black, Pemuaian dan Laju Kalor \u00a0\n</p><p>Asas black berbunyi \u201cJumlah kalor yang dilepas oleh materi yang bersuhu lebih tinggi akan sama dengan jumlah kalor yang diterima oleh materi yang suhunya lebih rendah\u201d atau dapat disederhanakan bahwa kalor serap akan sama dengan kalor lepas suatu campuran. Asas ini memenuhi persamaan \u00a0\n</p><p>[tex]Q_{lepas} = Q_{terima}\\\\(mc\\Delta T)_{lepas} = (mc\\Delta T)_{terima}[/tex]\n</p><p>Pemuaian merupakan pertambahan dimensi panjang, luas maupun volume akibat adanya perubahan suhu. Setiap benda memiliki konstanta pemuaian yang berbeda sehingga pada benda yang berbeda meskipun perubahan suhunya sama akan mengalami perubahan dimensi yang berbeda beda\n</p><p>Sedangkan Laju kalor ada yang bersifat konduksi pada zat padat, konveksi pada zat cair atau gas dan radiasi tanpa perantara. Laju aliran kalor pada suatu benda juga akan berbeda beda, selain ditentukan dari perbedaan suhu juga ditentukan oleh karakteristik suatu bahan yang disebut koefisien konduksi, koefisien konveksi dan emisivitas pada radiasi\n</p><p>\n</p><h3>Pembahasan \u00a0</h3><p>1. Perhatikan gambar skema bimetal, bimetal terdiri dari dua logam p dan q dengan koefisien muai q lebih besar, sehingga ketika mencapai panas tertentu bimetal akan melengkung ke atas, sehingga setrika mati karena saklar terputus</p><p>2. Konversi suhu</p><p>[tex]a. 77 F=(77-32)*5/9 = 25 C\\\\\n</p><p>77 F= (77-32)*4/9 =20 R\\\\\n</p><p>77F=(77-32)*5/9+273=298 K\\\\\n</p><p>b. 333K=333-273=60 C\\\\\n</p><p>333 K=(333-273)*4/5=48 R\\\\\n</p><p>333 K=(333-273)*9/5 +32=140 F [/tex]</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Pemuaian https://brainly.co.id/tugas/20730381\n</p><p>2.Materi tentang Laju kalor https://brainly.co.id/tugas/13315146\n</p><p>3.Materi tentang pemuaian https://brainly.co.id/tugas/19908574\n</p><p>\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 5 - Suhu dan Kalor\n</p><p><strong>Kode</strong>: 11.6.5\n</p><p>\n</p><p>Kata Kunci: Kalor, asas black, laju kalor\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/1-jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrik-407-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "banyaknya-garis-gaya-magnet-yg-menembus-suatu-bidang-disebut-677",
+            "question": "Banyaknya garis gaya magnet yg menembus suatu bidang disebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "garis gaya listrik induksi<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya gerak listrik induksi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-3-contoh-penerapan-prinsip-pemuaian-dalam-teknologi-312",
+            "question": "Berikan 3 contoh penerapan prinsip pemuaian dalam teknologi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Bimetal\u00a02. Pengelingan\u00a03. Pemasangan Bingkai Besi Roda\u00a04. Pemasangan Kaca Jendela\u00a0<span>5. Pemasangan Rel Kereta Api dan Jembatan</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pemuaian saat menghitung suhu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-yang-dimaksud-usaha-menurut-fisika-219",
+            "question": "Jelaskan yang dimaksud usaha menurut fisika\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "usaha adalah gaya yang menyebabkan benda mengalami perubahan gerak benda",
+                    "attachments": []
+                },
+                {
+                    "answer": "usaha (W) = gaya (F) x jarak (s).  jadi usaha adalah perkaliam antara besar gaya dan jarak yang ditempuh.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "toro-mengendarai-sepeda-dari-kota-a-ke-kota-b-dengan-kecepatan-ra-923",
+            "question": "toro mengendarai sepeda dari kota a ke kota b dengan kecepatan rata rata 20 km/jam selama 4 jam. jika ia mengendarainya dengan kecepatan rata - rata 50 km/jam, maka waktu yang diperlukan adalah ......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 KM/Jam x 4 jam= 20 km/jam x 240 menit= 4800<br>4800 : 50 km/jam= 96 menit<br>maaf jika salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "jarak (s) = V(kecepatan) x t(waktu)<br>Jarak (dicari) = 20km/jam x 4 jam<br>80 km<br><br>bila kecepatannya 50km/jam? <br><br>80 km = Kecepatan (50km/jam) x waktu (dicari)<br>80 = 50 x waktu<br>80/50 = waktu<br>8/5 = waktu<br>1 3/5 jam atau 1 jam 36 menit ( 1 jam + (3/5 x 60 menit = 36))<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-cermin-cembung-dan-cermin-cekung-587",
+            "question": "Apa perbedaan cermin cembung dan cermin cekung ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cermin cembung memiliki sifat :\u00a0<br><span>- maya\u00a0</span><br><span>- tegak\u00a0</span><br><span>- diperkecil\u00a0</span><br><span>- terletak di belakang cermin\u00a0</span><br><br><span>cermin cekung memiliki sifat :\u00a0</span><br><span>- nyata\u00a0</span><br><span>- terbalik\u00a0</span><br><span>- jarak dan besar kecil bayangan berubah-ubah tergantung letak benda</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-bulan-astronot-tdk-bisa-mendengar-percakapan-temannya-hal-ter-281",
+            "question": "Di bulan astronot tdk bisa mendengar percakapan temannya. hal terserbut terjadi karena ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak ada zat yang dapat merambatkan bunyi. sehingga suara tidak akan terdengar.",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena bunyi tidak\u00a0dapat merambat pada ruang hampa udara sehingga tidak ada zat penghantar bunyi untuk bergetar menghantarkan suara",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-ideal-yang-mempunyai-jumlah-lilitan-primer-dan-sekun-793",
+            "question": "sebuah trafo ideal yang mempunyai jumlah lilitan primer dan sekunder 600 dan 800 menghasilkan tegangan sebesar 100 volt. jika arus pada kumparan primer 4 A, hitung daya listrik di kumparan primer trafo!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P= w/t\nP= v.i.t/t\nP= v.i\nP= 100V x 4 A\nP= 400 watt",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-antara-alkohol-dan-air-raksa-149",
+            "question": "Apa perbedaan antara Alkohol dan air raksa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo dalam pengisian termometer, perbedaannya seperti ini ::<br><br>Keuntungan air raksa sebagai pengisi termometer, antara lain : Air raksa\n tidak membasahi dinding pipa kapiler, sehingga pengukurannya menjadi \nteliti. Air raksa mudah dilihat karena mengkilat. Air raksa cepat \nmengambil panas dari suatu benda yang sedang diukur. Jangkauan suhu air \nraksa cukup lebar, karena air raksa membeku pada suhu \u2013 40 0C dan \nmendidih pada suhu 360 0 C. Volume air raksa berubah secara teratur.<br><br>\nAir raksa juga memiliki beberapa kerugian, antara lain:<br>Air raksa harganya mahal.Air raksa tidak dapat digunakan untuk mengukur suhu yang sangat rendah.Air raksa termasuk zat beracun sehingga berbahaya apabila tabungnya pecah.\nKeuntungan menggunakan alkohol sebagai pengisi termometer, antara lain :\n Alkohol harganya murah. Alkohol lebih teliti, sebab untuk kenaikan suhu\n yang kecil ternyata alkohol mengalami perubahan volume yang besar. \nAlkohol dapat mengukur suhu yang sangat rendah, sebab titik beku alkohol\n \u20131300C.<br><br>\nKerugian menggunakan alkohol sebagai pengisi termometer, antara lain :<br>Membasahi dinding kaca.Titik didihnya rendah (78 0C)Alkohol tidak berwarna, sehingga perlu memberi pewarna dahulu agar dapat dilihat.<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. Termometer air raksa. \n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Berikut\nini beberapa keuntungan air raksa sebagai pengisi termometer, antara lain :</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa tidak membasahi dinding pipa kapiler, sehingga pengukurannya menjadi\nteliti.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa mudah dilihat karena mengkilat.</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa cepat mengambil panas dari suatu benda yang sedang diukur.</span>\n<span>\n<span>4)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Jangkauan\nsuhu air raksa cukup lebar, karena air raksa membeku pada suhu \u2013 40 0C dan\nmendidih pada suhu 360 0C.</span>\n<span>\n<span>5)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Volume\nair raksa berubah secara teratur ketika terjadi perubahan suhu.</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Selain\nbeberapa keuntungan, ternyata air raksa juga memiliki beberapa kerugian, antara\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 lain:</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa harganya mahal.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa tidak dapat digunakan untuk mengukur suhu yang sangat rendah.</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa termasuk zat beracun sehingga berbahaya apabila tabungnya pecah.</span>\n<span>\n<br></span>\n\nb. Termometer alkohol\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Keuntungan\nmenggunakan alkohol sebagai pengisi termometer, antara lain :</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\nharganya murah.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\nlebih teliti, sebab untuk kenaikan suhu yang kecil ternyata alkohol mengalami\nperubahan volume yang besar.</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\ndapat mengukur suhu yang sangat rendah, sebab titik beku alkohol \u20131300C.</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Kerugian\nmenggunakan alkohol sebagai pengisi termometer, antara lain :</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Membasahi\ndinding kaca ketika memuai ataupun menyusut.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Titik\ndidihnya rendah (78 0C)</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\ntidak berwarna, sehingga perlu memberi pewarna dahulu agar dapat dilihat.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-antara-generator-arus-searah-dan-arus-bolak-balik-terle-166",
+            "question": "Perbedaan antara generator arus searah dan arus bolak balik terletak pada",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi yang di hasilkan lebih banyak yang se arah<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "PERBEDAAN ARUS SEARAH DAN ARUS BOLAK \u2013 BALIK<span><br><span></span><span>\u00a0<span>1.<span>\u00a0\u00a0\u00a0\u00a0</span></span>Arus Searah ( DC )</span><br>Pada peralatan tertentu arus bolak \u2013 balik tidak diijinkan, tetapi harus untuk menggunakan arus searah. Untuk mendapatkan arus searah dari generator, cukup mengganti slip ring dengan komutator. Walaupun arus yang dibangkitkan didalam kumparan bolak \u2013 balik, tapi yang keluar melalui sikat \u2013 sikatnya adalah arus searah.<span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

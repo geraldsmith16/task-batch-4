@@ -1,0 +1,136 @@
+{
+    "question": "Sebutkan bunyi hukum kekekalan momentum dan tuliskan persamaannya!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Bunyi : \"Jumlah momentum kedua benda sebelum tumbukan sama dengan jumlah momentum kedua benda setelah tumbukan\"<br><br>Persamaannya ---&gt; m1 x v1 + m2 x v2 = m1\u00a0v\u00a0&#039;1 + m2 v &#039;2",
+            "attachments": []
+        },
+        {
+            "answer": "bunyi hukum kekekalan momentum\"pda peristiwa tumbukan jumlah momentumbenda-benda sebelum dan sesudah tumbukan adalah tetap,asalkan tidak ada gaya luar yang bekerja pada benda-benda itu\"<br>secara matematis ditulis:<br>p1+p2=p&#039;1+p&#039;2<br>m1v1+m2v2=m1v&#039;1+m2v&#039;2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-definisi-standard-resistor-672",
+            "question": "Apa definisi standard resistor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "komponen elektronika dua saluran yg didesain untuk menahn arus listrik dg<br>memproduksi penurunn tegangn diantra kedua salurannya sesuai dg arus yg mengalirnya, berdasarkn hukum ohm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kipas-berputar-sebanyak-20-putaran-per-menit-jika-ujung-k-900",
+            "question": "Sebuah kipas berputar sebanyak 20 putaran per menit. Jika ujung kipas berada 20 cm dari sumbu putranya, kecepatan tangensial ujung kipas adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Step-1 konversi satuan putaran/menit menjadi rad/s</strong><br><br><strong>1 putaran\u00a0= 2\u03c0 radian</strong><br><br>\u21d4 \u03c9 = 20 putaran/menit<br>\u21d4 \u03c9 = 20 x 2\u03c0/60 rad/s<br>\u21d4 \u03c9 = 2\u03c0/3 rad/s<br><br><strong>Step-2 menghitung kecepatan tangensial</strong><br><br>jari-jari r = 20 cm = 0,2 m<br><br><strong>\u21d4 v = \u03c9 x r</strong><br>\u21d4 v = [2\u03c0/3] x [0,2]<br>\u21d4 v = 2\u03c0/15 m/s<br><br><strong>\u2234 kecepatan tangensial adalah 2\u03c0/15 m/s</strong><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-jatuh-bebas-dari-ketinggian-20-m-jika-percepatan-681",
+            "question": "sebuah benda jatuh bebas dari ketinggian\u00a020\u00a0m. jika percepatan grafitasi bumi 10\u00a0m/s2, maka kecepatan benda \u00a0pada saat berada 15 m di atas tanah adalah .....(caranya)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik ho = 20 m<br>\u00a0 \u00a0 \u00a0 h1 = 15 m<br>\u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s<br>Dit V ?<br>jawab<br>rumus V =\u00a0\u221a2 g\u00a0\u0394h<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u221a2.10\u00a0(20-15)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u221a100 = 10 m/s^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Vt2 = Vo2 + 2aS<br> Vt2 = (0) + 2 aS<br> Vt = \u221a(2aS) = \u221a[(2)(10)(20-15)] = 10 m/s</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-atmosfir-kira-kira-100-kpa-berapa-besar-gaya-yang-dikerj-331",
+            "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-a-dan-b-masing-bermassa-4kg-dan-3kg-dihubungkan-d-572",
+            "question": "dua buah benda A dan B masing\" bermassa 4kg dan 3kg dihubungkan dengan tali (massa tali diabaikan) melalui sebuah katrol bermassa 2kg dan berjari-jari 20cm. jika benda berputar dengan tali, percepatan setiap benda adalah... (g=10m/s\"kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mA : 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0mB : 3 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 g \u00a0 : 10 m/s^2<br>dit : a ??<br><br>penyy : (mA-mB)/(mA+mB).g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 1/7.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0: 1,42 = 1,5 \u00a0m/s^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permukaan-air-p-air-1-gcm3-di-dalam-pipa-kapiler-berdiameter-802",
+            "question": "permukaan air (p. air= 1 g/cm3) di dalam pipa kapiler berdiameter dalam 1 mm adalah 4 cm di atas permukaan air di luar pipa itu. jika sudut kontak air dalam pipa kapiler 60derajat, besar tegangan permukaan air adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Rumus<br>y =2.\u03b3.cos \u03b8\u00a0/\u03c1.g.r,\u00a0<br>Tegangan permukaan :\u00a0<br>\u03b3= y.\u03c1.g.r/2. cos\u03b8\u00a0<br>= 0,04 x 1000 x 10 x 5 x\u00a0[tex] 10^{-4} [/tex]/ 2 x cos 60 ( r = 5 x\u00a0[tex] 10^{4} [/tex]\u00a0m)\u00a0<br>= 0,2\u00a0/1\u00a0<br>= 0,2 N/m</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-suatu-pegas-dapat-bertambah-panjang-sebesar-6-cm-diperlukan-961",
+            "question": "agar suatu pegas dapat bertambah panjang sebesar 6\u00a0cm diperlukan gaya sebesar 24\u00a0N. besar usaha yang dilakukan agar pegas bertambah panjang 24 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:\u0394l\u2081\u00a0 =6cm, F\u2081=24 N<br>\u00a0\u00a0 \u00a0\u00a0 \u0394l \u2082=24cm<br>Dit: F2=?<br>Jwb:\u00a0<u>\u0394l\u2081</u> = <u>F\u2081</u><br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 \u0394l\u2082\u00a0 \u00a0  F\u2082<br>\u00a0\u00a0 \u00a0 \u00a0 <u>\u00a0 6</u> = <u>24</u><br>\u00a0\u00a0 \u00a0 \u00a0  24\u00a0 \u00a0  F\u2082<br>6F\u2082=24.24<br>6F\u2082=576<br>F\u2082=<u>576</u> = 96N<br>\u00a0\u00a0 \u00a0 \u00a0  6<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24 x 24=576\n576/6=56\n\nsemoga benar ya.\nklo slh maaf",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pernyataan-berikut-ini-yang-merupakan-teori-atom-menurut-dalto-169",
+            "question": "1. Pernyataan berikut ini yang merupakan teori atom menurut Dalton adalah \u2026    a. bagian terkecil dari suatu atom adalah elektron\r\n\r\n b. sebagian besar massa atom terkumpul pada intinya\r\n\r\n c. elektron dari suatu unsur sama dengan elektron dari unsur lain\r\n\r\n d. atom dari unsur-unsur yang sama mempunyai sifat yang juga sama\r\n\r\n e. elektron pada suatu unsur tidak dapat bergabung dengan atom unsur lain",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban nya A kalau gak salah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613",
+            "question": "Berat benda saat ditimbang di udara adalah 30 N. Jika ditimbang didalam    air beratnya menjadi 22,5 N, dan jika ditimbang dalam suatu cairan lain \r\n beratnya menjadi 11,25 N. Tentukan massa jenis cairan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi ; fluida <br>Kata kunci : massa jenis cairan<br><br>Pembahasan : perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pengaruh-suhu-fluida-terhadap-tegangan-permukaannya-jelaskan-971",
+            "question": "Pengaruh suhu fluida terhadap tegangan permukaannya, jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor yang mempengaruhi tegangan permukaan yaitu :<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Suhu<br>Tegangan permukaan menurun dengan meningkatnya suhu, karena meningkatnya energi kinetik molekul.\u00a0</span></span><span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span>Zat terlarut (solute)</span>Keberadaan zat terlarut dalam suatu cairan akan mempengaruhi tegangan permukaan. Penambahan zat terlarut akan meningkatkan viskositas larutan, sehingga tegangan permukaan akan bertambah besar. Tetapi apabila zat yang berada dipermukaan caiaran membentuk lapisan monomolekular, maka akan menurunkan tegangan permukaan. Zat tersebut biasa disebut dengan surfaktan.<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Surfaktan<br>Surfaktan (surface active agents), zat yang dapat mengaktifkan permukaan, karena cenderung untuk terkonsentrasi pada permukaan atau antar muka. Surfaktan mempunyai orientasi yang jelas sehingga cenderung pada rantai lurus. Sabun merupakan salah satu contoh dari surfaktan.</span></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

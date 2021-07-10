@@ -1,0 +1,140 @@
+{
+    "question": "Diketahui luas penampang piston I sama dengan 5 kali piston II. Jika pada piston I diberi beban 4Kg, berapa beban yang harus diberikan pada pisto II agar sistem dalam keadaan seimbang?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Penerapan hukum Pascal yaitu pada pengungkit hidrolik. Rumus pada hukum Pascal yaitu F\u2081/A\u2081 = F\u2082/A\u2082. </p><br><h3>Pembahasan</h3><p>Berdasarkan soal diatas diketahui bahwa:</p><ul><li>luas penampang piston I sama dengan 5 kali piston II -&gt; A\u2081 = 5, A\u2082 = 1</li></ul><ul><li>Jika pada piston I diberi beban 4Kg -&gt; m = 4 kg</li></ul><p>Adapun yang ditanyakan pada soal adalah menentukan gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang (F\u2082).</p><p>Untuk menyelesaikan soal diatas pertama - tama kita mencari gaya beban pada penampang I terlebih dahulu dengan cara sebagai berikut:</p><p>F\u2081= m \u00d7 g</p><p>F\u2081= 4 \u00d7 10</p><p>F\u2081 = 40 N</p><p>Nah, setelah diketahui gaya beban penampang piston I, maka langkah yang digunakan untuk mencari gaya beban pada penampang piston II yaitu sebagai berikut:</p><p>F\u2081/A\u2081 = F\u2082/A\u2082</p><p>40/5 \u00a0= F\u2082/1</p><p>40 \u00d7 1 = F\u2082 \u00d7 5</p><p>40 = F\u2082 \u00d7 5</p><p>F\u2082 = 40/5</p><p>F\u2082 = 8 N</p><p>Dengan demikian dapat disimpulkan bahwa besarnya gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang adalah <strong>8 N.</strong></p><br><h3>Pelajari lebih lanjut</h3><p>1. gaya minimum pada penampang kecil: https://brainly.co.id/tugas/15635353</p><p>2. gaya untuk mengangkat mobil: https://brainly.co.id/tugas/15761778</p><p>3. gaya untuk mengangkat beban: https://brainly.co.id/tugas/15814409</p><br><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> fluida</p><p><strong>Kode:</strong> 8.6.3</p><br><p><strong>Kata kunci:</strong> Hukum pascal, gaya tekan dan luas penampang</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pejalan-kaki-melakukan-usaha-25-x-105-j-dalam-suatu-lat-302",
+            "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-958",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika <br>Materi: listrik <br>Kelas: XII SMA IPA <br>Kata kunci: Gaya gerak listrik <br><br><br><br><br>Perhitungan Terlampir",
+                    "attachments": [
+                        "answer-attachments/sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-958-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-panjang-memiliki-penampang-berbeda-pada-empat-bagian-226",
+            "question": "Sebuah pipa panjang memiliki penampang berbeda pada empat bagian. Luas penampang pipa berturut-turut pada bagian 1, bagian 2 dan bagian 3 adalah 150 cm2, 100 cm2, dan 50 cm2. Laju aliran air pada bagian 1 adalah 8 m/s. Sedangkan pada bagian 4 adalah 4,8 m/s. Tentukanlah:    A. Debit air melalui keempat penampang iti\r\n B. Luas penampang pada bagian 4\r\n C. Laju air pada bagian 2 dan 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab A<br><br>Debit air sama di semua bagian :<br>Q1 = Q2 = Q3= Q4 = 800 x 150<br>=120000cm^3/s<br><br>Jawab B<br><br>Luas penampang pada bagian 4 :<br>A1V1 = A4V4<br><br>V4 = A1V1 / A4 = 150 x\u00a08 / 4,8 = 250 cm^2<br><br>Jawab C<br><br>Laju air pada bagian 2 dan 3<br>V2 = Q2 / A2 = 120000 / 100 = 1200 cm/s = 12 m/s<br>V3 = Q3\u00a0/\u00a0A3\u00a0= 120000 / 50 \u00a0= 2400 cm/s = 24 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-pegas-tergantung-beban-yaang-massanya-1kg-pegas-ters-566",
+            "question": "pada sebuah pegas tergantung beban yaang massanya 1kg, pegas tersebut bertambah panjang 5cm. hitunglah energi potensial pegas! berpa energi potensial pegas jika bebannya menjadi 2,5 kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6.5 semoga betul jangan lupa di terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui : <br>m = 1 kg<br>g = 10m/s\u00b2<br>\u0394x = 5cm = 5\u00d7[tex] 10^{-2} [/tex] m<br>ditanya : Ep<br><br>F = k . \u0394x<br>m . g = k . \u0394x<br>1 . 10 = k . 5\u00d7[tex] 10^{-2} [/tex]<br>k = 10/5\u00d7[tex] 10^{-2} [/tex]<br>k = 200 N/m<br><br>Ep = <u>1\u00a0</u> <u> </u>\u00d7 k \u00d7 \u0394x\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>Ep = 1/2 \u00d7 200 \u00d725 \u00d7[tex] 10^{-4} [/tex]<br>Ep = 2500 x [tex] 10^{-4} [/tex]<br>Ep = 0,25 joule<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-bermassa-60-kg-menumpang-diujung-belakang-sebuah-perahu-339",
+            "question": "seseorang bermassa 60 kg menumpang diujung belakang sebuah perahu bermassa 200 kg yang bergerak dengan kecepata 1 m/s. jika kemudian orang itu melompat horizontal keluar dari perahu dengan kecepatan 2 m/s berlawanan arah dengan arah gerak perahu, maka berapa m/s kecepatan perahu sesaat setelah orang itu melompat? (gaya gesekan diabaikan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Momentum\u00a0<br><span>Kelas: XI SMA IPA\u00a0</span><br><br>Pembahasan:<br><br><span>Kecepatan perahu sesaat setelah orang itu melompat adalah 1,9 m/s<br></span><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seseorang-bermassa-60-kg-menumpang-diujung-belakang-sebuah-perahu-339-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613",
+            "question": "Berat benda saat ditimbang di udara adalah 30 N. Jika ditimbang didalam    air beratnya menjadi 22,5 N, dan jika ditimbang dalam suatu cairan lain \r\n beratnya menjadi 11,25 N. Tentukan massa jenis cairan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi ; fluida <br>Kata kunci : massa jenis cairan<br><br>Pembahasan : perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dalam-percobaan-dengan-bola-kasti-dan-kelereng-diluncurkan-pada-457",
+            "question": "dalam percobaan dengan bola kasti dan kelereng, diluncurkan pada bidang miring dengan kemiringan kurang lebih 40 derajar dimana percobaan tersebut dilakukan di bidang licin (lantai) dan dirumput, setelah percobaan dilantai ternyata kelereng menempuh jarak lebih jauh dibanding kasti sedangkan saat dirumput bola kasti yang menempuh jarak lebih jauh, mengapa demikian?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena pada saat kelereng meluncur di bidang licin klereng miliki kcepatan\u00a0yng lbih cepat d banding bola kasti sedangkann pada saat di rumput bola kasti memng cepat krena bola di desain mmang untuk rmput. :D<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena\u00a0<br>1. pada bidang licin tekanan kelereng lebih kecil dan luas permukaan kelereng yang licin menyebabkan\u00a0\u00a0gaya gesek yang di timbulkan sedikit namun pada bidang yang kasar tekanan kelereng mengalami gaya gesek yang besar karena ukuranya kecil dan masanya besar sehingga gaya yang bekerja pada kelereeg hanya sedikit jadi tidak dapat menempuh jarak yang jauh<br><br>2. pada bidang yang licin bola memiliki masa yang besar namun luas permukaan bola kasti yang kasar menyebabkan terjadinya gaya gesek yang lebih besar sehingga jarak yang di tempuh tidak begitu jauh.\u00a0namun pada bidang yang kasar gesekan antara rumput dan bola kasti yang terjadi hanya sedikit karena ukuranya yang besar dan massanya yang ringan\u00a0menyebabkan bola kasti dapat melakukan gesekan yang kecil\u00a0dengan rumput\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-penerapan-fluida-statis-dalam-kehidupan-sehari-hari-selain-142",
+            "question": "Contoh penerapan fluida statis dalam kehidupan sehari hari selain dongkrak hidrolik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-\u00a0pada penyemprot obat nyamuk<br>-\u00a0pada voluntrimeter<br>- pada\u00a0pompa air\u00a0hidrolok<br>- katrol hidrolik",
+                    "attachments": []
+                },
+                {
+                    "answer": "em cakram sepeda motor, memakai tekanan dari handle rem yang disalurkan \nmelalui cairan rem yang akhirnya menekan kampas pada cakram. <br>penerapannya ada pada sayap pesawat terbang. <br>N masih banyak lagi contoh penerapan fluida statis di kehidupan sehari-hari......  <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perkirakan-selisih-tekanan-hidrostatis-darah-di-antara-otak-dan-k-721",
+            "question": "Perkirakan selisih tekanan hidrostatis darah di antara otak dan kaki di dalam tubuh seseorang yang tingginya 165 cm. Anggap massa jenis darah 1,06 x 10^3 kg/m^3 dan g = 9,8 m/s^2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tekanan = pgh<br>tekanan = (1,06)(1000)(9,8)(1,65)<br>tekanan = 171402 Pa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kesimpulan-tentang-tekanan-air-pada-percobaan-kekuatanair-yang-ke-547",
+            "question": "Kesimpulan tentang tekanan air pada percobaan kekuatanair yang keluar pada botol yang dilubangi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u><strong>KESIMPULAN</strong></u><br>Tekanan hidrostatis bergantung pada massa jenis zat cair, ketinggian atau kedalaman zat cair, serta percepatan gravitasi bumi. Berdasarkan percobaan\u00a0<span>tentang tekanan air pada percobaan kekuatan\u00a0air yang keluar pada botol yang dilubangi\u00a0</span>yang telah dilakukan,\u00a0semakin tinggi lubang dari dasar wadah maka semakin dekat pancaran airnya. Hal ini menunjukkan bahwa kekuatan pancaran air akan semakin besar jika letaknya semakin dalam dari permukaan air. Kekuatan pancaran air ditentukan oleh besarnya tekanan dalam air atau zat cair tersebut. Hal ini berarti semakin dalam suatu tempat dalam air dari permukaan maka semakin besar tekanan hidrostatisnya.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

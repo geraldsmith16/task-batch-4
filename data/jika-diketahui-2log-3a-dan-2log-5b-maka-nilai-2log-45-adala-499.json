@@ -1,0 +1,142 @@
+{
+    "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+            "attachments": []
+        },
+        {
+            "answer": "menurut saya\u00a0jawaban nya 2a+b",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-dimaksud-dengan-laporan-arus-kas-455",
+            "question": "Apa yang dimaksud dengan laporan arus kas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Laporan arus kas<span>\u00a0(</span><span>adalah bagian dari\u00a0</span>laporan keuangan<span>\u00a0suatu perusahaan yang dihasilkan pada suatu</span>periode akuntansi<span>\u00a0yang menunjukkan aliran masuk dan keluar\u00a0</span>uang<span>\u00a0(kas) perusahaan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "adalah bagian dari\u00a0laporan keuangan\n\u00a0suatu perusahaan yang dihasilkan pada suatuperiode akuntansi\n\u00a0yang menunjukkan aliran masuk dan keluar\u00a0uang\n\u00a0(kas) perusahaan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suku-ke-7-suatu-barisan-aritmatika-adalah-22-dan-suku-ke-628",
+            "question": "1.jika suku ke - 7 suatu barisan aritmatika adalah 22 dan suku ke - 12 adalah 37.tentukan suku ke - 14 barisan tsb    2.tentukan rumus suku ke (n) dari barisan aritmatika 13,10,7,4 adalah\r\n\r\n3.diketahui suku pertama suatu barisan geometri adalah 16 dan suku ketiga 36 tentukan suku ke - 5 barisan tersebut\r\n\r\n4.diketahui deret geometri dengan suku pertama 4 dan suku ke 5 = 324,hitung jumlah delapan suku pertama deret tersebut\r\n\r\n5.deret aritmatika jumlah suku kedua dan keenam adl 26 dan jumlah suku keempat dan kedelapan adalah\u00a0 38 tentukanlah :\r\n\r\na.suku pertama dan bedanya \r\nb.jumlah sepuluh suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)<br>U7 = a+6b =\u00a022<br>U12 = a+11b =\u00a037<br>U14 = ?<br><br>a+6b = 22<br>a+11b = 37<br>__________-<br>-5b = -15<br>b\u00a0=\u00a03<br><br>Cari a , b=3<br>a+6b = 22<br>a+18 = 22<br>a = 4<br><br>U14 = a+13b<br>U14 = 4+13(3)<br>U14 = 4+39<br>U14 =\u00a043<br><br>2)<br>U1 = 13<br>U2 = 10<br>U3 = 7<br>U4 = 4<br>b = U4 - U3 = 4 - 7<br>b = -3<br>Un = a+(n-1)b<br>U4 = a+(4-1)b<br>U4 = a+3b<br><br>3)<br>U1 = a = 16<br>U3 = ar^2 =\u00a036<br>U5 = ?<br>cari r<br>U1/U3 = 16/36<br>a/ar^2 = 16/36<br>1/r^2 = 4/9<br>r^2 = 9/4<br>r = 3/2<br>U5 = ar^4<br>U5 = 16(3/2)^4<br>U5 = 16(81/16)<br>U5 = 81<br><br>CMIIW<br><br>Maaf, No 4 dan 5 saya masih dalam pembelajaran hehe",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. u7 = a + 6b = 22<br>\u00a0 \u00a0<u>u22= a + 12b = 37 +<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -15b = -15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 1<br>a + 6 (1) = 22<br>a + 6 \u00a0 \u00a0 \u00a0\u00a0= 22<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 22 - 6<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 16<br><br>u14 = a + 13b<br>\u00a0 \u00a0 \u00a0 = 16 + 13.1<br>\u00a0 \u00a0 \u00a0\u00a0= 29<br>2. un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 + ( n-1)-3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 - 3n + 3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16 - 3n<br><br>yang nomer selanjutnya ntar dulu yach, mo shalat dulu.. hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187",
+            "question": "selisih panjang dan lebar suatu persegipanjang adalah 8 cm, dan keliling persegi panjang tersebut 44 cm. luas persegi panjang adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : persegi panjang, panjang, lebar, keliling, luas<br>Pembahasan :<br>Perhatikan gambar terlampir.<br><p>Persegi panjang adalah bangun datar\nsegi empat yang memiliki dua pasang sisi sejajar dan empat buah sudut\nsiku-siku.<br></p>\n\n<p>Sifat-sifat persegi panjang, yaitu :<span><br>\n1. sisi-sisi yang berhadapan </span>pada persegi panjang adalah sama panjang dan\nsejajar<span><br>\nAB = C</span>D, AB//CD dan AD = BC, AD//BC;<span><br>\n2. setiap sudut pada persegi panjang sama besar\ndan merupakan sudut siku-siku</span>\n(atau memiliki sudut 90\u00b0)<span><br></span>\u2220BAD = \u2220ABC= \u2220BCD\n= \u2220ADC = 90\u00b0;<span><br>\n3. diagonal-diagonal pada persegi panjang </span>adalah sama panjang<span><br>\nAC = BD;<br>\n4. diagonal-diagonal </span>pada persegi panjang\nberpotongan dan saling membagi dua sama panjang<span><br>\nOA = OC dan OB = OD</span>. Karena AC = BD, maka OA = OB = OC =\nOD;<span><br>\n5. </span>persegi panjang memiliki dua buah simetri\nlipat atau sumbu simetri;<span><br>\n6. </span>persegi panjang memiliki dua buah simetri putar;<span><br>\n7. Menempati bingkainya dengan empat cara.<br></span>Keliling persegi\npanjang adalah </p>\n\n<p>K = 2 . p\n+ 2 . l </p>\n\n<p>= 2 . (p\n+ l)</p>\n\n<p>dengan p merupakan\npanjang dan l merupakan lebar.<span><br></span>Luas persegi panjang\nadalah </p>\n\n<p>L = p . l</p>\n\n<span>dengan\np merupakan panjang dan l merupakan lebar.<br><br>Mari kita lihat soal tersebut.<br>Diketahui selisih panjang dan lebar suatu persegi panjang adalah 8 cm.<br>Kelilingnya adalah 44 cm.\u00a0<br>Misalkan panjang = p, lebar = l, keliling = K, dan luas = L,<br>diperoleh<br>p - l = 8<br></span>\u21d4 p = 8 + l<br><span>Kemudian, <br>K = 44 cm<br>K = 2(p + l)<br></span>\u21d4 K = 2(8 + l + l)<br>\u21d4 K = 2(8 + 2l)<br>\u21d4 K = 16 + 4l<br>\u21d4 44 = 16 + 4l<br>\u21d4 28 = 4l<br>\u21d4 l =\u00a0[tex] \\frac{28}{4} [/tex]<br>\u21d4 l = 7<br><span>Sehingga l = 7 kita substitusikan ke persamaan<br>p = 8 + l<br></span>\u21d4 p = 8 + 7<br>\u21d4 p = 15<br><span>Selanjutnya,\u00a0<br>L = p x l<br></span>\u21d4 L = 15 x 7<br>\u21d4 L = 105<br><span>Jadi, luas persegi panjang tersebut adalah 105 cm</span>\u00b2.<br><span><br>Semangat!<br><br></span>",
+                    "attachments": [
+                        "answer-attachments/selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-deret-geometri-diketahui-suku-ke-2-adalah-6-dan-suku-761",
+            "question": "Pada sebuah deret geometri diketahui suku ke 2 adalah 6 dan suku ke 5 adalah 48 jumlah sepuluh suku pertaama adaalah ???    tolong dibantu jawaban nya yaaaah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "_ 6 _ _ 48<br><br>Jadi<br>U1 = 3<br>U2 = 6<br>U3 = 12<br>U4 = 24<br>U5 = 48<br><br>Sn = a(r^n-1) / r -1<br>= 3 (2^10-1) / 2-1<br>= 3 . 1023 /1<br>=3069",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik: U2=6<br>\u00a0 \u00a0 \u00a0 \u00a0U5=48<br>Pertamaanya cari dulu r nya<br>saya punya cara mudahnya,rumusnya:<br>\u00a0[tex] r^{(suku yang paling besar-suku yang paling kecil)} [/tex] = <u>(nilai suku yg paling besar)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 (nilai suku yg paling kecil)<br><br>jadi cara ngerjainnya:<br>[tex] r^{5-2} [/tex] = <u>48</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 6<br><u></u>[tex] r^{3} [/tex] \u00a0 \u00a0 =8<br>\u00a0 \u00a0 \u00a0\u00a0 r =[tex] 3\\sqrt{8} [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0r = 2<br><u></u><br>jadi cara mencari [tex] S_{10} [/tex] = <u>a([tex] r^{n} [/tex] -1)<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 r-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <u>3([tex] r^{10} [/tex] -1)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u>3(1023)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 X 1023 = 3069<br><br>jadi\u00a0[tex] S_{10} [/tex] yaitu 3069<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumys-triogonometri-sudut-negatif-548",
+            "question": "Rumys triogonometri sudut negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Kuadran IV : sudut dalam derajat 270\u00b0 &lt;\u00a0\u03b1 &lt; 360\u00b0 atau <br>sudut dalam radian 3\u03c0/2 &lt;\u00a0\u03b1 &lt; 2\u03c0<span><br>sin (360\u00b0 -\u00a0\u03b1) = sin (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sin (-\u03b1) = -sin \u03b1<br>cos (360\u00b0 -\u00a0\u03b1) = cos (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cos (-\u03b1) = cos \u03b1<br>tan (360\u00b0 -\u00a0\u03b1) = tan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>tan (-\u03b1) = -tan\u00a0\u03b1<br>cotan (360\u00b0 -\u00a0\u03b1) = cotan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cotan (-\u03b1) = -cotan\u00a0\u03b1<br>secan (360\u00b0 -\u00a0\u03b1) = secan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>secan (-\u03b1) = -secan \u03b1<br>sec (360\u00b0 -\u00a0\u03b1) = sec (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sec (-\u03b1) = sec\u00a0\u03b1<br><br>Contoh :\u00a0<br></span><span>sin (-35)</span>\u00b0 = -sin 35\u00b0<br><span>cos (-26)</span>\u00b0 = cos 26\u00b0<br><span>tan (-</span>\u03c0/5) = -tan\u00a0\u03c0/5<br><span><br>Semangat!<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sederhanakanlah-bentuk-persamaan-berikut-ini-acos-xcosec-xta-558",
+            "question": "1.sederhanakanlah bentuk persamaan berikut ini\r\na.cos x.cosec x.tan x\r\nb.cos x.cotan x + sin x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. cos x.cosec x.tan x<br><br>=&gt; [tex] cos x .\\frac{1}{sin x} .\\frac{sin x}{cos x} = 1[/tex]<br><br>b. cos x.cotan x + sin x<br><br>=&gt; [tex]cos x. \\frac{cos x}{sin x} + sin x[/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x}{sin x} + \\frac{sin^{2}x}{sin x} [/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x + sin^{2}x}{sin x}  [/tex]<br><br>=&gt; [tex]\\frac{1}{sin x} [/tex]<br><br>=&gt; cosec x<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

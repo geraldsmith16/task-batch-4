@@ -1,0 +1,150 @@
+{
+    "question": "Panjang busur lingkaran yang berjari jari 3,5 cm dan bersudut pusat 54\u00b0 adalah ... cm.     a. 2,8\r\n b. 3,3\r\n c. 4,2\r\n d. 5,8",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "panjang busur = A<br>A= (54/360) x 2[tex] \\pi [/tex]R<br>\u00a0 = (3/20) x 2 x 3,14 x 3,5<br>\u00a0= 3,297\u00a0<br>\u00a0= 3,3\u00a0<br><br>answer B",
+            "attachments": []
+        },
+        {
+            "answer": "panjang busur dimisalkan dengan X<br>X = (sudut pusat/360\u00b0)\u00a0 \u00d7 kll lingkaran = (54/360\u00b0) \u00d7 2\u03c0R = (3/20) \u00d7 2 \u00d7 22/7 \u00d7 3,5 = (3/20).22 = 3,3 jawabannya B<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pedagang-membeli-2-kuintal-beras-dengan-harga-rp5700000-624",
+            "question": "Seorang pedagang membeli 2 kuintal beras dengan harga Rp570.000,00 kemudian di jual dengan mengambil untung Rp300,00 tiap kg .    gimana cara mengerjakannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 dikali rp 570000,00 kali 100<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 kuintal = 100 kg<br>2 kuintal = 200 kg<br>570.000 : 200 kg = 2.850<br>harga perkilonya<br>2850 + 300 = 3.150<br>harga 2 kuintal<br>3.150 x 200 = 630.000<br>keuntungannya<br>630.000 - 570.000 = 60.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-kelas-terdapat-48-siswa-mereka-memilih-dua-jenis-ol-740",
+            "question": "Dalam suatu kelas\u00a0terdapat 48 siswa. mereka memilih dua jenis olah raga yang mereka gemari . ternyata 29 siswa gemar bermain\u00a0basket, 27 siswa gemar bermain voli, dan 6 siswa tidak menggemari kedua olahraga tersebut. buatlah gambar diagram venn dari keterangan tersebut !!\u00a0    (yang bisa buat gambarnya yang benar dapat poin lebih banyak :)) )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dalam suatu kelas terdapat 48 siswa, mereka memilih dua jenis olah raga yang mereka gemari</strong>. Ternyata 29 siswa gemar bermain basket, 27 siswa gemar bermain voli, dan 6 siswa tidak menggemari kedua olahraga tersebut. Buatlah gambar diagram venn dari keterangan tersebut. Untuk menggambar diagram vennya kita harus mencari jumlah siswa yang menyukai kedua olahraga tersebut. Hal tersebut dapat diperoleh dengan menggunakan rumus gabungan dua buah himpunan atau bisa juga menggunakan diagram Venn.\n</p><p>Rumus gabungan dua buah himpunan:\n</p><ul><li>n(A U B) = n(A) + n(B) \u2013 n(A \u2229 B) \u00a0</li><li>n(S) = n(A U B) + n(A U B)\u2019\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><ul><li>Ada 48 siswa \u21d2 n(S) = 48\n</li><li>29 siswa gemar bermain basket \u21d2 n(A) = 29\n</li><li>27 siswa gemar bermain voli \u21d2 n(B) = 27\n</li><li>6 siswa tidak menggemari kedua olahraga tersebut \u21d2 n(A U B)\u2019 = 6\n</li></ul><p></p><p><strong>Ditanyakan\n</strong></p><p>Buat diagram Venn!\n</p><p></p><p><strong>Jawab\n</strong></p><p>Dengan menggunakan rumus gabungan dua himpunan, maka diperoleh <strong>banyak siswa yang gemar kedua olahraga tersebut</strong> yaitu:\n</p><p>n(S) = n(A U B) + n(A U B)\u2019\n</p><p>n(S) = n(A) + n(B) \u2013 n(A \u2229 B) + n(A U B)\u2019\n</p><p>48 = 29 + 27 \u2013 n(A \u2229 B) + 6\n</p><p>48 = 62 \u2013 n(A \u2229 B)\n</p><p>n(A \u2229 B) = 62 \u2013 48\n</p><p>n(A \u2229 B) = 14\n</p><p></p><p><strong>Banyak siswa yang </strong><u><strong>hanya</strong></u><strong> gemar bermain basket\n</strong></p><p>= n(A) \u2013 n(A \u2229 B)\n</p><p>= 29 \u2013 14\n</p><p>= 15\n</p><p></p><p><strong>Banyak siswa yang </strong><u><strong>hanya</strong></u><strong> gemar bermain Voli\n</strong></p><p>= n(B) \u2013 n(A \u2229 B)\n</p><p>= 27 \u2013 14\n</p><p>= 13\n</p><p></p><p>Setelah dapat data-data tersebut, maka kita bisa membuat diagram venn nya yaitu dapat dilihat dilampiran\n</p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang himpunan\n</p><ul><li>Banyak pembaca menyukai majalah politik: brainly.co.id/tugas/15514952\n</li><li>Banyak balita yang belum diimunisasi: brainly.co.id/tugas/15476069\n</li><li>Banyak siswa yang menyukai IPA dan IPS: brainly.co.id/tugas/20671007\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori</strong> : Himpunan\n</p><p><strong>Kode</strong> : 7.2.1\n</p><p></p><p><strong>Kata Kunci</strong> : memilih dua jenis olah raga yang mereka gemari, basket, voli\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/dalam-suatu-kelas-terdapat-48-siswa-mereka-memilih-dua-jenis-ol-740-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-layang-layang-adalah-135-cm2-jika-panjang-salah-satu-540",
+            "question": "Luas sebuah layang-layang adalah 135 cm2. Jika panjang salah satu diagonalnya 18 cm. maka panjang diagonal satunya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas layang-layang adalah diagonal1 x diagonal2 dibagi 2.<br>Rumus mencari d2 adalah luas layang-layang dikali 2 dibagi d1<br><span>=(135 </span>x 2) : 18<br>= 270 : 18 = 15 cm<br><br>Semoga membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "chandra-menabungkan-uangnya-selama-8-bulan-dengan-suku-bun-606",
+            "question": "Chandra\u00a0menabungkan\u00a0uangnya selama\u00a08\u00a0bulan\u00a0dengan\u00a0suku\u00a0bunga\u00a018%\u00a0setahun.\u00a0Apabila\u00a0besar\u00a0tabungan\u00a0Chandra\u00a0Rp.\u00a05.000.000\u00a0berapa\u00a0besar\u00a0bunga\u00a0nya\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar tabungan<br>= [tex] \\frac{n}{12} [/tex] x i x besar tabungan<br>= [tex] \\frac{8}{12} [/tex]\u00a0x\u00a0<u></u>[tex] \\frac{18}{100} [/tex] x5.000.000<br>=720000000/1200<br>=600.000<br><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukman-memanfaatkan-tanah-kosongnya-untuk-tempat-kandang-kambing-624",
+            "question": "Lukman memanfaatkan tanah kosongnya untuk tempat kandang kambing.luas tanah 100m.    ada empat kandang kambing yg akan dibuat dan tiap tiap kandang berbentuk sama yaitu persegi. berapa dm luas tiap tiap kandang kambing??? tolong caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika - satuan<br>Kelas : 6 SD<br><br><span>Pembahasan :\u00a0<br><br></span>Luas tanah = luas\u00a04 kandang kambing = 100m\u00b2<br>1 kandang kambing = 100 : 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 25\u00a0m\u00b2<br><br>konversikan satuan\u00a0m\u00b2 ke dm\u00b2 yaitu\u00a0turun 1 tingkat dengan mengalikan\u00a0100.<br><span>sehingga,<br><br></span><span>1 kandang kambing\u00a0</span><span>= 25 x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02500\u00a0dm\u00b2<br></span><br><span>Jadi,\u00a0luas tiap kandang kambing adalah\u00a0</span><span><strong>2500 dm\u00b2</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-kegunaan-matriks-dalam-kehidupan-sehari-hari-169",
+            "question": "Apa kegunaan matriks dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>fungsi matriks :\u00a0</strong><br>dalam kehidupan manusia matrik berfungsi atau berguna untuk mempermudah mengerjakan adata u menyelesaikan suatu masalah yag berkaitan dengan angka dan jumlah pendataan. penggunaan matrik biasanya terjadi pada data tabel. contohnya :\u00a0<br>pembuatan sebuah jurnal , pembuatan rapot .\u00a0<br>nah teori matrik biasanya digunakan untuk menjulah kolom-kolom pada tabel tersebut maupun mengurangi, mengalikan, dan membagi nilai pada kolom tersebut.\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p><strong>Matriks </strong>adalah sekumpulan bilangan yang disusun secara baris dan kolom dan ditempatkan pada kurung biasa atau kurung siku.\n</p><h3>Pembahasan</h3><p><u><em><strong>kegunaan matrik dalam kehidupan sehari\" :</strong></em></u></p><p>1) Memudahkan dalam membuat analisis mengenai suatu masalah ekonomi yang mengandung bermacam \u2013 macam variable</p><p>2) Digunakan dalam memecahkan masalah operasi penyelidikan , misalnya </p><p>masalah operasi penyelidikan sumber \u2013 sumber minyak bumi dan sebagainya.</p><p>3) Dikaitkan dengan penggunaan program linear, analisis input output baik </p><p>dalam ekonomi, statistic, maupun dalam bidang pendidikan, manajemen, </p><p>kimia, dan bidang \u2013 bidang teknologi yang lainnya.</p><p>dan masih banyak lagi kegunaannya </p><h3>Pelajari Lebih Lanjut</h3><p>Bab matrik dapat disimak juga di </p><ul><li>brainly.co.id/tugas/8941232</li><li>brainly.co.id/tugas/13303857</li><li>https://brainly.co.id/tugas/4471491</li></ul><h3>=======================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 11</p><p><strong>Mapel </strong>; Matematika</p><p><strong>Kategori </strong>: matriks</p><p><strong>Kode</strong>: 11.2.5</p><br><p><strong>Kata Kunci</strong>: Matriks, Perkalian matriks, Penjumlahan matriks, Pengurangan matriks</p><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-3-bilangan-genap-berurutan-sama-dengan-90jumlah-bilangan-460",
+            "question": "jumlah 3 bilangan genap berurutan sama dengan 90.jumlah bilangan terbesar dan terkecil adalah........... \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VIII<br>Pelajaran : Matematika<br>Kategori : Opti<br>Kata kunci : bilangan genap = 2n<br><br>Jawaban ada di lampiran, semoga membantu!!!",
+                    "attachments": [
+                        "answer-attachments/jumlah-3-bilangan-genap-berurutan-sama-dengan-90jumlah-bilangan-460-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-sebuah-akuarium-seharga-rp-45000000-j-133",
+            "question": "Seorang pedagang membeli sebuah akuarium seharga Rp 450.000,00. Jika pedagang tersebut menghendaki untung 20%, berapa rupiah akuarium tersebut harus dijual?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "540.000 20 persen dr 450.000 = 90.000 jd hasilnya 540.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "450.000 x 20/100 = 90rb. 450 + 90= 540rb",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-sudut-keliling-sama-sudut-pusat-apa-119",
+            "question": "Pengertian Sudut Keliling sama Sudut Pusat apa ????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>Sudut pusat</u><span>\u00a0adalah daerah sudut yang dibatasi oleh dua jari-jari lingkaran yang titik sudutnya merupakan titik pusat lingkaran.<br></span><u>Sudut keliling</u><span>\u00a0adalah daerah sudut yang dibatasi oleh dua\u00a0</span><u>talibusur</u><span>\u00a0yang berpotongan di satu titik pada lingkaran dan titik sudutnya teletak pada keliling lingkaran.<br></span>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>Sudut Pusat</u>\u00a0adalah daerah sudut yang dibatasi oleh dua jari-jari lingkaran yang titik sudutnya merupakan titik pusat lingkaran.<br><br><u>Sudut Keliling\u00a0</u>\u00a0adalah daerah sudut yang dibatasi oleh dua\u00a0talibusur\u00a0<span>yang berpotongan di satu titik pada lingkaran dan titik sudutnya teletak pada keliling lingkaran.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-setengah-lusin-pensil-rp660000-harga-9-pensil-berapa-ru-787",
+            "question": "Harga setengah lusin pensil rp.6.600,00. harga 9 pensil berapa rupiah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Harga 1/2 lusin pensil =&gt; Rp 6.600 =&gt; 6 pensil\u00a0<br>Harga\u00a01 pensil =&gt; Rp 6.600 : 6 = Rp 1.100<br>Harga 9 pensil =&gt; Rp 1.100 x 9 = Rp 9.900",
+                    "attachments": []
+                },
+                {
+                    "answer": "harga 1 pensil berarti 1.100 jadi 1.100*9=9.900,00<br>semoga membantu yaa<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

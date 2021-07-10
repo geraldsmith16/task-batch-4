@@ -1,0 +1,130 @@
+{
+    "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx2x5-dan-gx4-x-tentukan-a-fog-x-b-gof-780",
+            "question": "Diketahui = f(x)=2x+5 dan g(x)=4-x Tentukan = a. fog (x) b. gof (x) c. fog ( -2) d. gof (-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab :<br>a) fog (x) = f(g(x))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f(4-x)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2(4-x)+5 = 8-2x+5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =13-2x<br>b) gof (x) = g (f (x) )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (2x+5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1(2x+5)+4 = -2x-5 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = -2x-1<br>c)fog (-2) = f(g (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0\u00a0  f (4(2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2(8) + 5 = 21<br>d) gof (-2) = g (f (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g(5(-4))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1 (-20) +4 = 24<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sin-45-sin-60cos-45-cos-30-tan-30-tan-60-981",
+            "question": "Sin 45\u00b0 sin 60\u00b0+cos 45\u00b0 cos 30\u00b0 / tan 30\u00b0 tan 60\u00b0 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : sinus, cosinus, sudut istimewa<br><br>Pembahasan :<br>Susut-sudut\u00a0pada trigonometri, yaitu :<br>sin 0\u00b0 = 0, cos 0\u00b0 = 1, tan 0\u00b0 = 0.<br>sin 30\u00b0 = 1/2, cos 30\u00b0 = 1/2\u00a0\u221a3, tan 30\u00b0 = 1/3\u00a0\u221a3.<span><br>sin 45\u00b0 = 1/2\u00a0\u221a2, cos 45\u00b0 = 1/2\u00a0\u221a2, tan 45\u00b0 = 1.<br>sin 60\u00b0 = 1/2\u00a0\u221a3, cos 60\u00b0 = 1/2, tan 60\u00b0 =\u00a0\u221a3.<br><span>sin 90\u00b0 = 1, cos 90\u00b0 = 0, tan 90\u00b0 =\u00a0\u221e.<br><br>Mari kita\u00a0lihat soal\u00a0tersebut.<br></span></span>[tex]\\frac{sin 45^o . sin 60^o + cos 45^o . cos 30^o}{tan 30^o . tan 60^o} \\\\= \\frac{ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}+ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}} { \\frac{1}{3} \\sqrt{3}. \\sqrt{3}} \\\\= \\frac{ \\frac{1}{4} \\sqrt{6}+ \\frac{1}{4} \\sqrt{6}} { \\frac{1}{3}.3} \\\\= \\frac{ \\frac{2}{4} \\sqrt{6} } {1}\\\\= \\frac{1}{2} \\sqrt{6} [/tex]<br><span><span><br>Semangat!<br></span></span><span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-radian-25-putaran-963",
+            "question": "Ubahlah ke bentuk satuan derajat dan radian 2/5 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/5 x 360\u00b0 = 144\u00b0<br><br>144\u00b0 : 180\u00b0 =\u00a04/5 rad\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{5} [/tex] x 60 derajat = 12 derajat<br>radian = 12 x[tex] \\frac{\u03c0}{180} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u00a0[tex] \\frac{\u03c0}{15} [/tex] radian",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannyaapakah-relasi-350",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya.apakah relasi tersebut merupakan fungsi? berikan penjelasanmu!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Iya karena pada fungsi setiap anggota A hanya bisa memasangkan satu angota B . <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya, karena <u><strong>setiap siswa</strong></u>(di daerah\u00a0domain) hanya mempunyai <u><strong>satu tanggal kelahiran</strong></u>(di\u00a0daerah kodomain), artinya setiap siswa hanya mempunyai satu pasangan di daerah kodomain. Sehingga terjadi relasi.<br><br>Tapi kalo tanggal kelahiran direlasikan dengan siswa(tanggal kelahiran dijadikan domain), BISA JADI tidak terjadi relasi, karena kemungkinan terdapat siswa dengan tanggal kelahiran yang sama.<br><br>sepengetahuan ane sih gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-umum-suku-ke-n-dari-barisan-bilangan-372113-933",
+            "question": "Tentukan rumus umum suku ke-n dari barisan bilangan ; 3,7/2,11/3,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus umumnya menurut saya Un=ar^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-sungsi-f-dan-g-ditentukan-dengan-rumus-fx-x2-gx-1-357",
+            "question": "Fungsi sungsi f dan g ditentukan dengan rumus f(x)= x+2 g(x) = 1/x (x # 0). tentukan fungsi invers dan f.komposisi berikut..    a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (x)\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (x)\r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (4)\r\n\r\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x+2<br>y = x+2<br>x = y-2<br>[tex] f^{-1} [/tex](y) = y-2<br>[tex] f^{-1} [/tex](x) = x-2<br><br>g(x) =\u00a0[tex] \\frac{1}{x} [/tex]<br>y =\u00a0[tex] \\frac{1}{x} [/tex]<br>xy = 1<br>x =\u00a0[tex] \\frac{1}{y} [/tex]<br>[tex] f^{-1} [/tex](x) =\u00a0[tex] \\frac{1}{x} [/tex]<br><br><br>a. [tex] (fog)^{-1} [/tex]\u00a0(x) = ([tex] g^{-1} [/tex]o[tex] f^{-1} [/tex]) (x) =\u00a0[tex] g^{-1} [/tex]([tex] f^{-1} [/tex]\u00a0(x)) =\u00a0[tex] g^{-1} [/tex](x-2) =\u00a0[tex] \\frac{1}{x-2} [/tex]<br>c.\u00a0[tex] (fog)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1}{4-2} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>b.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(x) =\u00a0\u00a0([tex] f^{-1} [/tex]o[tex] g^{-1} [/tex]) (x)\u00a0=\u00a0[tex] f^{-1} [/tex]([tex] g^{-1} [/tex] (x)) =\u00a0[tex] f^{-1} [/tex]([tex] \\frac{1}{x} [/tex]) =\u00a0[tex] \\frac{1}{x} [/tex] - 2 =\u00a0[tex] \\frac{1-2x}{x} [/tex]<br>d.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1-2(4)}{4} [/tex] =\u00a0[tex]- \\frac{7}{4} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-23456-dan-8-akan-dibentuk-bilangan-terdiri-dari-tiga-ang-202",
+            "question": "dari 2,3,4,5,6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. <strong>Banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut</strong> adalah 80 bilangan. Hasil tersebut diperoleh dengan menggunakan kaidah pengisian tempat (filling slot).\n</p><p></p><h3>Pembahasan\n</h3><p></p><p>Untuk menentukan banyaknya bilangan antara 300 dan 700 adalah tergantung dari angka ratusan yang dipilih yaitu 300-an, 400-an, 500-an, 600-an. \u00a0</p><p></p><p>Angka yang menempati posisi \u00a0</p><ul><li>Ratusan = 4 pilihan yaitu <strong>3</strong>, 4, 5, 6 (misal yang dipilih angka 3)\n</li><li>Puluhan = 5 pilihan yaitu <strong>2</strong>, 4, 5, 6, 8 (misal yang dipilih angka 2)\n</li><li>Satuan = 4 pilihan yaitu 4, 5, 6, 8\n</li></ul><p></p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= ratusan \u00d7 puluhan \u00d7 satuan\n</p><p>= (4 \u00d7 5 \u00d7 4) bilangan\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><p></p><p></p><h3>Jika menggunakan rumus permutasi yaitu\n</h3><p>Ada 6 pilihan angka yaitu 2, 3, 4, 5, 6 dan 8\n</p><p><strong>Memilih 1 angka sebagai ratusan dari 4 pilihan (3, 4, 5, 6)\n</strong></p><p>= \u2084P\u2081\n</p><p>= [tex]\\frac{4!}{(4 - 1)!}[/tex]\n</p><p>= [tex]\\frac{4 \\times 3!}{3!}[/tex]\n</p><p>= 4\n</p><p><strong>Memilih 2 angka (sebagai puluhan dan satuan) dari 5 pilihan angka yang tersisa \u00a0</strong></p><p>= \u2085P\u2082\n</p><p>= [tex]\\frac{5!}{(5 - 2)!}[/tex]\n</p><p>= [tex]\\frac{5 \\times 4 \\times 3!}{3!}[/tex]\n</p><p>= 5 \u00d7 4\n</p><p>= 20\n</p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= 4 \u00d7 20\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang banyak ratusan yang dapat terbentuk\n</p><p>https://brainly.co.id/tugas/15150946\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0</h3><p></p><p><strong>Kelas</strong> : 12\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Kaidah Pencacahan\n</p><p><strong>Kode</strong> : 12.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-dari-lim-h-gt0-fxh-fx-h-a-fx-4-381",
+            "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

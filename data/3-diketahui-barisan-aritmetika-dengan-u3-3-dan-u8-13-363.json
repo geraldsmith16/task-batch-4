@@ -1,0 +1,146 @@
+{
+    "question": "3. Diketahui barisan    aritmetika dengan U3 = 3 dan U8 = 13\r\n\r\n\u00a0\u00a0\u00a0 \r\nTentukan yang berikut ini !\r\n\r\n\u00a0 \r\n\u00a0 a. Nilai suku pertama dan bedanya\u00a0\r\n\r\n\r\n\u00a0 b. Suku ke-50\r\n\r\n\u00a0\u00a0 \r\n\u00a0 c. n jika Un = 147",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cara cari bedanya seperti ini<br>U 3 = 3<br><u>U 8 = 13</u> -<br>-5 = -10<br>B = 2<br>Lalu<br>suku pertama tinggal dikurangin 4 hehe<br>jadi -1<br><br>Suku ke 50 = (3x50 ) - 3<br><br>yang ke c tinggal gunakan cara subtitusi bila masih ada yang ditanyakan silahkan bertanya di komentar thanks :)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "U3 = a+2b = \u00a0 3<br><u>U8 = a+7b = 13</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  -  5b = -10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 2<br>b=2, U3 = a+(2x2) = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a+4 = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a = 3 - 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = -1<br><br>U50 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + (50 -1) 2<br>\u00a0\u00a0 \u00a0 \u00a0  = (-1) + (49) 2<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + 98<br>\u00a0\u00a0 \u00a0 \u00a0  = 97<br>Un\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 147<br>a+(n-1)b \u00a0\u00a0 = 147<br>(-1)+(n-1)2 = 147<br>(-1)+2n-2\u00a0\u00a0 = 147<br>2n-3\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 147<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 147+3<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 150<br>n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 75<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-y-banyaknya-susunan-huruf-yg-berbeda-yang-dapat-dib-420",
+            "question": "Tolong y,,,, :)    Banyaknya susunan huruf yg berbeda yang dapat dibentuk dari kata \"MATEMATIKA\" Adalah ....\r\n\r\na. 151.200\r\nb. 100.800\r\nc. 75.600\r\nd. 60.480\r\ne. 50.400",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Permutasi adalah penyusunan kembali suatu komponen objek dalam urutan yang berbeda dari urutan semula</p><p>Rumus : [tex]P^{n} _{r}=\\frac{n!}{(n-r)!}[/tex]</p><p>Kombinasi adalah menggabungkan beberapa objek dari suatu grup tanpa memperhatikan urutan</p><p>Rumus : \u00a0[tex]C^{n}_ {r}=\\frac{n!}{r!(n-r)!}[/tex]</p><p>2 = huruf T</p><p>3 = huruf A</p><p>2 = huruf M</p><p>10 = huruf matematika </p><p>P=10!/2!3!2!</p><p>P=10.9.8.7.6.5.4.3/3!.2.2</p><p>P=10.9.8.7.2.5.3</p><p>P=151200 (A)</p><p>Materi yang serupa : </p><p>https://brainly.co.id/tugas/16127092</p><p>Semoga Membantu</p><p>Mapel: \u00a0Matematika </p><p>Kelas: \u00a011</p><p>Materi: \u00a0Permutasi dan Kombinasi </p><p>Kata Kunci: \u00a0Permutasi </p><p>Kode soal: \u00a02</p><p>Kode Kategorisasi : 11.2.2 </p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tg-x-p-maka-nilai-2-sin-xcos-x-adalah-293",
+            "question": "Jika tg x =p , maka nilai 2 sin x.cos x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x =p/1=de/sa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi2 = de2 + sa2=p2 + 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi = akar (p2+1)<br>sin x =de/mi=p/akar(p2+1)<br>cos x = sa/mi=1/akar(p2+1)<br>2 sin x.cos x= 2. p/akar(p2+1) . 1/akar(p2+1)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2p/(p2+1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan x=p<br>[tex] \\frac{sinx}{cosx} = \\frac{p}{1} [/tex]<br>cari sisi miringya dulu<br>miring=[tex] \\sqrt{p^2+1} [/tex]<br><br>sin x=\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex]<br>cos x=\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br><br>2 sin x cos x= 2.\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex] .\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02.\u00a0[tex] \\frac{p}{p^2+1} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ditembakan-vertikal-ke-atas-mencapai-tinggi-h-met-626",
+            "question": "sebuah\u00a0roket ditembakan vertikal\u00a0ke atas\u00a0mencapai tinggi h meter setelah t detik dirumuskan dengan h(t)=\u00a0400t-5t\u00b2 tinggi maximum roket adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk mencari nilai tinggi maximum nya, yaitu dengan mencari nilai t pada\u00a0turunan pertamanya<br>h(t) = 400t-5t<span>\u00b2<br>h(t) = 400 - 10t<br><br>0 = 400 - 10t // pindah ruas<br>10t = 400<br>t = 400/10 = 40 \u00a0&lt;-- maka tinggi maksimu terjadi saat t=40<br><br>dan nilai ketinggian maksimunya adalah<br>h(t) = 400t - 5t</span><span>\u00b2<br>h(t) = 400 (40) - 5 (40</span><span>\u00b2)<br></span><span>\u00a0 \u00a0 \u00a0\u00a0= 16000 - 8000 = 8000 meter<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahiranya-apakah-relasi-460",
+            "question": "jika siswa direlasikan dengan tanggal kelahiranya. apakah relasi tersebut merupakan fungsi?berikan enjelasanmu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya. karena masing-masing himpunan mendapatkan pasangannya sendiri.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya,karena setiap siswa hanya akan memiliki 1 tanggal lahir,tidak kurang-tidak lebih<br>dan kemungkinan akan ada beberapa\u00a0siswa yang memiliki tanggal lahir yang sama tapi tetap 1 tanggal lahir,itu juga disebut fungsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-kecepatan-80kmjam-memerlukan-waktu-2-jam-15-774",
+            "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-dibagi-dengan-x-2-sisanya-24-sedangkan-jika-fx-777",
+            "question": "Jika f(x) dibagi dengan (x \u2013 2) sisanya 24, sedangkan jika f(x) dibagi dengan (2x \u2013 3) sisanya 20. Jika f(x) dibagi dengan (x \u2013 2) (2x \u2013 3), sisanya adalah ...    .A. 8x + 8\u00a0\r\nB. 8x \u2212 8\u00a0\r\nC. \u2212 8x + 8\u00a0\r\nD. \u2212 8x \u2212 8\u00a0\r\nE. \u2212 8x + 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakek cara horner niy ,,, kalau buat disini agak sulit<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2)= 24<br>f(3/2)=20<br>2a + b=24<br>3/2a + b = 20 X 2\u00a0 {3a + 2b= 40}<br>baru di elimenasi dapat a=8 dan b=8<br>ax +b = 8x + 8 {a}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

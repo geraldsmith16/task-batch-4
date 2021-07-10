@@ -1,0 +1,142 @@
+{
+    "question": "diketahui deret geometri dengan suku pertama 6 dan suku ke empat adalah 48, jumlah enam suku pertama deret tsb adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] u_{1} = a= 6[/tex]<br><br>[tex] u_{4} =[/tex]ar\u00b3 = 48<br><br>ar\u00b3 = 48<br>6r\u00b3=48<br>r\u00b3 = 48/6<br>r\u00b3=8<br>r =\u00a0\u221b8=2<br><br>[tex] s_{6}  =  \\frac{a( r^{n} -1)}{r-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 2^{6} -1)}{2-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 64 -1)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 63)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{378} [/tex]<br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-tg-x-p-maka-nilai-2-sin-xcos-x-adalah-293",
+            "question": "Jika tg x =p , maka nilai 2 sin x.cos x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x =p/1=de/sa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi2 = de2 + sa2=p2 + 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi = akar (p2+1)<br>sin x =de/mi=p/akar(p2+1)<br>cos x = sa/mi=1/akar(p2+1)<br>2 sin x.cos x= 2. p/akar(p2+1) . 1/akar(p2+1)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2p/(p2+1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan x=p<br>[tex] \\frac{sinx}{cosx} = \\frac{p}{1} [/tex]<br>cari sisi miringya dulu<br>miring=[tex] \\sqrt{p^2+1} [/tex]<br><br>sin x=\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex]<br>cos x=\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br><br>2 sin x cos x= 2.\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex] .\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02.\u00a0[tex] \\frac{p}{p^2+1} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaaa-a-x-02-548",
+            "question": "Tolong bantu yaaa \r\na x 0^2 = ....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00a0x 0^2 = a x (0 x 0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a x 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-dua-sudut-yang-berkomplemen-adalah-474",
+            "question": "Besar dua sudut yang berkomplemen adalah ..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 kalo ngakkk salahhhh dehhh...",
+                    "attachments": []
+                },
+                {
+                    "answer": "audut komplemen adalah dua buah sudut lancip yg besarnya 90derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menjawab-limit-fungsi-menggunakan-tabel-dan-grafik-198",
+            "question": "Menjawab limit fungsi menggunakan tabel dan grafik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menjawab limit berarti menjawab pertanyaan dengan waku yang telah ditentukan",
+                    "attachments": []
+                },
+                {
+                    "answer": "grafik tu apa.............................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-seper-berapa-putaran-penuhkah-sudut-sudut-berikut-a-3-202",
+            "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kali-dalam-1-hari-terbentuk-sudut-sudut-a90-derajat-b180-878",
+            "question": "Berapa kali dalam 1 hari terbentuk sudut sudut    a.90 derajat \r\n b.180 derajat \r\n c.30 derajat \r\n d. 120 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.90 derajat = 5 kali<br>b.180 derajat= 10 kali<br>c.30 derajat= 12 kali<br>d. 120 derajat= 3 kali",
+                    "attachments": []
+                },
+                {
+                    "answer": "Antara jarum jam dinding?<br><br>90 derajat 4 kali, 03.00 09.00 15.00 21.00<br>180 derajat 2 kali 06.00 18.00<br>30 derajat 4 kali 01.00 11.00 13.00 23.00<br>120 derajat 4 kali 04.00 08.00 16.00 20.00<br><br>Sudut antara jarum jam yang panjangnya tidak tepat di 12 karena selain saat itu sudutnya tidak pas. Bisa saja jarum pendek yang angkanya lebih sedikit sudutnya sudah tidak tepat.<br><br>Maaf kalau salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-koordinat-a1-p-5-b2-4-4-dan-c-1-2-q-jik-179",
+            "question": "Diketahui koordinat A(1, p, 5), B(2, -4, 4), dan C(-1, 2, q). jika A, B, dan C segaris, nilai p+q = .......    pembahasan nya juga yaaa, tolong di bantu ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{}{AB} = \\left[\\begin{array}{ccc}1-2\\\\p-(-4)\\\\5-4\\end{array}\\right] = \\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right] [/tex]<br><br>[tex] \\frac{}{BC} = \\left[\\begin{array}{ccc}2-(-1)\\\\-4-2\\\\4-q\\end{array}\\right] = \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right] [/tex]<br><br>Sehingga :<br>Karena segaris maka :<br>AB segaris BC atau sama saja dengan AB = BC<br><br>[tex]\\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right]= k \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right][/tex]<br><br>Maka :<br>- 1 = k3<br>k = -1/3<br><br>Untuk nilai p :<br>p + 4 = -6k<br>p + 4 = -6(-1/3)<br>p + 4 = 2<br>p = 2 -\u00a04<br>p = - 2<br><br>Untuk nilai q :<br>1 = k (4 - q)<br>1 = (-1/3) ( 4 - q)<br>- 3\u00a0= 4 - q<br>- 3 - 4 = - q<br>- 7 = - q<br>q = 7<br>\u00a0<br><strong>Maka untuk p + q</strong><br><strong>= - 2 + 7</strong><br><span><strong>= 5</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-berat-1cm-besi-50-gram-dan-pi-314-berapa-kg-berat-422",
+            "question": "jika berat 1cm besi 50 gram dan pi 3,14\u00a0\u00a0\u00a0 ,\u00a0 berapa kg berat kapsul tersebut , diameter =60\u00a0 . t= 80.. kapsul besi yang terdiri dari tabung dan belahan bola \u00a0 A.6876kg B.7986kg C . 8478kg D .\u00a0 16956 kg \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti kan di atas tabung ada 1/2 bola dan dibawah tabung ada 1/2 bola juga berarti disatukan aja volumenya jadi 1 bola paham ? <br>lalu cari total volume kapsul ...... <br>V kapsul = V bola + V tabung <br> = 4/3 .pi . [tex] r^{3} [/tex] + pi . [tex] r^{2} [/tex] . tinggi <br>= 4/3 . 3.14 . [tex] 30^{3} [/tex] + pi . [tex] 30^{2} [/tex] . 80 = 339120 cm3 (harus pakai kalkulator biar gk bingung ngitungnya ) <br>lalu kan 1 cm3 = 50 gram jadi berat total kapsul = 339120 x 50 =16956000gram = 16956kg<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

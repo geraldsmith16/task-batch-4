@@ -1,0 +1,134 @@
+{
+    "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-5x-7-gt-7x5-maka-840",
+            "question": "Jika 5/x-7 &gt; 7/x+5, maka...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/ x-7 &gt; 7/x+5\u00a0<br>5x+25/(x-7)(x+5) &gt; 7x-49/(x-7)(x+5)\u00a0<br>5x+25 &gt; 7x-49\u00a0<br>25+49 &gt; 7x - 5x\u00a0<br>74 &gt; 2x\u00a0<br>37 &gt; x\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-koordinat-a1-p-5-b2-4-4-dan-c-1-2-q-jik-179",
+            "question": "Diketahui koordinat A(1, p, 5), B(2, -4, 4), dan C(-1, 2, q). jika A, B, dan C segaris, nilai p+q = .......    pembahasan nya juga yaaa, tolong di bantu ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{}{AB} = \\left[\\begin{array}{ccc}1-2\\\\p-(-4)\\\\5-4\\end{array}\\right] = \\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right] [/tex]<br><br>[tex] \\frac{}{BC} = \\left[\\begin{array}{ccc}2-(-1)\\\\-4-2\\\\4-q\\end{array}\\right] = \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right] [/tex]<br><br>Sehingga :<br>Karena segaris maka :<br>AB segaris BC atau sama saja dengan AB = BC<br><br>[tex]\\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right]= k \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right][/tex]<br><br>Maka :<br>- 1 = k3<br>k = -1/3<br><br>Untuk nilai p :<br>p + 4 = -6k<br>p + 4 = -6(-1/3)<br>p + 4 = 2<br>p = 2 -\u00a04<br>p = - 2<br><br>Untuk nilai q :<br>1 = k (4 - q)<br>1 = (-1/3) ( 4 - q)<br>- 3\u00a0= 4 - q<br>- 3 - 4 = - q<br>- 7 = - q<br>q = 7<br>\u00a0<br><strong>Maka untuk p + q</strong><br><strong>= - 2 + 7</strong><br><span><strong>= 5</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-deret-geometri-diketahui-suku-ke-2-adalah-6-dan-suku-761",
+            "question": "Pada sebuah deret geometri diketahui suku ke 2 adalah 6 dan suku ke 5 adalah 48 jumlah sepuluh suku pertaama adaalah ???    tolong dibantu jawaban nya yaaaah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "_ 6 _ _ 48<br><br>Jadi<br>U1 = 3<br>U2 = 6<br>U3 = 12<br>U4 = 24<br>U5 = 48<br><br>Sn = a(r^n-1) / r -1<br>= 3 (2^10-1) / 2-1<br>= 3 . 1023 /1<br>=3069",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik: U2=6<br>\u00a0 \u00a0 \u00a0 \u00a0U5=48<br>Pertamaanya cari dulu r nya<br>saya punya cara mudahnya,rumusnya:<br>\u00a0[tex] r^{(suku yang paling besar-suku yang paling kecil)} [/tex] = <u>(nilai suku yg paling besar)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 (nilai suku yg paling kecil)<br><br>jadi cara ngerjainnya:<br>[tex] r^{5-2} [/tex] = <u>48</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 6<br><u></u>[tex] r^{3} [/tex] \u00a0 \u00a0 =8<br>\u00a0 \u00a0 \u00a0\u00a0 r =[tex] 3\\sqrt{8} [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0r = 2<br><u></u><br>jadi cara mencari [tex] S_{10} [/tex] = <u>a([tex] r^{n} [/tex] -1)<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 r-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <u>3([tex] r^{10} [/tex] -1)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u>3(1023)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 X 1023 = 3069<br><br>jadi\u00a0[tex] S_{10} [/tex] yaitu 3069<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-bilangan-kuadrat-jika-dibagi-3-maka-kemunkinan-sisanya-bera-782",
+            "question": "Suatu bilangan kuadrat jika dibagi 3 maka kemunkinan sisanya berapa..???    tolong di jelaskan se detail mungkin... oke friend...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> jumlah dua bilangan berpangkat sama ganjil, habis dibagi jumlah bilangan yang dipangkatkan 3</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu bia<br>langan kuadrat dibagi 3 maka kemungkinan sisanya adalah <br>1 atau 0 <br>dibuat tabel aja <br><u>bil kuadrat</u>\u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0<u> sisa setelah dibagi 3 </u><br>4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>16\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 <br>25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>36\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>49\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>64\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>81\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>dst<br>jadi sisa pembagian bil kuadrat oleh 3 secara berurutan adalah <br>1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, ...<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-akar-akar-persamaan-kuadrat-dari-x22x-80-831",
+            "question": "Carilah akar-akar persamaan kuadrat dari x\u00b2+2x-8=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0 adalah -4 dan 2.</p><p></p><h3>Pembahasan</h3><p>Persamaan kuadrat adalah persamaan polinomial dengan suku terdingginya berderajat 2.</p><p>Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c, dengan a, b dan c adalah koefisiennya, x\u00b2 dan x adalah peubahnya.</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Jika p dan q adalah akar-akar persamaan x\u00b2 - 16x + 48=0 dengan p &gt; q,nilai \u2153p - \u00bdq adalah brainly.co.id/tugas/23470449</li></ul><p></p><p>Untuk mengetahui akar-akar dari persamaan kuadrat dengan cara memfaktorkan atau menggunakan rumus abc.</p><p>Pada Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c = 0, penjumlahan akar-akarnya = [tex]\\frac{-b}{a}[/tex]\u00a0, dan hasil kali akar-akarnya = [tex]\\frac{c}{a}[/tex]\u00a0.</p><p>Rumus diskriminan persamaan kuadrat</p><p>D = b\u00b2 - 4ac</p><p>Jika akar-akar dari persamaan kuadrat adalah p dan q, maka bentuk persamaan kuadratnya adalah</p><p>x\u00b2 - (p+q)x + pq = 0</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Pengertian persamaan kuadrat dapat disimak di brainly.co.id/tugas/1779207 \u00a0</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0</p><p>Kita faktorkan</p><p>x\u00b2 + 2x - 8 = 0</p><p>(x + 4)(x - 2) = 0</p><p>x + 4 = 0 \u00a0atau x - 2 = 0</p><p>x = -4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = 2</p><p></p><p>HP = {-4, 2}</p><p></p><h3>Pelajari lebih lanjut</h3><ul><li>Tentukan persamaan kuadrat yang akarnya 8 dan -2 dapat disimak di brainly.co.id/tugas/4992073</li><li>Akar akar persamaan kuadrat 2x^-5x-3=0 dapat disimak di brainly.co.id/tugas/4039095</li></ul><h3>===============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Persamaan kuadrat</p><p><strong>Kode </strong>: 9.2.9</p><p></p><p><strong>Kata Kunci </strong>: Persamaan kuadrat, akar-akar persamaan kuadrat, Diskriminan.</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-keliling-suatu-jajargenjang-adalah-56cm2buatlah-ukuran-587",
+            "question": "Diketahui keliling suatu jajargenjang adalah 56cm2.Buatlah ukuran jajargenjang tersebut (yang memungkinkan)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(a+b) = 2(12+16)<br>Jadi keliling jajar genjang 56 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

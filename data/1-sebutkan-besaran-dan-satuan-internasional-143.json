@@ -1,0 +1,138 @@
+{
+    "question": "1. sebutkan besaran dan satuan internasional?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>1. massa | kilogram (kg)<br>2. panjang | meter (m)<br>3. kuat arus | Ampere (A)<br>4. waktu | sekon (s)<br>5. suhu | Kelvin (K)<br>6. jumlah zat | mol (mol)<br>7. intensitas cahaya | candela (cd)</span><span>tapi ini kaya nya pelajaran ipa bukan matematika\u00a0</span><span>kalau matematika itu kaya gini\u00a0</span><span><span>Panjang[L]<br>Massa[M]<br>Waktu[T]<br>Suhu<br>Kuat Arus[I]<br>Intensitas cahaya[J]<br>Jumlah zat[N]</span></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167",
+            "question": "keliling sebuah belahketupat 100cm dan panjang salah satu diagonalnya 48cm. luas belahketupat tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Keliling sebuah belahketupat 100 cm dan panjang salah satu diagonalnya 48 cm. Luas belahketupat tersebut adalah [tex]\\displaystyle\\boxed{\\sf 336~cm^2} [/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Segi empat</strong> adalah bangun datar yang memiliki empat sisi dan empat sudut. Contoh bangun datar yang dikatakan segi empat, antara lain: persegi, persegi panjang, jajar genjang, belah ketupat, layang-layang, dan trapesium.</p><p>Adapun sifat-sifat <strong>belah ketupat</strong>, antara lain :</p><ul><li>Keempat sisinya sama panjang;</li><li>Sudut-sudut yang berhadapan sama besar;</li><li>Kedua diagonalnya saling tegak lurus dan saling membagi dua sama panjang;</li><li>Memiliki 2 simetri lipat dan 2 simetri putar.</li></ul><p>Untuk menyelesaikan soal ini kita akan menggunakan <strong>rumus</strong> berikut, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Keliling} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf K = 4 \\times s}} [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Luas} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf L = \\dfrac{1}{2} \\times d_1 \\times d_2}} [/tex]</p><p>dimana :</p><p>\u25cb L = luas belah ketupat</p><p>\u25cb K = keliling belah ketupat</p><p>\u25cb s = panjang sisi belah ketupat</p><p>\u25cb d\u2081 = diagonal belah ketupat</p><p>\u25cb d\u2082 = diagonal belah ketupat </p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>[tex]\\displaystyle\\sf K = 100~cm [/tex]</li><li>[tex]\\displaystyle\\sf d_1 = 48~cm [/tex]</li></ul><p><strong>Ditanya : </strong>Luas (L) = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan panjang sisi belah ketupat (s)</strong></p><p>[tex]\\displaystyle\\sf 4 \\times s = K [/tex]</p><p>[tex]\\displaystyle\\sf 4 \\times s = 100 [/tex]</p><p>[tex]\\displaystyle\\sf s = \\frac{100}{4} [/tex]</p><p>[tex]\\displaystyle\\sf s = 25~cm [/tex]</p><p>diperoleh: s = 25 cm</p><p>\u2756 <strong>Menentukan panjang diagonal salah satunya (d\u2082)</strong></p><p>Perhatikan segitiga siku-siku yang diarsir pada lampiran, kita akan mencari x dengan menggunakan teorema Pythagoras.</p><p>[tex]\\displaystyle\\sf x = \\sqrt{25^2 - 24^2} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{625 - 576} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{49} [/tex]</p><p>[tex]\\displaystyle\\sf x = 7~cm [/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\sf d_2 = 2x [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 2 \\times 7 [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 14~cm [/tex]</p><p>diperoleh: d\u2082 = 14 cm</p><p>\u2756 Sehingga, <strong>luas belah ketupat </strong>tersebut</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times d_1 \\times d_2 [/tex]</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times 48 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\sf L = 24 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\boxed{\\sf L = 336~cm^2} [/tex]</p><p>\u2234 <strong>Kesimpulan : </strong>Jadi, luas belah ketupat tersebut adalah 336 cm\u00b2.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>segiempat dan segitiga</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Sebuah taman berbentuk persegi panjang berukuran 30 m \u00d7 18 m. Disekeliling taman dipasang tiang lampu dengan jarak antar lampu 6 meter. Jika harga tiap tiang lampu Rp200.000,00 per tiang, maka biaya yang diperlukan seluruhnya adalah <strong><em>brainly.co.id/tugas/5481048</em></strong></li><li>Jika pada jajar genjang ABCD, besar \u2220A = (3x + 2)\u00b0 dan \u2220D = (2x + 18\u00b0) maka nilai x adalah <strong><em>brainly.co.id/tugas/14772998</em></strong></li><li>Diketahui jajaran genjang PQRS dengan \u2220Q = (5x \u2013 4)\u00b0. Jika besar \u2220P = 7/8 \u2220Q, maka nilai x adalah <strong><em>brainly.co.id/tugas/130684</em></strong></li></ul><h3>____________________________</h3><h3>DETAIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 4 - Segiempat dan Segitiga</p><p><strong>Kode :\u00a0</strong>7.2.4</p><p><strong>Kata kunci : </strong>segiempat, belah ketupat, luas, keliling, diagonal, panjang sisi, segitiga siku-siku, teorema pythagoras</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": [
+                        "answer-attachments/keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "soal-tentang-lingkaranmohon-bantu-dengan-jawaban-yg-benar-sala-113",
+            "question": "Soal tentang lingkaran,mohon bantu dengan jawaban yg benar ,    salah satu sudut pusat dari segi n beraturana adalah 36 erajat,tentukanlah:\r\na. nilai n\r\nb.besar setiap sudut segi n beraturan\r\nc.jumlah sudut n beraturan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sudut pusat =<u>\u00a0 360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n<br>36 =\u00a0 <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  n<br>n = 10<br><br>b. besar tiap sudut segi n <br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n<br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10<br>= 180 - 36 = 144\u00b0<br><br>c. total sudut n beraturan<br>= besar sudut segi n \u00d7 n<br>= 144 \u00d7 10 = 1440\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barang-dengan-harga-rp12000-dibeli-dengan-harga-rp10200-672",
+            "question": "Sebuah barang dengan harga Rp12.000 dibeli dengan harga Rp10.200. Besar diskon untuk barang itu adalah...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12000x15/100 = 1800<br><br>12000-1800 = 10200<br><br>jadi,jumlah diskon adalah 15 persen<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-dadu-dilambungkan-satu-kali-peluang-muncul-mata-dadu-kura-286",
+            "question": "Sebuah dadu dilambungkan satu kali. peluang muncul mata dadu kurang dari 4 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>peluang muncul mata dadu kurang dari 4 \u00a0berarti 4-1 = 3 \u00a0jumlah total dadu ada 6<br>peluang muncul dalam satu kali lemparan = 3/6 = 1/2 \u00a0<br>jadi peluangnya 1/2\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-karung-beras-ditulis-bruto-100-kg-dan-tara-10-maka-n-604",
+            "question": "Jika pada karung beras ditulis bruto 100 kg dan tara 10% , maka neto adalah...    *pake caranya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100% - 10% = 90%<br><br>90<br>----- x 100 = 90kg<br>100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "netto =\u00a0bruto\u00a0- tara<br>\u00a0 \u00a0 \u00a0 \u00a0 =100 kg - (10/100 x 100 kg)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 100 kg - 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 = 90 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-sebuah-fungsi-adalah-fx-1-2x2-nilai-f-2-adalah-664",
+            "question": "Rumus sebuah fungsi adalah f(x) = 1-2x\u00b2\r\n nilai f (-2) adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(-2) =1-2(-2)^2\n         =1-8\n         =-7",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2)= 1-2(-2^2)<br>f(-2)= 1-2(4)<br>f(-2)= 1-8<br>f(-2)= -7<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204",
+            "question": "Diketahui besar sudut BCA = 25\u00b0 dan sudut CBO = 15\u00b0. Hitunglah besar    a. sudut AOB\r\n b. sudut OAB\r\n c. sudut ABC\r\n d. sudut BAC\r\n Tolong jawabannya ya. Trims",
+            "attachments": [
+                "question-attachments/diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a.AOB=5O&#039;<br>b.OAB=65&#039;<br>c.ABC=80&#039;<br>d.BAC=80&#039;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-981",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x = 1/2 akar3<br>2 sinx cosx = 1/2 akar 3<br>sinx cos x = 1/4 akar 3<br><br>Coba 30\u00a0<br><br>sin 30 cos 30 = \u00a0setengah * setengah akar 3 \u00a0(Ya)<br>sin 60 cos 60 \u00a0= setengah akar 3 * setengah (Ya)<br>sin 210 cos 210 = Ya<br><br><br>Jadi x = {30, 60, 210 }<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2x-4-lebih-dari-3x9-507",
+            "question": "2x-4 lebih dari 3x+9 = ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>2x - 4 lebih dari 3x + 9, nilai x yang memenuhi adalah x &lt; -13.</p><p></p><h3>Pembahasan</h3><p>Pertidaksamaan linear satu variabel atau PLSV merupakan kalimat terbuka yang memiliki satu variabel dan menggunakan tanda &lt;, &gt;, \u2264, \u2265.</p><p>Bentuk umum persamaan linear satu variabel ax + b = 0.</p><p>a disebut koefisien dari variabel</p><p>x adalah variabel</p><p>b adalah konstanta</p><p></p><ul><li>Pelajari Lebih Lanjut Bab PLSV \u2192 Sederhanakanlah bentuk bentuk aljabar berikut \u00a012 + 2 (4x - 3y) = brainly.co.id/tugas/2898178</li></ul><p></p><h3>Penyelesaian Soal</h3><p>2x-4 lebih dari 3x+9, nilai x yang memenuhi adalah ...</p><p>2x - 4 &gt; 3x + 9 \u00a0 kedua ruas kurangi 2x</p><p>2x - 4 - 2x \u00a0&gt; 3x + 9 - 2x</p><p>-4 &gt; x + 9 \u00a0 kedua ruas kurangi 9</p><p>-4 - 9 &gt; x + 9 - 9</p><p>- 13 &gt; x</p><p>x &lt; -13</p><p></p><p><u><em><strong>2x - 4 lebih dari 3x + 9, nilai x yang memenuhi adalah x &lt; -13.</strong></em></u></p><p></p><ul><li>Pelajari Lebih Lanjut Bab PLSV \u2192 Apa yg dimaksud persamaan linier satu variabel? brainly.co.id/tugas/1909229</li><li>25 - 4y = 6y + 15 \u00a0[ tentukan himpunan penyelesaian dari persamaan linear ] brainly.co.id/tugas/2167585</li></ul><h3>==============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: PTLSV</p><p><strong>Kode </strong>: 8.2.1</p><p></p><p><em><strong>#AyoBelajar</strong></em></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-sejauh-30-km-ke-arah-timur-kemudian-40-km-k-828",
+            "question": "sebuah kapal berlayar sejauh 30 km ke arah timur kemudian 40 km ke arah utara. jarak kapal sekarang dari tempat semula adalah???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menggunakan rumus pitagoras<br>30^2+40^2=jawaban^2<br><br>900+1600= 2500<br>\u221a2500=50 jadi jawabanya adalah 50<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Gunakan timur dg ketetapan peta sehingga timur sebagai sb x dan utara sb sumbu y.<br>sumbu x=30 m dan sb y=40<br><br>maka dg rumus phytagoras didapatkan 50 m dari posisi semula",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Batang homogaen AB yang panjangnya L dan beratnya 50 N berada dalam keadaan seimbang, seperti tampak pada gambar. batang diberi engsel pada A dan ditahan oleh tali OC pada kedudukan AC = 2/3 L dan sudut ACO = 30 derajat. jika pada ujung batang digantung beban 100 N, hitunglah:    a. tegangan tali\r\nb. komponen- komponen gaya yang dikerjakan engsel pada batang\r\nc. besar dan arah gaya engsel pada batang",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi : torsi<br>Kata kunci : tegangan tali<br>Pembahasan : jawaban dan cara ada di lampiran",
+            "attachments": [
+                "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-1.jpg",
+                "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-2.jpg",
+                "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-3.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899",
+            "question": "Dua celah sempit yang terpisah pada jarak 0.2mm disinari tegak lurus. Garis terang ketiga terletak 7,5mm dari garis terang ke nol pada layar yang jaraknya 1m dari celah. Panjang gelombang sinar dipakai adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dy/l=n\u03bb untuk terang<br>0,2mm x 7,5mm/1000mm=3\u03bb<br>\u03bb=5x[tex] 10^{-4} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik d = 0.2 mm = 2 x 10^-4 m<br>\u00a0 \u00a0 \u00a0 m = 3<br>\u00a0 \u00a0 \u00a0 p = 7,5 mm = 7,5x10^-3 m<br>\u00a0 \u00a0 \u00a0 l = 1m\u00a0\u00a0<br>Dit\u00a0\u03bb ?<br>jawab.<br><br>d.p = m.l.\u03bb<br><br>0,2x10^-4 . 7,5 x 10^-3\u00a0= 3.1 .\u03bb<br><br>\u03bb =\u00a0[tex] \\frac{2x10^-4 . 7,5x10^-3}{3} [/tex] =\u00a0[tex] \\frac{15x10^-7}{3} [/tex] = 5x10^-7 m<br><br>",
+                    "attachments": [
+                        "answer-attachments/dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-02-m-x-01-m-x-03-m-digantung-vertik-741",
+            "question": "Sebuah balok dengan ukuran 0,2 m x 0,1 m x 0,3 m digantung vertikal dari seutas kawat ringan. tentukan gaya apung pada balok itu :    a. di celupkan seluruhnya dalam minyak \r\n\r\n ( \u03c1 = 800 kg/m3)\r\nb. dicelupkan 3/4 bagian dalam air (\u03c1 = 1000 kg/m3)\r\nc. dicelupkan 1/3 bagian dalam raksa (\u03c1 = 13600 kg/m3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V balok seluruhnya = 0,2m. 0,1m. 0,3m = 0.006 m\u00b3<br>3/4 V balok = 3. 0.006 /4 = 0.0045 m\u00b3<br>1/3 V balok = 0.06 / 3 = 0.002 m\u00b3<br>a. p minyak = 800kg/m\u00b3<br>\u00a0\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 800. 10. 0.006<br>\u00a0\u00a0 \u00a0 =\u00a0 48 N<br><br>b. p air = 1000 kg/m\u00b3 <br>\u00a0\u00a0  F= p. g. V<br>\u00a0\u00a0 \u00a0 = 1000. 10. 0.0045<br>\u00a0\u00a0 \u00a0 = 45 N<br><br>c. p raksa =13600kg/m\u00b3<br>\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 13600. 10. 0.002<br>\u00a0\u00a0 \u00a0 = 272 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-perbesaran-mikroskop-pada-mata-normal-754",
+            "question": "Cara menghitung perbesaran mikroskop pada mata normal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Pembesaran mikroskop adalah hasil kali pembesaran lensa objektif dan pembesaran lensa okuler, sehingga dirumuskan:<br><br><strong>M = Mob x Mok</strong><br><br>\u2192Pembesaran Mikroskop pada saat mata berakomodasi maksimum<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob ) x (Sn / fok ) + 1</strong><br><br><br>\u2192Pembesaran Mikroskop pada saat mata tidak berakomodasi<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob) x (Sn / fok)</strong><br><br>Keterangan:<br><strong>M= Perbesaran total</strong><br><strong>Mob = Perbesaran lensa objektif</strong><br><strong>Mok = Perbesaran lensa okuler</strong><br><strong>S&#039;ob = Jarak bayangan lensa objektif</strong><br><strong>Sob = Jarak benda dari lensa objektif</strong><br><strong>Sn = titik dekat mata (25cm)</strong><br><strong>fok = Fokus lensa okuler</strong><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sepotong-balok-kayu-mengapung-diatas-air-dengan-75-volumenya-ten-136",
+            "question": "sepotong balok kayu mengapung diatas air dengan 75% volumenya tenggelam dalam air . bila volume balok itu 5000 cm\u00b3 maka (dalam kg) massa balok kayu itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>V = 5000 cm\u00b3\u00a0\u21d2 5000\u00a0\u00d7 10\u207b\u2076 m\u00b3 \u00a0= 5 x 10\u207b\u00b3 m\u00b3<br>75% volumenya tenggelam<br>\u03c1.air =\u00a01000 kg/m\u00b3 (karena balok mengapung di\u00a0air maka tetapan massa jenis air umum yg dipakai)<br>Ditanyakan : m = ?<br>Penyelesaian :<br>Volume balok untuk 75% yg tenggelam ialah :<br>75%\u00a0\u00d7\u00a05 x 10\u207b\u00b3 m\u00b3<br>=\u00a03,75\u00a0\u00d7 10\u207b\u00b3\u00a0m\u00b3<br><br>Sehingga Massanya :<br>m\u00a0=\u00a0\u03c1.air\u00a0\u00d7\u00a0Vb\u00a0<br>m\u00a0= 1000 kg/m\u00b3\u00a0\u00d7\u00a03,75\u00a0\u00d7 10\u207b\u00b3\u00a0m\u00b3<br>m\u00a0=\u00a03,75 kg\u00a0<br><br><span>Jadi massa balok ialah 3,75 Kg</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cos-120-derajat-berapa-ya-818",
+            "question": "Cos 120 derajat berapa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari cos 120\u2070 adalah - \u00b9/\u2082.</p><h3><strong>Pembahasan</strong></h3><p>Diminta untuk menentukan nilai dari <strong>cos 120\u00b0</strong>.</p><p>Mari kita pahami terlebih dahulu mengenai <strong>kuadran</strong>. Sistim koordinat dapat terbagi ke dalam empat wilayah kuadran.</p><ul><li><strong>Kuadran-1 berada dalam interval 0\u00b0 \u2264 x \u2264 90\u00b0</strong></li><li><strong>Kuadran-2 berada dalam interval 90\u00b0 \u2264 x \u2264 180\u00b0</strong></li><li><strong>Kuadran-3 berada dalam interval 180\u00b0 \u2264 x \u2264 270\u00b0</strong></li><li><strong>Kuadran-4 berada dalam interval 270\u00b0 \u2264 x \u2264 360\u00b0</strong></li></ul><p>Perhatikan nilai-nilai dari sinus, cosinus, dan tangen pada setiap kuadran berikut ini.</p><ul><li><strong>Kuadran-1, semua nilai-nilai dari sin, cos, dan tan adalah positif</strong></li><li><strong>Kuadran-2, hanya nilai sin yang positif</strong></li><li><strong>Kuadran-3, hanya nilai tan yang positif</strong></li><li><strong>Kuadran-4, hanya nilai cos yang positif</strong></li></ul><p><u>Catatan:</u> fungsi tangen dapat ditulis sebagai tan atau tg.</p><p>Garis sumbu yang memisahkan antarkuadran dapat kita sebut sebagai pembatas kuadran.</p><ul><li><strong>Pembatas kuadran mendatar adalah 180\u00b0 dan 360\u00b0</strong></li><li><strong>Pembatas kuadran tegak adalah 90\u00b0 dan 270\u00b0</strong></li></ul><p>Ingatlah hal penting berikut ini yang terkait dengan relasi sudut:</p><p><strong>A. pembatas kuadran mendatar tidak mengubah fungsi</strong></p><ul><li>sin (180\u00b0 - \u03b1) = sin \u03b1</li><li>cos (180\u00b0 - \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 - \u03b1) = - tan \u03b1</li><li>sin (180\u00b0 + \u03b1) = - sin \u03b1</li><li>cos (180\u00b0 + \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 + \u03b1) = tan \u03b1</li><li>sin (360\u00b0 - \u03b1) = sin \u03b1</li><li>cos (360\u00b0 - \u03b1) = cos \u03b1</li><li>tan (360\u00b0 - \u03b1) = - tan \u03b1</li></ul><p><strong>B. pembatas kuadran tegak akan mengubah fungsi</strong></p><ul><li>sin (90\u00b0 - \u03b1) = cos \u03b1</li><li>cos (90\u00b0 - \u03b1) = sin \u03b1</li><li>tan (90\u00b0 - \u03b1) = cot \u03b1</li><li>sin (90\u00b0 + \u03b1) = cos \u03b1</li><li>cos (90\u00b0 + \u03b1) = - sin \u03b1</li><li>tan (90\u00b0 + \u03b1) = - cot \u03b1</li><li>sin (270\u00b0 - \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 - \u03b1) = - sin \u03b1</li><li>tan (270\u00b0 - \u03b1) = cot \u03b1</li><li>sin (270\u00b0 + \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 + \u03b1) = sin \u03b1</li><li>tan (270\u00b0 + \u03b1) = - cot \u03b1</li></ul><p>Kembali kepada soal yang ditanyakan, yakni diminta untuk menentukan nilai dari cos 120\u00b0. Sudut 120\u00b0 ini tentu berada di kuadran 2 sehingga nilai dari cosinusnya adalah negatif. Kita kerjakan dengan dua cara.</p><p><strong>CARA PERTAMA</strong></p><p><strong>Gunakan cos (180\u00b0 - \u03b1) = - cos \u03b1</strong></p><p>cos 120\u00b0 = cos (180\u00b0 - 60\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - cos 60\u00b0 (ingat, nilai dari cos 60\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>CARA KEDUA</strong></p><p><strong>Gunakan cos (90\u00b0 + \u03b1) = - sin \u03b1</strong></p><p>cos 120\u00b0 = cos (90\u00b0 + 30\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - sin 30\u00b0 (ingat, nilai dari sin 30\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>Kesimpulan</strong></p><p>Untuk dapat menjawab pertanyaan tentang penentuan nilai-nilai fungsi trigonometri, kita harus pahami terlebih dahulu mengenai:</p><p>a. kuadran dan pembatas-pembatas kuadran,</p><p>b. posisi sudut pada suatu kuadran, dan</p><p>c. relasi sudut.</p><h3>--------------------------</h3><p>Pelajari persoalan trigonometri lainnya di sini</p><ol><li>https://brainly.co.id/tugas/15359538</li><li>brainly.co.id/tugas/34048</li><li>brainly.co.id/tugas/8232394</li></ol><h3>______________</h3><h3>Detil Jawaban</h3><p><strong>Kelas:</strong> X</p><p><strong>Mapel: </strong>Matematika</p><p><strong>Kategori: </strong>Trigonometri</p><p><strong>Kata Kunci: nilai, cosinus, sinus, tangen, kuadran, pembatas, sistim, koordinat, relasi, sudut</strong></p><p></p><p><strong>Kode: </strong>10.2.6 </p>",
+                    "attachments": [
+                        "answer-attachments/cos-120-derajat-berapa-ya-818-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berat-sebuah-benda-di-udara-5-n-apabila-benda-ditimbang-di-dalam-803",
+            "question": "Berat sebuah benda di udara 5 N. Apabila benda ditimbang di dalam air (massa jenis air = 1000 kg/m3) beratnya menjadi 3,2 N. Jika percepatan gravitasi g = 10 m/s2 maka massa jenis benda adalah \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fa = Wb - Wc<br>\u00a0 \u00a0 \u00a0= 5N - 3,2N<br>\u00a0 \u00a0 \u00a0 = 1,8 N<br><br>Fa = pc.gc.vc<br>1,8 N = 1000.10.v<br><br>v =\u00a0[tex] \\frac{1,8}{10 000} = 1,8x10^-4 m^3[/tex]<br><br>atau Vb = vc<br><br>[tex]p = [tex] \\frac{mb}{vb} = \\frac{0,5}{1,8x10^-4} = 2,7778 kg/m^3 [/tex]<br><br>atau\u00a0<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kan di udara 5 N dan di air 3.2 N berarti ada Farchimedes sebesar 1.8N <br>Fa=\u0440(air) x V x g <br>1.8 = 1000 x V(benda dalam fluida) x 10 <br>V benda = 1.8x[tex] 10^{-4} [/tex] <br>\u0440(benda) = m(benda) / V(benda) <br>\u0440=[tex] \\frac{0,5}{1.8x 10^{-4} } [/tex] = 2777,77 kg/m3<br>maaf kalau ada salah <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-alasan-mengapa-tangan-anda-tidak-dapat-digunakan-sebagai-701",
+            "question": "Sebutkan alasan mengapa tangan anda tidak dapat digunakan sebagai alat pengukur suhu yang baik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna tangan setiap orang rasanya pengukurnya tdk lah sama<br>dan berbeda<br>suhu saat sama-sama kedinginan dan kepanasan saja jika setiap rg yang merasakan saja pasti beda.<br><br>semoga membantu \u00a0:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena tangan hanya dapat merasakan panas tetapi tidak\u00a0dapat menentukan angka yang tertulus\u00a0berapa derajat suhu tersebut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593",
+            "question": "batang AB homogen panjang 12m berat 200 N bersandar pada dinding vertikal yg licin di B &amp; bertumpu pada lantai horizontal di A yg kasar. Batang AB membentuk sudut 60' dg bidang horizontal. Jika batang tepat akan menggeser maka besar koefisien di A adl... tolongin ya pake crnya jg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><u>Kesetimbangan Benda Tegar</u></h2><h3>UAN 2003</h3><p>Jawaban berupa Lampiran</p><p>Kelas : XI</p><p>Bab Dinamika Rotasi dan Keseimbangan Benda Tegar</p><br>",
+                    "attachments": [
+                        "answer-attachments/batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dua-balok-a-dan-b-di-atas-bidang-datar-licin-dihubungkan-dengan-389",
+            "question": "Dua balok A dan B di atas bidang datar licin, dihubungkan dengan tali dan ditarik dengan gaya mendatar F=100 N hingga mengalami percepatan tetap a . Jika massa balok A=30 kg dan massa balok B=20 kg, maka gaya tegangan tali T dan a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F =100 \u00a0N<br>\u00a0 \u00a0 \u00a0ma = 30 kg dan mb = 20 kg<br>Dit T ?<br><br>T =\u00a0[tex] \\frac{ma}{ma+mb}. F [/tex]<br><br>T =\u00a0[tex] \\frac{30}{30 + 20} . 100 N  [/tex] = 3000 / 50 = 60 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantujembatan-ponton-dibuat-dari-drum-yang-terapung-843",
+            "question": "Tolong dibantu....Jembatan ponton dibuat dari drum yang terapung diatas permukaan air. Setiap drum terisi udara sehingga terapung diatas permukaan air. Setiap drum terisi udara sehingga secara keseluruhan bermassa 20kg dan volume rata-rata 2m\u00b3. Tentukan berat beban maksimum yang dapat ditahan oleh drum tersebut...    a. 2x10\u2077 N\r\nb. 2x10\u2076 N\r\nc. 2x10\u2075 N\r\nd. 2x10\u2074 N\r\ne. 2x10\u00b3 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. m = 20 kg<br>\u00a0\u00a0 \u00a0 \u00a0 V = 2 [tex] m^{3} [/tex] = 2000 liter<br>Fa = V . g<br>\u00a0\u00a0 \u00a0 = 2.000 x 10<br>\u00a0\u00a0 \u00a0  = 2 x [tex] 10^{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

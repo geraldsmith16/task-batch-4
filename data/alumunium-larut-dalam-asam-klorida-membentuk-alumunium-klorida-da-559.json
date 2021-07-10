@@ -1,0 +1,130 @@
+{
+    "question": "Alumunium larut dalam asam klorida membentuk alumunium klorida dan gas hidrogen. persamaan reaksi. jika massa alumunium yang dilarutkan 5,4 gram, maka berapa volume has H2 yang dapat terbentuk diukur pada keadaan standar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Al + 3HCL --&gt; AlCl3 + 3/2H2<br><br>massa Al = 5,4 gr<br>mol Al = massa : Ar Al = 5,4 : 27 = 0,2 mol<br>mol gas H2 = koef H2/koef Al x mol Al = 3/2 x 0,2 = 0,3 mol<br><br>volume gas H2 pada keadaan standar :<br>V = mol H2 x 22,4<br>\u00a0 \u00a0= 0,3 x 22,4<br>\u00a0 \u00a0= 6,72 liter\u00a0<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-200-ml-larutan-timbal-ii-nitrat-03-m-direaksikan-deng-836",
+            "question": "Sebanyak 200 ml larutan timbal (II) nitrat 0.3 M direaksikan dengan 300 ml larutan kalium iodida 0.2 M menghasilkan endapan timbal (II) iodida dan larutan kalium nitrat (Ar Pb =207 I =127)    Tentukan !\r\na) Reaksi yang terjadi\r\nb) pereaksi pembatasan\r\nc) massa endapan yang terjadi\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) Pb(NO3)2 + 2KI --&gt; PbI2 + 2KNO3<br>b) pereaksi pembatas : KI<br>c) mol PbI2 = 30 mmol (dari reaksi)<br>\u00a0 \u00a0 massa PbI2 = 3.10^-2 mol. (207+127.2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 361.3.10^-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10,83 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-daya-hantar-listrik-larutan-h2so4-1-m-lebih-baik-daripada-313",
+            "question": "Mengapa daya hantar listrik larutan H2SO4 1 M lebih baik daripada larutan H2SO4 0,1 M ?en",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena makin tinggi kemolarannya semakin kuat daya hantarnya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena perbedaan kosentrasi Molalitasnya berbeda semakin tinggi molalitasnya maka semakin banyak elektron atau ion\u00a0yang di lepaskan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-50-ml-larutan-h2so4-0005-m-dicampur-dengan-50-ml-laruta-442",
+            "question": "Sebanyak 50 ml larutan H2SO4 0.005 M dicampur dengan 50 ml larutan NaOH 0.05 M. hitunglah ph larutan itu sebelum dan sesudah campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 -&gt; 50 x 0,005 = 0,25 mmol<br>NaOH -&gt; 50 x 0,05 = 2,5 mmol<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0NaOH + H2SO4\n-&gt; Na2SO4 + 2 H2O<br></span><span>Mula2 \u00a0\u00a02,5\u00a0 \u00a0 \u00a0 \u00a0 0,25 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0-<br></span><span>Reaksi\u00a00,25\u00a0 \u00a0 \u00a0\u00a0 0,25\u00a0 \u00a0 \u00a0 \u00a0\u00a0\n0,25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,25<br></span><span>Sisa \u00a0 \u00a0\u00a02,25\u00a0 \u00a0 \u00a0 \u00a0\u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\n0,25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,25<br></span>Tersisa NaOH 2,25<br>[OH-] = M x Valensi<br>[OH-] = 2,25/100 x 1 = 0,0225<br>pOH = -log [OH-]<br>pOH= -log 2,25x10^-2<br>pOH= 2-log 2,25<br>pH = 14-(2-log 2,25)<br><span>pH = 12+log 2,25</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suhu-dan-tekanan-yang-sama-20-cm3-gas-yang-mengandung-unsu-406",
+            "question": "pada suhu dan tekanan yang sama, 20 cm\u00b3 gas yang mengandung unsur nitrogen dan oksigen terurai membentuk 40 cm\u00b3 gas nitrogen dioksida dan 10 cm\u00b3 gas oksigen. rumus molekul gas tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20NxOy --&gt; 40NO2 + 10O2<br><br>*dibagi 10 untuk menyederhanakan koefisien reaksi*<br><br>2NxOy --&gt; 4NO2 + O2<br><br><strong>x</strong>\u00a0=\u00a04/2\u00a0=\u00a02<br><strong>y</strong>\u00a0= 10/2\u00a0=\u00a05<br><br>rumus senyawa = <strong>N2O5</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-kimia-dan-fisika-dari-a-logam-mg-b-asam-klorida-841",
+            "question": "Sifat kimia dan fisika dari a) Logam Mg \r\nb) asam klorida",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisika logam mg<br>wujud zat,warna,kelarutan,daya hantar listrik,kemagnetan,titik didih,titik leleh.<br>sifat kimia logam mg<br>berkarat<br>sifat fisika asam klorida<br>wujud zat<br>titik didih,massa jenis,titik leleh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dibawah-ini-yang-dapat-menghantarkan-listrik-paling-baik-a-larut-644",
+            "question": "Dibawah ini yang dapat menghantarkan listrik paling baik    a. larutan gula 0,1M\r\n b. larutan asam asetat 0.1M\r\n c. larutan asam asetat 1M\r\n d. larutan NaCl 0,1M\r\n e. larutan NaCl 1M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah E.NaCl 1M <br>karena NaCl merupakan asam kuat sehingga termasuk elektrolit kuat.Larutan elektrolit kuat merupakan penghantar listrik yang paling baik dibanding elektrolit lemah seperti asam asetat.Selain itu konsentrasinya adalah 1 dan itu lebih besar daripada 0,1 M.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-derajat-ionisasi-asamlemah-jikadiketahui-konsentrasinya-0-525",
+            "question": "Harga derajat ionisasi asam.lemah jika.diketahui konsentrasinya 0,1 M mempunyai Ph 3 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ph = 3 maka\u00a0[H+] = 10^-3<br>[H+] =D.disosiasi x\u00a0Ma<br>10^-3\u00a0= a .\u00a010^-1<br>a = 10^-2<br>a= 0,01 = 1%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mudah-membedakan-asam-basa-kuat-dengan-asam-basa-l-163",
+            "question": "Bagaimana cara mudah membedakan asam-basa kuat dengan asam-basa lemah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dengan melakukan uji menggunakan alat\u00a0pH meter<br><br>Contoh<br>Asam kuat ; HCI , H2SO4, HNO3 , HCIO4<br>Asam lemah ; CH3COOH,H2CO3,H2S , HCN<br>Basa kuat :\u00a0NAOH, KOH, BA(OH)2, CA(OH)2<br>Basa lemah :\u00a0NH3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-ml-nh3-01-m-ditambah-25-ml-hcl-01-m-kb-nh3-10-5-ph-larut-964",
+            "question": "50 ml NH3 0,1 M ditambah 25 ml HCl 0,1 M (Kb NH3 = 10^-5 ph larutan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a0 \u00a0  NH3\u00a0 +\u00a0 HCl\u00a0  &lt;panah&gt;\u00a0 NH3Cl\u00a0 +\u00a0 H2<br>m\u00a0 \u00a0 5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>t\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  2,5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>s\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2,5<br>sisa basa lemah dan garamnya= buffer<br>rumus buffer=<br>OH-=kb.mol basa lemah/garamnya <br>OH-=10^-5.2,5/2,5<br>OH-=10^-5<br>pOH=5<br>pH=14-5=9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dampak-negatif-karbon-tetraklorida-880",
+            "question": "Dampak negatif karbon tetraklorida ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>menyebabkan peroksidasi lipida dalam membran sel , menyebabkan kerusakan hati.\u00a0</span><span>Hati dan ginjal sangat rentan terhadap pengaruh zat kimia. Kerentanan ini akibat dari posisi organ hati dan ginjal dalam sirkulasi cairan badan. Seperti kita ketahui, hati dapat mudah berhubungan melalui vena portal dengan zat yang diserap dari lambung-usus dan ginjal karena fungsi ekskresinya berhubungan erat sekali dengan darah dan zat yang terdapat di dalamnya.<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menyebabkan keracunan hati",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

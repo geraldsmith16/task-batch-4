@@ -1,0 +1,151 @@
+{
+    "question": "jika siswa direlasikan dengan tanggal kelahiranya. apakah relasi tersebut merupakan fungsi?berikan enjelasanmu.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "ya. karena masing-masing himpunan mendapatkan pasangannya sendiri.<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Ya,karena setiap siswa hanya akan memiliki 1 tanggal lahir,tidak kurang-tidak lebih<br>dan kemungkinan akan ada beberapa\u00a0siswa yang memiliki tanggal lahir yang sama tapi tetap 1 tanggal lahir,itu juga disebut fungsi",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fungsi-sungsi-f-dan-g-ditentukan-dengan-rumus-fx-x2-gx-1-357",
+            "question": "Fungsi sungsi f dan g ditentukan dengan rumus f(x)= x+2 g(x) = 1/x (x # 0). tentukan fungsi invers dan f.komposisi berikut..    a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (x)\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (x)\r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (4)\r\n\r\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x+2<br>y = x+2<br>x = y-2<br>[tex] f^{-1} [/tex](y) = y-2<br>[tex] f^{-1} [/tex](x) = x-2<br><br>g(x) =\u00a0[tex] \\frac{1}{x} [/tex]<br>y =\u00a0[tex] \\frac{1}{x} [/tex]<br>xy = 1<br>x =\u00a0[tex] \\frac{1}{y} [/tex]<br>[tex] f^{-1} [/tex](x) =\u00a0[tex] \\frac{1}{x} [/tex]<br><br><br>a. [tex] (fog)^{-1} [/tex]\u00a0(x) = ([tex] g^{-1} [/tex]o[tex] f^{-1} [/tex]) (x) =\u00a0[tex] g^{-1} [/tex]([tex] f^{-1} [/tex]\u00a0(x)) =\u00a0[tex] g^{-1} [/tex](x-2) =\u00a0[tex] \\frac{1}{x-2} [/tex]<br>c.\u00a0[tex] (fog)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1}{4-2} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>b.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(x) =\u00a0\u00a0([tex] f^{-1} [/tex]o[tex] g^{-1} [/tex]) (x)\u00a0=\u00a0[tex] f^{-1} [/tex]([tex] g^{-1} [/tex] (x)) =\u00a0[tex] f^{-1} [/tex]([tex] \\frac{1}{x} [/tex]) =\u00a0[tex] \\frac{1}{x} [/tex] - 2 =\u00a0[tex] \\frac{1-2x}{x} [/tex]<br>d.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1-2(4)}{4} [/tex] =\u00a0[tex]- \\frac{7}{4} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-32-15-125-13-81-12-adalah-738",
+            "question": "Nilai dari 32 1/5 - 125 1/3 + 81 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari 32^ 1/5 - 125^ 1/3 + 81^ 1/2 adalah ...</p><p>Soal diatas menrupakan materi Eksponen yang berpangkat pecahan. Kemungkinan ini soal UN Matematika SMK.</p><p><u><strong>Sifat-sifat Perpangkatan </strong></u></p><p>[tex]$\\begin{align} \\ a^{m}\\times a^{n} &amp;= a^{m + n} \\end {align}[/tex]</p><p>[tex]$\\begin{align} \\ \\frac{ a^{m} }{ a^{n} } &amp;= a^{m - n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (ab)^{n} &amp;= a^{ n} \\times \\ b^{n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (a:b)^{n} &amp;= a^{ n} : b^{n} \\end{align}[/tex]</p><p>Lebih lengkapnya silahkan lihat lampiran II</p><p></p><h2>Pembahasan</h2><p><strong>Menentukan nilai perpangkatan pecahan</strong></p><p>[tex]$\\begin{align} \\ 32^{\\frac{1}{5}} - 125^{\\frac{1}{3}} + 81^{\\frac{1}{2}} &amp; = (2^{ 5})^{\\frac{1}{5}} - (5^{3})^{\\frac{1}{3}} + (3^{ 4})^{\\frac{1}{2}} \\\\ &amp; = 2^{5 \\times \\frac{1}{5}} - 5^{3 \\times \\frac{1}{3}} + 3^{4 \\times \\frac{1}{2}} \\\\ &amp; = 2 - 5 + 3^{2} \\\\ &amp; = -3 + 9 \\\\ &amp; = 6\\end{align}[/tex]</p><p>Untuk penulisannya bisa dilihat pada lampiran I</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Eksponen dan bentuk Akar</h3><ol><li>Jika a = 1/9, b = 16 dan c = 125, maka nilai dari 2. a^(-1/2) - b^(1/4) + c^(1/3) adalah \u2192 https://brainly.co.id/tugas/14065011</li><li>Menyederhanakan perkalian bentuk pangkat \u2192 brainly.co.id/tugas/1774225</li><li>Menghitung perpangkatan negatif\u00a0\u2192\u00a0brainly.co.id/tugas/3777097</li><li>Sifat ekponen dan logaritma\u00a0\u2192\u00a0brainly.co.id/tugas/11181034</li><li>Pangkat pecahan \u2192\u00a0brainly.co.id/tugas/6055009</li><li>Soal cerita perpangkatan \u2192 https://brainly.co.id/tugas/3116750</li></ol><h3>Detil Jawaban</h3><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 10\u00a0SMA</p><p>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Matematika\u00a0</p><p>Kategori \u00a0 \u00a0 : Bab 1 - Eksponen dan Bentuk Akar</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 10.2.1</p><p>Kata kunci : nilai dari, pangkat pecahan</p><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": [
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-1.jpg",
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-2x-3-0-mempunyai-akar-x1-dan-x2-tentu-867",
+            "question": "persamaan kuadrat x\u00b2 - 2x - 3 = 0 mempunyai akar x1 dan x2 tentukan persamaan kuadrat yang akar-akarnya 4x1 dan 4x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pk. lama:<br><span> x\u00b2 - 2x - 3 = 0<br>a = 1<br>b = -2<br>c = -3<br>x1 + x2 = -b/a = -(-2)/1 = 2<br>x1 x x2 = c/a = -3/1 = -3<br><br>Pk. baru<br></span>\n\n<span>x\u00b2- (\u03b1 + \u03b2)x + (\u03b1 . \u03b2) = 0</span>\n<br><br>\n\u03b1 = 4x1\n<br>\n\u03b2 = 4x2\n<br><br>\n(\u03b1 + \u03b2) = 4x1 + 4x2 = 4 (x1 + x2) = 4 (2) = 8\n<br>\n(\u03b1 . \u03b2) = 4x1 . 4x2 = 4 (x1.x2) = 4 (-3) =\n-12\n<br><br>Pk. Baru =&gt;<span>x\u00b2</span> \u2013 8x \u2013 12 = 0\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] x^{2} [/tex] -2x - 3 = 0<br>(x - 3) (x\u00a0+ 1) = 0<br>[tex] x_{1} [/tex] = 3<br>[tex] x_{2} [/tex] = -1<br><br>menyusun persamaan kuadrat baru jika:<br>[tex] x_{1} [/tex] = 4[tex] x_{1} [/tex] = 4x3 = 12<br>[tex] x_{2} [/tex] = 4[tex] x_{2} [/tex] = 4x-1 = -4<br><br>(x-12) (x+4)<br>= [tex] x^{2} [/tex] + 4x - 12x - 48<br>= [tex] x^{2} [/tex] - 8x -48<br><br>menurut saya ini jawabannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tlong-gan-jika-hx2-x2-2x-maka-hx-2x-x2-2x-465",
+            "question": "Tlong gan: Jika h(x+2) = x\u00b2 + 2x maka h(x)=....... 2x + X\u00b2 2x - x\u00b2 -x\u00b2 + 2x -x\u00b2 - 2x x\u00b2 - 2x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(x + 2) = x\u00b2 + 2x <br>h(x) =\u00a0 (x - 2)\u00b2 + 2(x - 2)<br>h(x) = x\u00b2 - 4x + 4 + 2x - 4 <br>h(x) = x\u00b2 - 4x + 2x + 4 - 4 <br>h(x) = x\u00b2 - 2x\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-bilangan-kuadrat-jika-dibagi-3-maka-kemunkinan-sisanya-bera-782",
+            "question": "Suatu bilangan kuadrat jika dibagi 3 maka kemunkinan sisanya berapa..???    tolong di jelaskan se detail mungkin... oke friend...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> jumlah dua bilangan berpangkat sama ganjil, habis dibagi jumlah bilangan yang dipangkatkan 3</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu bia<br>langan kuadrat dibagi 3 maka kemungkinan sisanya adalah <br>1 atau 0 <br>dibuat tabel aja <br><u>bil kuadrat</u>\u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0<u> sisa setelah dibagi 3 </u><br>4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>16\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 <br>25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>36\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>49\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>64\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>81\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>dst<br>jadi sisa pembagian bil kuadrat oleh 3 secara berurutan adalah <br>1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, ...<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

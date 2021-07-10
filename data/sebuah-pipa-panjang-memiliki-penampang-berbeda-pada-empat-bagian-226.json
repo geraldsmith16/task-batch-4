@@ -1,0 +1,132 @@
+{
+    "question": "Sebuah pipa panjang memiliki penampang berbeda pada empat bagian. Luas penampang pipa berturut-turut pada bagian 1, bagian 2 dan bagian 3 adalah 150 cm2, 100 cm2, dan 50 cm2. Laju aliran air pada bagian 1 adalah 8 m/s. Sedangkan pada bagian 4 adalah 4,8 m/s. Tentukanlah:    A. Debit air melalui keempat penampang iti\r\n B. Luas penampang pada bagian 4\r\n C. Laju air pada bagian 2 dan 3.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Jawab A<br><br>Debit air sama di semua bagian :<br>Q1 = Q2 = Q3= Q4 = 800 x 150<br>=120000cm^3/s<br><br>Jawab B<br><br>Luas penampang pada bagian 4 :<br>A1V1 = A4V4<br><br>V4 = A1V1 / A4 = 150 x\u00a08 / 4,8 = 250 cm^2<br><br>Jawab C<br><br>Laju air pada bagian 2 dan 3<br>V2 = Q2 / A2 = 120000 / 100 = 1200 cm/s = 12 m/s<br>V3 = Q3\u00a0/\u00a0A3\u00a0= 120000 / 50 \u00a0= 2400 cm/s = 24 m/s",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267",
+            "question": "Dari puncak sebuah menara setinggi 45m dijatuhkan sebuah batu. Jika percepatan gravitasi di tempat tersebut 10 m/s, kecepatan batu saat tepat menyentuh tanah sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Kecepatan batu saat tepat menyentuh tanah sebesar <strong>30 m/s</strong></p><p><strong></strong></p><h3>PEMBAHASAN</h3><p><u>Diketahui:</u></p><p>kecepatan awal batu = vo = 0 m/s</p><p>ketinggian batu = h = 45 m</p><p>percepatan gravitasi = g = 10 m/s\u00b2</p><p><u>Ditanyakan:</u></p><p>kecepatan akhir batu = v = ?</p><p><u>Penyelesaian:</u></p><p>Untuk menyelesaikan soal ini kita akan menggunakan rumus <strong>GLBB</strong> sebagai berikut ini:</p><p>[tex]v^2 = (v_o)^2 + 2 g h[/tex]</p><p>[tex]v^2 = 0^2 + 2 g h[/tex]</p><p>[tex]v^2 = 2 g h[/tex]</p><p>[tex]v = \\sqrt{ 2 g h }[/tex]</p><p>[tex]v = \\sqrt{ 2 \\times 10 \\times 45 }[/tex]</p><p>[tex]v = \\sqrt{ 900 }[/tex]</p><p>[tex]v = 30 \\texttt{ m/s}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Percepatan</strong> : https://brainly.co.id/tugas/18400185</p><p><strong>Daya Gerak</strong> : https://brainly.co.id/tugas/17121561</p><p></p><p>------------------------</p><h3>Detil Jawaban :</h3><p><strong>Kelas</strong>: 8</p><p><strong>Mapel</strong>: Fisika</p><p><strong>Bab</strong>: Gerak</p><p><strong>Kode</strong>: 8.6.1</p><p></p><p><strong>Kata Kunci</strong>: Gaya, Gerak, Jarak, Percepatan, Grafik, Menyusul</p>",
+                    "attachments": [
+                        "answer-attachments/dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "air-bermasa-250-gram-c-air-4200-jkgc-di-panaskan-hingga-ter-927",
+            "question": "air bermasa 250 gram (C air =4200 j/kg'C ) di panaskan hingga terjadi kenaikan suhu 10'C menjadi 100'C . besar kalor yang di perlukan adalah ... :-)\u221e",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diket m= 250 gram = 0,25 Kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0C=\u00a0<span>4200 j/kg&#039;C\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0</span>\u0394T = 100&#039;C - 10&#039;C = 90<br>Dit : Q=?<br>Q= m . C .\u00a0\u0394T<br>\u00a0 = 0,25 . 4200. 90<br>\u00a0= \u00a094500 <span>j/kg&#039;C\u00a0<br><br>silahkan di koreksi brngkali ad yg slh perhitungan :D</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ketika-diam-di-bumi-mempunyai-panjang-100-m-roket-t-310",
+            "question": "sebuah roket ketika diam di bumi mempunyai panjang 100 m. roket tersebut bergerak dengan kecepatan 0,8 c ( c = kecepatan cahaya dalam vakum). menurut orang dibumi panjang roket tersebut selama bergerak adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dicari kan L aksen maka menggunakan rumus\nL aksen = Lo \u221a1-(v/c)^2 \n= 100 \u221a1-0.8c^2/c^2 \n=100 \u221a1-0.64c^2 / c^2\nkemudian c^2 di coret menjadi\n=100\u221a0.36\n=100 . 0.6\n= 60 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-4-kg-ditembak-dengan-sebutir-peluru-bermass-903",
+            "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-proses-termodinamika-dalam-kehidupan-sehari-hari-721",
+            "question": "Contoh proses termodinamika dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh proses termodinamika dalam kehidupan sehari-hari adalahpanas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suatu-ayunan-sederhana-bergetar-sebanyak-60-kali-dalam-wak-600",
+            "question": "1.jika suatu ayunan sederhana bergetar sebanyak 60 kali dalam waktu 15 sekon . tentukan    a.frekuensi ayunan\r\nb.periode ayunan\r\n\r\n2.suatu getaran dalam suatu ayunan yang amplitudonya 2 cm memerlukan waktu 0,1 sekon, tentukan\r\na.hitunglah periode untuk simpanagn maksimun 5 cm\r\nb.hitunglah frekuensi untuk amplitudo 4 cm. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a. periode=n/t=60/15=4<br>\u00a0\u00a0  b. frekuensi=1/T=1/4=0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A<br>1. f =\u00a0[tex] \\frac{n}{t} [/tex] =\u00a0[tex] \\frac{60}{15} [/tex] = 4 Hz<br>2. T =\u00a0[tex] \\frac{t}{n} =  \\frac{15}{60} =  \\frac{1}{4} = 0,25 s[/tex]<br><br>B<br>yp = A sin 2\u03c0[tex] \\frac{t}{T} [/tex]<br>0,05 = 0,02 sin 2\u03c0\u00a0[tex] \\frac{0,1}{T} [/tex]<br>0,05 T = 0,02 sin 2\u03c0 0,1<br>T =\u00a0[tex] \\frac{0,02 . 0,01097}{0,05} = 0,0044 s [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842",
+            "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+            "attachments": [
+                "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "energi-dari-sebuah-partikel-yang-massa-diamnya-55x10-27-kg-se-678",
+            "question": "Energi dari sebuah partikel yang massa diamnya 5,5x10^{-27} kg setara dengan ... ( c = 3 x 10^{8} )\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "En= h (c/Lamda) \u00a0 (simbol lamda nya gk ad jadi pke tulis ja nama nya)<br><br>h itu=6,63x10^-34 Joule/Second<br><br>tingal masukan ja,, tapi lamda gk diketahui jadi gk bs dicari<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-yang-berada-di-atas-raksa-sebuah-kubus-395",
+            "question": "sebuah tangki berisi air yang berada di atas raksa. sebuah kubus besi dengan rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. tentukan tinggi kubus yang tercelup dalam setiap cairan. massa jenis besi dan raksa berturu-turut adalah 7,7 x 10^3 kg/m^3 dan 13,6 x 10^3 kg/m^3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>mb.. g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)\u00a0<br>\u03c1b Vb g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)<br>7700\u00a0= 1000 x\u00a0+ 13600 (1\u00a0-\u00a0x)\u00a0<br>7700\u00a0= 1000 x\u00a0+ 13600 - 13600 x\u00a0<br>13500 x = 5900\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 59/135\u00a0<br><br>t air = 59/135 \u00d7 60 = 26,2 mm\u00a0<br>t\u00a0raksa = 60 - 26,2 = 33,8 mm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

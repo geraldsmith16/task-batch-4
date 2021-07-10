@@ -1,0 +1,129 @@
+{
+    "question": "sebuah kumparan terdiri atas 200 lilitan berbentuk persegi panjang dengan panjang 10 cm dan lebar 5 cm. kumparan itu diputar dalam medan maget 0,5 T dan kecepatan sudut 60 rad/s. pada ujung ujung kumparan akan timbul ggl AC maksimum sebesar...V",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik :<br>N=200 <br>A=0,1 x 0,05 = 0,005 m\u00b2<br>B=0,5 T<br>\u03c9=60 rad/s<br>Dit :<br>\u03b5=...?<br><br>Peny :<br>\u03b5 =N B A \u03c9<br>\u00a0\u00a0 =200 x 0,5 x 0,005 x 60<br>\u00a0\u00a0 =30 Volt <br><br>Semoga Membantu<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-tali-karet-di-beri-beban-300gram-dan-di-gantung-vertikal-p-904",
+            "question": "sebuah tali karet di beri beban 300gram dan di gantung vertikal pada sebuah statif. ternyata karet bertambah panjang 4cm (g=10m/s-2) berapa energi potensial karet tsb...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,2 joule <br>m.g.h= 0,3 kg X 0,4 m X 10m/s^2 = 1,2 joule<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batang-homogen-massa-4-kg-dan-panjangnya-120-cm-batang-ter-613",
+            "question": "sebuah batang homogen massa 4 kg dan panjangnya 120 cm batang tersebut diputar dengan sumbu putar terletak pada 40 cm dari salah satu ujungnya hitunglah momen inersia dari batang homogen itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan teorema sumbu sejajar,\n\nI = Io + m r\u00b2\n\nI = (1/12)mL\u00b2 + m r\u00b2\n\nI = (1/12)(4)(1.2)\u00b2 + 4 (\u00bd * 1.2 - 0.4)\u00b2\n\nI = 0.64 kg m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-kapiler-dimasukkan-ke-dalam-bejana-yang-berisi-zat-ca-651",
+            "question": "Sebuah pipa kapiler dimasukkan ke    dalam bejana yang berisi zat cair.\r\n Kenaikan zat cair di dalam pipa\r\n kapiler tidak tergantung pada ....\r\n A. sudut kontak\r\n B. Tegangan permukaan\r\n C. Massa jenis zat cair\r\n D. Diameter pipa kapiler\r\n E. Tekanan udara luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C. masa jenis zat cair karena massa jenis yatcair konstan 1000 kg/m^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-pengaruh-panjang-tali-terhadap-periode-gerak-harmonik-p-733",
+            "question": "Bagaimana pengaruh panjang tali terhadap periode gerak harmonik pada ayunan sederhana ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika tali pendek maka periode besar sedangkan jika tali panjang, periode mengecil. (maybe)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-atmosfir-kira-kira-100-kpa-berapa-besar-gaya-yang-dikerj-331",
+            "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-memompa-bola-basket-857",
+            "question": "Bagaimana cara memompa bola basket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dengan mengisi angin menggunakan pompa, sehingga tekanan udara di dalam bola basket meningkat :) Saat bola di pompa, udara dari ruang hampa yg ada di pompa aja terdorong ketika mendorong tuas (lagi posisi mompa), menuju bola basket :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-mempengaruhi-besar-kecilnya-tekanan-hidrostatis-680",
+            "question": "Apa faktor yang mempengaruhi besar kecilnya tekanan hidrostatis? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas penampang dan besarnya gaya",
+                    "attachments": []
+                },
+                {
+                    "answer": "- massa jenis fluida<br>- tinggi atau kedalaman fluida dari bidang tekan (diukur dari permukaan fluida)<br>- gaya gravitasi bumi<br><br>semoga bermanfaat... :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796",
+            "question": "bila sebuah benda dicelupkan ke dalam air, maka 1/3 bagiannya akan muncul di permukaan air. jika benda docelupkan ke dalam suatu larutan yang massa jenisnya 8/9 g/cm3, maka bagian yang akan muncul di permukaan larutan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori Soal :\nFisika \u2013 Mekanika Fluida<span><br>\nKelas : 2 SMA/XI SMA<br>\nPembahasan :</span></p>\n\n<p>Baik, saya\nakan mencoba membantu menjawab. Jawaban terlampir dalam file berikut :</p><p><br></p>",
+                    "attachments": [
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-1.png",
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "roda-penerus-dari-mesin-bubut-memeiliki-diameter-10-cm-dan-ma-400",
+            "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-yang-berada-di-atas-raksa-sebuah-kubus-395",
+            "question": "sebuah tangki berisi air yang berada di atas raksa. sebuah kubus besi dengan rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. tentukan tinggi kubus yang tercelup dalam setiap cairan. massa jenis besi dan raksa berturu-turut adalah 7,7 x 10^3 kg/m^3 dan 13,6 x 10^3 kg/m^3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>mb.. g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)\u00a0<br>\u03c1b Vb g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)<br>7700\u00a0= 1000 x\u00a0+ 13600 (1\u00a0-\u00a0x)\u00a0<br>7700\u00a0= 1000 x\u00a0+ 13600 - 13600 x\u00a0<br>13500 x = 5900\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 59/135\u00a0<br><br>t air = 59/135 \u00d7 60 = 26,2 mm\u00a0<br>t\u00a0raksa = 60 - 26,2 = 33,8 mm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

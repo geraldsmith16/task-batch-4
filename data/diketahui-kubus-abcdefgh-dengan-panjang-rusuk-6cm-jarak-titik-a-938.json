@@ -1,0 +1,126 @@
+{
+    "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-2-6-18-jika-suku-terakhirnya-468",
+            "question": "Diketahui barisan geometri 2 , 6 , 18 ,... jika suku terakhirnya 1458 , suku tengah barisan tersebut adalah suku ke..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Pembahasan</h2><p>\u27aa <strong>Barisan bilangan</strong>, yaitu urutan dari bilangan-bilangan yang tersusun berdasarkan pada pola tertentu.</p><p>\u3164<strong><u>Barisan geometri</u> </strong>(barisan ukur) merupakan barisan yang hasil bagi setiap suku dengan suku sebelumnya tetap. Hasil bagi tersebut disebut dengan rasio (r). Berikut rumus-rumus yang akan digunakan dalam menyelesaikan kasus soal ini. </p><p>\u2666 <strong>Menentukan suku tengah barisan geometri</strong></p><p>[tex]\\red {\\boxed{ { \\sf U_t =  \\sqrt{a  \\times  U_n} }}}[/tex]</p><p>Keterangan:</p><ul><li>Ut = suku tengah</li><li>a = suku pertama</li><li>Un = suku terakhir</li></ul><p>\u2666 <strong>Menentukan rasio (r) </strong></p><p>[tex] \\blue {\\boxed{ { \\sf r =  \\frac{U_2}{U_1} =  \\frac{U_3}{U_2} =  \\frac{U_4}{U_3} ,...,  \\frac{U_n}{U_{n - 1}}}}}[/tex]</p><p>Keterangan:</p><ul><li>r = rasio</li><li>Un = suku ke-n</li><li>U1 = suku pertama</li><li>U2 = suku kedua</li><li>dst..... </li></ul><p>\u2666 <strong>Menentukan suku ke-n</strong></p><p>[tex] \\green {\\boxed{ { \\sf U_n = a {r}^{n - 1} }}}[/tex]</p><p>Keterangan:</p><ul><li>Un = suku ke-n</li><li>a = suku pertama</li><li>r = rasio</li></ul><p>\u2666 <strong>Menentukan letak suku tengah barisan geometri</strong></p><p>[tex] \\red {\\boxed{ { \\sf t = \\frac{1}{2}  \\: (n + 1) }}}[/tex]</p><p>Keterangan:</p><ul><li>t = posisi suku tengah</li><li>n = banyaknya suku</li></ul><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Penyelesaian Soal</h2><p><strong><u>Diketahui</u></strong><strong><u>:</u></strong> </p><p>Barisan geometri 2, 6, 18, .. dan suku terakhirnya 1458</p><ul><li>U\u2081 = a = 2</li><li>U\u2082 = 6</li><li>Un = 1458  (suku terakhir)</li></ul><p><strong><u>Ditanya</u></strong><strong><u>:</u></strong></p><p>Suku tengah barisan tersebut adalah suku ke? </p><p><strong><u>Dijawab</u></strong><strong><u>:</u></strong></p><p><strong>\u203aMenentukan </strong><strong>rasio</strong><strong> </strong><strong>(</strong><strong>r</strong><strong>)</strong></p><p>[tex]\\displaystyle  \\sf r =  \\frac{U_2}{U_1}  = \\frac{6}{2} = 3[/tex]</p><p><strong>\u203aMenentukan suku </strong><strong>tengah</strong></p><p>[tex] \\sf U_t =  \\sqrt{a  \\times  U_n} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2  \\times  1458} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2916} [/tex]</p><p>[tex] \\sf U_t = 54[/tex]</p><p><strong>\u203aMenentukan suku ke-n</strong></p><p>Yang ditanyakan berarti Ut = 54 terletak pada suku ke? Berarti terlebih dahulu kita harus mencari nilai n nya.</p><p>[tex] \\sf Un = a {r}^{n - 1} [/tex]</p><p>[tex] \\sf 1458 = 2(3{)}^{n - 1} [/tex]</p><p>[tex] \\displaystyle  \\sf \\frac{1458}{2}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf 729 =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  {3}^{6}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  \\:  \\:  6 =  n - 1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  6  +  1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  7[/tex]</p><p><strong>\u203a</strong><strong>Menentukan letak suku tengah</strong></p><p>Setelah itu, menentukan letak suku tengah barisan geometri. </p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (n + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (7 + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (8) [/tex]</p><p>[tex]\\displaystyle {\\boxed{ { \\sf t = 4}}}[/tex]</p><p>\u2756 Jadi, Ut = 54 terletak pada suku ke 4. </p><p><strong>\u3164\u3164\u3164</strong></p><h3><strong>Kesimpulan</strong><strong>:</strong></h3><p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h3>Pelajari Lebih Lanjut:</h3><p>Mengenai materi tentang barisan dan deret geometri pada link di bawah ini. </p><ol><li>Menentukan nilai tengah dan letak suku tengah dari barisan geometri brainly.co.id/tugas/39988697</li><li>Menentukan suku tengah pada barisan geometri  brainly.co.id/tugas/6301435</li><li>Menentukan nilai suku tengah dari 11 suku pada barisan geometri brainly.co.id/tugas/31495198</li></ol><p>\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 </p><h3>\u00bb Detail Jawaban</h3><p><strong>Mapel\u3164\u3164 :</strong> Matematika</p><p><strong>Kelas \u3164\u3164 :</strong> XI SMA</p><p><strong>Materi\u3164\u3164:</strong> Bab 7 - Barisan dan Deret</p><p><strong>Kode kategorisasi :</strong> 11.2.7</p><p><strong>Kata kunci : </strong>barisan geometri, suku tengah</p><p>\u3164\u3164\u3164</p><p>#AyoSemangat! </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-sebuah-lingkaran-adalah-200-cm2tentukan-besarnya-578",
+            "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2.tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut kerjakan dengan caranya.    a.10 cm\u00b2\r\nb.20 cm\u00b2\r\nc.40 cm\u00b2\r\nd.50 cm\u00b2\r\ne.100 cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring= luas derajat/360 kali luas lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suatu-deret-aritmetika-ialah-sn-85n-5-595",
+            "question": "Jumlah n suku pertama suatu deret aritmetika ialah Sn = 85n\u00a0-\u00a05n\u00b2 . Tentukan suku pertama dan bedanya? Help ya kak, aku belum mengerti karna hanya diketahui Sn Y_Y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = S1<br>a = 85(1) - 5([tex] 1^{2} [/tex])<br>a = 80<br><br>Sn =\u00a085n - 5[tex] n^{2} [/tex]<br>Sn-1 = 85(n-1) - 5[tex] (n-1)^{2} [/tex]<br>Un = Sn - Sn-1<br>Un = 90 - 10n<br>Un = a + (n-1)b<br>U2 = a + b<br>90 - 10(2) = 80 + b<br>70 = 80 + b<br>b = -10<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-balok-abcdefgh-dengan-ab-4cm-bc-8-cm-dan-bf-10-462",
+            "question": "Diketahui balok ABCD.EFGH dengan AB = 4cm, BC = 8 cm dan BF = 10 cm. Hitunglah jarak antara    a. titik B dan bidang ACGE \r\nb. titik G dan bidang CDEF\r\ntolong dengan jalan caranya ya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) AC = \u221a(AB\u00b2 + BC\u00b2) = \u221a(4\u00b2 + 8\u00b2) = \u221a80 <br>\nAC = 4\u221a5 cm <br>\ndengan perbandingan luas <br>\n\u00bd(AB*BC) = \u00bd(AC)t \u2192 t : jarak <br>\n\u00bd(4*8) = \u00bd(4\u221a5)t <br>\n16 = (2\u221a5)t <br>\nt = 8/\u221a5 = (8/5)\u221a5 cm <br><br>\nb) CF = \u221a(10\u00b2 + 8\u00b2) = \u221a164 <br>\nCF = 2\u221a41 <br>\n\u00bd(GF*CG) = \u00bd(CF)t <br>\n\u00bd(8*10) = \u00bd(2\u221a41)t <br>\nt = 40/\u221a41 = (40/41)\u221a41 cm          <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sinta-mempunyai-uang-sebesar-rp6000000-besar-uang-adik-23-da-197",
+            "question": "Sinta mempunyai uang sebesar Rp.60.000,00. Besar uang adik 2/3 dari uang Sinta. Berapa rupiah besar uang Sinta dan adik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Uang Adik : Uang Sinta<br>2 : 3<br>maka jumlah uang mereka adalah<br>= [tex] \\frac{5}{3} x 60.000[/tex]<br><br>= 5 x 20.000<br>= 100.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60.000 + 40.000 = 100.000 rupiah<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

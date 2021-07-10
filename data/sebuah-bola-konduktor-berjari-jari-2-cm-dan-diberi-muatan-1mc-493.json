@@ -1,0 +1,136 @@
+{
+    "question": "sebuah bola konduktor berjari-jari 2 cm dan diberi\u00a0muatan 1\u03bcC. Besar potensial Listrik berjarak 3 cm dari pusat bola konduktor adalah.... ( 1\u00a0\u03bcC = 10\u207b\u2076 C )",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik r1 = 2 cm = 0,02 m<br>\u00a0 \u00a0 \u00a0 r2= 3 cm = 0,03 m<br>\u00a0 \u00a0 \u00a0 \u00a0k = 9 x 10^9 N^2/C^2<br>\u00a0 \u00a0 \u00a0 \u00a0q = 1\u03bcC = 1x10^-6 C<br>Dit\u00a0\u0394V ?<br>jawab.<br><br>\u0394V = V1-V2 = k.[tex] \\frac{q}{r1} [/tex] - k .[tex] \\frac{q}{r2} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a09 x 10^9\u00a0([tex] \\frac{1x10^-6}{0,02} [/tex]) -\u00a09 x 10^9 ([tex] \\frac{1x10^-6}{0,03} [/tex])<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4,5 x 10^5 - 3 x 10^5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1,5 x\u00a010^5 Volt<br><br>Semoga membantu :) D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842",
+            "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+            "attachments": [
+                "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koefisien-momen-inersia-dari-batang-besi-yang-padat-dengan-panjan-254",
+            "question": "Koefisien momen inersia dari batang besi yang padat dengan panjang L adalah.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Koefisien momen inersia benda tegar, untuk batang kalo sumbunya melalui pusat itu 1/12, sedangkan kalau sumbunya diujung itu 1/3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung dari soal-soal nya\u00a0<br>kalau poros nya dari pusat \u00a0 I = 1/12 mLkuadrat<br>kalu poros nya dari ujung \u00a0 \u00a0 I = 1/3 mLkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemain-sirkus-sedang-bereaksi-dgn-memutar-sebuah-cincin-621",
+            "question": "seorang pemain sirkus sedang bereaksi dgn memutar\" sebuah cincin tipis yg massa 800 gram dan berdiameter 50 cm. cincin tersebut diputar melalui salah satu garis singgungnya.jika cincin dpt menempuh 400 radian tiap sekonnya,maka besar momentumsudut cincin tersebut adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m = 800 gram = 0,8 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03c9 = 400 rad/s<br>Dit : L<br>L = I .\u00a0\u03c9<br>I = m r\u00b2<br>I = 0,8 (0,5)\u00b2<br>\u00a0 = 0,8 . 0,25<br>\u00a0 = 0,2 kgm\u00b2\u00b2<br><br>L = I .\u03c9<br>\u00a0 \u00a0= 0,2 400<br>\u00a0 \u00a0= 80 kgm\u00b2/s<br><br>silahkan dikoreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-oleh-p-650",
+            "question": "batang panjangnya 1 m bergerak dengan kecepatan v. diamati oleh pengamat yang diam panjang batang menjadi 80 cm. bila c=kecepatan cahaya, maka kecepatan batang itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=80 cm&gt; 0.8 m<br>Lo = 1 m<br>L = Lo/y &gt; y= Lo/L &gt; y= 1/0.8 &gt; y= 5/4<br>dengan menggunakan rumus pitagoras maka V = 3/5c (0.6c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-atmosfir-kira-kira-100-kpa-berapa-besar-gaya-yang-dikerj-331",
+            "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-alasan-mengapa-tangan-anda-tidak-dapat-digunakan-sebagai-701",
+            "question": "Sebutkan alasan mengapa tangan anda tidak dapat digunakan sebagai alat pengukur suhu yang baik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna tangan setiap orang rasanya pengukurnya tdk lah sama<br>dan berbeda<br>suhu saat sama-sama kedinginan dan kepanasan saja jika setiap rg yang merasakan saja pasti beda.<br><br>semoga membantu \u00a0:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena tangan hanya dapat merasakan panas tetapi tidak\u00a0dapat menentukan angka yang tertulus\u00a0berapa derajat suhu tersebut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-percobaan-dengan-bola-kasti-dan-kelereng-diluncurkan-pada-457",
+            "question": "dalam percobaan dengan bola kasti dan kelereng, diluncurkan pada bidang miring dengan kemiringan kurang lebih 40 derajar dimana percobaan tersebut dilakukan di bidang licin (lantai) dan dirumput, setelah percobaan dilantai ternyata kelereng menempuh jarak lebih jauh dibanding kasti sedangkan saat dirumput bola kasti yang menempuh jarak lebih jauh, mengapa demikian?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena pada saat kelereng meluncur di bidang licin klereng miliki kcepatan\u00a0yng lbih cepat d banding bola kasti sedangkann pada saat di rumput bola kasti memng cepat krena bola di desain mmang untuk rmput. :D<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena\u00a0<br>1. pada bidang licin tekanan kelereng lebih kecil dan luas permukaan kelereng yang licin menyebabkan\u00a0\u00a0gaya gesek yang di timbulkan sedikit namun pada bidang yang kasar tekanan kelereng mengalami gaya gesek yang besar karena ukuranya kecil dan masanya besar sehingga gaya yang bekerja pada kelereeg hanya sedikit jadi tidak dapat menempuh jarak yang jauh<br><br>2. pada bidang yang licin bola memiliki masa yang besar namun luas permukaan bola kasti yang kasar menyebabkan terjadinya gaya gesek yang lebih besar sehingga jarak yang di tempuh tidak begitu jauh.\u00a0namun pada bidang yang kasar gesekan antara rumput dan bola kasti yang terjadi hanya sedikit karena ukuranya yang besar dan massanya yang ringan\u00a0menyebabkan bola kasti dapat melakukan gesekan yang kecil\u00a0dengan rumput\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-alat-yang-menerapkan-hukum-pascal-berupa-alat-pengepres-hi-116",
+            "question": "Sebuah alat yang menerapkan hukum pascal berupa alat pengepres hidrolik memiliki penghisap besar yang luas penampangnya A1=250 cm2 dan penghisap kecil A2=6cm2. jika gaya tekan pada F2=300 N diberikan pada penghisap kecil, berapa besar beban maksimum yang bisa diangkat pada penghisap besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui = Penghisap besar = 250 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Penghisap kecil = 6 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  Gaya tekan penghisap kecil = 300 N<br>Ditanyakan = Beban maksimum penghisap besar?<br>[tex] \\frac{F1}{A1} =  \\frac{F2}{A2}  \\\\  \\frac{F1}{250} =  \\frac{300}{6}  \\\\  F1 =  \\frac{250 . 300}{6}  \\\\ F1 = \\frac{75000}{6}  \\\\ F1 = 12500 N[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-5kg-dilempar-vertikal-ke-atas-dengan-kecepatan-awa-361",
+            "question": "benda bermassa 5kg dilempar vertikal ke atas dengan kecepatan awal 10m/s,besarnya energi potensial di titik tertinggi yang dicapai\u00a0benda adalah?(g= 10m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><u>[USAHA ENERGI]</u></strong><br><br><strong>DIketahui:</strong><br>m=5 kg<br>vo= 5m/s<br>g=10 m/s\u00b2<br>\u03b1=90\u00b0\u21d2dilempar keatas<br><strong>Ditanyakan: </strong>Ep saat h max?<br><strong>Dijawab:</strong><br>Cari dahulu h max:<br>h max =<u> vo\u00b2.sin\u00b2\u03b1\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>10\u00b2 . sin\u00b2 (90)</u> \u00a0 \u00a0\u21d2 sin 90=1 maka 1\u00b2\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>100. 1\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 meter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>Maka energi potensial saat h max:<br>Ep = m. g . h\u00a0max\u00a0<br>\u00a0 \u00a0 \u00a0 = 5 . 10 . 5<br>\u00a0 \u00a0 \u00a0 = 250 J<br><br><strong>Jelas ya.\u00a0</strong>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

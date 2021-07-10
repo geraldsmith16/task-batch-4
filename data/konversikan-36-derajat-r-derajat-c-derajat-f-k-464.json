@@ -1,0 +1,150 @@
+{
+    "question": "Konversikan\u00a0\r\n36 derajat R = ...derajat C = ...derajat F = ...K\u00a0\r\nbeserta cara penyelesaiannya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "C: 5/4 \u00d7 36 = 45 C \nF: 9/4 \u00d7 36 = 81+32=113 F\nK: 45+273=318 K inii yaa maff klo sllah",
+            "attachments": []
+        },
+        {
+            "answer": "C : 5/4 x 36 = 45 derajat C<br><br>F :9/4 x 36 + 32 = 113 derajat F<br><br>K : 36 + 273 = 309 derajat K<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-1-hari-terbentuk-sudut-787",
+            "question": "Jika kita perhatikan jam, berapa kali kah 1 hari terbentuk sudut sudut dibawah ini    a. 90 derajat = ?\r\nb. 180 derajat = ?\r\nc. 30 derajat = ?\r\nd. 120 derajat = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jam = 360\u02da<br>90\u02da = 360/90\u00a0= 4<br>180\u02da = 360/180 = 2<br>30\u02da = 360/30 = 12<br>120\u02da = 360/120 = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.4<br>b.12<br>c.2<br>d.3<br>terimakasih<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahiranya-apakah-relasi-460",
+            "question": "jika siswa direlasikan dengan tanggal kelahiranya. apakah relasi tersebut merupakan fungsi?berikan enjelasanmu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya. karena masing-masing himpunan mendapatkan pasangannya sendiri.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya,karena setiap siswa hanya akan memiliki 1 tanggal lahir,tidak kurang-tidak lebih<br>dan kemungkinan akan ada beberapa\u00a0siswa yang memiliki tanggal lahir yang sama tapi tetap 1 tanggal lahir,itu juga disebut fungsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-simbol-tak-terdefinisi-dan-tak-terhingga-itu-sama-dan-252",
+            "question": "apakah simbol \"tak terdefinisi\" dan \"tak terhingga\" itu sama? dan bagaimanakah bentuk lambang \"tak terdefinisi\"? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "engga , gak sama ..\nkalo tak terdefini tuh kayak ~/~ hasilnya pasti kita gak ketahui ~ \ntapi kalo tak terhingga tuh kayak 0/0 = 0 kalo kita mau tulis 1 juga bisa , mau tulis 2 juga dst",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-buah-buku-dan-2-buah-pensil-rp880000-jika-harga-sebua-328",
+            "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ini-penting-penarikan-kesimpulan-1-jika-rudi-tidak-mel-701",
+            "question": "Tolong ya ini penting    Penarikan Kesimpulan\r\n1. Jika Rudi tidak melanjutkan kuliah atau bekerja\r\n\u00a0 \u00a0 maka ibu menjodohkan Rudi.\r\n\u00a0 \u00a0 Ibu tidak menjodohkan Rudi.\r\n\u00a0 \u00a0Kesimpulannya adalah ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n2. Diketahui premis-premis sebagai berikut.\r\n\u00a0 \u00a0 P1 : Jika ombak\u00a0besar maka nelayan tidak menangkap ikan.\r\n\u00a0 \u00a0 P2 : Jika nelayan tidak menangkap ikan maka tidak ada orang yang berjualan ikan di pasar\r\n\u00a0 \u00a0Kesimpulan kedua premis diatas adalah ....\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n3. Diketahui premis-premis:\r\n\u00a0 \u00a0 ~m v b\r\n\u00a0 \u00a0 ~c v ~a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Isian yang tepat adalah ....\r\n\u00a0 \u00a0\u00a0~a\u00a0\u21d2 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. ~c\r\n\u00a0 \u00a0~b \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. ~m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. c\r\n\u00a0 \u00a0 ............\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. ~b\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n4. Premis 1 : Jika Ijad tidak masuk sekolah maka Ijad di rumah sakit.\r\n\u00a0 \u00a0 Premis 2 : Jika Ijad di rumah sakit maka Ijad sakit demam berdarah.\r\n\u00a0 \u00a0 \u00a0Silogisme di atas mempunyai kesimpulan ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n5. Diketahui:\r\n\u00a0 \u00a0P1 : Jika servis hotel baik maka hotel itu banyak tamu.\r\n\u00a0 \u00a0P2 : Jika hotel itu banyak tamu, maka hotel itu mendapat untung.\r\n\u00a0 \u00a0P3 : Hotel tidak mendapat untung.\r\n\u00a0 Kesimpulan dari Argumen di atas adalah ....\r\n\u00a0 \u00a0Jawabannya:",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab\u00a0<br><br>1 . Rudi melanjutkan kuliah karna rudi tidak dijodohkan ibunya\u00a0<br>2, jika ombak besar maka nelayan tidak bisa menangkap ikan maka pasar pun akan sepi karna tidak ada nelayan yang berjualan\u00a0<br>3. a<br>4 ijad tidak masuk sekolah dan dirawat dirumah sakit karana terkena demam berdarah\u00a0<br>5 hotel tersebut servisnya tidak baik karna hotel itu sepi\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.rudi melanjutkan kuliah<br>2.jika ombak besar maka tidak ada orang yang berjualan ikan di pasar<br>3.d.<span>~c<br>4.jika ijad tidak masuk sekolah maka ijad sakit demam berdarah<br>5.servis hotel itu baik<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-kuadrat-memotong-sumbu-x-di-dua-titik-549",
+            "question": "Jelaskan fungsi kuadrat memotong sumbu x di dua titik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsi kuadrat yang memotong sumbu x di dua titik adalah fungsi kuadrat yang D&gt;0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

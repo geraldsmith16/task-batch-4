@@ -1,0 +1,138 @@
+{
+    "question": "Asam Hx 0,1 M mempunyai pH yang sama dengan larutan HCl 0,001 M .Tentukanlah nilai ketetapan ionisai (Ka)asam Hx itu?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Nilai tetapan ionisasi asam HX sebesar</strong> [tex]\\boxed{~K_a = 1 \\times 10^{-5}~}[/tex]</p><h3>Pembahasan</h3><p>Ini merupakan persoalan gabungan dari menghitung pH elektrolit kuat dan lemah. Ditanyakan nilai Ka dari asam HX.</p><p><u><strong>Diketahui</strong></u></p><p>Larutan asam HX 0,1 M</p><p>Larutan HCl 0,0001 M</p><p>Kedua larutan mempunyai nilai pH yang sama</p><p><u><strong>Ditanya</strong></u></p><p>Nilai tetapan ionisasi Ka dari HX</p><p><u><strong>Pengerjaan</strong></u></p><p>Karena ditanyakan nilai Ka berarti HX adalah asam lemah sedangkan asam klorida HCl termasuk asam kuat.</p><p>Kedua larutan mempunyai pH yang sama, dengan demikian konsentrasi ion hidrogen dari keduanya pun sama.</p><ul><li>Konsentrasi ion hidrogen dari HX adalah [tex]\\boxed{~[H^+] = \\sqrt{K_a \\times M}~}[/tex] </li></ul><ul><li>Konsentrasi ion hidrogen dari HCl adalah [tex]\\boxed{~[H^+] = M \\times valensi~}[/tex] </li></ul><p>Valensi HCl adalah 1 sesuai dengan jumlah atom H.</p><p>Mari kita hadapkan kedua konsentrasi ion hidrogen dan substitusikan data-datanya.</p><p>[tex]\\sqrt{K_a \\times 10^{-1}} = 10^{-3} \\times 1[/tex]</p><p>Kuadratkan kedua ruas.</p><p>[tex]K_a \\times 10^{-1} = 10^{-6}[/tex]</p><p>[tex]K_a = 10^{-6} \\times 10^{1}[/tex]</p><p>[tex]K_a = 10^{-5}[/tex]</p><p><strong>Diperoleh nilai tetapan ionisasi asam HX sebesar</strong> [tex]\\boxed{~K_a = 1 \\times 10^{-5}~}[/tex]</p><h3>Pelajari lebih lanjut</h3><ol><li>Penentuan pH asam kuat bervalensi dua brainly.co.id/tugas/9957046 \u00a0</li><li>Penentuan pH elektrolit lemah brainly.co.id/tugas/9574016</li></ol><p>------------------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0\u00a0:</strong> XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> Larutan Asam Basa</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 11.7.5</p><p></p><p><strong>Kata Kunci :</strong> asam HX, mempunyai pH yang sama, larutan, asam lemah, kuat, HCl, konsentrasi ion hidrogen, [H^+}, Ka, valensi, nilai tetapan ionisasi asam, brainly</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-termasuk-reduksi-atau-oksidasikah-perbahan-berikut-a-mno4-m-907",
+            "question": "1. termasuk reduksi atau oksidasikah perbahan berikut? a. Mno4- menjadi Mn2+ b. SO3 2- menjadi SO4 2- c. VO+ menjadi VO2 + d. Fe 3+ menjadi Fe 2+ \u00a0 2. apakah reaksi-reaksi dibawah ini termasuk reaksi redoks? a. 2HCl + Zn menjadi ZnCl2 + H2 b. PbO2 + 2H2SO4 + Pb menjadi 2PbSO4 + 2H2O c. AgNO3 +NaCl menjadi AgCl + NaNO3 d. MnO2 + 4HCl menjadi MnCl2 + Cl2 + 2H2O e. PbO + H2SO4 menjadi PbSO4 +H2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.a) Oksidasi<br>b) Oksidasi<br>c) Oksidasi<br>d) Reduksi<br><br>2.a) hanya reduksi<br>b) termasuk<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. a reduksi<br>\u00a0b. oksidasi<br>c. oksidasi<br>d. reduksi<br>2. a.ya<br>\u00a0b.tidak<br>\u00a0c. tidak<br>\u00a0d. tidak\u00a0<br>e. ya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-ph-250-ml-larutan-01-m-naoh-dalam-air-adalah-360",
+            "question": "Harga pH 250 mL larutan 0,1 M NaOH dalam air adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0.1 M NaOH menunjukkan molaritas dari basa kuat natrium hidroksida sedangkan 250ml tersebut digunakan sebagai pelengkap soal.<br>pOH= - log[OH-]<br>pOH = -log[b* Mb]<br>pOH = -log[1* 0,1]<br>pOH = -log[0,1]<br>pOH = 1<br>pH = pKw- pOH<br>pH\u00a0= 14 - 1<br>pH = 13<br><br>Semoga bermanfaat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-alasan-senyawa-kovalen-polar-bersifat-elektrolit-dan-sen-804",
+            "question": "jelaskan alasan senyawa kovalen polar bersifat elektrolit dan senyawa kovalen nonpolar bersifat non elektrolit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "senyawa polar dapat larut dalam air dan terurai menjadi ion-ionnya, sedangkan senyawa non polar tidak dapat larut dalam air dan tidak dapat terurai menjadi ion-ionnya.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-isomer-dari-c3h6o-dan-c3h6o2-168",
+            "question": "Apakah isomer dari C3H6O dan C3H6O2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C3H6O isomernya aldehid dan keton<br>C3H6O2 isomernya Asam karboksilat dan ester",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849",
+            "question": "Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.    a. Perkirakan pH awal larutan HCl\r\nb. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?\r\nc. Berapakah kira-kira pH pada titik ekivalen?\r\nd. Gambarkan (sketsa) kurva titrasinya.\r\ne. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.<br>a. Perkirakan pH awal larutan HCl<br>b. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?<br>c. Berapakah kira-kira pH pada titik ekivalen?<br>d. Gambarkan (sketsa) kurva titrasinya.<br>e. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.</span><br><br>maaf saya copy paste soal kamu, supaya dapat mudah membaca soal :)<br>a. pH awal HCl (asam kuat)<br>[H+] = Ma x Va ................. Ma = molaritas asam, Va = valensi asam ( Va HCl = 1, liha jumlah atom H-nya saja)<br>maka<br>H+ = 0,1 x 1 = 0,1<br>pH = - log H+ = - log 0,1 = 1<br><br>b. secara teori NH3 yang diperlukan untuk mencapai titk ekivalen<br>Ma x Va x valensi = Mb x Vb x valensi<br>0,1 x 20 x 1 = 0,1 x Vb x 1<br>2/0,1 = Vb<br>Vb = 20 mL<br><br>c.titik ekivalen adalah titik dimana asam dan basa habis bereaksi, berdasarkan data b, maka dapat ditentukan pH larutan (dengan menentukan pH pada titik ekivalen berarti kita sudah masuk dalam BAB hidrolisis garam)<br>mol HCl = 20 x 0,1 = 2 mmol<br>mol NH3 = 20 x 0,1 = 2 mmol<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>\u00a0 \u00a0 \u00a0\u00a0 HCl\u00a0  +\u00a0 \u00a0  NH3\u00a0  -----&gt;\u00a0 \u00a0 NH4Cl<br>M\u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>R \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>S \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br><br>Molaritas garam NH4Cl = mol / voltotal = 2/40 = 0,05<br>diandaikan Kb NH3 = 10^-5<br>maka<br>H+ = akar (Kw/Kb x Mgaram)<br>H+ = akar (10^-14/10^-5 x 0,05)<br>H+ = akar ( 0,5 x 10^-12)<br>= 7,071 x 100^-7<br>pH = 6,15<br><br>jadi pH pada saat titik ekivalen mendekati 7 atau sekitar 6,15<br><br>d.sketsa kurva titrasinya saya upload gan :)<br>e. indikator yang cocok metil merah, perubahannya dari tidak berwarna menjadi merah (bukan pp lho ya, ini beda lagi)<br>",
+                    "attachments": [
+                        "answer-attachments/sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849-1.gif"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tiga-macam-pengertian-oksidasi-sebagai-berikut-1peng-146",
+            "question": "diketahui tiga macam pengertian oksidasi sebagai berikut : 1.pengikata oksigen, 2.pertambahan ilangan oksidasi,3.pelepasan elektron . urutan perkembangan pengertian oksidasi tersebut adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jadi urutan perkembangan pengertian oksidasi reduksi adalah</strong></p><p><strong>1. pengikatan /pelepasan oksigen</strong></p><p><strong>2. pengikatan/pelepasan elektron dan </strong></p><p><strong>3. perubahan bilangan oksidasi</strong></p><h3>Pembahasan\n</h3><p>Reaksi reduksi oksidasi atau disingkat Redoks adalah reaksi Kimia yang didalamnya terdapat perubahan bilangan oksidasi \u00a0</p><p>Ada 3 landasan teori yang menjelaskan konsep Redoks ini:\n</p><p>1. Pengikatan/pelepasan oksigen \u00a0</p><p>Reaksi oksidasi adalah pengikatan zat dengan oksigen.(O\u2082)\n</p><p>Misal :\n</p><p>2SO\u2082 + O\u2082 ----&gt; 2SO\u2083\n</p><p>Reaksi reduksi adalah pelepasan oksigen dari suatu zat. \u00a0</p><p>Misal : \u00a0</p><p>2CuO \u2192 2Cu + O\u2082\n</p><p>Reaksi reduksi dan oksidasi berdasarkan pengikatan dan pelepasan oksigen kurang luas diterapkan dalam reaksi kimia karena suatu reaksi tidak hanya melibatkan oksigen saja seperti reaksi:</p><p>Na + 1/2 Cl\u2082 ----&gt; NaCl</p><p>2. Reaksi pelepasan/pengikatan elektron \u00a0</p><p>Oksidasi merupakan peristiwa pelepasan elektron \u00a0</p><p>Contoh: \u00a0</p><p>2Fe ---&gt;2Fe\u00b3\u207a + 6e\u207b\n</p><p>Reduksi adalah peristiwa penangkapan elektron \u00a0</p><p>Contoh: \u00a0</p><p>3O\u2082 + 6e\u207b ---&gt; 3O\u00b2\u207b\n</p><p>Dari konsep pelepasan dan pengikatan elektron ini dapat dijelaskan reaksi antara Natrium dengan gas klorin diatas :</p><p>Na ----&gt; Na + e\u207b</p><p>1/2 Cl\u2082 ----&gt; Cl\u207b</p><p>Tetapi konsep ini hanya berlaku pada reaksi-reaksi pembentukan senyawa ion dan tidak berlaku untuk pembentukan senyawa kovalen yang tidak disertai perpindahan elektron misalnya</p><p>N\u2082 + 2O\u2082 ---&gt; 2NO\u2082</p><p>Sehingga perlu adanya konsep baru untuk menjelaskan peristiwa ini</p><p>3. Reaksi penambahan/pengurangan bilangan oksidasi \u00a0</p><p>Oksidasi adalah naik/ bertambahnya bilangan oksidasi , sedangkan Reduksi adalah turun / berkurangnya bilangan oksidasi.</p><p><strong>Jadi urutan perkembangan pengertian oksidasi reduksi adalah</strong></p><p><strong>1. pengikatan /pelepasan oksigen</strong></p><p><strong>2. pengikatan/pelepasan elektron dan </strong></p><p><strong>3. perubahan bilangan oksidasi</strong></p><h3>Pelajari lebih lanjut\n</h3><h3>pengertian reaksi redoks https://brainly.co.id/tugas/1860702\n</h3><h3>contoh reaksi redoks https://brainly.co.id/tugas/1991376\n</h3><h3>------------------------\n</h3><h3>Detil Jawaban\n</h3><h3>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : X\n</h3><h3>Mapel \u00a0 \u00a0 \u00a0 \u00a0: \u00a0Kimia\n</h3><h3>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: \u00a0Reaksi Redoks\n</h3><h3>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: \u00a010.7.6\n</h3><h3>Kata Kunci : reaksi redoks,pelepasan/pengikatan elektron, \u00a0</h3><h3>penambahan/pengurangan oksigen\n</h3><p></p>",
+                    "attachments": [
+                        "answer-attachments/diketahui-tiga-macam-pengertian-oksidasi-sebagai-berikut-1peng-146-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "harga-ph-250-ml-larutan-01-m-naoh-dalam-air-adalah-a-10-b-707",
+            "question": "Harga pH 250 mL larutan 0,1 M NaOH dalam air adalah....    a. 10\r\nb. 13\r\nc. 13\u00a0+\u00a02\u00a0log\u00a02\r\nd. 11\u00a0+ 2 log 5\r\ne. 12\r\n\u00a0tolong ya dijawab, makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya 13, caranya :<br>volume diabaikan karena Molaritasnya sudah diketahui kecuali ditambahkan air (pengenceran) atau pencampuran<br>0,1 = 1x10\u207b\u00b9<br>pOH = -log1x10\u207b\u00b9 = 1<br>pH = 14 - 1 = 13<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>0,1=<span>1x10\u207b\u00b9<br></span><span>pOH = -log1x10\u207b\u00b9 = 1 &lt; karena molnya NaOH bersifat asam makanya pOH<br></span>PH = kw-POH=14 -1 =13 (kw = 14 sudah ketentuan)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-25-ml-hcl-01-m-ditetesi-dengan-larutan-naoh-01-m-hitu-746",
+            "question": "Sebanyak 25 mL HCl 0,1 m ditetesi dengan larutan NaOH 0,1 M. hitung pH larutan pada saat :    a. volume larutan NaOH yang ditambahkan 10 mL\r\nb. volume larutan NaOH yang ditambahkan 50 mL",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reaksi :<br>HCl + NaOH ---&gt; NaCl + H2O<br>a.\u00a0mol HCL = V.M = 25.0,1 = 2,5 mmol \u00a0<br>mol NaOH = V.M = 10.0,1 = 1 mmol<br>dapat dilihat bahwa NaOH menjadi pereaksi pembatas, dan setelah reaksi akan tersisa HCl sebanyak (2,5-1) = 1,5 mmol.<br>[HCl] = n/V = 1,5/35 = 0,42 = 42.10^-2<br>pH = 2-log 42<br>b.\u00a0mol HCL = V.M = 25.0,1 = 2,5 mmol \u00a0<br>mol NaOH = V.M = 0,1.50 = 5 mmol<br>dapat dilihat bahwa HCl menjadi pereaksi pembatas dengan sisa NaOH (5-2,5) = 2,5 mmol<br>[NaOH] = n/V = 2,5/75 = 3.10^-2<br>pOH = 2 - log3<br>pH = 14-(2-log 3)<br>pH = 12+log 3<br><br>*Cheers*",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. \u00a0 HCl \u00a0+ \u00a0NaOH\u00a0\u21d2 \u00a0NaCl + H\u2082O<br>\u00a0m \u00a0 2,5\u00a0 \u00a0 \u00a0 \u00a0 1<br>\u00a0r \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>\u00a0s \u00a0 \u00a0 1,5 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br><br>[campuran]= 1,5/35 = 0,043 = 43 x 10\u207b\u00b3<br>karena yang sisa asam, maka memakai rumus [H\u207a]<br>[H\u207a] = 43 x 10\u207b\u00b3<br>pH = - log [H\u207a]<br>\u00a0 \u00a0 \u00a0= 3 - log 43<br><br>b \u00a0HCl \u00a0+ \u00a0NaOH\u00a0\u21d2 \u00a0NaCl + H\u2082O<br>\u00a0m \u00a0 2,5\u00a0 \u00a0 \u00a0 \u00a0 5<br>\u00a0r \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>\u00a0s \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01<br>[campuran]= 2,5/75 = 0,03\u00a0= 3 x 10\u207b\u00b2<br>karena yang sisa basa, maka \u00a0memakai rumus basa<br>[OH\u207b] = 3 x 10\u207b\u00b2<br>pOH = - log [OH\u207b]<br>\u00a0 \u00a0 \u00a0 \u00a0= 2 - log 3<br>pH = 14\u00a0- (2\u00a0-\u00a0log3)<br>\u00a0 \u00a0 \u00a0= \u00a012 + log 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-senyawa-ion-273",
+            "question": "Apa pengertian dari senyawa ion",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Senyawa ion </strong>adalah senyawa dengan ikatan ion, yaitu ikatan antara dua atom di mana satu atom melepas elektron sementara atom lain menerima elektron.</p><p>Contohnya adalah garam dapur (NaCl)</p><p><u><strong>Pembahasan</strong></u>:</p><p>Senyawa dapat berupa <strong>senyawa ion </strong>dan <strong>senyawa kovalen</strong>, tergantung dari jenis ikatan antara atom penyusunnya.</p><p><strong>Senyawa ion </strong>memiliki ikatan ion antara atomya. Ikatan ion adalah ikatan di mana satu atom melepaskan elektron yang kemudian diterima oleh atom lain.</p><p><strong>Ikatan ion </strong>terjadi antara unsur yang membentuk ion positif (kation) dan unsur yang membentuk ion negatif (anion). Atom yang membentuk ion positif adalah atom unsur logam, sedangkan atom yang membentuk ion negatif adalah atom unsur nonlogam</p><p>Contoh senyawa ion adalah <strong>garam dapur (NaCl, natrium klorida). </strong>Senyawa ini terbentuk dari ion positif Na+ yang bereaksi dengan ion negatif Cl-. Garam dapur sebagai senyawa ion memiliki titik leleh tinggi, 801 \u00b0C, dan berbentuk padatan pada suhu ruang.</p><p><strong>Senyawa kovalen </strong>memiliki ikatan kovalen dalam strukturnya, Ikatan kovalen terbentuk ketika atom-atom non logam, bergabung dan bersama-sama dengan berbagi elektron. Senyawa kovalen tidak memiliki elektron bebas dan tidak ada ion sehingga mereka tidak senyawa kovalen tidak dapat menghantarkan arus listrik.</p><p>Senyawa dengan <strong>ikatan kovalen </strong>biasanya berbentuk gas atau cairan dengan titik lebur dan titik didih yang rendah.</p><p>Contoh ikatan kovalen adalah <strong>gas metana atau CH4</strong>, dimana atom karbon berbagi elektron dengan 4 atom hidrogen, dan gas ammonia atau NH3, dimana atom nitorgen berbagi elektron dengan 3 atom hidrogen. \u00a0</p><p><em>Pelajari lebih lanjut bagaimana terjadinya ikatan kovalen di: brainly.co.id/tugas/1542193</em></p><p><em>Pelajari lebih lanjut ikatan kimia yang terdapat pada molekul HCl di: brainly.co.id/tugas/13507987</em></p><p><em>Pelajari lebih lanjut contoh ikatan kovelen di: brainly.co.id/tugas/10882010 </em></p><p><strong>--------------------------------------------------------------------------- </strong></p><p><strong>Detail Jawaban \u00a0 \u00a0 \u00a0 </strong></p><p><strong>Kode: \u00a010.7.4 </strong></p><p><strong>Kelas: X \u00a0 \u00a0 </strong></p><p><strong>Mata Pelajaran: Kimia \u00a0 \u00a0 \u00a0 \u00a0 </strong></p><p><strong>Materi: Bab 4 - Ikatan Kimia </strong></p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-ml-larutan-h2so4-1-m-harus-ditambahkan-ke-dalam-500-ml-aqu-570",
+            "question": "berapa mL larutan H2SO4 1 M harus ditambahkan ke dalam 500 mL aquades supaya pHnya menjadi 3? perubahan volume diabaikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 1 M dilarutkan agar mendapatkan 500 mL H2SO4 pH = 3<br>H2SO4 1 M<br>dihitung H+<br>H+ = Ma x valensi asam = 1 M x 2 = 2 M<br><br>500mL H2SO4 pH = 3<br>pH = 3 <br>H+ = 10^-3<br>V = 500 mL = 0,5 L<br><br>gunakan rumus<br>H+ x V1 = H+ x V2<br>2 x V1 = 10^-3 x 0,5 L<br>V1 = 0,00025 L = 0,25 mL<br><br><br>jadi H2SO4 1 M yang harus dilarutkan adalah 0,25 mL<br><br><br>semoga membantu :)<br>beri label terbaik ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

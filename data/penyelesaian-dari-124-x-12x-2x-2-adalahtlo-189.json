@@ -1,0 +1,138 @@
+{
+    "question": "Penyelesaian dari 1/2(4 - x) + 1/2x = 2(x + 2) adalah.........tlong buatin cranya ya plisss",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/2(4 - x) + 1/2x = 2(x + 2)<br>2 - 1/2x + 1/2x = 2x + 4<br>2 = 2x + 4<br>2 - 4 = 2x<br>-2 = 2x<br>x = -2/2<br>x = -1<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rasio-dan-suku-keempat-suatu-barisan-geometri-jika-diket-215",
+            "question": "Tentukan rasio dan suku keempat suatu barisan geometri jika diketahui:    a) a=2 dan U5=162\r\nb) a=4 dan U3=64",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "r?<br>u4?<br>a) a=2 ; u5=162<br>ar^4=162<br>2r^4=162<br>r^4=162/2<br>r^4=81<br><strong>r=3</strong><br><br><strong>u4=ar^3</strong><br><strong>2.3^3</strong><br><strong>2.27=54</strong><br><br>b)a=4 ; u3=64<br>ar^2=64<br>4r^2=64<br>r^2=64/4=16<br><strong>r=4</strong><br><br><strong>u4=ar^3</strong><br><strong>4.4^3=4^4</strong><br><strong>=256</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-sebuah-kerucut-yg-berdiameter-28-cm-dengan-panjang-garis-p-368",
+            "question": "Volume sebuah kerucut yg berdiameter 28 cm dengan panjang garis pelukis 50 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d = 28 r = 14<br>s = 50\u00a0<br>t = 50\u00b2 - 14\u00b2<br>\u00a0 = 2500 - 196 = 2304<br>\u00a0 =\u00a0[tex] \\sqrt{2304} = 48[/tex]<br><br>Vkerucut = 1/3\u00a0\u03c0 r\u00b2 . t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/3 . 22/7. 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9856 cm\u00b3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : D = 28 cm, r = 14 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s = 50 cm<br>Ditanya : V = ....?<br>Jawab: a)\u00a0[tex] t^{2} =  s^{2} -  r^{2} \n[/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =  \\sqrt{ s^{2} -  r^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =   \\sqrt{ 50^{2} -  7^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 =\u00a0[tex] \\sqrt{2304} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 = 48\u00a0cm<br>\u00a0 \u00a0 \u00a0 \u00a0b) \u00a0V =\u00a0[tex] \\frac{1}{3} [/tex] . \\pi [/tex]\u00a0. r .r .t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V =\u00a0[tex] \\frac{1}{3} .  \\frac{22}{7} [/tex] . 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = 22 . 14 . 16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V = 4928\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban di atas, silahkan ditanyakan ^_^,,,<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-jajaran-genjang-528",
+            "question": "Sifat jajaran genjang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sisi yang berhadapan sejajar dan sama panjang<br>\nb. Kedua diagonalnya berpotongan di tengah-tengah.<br>\nc. Sudut yang berhadapan sama besar.<br>\nd. Sudut yang berdekatan jumlahnya 180 derajat.<br>\ne. Menempati bingkainya dengan 2 cara.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sifat-sifat jajargenjang sebagai berikut.\n\n\nSisi-sisi yang berhadapan pada setiap jajargenjang sama panjang dan sejajar.\nSudut-sudut yang berhadapan pada setiap jajargenjang sama besar.\nJumlah pasangan sudut yang saling berdekatan pada setiap jajargenjang adalah\n180\u00b0.\n<span>Pada\nsetiap jajargenjang kedua diagonalnya saling membagi dua sama panjang.</span><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-n-barisan-aritmatika-dinyatakan-dengan-rumus-un-5n-3-j-750",
+            "question": "suku ke-n barisan aritmatika dinyatakan dengan rumus Un = 5n-3. Jumlah 12 suku pertama dari deret yang bersesuaian dengam barisan itu adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = 5n-3\u00a0<br>U1 = 5 - 3 = 2 ---&gt; a<br>U2 = 10-3 = 7<br>Beda = U2-U1 = 7-2 = 5<br><br>Sn = n/2 ( 2a + (n-1)b )<br>S12 = 12/2 (2.2 + 11.5)<br>\u00a0 \u00a0 \u00a0 \u00a0= 6 ( 4 + 55 )<br>\u00a0 \u00a0 \u00a0 \u00a0= 354",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-2-kuintal-beras-dengan-harga-rp5700000-624",
+            "question": "Seorang pedagang membeli 2 kuintal beras dengan harga Rp570.000,00 kemudian di jual dengan mengambil untung Rp300,00 tiap kg .    gimana cara mengerjakannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 dikali rp 570000,00 kali 100<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 kuintal = 100 kg<br>2 kuintal = 200 kg<br>570.000 : 200 kg = 2.850<br>harga perkilonya<br>2850 + 300 = 3.150<br>harga 2 kuintal<br>3.150 x 200 = 630.000<br>keuntungannya<br>630.000 - 570.000 = 60.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lingkaran-4396-cmjika-p314-maka-panjang-jari-218",
+            "question": "Keliling sebuah lingkaran 43,96 cm.jika \u03c0=3,14 maka panjang jari jarinya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = 2.phi. r<br>43,96 = 2.3,14.r<br>43,96=6,28 r<br>r= 43,96/6,28<br>r= 7 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "K = 2[tex] \\pi [/tex]r<br>43,96= 2 x 3,14 x r<br>43,96= 6,24 x r<br>r= 43,96/6,24<br>r= 7,044 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-barisan-geometri-128-64-32-16-a-carilah-ras-285",
+            "question": "Ditentukan barisan geometri 128, -64, 32, -16, ...    a. Carilah rasio dan rumus ke-n\r\nb. Suku keberapakah yang nilai nya samaa dengan -1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ditentukan barisan geometri 128, -64, 32, -16, ...<br>a. Carilah rasio dan rumus ke-n<br><span>b. Suku keberapakah yang nilai nya samaa dengan -1?<br>r = u2/u1<br>r = -64/128<br>r = -1/2<br>Un = a x r^n-1\u00a0<br>Un = 128 x (-1/2)^n-1<br></span><span>Un = 128 x (-1/2)^n : (-1/2)<br>Un = -\u00a0256 x (-1/2)^n<br>-1 =\u00a0</span>\n-\u00a0256 x (-1/2)^n<br>(-1/2)^n = -1/-256<br>(-1/2)^n = 1/256<br>n = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-celana-panjang-dan-5-kemeja-rp-41000000sedangkan-harg-765",
+            "question": "harga 2 celana panjang dan 5 kemeja Rp. 410.000,00,sedangkan harga 3 celana panjang dan 2 kemeja Rp 340.000,00.harga sebuah celana panjang dan 2 kemeja adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2cp + 5k = 410.000 | x3| 6cp+15k = 1.230.000<br>3cp + 2k = 340.000 | x2| 6cp+4k\u00a0 =\u00a0 \u00a0 680.000 _<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11k = 550.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k = 50.000<br><br>2cp + 5k = 410.000<br>2cp + 5x50.000 = 410.000<br>2cp + 250.000 = 410.000<br>2cp = 410.000-250.000<br>2cp = 160.000<br>cp = 80.000<br><br>1cp + 2k = <br>1x80.000 + 2x50.000 <br>80.000 + 100.000 = 180.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-dengan-pusat-p-titik-a-b-r-dan-s-te-592",
+            "question": "diketahui sebuah lingkaran dengan pusat P. Titik A, B, R dan S terletak pada lingkaran. Besar sudut APB 40*, besar sudut RPS 100* dan panjang busur RS adalah 40 cm. Hitunglah panjang busur AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo rumusnya<br>sudut/sudut = P.busur/P.busur<br>sudut/sudut = 40/X<br>100/40 = 40/X<br>40X40 = 100X<br>1600 = 100X<br>X \u00a0= 16<br><br>nih rumusnya<br><span>sudut/sudut = P.busur/P.busur = L.jurung/L.Juring</span><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

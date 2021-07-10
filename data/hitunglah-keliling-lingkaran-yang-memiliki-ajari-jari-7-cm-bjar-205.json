@@ -1,0 +1,138 @@
+{
+    "question": "Hitunglah keliling lingkaran yang memiliki    a.jari jari 7 cm\r\n b.jari jari 50 cm \r\n c.diameter 21 cm\r\n d. diameter 10 cm\r\n e. luas 314 cm\r\n f. luas 616 cm",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. K= 2\u03c0r <br>K= 2 x 22/7 x 7<br>K = 44<br><br>b. K = 2\u03c0r<br>K = 2 x 3,14 x 50<br>K = 6,28 x 50<br>K = 314<br><br>c. K = \u03c0d<br>K = 22/7 x 21<br>K = 66<br><br>d. K = \u03c0d<br>K = 3,14 x 10<br>K = 31,4<br><br>e. L= \u03c0r\u00b2<br>314 = 3,14 x r\u00b2<br>r\u00b2 = 314/ 3,14<br>r\u00b2 = 100<br>r= \u221a100<br>r = 10<br><br>K= 2\u03c0r<br>K = 2 x 3,14 x 10<br>K = 62,8<br><br>f. L = \u03c0r\u00b2<br>616 = 22/7 x r\u00b2<br>r\u00b2 = 616/ 22/7<br>r\u00b2 = 196<br>r = \u221a196<br>r = 14<br><br>K = 2\u03c0r<br>K = 2 x 22/7 x 14<br>K = 88<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pengertian-sudut-keliling-sama-sudut-pusat-apa-119",
+            "question": "Pengertian Sudut Keliling sama Sudut Pusat apa ????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>Sudut pusat</u><span>\u00a0adalah daerah sudut yang dibatasi oleh dua jari-jari lingkaran yang titik sudutnya merupakan titik pusat lingkaran.<br></span><u>Sudut keliling</u><span>\u00a0adalah daerah sudut yang dibatasi oleh dua\u00a0</span><u>talibusur</u><span>\u00a0yang berpotongan di satu titik pada lingkaran dan titik sudutnya teletak pada keliling lingkaran.<br></span>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>Sudut Pusat</u>\u00a0adalah daerah sudut yang dibatasi oleh dua jari-jari lingkaran yang titik sudutnya merupakan titik pusat lingkaran.<br><br><u>Sudut Keliling\u00a0</u>\u00a0adalah daerah sudut yang dibatasi oleh dua\u00a0talibusur\u00a0<span>yang berpotongan di satu titik pada lingkaran dan titik sudutnya teletak pada keliling lingkaran.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-tumpukan-dua-buah-kursi-92-cm-dan-tinggi-tumpukan-empat-160",
+            "question": "tinggi tumpukan dua buah kursi 92 cm , dan tinggi tumpukan empat buah kursi 108 cm . jika ada 15 kursi sejenis ditumpuk , maka tingginya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Tinggi tumpukan dua buah kursi</strong> 92 cm, tinggi tumpukan empat buah kursi 108 cm, jika ada 15 kursi sejenis ditumpuk, maka tingginya adalah 196 cm. Soal ini merupakan penerapan materi barisan dan deret aritmatika. <strong>Barisan aritmatika</strong> adalah barisan yang antar dua suku berdekatannya memiliki selisih yang tetap. Untuk menentukan <strong>suku ke n pada barisan aritmatika</strong> adalah\n</p><p>Un = a + (n \u2013 1)b\n</p><p><strong>Rumus jumlah n suku pertama\n</strong></p><p>Sn = n/2 (2a + (n \u2013 1)b)\n</p><p>Sn = n/2 (a + Un)\n</p><p><u>Keterangan</u>\n</p><p>a = suku pertama\n</p><p>b = beda \u21d2 b = U\u2082 \u2013 U\u2081 = U\u2083 \u2013 U\u2082 = ....\n</p><br><h3>Pembahasan\n</h3><br><p><strong>Diketahui\n</strong></p><p>Tinggi tumpukan dua buah kursi 92 cm \u21d2 U\u2082 = 92\n</p><p>Tinggi tumpukan empat buah kursi 108 cm \u21d2 U\u2084 = 108\n</p><br><p><strong>Ditanyakan\n</strong></p><p>tinggi tumpukan 15 kursi (U\u2081\u2085)\n</p><br><p><strong>Jawab\n</strong></p><p>U\u2084 = 108 \u21d2 a + 3b = 108\n</p><p>U\u2082 = 92 \u21d2 \u00a0 <u>a + b = 92 \u00a0 \u00a0 \u00a0</u>\u2013\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2b = 16\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>b = 8\n</strong></p><p><strong>Substitusikan b = 8 ke U\u2082 = 92</strong>\n</p><p>a + b = 92\n</p><p>a + 8 = 92\n</p><p>a = 92 \u2013 8\n</p><p><strong>a = 84\n</strong></p><br><p><u>tinggi tumpukan 15 kursi\n</u></p><p>U\u2081\u2085 = a + 14b\n</p><p>U\u2081\u2085 = 84 + 14(8)\n</p><p>U\u2081\u2085 = 84 + 112\n</p><p><strong>U\u2081\u2085 = = 196\n</strong></p><p>Jadi <strong>tinggi tumpukan 15 kursi adalah 196 cm\n</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang barisan aritmatika\n</p><p>https://brainly.co.id/tugas/1779659\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><br><p><strong>Kata Kunci</strong> : tinggi tumpukan kursi\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748",
+            "question": "Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton . sisa karton di sebelah kiri,kanan dan atas foto 2 cm . jika foto dan karton sebangun , lebar karton di bawah foto adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : IX (3 SMP)<span><br>\nMateri : Kesebangunan dan Kekongruenan<br>\nKata Kunci : panjang, lebar, luas, sebangun</span></p><p><span><br>\nPembahasan :<br>\nDua bangun dikatakan sebangun, bila<br>\n1. sudut-sudut yang bersesuaian sama besar;<br>\n2. sisi-sisi yang bersesuaian memiliki\nperbandingan yang sama.</span></p><p><span><br>\nMari kita lihat soal tersebut.</span></p><span>Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton. Sisa karton di sebelah kiri, kanan, dan atas foto 2 cm. Jika foto dan karton sebangun, maka lebar karton di bawah foto adalah?<br><br>Jawab :<br></span>Perhatikan gambar terlampir.<br><p>Misalkan foto memiliki ukuran sebagai berikut.<br></p><p>tinggi = t\u2081 = \u00a030 cm, lebar = l\u2081 = 20 cm, dan luas = L\u2081.</p><p><span>\nLuas foto adalah<br>\nL</span>\u2081 = t\u2081 x l\u2081</p><p>\u21d4 L\u2081 = 30 x 20<span><br></span>\u21d4 L\u2081 = 600<span><br>\nJadi, luas foto adalah 600 cm\u00b2.<br><br></span></p><p>Misalkan karton memiliki ukuran sebagai berikut.</p><p>tinggi = t\u2082, lebar = l\u2082, dan luas L\u2082. Sehingga</p><p>lebar\u00a0</p><p>l\u2082 = l\u2081 + 2 + 2<span><br></span>\u21d4 l\u2082 = 20 + 2 + 2<span><br></span>\u21d4 l\u2082 = 24<br><br>tinggi</p><p>t\u2082 = t\u2081 + 2 + x<span><br></span>\u21d4 t\u2082 = 30 + 2 + x</p><p>\u21d4 t\u2082 = 32 + x</p><p><br></p><p>Karena foto dan karton sebangun, maka</p><p>[tex] \\frac{t_1}{t_2}= \\frac{l_1}{l_2}  [/tex]</p><p>\u21d4\u00a0[tex] \\frac{30}{32+x}= \\frac{20}{24}  [/tex]</p><p>\u21d4 20 . (32 + x) = 30 . 24</p><p>\u21d4 640 + 20x = 720</p><p>\u21d4 20x = 720 - 640</p><p>\u21d4 20x = 80</p><p>\u21d4 x =\u00a0[tex] \\frac{x=80}{20} [/tex]</p><p>\u21d4 x = 4.</p><p><br></p><p>tinggi</p><p>t\u2082 = 32 + x</p><p>\u21d4 t\u2082 = 32 + 4</p><p>\u21d4 t\u2082 = 36.</p><p><br></p><p>Luas karton adalah</p><p>L\u2082 = t\u2082 x l\u2082</p><p>\u21d4 L\u2082 = 36 x 24</p><p>\u21d4 L\u2082 = 864</p><p><span><br></span></p><p><span>Jadi, lebar karton di bawah foto adalah 4 cm dan luas karton adalah 864 cm</span>\u00b2.</p><p><span><br>\nSemangat!</span></p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788",
+            "question": "1. lingkaran pd gambar tersebut mempunyai jari-jari 10 cm dan besar sudut pusat AOB= 72\u00b0. untuk\u00a0 = 3,14 berapakah panjang busur kecil AB?    2. pada gambar tersebut titik O adalah pusat lingkaran. jika besar &lt;AOB = 60\u00b0 panjang busur AB = 20 cm dan panjang busur CD = 15 cm hitunglah:\r\na. besar &lt;COD\r\nb. keliling lingkaran\r\n\r\n3. pada gambar tersebut &lt;AOB = 120\u00b0 dan &lt;COD = 30\u00b0 jika panjang busur AB = 44 cm tentukan panjang busur CD!",
+            "attachments": [
+                "question-attachments/1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "aaa. PB =<u>\u00a0 a\u00a0  </u>\u00d7 \u03c0 \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>PB =\u00a0<u> 72\u00a0</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 360<br>PB = 12,56 cm<br><br>b. <u>sudut AOB</u> = <u>PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD\u00a0 \u00a0 PBusur CD<br><br><u>60</u> = <u>20</u><br>\u00a0x\u00a0 \u00a0  15<br>20x = 900<br>x = 45\u00b0<br><br>Panjang busur AB = <u>sudut AOB </u>\u00d7 \u03c0 \u00d7d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>20 =<u>\u00a0 60\u00a0 </u>\u00d7 3,14 \u00d7 d<br>\u00a0 \u00a0 \u00a0\u00a0 360 <br>7200 = 188,4 \u00d7 d<br>d = 38,2<br><br>k = \u03c0 \u00d7 d<br>k = 3,14 \u00d7 38,2<br>k = 119,9 cm atau 120 cm<br><br>c. <u>sudut AOB</u>\u00a0 =<u>\u00a0 PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD \u00a0 \u00a0\u00a0 PBusur CD<br><br><u>120</u>\u00a0 =<u>\u00a0 44</u><br>30\u00a0 \u00a0 \u00a0 \u00a0 x<br><br>120x = 30 \u00d7 44<br>x = 11cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-beli-kain-1-kodi-adalah-600000-dan-setelah-dijual-mengal-699",
+            "question": "harga beli kain 1 kodi adalah 600.000 , dan setelah dijual mengalami kerugian 8% . tentukan harga penjualan 1 lembar kain batik tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100-92 per 100 dikali 600.000\n= 92 per 100 dikali 600.000\n= 552000 dibgi 20 buah\n= 27600 maybe",
+                    "attachments": []
+                },
+                {
+                    "answer": "harga perkain sebelum rugi = 600.000/20<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 300/kain<br>harga setelah mengalami kerugian = 300 x 8/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2400/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jari-jari-lingkaran-tersebut-10-cm-dan-panjang-tali-busurnya-237",
+            "question": "Jika jari jari lingkaran tersebut 10 cm dan panjang tali busurnya 16 cm, berapa panjang garis apotema?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Misal = apotema : c<br>jika dibuat sketsa tali busur akan terbagi menjadi dua<br><br>\u00a0c^2 = <u></u>10^2 - 8^2<br>c^2 \u00a0= 100 - 64<br>c^2\u00a0 = 36<br>\u00a0\u00a0c\u00a0\u00a0\u00a0=\u00a0\u221a36<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-lingkaran-yang-masing-masing-berjari-jari-r-dan-r-950",
+            "question": "Diketahui dua lingkaran yang masing-masing berjari-jari r dan r + 1 . Panjang garis singgung persekutuan dalam dua lingkaran tersebut adalah 3r . Jika jarak kedua titik pusat lingkaran adalah 15cm maka panjang r adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d2=p2-(r1+r2)<br>15\u00b2-(3)\u00b2<br>225-9<br>216<br>d2= 216<br>d2=\u221a216=14,69",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-7-15-23-31-39-adalah-517",
+            "question": "Suku ke-50 dari barisan bilangan 7, 15, 23,    31, 39, \u2026 adalah \u2026\r\n(A) 392\r\n(B) 399\r\n(C) 407\r\n(D) 448",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: barisan bilangan 7,15,23,31,39<br>Dit: U50?<br>Jwb: a=7<br>         b=U2-U1<br>           = 15-7 =&gt; 8<br><br>          Un= a+(n-1)b<br>          U50= 7+(50-1)8<br>                 = 7+(49)8<br>                 = 7+392<br>                 = 399 (B)<br><br>sorry ya telat kali jawabnya hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suatu-luas-juring-dan-luas-tembereng-pada-lingkaran-858",
+            "question": "RUMUS SUATU LUAS JURING DAN LUAS TEMBERENG PADA LINGKARAN?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas juring= sudut pusat/360 dikali <strong>pi</strong>\u00a0dikali\u00a0<strong>jari jari<br></strong><strong></strong>luas tembereng= luas juring - luas segitiga(diberi garis bantu)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas juring COD= sudut COD<u></u> per 360 derajat \u00d7 luas lingkaran<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-kelereng-marisi-dari-kelereng-marisa-35-butir-perbanding-527",
+            "question": "selisih kelereng marisi dari kelereng marisa 35 butir. perbandingan banyak kelereng mereka 4 : 3. berapa banyak kelereng marisa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perbandingan = 4 : 3\n<br>\nSelisih = 4 - 3 = 1\n<br>\nMarisi = 4/1 x 35 = 140\n<br><span>Marisa = 3/1 x\n35 = 105</span>\n<br>\nJadi, kelereng Marisa\nada 105\n\n<span>\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

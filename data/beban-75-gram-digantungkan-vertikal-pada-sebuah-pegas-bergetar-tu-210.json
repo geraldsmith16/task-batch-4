@@ -1,0 +1,138 @@
+{
+    "question": "Beban 75 gram digantungkan vertikal pada sebuah pegas bergetar turun naik dengan frekuensi 3 Hz.Jika beban tersebut dikurangi sebesar 1/3 nya,maka frekuensinya menjadi?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "massa beban mula-mula m <br>\nmassa beban setelah dikurangi sepertiganya m&#039; = \u2154 m <br><br><br>\nf = 1/2\u03c0 \u221a(k/m) <br><br><br>\nf &#039;....1/2\u03c0 \u221a(k/m&#039;) <br>\n-- = ------------------- <br>\nf......1/2\u03c0 \u221a(k/m) <br><br>\nf &#039; / f = \u221a(m/m&#039;) <br><br>\n....f&#039; = f \u221a(m/m&#039;) <br>\n......= 3 \u221a(m / \u2154m) <br>\n......= 3 \u221a(3/2) <br>\n......= 1,5 \u221a6 <br>\n......\u2248 3,67 Hz <br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633",
+            "question": "seutas tali dengan panjang 0,80 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,50 kg dalam suatu lingkaran horizontal. tentukan periode minimum agar benda dapat diayunkan tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab gerak Melingkar\u00a0<br>Kelas: XI SMA IPA\u00a0<br><br><span>Pembahasan:<br><br></span><span>Periode minimum agar benda dapat diayun sehingga tali tidak putus adalah\u00a0<strong>1,98 detik.</strong><br></span><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-silinder-mengandung-19-kg-udara-pada-tekanan-95-at-227",
+            "question": "sebuah tangki silinder mengandung 19 kg udara pada tekanan 9,5 atm disimpan pada suhu 7oC. ketika dipindahkan ke\u00a0 bengkel dengan suhu 27oC, katup pengaman pada tangki bekerja dan meloloskan sejumlah udara. Jika katup meloloskan udara ketika tekanannya melebihi 10 kali tekanan atmosfir, brapa massa udara yg lolos?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: m1: 19 kg<br>\u00a0 \u00a0 \u00a0 P1: 9,5 atm<br>\u00a0 \u00a0 \u00a0 T1: 7oC<br>\u00a0 \u00a0 \u00a0 \u00a0P2: 9,5 x 10 atm<br>\u00a0 \u00a0 \u00a0 \u00a0T2: 27oC<br>Dit: m2?<br>Jawab: m1 x\u00a0P1 x\u00a0T1 = m2 x\u00a0P2 x\u00a0T2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a019 x\u00a09,5 x\u00a07 = m2 x\u00a095 x\u00a027<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1263,5 \u00a0 \u00a0 \u00a0 \u00a0= m2 x 2565<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 = 1263,5 : 2565<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 = 0,493<br><br>Maaf Kalau salah aku bantu sebisa mungkin<br><strong>Semoga Bermanfaat ;)</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-4-kg-ditembak-dengan-sebutir-peluru-bermass-903",
+            "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-bisa-menjelaskan-sifat-sifat-rangkaian-rlc-siapa-316",
+            "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-panjang-memiliki-penampang-berbeda-pada-empat-bagian-226",
+            "question": "Sebuah pipa panjang memiliki penampang berbeda pada empat bagian. Luas penampang pipa berturut-turut pada bagian 1, bagian 2 dan bagian 3 adalah 150 cm2, 100 cm2, dan 50 cm2. Laju aliran air pada bagian 1 adalah 8 m/s. Sedangkan pada bagian 4 adalah 4,8 m/s. Tentukanlah:    A. Debit air melalui keempat penampang iti\r\n B. Luas penampang pada bagian 4\r\n C. Laju air pada bagian 2 dan 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab A<br><br>Debit air sama di semua bagian :<br>Q1 = Q2 = Q3= Q4 = 800 x 150<br>=120000cm^3/s<br><br>Jawab B<br><br>Luas penampang pada bagian 4 :<br>A1V1 = A4V4<br><br>V4 = A1V1 / A4 = 150 x\u00a08 / 4,8 = 250 cm^2<br><br>Jawab C<br><br>Laju air pada bagian 2 dan 3<br>V2 = Q2 / A2 = 120000 / 100 = 1200 cm/s = 12 m/s<br>V3 = Q3\u00a0/\u00a0A3\u00a0= 120000 / 50 \u00a0= 2400 cm/s = 24 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-dari-anomali-air-dan-mengapa-bisa-terjadi-anomali-ai-762",
+            "question": "Apa manfaat dari anomali air? dan mengapa bisa terjadi anomali air?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Manfaatnya :<br>Anomali air sangat penting bagi kehidupan\u00a0ikan dan tumbuhan di dalam air pada cuaca sangat dingin. </span><span>\u00a0sehingga ikan dan tumbuhan dalam danau mampu menghadapi musim dingin.<br><br>Anomali dapat terjadi :<br></span>Ketika air dingin di dalam danau mencapai suhu dibawah 4 derajat Celcius, pertambahan volume air karena karena pemuaian akan memperkecil massa jenis air yang lebih dingin.Air yang lebih dingin massa jenisnya lebih kecil akan bergerak ke permukaan danau, sedangkan air\u00a04 derajat Celcius\u00a0yang massa jenisnya lenih besar akan tenggelam ke dasar danau. Hasilnya, air di permukaan danau akan membeku terlebih dahulu, sebab air di permukaanlah yang mencapai suhu 0\u00a0derajat Celcius. Jadi, di permukaan air akan terbentuk lapisan es. Air di bawah lapisan es pada danau yang dalam tidak pernah membeku,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Anomali\n air sangat penting bagi kehidupan\u00a0ikan dan tumbuhan di dalam air pada \ncuaca sangat dingin. Ketika air dingin di dalam danau mencapai suhu \ndibawah 4 derajat Celcius, pertambahan volume air karena karena pemuaian\n akan memperkecil massa jenis air yang lebih dingin.<br><span>Air\n yang lebih dingin massa jenisnya lebih kecil akan bergerak ke permukaan\n danau, sedangkan air\u00a04 derajat Celcius\u00a0yang massa jenisnya lenih besar \nakan tenggelam ke dasar danau. Hasilnya, air di permukaan danau akan \nmembeku terlebih dahulu, sebab air di permukaanlah yang mencapai suhu \n0\u00a0derajat Celcius. Jadi, di permukaan air akan terbentuk lapisan es. Air\n di bawah lapisan es pada danau yang dalam tidak pernah membeku, \nsehingga ikan dan tumbuhan dalam danau mampu menghadapi musim dingin.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-dipindahkan-gelombang-adalah-391",
+            "question": "Yang dipindahkan gelombang adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yg dipindahkan gelombang adalah ENERGI ,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920",
+            "question": "berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><br><h2>GAYA PADA FLUIDA STATIS</h2><p><u><strong>HUKUM ARCHIMEDES</strong></u></p><p>Menurut Archimedes, benda yang dicelupkan sebagian atau seluruhnya ke dalam fluida, akan mengalami gaya ke atas.</p><p>Besar gaya ke atas tersebut sama dengan berat fluida yang dipindahkan oleh benda.</p><p>Secara matematis dituliskan sebagai :</p><h2>Fa = \u03c1. g . Vtc</h2><br><p>Dimana :</p><p>Fa = gaya Archimedes apung ke atas (N)</p><p>\u03c1 = massa jenis fluida (kg/m\u00b3)</p><p>g = percepatan gravitasi bumi (m/s\u00b2)</p><p>Vtc = Volume benda tercelup di fluida (m\u00b3)</p><br><h2>TIGA KEMUNGKINAN BENDA DI DALAM FLUIDA</h2><h2>1. TERAPUNG</h2><p><strong><em>Benda-benda akan terapung</em></strong> di atas permukaan fluida, jika massa jenis benda <em><strong>lebih kecil</strong></em> dibandingkan massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p>\u21d2 <strong>\u03c1 benda &lt; \u03c1 fluida </strong>dan </p><p>\u21d2 <strong>w = Fa </strong></p><p><strong>m.g = \u03c1. g. Vtc</strong></p><p><strong>(\u03c1b.Vb).g = \u03c1. g. Vtc</strong></p><p><strong>\u03c1b.Vb = \u03c1. Vtc</strong></p><p>maka :</p><p><strong>Vtc = (\u03c1b/\u03c1).Vb</strong></p><p>Dimana :</p><p>Vtc = Volume benda tercelup</p><p>\u03c1b = massa jenis benda</p><p>\u03c1 = massa jenis fluida</p><p>Vb = Volume benda</p><br><h2>2. MELAYANG</h2><p><strong><em>Benda-benda akan melayang</em></strong> di dalam fluida, jika massa jenis benda <em><strong>sama dengan</strong></em> massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p><strong> \u21d2 \u03c1 benda = \u03c1 fluida</strong></p><p>dan </p><p>\u21d2 <strong>w = Fa</strong></p><br><h2>3. TENGGELAM</h2><p><strong><em>Benda-benda akan tenggelam</em></strong> di dalam fluida, jika massa jenis benda <em><strong>lebih besar </strong></em>daripada massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda lebih kecil atau lebih ringan dari pada berat benda di udara. Nah selisih berat benda di <em><strong>udara (Berat Real)</strong></em> ini dengan berat benda di <em><strong>fluida (berat semu) </strong></em>ini sama dengan gaya Archimedesnya, sehingga berlaku persamaan :</p><p><strong>\u21d2 \u03c1 benda &gt; \u03c1 fluida</strong></p><p>dan</p><p><strong>\u21d2 W udara - W fluida = Fa</strong></p><p>dan akhirnya diperoleh rumus :</p><h2><strong>W fluida = [1 - (\u03c1/\u03c1b)].W udara </strong></h2><p>dimana :</p><p>W fluida = berat benda di fluida</p><p>W udara = berat benda di udara</p><p>\u03c1 = massa jenis fluida</p><p>\u03c1b = massa jenis benda</p><br><p>Nah setelah memahami konsep di atas mari kita kerjakan soal berikut ini :</p><br><h2>SOAL</h2><p><em>Berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..</em></p><p><u><strong>PENYELESAIAN</strong></u></p><p><strong>Diketahui :</strong></p><p>berat benda di udara, W udara = 40 N</p><p>berat benda di fluida, W air = 36 N</p><p>massa jenis air, \u03c1 = 1 gr/cm\u00b3 = 1000 kg/m\u00b3</p><p><strong>Tanya :</strong></p><p>massa jenis benda, \u03c1b = __?</p><p><strong>Jawab :</strong></p><p><strong><u>Step 1</u></strong></p><p> Cari dulu gaya Archimedes, Fa = __?</p><p>Gunakan rumus : </p><p>Fa = W udara - W air</p><p>Fa = 40 - 36</p><p>Fa = 4 N</p><br><p><u><strong>Step 2</strong></u></p><p>cari massa benda di udara, m = __?</p><p>Gunakan rumus :</p><p>W udara = m.g</p><p>40 = m. 10</p><p>m = 4 kg</p><br><p><strong><u>Step 3</u></strong></p><p>Cari Volume benda, Vb = __?</p><p>Gunakan rumus :</p><p>Fa = \u03c1.g.Vb</p><p>4 = 1000. 10. Vb</p><p>Vb = 4 x 10\u207b\u2074 m\u00b3</p><br><p><u><strong>Step 4</strong></u></p><p>cari massa jenis benda, \u03c1b = __?</p><p>Gunakan rumus :</p><p>\u03c1b = m/Vb</p><p>\u03c1b = 4 / (4 x 10\u207b\u2074)</p><p>\u03c1b = 10\u2074 </p><p>\u03c1b = 10000 kg/m\u00b3</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>RUMUS TRIK</h2><p><strong>W air = [1 - (\u03c1/\u03c1b)].W udara </strong></p><p>36 = [1 - (1/\u03c1b)].40</p><p>36 / 40 = [1 - (1/\u03c1b)]</p><p>0,9 = 1 - (1/\u03c1b)</p><p>(1/\u03c1b) = 1 - 0,9</p><p>(1/\u03c1b) = 0,1</p><p>\u03c1b = 1/0,1</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>KESIMPULAN</h2><p><strong>Jadi besar massa jenis benda tersebut adalah 10 gram/cm\u00b3</strong></p><br><p>==========================================================</p><p>Simak soal tentang :</p><p>* <strong>Menghitung massa jenis benda dengan tabung gelas ukur</strong></p><p>https://brainly.co.id/tugas/15297318</p><p><strong>** Cara konversi satuan massa jenis dari gr/cm\u00b3 ke Kg/m\u00b3</strong></p><p>https://brainly.co.id/tugas/3028917</p><p>==========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : Fisika</strong></p><p><strong>Kategori : Fluida Statis</strong></p><p><strong>Kata Kunci : berat benda di udara, berat benda di air, massa jenis benda, \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>fluida statis, gaya archimedes ke atas</strong></p><p><strong>Kode : 11.6.3 [Kelas 11 SMA Fisika Bab 3 - Fluida Statis]</strong></p>",
+                    "attachments": [
+                        "answer-attachments/berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-diam-didorong-dengan-gaya-100-n-sehingga-2-s-kemudia-104",
+            "question": "Sebuah benda diam didorong dengan gaya 100 N sehingga 2 s kemudian kecepatannya menjadi 20 m/s . Empat sekon kemudian benda menabrak dinding dan memantul . Kecepatan benda sekarang menjadi 2o m/s . tentukan :    a. kecepatan benda sesaat sebelum menabrak dinding\r\nb. momentum benda saat menabrak dinding\r\nc. impuls yang diberikan dinding pada benda\r\nd. selang waktu benda bersentuhan dengan dinding",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.t = 4 s<br>\u00a0a= 20m/s\u00f72s = 10m/s\u00b2 <br>\u00a0 V= Vo+ a.t= 20m/s + 10m/s\u00b2.4s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20m/s + 40m/s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60 m/s<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-kegunaan-gelombang-dan-bunyi-pada-kehidupan-sehari-hari-369",
+            "question": "Sebutkan kegunaan gelombang dan bunyi pada kehidupan sehari-hari manusia!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)\u00a0\u00a0 Aplikasi Ultrasonik. Gelombang ultrasonik dapat dimanfaatkan untuk berbagai macam keperluan antara lain:\n\n\n\n\n<span>a)\u00a0\u00a0\u00a0\u00a0\u00a0 kacamata tunanetra, dilengkapi \ndengan alat pengirim dan penerima ultrasonik memanfaatkan pengiriman dan\n penerimaan ultrasonik. Perhatikan bentuk kaca tuna netra pada gambar berikut.</span>\n\nb)\u00a0\u00a0\u00a0\u00a0\u00a0 mengukur kedalaman laut, untuk \nmenentukan kedalaman laut (d) jika diketahui cepat rambat bunyi (v) dan \nselang waktu (t), pengiriman dan penerimaan pulsa adalah :\n<span>c)\u00a0\u00a0\u00a0\u00a0\u00a0 alat kedokteran, misalnya pada pemeriksaan USG (ultrasonografi). Sebagai contoh, scaning ultrasonic dilakukan dengan menggerak-gerakan probe di sekitar kulit perut ibu yang hamil akan menampilkan gambar sebuah janin di layar monitor.\n Dengan mengamati gambar janin, dokter dapat memonitor pertumbuhan, \nperkembangan, dan kesehatan janin. Tidak seperti pemeriksaan dengan \nsinar X, pemeriksaan ultrasonik adalah aman (tak berisiko), baik bagi \nibu maupun janinnya karena pemerikasaan atau pengujian dengan ultrasonic\n tidak merusak material yang dilewati, maka disebutlah pengujian \nultrasonic adalah pengujian tak merusak (<span>non destructive testing</span>, disingkat NDT). Tehnik scanning ultrasonic juga digunakan untuk memeriksa hati (apakah ada indikasi kanker hati atau tidak) dan otak. Pembuatan perangkat ultrasound\n untuk menghilangkan jaringan otak yang rusak tanpa harus melakukan \noperasi bedah otak. \u201cDengan cara ini, pasien tidak perlu menjalani \npembedahan otak yang berisiko tinggi. Penghilangan jaringan otak yang \nrusak bisa dilakukan tanpa harus memotong dan menjahit kulit kepala atau\n sampai melubangi tengkorak kepala.</span>\n\u00a0\n(2)\u00a0\u00a0 Manfaat cepat rambat bunyi dalam kehidupan sehari-hari yaitu:\na)\u00a0\u00a0\u00a0\u00a0\u00a0 Cepat rambat gelombang bunyi juga dimanfaatkan oleh para nelayan untuk mengetahui siang dan malam.\nb)\u00a0\u00a0\u00a0\u00a0\u00a0 Pada malam hari kita mendengar \nsuara lebih jelas daripada siang hari karena kerapatan udara pada malam \nhari lebih rapat dibandingkan dengan siang hari.\n\u00a0\n(3)\u00a0\u00a0 Resonansi sangat bermanfaat dalam kehidupan sehari-hari.\na)\u00a0\u00a0\u00a0\u00a0\u00a0 Pemanfaatan resonansi pada alat musik seperti seruling, kendang, beduk dan lainnya.\n(4)\u00a0\u00a0 Manfaat pemantulan bunyi dalam kehidupan sehari-hari, antara lain:\na)\u00a0\u00a0\u00a0\u00a0\u00a0 menentukan kedalaman laut\nPada dinding kapal bagian bawah dipasang\n sebuah sumber getaran (osilator). Di dekat osilator dipasang alat \npenerima getaran (hidrofon). Jika waktu getaran (bunyi) merambat (t) \nsekonuntuk menempuh jarak bolak-balik yaiu 2 L meter, maka cepat rambat \ndapat dihitung sebagai berikut.\n\nDi mana:\nv = cepat rambat bunyi (m/s)\nL = dalamnya laut (m)\nt = waktu (t)\nb)\u00a0\u00a0\u00a0\u00a0\u00a0 melakukan survei geofisika\nmendeteksi, menentukan lokasi dan \nmengklasifikasikan gangguan di bumi atau untuk menginformasikan struktur\n bumi, mendeteksi lapisan batuan yang mengandung endapan minyak\n<span>c)\u00a0\u00a0\u00a0\u00a0\u00a0 prinsip pemantulan ultrasonik dapat digunakan untuk mengukur ketebalan pelat logam, pipa dan pembungkus logam yang mudah korosi (karat).</span>\nd)\u00a0\u00a0\u00a0\u00a0 Mendeteksi retak-retak pada struktur logam\n<span>Untuk mendeteksi retak dalam struktur logam atau beton digunakan scanning ultrasonic\n inilah yang digunakan untuk memeriksa retak-retak tersembunyi pada \nbagian-bagian pesawat terbang, yang nanti bisa membahayakan penerbangan \npesawat. Dalam pemerikasaan rutin, bagian-bagian penting dari pesawat \ndi-scaning secara ultrasonic. Jika ada retakan dalam logam, \npantulan ultrasonic dari retakan akan dapat dideteksi. Retakan ini \nkemudian diperiksa dan segera diatasi sebelum pesawat diperkenankan \nterbang.</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Manfaat gelombang : Untuk mengukur kedalaman perairan atau suatu jurang<br>Manfaat bunyi : Agar bisa didengar (bila tidak ada yang namanya bunyi/suara, apa yang bisa kita dengar).<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

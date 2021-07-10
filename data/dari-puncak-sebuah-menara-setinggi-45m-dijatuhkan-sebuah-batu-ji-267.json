@@ -1,0 +1,146 @@
+{
+    "question": "Dari puncak sebuah menara setinggi 45m dijatuhkan sebuah batu. Jika percepatan gravitasi di tempat tersebut 10 m/s, kecepatan batu saat tepat menyentuh tanah sebesar",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p></p><p>Kecepatan batu saat tepat menyentuh tanah sebesar <strong>30 m/s</strong></p><p><strong></strong></p><h3>PEMBAHASAN</h3><p><u>Diketahui:</u></p><p>kecepatan awal batu = vo = 0 m/s</p><p>ketinggian batu = h = 45 m</p><p>percepatan gravitasi = g = 10 m/s\u00b2</p><p><u>Ditanyakan:</u></p><p>kecepatan akhir batu = v = ?</p><p><u>Penyelesaian:</u></p><p>Untuk menyelesaikan soal ini kita akan menggunakan rumus <strong>GLBB</strong> sebagai berikut ini:</p><p>[tex]v^2 = (v_o)^2 + 2 g h[/tex]</p><p>[tex]v^2 = 0^2 + 2 g h[/tex]</p><p>[tex]v^2 = 2 g h[/tex]</p><p>[tex]v = \\sqrt{ 2 g h }[/tex]</p><p>[tex]v = \\sqrt{ 2 \\times 10 \\times 45 }[/tex]</p><p>[tex]v = \\sqrt{ 900 }[/tex]</p><p>[tex]v = 30 \\texttt{ m/s}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Percepatan</strong> : https://brainly.co.id/tugas/18400185</p><p><strong>Daya Gerak</strong> : https://brainly.co.id/tugas/17121561</p><p></p><p>------------------------</p><h3>Detil Jawaban :</h3><p><strong>Kelas</strong>: 8</p><p><strong>Mapel</strong>: Fisika</p><p><strong>Bab</strong>: Gerak</p><p><strong>Kode</strong>: 8.6.1</p><p></p><p><strong>Kata Kunci</strong>: Gaya, Gerak, Jarak, Percepatan, Grafik, Menyusul</p>",
+            "attachments": [
+                "answer-attachments/dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "empat-buah-pegas-identik-masing-masing-mempunyai-konstanta-elasti-624",
+            "question": "empat buah pegas identik masing-masing mempunyai konstanta elastisitas 500 N/m, disusun seri-pararel. jika beban seberat 40 N digan tungkan di ujung pegas, pegas mengalami pertambahan panjang sebesar....cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0394x=F/k<br>=40/500<br>=0,08 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747",
+            "question": "Tentukan besar dan arah dari resultan vektor F\u2081, F\u2082, dan F\u2083 yg diperlihatkan pada gambar di bawah ini.\u00a0(sin 53\u00b0 = 0.8 dan sin 37\u00b0 = 0.6)",
+            "attachments": [
+                "question-attachments/tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "=-F1.sin53+F2.sin37+F3<br>=-2.0,8+4.0,6+5<br>=-1,6+2,4+5<br>=5,8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-masssa-jenisnya-sama-dengan-massa-jenis-air-p-b-396",
+            "question": "sebuah benda yang masssa jenisnya sama dengan massa jenis air p beradda pada dasar air dalamnya h. jika percepatan grafitasi g, massa benda m, dan volume benda V, besar gaya normal dari dasar kolam pada benda adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau massa jenis benda sama dengan massa jenis air, maka ketika benda berada di dalam air , benda akan melayang <br>jadi gaya normal yang diberikan oleh dasar kolam pada benda sama dengan nol. :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-reaksi-fusi-berikut-diketahui-massa-943",
+            "question": "Perhatikan reaksi fusi berikut\u00a0    \r\n\r\nDiketahui : Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0 = 0,00055 sma\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 sma = 931 MeV\u00a0\r\n\r\nmaka nilai E (energi yang dihasilkan) pada reaski fusi tersebut adalah\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar defek massa adalah jumlah massa sebelah kiri tanda --&gt;, dikurangi massa sebelah kanan tanda --&gt;. Setiap 1 sma memiliki energi sebesar 931 MeV\u00a0<br><br>E =\u00a0[tex]\\triangle m . 931 MeV [/tex]\u00a0<br>\u00a0 \u00a0=\u00a0[tex][(m_{_1H^1}+m_{_1H^1})-(m_{_1d^2}+m_{_1^2e})].931 MeV[/tex]<br>\u00a0 \u00a0= [(1.0078+1.0078)-(2.01410+0.00055)].931<br>\u00a0 \u00a0= 0.88445\u00a0[tex]M_eV[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D<br><br>by : Crow Art.",
+                    "attachments": [
+                        "answer-attachments/perhatikan-reaksi-fusi-berikut-diketahui-massa-943-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-menurunkan-tegangan-listrik-bolak-balik-dari-861",
+            "question": "sebuah transformator menurunkan tegangan listrik bolak-balik dari 220 volt menjadi 10 volt. efisiensi transformator 60%. bila kuat arus pada kumparan sekunder 6,6 ampere, maka kuat arus pada kumparan primernya adalah... A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Efisiensi = [tex] \\frac{P s}{P p} [/tex]<br>P = V . I<br><br>Jadi, Efisiensi = [tex] \\frac{Vs . Is}{Vp . Ip} [/tex]<br>60 % = [tex] \\frac{10.6,6}{220.x} [/tex]<br>x = [tex] \\frac{6600}{13200} [/tex]<br>x = 0,5 A<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "efisiensi=[tex] \\frac{Pkeluaran}{Ptotal} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = [tex] \\frac{Vs.Is}{Vp.Ip} [/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 60%\u00a0 =\u00a0  [tex] \\frac{10x6,6}{220xIp} [/tex] <br>\u00a0\u00a0 Ip\u00a0 \u00a0 \u00a0\u00a0 =\u00a0   [tex] \\frac{10x6,6}{220x60%} [/tex]\u00a0 = 0,5 A <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508",
+            "question": "teh panas yang massanya 20 gram pada suhu t dituang kedalam cangkir bermassa 190 gram dan bersuhu 20 derajat celcius. jika suhu kesetimbangan termal 36 derajat celcius dan panas jenis air teh = 8 kali panas jenis cangkir, tentukan suhu mula-mula teh? gimana caranya y? terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran: fisika <br>Kelas: 10 SMA <br>Kategori: suhu dan kalor <br>Kata kunci: suhu campuran <br>Pembahasan:<br><br>Berikut terlampir pembahasan soal.",
+                    "attachments": [
+                        "answer-attachments/teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-kalor-berdasarkan-pengertian-konvensional-dan-berdasar-593",
+            "question": "Pengertian kalor berdasarkan pengertian konvensional dan berdasarkan teori kinetik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor adalah energi panas yang berpindah sari benda yang bersuhu lebih tinggi ke benda yang bersuhu lebih randah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Konvensional : Energi yang muncul akibat perubahan suhu<br>Teori kinetik Zat :Energi yang muncul akibat adanya perubahan Tekanan dan Volume suatu zat pada massa dan Suhu tertentu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-mempengaruhi-besar-kecilnya-tekanan-hidrostatis-680",
+            "question": "Apa faktor yang mempengaruhi besar kecilnya tekanan hidrostatis? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas penampang dan besarnya gaya",
+                    "attachments": []
+                },
+                {
+                    "answer": "- massa jenis fluida<br>- tinggi atau kedalaman fluida dari bidang tekan (diukur dari permukaan fluida)<br>- gaya gravitasi bumi<br><br>semoga bermanfaat... :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-depan-cermin-cekung-yang-titik-fokusnya-10-cm-diletakkan-sebua-739",
+            "question": "di depan cermin cekung yang titik fokusnya 10 cm diletakkan sebuah benda x, agar bayangan benda x berukuran 2 kali lebih besar dari nyata, benda harus diletakkan ..... dari cermin.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : f = 10 cm\u00a0  ; s&#039; = 2s <br>Dit : s = ...<br>Jawab : <br>1/s = 1/f - 1/s<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "rizki dan rizal sedang mendorong sebuah lemari. untuk berpindah sejauh 2 m diperlukan usaha sebesar 1 kJ. jika rizal memberikan gaya 150 N, berapakah gaya yg harus diberikan rizki?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "diket = W= 1Kj=1000j<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F1=150N (rizal)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s=2m<br>dit = F2 (riski)....?<br>jawab= W=(F1+F2).s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1000=(150+F2).2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1000/2=150+F2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 500 =150+F2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F2 = 500-150<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F2= 350N<br>\u00a0MAKA GAYA YANG DI KELUARKAN RISKI SEBESAR 350N<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-peti-yang-beratnya-25-kg-diam-di-atas-lantai-datar-yang-ka-867",
+            "question": "Sebuah peti yang beratnya 25 kg diam di atas lantai datar yang kasar, untuk menggerakkan peti itu dibutuhkan gaya 60 N. Berapakah koefisien gesekan statis antara lantai dan peti?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fs=(miu) x N<br>N = W<br>\u00a0\u00a0 = m.g<br>\u00a0\u00a0 = 25.10<br>N = 250<br>Fs=60<br>miu=Fs/N<br>\u00a0\u00a0 \u00a0  =60/250<br>\u00a0\u00a0 \u00a0  =6/25<br>\u00a0\u00a0 \u00a0  = 0,24<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mikroskop-mempunyai-objektif-yang-berjarak-titik-api-2-cm-963",
+            "question": "sebuah mikroskop mempunyai objektif yang berjarak titik api 2 cm. sebuah objek diletakkan 2,2 cm di bawah objektif. jika perbesaran okuler 10 kali, maka perbesaran mikroskop itu...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui\u00a0fob\u00a0:\u00a02\u00a0cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sob\u00a0:\u00a02,2\u00a0cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Mok\u00a0:\u00a010\u00a0kali<br>jarak\u00a0bayangan objektif (S&#039;ob)\u00a0yaitu :<br>S&#039;ob\u00a0=Sob.fob\u00a0: Sob\u00a0-\u00a0fob<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0= 2,2\u00a0. 2 : 2,2 - 2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 4,4 : 0,2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 22\u00a0cm<br>Perbesaran\u00a0total\u00a0:<br>Mtotal = Mob x Mok<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0=\u00a0<u>S&#039;ob .</u>\u00a0Mok<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sob<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =<u>\u00a022 </u>. 10<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2,2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 10.10<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 100 kali<br>Jadi perbesaran mikroskop tersebut adalah 100 kali<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-bagaimana-cara-kerja-transformator-mengapa-harus-dengan-809",
+            "question": "Jelaskan bagaimana cara kerja Transformator! Mengapa harus dengan\u00a0 teganggan arus bolak-balik? dapatkah menggunakan tegangan searah? mengapa demikian? tolong dijawab ya guys... Thanks :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "transformator step up dan step down harus dialiri arus ac karnajika ia menggunakan arus dc adanya kesulitan dalam pembuatan generator trafo dcnya sebenarnya bisa trafo menggunakan dc tetapi harus mengunakan cincin belah.<br><br>nih cara kerjanya cuy<br>transformator bekerja berdasarkan prinsip\u00a0induksi\u00a0elektromagneti<u>k</u><span>. Tegangan masukan bolak-balik yang membentangi primer menimbulkan\u00a0</span>fluks magnet<span>\u00a0yang idealnya semua bersambung dengan lilitan sekunder.\u00a0</span>Fluks<span>\u00a0bolak-balik ini menginduksikan\u00a0</span>GGL<span>\u00a0dalam lilitan sekunder. Jika efisiensi sempurna, semua daya pada lilitan primer akan dilimpahkan ke lilitan sekunder.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-mempunyai-energi-potensial-45000j-terletak-pada-keti-515",
+            "question": "sebuah benda mempunyai energi potensial 45000J terletak pada ketinggian 15m.berapakah massa benda tersebut jika konstanta gravitasi 10m/s2?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ep=1/2 f. Delta x jadi 45000=1/2 m.10.225 gitu jalannya tinggal coret",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = Ep / g.h<br>\u00a0\u00a0 \u00a0 = 45000 / 10x15<br>\u00a0 \u00a0\u00a0 = 45000 / 150 = 300 kg <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-rumuskan-masalah-yang-sesuai-dengan-tabel-di-atas-b-berdasark-747",
+            "question": "a. rumuskan masalah yang sesuai dengan tabel di atas b. berdasarkan masalah dan data tabel tersebut, apa kesimpulannya \u00a0",
+            "attachments": [
+                "question-attachments/a-rumuskan-masalah-yang-sesuai-dengan-tabel-di-atas-b-berdasark-747-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>a. Rumuskan masalah yang sesuai dengan tabel di atas adalah mengenai pemuaian volume.\n</strong></p><p>Ketiga benda ini dipanaskan, dan meningkat volumenya akibat pemanasan (memuai).\n</p><p><strong>b. Berdasarkan masalah dan data tabel tersebut, apa kesimpulannya\n</strong></p><p>Kesimpulanya adalah benda-benda akan memuai (mengalami penambahan volume) bila benda tersebut dipanaskan. Ini terlihat dari peningkatan volume seiring peningkatan suhu.\n</p><p>Dari ketiga benda di atas, alkohol memiliki kofisien pemuaian volume yang paling besar, sebab pemuaian yang terjadi akibat pemanasan paling besar.\n</p><p><strong>Pembahasan</strong>:\n</p><p>Pemuaian volume adalah penambahan volume permukaan benda saat menerima kalor atau panas. Contohnya adalah peningkatan volume panci logam saat dipanaskan.\n</p><p> Rumus pemuaian volume:\n</p><p>Vt = Vp (1 + \u03b3. \u0394t)\n</p><p>dimana:\n</p><p>Vt = volume akhir (dalam satuan m\u00b3, cm\u00b3)\n</p><p>Vo = volume awal (dalam satuan m\u00b3, cm\u00b3)\n</p><p>\u03b3 = koefisien muai volume (dalam satuan /\u00b0C)\n</p><p>\u0394t = perbedaan suhu (dalam satuan \u00b0C)\n</p><p>Disini terlihat bahwa volume akhir berbanding lurus dengan koefisien pemuaian, sehingga semakin besar pemuaian yang etrjadi, menunjukkan koefisien pemuaian yang lebih besar pula.\n</p><p><strong>Pelajari lebih lanjut \u00a0 \u00a0\n</strong></p><p>1. Panjang sebatang baja pada 20\u00b0C adalah 40cm. jika koefisien muai panjang baja 0,00002/\u00b0C, berapa panjangnya pada suhu 70\u00b0C?\n</p><p>https://brainly.co.id/tugas/66322\n</p><p>2. Jabarkan pengertian pemuaian pada benda yg mencakup panjang luas, volume!\n</p><p>https://brainly.co.id/tugas/13856840\n</p><p><strong> --------------------------------------------------------------------------------------\n</strong></p><p><strong>Detail Jawaban \u00a0 \u00a0</strong></p><p><strong>Kode: 7.6.7 \u00a0 \u00a0</strong></p><p><strong>Kelas: VII \u00a0 \u00a0</strong></p><p><strong>Mata Pelajaran: Fisika \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p><strong>Materi: Bab 7 - Suhu, Pemuaian, dan Kalor \u00a0 \u00a0</strong></p><p><strong>Kata Kunci: Kalor Jenis, Pemanasan \u00a0 \u00a0</strong></p><p>\n</p><p> \u00a0</p><p>\n</p><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bisakah-belahan-bumi-utara-dan-belahan-bumi-selatan-mengalami-mus-177",
+            "question": "Bisakah belahan bumi utara dan belahan bumi selatan mengalami musim yang sama? mengapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bisa saja karena ujung utara adalah utara,selatan dan selatan\u00a0karna bumi itu miring dan diantara utara dan selatan terdapat persamaan sedikit bahkan tidak terjangkau matahari keduanya.",
+                    "attachments": []
+                },
+                {
+                    "answer": "Musim selalu berlawanan di belahan bumi utara dan belahan bumi selatan. Kemiringan bumilah yang menyebabkan terjadinya musim, ketika belahan \nbumi utara yang miring mendekat terhadap Matahari (musim panas) maka \nbelahan bumi selatan dimiringkan menjauh dari Matahari(musim dingin). \nJika jarak antara Bumi dan Matahari merupakan alasan penyebab terjadinya\n musim, maka akan ada musim panas di kedua belahan bumi baik belahan \nutara maupun belahan selatan pada saat yang sama, karena keduanya akan \nmemiliki jarak yang sama dengan Matahari. Jarak Bumi \npaling dekat dengan Matahari adalah pada bulan Januari!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-hubungan-antara-usaha-gaya-dan-perpindahan-702",
+            "question": "Bagaimana hubungan antara usaha, gaya, dan perpindahan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaya adalah Tenaga yang dikeluarkan<br>Usaha adalah Energi yang diperlukan untuk memindahkan benda dengan jarak tertentu<br>Perpindahan adalah hasil dari usaha yang dilakukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dalam fisika usaha di definisikan sebagai hasil kali antara gaya dan perpindahan<br>secara matematis hubungan antara usaha, gaya dan perpindahan dapat dirumuskan sbgai :<br><br>W = F s<br><br>dimana yang harus diperhatikan adalah perpindahan benda haruslah searah dengan gaya\u00a0 yang diberikan suatu benda<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-dengan-massa-70-kg-naik-sepeda-maka-tekanan-ban-ke-jal-574",
+            "question": "Seseorang dengan massa 70 kg naik sepeda, maka tekanan ban ke jalan raya adalah pada massa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f=40.10=400<br>jika luasnya 1m<br>maka 400/1=400Pa<br>semoga membantu :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yang-dimaksud-energi-fosil-mengapa-kita-tidak-boleh-mengg-171",
+            "question": "Apakah yang dimaksud energi fosil? Mengapa kita tidak boleh menggunakan energi yang berasal dari fosil secara berlebihan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi fosil adalah energi yang didapatkan dari sisa2 mahluk hidup yang sudah lama mati..<br>energi fosil tidak boleh digunakan secara berlebihan karena ketersediaannya terbatas alias akan lama jika memang energi itu dapat dihasilkan lagi :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-kincir-air-mengubah-dari-energi-apa-ke-energi-apa-2-tujuan-me-943",
+            "question": "1. Kincir air mengubah dari energi apa ke energi apa\r\n2. Tujuan membuat kincir air apa aja",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi gerak - energi listrik",
+                    "attachments": []
+                },
+                {
+                    "answer": "energi kinetik menjadi listrik<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

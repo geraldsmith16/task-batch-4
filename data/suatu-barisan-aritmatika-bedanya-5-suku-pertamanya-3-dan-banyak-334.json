@@ -1,0 +1,140 @@
+{
+    "question": "Suatu barisan aritmatika bedanya 5, suku pertamanya 3 dan banyak suku 99. tentukan suku tengahnyaa",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U99=a+98b<br>U99=3+98.5=493<br>Ut= 1/2(a+Un) = 1/2(3+493)=248",
+            "attachments": []
+        },
+        {
+            "answer": "karena banyak suku ada 99,<br>maka suku tengah nya adalah suku (99+1)/2 = suku ke 50<br><br>[tex]U_{50}=a+49b=3+49(5)=3+245=248[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-segitiga-xyz-dengan-siku-siku-d-y-cos-z-20-per-24-tentuka-889",
+            "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-3x-7-2x-5-adalah-394",
+            "question": "Fungsi invers dari f(x) = (3x + 7) / (2x - 5) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>y = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>3x + 7 = 2xy - 5y<br>3x - 2xy = -5y - 7<br>x(3 - 2y) = -5y - 7<br>x = [tex] \\frac{-5y - 7}{3 - 2y} [/tex]<br><br>[tex] f^{-1} [/tex](x) = [tex] \\frac{-5x - 7}{3 - 2x} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x2-4x30-dan-x24x-210-mempunyai-sebuah-akar-perseku-949",
+            "question": "persamaan x2-4x+3=0 dan x2+4x-21=0, mempunyai sebuah akar persekutuan. akar persekutuan tersebut adalah? (bantu pake caranya ya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0x^2-4x+3=0 akarnya (x\u00a0-\u00a01)\u00a0(x\u00a0-\u00a03)<br>2.\u00a0</span><span>x^2+4x-21=0 akarnya (x\u00a0-\u00a03)\u00a0(x\u00a0+\u00a07)<br><br><br>akar yang sama (x-3) jadi nilai x = 3</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x^2 - 4x + 3 = 0<br>(x - 3)(x - 1) = 0<br>x1=3 \u00a0x2=1<br>jadi, akar-akarnya x=3 atau x=1<br><br>x^2 + 4x - 21 = 0<br>(x + 7)(x - 3) = 0<br>x1=-7 \u00a0x2=3<br>jadi akar-akarnya x=-7 atau x=3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-23456-dan-8-akan-dibentuk-bilangan-terdiri-dari-tiga-ang-202",
+            "question": "dari 2,3,4,5,6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. <strong>Banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut</strong> adalah 80 bilangan. Hasil tersebut diperoleh dengan menggunakan kaidah pengisian tempat (filling slot).\n</p><p></p><h3>Pembahasan\n</h3><p></p><p>Untuk menentukan banyaknya bilangan antara 300 dan 700 adalah tergantung dari angka ratusan yang dipilih yaitu 300-an, 400-an, 500-an, 600-an. \u00a0</p><p></p><p>Angka yang menempati posisi \u00a0</p><ul><li>Ratusan = 4 pilihan yaitu <strong>3</strong>, 4, 5, 6 (misal yang dipilih angka 3)\n</li><li>Puluhan = 5 pilihan yaitu <strong>2</strong>, 4, 5, 6, 8 (misal yang dipilih angka 2)\n</li><li>Satuan = 4 pilihan yaitu 4, 5, 6, 8\n</li></ul><p></p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= ratusan \u00d7 puluhan \u00d7 satuan\n</p><p>= (4 \u00d7 5 \u00d7 4) bilangan\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><p></p><p></p><h3>Jika menggunakan rumus permutasi yaitu\n</h3><p>Ada 6 pilihan angka yaitu 2, 3, 4, 5, 6 dan 8\n</p><p><strong>Memilih 1 angka sebagai ratusan dari 4 pilihan (3, 4, 5, 6)\n</strong></p><p>= \u2084P\u2081\n</p><p>= [tex]\\frac{4!}{(4 - 1)!}[/tex]\n</p><p>= [tex]\\frac{4 \\times 3!}{3!}[/tex]\n</p><p>= 4\n</p><p><strong>Memilih 2 angka (sebagai puluhan dan satuan) dari 5 pilihan angka yang tersisa \u00a0</strong></p><p>= \u2085P\u2082\n</p><p>= [tex]\\frac{5!}{(5 - 2)!}[/tex]\n</p><p>= [tex]\\frac{5 \\times 4 \\times 3!}{3!}[/tex]\n</p><p>= 5 \u00d7 4\n</p><p>= 20\n</p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= 4 \u00d7 20\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang banyak ratusan yang dapat terbentuk\n</p><p>https://brainly.co.id/tugas/15150946\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0</h3><p></p><p><strong>Kelas</strong> : 12\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Kaidah Pencacahan\n</p><p><strong>Kode</strong> : 12.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sin-45-sin-60cos-45-cos-30-tan-30-tan-60-981",
+            "question": "Sin 45\u00b0 sin 60\u00b0+cos 45\u00b0 cos 30\u00b0 / tan 30\u00b0 tan 60\u00b0 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : sinus, cosinus, sudut istimewa<br><br>Pembahasan :<br>Susut-sudut\u00a0pada trigonometri, yaitu :<br>sin 0\u00b0 = 0, cos 0\u00b0 = 1, tan 0\u00b0 = 0.<br>sin 30\u00b0 = 1/2, cos 30\u00b0 = 1/2\u00a0\u221a3, tan 30\u00b0 = 1/3\u00a0\u221a3.<span><br>sin 45\u00b0 = 1/2\u00a0\u221a2, cos 45\u00b0 = 1/2\u00a0\u221a2, tan 45\u00b0 = 1.<br>sin 60\u00b0 = 1/2\u00a0\u221a3, cos 60\u00b0 = 1/2, tan 60\u00b0 =\u00a0\u221a3.<br><span>sin 90\u00b0 = 1, cos 90\u00b0 = 0, tan 90\u00b0 =\u00a0\u221e.<br><br>Mari kita\u00a0lihat soal\u00a0tersebut.<br></span></span>[tex]\\frac{sin 45^o . sin 60^o + cos 45^o . cos 30^o}{tan 30^o . tan 60^o} \\\\= \\frac{ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}+ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}} { \\frac{1}{3} \\sqrt{3}. \\sqrt{3}} \\\\= \\frac{ \\frac{1}{4} \\sqrt{6}+ \\frac{1}{4} \\sqrt{6}} { \\frac{1}{3}.3} \\\\= \\frac{ \\frac{2}{4} \\sqrt{6} } {1}\\\\= \\frac{1}{2} \\sqrt{6} [/tex]<br><span><span><br>Semangat!<br></span></span><span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-tengah-suatu-deret-aritmatika-adalah-32-jika-juml-140",
+            "question": "Diketahui suku tengah suatu deret aritmatika adalah 32. Jika jumlah n suku pertama deret itu 672, tentukan banyak suku suatu deret tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 672 <br>Ut = a + b((n+1)/2 - 1)<br>32 = a + b(n-1)/2 kedua ruas kali 2<br>64 = 2a + b(n-1)...........(1)<br>Sn = 1/2 n( a + Un)<br>672 = 1/2 n( a + a + b(n-1)<br>672 = 1/2 n( 2a + b(n-1))<br>672 = 1/2 n(64)<br>672 = 32n<br>n = 672/32<br>n = 21<br>jadi <span>banyak suku suatu deret tersebut adalah 21</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-bilangan-1011121399-dari-deret-diatas-te-608",
+            "question": "Diketahui deret bilangan 10+11+12+13+...+99. Dari deret diatas tentukan jumlah bilangan yg habis dibagi 2 tapi tidak habis dibagi 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Yang habis di bagi 2\n<br><span>Un = a + (n-1)b</span>\n\n<br>98 = 10 + 2n-2\n\n<br>98 = 8 +2n\n\n<br>2n = 90\n\n<br>n = 45<br>\u00a0Yang habis dibagi 3\n\n<span><br>Un = a + (n-1)b</span>\n\n<br>99 = 12 + 3n-3\n\n9<br>9 = 9 + 3n\n<br>\n3n = 90\n<br>\nn = 30\n\n<br>yang habis dibagi 2 tetapi tdk habis di bagi 3\n\n<br>n = 45 \u2013 30\u00a0<span>= 15</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "andra-megerjakan-soal-ipa-selama-1-jam-36-menit-43-detik-dan-mate-528",
+            "question": "andra megerjakan soal IPA selama 1 jam 36 menit 43 detik dan matematika selama 1 jam 48 menit 29 detik. waktu yang dibutuhkan andra seluruhnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti ditambahka jawabnnya 2jam \u00a025 menit 12 detik<br><br>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "2jam 25 menit 12 detik....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-xyz3-x3-y3-z3-habis-dibagi-xyyzzx-te-960",
+            "question": "Buktikan (x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x). Tentukan juga hasil baginya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Terbukti bahwa</strong> [tex]\\rm (x+y+z)^3 - x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm(x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p></p><h2><u>Pendahuluan</u> </h2><p><strong><u>Aljabar</u></strong> merupakan konsep operasi bilangan yang memisalkan dalam sebuah variabel.</p><p><strong><u>\u00bb Beberapa sifat Manipulasi Aljabar</u></strong></p><p>[tex]\\footnotesize\\rm\\to x^2 - y^2 = (x + y)(x - y)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm \\to x^2 + y^2 &amp;=\\rm (x + y)^2 - 2xy\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x - y)\u00b2 + 2xy\\rm{\\blue{...Persamaan~2}}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3-y^3=(x-y)(x^2+xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3+y^3=(x+y)(x^2-xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^2+y^2+z^2 &amp;=\\rm(x+y+z)^2-2(xy+xz+yz)\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x-y-z)^2+2(xy+xz-yz)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^3+y^3+z^3 &amp;=\\rm (x+y+z)^3-3(x+y+z)(xy+xz+yz)+3xyz\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x^2+y^2+z^2)(x+y+z)-(x+y+z)(xy+xz-yz)+3xyz\\blue{...Persamaan~2}\\\\ &amp;=\\rm (x+y+z)\\left[(x^2+y^2+z^2)-(xy+xz+yz)\\right]+3xyz\\blue{...Persamaan~3}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^4+y^4+z^4 &amp;=\\rm (x^2+y^2+z^2)^2-2(xy+xz+yz)^2+4xyz(x+y+z)\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x^3+y^3+z^3)(x+y+z)-(x^2+y^2+z^2)(xy+xz+yz)+xyz(x+y+z)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p></p><h2><u>Pembahasan</u></h2><h3>\u261e Diketahui pernyataan :</h3><p>(x+y+z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 habis dibagi (x + y)(y + z)(x + z)</p><p></p><h3>\u261e Ditanya :</h3><p>Buktikan bahwa pernyataan tersebut benar atau salah, Jika benar tentukan hasil baginya!</p><p></p><h3>\u261e Jawab :</h3><p><strong><u>\u00bb Untuk (x + y)(y + z)(x + z) ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize\\begin{aligned}\\rm (x+y)(y+z)(x+z)&amp;=\\rm x^{2}y+xyz+x^{2}z+xz^{2}+xy^{2}+y^{2}z+xyz+yz^{2}\\\\&amp;=\\bf x^{2}y+x^{2}z+xz^{2}+xy^{2}+y^{2}z+yz^{2}+2xyz\\end{aligned}[/tex]</p><p></p><p><strong><u>\u00bb Untuk (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize=\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}[/tex]</p><p>[tex]\\footnotesize=\\rm (x+y+z)(x+y+z)(x+y+z)\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm x^3+x^2 y+x^2 z+x^2 y+xy^2+xyz+x^2 z+xyz+xz^2+x^2 y+xy^2+xyz+xy^2+y^3+y^2 z+xyz+y^2 z+yz^2+x^2 z+xyz+xz^2+xyz+y^2 z+yz^2+xz^2+yz^2+z^3\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm\\cancel{x^3+y^3+z^3}+3x^2 y+3x^2 z+3xz^2+3xy^2+3y^2 z+3yz^2+6xyz\\cancel{\\blue{-x^{3}-y^{3}-z^{3}}}[/tex]</p><p>[tex]\\footnotesize=\\bf 3(x^2y+x^2z+xz^2+xy^2+y^2z+yz^2+2xyz)[/tex]</p><p><strong><u>\u00bb Perhatikan bahwa</u></strong></p><p>[tex]\\footnotesize\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}=3(x+y)(y+z)(x+z)[/tex]</p><p><u><strong>\u00bb</strong><strong> </strong><strong>Dari sini dapat kita simpulkan bahwa pernyataan tersebut benar karena</strong></u></p><p>3(x + y)(y + z)(x + z) <strong>habis dibagi</strong> (x + y)(y + z)(x + z) <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Kesimpulan</u></h2><p></p><p><strong>\u2234 Jadi pernyataan tersebut benar bahwa</strong><strong> </strong>[tex]\\rm (x+y+z)^3-x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm (x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Pelajari Lebih Lanjut :</u></h2><p></p><ol><li>Operasi bentuk Aljabar (Penjumlahan, Pengurangan, Menyederhanakan, Perkalian): https://brainly.co.id/tugas/25699535</li><li>Operasi bentuk Aljabar (Bentuk Fraksi) : https://brainly.co.id/tugas/3542338</li><li>Operasi Bentuk Aljabar (Pengurangan dan Penyederhanaan) : https://brainly.co.id/tugas/25699589</li></ol><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Detail Jawaban</u></h2><p></p><p>Mapel : Matematika</p><p>Kelas : VIII</p><p>Materi : Operasi Bentuk Aljabar - Bab 1</p><p>Kode Kategorisasi : 8.2.1 (Kelas 8)</p><p>Kode Mapel : 2</p><p>Kata Kunci : Pembuktian Langsung, Manipulasi Aljabar, Habis bagi</p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h3>\u27a1\ufe0f Pendahuluan </h3><p>Perkalian aljabar dengan dua suku maka</p><p>(a +  b) (c + d) = a(c + d) + b(c + d)</p><p>Pemfaktoran</p><p>Aljabar ax\u00b2 + bx + c maka kita cari angka jika dikalin c dan jika ditambah b</p><p>Caranyaubah bentuk aljabar dengan perkalian a(c + d) terlebih dahulu setelah itu di sederhanakan</p><p>Kemudian kita cari angka yang bisa di faktorkan sehingga bisa ubah persamaan tersebut.</p><p>Yang ketiga hilangkan salah satu variabel untuk mencari variabel pertama setelah itu di substitusi kan</p><p>Dalam perkalian aljabar maka kita kalikan satu persatu setelah kita sederhanakan, dankita cari nilai dari pemangkatan aljabar tersebut setelah itu kita sederhanakan.</p><p></p><h3>\u27a1\ufe0fPenyelesaian soal </h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p>Buktikan : (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis..</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><ul><li>Pembuktian x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis </li></ul><p></p><p><strong> </strong><strong>Jawab</strong><strong> </strong><strong>:</strong></p><ul><li>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</li></ul><p></p><h3><strong>\u27a1\ufe0f</strong><strong> </strong><strong>P</strong><strong>embahasan</strong><strong> </strong></h3><p><strong># (x + y + z)\u00b3</strong></p><p>= (x + y + z)(x + y + z)(x + y + z)</p><p>=(x\u00b2 + xy + xz + xy + y\u00b2 + yz + xz + yz + z\u00b2)(x + y + z)</p><p>=(x\u00b2 + y\u00b2 + z\u00b2 +2xy + 2xz + 2yz)(x + y + z)</p><p>=x\u00b3 + x\u00b2y + x\u00b2z + xy\u00b2 + y\u00b3 + y\u00b2z + xz\u00b2 + yz\u00b2 + z\u00b3 + 2x\u00b2y + 2xy\u00b2 + 2xyz + 2x\u00b2z + 2xyz + 2xz\u00b2 + 2xyz + 2y\u00b2z + 2yz\u00b2</p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz</p><p><strong>#(x + y) (y + z) (z + x) =</strong></p><p>(xy + xz + y\u00b2 + yz) (z + x )</p><p>= xyz + x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + xyz</p><p>= x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p><strong>Maka </strong></p><p>= (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) </p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x)</p><p>= 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= 3(x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz) \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= <strong>3</strong></p><p></p><h3><strong>Kesimpulan</strong><strong> </strong><strong>:</strong></h3><p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h2>__________________</h2><h3>Pelajari lebih lanjut :</h3><ul><li>Rumus-Rumus Turunan Fungsi Aljabar https://brainly.co.id/tugas/22162107</li><li>Jelaskan pengertian yg paling mendasar dari Aljabar! https://brainly.co.id/tugas/23563280</li><li>Unsur unsur aljabar dan macam macam suku aljabar https://brainly.co.id/tugas/3725097</li></ul><p></p><h3>Detail Jawaban :</h3><p>Mapel       : Matematika </p><p>Materi       : 8 SMP </p><p>Bab            : Operasi Bentuk Aljabar </p><p>Kode Kategorisasi : 8.2.1</p><p>Kata Kunci : Manipulasi Bentuk Dari Aljabar.</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

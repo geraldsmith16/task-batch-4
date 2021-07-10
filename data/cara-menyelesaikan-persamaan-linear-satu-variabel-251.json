@@ -1,0 +1,152 @@
+{
+    "question": "Cara menyelesaikan persamaan linear satu variabel",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cara menyelesaikan sistem persamaan linear satu variabel :<br>-\u00a0<span>kita harus menentukan nilai dari\u00a0</span>x<span>\u00a0sedemikian sehingga persamaan tersebut menjadi benar, yang berarti, nilai dari ruas kiri sama dengan ruas kanan.<br>-\u00a0</span>kita dapat menuliskan suatu persamaan yang diberikan ke dalam\u00a0persamaan ekuivalen<span>\u00a0yang lebih sederhana, sampai kita mendapatkan solusi yang diminta.\u00a0<br>-\u00a0</span><span>lalu diperoleh dari penyederhanaan kedua ruas persamaan dengan menggunakan sifat-sifat penjumlahan, perkalian, dan distributif dari suatu persamaan, sampai diperoleh suatu persamaan dalam bentuk\u00a0</span>x<span>\u00a0= konstanta.<br><br></span>",
+            "attachments": []
+        },
+        {
+            "answer": "<span><span><strong><em><br>Metode Grafik<br>1</em></strong>.Menggunakan Metode Grafik<span>\u00a0<span>Pada metode grafik, himpunan penyelesaian dari sistem persamaan linear\u00a0dua variabel</span><span>adalah koordinat titik potong kedua garis\u00a0tersebut. Jika garis-garisnya tidak</span><span>berpotongan di satu titik tertentu\u00a0maka himpunan penyelesaiannya adalah himpunan</span>kosong.\u00a0Contoh Soal :Dengan menggunakan metode grafik, tentukan himpunan penyelesaian sistem<span>pers<span>ama<span>an li<span>nea<span>r dua v<span>ari<span>abe<span>l x + y = 3 da<span>n x \u2013 y = 2 un<span>tuk x<span>, y\u00a0R</span></span></span></span></span></span></span></span></span></span></span>\u00a0</span>Kesimpulan :\u00a0<br><br>Metode Substitusi<br><strong><em>2</em></strong><strong><em></em></strong>. Menggunakan Metode SubstitusiPada metode subtitusi, himpunan penyelesaian dari sistem persamaan linear dua</span><span></span></span><span>\u00a0<span>variabel adalah dengan cara menyatakan salah satu variabel dalam bentuk variabel<span>yang lain kemudian nilai variabel tersebut menggantikan variabel\u00a0yang sama dalam</span>persamaan yang lain.Contoh Soal :<span>Dengan menggunakan metode subtitusi , tentukan himpunan penyelesaian sistem</span>persamaan linear dua variabel x + y = 12 dan 2x + 3y = 31.<br></span><br><br>Metode Eliminasi<br><strong><em>3</em></strong>. Menggunakan Metode Eliminasi<span>Pada metode eliminasi, himpunan penyelesaian dari sistem persamaan linear duavariabel adalah dengan cara menghilangkan (mengeliminasi) salah satu variabel dari<span>sistem persamaan tersebut. Misalkan variabelnya adalah x dan y, untuk\u00a0menentukan</span><span>variabel x harus mengeliminasi variabel y terlebih\u00a0dahulu, atau sebaliknya. Dengan</span>kata lain metode eliminasi adalah menghilangkan salah satu variabel untuk dapat<span>menentukan nilai variabel yang lain, oleh karena itu\u00a0koefisien salah satu variabel yang</span>akan dihilangkan haruslah sama atau dibuat sama.Contoh Soal :Dengan menggunakan metode eliminasi, tentukan himpunan penyelesaian sistempersamaan linear dua variabel 3x + 3y = 3 dan 2x - 4y = 14.<br></span><br>Metode Kombinasi<br><strong><em>4</em></strong>. Menggunakan Metode Kombinasi (Eliminasi &amp; Subtitusi)<span>Pada metode kombinasi (eliminasi &amp; subtitusi), himpunan penyelesaian dari sistempersamaan linear dua variabel adalah dengan cara mengeliminasi salah satu variabeldari sistem persamaan tersebut. Kemudian hasil dari eliminasi tersebut disubtitusikanke salah satu persamaan.Contoh Soal :Dengan menggunakan metode kombinasi, tentukan himpunan penyelesaian sistem<span>persamaan linear dua variabel 2x + 3y = 6 dan x - y = 3</span></span></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-5254-178-adalah-dan-sebutkan-langkah-langkah-x-892",
+            "question": "Hasil dari 5/2:5/4-17/8 adalah... dan sebutkan langkah-langkah-x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=5/2 x 4/5 - 17/8<br>=2-17/8=16/8-17/8=-1/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "(5/2 : 5/4) - 17/8 =<br>(5/2 x 4/5) - 17/8 =<br>20/10 - 17/8 = <br>2/1 - 17/8 =<br>16/8 - 17/8 = - 1/8<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menghitung-diagram-venn-341",
+            "question": "Bagaimana cara menghitung diagram venn ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung diagram\u00a0venn&#039;a kayak apa dulu..\u00a0<br>klo ada 2 himpunan ya dibuat 2 lingkaran..<br>kalo ada anggota yang sama di taruh di tengah2 lingkaran itu..<br>kalo cara menghitungnya ya hampir sama kaya gitu lahh..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-melukis-sudut-15-derajat-dengan-jangka-949",
+            "question": "Cara melukis sudut 15 derajat dengan jangka?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Buat garis ABBuat busur lingkaran berpusat di titik A dan jari-jari ABDengan berpusat di titik B dan jari-jari tetap sama, buatlah busur lingkaran sehingga kedua busur tadi berpotongan di titik CHubungkan titik A dan titik C, maka\u00a0<br>BAC = 60 derajat<br>jadi digaris sehingga seperempatnya mjdi 15",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-daerah-tembereng-jika-diketahui-jari-jari-lingkara-755",
+            "question": "Hitunglah luas daerah tembereng jika diketahui jari-jari lingkaran 10.5 cm\u00a0dan besar sudutnya 90 derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas juring:<br>LJ = <u>\u00a0 a\u00a0 </u> \u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 360<br>LJ =<u>\u00a0 90\u00a0</u> \u00d7 <u>22\u00a0</u> \u00d7 10,5\u00a0 \u00d7 10,5<br>\u00a0\u00a0 \u00a0 \u00a0 360\u00a0 \u00a0  7<br>Lj = 86,625 cm\u00b2<br><br>luas segitiganya:<br>L = <u>a\u00a0 \u00d7\u00a0 t </u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>L =<u> 10,5 \u00d7 10,5</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>L = 55,125 cm\u00b2<br><br>Luas tembereng:<br>Luas juring - luas segitiga<br>86,625 - 55,125<br>31,5 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-himpunan-penyelesaian-dari-3x-12-lebih-besar-sama-de-418",
+            "question": "Tentukan himpunan penyelesaian dari:    3x - 12 (lebih besar sama dengan) 5x+ 2, x pada bilangan bulat.",
+            "attachments": [
+                "question-attachments/tentukan-himpunan-penyelesaian-dari-3x-12-lebih-besar-sama-de-418-1.jpeg"
+            ],
+            "answers": [
+                {
+                    "answer": "3x-12&gt;=5x,+12\n-2x &gt;=24\nx&lt;=12 itu dimasukkan dalam kurung kurawL",
+                    "attachments": []
+                },
+                {
+                    "answer": "3x - 12 (Lebih besar sama dengan) 5x + 2, x = bilangan bulat\u00a0<br>3x - 5x (&gt;=) 2 + 12\u00a0<br>-2 x (&gt;=) 14\u00a0<br>\u00a0 \u00a0 x (&gt;=) 14/-2<br>\u00a0 \u00a0 x (&gt;=) -7\u00a0<br>x= -7, -6, -5, -4, -3, -2 .... (Tak terhingga)<br><br>(&gt;=) --&gt; lebih besar sama dengan\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "uraikan-dari-yang-terbesar-2-pangkat-5555-5-pangkat-2222-3-pang-351",
+            "question": "Uraikan dari yang terbesar 2 pangkat 5555, 5 pangkat 2222, 3 pangkat 3333",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 pangkat 5555 = 2 pangkat 5 (1111)<br>5 pangkat 2222 = 5 pangkat 2 (1111)<br>3 pangkat 3333 = 3 pangkat 3 (1111)<br>jadi urutan dari yang terbesar <br>2 pangkat 5555<br>3 pangkat 3333<br>5 pangkat 2222<br>^^<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 pangkat 5555 = (2^5)^1111 = 32^1111<br>5 pangkat 2222 = (5^2)^1111 = 25^1111<br>3 pangkat 3333 = (3^3)^1111 = 27^1111<br>\u00a0jadi urutan dari yg terbesar adalah<br><br>2 pangkat 5555, 3 pangkat 3333, 5 pangkat 2222<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-di-depan-sudut-60derajat-adalah-20cm-kel-932",
+            "question": "Panjang busur lingkaran di depan sudut 60derajat adalah 20cm. keliling lingkaran itu adalah....cm    jika luas lingkaran 616 cm2 sedang luas juring AOB adalah 462 cm2, maka besar sudut pusat AOB adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 60 derajat/360 derajat = 20 cm; keliling= 6 x 20 cm = 120 cm<br>2) sudut AOB = 616/462 = 1/3 = 360/3 = 120 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-suku-ke-n-deret-aritmetika-jika-diketahui-suku-pertama-a-506",
+            "question": "Carilah Suku ke-n deret aritmetika jika diketahui suku pertama (a) dan\u00a0beda (b) \u00a0berikut    a.) a=\u00a09, b= -3 , dan n = 24\r\nb.) a=\u00a012, b= -7 , dan n = 8\r\nc.) a= -4, b= 4 dan n = 100\r\nd.) a=\u00a02 , b=9 dan n=1\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 Un = a + (n-1)b<br>Un = 9 + (n-1)(-3)<br>Un = 9 - 3n + 3<br>Un = 11 - 3n<br>n = 24<br>U24 = 11- 3.24 = 11 - 72 = - 61<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)a=9, b=3, n=24 jadi Un=24<br>Un=a+(n-1)b<br>24=9+(24-1)3<br>\u00a0\u00a0 =9+(23)3<br>\u00a0\u00a0 =78<br><span>b.) a=12, b=7, n=8 jadi Un=8<br>Un=a+(n-1)b<br>\u00a08= 12+(8-1)7<br>\u00a0\u00a0  =12+49<br>\u00a0\u00a0 =61<br>c) a=4, b=4, n=100 jadi Un=100<br>Un=a+(n-1)b<br>100=4+(100-1)4<br>\u00a0\u00a0 \u00a0 =4+396<br>\u00a0\u00a0 \u00a0 =400<br>d) a=2, b=9, n=15 jadi Un=15<br>Un=a+(n-1)b<br>15=2+(15-1)9<br>\u00a0\u00a0\u00a0 = 2+126<br>\u00a0\u00a0  =128<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-segitiga-sama-kaki-240-cm2-jika-panjang-alasnya-2-839",
+            "question": "Luas sebuah segitiga sama kaki 240 cm^{2}. jika panjang alasnya 20 cm, maka keliling segitiga tersebut .. tuliskan caranya !!\u00a0    a. 44 cm\r\nb. 46 cm\r\nc. 68 cm\r\nd. 72 cm\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = 1/2 a x t<br>240 = 1/2 . 20 x t<br>240 = 10t<br>24 = t<br><br>alas 20 cm, maka sisi samping = 10 kuadrat + 24 kuadrat<br>akar 100 + 576<br>maka sisi samping adalah akar dari 676 yaitu 26<br><br>K = 20+26+26<br>K = 72 cm<br><br>Jawabannya d. 72 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : <br>Alas segitiga sama kaki : 20,<br>Setengah alas : 10<br>L. segitiga = 1/2 . a. t<br>240\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 1/2 . 20. t<br>240\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10t<br>t\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 240/10<br>t\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0 24<br><br>jika kedua sisi kuadrat segitiga 10\u00b2 dan 24\u00b2 maka sisi terpanjang adalah 26\u00b2<br><br>K= sisi segitiga<br>\u00a0\u00a0 \u00a0 s + s + s <br>\u00a0\u00a0 \u00a0 10+24+26 = 60 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-indah-membeli-2-lusin-gelas-seharga-192000gelas-tsb-akan-dij-245",
+            "question": "Bu indah membeli 2 lusin gelas seharga 192.000,gelas tsb akan dijual lagi dengan harga Rp.9500/biji.    a. tentukan besar keuntungan /kerugian bu indah \r\nb. agar diperoleh keuntungan 25%,berapa harga jual gelas perbiji?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Rp.9500 x 24 = Rp.228.000<br>keuntungan = Rp.228.000 - Rp.192.000 = Rp. 36.000<br><br>b. 25% x Rp.192.000 = Rp.48.000<br>harga jual dua lusin = Rp.192.000 + Rp.48.000 = Rp.240.000<br>jadi harus dijual dengan = Rp.240.000 : 24 = Rp.10.000 per buah.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>2 lusin = 2 x 12 = 24 gelas<br><br>harga jual = 24 x 9.500 = 228.000<br><br>keuntungan = harga jual - harga beli = 228.000 - 192.000 = 36.000<br><br>b.<br>harga beli 1 gelas = 192.000 : 24 = 8000<br>harga jual 1 gelas untuk 25% =\u00a0[tex] \\frac{125}{100}\\times 8000=10000 [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

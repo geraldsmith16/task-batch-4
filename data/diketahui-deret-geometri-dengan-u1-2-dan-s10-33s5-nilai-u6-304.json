@@ -1,0 +1,138 @@
+{
+    "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-2x2-4x-10-memiliki-akar-akar-x1-dan-x2-persa-445",
+            "question": "Persamaan kuadrat 2x^2-4x-1=0 memiliki akar-akar x1 dan x2. Persamaan kuadrat baru yang akar-akarnya 2x1 dan 2x2 adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Persamaan kuadrat 2x\u00b2 \u2013 4x \u2013 1 = 0 memiliki akar-akar x\u2081 dan x\u2082. Persamaan kuadrat baru yang akar-akarnya 2x\u2081 dan 2x\u2082</strong> adalah x\u00b2 \u2013 4x \u2013 2 = 0. Bentuk umum persamaan kuadrat adalah ax\u00b2 + bx + c = 0, dengan a \u2260 0. Jika x\u2081 dan x\u2082 adalah akar-akar persamaan kuadrat maka\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a}[/tex]\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a}[/tex]\n</li></ul><p>Menentukan persamaan kuadrat\n</p><ul><li>Cara 1: (x \u2013 x\u2081)(x \u2013 x\u2082) = 0\n</li><li>Cara 2: x\u00b2 \u2013 (x\u2081 + x\u2082)x + x\u2081 . x\u2082 = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><h3>Cara Pertama\n</h3><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>a = 2\n</p><p>b = \u20134\n</p><p>c = \u20131\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a} = -\\frac{(-4)}{2} [/tex] = 2\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a} = \\frac{-1}{2} [/tex]\n</li></ul><p>misal\n</p><ul><li>p = 2x\u2081 dan q = 2x\u2082\n</li></ul><p>maka\n</p><ul><li>p + q = 2x\u2081 + 2x\u2082 = 2(x\u2081 + x\u2082) = 2(2) = 4\n</li><li>pq = (2x\u2081)(2x\u2082) = 4x\u2081x\u2082 = 4(\u2013\u00bd) = \u20132\n</li></ul><p>Jadi <strong>persamaan kuadrat baru yang akar-akarnya p dan q</strong> adalah\n</p><p>x\u00b2 \u2013 (p + q)x + p . q = 0\n</p><p>x\u00b2 \u2013 4x + (\u20132) = 0\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara kedua\n</h3><p>Misal \u00a0</p><ul><li>2x = y \u21d2 x = \u00bd y\n</li></ul><p><strong>Substitusikan ke persamaan kuadrat\n</strong></p><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>2(\u00bd y)\u00b2 \u2013 4(\u00bd y) \u2013 1 = 0\n</p><p>2(\u00bc y\u00b2) \u2013 2y \u2013 1 = 0\n</p><p>\u00bd y\u00b2 \u2013 2y \u2013 1 = 0\n</p><p>==&gt; <em>kedua ruas kali 2 </em>&lt;==\n</p><p>y\u00b2 \u2013 4y \u2013 2 = 0\n</p><p>Jadi <strong>persamaan kuadrat barunya </strong>adalah\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara ketiga\n</h3><p>Persamaan kuadrat baru pada ax\u00b2 + bx + c = 0 jika akar-akarnya nx\u2081 dan nx\u2082 adalah\n</p><ul><li>ax\u00b2 + bx . n + c . n\u00b2 = 0\n</li></ul><p>2x\u2081 dan 2x\u2082 sehingga <strong>n = 2</strong>, maka persamaan kuadrat barunya adalah\n</p><p>2x\u00b2 \u2013 4x . <strong>2</strong> \u2013 1 . <strong>2\u00b2 </strong>= 0\n</p><p>2x\u00b2 \u2013 8x \u2013 4 = 0\n</p><p>==&gt;<em> kedua ruas bagi 2 </em>&lt;==\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang persamaan kuadrat\n</p><ul><li>10 soal persamaan kuadrat: brainly.co.id/tugas/14079686\n</li><li>Menentukan akar-akar persamaan kuadrat: brainly.co.id/tugas/10091829\n</li><li>Menentukan nilai m pada persamaan kuadrat: brainly.co.id/tugas/15258404\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel </strong>: Matematika\n</p><p><strong>Kategori </strong>: Persamaan Kuadrat\n</p><p><strong>Kode</strong> : 10.2.5\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-236-dan-8-dibuat-bilangan-kurang-dari-500-yang-terdi-267",
+            "question": "Dari angka 2,3,6 dan 8 dibuat bilangan kurang dari 500 yang terdiri dari 3 angka berbeda. Banyak bilangan yang dapat dibentuk adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0n ={2, 3, 6, 8} = 4<br>banyaknya bilangan<br>==&gt; 2 x 3 x 2 = 12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Angka 2,3,6,8<br>membentuk bilangan terdiri dari angka kurang dari 500 adalah:<br>untuk ratusan ada 2 pilhan/cara yaitu 2 dan 3. Karena kita sdh pilih sau angka maka yang tersisa tinggal 3 angka untuk puluhan dan satuan, sehingga P(3,2) = 3!/(3-2)! = 6. Jadi banyaknya bilangan: 2. P(3,2) = 2.6 = 12 bilangan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-adalah-pernyataan-bernilai-benar-q-bernilai-salah-d-884",
+            "question": "Diketahui P adalah pernyataan bernilai benar, q bernilai salah, dan r bernilai benar.Tentukan nilai kebanaran dari pernyataan berikut ini!    a.-p\u2227-q\u00a0 b.(r\u2227-q) \u2228-r\u00a0 c.(p\u2227-r)\u21d2q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. -p\u2227-q = S\u2227B = S<br>b. (r\u2227-q)\u00a0\u2228-r = \u00a0(B\u2227B)\u2228S = B\u2228S = B<br>c. (p\u2227-r)\u00a0\u21d2q = B\u2227S\u21d2B = S\u21d2B = B",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-rx-x3-4-maka-invers-dari-r-adal-419",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0    Diketahui R(x) = x3\r\n \u2013 4. Maka invers dari R adalah\u00a0\r\n\r\n\r\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nA = {x \u2208 R; x &gt; 0} dan f,g adalah fungsi fungsi pada A yang ditentukan oleh f(x) = x2 \u2013 1 dan g(x) = 4x + 3. Jika f-1(a) = 11 dan g-1(b)\r\n = 25, cari nilai a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0R\u00a0infernya r = x^3 - 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r + 4 = x^3<br>\u00a0 \u00a0 karena nilai r = x maka<br>\u00a0 \u00a0 x = \u00a0r + 4 dibagi x^3<br>\u00a0 \u00a0 x = 1/1^3 r\u00a0+ 4/1<br>\u00a0 \u00a0 \u00a0 \u00a0= r + 4<br>karena x = R<br>maka infers R = x^3 + 4 atau r + 4<br><br>2. f-1 =\u00a0[tex] \\frac{1}{x^2} +  \\frac{1}{x^2} = 11[/tex]<br><br>\u00a0 \u00a0 g-1 =\u00a0[tex] \\frac{1}{4} x -  \\frac{3}{4} = 25 [/tex]<br><br>b = 25 + 3/4 ; 1/4 = 412",
+                    "attachments": []
+                },
+                {
+                    "answer": "R(x) = x\u00b3 - 4<br>misal R(x) = y<br>y = x\u00b3 - 4<br>x\u00b3 = y + 4<br>x = [tex] \\sqrt[3]{y + 4} [/tex]<br>[tex] R^{-1}(x) [/tex] = [tex] \\sqrt[3]{x + 4} [/tex]<br><br><br>f(x) = x\u00b2 - 1<br>y = x\u00b2 - 1<br>x\u00b2 = y + 1<br>x = [tex] \\frac{+}{} [/tex][tex] \\sqrt{y + 1} [/tex]<br>[tex] f^{-1}(x) [/tex] = [tex] \\frac{+}{} [/tex][tex] \\sqrt{x + 1} [/tex]<br>[tex] f^{-1}(a) [/tex] = 11<br>11 = [tex] \\frac{+}{} [/tex][tex] \\sqrt{a + 1} [/tex]<br>121 = a + 1<br>a = 120<br><br>lebihnya cari ndiri ya gan...:)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-radian-25-putaran-963",
+            "question": "Ubahlah ke bentuk satuan derajat dan radian 2/5 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/5 x 360\u00b0 = 144\u00b0<br><br>144\u00b0 : 180\u00b0 =\u00a04/5 rad\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{5} [/tex] x 60 derajat = 12 derajat<br>radian = 12 x[tex] \\frac{\u03c0}{180} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u00a0[tex] \\frac{\u03c0}{15} [/tex] radian",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-kelipatan-3-antara-400-dan-500-adalah-503",
+            "question": "Jumlah bilangan kelipatan 3 antara 400 dan 500 adalah .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bilangan itu adalah : 402, 405, 408, ....., 498 <br>\na = 402, b = 3 <br><br>\nUn = a + (n - 1)b <br>\n498 = 402 + (n - 1)3 <br>\n498 = 402 + 3n - 3 <br>\n498 = 399 + 3n <br>\n3n = 498 - 399 <br>\n3n = 99 <br>\nn= 33 <br><br>\nSn = 1/2 n (a + Un) <br>\n.....= 1/2 x 33 x (402 + 498) <br>\n.....= 16,5 x 900 <br>\nSn = 14.850\u00a0<br><br>seoga membantu ya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x2-x-6-gx-2x-1-dan-hx-3x-rumus-fun-227",
+            "question": "Diketahui f(x)= x^2 + x - 6, g(x)= 2x + 1 dan h(x)= 3x. rumus fungsi (gofoh)(x) .........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(gofoh)(x) =g(f(h(x)))<br>(gofoh)(x) =g((3x)\u00b2+3x-6))<br>(gofoh)(x) = g(9x\u00b2+3x-6)<br>(gofoh)(x) = 2(9x\u00b2+3x-6) + 1<br>(gofoh)(x) = 18x\u00b2 + 6x - 12 + 1<br>(gofoh)(x) = 18x\u00b2 + 6x - 11<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "proyeksi-vektor-a-300-pada-vektor-yang-sejajar-tetapi-berl-820",
+            "question": "Proyeksi vektor a = (-3,0,0) pada vektor yang sejajar tetapi berlawanan arah dengan vektor b = (1,-2,-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor yg berlawanan b&#039; = (-1,2,2)<br>proyeksi vektor\u00a0[tex]c =  \\frac{a.b&#039;}{|b&#039;|^{2} }b&#039; [/tex]<br>[tex]a.b&#039;=3+0+0[/tex]<br>[tex]a.b&#039;=3[/tex]<br>[tex] |b&#039;|^{2} = 1+4+4 [/tex]<br>[tex] |b&#039;|^{2} = 9[/tex]<br>sehingga<br>[tex]c= \\frac{3}{9} (-1,2,2)[/tex]<br>[tex]c= \\frac{1}{3} (-1,2,2)[/tex]<br>[tex]c=(- \\frac{1}{3} , \\frac{2}{3} , \\frac{2}{3} )[/tex]<br><br>CMIIW :3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

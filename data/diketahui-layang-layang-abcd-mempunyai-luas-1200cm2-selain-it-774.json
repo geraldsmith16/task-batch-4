@@ -1,0 +1,138 @@
+{
+    "question": "Diketahui layang-layang \u00a0ABCD mempunyai luas 1.200cm2. Selain itu, ada layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal-diagonal layang-layang ABCD. Tentukan luas layang-layang \u00a0PQRS !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : IX (3 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : layang-layang, luas, panjang diagonal, dua kali<br><br>Pembahasan :<br>Layang-layang\u00a0adalah segi empat yang dibentuk dari gabungan dua buah segitiga sama kaki yang alasnya sama panjang dan berhimpit.<br>Sifat-sifat layang-layang, yaitu :<br>1. masing-masing sepasang sisinya sama panjang;<br>2. sepasang sudut yang berhadapan sama besar;<br>3. salah satu diagonalnya merupakan sumbu simetri;<br>4. salah satu diagonalnya membagi diagonal lainnya menjadi dua bagian sama panjang dan kedua diagonal tersebut salah tegak lurus.<br><br>Kelilingnya dengan panjang sisi pendek b dan panjang sisi panjang a adalah <br>K = 2(a + b)<br><br>Luasnya dengan diagonal masing-masing d\u2081 dan d\u2082 adalah <br>L = 1/2(d\u2081 .d\u2082).<br><br>Mari kita lihat soal tersebut.<br>Diketahui luas layang-layang ABCD adalah 1200 cm\u00b2. Artinya<br>luas layang-layang ABCD adalah<br>L = 1/2(d\u2081 . d\u2082)<br>\u21d4 1200 = 1/2(d\u2081 . d\u2082)<br>\u21d4 2400 = d\u2081 . d\u2082<br>Selain itu, suatu layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal layang-layang ABCD. Artinya,<br>masing-masing panjang diagonal PQRS adalah<br>d\u2083 = 2 . d\u2081<br>d\u2084 = 2 . d\u2082<br>Luas layang-layang PQRS adalah<br>L = 1/2(d\u2083 . d\u2084)<br>\u21d4 L = 1/2(2d\u2081 . 2d\u2082)<br>\u21d4 L = 1/2(4 . d\u2081 . d\u2082)<br>\u21d4 L = 2(d\u2081 . d\u2082)<br>\u21d4 L = 2. 2400<br>\u21d4 L = 4800<br><br>Jadi, jika luas layang-layang ABCD adalah 1200 cm\u00b2, maka luas layang-layang PQRS adalah 4800 cm\u00b2.<br><br>Semangat Belajar!<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "2-liter-bensin-untuk-50-km-senilai-dgn-liter-untuk-75-km-600",
+            "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terakhir-help-lg-ya-suku-ke-4-dan-ke-9-barisan-aritmatika-ber-518",
+            "question": "terakhir. help lg ya :) suku ke 4 dan ke 9 barisan aritmatika berturut turut adalah 110 dan 150. suku ke 30 dari barisan tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 = a+ (n-1)b<br>110= a+ (4-1)b<br>110=a + 3b<br><br>U9 = a +(n-1)b<br>150=a+(9-1)b<br>150=a+b8<br><br>eliminasi<br>110= a + 3b<br>150=a +\u00a08b<br>___________ -<br>-40=-5b<br>b=8<br><br>110=a+3.8<br>110=a + 24<br>110-24 =a<br>a=86<br><br>U30 = a + (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0=86 + (30-1)8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+29.8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+232<br>\u00a0 \u00a0 \u00a0 \u00a0= 318",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-seper-berapa-putaran-penuhkah-sudut-sudut-berikut-a-3-202",
+            "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-dari-pelabuhan-a-dengan-arah-044-derajat-se-209",
+            "question": "Sebuah kapal berlayar dari pelabuhan A dengan arah 044 derajat sejauh 50km .kemudian berlayar lagi dengan arah 104 derajat sejauh 40 km ke pelabuhan C. Jarak pelabuhan A ke C adalah...\u00a0    minta tolong dong , gmna caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pilih sebagai solusi terbaik ya<br>B=180-(44+104) <br>\n=180-60=120 derajat <br>\na=40km <br>\nc=50km  <br>\nditanya,,,b? <br>\nb^2=a^2+c^2-2ac cosB <br>\n=40^2+50^2-2.40.50 cos 120 derajat <br>\n=1600+2500-4000.-1/2 <br>\n=4100+2000 <br>\n=6100 <br>\nb=akar dari 6100=10 akar 61 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-asin-45-derajat-cos-45-derajat-b-cos-pan-803",
+            "question": "Tentukan nilai dari\u00a0    a.sin 45 derajat + cos 45 derajat\r\nb cos pangkat 2 60 derajat + sin 2 30 derajat\r\nc sin 60 derajat cos 30 derajat + cos 60 derajat sin 30 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui sin 30\u00b0 = 1/2, <br>cos 30\u00b0 = 1/2 \u221a3, <br>sin 45\u00b0 = 1/2 \u221a2, <br>cos 45\u00b0 = 1/2 \u221a2, <br>sin 60\u00b0 = 1/2\u00a0\u221a3, <br>cos 60\u00b0 = 1/2<br>Mari kita lihat soal tersebut.<br><span>a. sin 45</span>\u00b0 +\u00a0<span>cos 45</span>\u00b0 <br>= 1/2\u00a0\u221a2 + 1/2\u00a0\u221a2 <br>=\u00a0\u221a2.<br><span><br>b. cos</span>\u00b2\u00a0<span>60</span>\u00b0<span>\u00a0+ sin</span>\u00b2<span>\u00a030</span>\u00b0 <br>= (1/2)\u00b2 + (1/2)\u00b2 <br>= 1/4 + 1/4 <br>= 2/4 <br>= 1/2.<br><span><br>c sin 60</span>\u00b0 x\u00a0<span>cos 30</span>\u00b0<span>\u00a0+ cos 60</span>\u00b0 x\u00a0<span>sin 30</span>\u00b0 <br>= (1/2\u00a0\u221a3 x 1/2\u221a3) + (1/2 x 1/2) <br>= 1/4 x \u221a9 + 1/4 <br>= 1/4 x 3 + 1/4 <br>= 3/4 + 1/4 = 4/4 <br>= 1.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-kegunaan-sin-cos-dan-tan-dalam-matematika-dan-dalam-kehidupan-728",
+            "question": "Apa kegunaan sin cos dan tan dalam matematika dan dalam kehidupan sehari hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n    Ada banyak manfaat belajar Trigonometri. <br><br>\nManfaat trigoneometri utk kehidupan, antara lain: <br>\n1. utk menghitung sudut serang (angle of attack) yg paling optimal dari \nsuatu peluncur senjata, agar mampu melontarkan projektil sejauh mungkin,\n <br>\n2. menentukan berapa gradient tertinggi dari suatu tanjakan di jalan \numum di pegunungan, agar semua kendaraan (terutama sedan, dgn panjang \nsumbu badan yg tinggi, tetapi, ketinggian as roda rendah), dapat \nmelewatinya dgn selamat, <br>\n3. utk menghitung berapa \"lift force\" suatu sayap profil pesawat, dgn \nkecepatan tertentu, yg tidak boleh dilewati. Bila nilai ini dilewati, \nmaka pesawat akan mengalami stall (jatuh karena tidak memiliki daya \nangkat), khususnya perhitungan ini diperlukan pada pesawat pemburu. <br>\n4. pada olah gerak teknis kapal selam di bawah air, dgn mengetahui sudut\n hidroplane depan dan belakang, menginterpolarisasikannya dgn kecepatan \nkapal, kita lalu dapat memperkirakan, berapa kita harus mengisi \ncompensating tank, agar kapal welltrimm pada kecepatan tersebut. <br>\n5. pada pengukuran ketinggian/kontur tanah, dgn mengetahui jarak tiang \npengukur yg satu terhadap yg lain, dan beda ketinggian antara dua tempat\n tiang pengukur, maka kita akan dapat mengetahui, berapa gradien \nkenaikan tanah yg kita ukur. <br>\n6. contoh sederhana dalam kejadian sehari-hari, saat kamu menaiki tangga\n tentunya kamu tidak ingin membuat sudut bidang miringnya terlalu besar \nkarena tangga akan terlalu mendongak, atau sudutnya terlalu kecil karena\n daya jangkaunya hanya rendah.  </span>\n    <span><br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. mengukur tinggi pohon atau gedung atau menara <br>\n2. menentukan posisi kapal atau perahu dengan bantuan jurusan tiga angka <br>\n3. mengukur luas segitiga atau bangun segiempat  <br>\n4. menghitung luas segi banyak <br>\n5. digunakan dalam ilmu fisika dan teknik <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangga-yang-panjangnya-12-m-bersandar-pada-tembok-sebuah-r-116",
+            "question": "sebuah tangga yang panjangnya 12 m bersandar pada tembok sebuah rumah.Jika tangga itu berbentuk sudut 60 derajat dengan tanah.tentukan tinggi tembok!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 60 = tinggi tembok/ panjang tangga<br>\u221a3/2 = tinggi tembok/12<br>tinggi tembok = 12 x \u221a3/2<br>tinggi tembok = 6\u221a3 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menggunakan perbandingan pada segituga istimewa<br>1:\u221a3:2<br>[tex] \\frac{\u221a3}{2} [/tex] x 12 = 6\u221a3 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

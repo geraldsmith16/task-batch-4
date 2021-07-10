@@ -1,0 +1,138 @@
+{
+    "question": "1. lingkaran pd gambar tersebut mempunyai jari-jari 10 cm dan besar sudut pusat AOB= 72\u00b0. untuk\u00a0 = 3,14 berapakah panjang busur kecil AB?    2. pada gambar tersebut titik O adalah pusat lingkaran. jika besar &lt;AOB = 60\u00b0 panjang busur AB = 20 cm dan panjang busur CD = 15 cm hitunglah:\r\na. besar &lt;COD\r\nb. keliling lingkaran\r\n\r\n3. pada gambar tersebut &lt;AOB = 120\u00b0 dan &lt;COD = 30\u00b0 jika panjang busur AB = 44 cm tentukan panjang busur CD!",
+    "attachments": [
+        "question-attachments/1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788-1.png"
+    ],
+    "answers": [
+        {
+            "answer": "aaa. PB =<u>\u00a0 a\u00a0  </u>\u00d7 \u03c0 \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>PB =\u00a0<u> 72\u00a0</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 360<br>PB = 12,56 cm<br><br>b. <u>sudut AOB</u> = <u>PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD\u00a0 \u00a0 PBusur CD<br><br><u>60</u> = <u>20</u><br>\u00a0x\u00a0 \u00a0  15<br>20x = 900<br>x = 45\u00b0<br><br>Panjang busur AB = <u>sudut AOB </u>\u00d7 \u03c0 \u00d7d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>20 =<u>\u00a0 60\u00a0 </u>\u00d7 3,14 \u00d7 d<br>\u00a0 \u00a0 \u00a0\u00a0 360 <br>7200 = 188,4 \u00d7 d<br>d = 38,2<br><br>k = \u03c0 \u00d7 d<br>k = 3,14 \u00d7 38,2<br>k = 119,9 cm atau 120 cm<br><br>c. <u>sudut AOB</u>\u00a0 =<u>\u00a0 PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD \u00a0 \u00a0\u00a0 PBusur CD<br><br><u>120</u>\u00a0 =<u>\u00a0 44</u><br>30\u00a0 \u00a0 \u00a0 \u00a0 x<br><br>120x = 30 \u00d7 44<br>x = 11cm<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-di-samping-luas-juring-opq-1925-cm2-dan-luas-juri-334",
+            "question": "Pada gambar di samping, luas juring OPQ = 19,25 cm2 dan luas juring ORS = 51,33 cm2. Jika besar sudut POQ 45 derajat maka besar sudut ROS adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama kita cari dulu panjang jari2 lingkaran. kenapa? karena untuk mencari besar sudut dengan rumus luas juring memuat panjang jari-jari lingkarang.\u00a0<br><br>bagaimana mencari panjang jari-jari? kita manfaatkan luas juring POQ, sehingga diperoleh pers<br>L POQ = &lt;POQ/360 x L lingkaran<br>19,25 = 45/360 x\u00a0[tex] \\pi [/tex] r\u00b2\u00a0<br>19,25 = 1/8 x 22/7 x r\u00b2<br>r\u00b2 = 19,25x8x7 / 22 = 1078/22 = 49\u00a0<br>r =\u00a0\u221a49 = 7\u00a0<br><br>selanjutnya kita cari besar sudut ROS, tapi sebelumnya kita ubah dulu luas busur ROS yaitu 51,33 dalam bentuk pecahan supaya lebih mudah dalam perhitungan nanti, jadi 51,33 = 51 + 0,33 = 51 + 1/3 = 154/3<br>L ROS = &lt;ROS / 360 x L lingkaran<br>154/3 = &lt;ROS/360 x 22/7 x 49\u00a0<br>&lt;ROS = 154 x 360 x 7 / (3x22x49) = (154x120) / (22 x 7) = 120\u00a0<br>jadi besar sudut ROS adalah 120 derajat<br><br>semoga membantu dan mudah dipahami<br>#FunWithMath<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-jam-dinding-berbentuk-lingkaran-perbandingan-diametern-328",
+            "question": "Dua buah jam dinding berbentuk lingkaran , perbandingan diameternya adalah 1:4 ,bagaimana dengan perbandingan kelilingnya ? jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Saya pakai permisalan. 1:4 itu keduanya dikali 7 jadi 7:28<br>maka keliling 1 = 22/7 x 7 = 22<br>keliling 2 = 22/7 x 28 = 88<br>maka perbandingannya 22:88 dibagi 22 maka 1:4<br>Mengapa sama? karena yang dipakai untuk mencari keliling lingkaran adalah diameternya jadi perbandingannya tetap sama<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diameter 1:4<br>[tex] \\pi [/tex] x d =\u00a0[tex] \\pi [/tex] x 4d<br>1:4<br>jadi kesimpulannya tidak ada perubahan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-pak-adi-pak-beni-dan-pak-cepi-masing-masing-berbanding-4-461",
+            "question": "Umur Pak Adi, Pak Beni , dan Pak Cepi masing-masing berbanding 4:5:6. Jika umur Pak Adi 16 tahun lebi muda dari Pak Cepi , maka umur Pak Beni adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Adi : Beni:Cepi = 4:5:6<br>selisih umur adi dan cepi = 16 tahun<br>Selisih perbandingannya = 6-4 = 2<br>umur Beni = 5/2 X 16 = 5 X 8 = 40 tahun",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fardi-sedang-jalan-jalan-naik-sepeda-denganjari-jari-roda-21cm-a-854",
+            "question": "Fardi sedang jalan-jalan naik sepeda denganjari jari roda 21cm.    a. Tentukan jarak yang telah ditempuh, jika roda sepedanya berputar 50 kali.\r\nb. Jika jarak yang dilintasinya 264 meter, tetukan berpa kali roda sepeda berputar!\r\n\r\n*(kalobisapakecaranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K = 2\u03c0r<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2 .[tex] \\frac{22}{7} [/tex] . 21<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 44\u00a0.\u00a03<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 132 cm = 1,32 m<br><br>jarak yang di tempuh = 50 x 1,32 = 66 m<br><br>b. banyak putaran yang di tempuh = jarak\u00a0/\u00a0keliling O<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 264 / 1,32\u00a0 = 200 kali<br><br><br><br>Semoga membantu :) D\u00a0<br>kalo gak salah ni pelajaran kelas 7 smp ya ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982",
+            "question": "pada gambar diatas diketahui besar &lt;ACD = 20 derajat. hitunglah besar = &lt;BOC, &lt;AOC, &lt;BOD. tolong dibantu.. terimakasih ^^",
+            "attachments": [
+                "question-attachments/pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u2220OAC = \u2220OCA = 20\u00b0 (karena segitiga OCA adalah segitiga sama kaki) <br><br>sehingga<br>a. \u2220BOC = 2.\u2220OAC\u00a0 (sudut pusat dan sudut keliling yang menghadap busur yang sama)<br>\u2220BOC = 2.20\u00b0 = 40\u00b0<br><br>b. \u2220AOC = 180\u00b0 - \u2220OCA - \u2220OAC = 180\u00b0 - 20\u00b0 - 20\u00b0 = 140\u00b0<br><br>c. \u2220BOD = \u2220AOC\u00a0 (saling bertolak belakang)<br>\u00a0\u2220BOD = 140\u00b0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-aob-120-derajat-sudut-cod-72-derajat-jika-luas-juri-367",
+            "question": "Sudut AOB = 120 derajat , sudut COD = 72 derajat . Jika luas juring OCD = 30 cm persegi , luas juring OAB adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AOB \u00a0 \u00a0 \u00a0L. Juring OAB<br>------ \u00a0 = \u00a0----------<br>COD \u00a0 \u00a0 L. Juring OCD<br><br>120 \u00a0 \u00a0 \u00a0L. Juring OAB<br>----- \u00a0 = \u00a0-------------------<br>72 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 30<br><br>L. Juring OAB = 120 X 30 /\u00a072 = 3600 / 72 = 50 cm persegi<br><br>#Sekian<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-17-3-m-8-adalah-782",
+            "question": "Hasil dari 17 \u2212 (3 m (\u22128)) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "17 - (3m(-8)) =<br>17 - (-24m) =<br>17 + 24m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-kelas-yang-terdiri-atas-46-siswa-dilakukan-pendataan-134",
+            "question": "pada sebuah kelas yang terdiri atas 46 siswa dilakukan pendataan pilihan ekstrakulikuler. dari hasil sementara diperoleh 19 siswa memilih KIR , 23 siswa memilih PMR, dan 16 siswa belum menentukan pilihan. Tentukan banyaknya siswa yang hanya memilih PMR saja dan KIR saja .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( 16 + 19 + 23) - 46 = 58  - 46 = 12. \njadi, KIR = 19 - 12 = 7.\njadi, PMR  = 23 - 12 = 11.",
+                    "attachments": []
+                },
+                {
+                    "answer": "KIR= 7 anak, PMR= 11<br>Itulah jawabanku<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-lingkaran-a-dan-lingkaran-b-dengan-jari-jari-bertu-525",
+            "question": "jika diketahui lingkaran A dan lingkaran B dengan jari jari berturut turut 5cm dan 6cm,maka tentukan selisih luas dari lingkaran A dan lingkaran B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas A = 113,04<br>Luas B = 78,5<br>selisih = 34,54",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas A =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 5 cm x 5 cm\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 78,5 cm\u00b2<br>Luas B =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 6 cm x 6 xm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 113,04 cm\u00b2<br><br>selisih = Luas B - Luas A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 113,04 cm\u00b2 - 78,5 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 34,54 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lingkaran-dengan-pusat-o-dan-m-berdiameter-16-cm-dan-48-cm-selisi-713",
+            "question": "Lingkaran dengan pusat O dan M berdiameter 16 cm dan 48 cm selisih luas kedua lingkarannya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diameter\u00a0lingkaran O = 16 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r \u00a0= 16 cm : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 cm<br><br>Luas lingkaran O =\u00a0[tex] \\pi [/tex] . r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 8 cm x 8 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 200,96 cm\u00b2<br><br>diameter lingkaran M = 48 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0= 48 cm : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 24 cm<br><br>Luas lingkaran M =\u00a0[tex] \\pi [/tex] . r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3,14 x 24 cm x 24 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1808,64 cm\u00b2<br><br>Selisih = 1808,64 cm\u00b2 - 200,96 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1607,96 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

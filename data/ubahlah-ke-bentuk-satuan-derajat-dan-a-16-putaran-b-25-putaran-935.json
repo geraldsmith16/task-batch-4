@@ -1,0 +1,130 @@
+{
+    "question": "Ubahlah ke bentuk satuan derajat dan a. 1/6 putaran b 2/5 putaran c 3/10 putaran \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 1/6 x 360=60 ,;b.2/5 x 360 = 72; c.3/10 x 360=108....\nmaaf bila salah",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-merupakan-pasangan-invers-dari-fungsi-fxx43-adalah-422",
+            "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-berikut-a13927729-262",
+            "question": "Tentukan jumlah deret berikut :\r\na).1+3+9+27+...+729",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah deret 1+3+9+.....+729<br><br>a=1, r=3<br>un= a.r^(n-1)=729<br>un=1.3^(n-1)=3^6<br>(n-1)=6<br>n=7<br><br>Sn = a(r^n-1) /(r-1)<br>Sn =1.(3^7-1)/(3-1)<br>Sn=(2186)/2<br>Sn=1093",
+                    "attachments": []
+                },
+                {
+                    "answer": "1+3+9+27+\u2026+729\u00a0\u00a0\u00a0<br><span>Dik: a=1, Un=729 , r= 3<br>penyelesaian:<br>\u00a0 \u00a0#\u00a0Un=\u00a0a.r^(n-1) \u00a0 \u00a0 \u00a0\u00a0</span><br>\u00a0 \u00a0 \u00a0729= 1. 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0729= 3^(n.1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<span><br>\u00a0 \u00a0</span>3^(6)= 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a0 \u00a0 \u00a0 6= n -1</span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a06 + 1= n -1+1\u00a0\u00a0\n<br>\u00a0 \u00a07= n \u00a0<br></span><br>\u00a0#Sn = a(r^{n})/r-1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=1(3^{7} -1) /3-1<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=(2187 \u2013 1)/2<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=2187/2\u00a0<br>\u00a0 \u00a0\u00a0Sn\u00a0=1093,5<span><br>Jadi jumlah deret dari\u00a0</span>1+3+9+27+\u2026+729 \u00a0adalah 1093,5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-823",
+            "question": "Pak daniel seorang karyawan\u00a0 perusahaan. Ia membeli sebuah mobil bekas seharga Rp 90.000.000,00. dan dikenakan pajak penjualan sebesar 5%.Berapa rupiah uang yang harus dibayar Pak Daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: IX</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Matematika perdagangan</p>\n\n<p>Kata kunci: pembelian, pajak, penjualan</p>\n\n<p>\u00a0</p>\n\n<p>Pak Daniel membeli sebuah mobil seharga Rp. 90.000.000,- </p>\n\n<p>Pak daniel juga harus membayar pajak sebesar 5% dari besar harga\npembelian mobil itu.</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>\u00a0</p>\n\n<p>Kita hitung dulu harga pajak yang harus dibayarkan:</p>\n\n<p>5/100 x 90.000.000 = Rp. 4500.000,-</p>\n\n<p>\u00a0</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>90.000.000 + 4.500.000 = Rp. 94.500.000,-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-persamaan-cos-2x-sin-x-0-untuk-0x2-808",
+            "question": "Himpunan penyelesaian persamaan cos 2x-sin x = 0, untuk 0\u2264x\u22642 \u03c0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : persamaan, trigonometri<br><br>Pembahasan :<br>Persamaan trigonometri dalam derajat, yaitu :<br>Jika sin a\u00b0 = sin\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = (180 -\u00a0\u03b1) + k x 360,<br>Jika cos a\u00b0 = cos\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = -\u03b1 + k x 360,<br>Jika tan a\u00b0 = tan\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 180,<br>dengan k merupakan bilangan bulat.<br><br>Persamaan trigonometri dalam radian, yaitu :<br>Jika sin a = sin\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = (\u03c0 -\u00a0\u03b1) + k x 2\u03c0,<br>Jika cos a = cos\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = -\u03b1 + k x 2\u03c0,<br>Jika tan a = tan\u00a0\u03b1, maka a =\u00a0\u03b1 + k x \u03c0,<br>dengan k merupakan bilangan bulat.<br><br>Mari kita lihat soal tersebut.<br>Tentukan h<span>impunan penyelesaian dari persamaan cos 2x - sin x = 0, untuk\u00a00 \u2264 x \u2264 2\u03c0!<br><br>Jawab :<br>Diketahui persamaan<br>cos 2x - sin x = 0<br></span>\u21d4 cos 2x = sin x<br>\u21d4 cos 2x = cos([tex] \\frac{ \\pi }{2} [/tex] - x)<br>\u21d4 2x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] - x + k . 2\u03c0 atau 2x = -([tex] \\frac{ \\pi }{2} [/tex] - x) + k . 2\u03c0<br>\u21d4 3x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0 atau 2x = -[tex] \\frac{ \\pi }{2} [/tex] + x + k . 2\u03c0<br>\u21d4 x = [tex] \\frac{ \\pi }{6} [/tex] + k .\u00a0[tex] \\frac{2}{3} [/tex]\u03c0 atau x = -[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0<br><br>untuk <br>k = 0, x = [tex] \\frac{ \\pi }{6} [/tex]<br>k = 1, x =\u00a0[tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex]<br>k = 2, x =\u00a0[tex] \\frac{9 \\pi }{6} [/tex]<br><br>Jadi, himpunan penyelesaiannya adalah {[tex] \\frac{ \\pi }{6} [/tex], [tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex], [tex] \\frac{9 \\pi }{6} [/tex]}<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-x4-3x3-2x2-x-6-tentukan-sis-787",
+            "question": "Diketahui suku banyak p(x) = x4 + 3x3 - 2x2 - x + 6. tentukan sisa pembagian suku banyak p(x) oleh q(x) berikut!    a. q(x) = x+1\r\nb. q(x) = 2x-1\r\nc. q(x) = 2x2 + x - 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. sisa : 8\nb. sisa : 105/16",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-umum-suku-ke-n-dari-barisan-bilangan-372113-933",
+            "question": "Tentukan rumus umum suku ke-n dari barisan bilangan ; 3,7/2,11/3,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus umumnya menurut saya Un=ar^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

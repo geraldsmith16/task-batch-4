@@ -1,0 +1,141 @@
+{
+    "question": "Logam seng yang massanya 13 gram direaksikan denvan larutan asam klorida sampai habis dengan reaksi:    Zn + HCl -&gt; ZnCl2 + H2\r\n\r\n berapa liter volume gas hidrogen yang dihasilkan, jika diukur pada satu liter gas SO3 massanya 4 gr? (Ar Zn = 65, S = 32, Cl = 35,5)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kita cari mol Zn terlebih dahulu<br>mol Zn = gram / Mr = 13/65 = 0,2 mol<br><br>cari mol H2, dengan menggunakan \"perbandingan koefisien = perbandingan mol\"<br><br>reaksi setara-nya :<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 Zn + 2 HCl --&gt; ZnCl2\u00a0 +\u00a0 H2<br>perband. koef\u00a0 \u00a0 \u00a0 1\u00a0 \u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>perband mol\u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 0,4\u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 0,2<br><br>cara mencari mol H2<br>= koefisien H2 / koefisien Zn x mol Zn<br>= 1/1 x 0,2<br>= 0,2 mol<br><br>hitung volume H2 pada keadaan dimana 1 liter SO3 massanya 4 gram<br>kita cari mol SO3 dulu<br>mol SO3 = 4/ 80 = 0,025 mol<br><br>kemudian gunakan rumus<br>mol H2/ vol H2 = mol SO3 / vol SO3<br>0,2 / vol H2 = 0,025 / 1<br>vol H2 = 8 Liter<br><br><br><br>semoga bisa membantu :)<br>beri label terbaik ya, 25 % poin kamu akan dikembalikan :D<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-berapa-ph-larutan-yang-terjadi-jika-dalam-500-ml-larutan-terda-643",
+            "question": "1. Berapa pH larutan yang terjadi jika dalam 500 mL larutan terdapat 12 gram CH\u2083COOH dan 8,2 gram CH\u2083COONa? (Ka=1,8x10\u207b\u2075)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mol CH3COOH = 500 . 12 = 6000<br>mol CH3COONA = 8,2 . V<br><br>CH3COOH = CH3COONA<br>6000 = 8,2 V<br>V = 6000/8,2 = 731 ,\u00a070732<br><br>CH3COOH\u00a0\u03b1 =\u00a0\u221aKa.M = \u00a01,8X10^-5.6000 = \u221a1,08 X 10^-1<br>pH = -log H<br>\u00a0 \u00a0 \u00a0= - log\u00a0\u221a1,08 X 10^-1<br>\u00a0 \u00a0\u00a0<br>kb = 14/5 = 1x10^9<br><br>OH =\u00a0\u221a1x10^9 . 731,7032<br><br>pH = 14 - log OH",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-4gram-serbuk-kalsium-hidroksida-dilarutkan-dalam-air-hin-535",
+            "question": "sebanyak 4gram serbuk kalsium hidroksida dilarutkan dalam air hingga 100ml. hitunglah volum larutan asam klorida 0,2M yang diperlukan untuk menetralkan 25ml larutan hidroksida tersebut (Ar O=16; Ca=40)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reaksi yg terjadi:<br>Ca(OH)2 + HCl ---&gt; CaCl2 + H2O<br><br>mol Ca(OH)2 = gr/Mr = 4/74 = 0,05mol<br>[Ca(OH)2] = mol/V = 0,05mol/0,1L = 0,5M<br>[OH]- = 1M<br><br>prinsip penetralan:\u00a0<br>V1n1 = V2n2<br>25mL . 1M = V2 . 0,2M<br>V2 = 25/0,2<br>V2 = 125mL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-terjadinya-hantaran-arus-listrik-pada-senyawa-elektrolit-542",
+            "question": "Jelaskan terjadinya hantaran arus listrik pada senyawa elektrolit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika elektrolit kuat : lampu menyala terang , banyak gelembung.<br>jika elektrolit lemat : lampu tidak menyala , tetapi banyak gelembung atau lampu menyala redup , sedikit gelembung.<br>jika non elektrolit : lampu tidak menyala, dan tidak ada gelembung",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-peb-dan-pei-pada-senyawa-pcl3-h2s-dan-sf4-762",
+            "question": "Tentukan jumlah PEB dan PEI pada senyawa PCl3, H2S, dan SF4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u2081\u2085P = 2 . 8 . 5<br>\u2081\u2087Cl = 2 . 8 . 7<br><br>PCl\u2083 merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 1, dan PEI (pasangan electron ikatan) sebanyak 3<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0..<br>Cl - P - Cl<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |<br>\u00a0\u00a0\u00a0\u00a0\u00a0 Cl<br>----------------------------------------------------------------------<br><br>\u2081H = 1<br>\u2081\u2086S = 2 . 8 . 6<br><br>H\u2082S merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 2, dan PEI (pasangan electron ikatan) sebanyak 2<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 ..<br>H -\u00a0S :<br>\u00a0\u00a0\u00a0\u00a0\u00a0 |<br>\u00a0\u00a0\u00a0\u00a0 H<br><br>---------------------------------------------------------------<br><br>\u2081\u2086S = 2 . 8 . 6<br>\u2089F = 2 . 7<br><br>SF\u2084 merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 1, dan PEI (pasangan electron ikatan) sebanyak 4.<br><br>(Gambar pada foto terlampir)<br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-jumlah-peb-dan-pei-pada-senyawa-pcl3-h2s-dan-sf4-762-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-konsentrasi-oh-tex-dan-ph-suatu-larutan-1-m-naocn-434",
+            "question": "hitunglah konsentrasi OH^-[/tex] dan pH suatu larutan 1 M NaOCN , bila harga Ka HOCN adalah 3,3 X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hidrolisis...<br><br>[OH^-] = AKAR Kw.M/Ka = akar 10^-14 . 1/ 3,3x10^-4 = akar 0,303x10^-10 = 0,55x10^5<br>maka Poh= - log OH^-<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - Log 5,5x10^-4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4-log\u00a05,5<br>PH=14-Poh<br>\u00a0 \u00a0 \u00a0= 14 - (4-log 5,5)<br>\u00a0 \u00a0 \u00a0=10 + log 5,5<br><br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-massa-dari-15-mol-gas-oksigen-648",
+            "question": "Hitunglah massa dari 1,5 mol gas oksigen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p>massa dari 1,5 mol gas oksigen (O\u2082) adalah <strong>48 gram.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : mol gas oksigen (O\u2082) = 1,5 mol</p><p>Ditanya : massa gas oksigen (O\u2082) ?</p><p>Jawab :</p><p>LANGKAH PERTAMA (I)</p><p>Hitung massa molekul relatif (Mr) dari gas oksigen (O\u2082) dengan cara sebagai berikut :</p><p>Mr O\u2082 = 2 \u00d7 Ar O</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2 \u00d7 16 g/mol</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 32 g/mol</p><p>LANGKAH KEDUA (II)</p><p>Hitung massa dari gas oksigen (O\u2082) dengan cara sebagai berikut :</p><p>massa O\u2082 = mol \u00d7 Mr</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,5 mol \u00d7 32 g/mol</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 48 gram</p><p><strong>\u2234 Kesimpulan massa dari 1,5 mol gas oksigen (O\u2082) adalah 48 gram.</strong></p><p><strong>Pembahasan :</strong></p><p><strong>Hubungan mol dengan massa\n</strong></p><p><strong>Rumus : g = n \u00d7 Mr\n</strong></p><p>Keterangan : g = massa zat (gram)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n = mol zat (mol)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mr = Massa molekul relatif (g/mol)\n</p><p><strong>Pelajari lebih lanjut :\n</strong></p><p>Pembahasan terkait dengan soal stoikiometri larutan sudah saya jelaskan sebelumnya, cek link ini \u00a0</p><p>Materi tentang hubungan mol dan massa brainly.co.id/tugas/21446968\n</p><p>Materi tentang hubungan mol dan massa brainly.co.id/tugas/21513263\n</p><p>Materi tentang hubungan mol dan jumlah partikel brainly.co.id/tugas/21247905, \u00a0</p><p>Materi tentang hubungan mol dan massa brainly.co.id/tugas/21714004\n</p><p>Materi tentang hubungan mol dan volume brainly.co.id/tugas/5844169. \u00a0</p><p>Untuk soal ini saya jabarkan contoh lain mengenai stoikiometri larutan.\n</p><p>-------------------------------------------------------------------------------------------\n</p><p><strong>Detail Jawaban :\n</strong></p><p>Kelas : 10\n</p><p>Mapel : Kimia\n</p><p>Bab : 9\n</p><p>Kode : 10.7.9\n</p><p>Kata Kunci : mol</p>",
+                    "attachments": [
+                        "answer-attachments/hitunglah-massa-dari-15-mol-gas-oksigen-648-1.jpg",
+                        "answer-attachments/hitunglah-massa-dari-15-mol-gas-oksigen-648-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nh42so4-dalam-air-akan-menghasilkan-ion-996",
+            "question": "(NH4)2SO4 dalam air akan menghasilkan ion?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini ya :\u00a02NH4(+) + SO4(2-)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawabannya sama :) kayak diatas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-moljika-1000-atom-karbon-438",
+            "question": "Berapa mol,jika 1000 atom karbon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10\u00b3/6,02.10\u00b2\u00b9 = 1/6,02.10^18 mol C",
+                    "attachments": []
+                },
+                {
+                    "answer": "jumlah partikel atau atom dalam 1 mol adalah 6,02 x 10\u00b2\u00b3 jadi kalau ada 1000 atom karbon jumlah molnya adalah : 1000/6,02 x 10\u00b2\u00b3 = 1/6,02\u00a0 x 10\u00b3 x 10\u207b\u00b2\u00b3 = 0,17 x 10\u00b2\u00b0 =1,7 x 10\u207b\u00b2\u00b9 mol<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-bentuk-lelehannya-garam-dapur-tidak-dapat-menghantarkan-ar-725",
+            "question": "dalam bentuk lelehannya, garam dapur tidak dapat menghantarkan arus listrik karena dalam.........?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena termasuk non elektrolit<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dalam larutan tersebut derajat ionisasinya sama dengan nol.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-nama-senyawa-c5h10-189",
+            "question": "Apa nama senyawa c5h10?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nama-nama senyawa C\u2085H\u2081\u2080 adalah </p><ul><li>1-pentena, </li><li>2-pentena, </li><li>cis-2-pentena, </li><li>trans-2-pentena, </li><li>2-metil-1-butena, </li><li>3-metil-1-butena, </li><li>2-metil-2-butena, </li><li>siklopropana, </li><li>metil-siklobutana, </li><li>1,1-dimetil-siklopropana, </li><li>1,2-dimetil-siklopropana, dan </li><li>etil-siklopropana. </li></ul><h3>Pembahasan \u00a0</h3><p>Pemberian nama senyawa C\u2085H\u2081\u2080 dapat dikategorikan sebagai aktifitas mencari isomer-isomer yang mungkin dari suatu senyawa hidrokarbon. Senyawa C\u2085H\u2081\u2080 merupakan senyawa hidrokarbon tak jenuh jenis alkena dengan ciri khas berikatan rangkap dua dan mengikuti rumus umum atau deret homolog [tex]C_nH_{2n}. [/tex] \u00a0</p><p>Isomeri adalah peristiwa adanya beberapa senyawa dengan rumus molekul yang sama tetapi struktur bangunnya berbeda. Semakin panjang rantai karbonnya, semakin banyak isomernya. Namun terkadang, adanya ikatan rangkap dapat menyebabkan variasi jumlah isomer yang cukup banyak.</p><p>Jenis isomer yang dapat dibuat dari C\u2085H\u2081\u2080 dapat berupa isomer rangka, posisi, dan geometri. \u00a0Senyawa C\u2085H\u2081\u2080 tidak mempunyai isomer optis sebab tidak mengandung atom C asimetris (C kiral), yakni atom C yang berikatan dengan empat gugus berbeda.</p><ul><li>Isomer posisi dari C\u2085H\u2081\u2080 adalah 1-pentena dan 2-pentena</li><li>Isomer geometri dari C\u2085H\u2081\u2080 adalah trans-2-pentena dan cis-2-pentena.</li><li>Isomer rangka dari C\u2085H\u2081\u2080 adalah 2-metil-1-butena, 3-metil-1-butena, 2-metil-2-butena, dan beberapa jenis hidrokarbon siklik yakni siklopropana, metil-siklobutana, 1,1-dimetil-siklopropana, 1,2-dimetil-siklopropana, dan etil-siklopropana.</li></ul><p>Hal yang menarik di atas adalah C\u2085H\u2081\u2080 mempunyai isomer yang termasuk jenis hidrokarbon siklik atau rantai tertutup yang dicirikan dengan istilah \u201csiklo\u201d. Pada isomer rangka berjenis rantai tertutup ini tidak terdapat lagi ikatan rangkap dua yang merupakan karakter dari alkena. </p><h3><strong>Pelajari lebih lanjut \u00a0</strong></h3><ol><li>Menentukan isomer dari C\u2084H\u2088 brainly.co.id/tugas/522407</li><li>Membuat struktur dari 2-metil-1,3-butadiena brainly.co.id/tugas/10013140 \u00a0</li><li>Jumlah isomer alkana rumus C\u2085H\u2081\u2082 https://brainly.co.id/tugas/2928567</li></ol><p><strong>_________________</strong></p><h3><strong>Detil Jawaban \u00a0</strong></h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : </strong>XII</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia \u00a0</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: </strong>Isomeri \u00a0</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 12.7.5</p><p></p><p><strong>Kata Kunci : </strong>nama senyawa<strong> </strong>C5H10, hidrokarbon, alkena, ikatan rangkap dua, rumus umum, deret homolog, isomer posisi, rangka, cabang, geometri, optik, atom C asimetris, kiral, gugus fungsi, hidrokarbon siklis, tertutup, siklo, brainly</p>",
+                    "attachments": [
+                        "answer-attachments/apa-nama-senyawa-c5h10-189-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

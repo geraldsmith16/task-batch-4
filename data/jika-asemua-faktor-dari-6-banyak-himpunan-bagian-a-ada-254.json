@@ -1,0 +1,158 @@
+{
+    "question": "Jika A={semua faktor dari 6}. banyak himpunan bagian A ada",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "faktor dari 6 = {1,2,3,6}<br>banyak anggota (n) = 4<br><br>banyak himpunan bagian = 2\u207f<br>banyak himpunan bagian = 2\u2074<br><strong>banyak himpunan bagian = 16</strong>",
+            "attachments": []
+        },
+        {
+            "answer": "A = {1,2,3,6}<br>n[A] = 4<br>Jumlah Himpunan Bagian dari A = ?<br><br>Jadi , <br>Penggunaan segitiga pascal ,<br>0 anggota = 1 <br>1 anggota = 4<br>2 anggota = 6<br>3 anggota = 4<br>4 anggota = 1<br><br>Jumlah anggota himpunan bagian = 1 + 4 + 6 + 4 + 1\u00a0 <br>Jumlah anggota himpunan bagian = 16<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "penyelesaian-dari-x33-2x-32-23-568",
+            "question": "Penyelesaian dari x+3/3 - 2x-3/2\u00a0\u2264 2/3\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=x+1-2x-3/2<br>=x-2x+1-3/2<br>=-x + 2/2-3/2<br>=-x - 1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x-2x\u00a0\u2264 2/3 - 3/3 + 3/2<br>-x \u00a0 \u00a0\u00a0\u2264 -1/3 + 3/2<br>-x \u00a0 \u00a0 \u2264 -5/6<br>x \u00a0 \u00a0 \u00a0\u2264 5/6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-aritmatika-sosial-165",
+            "question": "Contoh soal Aritmatika sosial",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ibu menjual tas merk furla dengan harga rp650000 . jika membeli 10 ibu menjual 7500000... ibu rugi berapa ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Sebuah Komputer bekas diperbaiki dengan harga 200.000 untuk dijual dengan harga 1.200.000,00 Maka mendapatkan keuntungan 20%. Harga Beli awal ?<br><br>Jawab : <br>HB = Modal - Biaya perbaikan\u00a0<br>=[tex] \\frac{100}{120} [/tex]% x 1.200.000 - 200.000<br>=[tex] \\frac{5}{6} [/tex] x 1.200.000 - 200.000<br>=1.000.000 - 200.000<br>=800.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-261824-jika-un-nilai-suku-ke-n-286",
+            "question": "Diketahui deret geometri 2,6,18,24, ... jika Un = nilai suku ke-n, nilai dari U\u2087+U\u2088 =    sama crany ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un =a kali r pangk n _ 1\n= 2 .3 pangk n _ 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "cari dulu u7 sama U8 nya.<br>dik : rasio =<u> 6\u00a0</u> = 3<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br><br>U7 = a.r pangkat n-1<br>\u00a0 \u00a0 \u00a0= 2 x.3 pankat 6<br>\u00a0 \u00a0 \u00a0= \u00a02 x 729<br>\u00a0 \u00a0 \u00a0= 1458.\u00a0<br><br>u8 = a. r pangkat n-1<br>\u00a0 \u00a0 \u00a0= 2 x 3 pangkat 7<br>\u00a0 \u00a0 \u00a0= 2 x 2187<br>\u00a0 \u00a0 \u00a0= 4374 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jadi, U7 + U8 = 1458 + 4374<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5832<br><u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2x-4-lebih-dari-3x9-507",
+            "question": "2x-4 lebih dari 3x+9 = ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>2x - 4 lebih dari 3x + 9, nilai x yang memenuhi adalah x &lt; -13.</p><p></p><h3>Pembahasan</h3><p>Pertidaksamaan linear satu variabel atau PLSV merupakan kalimat terbuka yang memiliki satu variabel dan menggunakan tanda &lt;, &gt;, \u2264, \u2265.</p><p>Bentuk umum persamaan linear satu variabel ax + b = 0.</p><p>a disebut koefisien dari variabel</p><p>x adalah variabel</p><p>b adalah konstanta</p><p></p><ul><li>Pelajari Lebih Lanjut Bab PLSV \u2192 Sederhanakanlah bentuk bentuk aljabar berikut \u00a012 + 2 (4x - 3y) = brainly.co.id/tugas/2898178</li></ul><p></p><h3>Penyelesaian Soal</h3><p>2x-4 lebih dari 3x+9, nilai x yang memenuhi adalah ...</p><p>2x - 4 &gt; 3x + 9 \u00a0 kedua ruas kurangi 2x</p><p>2x - 4 - 2x \u00a0&gt; 3x + 9 - 2x</p><p>-4 &gt; x + 9 \u00a0 kedua ruas kurangi 9</p><p>-4 - 9 &gt; x + 9 - 9</p><p>- 13 &gt; x</p><p>x &lt; -13</p><p></p><p><u><em><strong>2x - 4 lebih dari 3x + 9, nilai x yang memenuhi adalah x &lt; -13.</strong></em></u></p><p></p><ul><li>Pelajari Lebih Lanjut Bab PLSV \u2192 Apa yg dimaksud persamaan linier satu variabel? brainly.co.id/tugas/1909229</li><li>25 - 4y = 6y + 15 \u00a0[ tentukan himpunan penyelesaian dari persamaan linear ] brainly.co.id/tugas/2167585</li></ul><h3>==============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: PTLSV</p><p><strong>Kode </strong>: 8.2.1</p><p></p><p><em><strong>#AyoBelajar</strong></em></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-pelemparan-2-buah-dadu-peluang-jumlah-mata-dadu-yg-muncul-6-661",
+            "question": "Pada pelemparan 2 buah dadu peluang jumlah mata dadu yg muncul 6 adalh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/36 = 1/18<br>Semoga ngerti dan jawabannya benar :D",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/36 = 1/12 kemungkinan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "herman-meminjam-uang-di-bank-sebesar-rp900000-bank-tersebut-me-485",
+            "question": "Herman meminjam uang di bank\u00a0sebesar Rp900.000. Bank tersebut memberikan bunga pinjaman 15% per tahun. Jika Herman hendak mengembalikan pinjaman dengan cara menyicil selama 18 bulan, maka besar cicilan tiap bulannya adalah....    (pake cara yah.. yang jelas caranya!!)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "18 bln = 1 1/2 thn\u00a0 1 thn = 15%, 1/2 thn = 7,5%, 15+7,5=22,5, 1 1/2 thn = 22,5%<br>22,5%x900.000 = 22,5/100x900.000 = 20.250<br>20.250 : 18 bln = Rp.1.125,00 = bunga tiap bln<br>900.000 : 18 bln = Rp.50.000,00 = cicilan tiap bln<br>Rp.1.125,00 + Rp.50.000,00 = Rp. 51.125,00<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp900.000 x (15%+7.5%) = (Rp900.000 x 22.5%) + Rp900.000 : 18bulan<br>\u00a0= (Rp202.500 + Rp900.000) : 18 bulan<br>=Rp1.102.500 : 18 = Rp61.250<br><br>(moga benar)<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-yang-kelilingnya-314-cm-adalahcm2-343",
+            "question": "Luas lingkaran yang kelilingnya 314 cm adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "314/3,14=100/2=50\n50pangkat 2 kali 3,14=25\u00d7314=7850",
+                    "attachments": []
+                },
+                {
+                    "answer": "cari nilai jari-jari dulu :<br>k. lingkaran = 2[tex] \\pi [/tex]r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 2 x 3,14 x r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 6,28r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r \u00a0= 314/6,28 = 50 cm<br><br>luas lingkaran =\u00a0[tex] \\pi [/tex][tex] r^{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x\u00a0[tex] 50^{2} [/tex] <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 2500 = 7850 [tex] cm^{2} [/tex]\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-1-3-7-15-adalah-323",
+            "question": "Rumus suku ke-n dari barisan 1, 3, 7, 15 .....\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong></strong>dik : a = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 b =\u00a0U2-U1 = 3-1=2<br>Un = a+(n-1)b<br>\u00a0 \u00a0 \u00a0=1+(n-1)2<br>\u00a0 \u00a0 \u00a0=1+2n-2<br>\u00a0 \u00a0 \u00a0= 2n+1-2<br>\u00a0 \u00a0 \u00a0= <strong>2n-1<br>rumusnya yg di bold ya..</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2x-4-lebih-besar-3x9-139",
+            "question": "2x-4 lebih besar 3x+9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-4 \u00a0 = 3x+9<br>2x-3x = 4 + 9<br>-1x\u00a0 \u00a0  = 13<br>\u00a0\u00a0 x\u00a0 \u00a0 = 13/-1<br>\u00a0\u00a0 x\u00a0 \u00a0 = -13<br><br>2x-4 = 3x+9<br>2(-13)-4 = 3(-13)+9<br>-26 - 4 \u00a0  = -39 + 9<br>-30\u00a0 \u00a0 \u00a0\u00a0  =\u00a0\u00a0 -30<br><br>Jadi antara 2x-4 dan 3x+9 itu sama aja, yaitu sma2 berjumlah -30..<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x-4 &gt; 3x+9 = 3x-2x &gt; -4-9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= x &gt; -13",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-persentase-tara-jika-diketahui-bruto20kg-tara-1kg-873",
+            "question": "Cara mencari persentase tara jika diketahui:\r\nbruto:20kg\r\ntara: 1kg\r\nNetto : 19kg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tara = berat kemasan<br>bruto = berat kotor<br>netto = berat bersih atau berat isi<br><br>%tara = tara/bruto x 100% = 1/20 x 100% = 100/20 % = 5%<br><br>Jadi, presentase taranya adalah 5% dari bruto atau berat keseluruhan<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara mencari prosentase tara\u00a0<br><br>= tara (dlm kg) / bruto (dlm kg) x 100%<br><br>sehingga penyelesaian soal tersebut\u00a0<br>prosentase tara = 1/20 x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100/20 %<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5 %",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

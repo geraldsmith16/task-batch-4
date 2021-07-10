@@ -1,0 +1,138 @@
+{
+    "question": "Persamaan garis singgung kurva \r\n\r\nY=x3+2x2+1\r\n\r\n pada titik yg berbasis 1 adalah...",
+    "attachments": [
+        "question-attachments/persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491-1.docx"
+    ],
+    "answers": [
+        {
+            "answer": "mna soalnnya.........................................",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-suku-tengah-suatu-deret-aritmatika-adalah-32-jika-juml-140",
+            "question": "Diketahui suku tengah suatu deret aritmatika adalah 32. Jika jumlah n suku pertama deret itu 672, tentukan banyak suku suatu deret tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 672 <br>Ut = a + b((n+1)/2 - 1)<br>32 = a + b(n-1)/2 kedua ruas kali 2<br>64 = 2a + b(n-1)...........(1)<br>Sn = 1/2 n( a + Un)<br>672 = 1/2 n( a + a + b(n-1)<br>672 = 1/2 n( 2a + b(n-1))<br>672 = 1/2 n(64)<br>672 = 32n<br>n = 672/32<br>n = 21<br>jadi <span>banyak suku suatu deret tersebut adalah 21</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pencerminan-titik-32-terhadap-garis-x7-adalah-377",
+            "question": "Hasil pencerminan titik (3,2) terhadap garis x=7 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk y akan tetap sedangkan untuk x akan bergeser\u00a0<br><br>x1 = 3\u00a0<br><br>jarak 3 ke 7 adalah 4\u00a0<br>sehingga bila dicerminkan menjadi\u00a0<br>(7 +4, y)<br>atau (11,2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-persamaan-cos-2x-sin-x-0-untuk-0x2-808",
+            "question": "Himpunan penyelesaian persamaan cos 2x-sin x = 0, untuk 0\u2264x\u22642 \u03c0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : persamaan, trigonometri<br><br>Pembahasan :<br>Persamaan trigonometri dalam derajat, yaitu :<br>Jika sin a\u00b0 = sin\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = (180 -\u00a0\u03b1) + k x 360,<br>Jika cos a\u00b0 = cos\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = -\u03b1 + k x 360,<br>Jika tan a\u00b0 = tan\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 180,<br>dengan k merupakan bilangan bulat.<br><br>Persamaan trigonometri dalam radian, yaitu :<br>Jika sin a = sin\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = (\u03c0 -\u00a0\u03b1) + k x 2\u03c0,<br>Jika cos a = cos\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = -\u03b1 + k x 2\u03c0,<br>Jika tan a = tan\u00a0\u03b1, maka a =\u00a0\u03b1 + k x \u03c0,<br>dengan k merupakan bilangan bulat.<br><br>Mari kita lihat soal tersebut.<br>Tentukan h<span>impunan penyelesaian dari persamaan cos 2x - sin x = 0, untuk\u00a00 \u2264 x \u2264 2\u03c0!<br><br>Jawab :<br>Diketahui persamaan<br>cos 2x - sin x = 0<br></span>\u21d4 cos 2x = sin x<br>\u21d4 cos 2x = cos([tex] \\frac{ \\pi }{2} [/tex] - x)<br>\u21d4 2x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] - x + k . 2\u03c0 atau 2x = -([tex] \\frac{ \\pi }{2} [/tex] - x) + k . 2\u03c0<br>\u21d4 3x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0 atau 2x = -[tex] \\frac{ \\pi }{2} [/tex] + x + k . 2\u03c0<br>\u21d4 x = [tex] \\frac{ \\pi }{6} [/tex] + k .\u00a0[tex] \\frac{2}{3} [/tex]\u03c0 atau x = -[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0<br><br>untuk <br>k = 0, x = [tex] \\frac{ \\pi }{6} [/tex]<br>k = 1, x =\u00a0[tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex]<br>k = 2, x =\u00a0[tex] \\frac{9 \\pi }{6} [/tex]<br><br>Jadi, himpunan penyelesaiannya adalah {[tex] \\frac{ \\pi }{6} [/tex], [tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex], [tex] \\frac{9 \\pi }{6} [/tex]}<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-x-13-3-dan-x-tumpul-berapakah-nilai-dari-cos-x-210",
+            "question": "Jika tan x = -1/3 \u221a3, dan x tumpul berapakah nilai dari cos x ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo nilai tan minus berarti tan itu ada di kuadran 2 atau ngga 4. terus karena nilainya 1/3\u221a3 berarti sudutnya 30\u00b0. karena sudutnya tumpul,berarti di kuadran 2. jadi nilai cosnya : cos (180\u00b0-30\u00b0) = -(cos 30\u00b0) = - 1/2\u221a3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>x = -1/3 \u221a3 =\u00a0</span>[tex] \\frac{sin 2x}{cos 2x + 1} =  \\frac{-1}{ \\sqrt{3} } [/tex]<br><br><br><br><br>Semoga membantu :) D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "35-putaran-ada-berapa-derajat-846",
+            "question": "3/5 putaran ada berapa derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/5 putaran = 216 dejarat",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/5 X 360=216 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-persamaan-kuadrat-x2-2px-p-2-mempunyai-2-akar-yang-sa-911",
+            "question": "1) Persamaan kuadrat x\u00b2 - 2px - p + 2 = mempunyai 2 akar yang sama. Tentukan nilai P \u00a0 2) Tentukan persamaan parabola yang grafiknya mempunyai koordinat titik balik (1,4) dan melalui titik (0,3) (lihat gambar) \u00a0",
+            "attachments": [
+                "question-attachments/1-persamaan-kuadrat-x2-2px-p-2-mempunyai-2-akar-yang-sa-911-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "1. D=0<br>b2-4ac=0<br>(-2p)2-4.1.(-p+4) = 0<br>4p2 + 4p - 16 = 0 :4<br>p2 +p - 4 = 0<br>rumus abc <br><br>2. y=a(x-xp)2 +yp<br>3= a(0- 1)2 + 4<br>=a+1<br>a=-1<br>-1(x-1)2 +4<br>=<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-lt-x-lt-90-hitunglah-nilai-cotan-90-973",
+            "question": "Jika sin x = 2\\3 ( 0 &lt; x &lt; 90 ), hitunglah nilai cotan ( 90 - x ).\r\nlampirkan penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin = depan per miring\u00a0<br>sin x = 2 per 3<br><br>samping = akar 5<br><br>cotg = depan per samping<br>cotg = 2 per akar 5<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Gunakan segitiga pascal u/ menguraikan bentuk perpangkatan\r\na. (x+y)\u2075 \r\nb. (x-y)\u00b3\r\nc. (x-y)\u2074",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(x + y)n = a0xn + a1x<span>n\u22121</span>y + a2x<span>n\u22122</span>y2 + \u2026 + a<span>n\u22121</span>xy<span>n\u22121</span> + anyn,<br>n\u00a0 \u00a0  tinggal\u00a0 kita isi sesua pangkatnya<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "kalo gk ngerti tanya aj",
+            "attachments": [
+                "answer-attachments/gunakan-segitiga-pascal-u-menguraikan-bentuk-perpangkatan-a-x-538-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bila-keliling-lingkaran-88-cm-maka-jari-jari-lingkaran-adalah-220",
+            "question": "Bila keliling lingkaran = 88 cm, maka jari-jari lingkaran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>88 cm = 2 dikali 3,14 dikali x (jari jari)<br>88 = 6,28 dikali x<br>x = 88 dibagi 6,28 = 14,01 bisa dijadikan 14 cm aja <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 2[tex] \\pi [/tex]r atau\u00a0[tex] \\pi [/tex]D<br>k = 88<br>2[tex] \\pi r[/tex] = 88<br>[tex] \\pi r = 88/2[/tex]<br>22/7r = 44<br>r = 44x7/22<br>r = 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-juring-pada-lingkaran-adalah-123-2-jika-besar-s-179",
+            "question": "diketahui luas juring pada lingkaran adalah 123, 2 , jika besar sudut pusat juring itu 72 derajat , panjang jari-jari lingkaran tersebut adalah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring = sudut/360 \u00d7 \u03c0 r^2<br>123,2 = 72/360 \u00d7 22/7 \u00d7 r^2<br>123,2 = 1/5 \u00d7 22/7 r^2<br>123,2 = 22/35 r^2<br>r^2 = 123,2 \u00d7 35/22<br>r^2 = 196<br>r = \u221a196<br>r = 14<br><br>Jadi jari-jari lingkaran tersebut adalah 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x1-2x-2-2x-3-173",
+            "question": "Tentukan nilai x, jika (2x+1) + (2x + 2) + (2x + 3) + ....... + (2x + 50) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x+1)+(2x+2)+(2x+3)+......+(2x+50) = 4275<br>50(2x) + 1+50 . 25 =\u00a04275<br>100x + 1275 = 4275<br>x = 4275 - 1275 / 100<br>x = 3000 / 100<br>x = 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "a=U1=2x+1<br>U2=2x+2<br>b=U2-U1=2x+2-(2x+1)=1<br>Un=a+(n-1)b<br>=2x+1+(n-1)1=2x+50<br>2x+n=2x+50<br>n=50<br>Sn=n/2(a+Un)<br>=50/2(2x+1+(2x+50))=4275<br>=25(4x+51)=4275<br>=100x+1275=4275<br>=100x=3000<br>x=30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-lingkaran-176-cm2-sudut-bac-45-derajat-berapa-luas-da-106",
+            "question": "Keliling lingkaran 176 cm^2. sudut BAC 45 derajat. berapa luas daerah yg diarsir? bantuin y :)",
+            "attachments": [
+                "question-attachments/keliling-lingkaran-176-cm2-sudut-bac-45-derajat-berapa-luas-da-106-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Informasi tentang soal nya sedikit jadi saya belum tau tapi\u00a0<br>180&#039;-45&#039;=135&#039;<br>4:3 = 176 : (176:4) kali 3<br>45&#039; = 44 cm2\u00a0<br>yang diarsir 135&#039; = 44 kali 3 =132 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-menghitung-luas-seperempat-lingkaran-adalah-787",
+            "question": "Rumus menghitung luas seperempat lingkaran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus yang saya pelajari :<br>1/4 \u00a0x\u00a0\u03c0 x r2<br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-daerah-tembereng-jika-diketahui-jari-jari-lingkara-755",
+            "question": "Hitunglah luas daerah tembereng jika diketahui jari-jari lingkaran 10.5 cm\u00a0dan besar sudutnya 90 derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas juring:<br>LJ = <u>\u00a0 a\u00a0 </u> \u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 360<br>LJ =<u>\u00a0 90\u00a0</u> \u00d7 <u>22\u00a0</u> \u00d7 10,5\u00a0 \u00d7 10,5<br>\u00a0\u00a0 \u00a0 \u00a0 360\u00a0 \u00a0  7<br>Lj = 86,625 cm\u00b2<br><br>luas segitiganya:<br>L = <u>a\u00a0 \u00d7\u00a0 t </u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>L =<u> 10,5 \u00d7 10,5</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>L = 55,125 cm\u00b2<br><br>Luas tembereng:<br>Luas juring - luas segitiga<br>86,625 - 55,125<br>31,5 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-lingkaran-6-cm-dan-panjang-garis-singgung-ab-8-cmtentu-498",
+            "question": "Jari jari lingkaran 6 cm dan panjang garis singgung AB 8 cm.tentukan jarak titik pusat O ke titik B",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung luar pada satu lingkaran<br><br>OB\u00b2 = AB^2 + r^2<br>OB^2 = 8^2 + 6^2<br>OB^2 = 64 + 36<br>OB^2 = 100<br>OB = \u221a100<br>OB = 10 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-sebuah-jembatan-direncanakan-selesai-dalam-waktu-132-856",
+            "question": "Pembangunan sebuah jembatan direncanakan selesai dalam waktu 132 hari oleh 72 pekerja .    sebelum pekerjaan dimulai ditambah 24 orang pekerja, waktu untuk menyelesaikan pembangunan jembatan tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 org = 132 hari <br>\n72+24 \u2192 96 org = x hari <br>\n72*132=96x <br>\n9504 = 96x <br>\nx = 99 <br>\nJadi, waktu penyelesaian pembangunan jembatan membutuhkan 99 hari^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-permukaan-kubus-dengan-sisi-8-cm-843",
+            "question": "Hitunglah luas permukaan kubus dengan sisi 8 cm ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 8 pangkat 2<br>6 x 64 = 384<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 x 8 x 8\u00a0<br>=6 x 64<br>=384",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-sebuah-gedung-direncanakan-selesai-selama-22-hari-ole-270",
+            "question": "pembangunan sebuah gedung direncanakan selesai selama 22 hari oleh 24 orang pekerja.setelah dikerjakan 10 hari,pekerjaan dihentikan selama 4 hari. Jika kemampuan bekerja\u00a0 setiap orang sama dan agar pembangunan gedung selesai tepat waktu,banyak pekerja tambahan yang diperlukan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "materi perbandingan Berbalik Nilai<br>kelas VII<br>Bab perbandingan<br><br>jawaban\u00a0berupa\u00a0lampiran",
+                    "attachments": [
+                        "answer-attachments/pembangunan-sebuah-gedung-direncanakan-selesai-selama-22-hari-ole-270-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

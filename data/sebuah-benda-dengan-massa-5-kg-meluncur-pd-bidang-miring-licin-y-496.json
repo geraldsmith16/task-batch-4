@@ -1,0 +1,146 @@
+{
+    "question": "sebuah benda dengan massa 5 kg meluncur pd bidang miring licin. yang membentuk sudut 60 derajat terhadap horizontal. jika benda bergeser sejauh 5M, berapa usaha yg dilakukan oleh gaya berat (q= 10m/s\u00b2)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kls 1 sma bljr yang kya gini kn ?<br>",
+            "attachments": []
+        },
+        {
+            "answer": "w= f.s cos 60<br>\u00a0 = 5x10x5x1/2V3<br>\u00a0 =250V3/2<br>\u00a0=125V3<br><br><br>ket : V = akar<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-definisi-standard-resistor-672",
+            "question": "Apa definisi standard resistor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "komponen elektronika dua saluran yg didesain untuk menahn arus listrik dg<br>memproduksi penurunn tegangn diantra kedua salurannya sesuai dg arus yg mengalirnya, berdasarkn hukum ohm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-mempengaruhi-besar-kecilnya-tekanan-hidrostatis-680",
+            "question": "Apa faktor yang mempengaruhi besar kecilnya tekanan hidrostatis? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas penampang dan besarnya gaya",
+                    "attachments": []
+                },
+                {
+                    "answer": "- massa jenis fluida<br>- tinggi atau kedalaman fluida dari bidang tekan (diukur dari permukaan fluida)<br>- gaya gravitasi bumi<br><br>semoga bermanfaat... :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387",
+            "question": "Tolong beserta caranya ya :) gambar ada dibawah biar lebi jelas !    Suatu sistem kesetimbangan yang terdiri atas 3 buah beban m1,m2, dan m3 dipasang pada dua katrol tetap . Bila sistem dalam keadaan setimbang , maka perbandingan m2 dengan m1 adalah ??",
+            "attachments": [
+                "question-attachments/tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "**saya lengkapi Gambarnya di bawah .<br><br>dari gambar dibawah, bisa dijadikan persamaan<br>[tex] \\frac{m1}{sin C } [/tex] =\u00a0[tex] \\frac{m2}{sin B} [/tex] =\u00a0[tex] \\frac{m3}{sin A} [/tex]<br><br>pertanyaannya, berapa perbandingan m2 :\u00a0m1?<br>gunakan persamaan :<br>[tex] \\frac{m2}{sin B} [/tex] =\u00a0[tex] \\frac{m1}{sin C } [/tex]<br>[tex] \\frac{m2}{Sin 120} [/tex] =\u00a0[tex] \\frac{m1}{Sin150} [/tex]<br>[tex] \\frac{m2}{1/2 \\sqrt{3} } [/tex] =\u00a0[tex] \\frac{m2}{1/2} [/tex]<br>1/2 m2 = 1/2[tex] \\sqrt{3} [/tex] m1<br>jadi ditemukan: \u00a0m2:m1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2 : 1/2[tex] \\sqrt{3}[/tex] \u00a0(setengahnya bisa dicoret)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 : [tex] \\sqrt{3} [/tex]\u00a0(A)<br>semoga membantu!!!<br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-memiliki-konstanta-pegas-sebesar-400-nm1jika-pa-642",
+            "question": "Sebuah pegas memiliki konstanta pegas sebesar 400 Nm\u207b\u00b9.Jika pada    pegas digantungkan sebuah beban dengan massa 2kg , hitunglah pertambahan\r\n panjang pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=k.\u0394x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F=gaya, k=konstanta pegas,\u00a0\u0394x=pertambahan panjang<br>F=m.g<br><br>m.g=k.\u0394x<br>2.10=400.\u00a0\u0394x<br>20=400.\u0394x<br>\u0394x=20/400<br>\u0394x=1/20 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-akibatnya-bila-kecepatan-bola-relatif-besar-terhadap-fluid-629",
+            "question": "Apakah akibatnya bila kecepatan bola relatif besar terhadap fluida?(hukum stokes)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan bertambahnya besar kecepatan bola maka bertambah pula gaya \nstokes pada bola tersebut sehingga pada akhirnya bola tersebut akan \nbergerak dengan kecepatan tetap<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-prinsip-kerja-termometer-bimetal-dan-termometer-kris-881",
+            "question": "Bagaimanakah prinsip kerja termometer bimetal dan termometer kristalcair",
+            "attachments": [
+                "question-attachments/bagaimanakah-prinsip-kerja-termometer-bimetal-dan-termometer-kris-881-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Bimetal : Prinsipnya, makin besar suhu makin melengkung untuk menunjukkan suhu yang lebih besar. \nKristal cair : terdapat keistal cair yg warnany dpt berubah jka suhu berubah. kristal ini dikemas dlm plastik tipis,utk menukur suhu tubuh,suhu akuarium,dan sebagainya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267",
+            "question": "Dari puncak sebuah menara setinggi 45m dijatuhkan sebuah batu. Jika percepatan gravitasi di tempat tersebut 10 m/s, kecepatan batu saat tepat menyentuh tanah sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Kecepatan batu saat tepat menyentuh tanah sebesar <strong>30 m/s</strong></p><p><strong></strong></p><h3>PEMBAHASAN</h3><p><u>Diketahui:</u></p><p>kecepatan awal batu = vo = 0 m/s</p><p>ketinggian batu = h = 45 m</p><p>percepatan gravitasi = g = 10 m/s\u00b2</p><p><u>Ditanyakan:</u></p><p>kecepatan akhir batu = v = ?</p><p><u>Penyelesaian:</u></p><p>Untuk menyelesaikan soal ini kita akan menggunakan rumus <strong>GLBB</strong> sebagai berikut ini:</p><p>[tex]v^2 = (v_o)^2 + 2 g h[/tex]</p><p>[tex]v^2 = 0^2 + 2 g h[/tex]</p><p>[tex]v^2 = 2 g h[/tex]</p><p>[tex]v = \\sqrt{ 2 g h }[/tex]</p><p>[tex]v = \\sqrt{ 2 \\times 10 \\times 45 }[/tex]</p><p>[tex]v = \\sqrt{ 900 }[/tex]</p><p>[tex]v = 30 \\texttt{ m/s}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Percepatan</strong> : https://brainly.co.id/tugas/18400185</p><p><strong>Daya Gerak</strong> : https://brainly.co.id/tugas/17121561</p><p></p><p>------------------------</p><h3>Detil Jawaban :</h3><p><strong>Kelas</strong>: 8</p><p><strong>Mapel</strong>: Fisika</p><p><strong>Bab</strong>: Gerak</p><p><strong>Kode</strong>: 8.6.1</p><p></p><p><strong>Kata Kunci</strong>: Gaya, Gerak, Jarak, Percepatan, Grafik, Menyusul</p>",
+                    "attachments": [
+                        "answer-attachments/dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "empat-buah-pegas-identik-masing-masing-mempunyai-konstanta-elasti-624",
+            "question": "empat buah pegas identik masing-masing mempunyai konstanta elastisitas 500 N/m, disusun seri-pararel. jika beban seberat 40 N digan tungkan di ujung pegas, pegas mengalami pertambahan panjang sebesar....cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u0394x=F/k<br>=40/500<br>=0,08 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koefisien-momen-inersia-dari-batang-besi-yang-padat-dengan-panjan-254",
+            "question": "Koefisien momen inersia dari batang besi yang padat dengan panjang L adalah.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Koefisien momen inersia benda tegar, untuk batang kalo sumbunya melalui pusat itu 1/12, sedangkan kalau sumbunya diujung itu 1/3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung dari soal-soal nya\u00a0<br>kalau poros nya dari pusat \u00a0 I = 1/12 mLkuadrat<br>kalu poros nya dari ujung \u00a0 \u00a0 I = 1/3 mLkuadrat",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

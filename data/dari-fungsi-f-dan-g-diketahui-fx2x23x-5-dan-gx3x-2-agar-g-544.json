@@ -1,0 +1,142 @@
+{
+    "question": "Dari fungsi f dan g diketahui f(x)=2x2+3x-5 dan g(x)=3x-2. Agar g0f(a)=-11. Tentukan nilai a positif",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(gof)(a) = -11<br>(gof)(x) = g(f(x)) = g(2x^2 + 3x - 5)<br><br>=&gt; 3(2x^2 + 3x - 5) - 2<br>=&gt; 6x^2 + 9x - 15 - 2<br>=&gt; 6x^2 + 9x - 17<br>(gof)(a) = -11<br>6a^2 + 9a - 17 = -11<br>6a^2 + 9a - 17 + 11 = 0<br>6a^2 + 9a - 6 = 0<br>2a^2 + 3a - 2 = 0<br>(2a - 1\u00a0 )(a +2 ) = 0<br>2a - 1 =\u00a0 0 v a + 2 = 0<br>2a = 1 v a = -2<br>a = 1/2 v a = -2<br>karena a positif a = 1/2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-diwajibkan-mengerjakan-10-dari-12-soal-yang-tersedi-364",
+            "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-bilangan-3101724-adlah-a-un-571",
+            "question": "Rumus suku ke-n dari barisan bilangan 3,10,17,24 adlah..    A. Un = 7n-2\r\n B. Un = 7n-4\r\n C. Un= 7n+2\r\n D. Un = 7n+ 4\r\n E. Un= 7n+6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 = 3 + (n-1) (10-3)<br>\u00a0 \u00a0 \u00a0 = 3 + 7n - 7<br>\u00a0 \u00a0 \u00a0 = 7n - 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "B.Un = 7n-4\n\nMisal U2 = 7x2-4\n= 14-4\n=10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-rumus-fungsi-f-dan-rumus-f-o-g-untuk-kondisi-g-o-f-302",
+            "question": "1. Tentukan rumus fungsi f dan rumus (f o g) untuk kondisi (g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1    2. Tentukan rumus fungsi f dan (g o f) untuk kondisi (f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1\r\n\r\n3. Tentukan rumus fungsi g dan rumus (g o f) untuk kondisi (f o g)(x) = akar 4x^2 + 12x + 14, f(x) = akar x^2 + 5, dan g(2) = 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0(g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1<br></span>\u00a0x^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 =\u00a04x^2 + 4x +1<br>\u00a0 f =\u00a0\u221a4x^2 + 4x +1<br>\u00a0 f = 2x+1<br><br>\u00a0 f o g =\u00a02(x^2 - 1)+1 = 2x^2-1<br><br><br><br>2.\u00a0<span>(f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1 \u00a0 \u00a0 g- = 1/2x -1/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f =\u00a0</span>4(1/2x -1/2)^2 - 6(1/2x -1/2) + 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f = x^2 - 5x + 9<br><br>\u00a0 g o f =\u00a02(x^2 - 5x + 9) + 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x^2 - 10x + 19<br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "1)\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x dan g(x) = x\u00b2\u00a0- 1<br>\u21d2\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x\u00a0<br>\u21d2 g(f(x)) =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 - 1 =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 =\u00a04x\u00b2\u00a0+ 4x + 1<br>\u21d2<br><br>2)\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5 dan g (x) = 2x + 1<br>\u21d2\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5\u00a0<br>\u21d2 f(g(x)) =\u00a04x\u00b2\u00a0- 6x + 5<br>\u21d2 f( 2x+1) = 4x\u00b2 - 6x +5<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a02x (2x\u00a0+1) + 4x + 5<br>\u21d2 \u00a0 \u00a0 \u00a0\u00a0f(x)\u00a0\u00a0= 2x\u00b2 + 4 x + 5 \u00a0 \u00a0, sehingga :<br>\u21d2\u00a0(g o f)(x)\u00a0= g (f(x))<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= g (\u00a02x\u00b2 + 4 x + 5 )<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2\u00a0(\u00a02x\u00b2 + 4 x + 5 ) + 1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x\u00b2 + 8x + 10 +1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a04x\u00b2 + 8x + 11<br><br><br><span>3)\u00a0(f o\ng)(x) =\u00a0\u221a4x\u00b2\u00a0+ 12x + 14, f(x) =\u00a0\u221ax\u00b2<span>\u00a0+\n5, dan g(2) = 7<br>\n\u00a0 \u00a0 \u00a0<span>\u221a4x\u00b2\n= 2x \u00a0 dan \u00a0 \u00a0\u221ax\u00b2\u00a0= x</span><br></span><span>\u21d2\u00a0(f o g)(x) =\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2 f (g(x)) \u00a0\n\u00a0=\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2\u00a0g(x) + 5\n\u00a0=\u00a02x\u00a0+ 12x + 14<br></span></span>\n\n<span>\u21d2\u00a0g(x)\n+ 5 \u00a0=\u00a02x\u00a0+\n12x + 14</span>\n<br><span>\u21d2 g(x) = 2x\u00a0+\n12x + 14 \u2013 5</span>\n<br><span>\u21d2 g(x) = 14x + 9 </span>\n\n\u00a0\n\n\u00a0\n<br><span><br>\u21d2\u00a0(g o f)(x)\u00a0= g\n(f(x))<span><br></span><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = g (x + 5)</span></span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = \u00a014 (x + 5) + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 14x + 60 + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0 14 x + 69</span><br><br>NB : 1 dan 3 belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-dibagi-dengan-x-2-sisanya-24-sedangkan-jika-fx-777",
+            "question": "Jika f(x) dibagi dengan (x \u2013 2) sisanya 24, sedangkan jika f(x) dibagi dengan (2x \u2013 3) sisanya 20. Jika f(x) dibagi dengan (x \u2013 2) (2x \u2013 3), sisanya adalah ...    .A. 8x + 8\u00a0\r\nB. 8x \u2212 8\u00a0\r\nC. \u2212 8x + 8\u00a0\r\nD. \u2212 8x \u2212 8\u00a0\r\nE. \u2212 8x + 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakek cara horner niy ,,, kalau buat disini agak sulit<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2)= 24<br>f(3/2)=20<br>2a + b=24<br>3/2a + b = 20 X 2\u00a0 {3a + 2b= 40}<br>baru di elimenasi dapat a=8 dan b=8<br>ax +b = 8x + 8 {a}<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

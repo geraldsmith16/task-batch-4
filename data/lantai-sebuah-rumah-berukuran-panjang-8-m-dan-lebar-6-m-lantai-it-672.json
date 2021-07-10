@@ -1,0 +1,146 @@
+{
+    "question": "lantai sebuah rumah berukuran panjang 8 m dan lebar 6 m lantai itu akan ditutup dengan ubin berukuran 30cm x 30cm hitunglah bnyk ubin yg digunakan untuk menutup lantai tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><br>ukuran lantai = 8m x 8m = 800cm x 600cm = 480000</p><p>ukuran ubi = 30 x 30 = 900</p><p>banyak nya ubi 480000/900 = 533,33 hasilnya 533,33cm ( JADIKAN TERBAIK )</p>",
+            "attachments": []
+        },
+        {
+            "answer": "luas lantai= 480000cm<br>keliling ubin= 4xs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x30=120cm<br>banyak ubin= 480000/120<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4000 ubin<br><br>kalo gak salah",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1diketahui-sebuah-lingkaran-yg-sudut-cdo-41-derajat-da-879",
+            "question": "....    \u00a01.Diketahui sebuah lingkaran yg\u00a0sudut CDO = 41\r\n derajat dan sudut CBO = 27 derajat . Besar sudut sudut AOD adalah\u2026\u2026\u2026.\r\n2.\u00a0Sebuah lingkaran memiliki keliling 220 cm, Bila Lingkaran tersebut\r\n dibagi menjadi empat bagian sma besar, Luas setiap bagiannya adalah\u2026\u2026\u2026\u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang nomor 1 soalnya kurang jelas..<br>jawaban no 2 :<br>dik : K=220cm<br>\u00a0 \u00a0 \u00a0 \u00a0<em>phi\u00a0</em>= 22 per 7<br>dit : luas setiap bagian jika dibagi menjadi 4 bagian sama besar = .... cm\u00b2<br>jwb :<br>K = 220<br>K = 2<em>.phi</em>.r<br>220 = 2 x 22/7 x r<br>220 = 44/7 x r<br>r = 220 dibagi 44/7<br>r = 35<br>setelah itu mencari luas lingkaran :\u00a0<br>L =\u00a0<em>phi\u00a0</em>x r x r<br>\u00a0 \u00a0= 22/7 x 35 x\u00a035<br>\u00a0 \u00a0= 3.850<br>maka luas setiap bagian jika dibagi menjadi 4 sama besar adalah L dibagi 4 sama dengan 3.850 dibagi 4 samadengan <strong>962,5 cm\u00b2<br></strong>jadi jawabannya adalah <strong>962,5 cm\u00b2</strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kel = 2\u03c0r<br>220 = 2 x 22/7 x r<br>r = 35<br><br>luas = \u03c0r\u00b2<br>luas = 22/7 x 35\u00b2<br>luas = 3850<br><br>1/4 luas = 1/4 x 3850<br>1/4 luas = 962,5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-persentase-tara-jika-diketahui-bruto20kg-tara-1kg-873",
+            "question": "Cara mencari persentase tara jika diketahui:\r\nbruto:20kg\r\ntara: 1kg\r\nNetto : 19kg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tara = berat kemasan<br>bruto = berat kotor<br>netto = berat bersih atau berat isi<br><br>%tara = tara/bruto x 100% = 1/20 x 100% = 100/20 % = 5%<br><br>Jadi, presentase taranya adalah 5% dari bruto atau berat keseluruhan<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "cara mencari prosentase tara\u00a0<br><br>= tara (dlm kg) / bruto (dlm kg) x 100%<br><br>sehingga penyelesaian soal tersebut\u00a0<br>prosentase tara = 1/20 x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100/20 %<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-aritmetika-diketahui-suku-ke-3-14-dan-suku-ke-726-376",
+            "question": "Dari barisan aritmetika diketahui suku ke-3 =14 dan suku ke-7=26. jumlah 18 suku pertama adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus umum: <br>\nUn = a + (n-1)b <br>\nSn = n/2 [2a + (n-1)b] <br><br>\nDiketahui: <br>\nU3 = 4 <br>\nU7 = 26 <br><br>\n26 = a + 6b <br>\n14 = a + 2b <br>\n----------------- - <br>\n12  = 4b <br>\nb = 3 <br><br>\nMasukin nilai b ke pers. sebelumnya: <br>\n26 = a + 6b <br>\n26 = a + 6(3) <br>\na = 8 <br><br>\nJadi didapat a = 8 dan b = 3 <br><br>\nMasukin ke pers. Sn untuk n = 18 --&gt; <br><br>\nSn = n/2 [2a + (n-1)b] <br>\nS18 = 18/2 [2x8 + (18-1)3] <br>\n.......= 9(16 + 51) <br>\n.......= 603 <br><br>\nJadi jumlah 18 suku pertama = 603  <br>Kasih jadi the best dan ucapan terima kasih ya...<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-dengan-jari-jari-7-cm-dan-memiliki-sud-965",
+            "question": "DIKETAHUI sebuah lingkaran dengan jari-jari 7 cm dan memiliki sudut pusat 90 derajat.hitunglah luas juring dan luas tembereng ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut juring dibagi 360\u00b0\u00d7luas lingkaran\n=90/360\u00d722/7\u00d77\u00d77\n=1/4\u00d722\u00d77\n=1/2\u00d711\u00d77\n=1/2\u00d777=38,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bambu-disandarkan-pada-tembok-panjang-bambu-tersebut-adal-587",
+            "question": "sebuah bambu disandarkan pada tembok. panjang bambu tersebut adalah 10 meter dan tinggi tembok adalah 6 meter. jarak kaki bambu ke tembok adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dari soal cerita tersebut menggambarkan bangun datar segitiga,\u00a0<br>dik : a= 10m<br>\u00a0 \u00a0 \u00a0 \u00a0b= 6 m<br>dit : c = ... ?<br>jwb : c^2 = a^2 - b^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10^2 - 6^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100-36<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0c^2 = 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c = akar dari 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c = 8<br>jadi, jarak antara kaki bambu ke tembok adalah 8 m",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang bambu=10<br>tinggi tembok=6<br> jarak kaki bambu ke tembok\u00b2=panjangbambu\u00b2-tinggitembok\u00b2<br>jarak kaki bambu ke tembok\u00b2=10\u00b2-6\u00b2<br>jarak kaki bambu ke tembok\u00b2=100-36<br>jarak kaki bambu ke tembok\u00b2=64<br><span>jarak kaki bambu ke tembok=\u221a64<br></span><span>jarak kaki bambu ke tembok=8</span><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dlm-suatu-taman-berbentuk-persegi-dgn-panjang-sisi-20-m-di-teng-342",
+            "question": "Dlm suatu taman berbentuk persegi dgn panjang sisi 20 m , di tengahnya terdapat kolam berbentuk lingkaran dgn diameter 7m , dan sisanya ditanami rumput. Hitunglah luas taman yang ditanami rumput !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "l persegi = s x s\n                = 20x20\n                =400 m\nl lingkaran = phi x r^2\n                   = 22/7 x 7x7\n                   = 22x7\n                   = 154 m\nyg dtanami rumput \n= 400 m - 154 m\n= 246 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-dari-2x3-5x-24-adalahtolong-ya-dibuati-268",
+            "question": "Penyelesaian dari 2(x+3) = 5x - 24 adalah......(tolong ya dibuatin caranya juga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(x+3)=5x-24<br>2x+6=5x-24<br>2x-5x=-24-6<br>-3x=-30<br>x=-30/-3<br>x=10",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (x+3) = 5x - 24<br>2x + 6 = 5x - 24<br>2x-5x = -24 -6<br>-3x = -30<br>x = <u>-30</u><br>\u00a0\u00a0 \u00a0 \u00a0  -3<br>x = 10<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-4x-lebih-besar-sama-dengan-22-hasilnya-845",
+            "question": "2 - (4+x) lebih besar sama dengan -22 hasilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-4-x &gt;_ -22<br>-6 - x &gt;_ -22<br>-x &gt;_ -16<br>x &lt;_ 16<br><br>note : &lt;_ Lebih kecil atau sama dengan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0&gt;_ Lebih besar atau sama\u00a0dengan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-yg-berpusat-di-titik-p-berjari-jari-28-365",
+            "question": "Diketahui sebuah lingkaran yg berpusat di titik p berjari jari 28 cm. Jika titik A dan B terletak pada lingkaran sehingga APB= 180 derajat. Hitunglah luas juring APB ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus luas x sudut juring : 360<br>luas = pi r^2<br>l= 3.14 x 28 x 28<br>juring\u00a0= 2461.76 x 180 : 360<br>juring = 1230.88 :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/4.22/7.28=66,jadi luas lingkaran 66 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-7-15-23-31-39-adalah-517",
+            "question": "Suku ke-50 dari barisan bilangan 7, 15, 23,    31, 39, \u2026 adalah \u2026\r\n(A) 392\r\n(B) 399\r\n(C) 407\r\n(D) 448",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: barisan bilangan 7,15,23,31,39<br>Dit: U50?<br>Jwb: a=7<br>         b=U2-U1<br>           = 15-7 =&gt; 8<br><br>          Un= a+(n-1)b<br>          U50= 7+(50-1)8<br>                 = 7+(49)8<br>                 = 7+392<br>                 = 399 (B)<br><br>sorry ya telat kali jawabnya hehe",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

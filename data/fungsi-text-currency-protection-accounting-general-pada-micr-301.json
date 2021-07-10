@@ -1,0 +1,134 @@
+{
+    "question": "Fungsi text, currency, protection, accounting, general, pada microsot excel adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "currency = menulis angka dalam bentuk mata uang ( misal jika kita menulis angka dan kita gunakan currency secara otomatis akan langsung ada tulisan rupiah di depan )<br><br>general = untuk penulisan angka biasa<br><br>accounting = hampir sama dengan currency cuma bedanya kalau accounting itu tidak di depan persis angkanya...<br><br>mudah-mudahan betul..<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-pengertian-right-dan-rumusnya-2-pengertian-left-dan-rumus-326",
+            "question": "1.\u00a0pengertian\u00a0RIGHT dan rumusnya     2.\u00a0pengertian\u00a0LEFT dan rumusnya\u00a0\r\n3.\u00a0pengertian\u00a0LEN dan rumusnya\u00a0\r\n4.\u00a0pengertiann\u00a0PROPER dan rumusnya\u00a0\r\n5.\u00a0pengertian\u00a0LOWER dan rumusnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a01.\u00a0RIGHT digunakan untuk mengambil karakter dari kanan/belakang/akhir dari data teks sebanyak jumlah karakter yang diambil\u00a0<br><span>=RIGHT(data_teks, jumlah_karakter).<br>2.\u00a0</span>\u00a0string adalah fungsi yang dapat menempatkan dan mengelolah data berjenis teks pada lembar kerja MS. Excel.<br><span>\u00a0=LEFT(data teks, jumlah karakter)<br>3.\u00a0</span>LEN <span>Digunakan untuk menghitung panjang suatu teks atau banyaknya teks<br></span><span>=Menjumlah Karakter(Sel yang akan dihitung karakternya)<br></span>4.PROPER\u00a0membuat teks menjadi huruf besar di karakter pertama di setiap kata. Penulisannya:<br><span>=PROPER(text)<br>5.\u00a0</span>Fungsi LOWER<br>Fungsi ini kebalikan dari fungsi UPPER, yaitu menjadikan huruf kecil semua. penulisannya:<br><span>=LOWER(text)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-anda-ketahui-tentang-file-yang-berekstensicom-384",
+            "question": "Apa yang anda ketahui tentang file yang berekstensi.com",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setau silla .com bukan ektensi file deh... tapi sebuah domain di internet...",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-program-bahasa-tingkat-tinggi-180",
+            "question": "Apa yang dimaksud program bahasa tingkat tinggi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bahasa pemrograman tingkat tinggi adalah sebuah bahasa pemrograman yang jika dibandingkan dengan bahasa pemrograman tingkat rendah\n memiliki sifat lebih mudah digunakan, lebih portabel (mudah \ndiadaptasikan) antar-platform, dan lebih abstrak. Bahasa-bahasa semacam \nini sering melakukan abstraksi terhadap beberapa operasi CPU, seperti halnya pengaksesan memori....<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "yakni instruksi standar untuk memerintah computer, di sebut tingkat tinggi karena bahasa tersebut mendekati bahasa manusia contohnya bahasa basic.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bedanya-gb-sama-mb-itu-apa-240",
+            "question": "Bedanya gb sama mb itu apa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Gb dan Mb <strong>adalah </strong>dua ukuran penyimpanan data dalam perangkat elektronik. Gb merupakan singkatan dari Gigabita semetnara Mb merupakan singkatan dari Megabita. Hal ini berbeda dengan GB maupun MB, masing-masing singkatan dari Gigabyte dan Megabyte.</p><p></p><h3>Pembahasan</h3><p>Pada kesempatan ini, soal meminta kita untuk menjelaskan perbedaan Gb dan Mb. Berikut kakak akan mencoba menjawab pertanyaan tersebut. </p><p></p><p><strong>Gigabita atau Gb adalah satuan ukuran data yang terdiri dari 1.024 Mb atau Megabita. Sementara Mb atau Megabita merupakan satuan ukuran data yang terdiri dari 1.024 Kb atau kilobit. </strong></p><p><strong></strong></p><p>Berkat adanya satuan pengukuran data tersebut, ketika kita ingin menyebutkan besaran suatu data, kita tak perlu lagi direpotkan dengan jumlah angka yang terlalu besar sebab dapat disederhanakan menjadi bentuk yang lebih ringkas.</p><p></p><h3>Pelajari lebih lanjut</h3><p>Pada materi ini, kamu dapat belajar tentang memori:</p><p>https://brainly.co.id/tugas/6290475</p><p></p><h3>Detil jawaban</h3><p><strong>Kelas: SMP</strong></p><p><strong>Mata pelajaran: TI</strong></p><p><strong>Bab: -</strong></p><p><strong>Kode kategori: -</strong></p><p><strong></strong></p><p><strong>Kata kunci: gigabit</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-fungsi-sub-menu-copy-dalam-menu-home-232",
+            "question": "Apakah fungsi sub menu copy dalam menu home ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang pasti untuk menyalin sesuatu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-contoh-aplikasi-untuk-browser-541",
+            "question": "5 contoh aplikasi untuk browser",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mozilla firefox, google chrome, internet explorer, safari, opera mini, chromium, rocket melt",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh aplikasi untuk browser adalah:<br>1.mozila firefox<br>2.opera<br>3.google chrome<br>4.internet explorer<br>5.safari",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-wrap-text-shrink-to-fit-dan-merge-cells-pada-pe-687",
+            "question": "Jelaskan fungsi wrap text, shrink to fit, dan Merge cells pada pemformatan teks.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Wrap Text<span>\u00a0digunakan untuk mengatur posisi objek dalam kaitannya dengan paragraf teks.<br></span>Shrink to fit<span>\u00a0untuk menyesiuaikan ukuran text sesuai dengan lebar kolom<br></span>Merge cells adalah fungsi di dalam\u00a0microsoft word<span>\u00a0yang digunakan untuk menggabungkan cell pada table, yaitu dengan cara:</span><br>a) Blok kolum/baris yang akan digabungkan/mergesebanyak 2 atau lebih<br><span>b) Kemudian klik\u00a0</span>menu<span>\u00a0Table da klik Merge cells</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-berikut-ini-icon-yang-ada-di-office-button-kecuali-a-new-b-727",
+            "question": "1) berikut ini icon yang ada di office button, kecuali    a. new\r\n b. save\r\n c. publish\r\n d. close\r\n e. insert\r\n\r\n 2) yang termasuk unsur pokok dalam presentasi adalah\r\n a. program\r\n b. presentasi\r\n c. guru\r\n d. siswa\r\n e. materi\r\n\r\n 3) presentasi visual menggunakan media \r\n a. gambar\r\n b. suara\r\n c. teks\r\n d. sinyal\r\n e. teleconference\r\n\r\n 4) apa itu teleconference?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. E<br>2. B<br>3. A<br><br>Teleconference merupakan komunikasi langsung diantara beberpa prang yang biasanya dalam jarak jauh atau tidak dalam satu ruangan dan dihubungkan oleh suatu sistem telekomunikasi",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 . E<br>2 . B<br>3 . A<br>4 . merupakan fasilitas layanan internet yang dapat dikembangkan untuk berbincang -bincang dengan cara yang kompleks yaitu mulai dari suara hingga gambar . <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-fungsi-dan-kegunaan-kertas-dalam-kantor-829",
+            "question": "Pengertian, Fungsi, dan kegunaan kertas dalam kantor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kertas dalam kantor adalah wadah yg digunakan untuk menuliskan segala sesuatu urusan kantor baik yg formal maupun non formal,<br><br>Fungsi : sebagai dokumentasi tertulis dlm bentuk cetak<br><br>Kegunaan kertas :<br>- surat menyurat<br>- dokumentasi data<br>- Pencatatan kegiatan<br>- pembukuan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kecepatan-akses-data-pada-access-point-yang-memiliki-stand-792",
+            "question": "Berapa kecepatan akses data pada access point yang memiliki standar kode IEEE 802.11b :    \u00a0\u00a0\u00a0 a. 54Mb/s\u00a0 \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 b. 216Mb/s \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 c. 11Mb/s \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 d. 108Mb/s \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 e. 432Mb/s \u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> kecepatan akses data pada access point yang memiliki standar kode IEEE 802.11b :</span>c.11Mb/s<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

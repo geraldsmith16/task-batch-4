@@ -1,0 +1,146 @@
+{
+    "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pengertian-sudut-komplemen-dan-sudut-suplemen-369",
+            "question": "Pengertian sudut komplemen dan sudut suplemen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sudut komplemen = sudut yang berpenyiku (besarnya 90 derajat)<br>Sudut suplemen = sudut yang berpelurus (besarnya 180 derajat)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut komplemen yakni sudut saling berpenyiku , artinya jumlah kedua sudut = 90 derajat<br>sudut suplemen yakni sudut yang saling berpelurus, artinya jumlah kedua sudut = 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-contoh-soal-sama-penyelesaian-tentang-koordinat-kart-848",
+            "question": "minta\u00a0contoh\u00a0soal\u00a0sama\u00a0penyelesaian\u00a0tentang\u00a0koordinat\u00a0kartesius\u00a0ke\u00a0kutub\u00a0&amp;\u00a0kutub\u00a0ke\u00a0koordinat\u00a0kartesius",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) untuk koordinat kutub ke koordinat kartesius<br>Jika diketahui koordinat kutub (6\u221a3, 60\u00b0), maka koordinat kartesiusnya adalah.....<br>a. (3,3)<br>b. (3\u221a3, 9)<br>c. (3,\u00a0\u221a3)<br>d. (9, 3\u221a3)<br>e. (3, 3\u221a3)<br><br>Penyelesaian :<br><br>koordinat kutub\u00a0\u21d2 koordinat kartesius<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0(r ,\u00a0\u03b1)\u00a0\u21d2 ( x , y )<br><br>r\u00a0= 6\u221a3\u00a0; \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03b1 = 60\u00b0\u00a0<br>(Karena\u00a0\u03b1 sudut di kuadran I, maka x positif f dan y positif)<br><br>x = r cos\u00a0\u03b1<br>\u21d2 6\u221a3 x cos\u00a060\u00b0<br>\u21d2\u00a06\u221a3 x 1/2<br>\u21d2 3\u221a3<br><br>y = r sin\u00a0\u03b1<br>\u21d2\u00a06\u221a3 x sin 60\u00b0<br>\u21d2\u00a06\u221a3 x 1/2\u00a0\u221a3<br>\u21d2\u00a03\u00a0x 3<br>\u21d2 9<br><br>sehingga koordinat kartesiusnya ialah ( 3\u221a3\u00a0, 9) \u00a0(d)<br><br>2)\u00a0untuk koordinat kartesius ke koordinat\u00a0kutub<br>koordinat kutub titik (-4,4) ialah ...........<br>penyelesaian :<br>(x,y)\u21d2 (r,\u00a0\u03b1)<br><br>x = -4, y=4<br>(karena x negatif dan y positif, maka\u00a0\u03b1 sudut di kuadran II)<br>r =\u00a0[tex] \\sqrt{ x^{2} + y^{2} } [/tex]<br>\u21d2[tex] \\sqrt{ -4^{2} + 4^{2} } [/tex]<br>\u21d2[tex] \\sqrt{32} [/tex]<br>\u21d2[tex]4 \\sqrt{2} [/tex]<br><br>tan\u00a0\u03b1 = x/y<br>\u21d24/\u00a0-\u00a04<br>\u21d2 - 1<br><br>karena\u00a0\u03b1 sudut di kuadran II, maka :\u00a0\u03b1 = (180-45)\u00b0= 135\u00b0<br>maka koordinat kutubnya ialah ( 4\u221a2, 135\u00b0)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(3, 210 derajat) tentukan koordinat cartesiusnya\u00a0<br><span>b koordinat cartesius titik Q adalah (-2 akar 3, 2) tentukan koordinat kutubnya<br><br></span>a) \u03f4=120\u2070, r=3\u00a0<br><span>titik x = r cos \u03f4=&gt;\u00a0</span><br><span>= 3 cos 120 = 3 (-cos (180-60)) note: nilai cos pada kuadran II itu (-)\u00a0</span><br><span>= 3 (-cos 60)\u00a0</span><br><span>= 3 (-1/2)\u00a0</span><br><span>= -3/2\u00a0</span><br><span>titik y = r sin \u03f4=&gt;\u00a0</span><br><span>= 3 sin 120 = 3 sin (180-60) note: nilai sin pada kuadran II (+)\u00a0</span><br><span>= 3 sin 60\u00a0</span><br><span>= 3 1/2 akar 3\u00a0</span><br><span>= 3/2 akar 3\u00a0</span><br><span>jadi koordinat cartesiusnya (-3/2, 3/2 akar 3)\u00a0</span><br><br><span>b) x = -2 akar 3, y = 2\u00a0</span><br><span>r = akar (x^2 + y^2) =&gt;\u00a0</span><br><span>= akar ((-2 akar 3)^2 + 2^2)\u00a0</span><br><span>= akar (12 + 4)\u00a0</span><br><span>= akar 16 = 4\u00a0</span><br><span>\u03f4 = arc tan y/x =&gt;\u00a0</span><br><span>= arc tan 2/-2 akar 3\u00a0</span><br><span>= arc tan - 1/akar 3 = arc tan -1/3 akar 3 note: arc tan 1/akar 3 = 45\u2070, nilai tan (-) pada kuadran II dan IV\u00a0</span><br><span>= arc tan -1/akar 3 = 135\u2070 (kuadran II) note: menentukannya dengan uji titik x dan y\u00a0</span><br><span>koordinat kutubnya = (4, 135\u2070)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaaa-a-x-02-548",
+            "question": "Tolong bantu yaaa \r\na x 0^2 = ....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00a0x 0^2 = a x (0 x 0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a x 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kirimkan-cara-dan-jawaban-spm-matematika-paket-1-dan-2-unt-260",
+            "question": "tolong kirimkan cara dan jawaban SPM MATEMATIKA paket 1 dan 2 untuk smk kelompok paeiwisata.. secepatnya saya butuh plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Buka lik dibawah ini!<br>www.bukuerlangga.com/370-smk<br></span><span>www.bukuerlangga.com/<br><br>#Semoga menbantu<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-rasio-dari-barisan-geometri-12-16-118-beserta-p-915",
+            "question": "Besar rasio dari barisan geometri 1/2, 1/6, 1/18. \u2026.? beserta penyelesaiannya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui u1 = 1/2 dan u2= 1/6\nmaka \nr= u2 : u1\nr= 1/6 : 1/2\nr= 1/6 x 2/1\nr= 2/6\nr= 1/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pedagang-membeli-20-kg-gula-merah-seharga-rp5500-per-kg-946",
+            "question": "Seorang pedagang membeli 20 kg gula merah seharga Rp.5500 per kg.Gula itu kemudian lagi dngn harga Rp.7500 per kg.Selama menjual gula trsbt ternyata tersisa 1 kg gula merah yg tdk layak jual.    a.untung atau rugikah pedagang trsbt ?\r\n b.berapa persentasenya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. untung<br>b. uang yg dikeluarka oleh pedagang --&gt;\u00a020*5500 = 110000<br>\u00a0 \u00a0 uang yg diperoleh pedagag--&gt; 19*7500 = 142500<br>\u00a0 \u00a0 keuntungan pedagang --&gt; 142500 - 110000 = 32500<br><br><br><br>semoga benar :)<br>\u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-proyek-dapat-dikerjakan-oleh-15-pekerja-dalam-waktu-12-ming-167",
+            "question": "suatu proyek dapat dikerjakan oleh 15 pekerja dalam waktu 12 minggu.jika proyek itu harus diselesaikan dalam 9 minggu, pekerjanya harus ditambah sebanyak .........orang ? minta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya 15/9*12=20 -15=5 orang perkerja yang harus di tambahkan<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "9/12 = 15/x<br>nanti tinggal kali silang\u00a0<br>jadi x = (12 x 15)/9 = 20<br><br>jadi, harus ditambah sebanyak = 20 - 15 = 5 (c)\u00a0<br>\u00a0<br>gtu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553",
+            "question": "Gambarkan sudut 175 derajat, 215 derajat , 310 derajat \r\ntolong di jawab ya...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu ada lingkaran sudut, cara kerjanya sama seperti penggaris busur.<br>",
+                    "attachments": [
+                        "answer-attachments/gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-3-bilangan-genap-berurutan-sama-dengan-90jumlah-bilangan-460",
+            "question": "jumlah 3 bilangan genap berurutan sama dengan 90.jumlah bilangan terbesar dan terkecil adalah........... \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VIII<br>Pelajaran : Matematika<br>Kategori : Opti<br>Kata kunci : bilangan genap = 2n<br><br>Jawaban ada di lampiran, semoga membantu!!!",
+                    "attachments": [
+                        "answer-attachments/jumlah-3-bilangan-genap-berurutan-sama-dengan-90jumlah-bilangan-460-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolongin-ak-dong-1sebuah-sekolah-membeli-buku-matematika-seba-754",
+            "question": "Tolongin ak dong ..    1.sebuah sekolah membeli buku matematika sebanyak 120 buah dengan harga rp.4.250 per buah dengan rabat 20%.berapa rupiah yg harus di bayar\r\nbeserta cara nx yach..\r\nmakasi sbelumnx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Harga total buku = 120 x Rp.4250 = 510.000<br><br>Rabat 20% = 20/100 x 510.000 = 102.000<br><br>Biaya total yang harus dibayar = 510.000 - 102.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp.408.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "harga seluruh buku 120 \u00d7 4.250 = 510.000<br>dan katanya dapet rabat / diskon sebesar 20 % = 510.000 \u00d7 20 \u00f7 100 = 102.000<br>jadi biaya yang harus dikeluarkan harga total - harga diskon = 510.000 - 102.000 = 408.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tunai-sebuah-televisi-rp230000000-bu-tuti-membeli-telev-142",
+            "question": "Harga tunai sebuah televisi Rp2.300.000,00. Bu Tuti membeli televisi tersebut dengan cara mencicil tanpa uang muka. Bunga yang dikenakan 5% per bulan. Tentukan besar cicilan yang harus dibayae Bu Tuti jika lamanya mencicil 5 bulan!    Mohon dapat membantu dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunga = 2.300.000 x 5%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 115.000<br><br>Cicilan yang \u00a0dibayar = 2.300.000 + (115.000 x 5bulan)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2.300.000 + 575.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2.875.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeranjang-jeruk-dibagikan-kepada-36-orang-anakmasing-masing-me-568",
+            "question": "Sekeranjang jeruk dibagikan kepada 36 orang anak,masing-masing mendapatkan 6 buah jeruk.Jika jeruk tersebut di bagikan kepada 24 anak,tentukan bagian masing-masing anak.(Tulis Beserta Rumusnya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah jeruk = jumlah anak x jeruk yang didapatkan masing2 anak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 36 anak x 6 jeruk<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 216 jeruk<br><br>jika julah anak 24, jeruk yang didapatkan masing-masing anak:<br>jumlah jeruk : jumlah anak = 216 jeruk : 24 anak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9 jeruk",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-titik-pusat-lingkaran-dengan-sebuah-titik-yang-berada-di-lu-481",
+            "question": "jarak titik pusat lingkaran dengan sebuah titik yang berada di luar lingkaran adalah 39 cm.panjang garis singgung yang melalui titik tersebut 36 cm.diameter lingkaran tersebut adalah .........cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini akan membentuk sebuah segitiga 36 sebagai tingginya , 39 sebagai garis yang miringnya dan jari2(r) sebagai alasnya.<br>r=akar 39kuadtar -36kuadrat<br>\u00a0=akar \u00a01521-1296<br>\u00a0=akar 225=15<br>d=2 x\u00a0r cm<br>\u00a0 \u00a0=2x15<br>\u00a0 \u00a0=30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-jajaran-genjang-528",
+            "question": "Sifat jajaran genjang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sisi yang berhadapan sejajar dan sama panjang<br>\nb. Kedua diagonalnya berpotongan di tengah-tengah.<br>\nc. Sudut yang berhadapan sama besar.<br>\nd. Sudut yang berdekatan jumlahnya 180 derajat.<br>\ne. Menempati bingkainya dengan 2 cara.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sifat-sifat jajargenjang sebagai berikut.\n\n\nSisi-sisi yang berhadapan pada setiap jajargenjang sama panjang dan sejajar.\nSudut-sudut yang berhadapan pada setiap jajargenjang sama besar.\nJumlah pasangan sudut yang saling berdekatan pada setiap jajargenjang adalah\n180\u00b0.\n<span>Pada\nsetiap jajargenjang kedua diagonalnya saling membagi dua sama panjang.</span><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salin-dan-lengkapilah-daftar-berikut-ini-no-bruto-689",
+            "question": "salin dan lengkapilah daftar berikut ini no\u00a0\u00a0\u00a0\u00a0 bruto\u00a0\u00a0\u00a0 \u00a0 \u00a0 tara\u00a0\u00a0 \u00a0\u00a0 netto\u00a0\u00a0 \u00a0\u00a0 presentase tara 1\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 kg\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ........\u00a0\u00a0 \u00a0 19 kg\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ....... 2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ......\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5 kg\u00a0\u00a0\u00a0\u00a0\u00a0 .........\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2,12% 3\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 50 kg\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ........\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 48 kg\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.Tara=1 kg\nperrentase tara=5%\n2.tara=maaf sya lupa\n3.Tara=2 kg\npersentase tara=4%",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. tara = 20 kg - 19 kg = 1 kg\n     presentase tara = 1 kg \u00f7 20 kg \u00d7 100% = 5%\n2. bruto = \u25cf 5 \u00f7 x = 2,12%\n                     \u25cb 5 \u00f7 x = 2,12% \u00f7 100%\n                         5 \u00f7 x = 0,0212\n                     \u25cf x = 5 \u00f7 0,0212\n                         x = 235,85 kg\n     netto = 235,85 kg - 5 kg = 230,85 kg\n3. tara = 50 kg - 48 kg = 2 kg\n     presentase tara = 2 kg \u00f7 50 kg \u00d7 100% = 4%\n\nMaaf jika salah..\nSemoga membantu..\nO:) :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

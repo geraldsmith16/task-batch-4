@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "yang-membedakan-antara-gelombang-transversal-dengan-gelombang-lon-724",
+            "question": "Yang membedakan antara gelombang transversal dengan gelombang longitudinal adalah...    yang termasuk gelombang transversal adalah,kecuali...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gelombng transversal adalah gelombang yang bergerak terhadap titik acuannya, gelombang longitudinal gelombang yg geraknya tetap pada tirik acuan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "balok-bermassa-10-kg-terletak-di-atas-permukaan-kasar-dengan-miu-296",
+            "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "N= w<br>N= 10x10 &gt; 100N<br>\u03a3F= m.a<br>F-f=m.a<br>100-(100x0,4)=10a<br>100-40=10a<br>a=60/10<br>a=6 m/s2<br>mencari kecepatan menggunakan rumus kecepatan dan jarak:<br>Vt\u00b2=Vo\u00b2+2as<br>Vt\u00b2=0\u00b2+2.6.3 (kecepatan awal 0 m/s)<br>Vt\u00b2= 36<br>Vt= \u221a36 &gt; 6 m/s.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-suatu-bandul-sederhana-membuat20-ayunan-dalam-60-detik-maka-886",
+            "question": "jika suatu bandul sederhana membuat20 ayunan dalam 60 detik, maka panjang bandul tersebut adalah .... m.(g=9,8 m/s2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : n = 20, t = 60 det, g = 9,8 m / det2<br>dit : L?<br>Jawab = T = 2[tex] \\pi [/tex] \u221a[tex] \\frac{l}{g} [/tex]<br><br>maka mencari T = n / t<br>jadi T = 1/ 3<br>sehingga T2 = 4[tex] \\pi [/tex]2 [tex] \\frac{L}{g} [/tex]<br>1/9 = 4 x 9,8 L / 9,8<br>jadi L = 1 / 36 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pemanfaatan-titik-berat-dan-titik-masa-salam-kehidupan-sehari-270",
+            "question": "Apa pemanfaatan titik berat dan titik masa salam kehidupan sehari-sehari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat titik berat dalam kehidupan sehari hari yaitu untuk menentukan titik berat suatu benda atau susunan benda contoh pada bangunan rumah , jalan, buku atau gabungan dua bangun atau lebih agar bangunan tersebut seimbang dan tidak mudah roboh.",
+                    "attachments": []
+                },
+                {
+                    "answer": "titik berat itu penting, pembangunan sebuah kontruksi apapun memerlukan titik keseimbangan, kendaraan bermotor pun perlu, agar kendaraan dapat stabil saat dikemudikan\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-dengan-panjang-40-cm-bermassa-30-kg-pada-463",
+            "question": "Sebuah tongkat homogen dengan panjang 40 cm bermassa 30 kg. Pada salah satu ujung tongkat di beri beban, sedangkan ujung lainnya sebagai tumpuan. Jika F\u00a0= 280 N, maka momen gaya pada titik O adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pembahasan\nGaya-gaya yang bekerja pada tongkat adalah F, berat dari benda 2 kg (20 N)dan jangan lupa berat dari tongkat itu sendiri 30 N (ambil di tengah batang), ubah jarak ke meter.\u00a0\n\nSigma T nol =F.dF -Wb.db - Wt.dt\nsigma T nol =280.0,05 - 20.0,04 -30.0,02\n                          =0 Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>F=mg<br>\u00a0 =2.10<br>\u00a0 =20 n<br></span>\u00a0T nol =F.dF -Wb.db - Wt.dt<br>T nol =280.0,05 - 20.0,04 -30.0,02 =0 Nm<br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-murni-pada-bidang-miring-dengan-s-256",
+            "question": "Sebuah bola pejal menggelinding murni    pada bidang miring dengan sudut\r\n kemiringan \u03b8. Berapakah percepatan\r\n linear bola tersebut jika diketahui\r\n percepatan gravitasinya g?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Inersia untuk bola pejal:\u00a0</span><br><span>I = \u2156 MR\u00b2\u00a0</span><br><br><span>Translasi:\u00a0</span><br><span>mg sin\u03b8 - fk = m a .....(1)\u00a0</span><br><br><span>Rotasi:\u00a0</span><br><span>fk R = I \u03b1\u00a0</span><br><span>fk R = \u2156MR\u00b2 a/R\u00a0</span><br><span>fk = \u2156 m a ... (2)\u00a0</span><br><br><span>substitusi (2) ke (1)\u00a0</span><br><span>mg sin\u03b8 - fk = m a\u00a0</span><br><span>mg sin\u03b8 - \u2156 m a = m a\u00a0</span><br><span>coret m\u00a0</span><br><span>g sin\u03b8 - \u2156 a = a\u00a0</span><br><span>g sin\u03b8 = \u2077/\u2085 a\u00a0</span><br><span>a = \u2075/\u2087 g sin\u03b8</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736",
+            "question": "Lintasan berkas sinar ketika melalui sistem optik teropong bintang ditunjukkan seperti pada gambar.\u00a0    Berdasarkan gambar berikut, perbesaran bayangan untuk mata tidak berakomodasi adalah?\u00a0",
+            "attachments": [
+                "question-attachments/lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Pada teroping apabila mata tidak berakomodasi maka nilai perbesaran hanyalah membandingkan panjang fokus objecktif dengan fokus okuler saja\u00a0<br><br>[tex]M = \\frac{f_ob}{f_ok} = \\frac{160}{2} = 80 [/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "160 : 2 = 80 <br>maaf rumusnya gak di tulis <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-cahaya-menerangi-celah-ganda-yang-memiliki-jarak-antarcelah-435",
+            "question": "suatu cahaya menerangi celah ganda yang memiliki jarak antarcelah 0,1 cm, sedemikian sehingga terbentuk pola gelap terang pada layar yang berjarak 60 cm. ketika pemisahan antar polaterang adalah 0,048 cm, maka panjang gelombang cahaya yang di gunakan tersebut adalah... \u00a0 a. 200 nm b. 300 nm c. 400 nm d. 600 nm e. 800 nm \u00a0 tolong jawab yg benar ya, nnti lw salah di komplen guru....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>jawaban dan caranya terlampir</span>",
+                    "attachments": [
+                        "answer-attachments/suatu-cahaya-menerangi-celah-ganda-yang-memiliki-jarak-antarcelah-435-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "langsung-aja-deh-gansoalnya-begini-benda-a-ma-20kg-dan-774",
+            "question": "Langsung aja deh gan,soalnya begini...\u00a0    Benda A (mA = 20kg) dan benda B (mB = 10kg), semula diam di atas lantai. Kemudian, kedua benda ditarik keatas melalui sebuah katrol dengan gaya F = 788 N seperti pada gambar. Dengan menganggap katrol sangat ringan dan licin, percepatan benda A dan B adalah....\u00a0\r\n(g = 10 m/s)\u00a0\r\n\r\ntolong di bantu gan^^ kalo kurang jelas,soalnya ada di sini http://atophysics.files.wordpress.com/2008/11/evaluasi-4.pdf nomer 32\u00a0\r\n\r\nsekian,terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = Ma - Mb . g dibagi Ma + Mb<br>\u00a0 \u00a0= 20 - 10 . 10 dibagi 20 +10<br>\u00a0 \u00a0= 100 / 30 = 3,33 m/s",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

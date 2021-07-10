@@ -1,0 +1,143 @@
+{
+    "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-tegar-dikenai-gaya-8-n-dengan-titik-tumpu-gaya-berja-360",
+            "question": "Sebuah benda tegar dikenai gaya 8 N dengan titik    tumpu gaya berjarak 24 cm dari pusat rotasi dan membentuk sudut 150 \r\n drajad. tentukanlah torsi yang terjadi pada benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "torsi= f x l<br>=8 x0,24m<br>=1,92<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cos-120-derajat-berapa-ya-818",
+            "question": "Cos 120 derajat berapa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari cos 120\u2070 adalah - \u00b9/\u2082.</p><h3><strong>Pembahasan</strong></h3><p>Diminta untuk menentukan nilai dari <strong>cos 120\u00b0</strong>.</p><p>Mari kita pahami terlebih dahulu mengenai <strong>kuadran</strong>. Sistim koordinat dapat terbagi ke dalam empat wilayah kuadran.</p><ul><li><strong>Kuadran-1 berada dalam interval 0\u00b0 \u2264 x \u2264 90\u00b0</strong></li><li><strong>Kuadran-2 berada dalam interval 90\u00b0 \u2264 x \u2264 180\u00b0</strong></li><li><strong>Kuadran-3 berada dalam interval 180\u00b0 \u2264 x \u2264 270\u00b0</strong></li><li><strong>Kuadran-4 berada dalam interval 270\u00b0 \u2264 x \u2264 360\u00b0</strong></li></ul><p>Perhatikan nilai-nilai dari sinus, cosinus, dan tangen pada setiap kuadran berikut ini.</p><ul><li><strong>Kuadran-1, semua nilai-nilai dari sin, cos, dan tan adalah positif</strong></li><li><strong>Kuadran-2, hanya nilai sin yang positif</strong></li><li><strong>Kuadran-3, hanya nilai tan yang positif</strong></li><li><strong>Kuadran-4, hanya nilai cos yang positif</strong></li></ul><p><u>Catatan:</u> fungsi tangen dapat ditulis sebagai tan atau tg.</p><p>Garis sumbu yang memisahkan antarkuadran dapat kita sebut sebagai pembatas kuadran.</p><ul><li><strong>Pembatas kuadran mendatar adalah 180\u00b0 dan 360\u00b0</strong></li><li><strong>Pembatas kuadran tegak adalah 90\u00b0 dan 270\u00b0</strong></li></ul><p>Ingatlah hal penting berikut ini yang terkait dengan relasi sudut:</p><p><strong>A. pembatas kuadran mendatar tidak mengubah fungsi</strong></p><ul><li>sin (180\u00b0 - \u03b1) = sin \u03b1</li><li>cos (180\u00b0 - \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 - \u03b1) = - tan \u03b1</li><li>sin (180\u00b0 + \u03b1) = - sin \u03b1</li><li>cos (180\u00b0 + \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 + \u03b1) = tan \u03b1</li><li>sin (360\u00b0 - \u03b1) = sin \u03b1</li><li>cos (360\u00b0 - \u03b1) = cos \u03b1</li><li>tan (360\u00b0 - \u03b1) = - tan \u03b1</li></ul><p><strong>B. pembatas kuadran tegak akan mengubah fungsi</strong></p><ul><li>sin (90\u00b0 - \u03b1) = cos \u03b1</li><li>cos (90\u00b0 - \u03b1) = sin \u03b1</li><li>tan (90\u00b0 - \u03b1) = cot \u03b1</li><li>sin (90\u00b0 + \u03b1) = cos \u03b1</li><li>cos (90\u00b0 + \u03b1) = - sin \u03b1</li><li>tan (90\u00b0 + \u03b1) = - cot \u03b1</li><li>sin (270\u00b0 - \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 - \u03b1) = - sin \u03b1</li><li>tan (270\u00b0 - \u03b1) = cot \u03b1</li><li>sin (270\u00b0 + \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 + \u03b1) = sin \u03b1</li><li>tan (270\u00b0 + \u03b1) = - cot \u03b1</li></ul><p>Kembali kepada soal yang ditanyakan, yakni diminta untuk menentukan nilai dari cos 120\u00b0. Sudut 120\u00b0 ini tentu berada di kuadran 2 sehingga nilai dari cosinusnya adalah negatif. Kita kerjakan dengan dua cara.</p><p><strong>CARA PERTAMA</strong></p><p><strong>Gunakan cos (180\u00b0 - \u03b1) = - cos \u03b1</strong></p><p>cos 120\u00b0 = cos (180\u00b0 - 60\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - cos 60\u00b0 (ingat, nilai dari cos 60\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>CARA KEDUA</strong></p><p><strong>Gunakan cos (90\u00b0 + \u03b1) = - sin \u03b1</strong></p><p>cos 120\u00b0 = cos (90\u00b0 + 30\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - sin 30\u00b0 (ingat, nilai dari sin 30\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>Kesimpulan</strong></p><p>Untuk dapat menjawab pertanyaan tentang penentuan nilai-nilai fungsi trigonometri, kita harus pahami terlebih dahulu mengenai:</p><p>a. kuadran dan pembatas-pembatas kuadran,</p><p>b. posisi sudut pada suatu kuadran, dan</p><p>c. relasi sudut.</p><h3>--------------------------</h3><p>Pelajari persoalan trigonometri lainnya di sini</p><ol><li>https://brainly.co.id/tugas/15359538</li><li>brainly.co.id/tugas/34048</li><li>brainly.co.id/tugas/8232394</li></ol><h3>______________</h3><h3>Detil Jawaban</h3><p><strong>Kelas:</strong> X</p><p><strong>Mapel: </strong>Matematika</p><p><strong>Kategori: </strong>Trigonometri</p><p><strong>Kata Kunci: nilai, cosinus, sinus, tangen, kuadran, pembatas, sistim, koordinat, relasi, sudut</strong></p><p></p><p><strong>Kode: </strong>10.2.6 </p>",
+                    "attachments": [
+                        "answer-attachments/cos-120-derajat-berapa-ya-818-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apakah-energi-potensial-bersifat-kekal-306",
+            "question": "Apakah energi potensial bersifat kekal.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi potensial tidak bersifat kekal karena dipengarui oleh energi mekanik<br><br>karena<br>Em = Ep + Ek = konstant<br><br>Ep dan Ek dapat berubah tetapi nilai Em tetap",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-alat-yang-menerapkan-hukum-pascal-berupa-alat-pengepres-hi-116",
+            "question": "Sebuah alat yang menerapkan hukum pascal berupa alat pengepres hidrolik memiliki penghisap besar yang luas penampangnya A1=250 cm2 dan penghisap kecil A2=6cm2. jika gaya tekan pada F2=300 N diberikan pada penghisap kecil, berapa besar beban maksimum yang bisa diangkat pada penghisap besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui = Penghisap besar = 250 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Penghisap kecil = 6 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  Gaya tekan penghisap kecil = 300 N<br>Ditanyakan = Beban maksimum penghisap besar?<br>[tex] \\frac{F1}{A1} =  \\frac{F2}{A2}  \\\\  \\frac{F1}{250} =  \\frac{300}{6}  \\\\  F1 =  \\frac{250 . 300}{6}  \\\\ F1 = \\frac{75000}{6}  \\\\ F1 = 12500 N[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kenaikan-alkohol-dalam-sebuah-pipa-kapiler-berdiameter-258",
+            "question": "berapakah kenaikan alkohol dalam sebuah pipa kapiler berdiameter 0,07 cm jika tegangan permukaan sama dengan 0,023 n/m dan massa 0,8 g/cm3. asumsikan bahwa sudut kontaknya sama dengan nol !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>\u03b3 = 0,023 N/m\u00a0<br>\u03b8 = 0\u00ba\u00a0<br>\u03c1 = 0,8 g/cm\u00b3\u00a0\u21d2\u00a0800 N/m\u00b3\u00a0<br>r =\u00a0[tex] \\frac{0,07}{2} [/tex] =\u00a00,035 cm\u00a0\u21d2 0,00035 m<br>Ditanyakan :\u00a0h = .. ?\u00a0<br>Penyelesaian :<br><br>[tex]h= \\frac{\\gamma.Cos \\theta}{\\rho.g.r} [/tex]<br><br>[tex]h= \\frac{0,023*Cos 0}{800*10*0,00035} [/tex]<br><br>[tex]h= \\frac{0,023*1}{2,8} [/tex]<br><br>[tex]h= 8,2 . 10^{-3} [/tex] m \u00a0 ,\u00a0atau<br><br>h\u00a0=\u00a0<strong>0,82 cm</strong>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pipa-u-diisi-dengan-air-rho1000-kgm3-kemudian-ditambahkan-mi-873",
+            "question": "Pipa U diisi dengan air (rho=1000 kg/m\u00b3) kemudian ditambahkan minyak setinggi 20 cm. Jika selisih permukaan air pada kedua kaki 16 cm berat maja jenis minyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho minyak \u00d7 tinggi minyak = rho air \u00d7 tinggi air <br>rho minyak = 1000 \u00d7 4 \u00f7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4000 \u00f7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 Kg / m\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285",
+            "question": "1. air laut termasuk senyawa atau tidak?jelaskan    2. darah manusia senyawa atau campuran?jelaskan\r\n3. mengapa obat sirup dikocok dulu sebelum diminum,jelaskan?\r\n4. jell termasuk zat padat,cair atau gas?jelaskan\r\n5. pada kutub utara mengapa ikan dan tumbuhan masih bisa hidup,jelaskan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lihat dalam tabel<br><br>Semoga membantu :)\u00a0D",
+                    "attachments": [
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-1.png",
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-2.png"
+                    ]
+                },
+                {
+                    "answer": "1.air laut merupakan campuran karna terdapat dil dalam laut ema,minyak bumi,hasil tambang alainnya yang membuat air laut merupakan campuran.<br><br>2.darah merupakan senyawa karna di dalam darah juga terkandung senyawa yang di kenal dengan oksigen atau o2.<br><br>3.sirup dikocok dahulu sebelum di minum karna sirup meerupakan campuran yang harus tercampur.<br>melalui proses percampuran.<br><br>4.jel pada sudah di bekukan adalah zat padat tapi saat di lelehkan merupakan zat cair.<br><br>5.karna adanya daerah nya yang memungkinkan makhluk hidup tinggal dan hidup dan terdiri dari air yang menjadi es di kutub utara<br><br><br><br>semoga membantu dan bermanfaat :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-hubungan-yg-terjadi-antara-tanaman-sirih-yg-tumbuh-meramba-860",
+            "question": "bentuk hubungan yg terjadi antara tanaman sirih yg tumbuh merambat di pohon mangga sama dengan bentuk hubungan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggrek dengan tanaman jambu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau salah nggak apa apa ya?<br>anggrek dengan pohon,ikan badut dan anemon laut,ikan ramora dan ikan hiu,tumbuhan paku dan pohon jati<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387",
+            "question": "Tolong beserta caranya ya :) gambar ada dibawah biar lebi jelas !    Suatu sistem kesetimbangan yang terdiri atas 3 buah beban m1,m2, dan m3 dipasang pada dua katrol tetap . Bila sistem dalam keadaan setimbang , maka perbandingan m2 dengan m1 adalah ??",
+            "attachments": [
+                "question-attachments/tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "**saya lengkapi Gambarnya di bawah .<br><br>dari gambar dibawah, bisa dijadikan persamaan<br>[tex] \\frac{m1}{sin C } [/tex] =\u00a0[tex] \\frac{m2}{sin B} [/tex] =\u00a0[tex] \\frac{m3}{sin A} [/tex]<br><br>pertanyaannya, berapa perbandingan m2 :\u00a0m1?<br>gunakan persamaan :<br>[tex] \\frac{m2}{sin B} [/tex] =\u00a0[tex] \\frac{m1}{sin C } [/tex]<br>[tex] \\frac{m2}{Sin 120} [/tex] =\u00a0[tex] \\frac{m1}{Sin150} [/tex]<br>[tex] \\frac{m2}{1/2 \\sqrt{3} } [/tex] =\u00a0[tex] \\frac{m2}{1/2} [/tex]<br>1/2 m2 = 1/2[tex] \\sqrt{3} [/tex] m1<br>jadi ditemukan: \u00a0m2:m1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2 : 1/2[tex] \\sqrt{3}[/tex] \u00a0(setengahnya bisa dicoret)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 : [tex] \\sqrt{3} [/tex]\u00a0(A)<br>semoga membantu!!!<br><br><br>",
+                    "attachments": [
+                        "answer-attachments/tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-dengan-panjang-40-cm-bermassa-30-kg-pada-463",
+            "question": "Sebuah tongkat homogen dengan panjang 40 cm bermassa 30 kg. Pada salah satu ujung tongkat di beri beban, sedangkan ujung lainnya sebagai tumpuan. Jika F\u00a0= 280 N, maka momen gaya pada titik O adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pembahasan\nGaya-gaya yang bekerja pada tongkat adalah F, berat dari benda 2 kg (20 N)dan jangan lupa berat dari tongkat itu sendiri 30 N (ambil di tengah batang), ubah jarak ke meter.\u00a0\n\nSigma T nol =F.dF -Wb.db - Wt.dt\nsigma T nol =280.0,05 - 20.0,04 -30.0,02\n                          =0 Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>F=mg<br>\u00a0 =2.10<br>\u00a0 =20 n<br></span>\u00a0T nol =F.dF -Wb.db - Wt.dt<br>T nol =280.0,05 - 20.0,04 -30.0,02 =0 Nm<br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

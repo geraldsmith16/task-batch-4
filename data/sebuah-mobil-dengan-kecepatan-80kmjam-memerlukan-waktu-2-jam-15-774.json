@@ -1,0 +1,136 @@
+{
+    "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+            "attachments": []
+        },
+        {
+            "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seutas-tali-dipotong-menjadi-5-bagian-dan-masing-masing-masing-po-706",
+            "question": "Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?</p><p><strong>Barisan geometri</strong> adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.\n</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p>Deret geometri adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.\n</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui : </p><p>Banyak potongan tali (n) = 5</p><p>panjang tali terpendek (a) = 4 cm</p><p>Panjang tali terpanjang (Un) = 324 cm</p><p>Ditanya :</p><p>Panjang tali mula-mula (Sn) ?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio </strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2075\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2074</p><p> \u00a0 r\u2074 = [tex]\\frac{324}{4}[/tex]</p><p> \u00a0 r\u2074 = 81</p><p> \u00a0 r\u2074 = 3\u2074 </p><p> \u00a0 r = 3</p><p></p><ul><li><strong>Menentukan panjang tali mula-mula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2085 = [tex]\\frac{4 (3^{5} - 1)}{3 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{4 (243 - 1)}{2}[/tex]</p><p> \u00a0 \u00a0 = 2 \u00d7 242</p><p> \u00a0 \u00a0 = 484 cm</p><p></p><p>Jadi panjang tali mula-mula adalah 484 cm atau 4,84 m</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri :</h3><ol><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Panjang kertas semula \u2192 brainly.co.id/tugas/10758102</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang tali mula-mula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-soal-dan-jawaban-barisan-aritmatika-apa-saja-962",
+            "question": "10 contoh soal dan jawaban barisan aritmatika apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Diketahui barisan aritmetika\u00a0 3, 8, 13, \u2026<br>\u00a0\u00a0\u00a0 a. Tentukan suku ke-10 dan rumus suku ke-n barisan tersebut!<br>\u00a0\u00a0\u00a0 b. Suku keberapakah yang nilainya 198 ?</span><br><span><br>Jawab :</span><br><span>\u00a0<br>a. Dari barisan aritmetika 3, 8, 13, \u2026 diperoleh suku pertama a = 3 dan beda b = 8 \u2013 3 = 5.</span><br><span><br>Un\u00a0\u00a0\u00a0 = a + (n \u2013 1)b<br>U10\u00a0 = 3 + (10 \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 3 + 9 x 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 45<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>48</u></span><br><br>\u00a0Un\u00a0\u00a0 = a + (n \u2013 1)b<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + (n \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 5n \u2013 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>5n \u2013 2</u><br><span><br>b. Misalkan Un\u00a0 = 198, maka berlaku :</span><br><span><span><br>Un\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>5n \u2013 2 = 198<br>5n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 200<br>\u00a0n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>40</u><br>Jadi 198 adalah suku ke- 40</span>\u00a0</span><br><br><br><br><span>2. Diketahui U1 = a = 3 , U5 = 19 , Un = 31</span><br><span>\u00a0\u00a0\u00a0 a. Tentukan beda (b)</span><br>\n\u00a0\u00a0\u00a0 b. Tentukan n<br>\n\u00a0 \u00a0 c. Tentukan suku ke-20\u00a0<br><span>\u00a0\u00a0\u00a0 d. Tentukan n jika Un = 51</span><br><br><br><br>Jawab :<br><br><span>a. Cari U5 terlebih dahulu, setelah itu cari b dengan rumus U5 yang telah didapat :</span><br><span><br><span>\u00a0\u00a0\u00a0 Un = a + (n - 1)b</span></span><br>\u00a0\u00a0\u00a0 U5 = a + (5 - 1)b<br><span>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = <u>a + 4b</u></span><br><br><span>\n<span>\u00a0 \u00a0 b = a + 4b = 19</span></span><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 + 4b = 19<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4b = 19 - 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 16/4<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = <u>4</u> \u00a0</span><br><br><span>\n<span>\u00a0b. Gunakan rumus Un = a + (n - 1)b = 31 (diketahui Un = 31) :</span></span><br><br><span>\n<span>\u00a0 \u00a0 \u00a0 Un = 31</span></span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 31<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 31<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 31 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 32/4<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>8</u>\n<br><span><br><span>\u00a0c. suku ke-20 , dik: a = 3 , b = 4 :</span></span><br><br><span>\n\u00a0 \u00a0 \u00a0\u00a0 Un \u00a0 = a + (n - 1) b</span><br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + (20 - 1) 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + 80 - 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 80 - 1<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = <u>79</u>\u00a0<br><br><br><span>d. Jika Un = 51 :</span><br><br><span>\n\u00a0 \u00a0 \u00a0 Un = 51</span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 51<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 51<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 51 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 52/4<br><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>13</u></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-dengan-beda-3-ji-672",
+            "question": "tiga buah bilangan membentuk barisan aritmatika dengan beda 3. jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. rasio barisan tersebut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baris aritmatika misal a, a+b, a+2b <br>a, a+3-1,a+2.3<br>a,a+2,a+6 (menjadi baris geometri )<br>[tex] \\frac{a+6}{a+2} = \\frac{a+2}{a} [/tex]<br>a^2+4a+4=a^2+6a<br>2a=4<br>a=2<br>msk kan a=2<br>2,4,8<br>jdi rasionya 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-sudut-komplemen-dan-sudut-suplemen-369",
+            "question": "Pengertian sudut komplemen dan sudut suplemen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sudut komplemen = sudut yang berpenyiku (besarnya 90 derajat)<br>Sudut suplemen = sudut yang berpelurus (besarnya 180 derajat)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut komplemen yakni sudut saling berpenyiku , artinya jumlah kedua sudut = 90 derajat<br>sudut suplemen yakni sudut yang saling berpelurus, artinya jumlah kedua sudut = 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-bilangan-14-dan-224-disisipkan-3-bilangan-sehingga-terb-514",
+            "question": "Di antara bilangan 14 dan 224 disisipkan 3 bilangan sehingga terbentuk barisan geometri. Tentukanlah rasio dan jumlah deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  r_{baru} = \\sqrt[3+1]{224/14}  =  \\sqrt[4]{16} = 2[/tex]<br><br>[tex] S_{5} =  \\frac{14( 2^{5} - 1)}{2-1} = 448[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

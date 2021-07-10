@@ -1,0 +1,130 @@
+{
+    "question": "suatu suku banyak f(x) jika dibagi (x-1) sisanya 6 dan dibagi (x+3) sisanya -2' tentukan sisanya jika f(x) dibagi oleh (x^2+2x-3).",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x) : (x - 1) sisa 6<br>f(x) : (x + 3) sisa -2<br><br>f(x) = (x\u00b2 + 2x - 3).H(x) + S(x)<br>f(x) = (x - 1)(x + 3).H(x) + S(x)<br><br>f(1) = a + b<br>6 = a + b ....1 <br>f(-3) = -3a + b<br>-2 = -3a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 4 <br>S(x) = ax + b ==&gt; 2x + 4 ....ok?<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-x2-2x-3-0-mempunyai-akar-x1-dan-x2-tentu-867",
+            "question": "persamaan kuadrat x\u00b2 - 2x - 3 = 0 mempunyai akar x1 dan x2 tentukan persamaan kuadrat yang akar-akarnya 4x1 dan 4x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pk. lama:<br><span> x\u00b2 - 2x - 3 = 0<br>a = 1<br>b = -2<br>c = -3<br>x1 + x2 = -b/a = -(-2)/1 = 2<br>x1 x x2 = c/a = -3/1 = -3<br><br>Pk. baru<br></span>\n\n<span>x\u00b2- (\u03b1 + \u03b2)x + (\u03b1 . \u03b2) = 0</span>\n<br><br>\n\u03b1 = 4x1\n<br>\n\u03b2 = 4x2\n<br><br>\n(\u03b1 + \u03b2) = 4x1 + 4x2 = 4 (x1 + x2) = 4 (2) = 8\n<br>\n(\u03b1 . \u03b2) = 4x1 . 4x2 = 4 (x1.x2) = 4 (-3) =\n-12\n<br><br>Pk. Baru =&gt;<span>x\u00b2</span> \u2013 8x \u2013 12 = 0\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] x^{2} [/tex] -2x - 3 = 0<br>(x - 3) (x\u00a0+ 1) = 0<br>[tex] x_{1} [/tex] = 3<br>[tex] x_{2} [/tex] = -1<br><br>menyusun persamaan kuadrat baru jika:<br>[tex] x_{1} [/tex] = 4[tex] x_{1} [/tex] = 4x3 = 12<br>[tex] x_{2} [/tex] = 4[tex] x_{2} [/tex] = 4x-1 = -4<br><br>(x-12) (x+4)<br>= [tex] x^{2} [/tex] + 4x - 12x - 48<br>= [tex] x^{2} [/tex] - 8x -48<br><br>menurut saya ini jawabannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-xyz-dengan-siku-siku-d-y-cos-z-20-per-24-tentuka-889",
+            "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-sudut-r110-derajat-sudut-q30-derajat-dan-sisi-p-708",
+            "question": "jika diketahui sudut R=110 derajat, sudut Q=30 derajat dan sisi p= 10 cm, maka LUAS SEGITIGA PQR adalah............",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=(p2 x sinQ x sinR) / 2 x sinP<br>\u00a0 = (10kuadrat x sin 30 x sin 110) / 2 x sin 40<br>\u00a0 = 100 x 0,5 x 0,9 / 2 x 0,6<br>\u00a0 =45 / 1,2<br>\u00a0 =37,5 cm2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

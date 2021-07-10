@@ -1,0 +1,156 @@
+{
+    "question": "2x-4 lebih besar 3x+9",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2x-4 \u00a0 = 3x+9<br>2x-3x = 4 + 9<br>-1x\u00a0 \u00a0  = 13<br>\u00a0\u00a0 x\u00a0 \u00a0 = 13/-1<br>\u00a0\u00a0 x\u00a0 \u00a0 = -13<br><br>2x-4 = 3x+9<br>2(-13)-4 = 3(-13)+9<br>-26 - 4 \u00a0  = -39 + 9<br>-30\u00a0 \u00a0 \u00a0\u00a0  =\u00a0\u00a0 -30<br><br>Jadi antara 2x-4 dan 3x+9 itu sama aja, yaitu sma2 berjumlah -30..<br>",
+            "attachments": []
+        },
+        {
+            "answer": "2x-4 &gt; 3x+9 = 3x-2x &gt; -4-9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= x &gt; -13",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-sebuah-segitiga-sama-kaki-240-cm2-jika-panjang-alasnya-2-839",
+            "question": "Luas sebuah segitiga sama kaki 240 cm^{2}. jika panjang alasnya 20 cm, maka keliling segitiga tersebut .. tuliskan caranya !!\u00a0    a. 44 cm\r\nb. 46 cm\r\nc. 68 cm\r\nd. 72 cm\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = 1/2 a x t<br>240 = 1/2 . 20 x t<br>240 = 10t<br>24 = t<br><br>alas 20 cm, maka sisi samping = 10 kuadrat + 24 kuadrat<br>akar 100 + 576<br>maka sisi samping adalah akar dari 676 yaitu 26<br><br>K = 20+26+26<br>K = 72 cm<br><br>Jawabannya d. 72 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : <br>Alas segitiga sama kaki : 20,<br>Setengah alas : 10<br>L. segitiga = 1/2 . a. t<br>240\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 1/2 . 20. t<br>240\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10t<br>t\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 240/10<br>t\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0 24<br><br>jika kedua sisi kuadrat segitiga 10\u00b2 dan 24\u00b2 maka sisi terpanjang adalah 26\u00b2<br><br>K= sisi segitiga<br>\u00a0\u00a0 \u00a0 s + s + s <br>\u00a0\u00a0 \u00a0 10+24+26 = 60 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-397",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x = \u00bd\u221a3\nsin 2x = sin 60\u00b0\n2x = 60\u00b0\n \u2192 2x = 60\u00b0+k.360\u00b0\n \u2192 x = 30\u00b0+180\u00b0\nk = 0 \u2192 x = 30\u00b0\nk = 1 \u2192 x =30+180 = 210\u00b0\n \u21922x = 120+k.360\n \u2192 x = 60+180\nk=0 \u2192 x = 60\u00b0\nk=1 \u2192 x = 60+180 = 240\u00b0\nHP = {30\u00b0, 60\u00b0, 210\u00b0, 240\u00b0}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-persamaan-linear-satu-variabel-251",
+            "question": "Cara menyelesaikan persamaan linear satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menyelesaikan sistem persamaan linear satu variabel :<br>-\u00a0<span>kita harus menentukan nilai dari\u00a0</span>x<span>\u00a0sedemikian sehingga persamaan tersebut menjadi benar, yang berarti, nilai dari ruas kiri sama dengan ruas kanan.<br>-\u00a0</span>kita dapat menuliskan suatu persamaan yang diberikan ke dalam\u00a0persamaan ekuivalen<span>\u00a0yang lebih sederhana, sampai kita mendapatkan solusi yang diminta.\u00a0<br>-\u00a0</span><span>lalu diperoleh dari penyederhanaan kedua ruas persamaan dengan menggunakan sifat-sifat penjumlahan, perkalian, dan distributif dari suatu persamaan, sampai diperoleh suatu persamaan dalam bentuk\u00a0</span>x<span>\u00a0= konstanta.<br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span><strong><em><br>Metode Grafik<br>1</em></strong>.Menggunakan Metode Grafik<span>\u00a0<span>Pada metode grafik, himpunan penyelesaian dari sistem persamaan linear\u00a0dua variabel</span><span>adalah koordinat titik potong kedua garis\u00a0tersebut. Jika garis-garisnya tidak</span><span>berpotongan di satu titik tertentu\u00a0maka himpunan penyelesaiannya adalah himpunan</span>kosong.\u00a0Contoh Soal :Dengan menggunakan metode grafik, tentukan himpunan penyelesaian sistem<span>pers<span>ama<span>an li<span>nea<span>r dua v<span>ari<span>abe<span>l x + y = 3 da<span>n x \u2013 y = 2 un<span>tuk x<span>, y\u00a0R</span></span></span></span></span></span></span></span></span></span></span>\u00a0</span>Kesimpulan :\u00a0<br><br>Metode Substitusi<br><strong><em>2</em></strong><strong><em></em></strong>. Menggunakan Metode SubstitusiPada metode subtitusi, himpunan penyelesaian dari sistem persamaan linear dua</span><span></span></span><span>\u00a0<span>variabel adalah dengan cara menyatakan salah satu variabel dalam bentuk variabel<span>yang lain kemudian nilai variabel tersebut menggantikan variabel\u00a0yang sama dalam</span>persamaan yang lain.Contoh Soal :<span>Dengan menggunakan metode subtitusi , tentukan himpunan penyelesaian sistem</span>persamaan linear dua variabel x + y = 12 dan 2x + 3y = 31.<br></span><br><br>Metode Eliminasi<br><strong><em>3</em></strong>. Menggunakan Metode Eliminasi<span>Pada metode eliminasi, himpunan penyelesaian dari sistem persamaan linear duavariabel adalah dengan cara menghilangkan (mengeliminasi) salah satu variabel dari<span>sistem persamaan tersebut. Misalkan variabelnya adalah x dan y, untuk\u00a0menentukan</span><span>variabel x harus mengeliminasi variabel y terlebih\u00a0dahulu, atau sebaliknya. Dengan</span>kata lain metode eliminasi adalah menghilangkan salah satu variabel untuk dapat<span>menentukan nilai variabel yang lain, oleh karena itu\u00a0koefisien salah satu variabel yang</span>akan dihilangkan haruslah sama atau dibuat sama.Contoh Soal :Dengan menggunakan metode eliminasi, tentukan himpunan penyelesaian sistempersamaan linear dua variabel 3x + 3y = 3 dan 2x - 4y = 14.<br></span><br>Metode Kombinasi<br><strong><em>4</em></strong>. Menggunakan Metode Kombinasi (Eliminasi &amp; Subtitusi)<span>Pada metode kombinasi (eliminasi &amp; subtitusi), himpunan penyelesaian dari sistempersamaan linear dua variabel adalah dengan cara mengeliminasi salah satu variabeldari sistem persamaan tersebut. Kemudian hasil dari eliminasi tersebut disubtitusikanke salah satu persamaan.Contoh Soal :Dengan menggunakan metode kombinasi, tentukan himpunan penyelesaian sistem<span>persamaan linear dua variabel 2x + 3y = 6 dan x - y = 3</span></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-suku-berurutan-pada-sebuah-barisan-geometri-berturut-turut-390",
+            "question": "Dua suku berurutan pada sebuah barisan geometri berturut-turut \u00bc dan \u00bd. Jika suku kedelapan barisan tersebut 2, jumlah delapan suku pertama barisan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku berurutan 1/4dan 1/2, maka rasionya 1/2:1/4 = 2<br><br>jika r =2 maka<br>U8\u00a0= 2<br>ar\u2077 = 2<br>a.2\u2077= 2<br>a = 2/2\u2077<br>a = 1/2\u2076<br>a= 1/64<br><br>maka,\u00a0<br>Sn = a(r\u2078\u00a0- 1) / r - 1<br>S\u2088 = 1/64(2\u2078-1) / (2 - 1)<br>S\u2088 = 1/64 (256 - 1) / 1<br>S\u2078 = 255/ 64<br><br>semoga membantu<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] S_{8} [/tex]=n/2(a+[tex] U_{8} [/tex]<span>)</span><br>[tex] S_{8} [/tex]=8/2(1/4+2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =4(9/4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =9<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantu-ya-harga-pembelian-dua-jenis-gula-masing2-rp-600-704",
+            "question": "Tolong dibantu ya!    Harga pembelian dua jenis gula masing2 Rp. 6000 dan Rp. 6400 per kg. kedua jenis gula itu kemudian dicampur dengan perbandingan 2 : 3, dan dicampur dengan memperoleh untung 20 %.\r\nTentukan :\r\na. Harga pembelian 1 kg gula campuran\r\nb. Harga penjualan 1 kg gula campuran\r\n\r\nMakasih :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gula A = Rp 6.000/kg<br>gula B = Rp 6.400/kg<br>gula A : gula B = 2 : 3<br>a. <u>Harga pembelian<br></u>\u00a0 \u00a0Gula A = harga gula A x nilai\u00a0perbandingan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 6.000 x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 12.000<br>\u00a0 \u00a0Gula B = harga gula B x nilai perbandingan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 6.400 x 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 19.200<br>\u00a0 \u00a0Harga pembelian totak = Rp 12.000 + Rp 19.200<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 31.200<br>b. Jika keuntungan 20%, maka:<br>\u00a0 \u00a0 Harga jual = harga beli x\u00a0[tex] \\frac{persentase keuntungan+persentase modal}{persentase modal} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 31.200 x\u00a0[tex] \\frac{100% + 20%}{100%} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 31.200 x\u00a0[tex] \\frac{120%}{100%} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 37.440",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-karung-beras-ditulis-bruto-100-kg-dan-tara-10-maka-n-604",
+            "question": "Jika pada karung beras ditulis bruto 100 kg dan tara 10% , maka neto adalah...    *pake caranya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100% - 10% = 90%<br><br>90<br>----- x 100 = 90kg<br>100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "netto =\u00a0bruto\u00a0- tara<br>\u00a0 \u00a0 \u00a0 \u00a0 =100 kg - (10/100 x 100 kg)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 100 kg - 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 = 90 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204",
+            "question": "Diketahui besar sudut BCA = 25\u00b0 dan sudut CBO = 15\u00b0. Hitunglah besar    a. sudut AOB\r\n b. sudut OAB\r\n c. sudut ABC\r\n d. sudut BAC\r\n Tolong jawabannya ya. Trims",
+            "attachments": [
+                "question-attachments/diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a.AOB=5O&#039;<br>b.OAB=65&#039;<br>c.ABC=80&#039;<br>d.BAC=80&#039;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-20-ikat-sayuran-dengan-harga-rp1500-pe-554",
+            "question": "seorang pedagang membeli 20 ikat sayuran dengan harga Rp.1.500 per 5 ikat .kemudian sayuran itu ia jual dengan harga Rp.1.500 per 4 Ikat ,maka pedagang sayur tersebut akan mengalami... a.untung 20%\u00a0 b.Rugi 20% c.untung 25% d.Rugi 25%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pedagang mendapat keuntungan 1/5 *100% yaitu 20%",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pembelian= Rp 6.000  |  Penjualan= 7.500  |  Keuntungan=7500-6000=1500  |  1500/6000*100%=25%  |  Kalau salah mohon koreksinya^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lantai-sebuah-rumah-berukuran-panjang-8-m-dan-lebar-6-m-lantai-it-672",
+            "question": "lantai sebuah rumah berukuran panjang 8 m dan lebar 6 m lantai itu akan ditutup dengan ubin berukuran 30cm x 30cm hitunglah bnyk ubin yg digunakan untuk menutup lantai tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><br>ukuran lantai = 8m x 8m = 800cm x 600cm = 480000</p><p>ukuran ubi = 30 x 30 = 900</p><p>banyak nya ubi 480000/900 = 533,33 hasilnya 533,33cm ( JADIKAN TERBAIK )</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas lantai= 480000cm<br>keliling ubin= 4xs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x30=120cm<br>banyak ubin= 480000/120<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4000 ubin<br><br>kalo gak salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-dari-2x3-5x-24-adalahtolong-ya-dibuati-268",
+            "question": "Penyelesaian dari 2(x+3) = 5x - 24 adalah......(tolong ya dibuatin caranya juga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(x+3)=5x-24<br>2x+6=5x-24<br>2x-5x=-24-6<br>-3x=-30<br>x=-30/-3<br>x=10",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (x+3) = 5x - 24<br>2x + 6 = 5x - 24<br>2x-5x = -24 -6<br>-3x = -30<br>x = <u>-30</u><br>\u00a0\u00a0 \u00a0 \u00a0  -3<br>x = 10<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

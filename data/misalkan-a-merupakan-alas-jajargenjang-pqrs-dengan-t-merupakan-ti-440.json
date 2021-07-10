@@ -1,0 +1,138 @@
+{
+    "question": "Misalkan a merupakan alas jajargenjang PQRS dengan t merupakan tingginya. Jika 2t \u00a0= 3a, tentukan:    a.panjang t\u00a0dalam a\r\nb.panjang alas dan tingginya jika luas jajargenjang tersebut 864 cm2.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a.\u00a0 2t=3a<br>\u00a0\u00a0 \u00a0 \u00a0 t=3a/2<br><br>b.\u00a0 a.t= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a. 3a/2= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a\u00b2 = 864. 2/3<br>\u00a0\u00a0 \u00a0 a = 576<br>\u00a0\u00a0 \u00a0 a = \u221a576<br>\u00a0\u00a0 \u00a0 a =\u00a0 24 cm<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1. <br>a) 2t = 3a<br>t = 3a/2<br><br>b) L = alas x tinggi<br>864 = a x t subtitusikan t = 3a/2<br>864 = a x 3a/2<br>864 = 3a^2/2<br>1728 = 3a^2<br>a^2 = 1728/3<br>a^2 = 576<br>a = akar(576)<br>a = 24 cm<br><br>t = 3a/2 = 3x24/2 = 36 cm<br><br>keterangan ^ : pangkat<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pertumbuhan-penduduk-biasanya-dinyatakan-dalam-persen-misalnya-353",
+            "question": "Pertumbuhan penduduk biasanya dinyatakan dalam persen.    Misalnya, pertumbuhan penduduk adalah 2% per tahun artinya jumlah penduduk\r\n bertambah sebesar 2% dari jumlah penduduk tahun sebelumnya. Pertambahan\r\n penduduk menjadi dua kali setiap 10 tahun. Jumlah penduduk desa pada awalnya\r\n 500 orang, berapakah jumlah penduduknya setelah 70 tahun apabila pertumbuhannya\r\n 2,5%?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = jumlah penduduk mula-mula = 500 jiwa<br>\u00a0 \u00a0 \u00a0 \u00a0 pertumbuhannya = 2,5 %<br>dit = jumlah penduduk akhir pd 70 th = ...\u00a0<br>jwb = (500 jiwa x 2,5 %) x 70 th = 437500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285",
+            "question": "1. jumlah semua bilangan ganjil antara 300 dan 750 yang bukan kelipatan 7 adalah 2. jumlah 3 suku pertama suatu deret geometri ialah 21 dan hasil kali 3 suku pertama itu ialah 64. nilai suku ketiga dan suku pertama deret itu berturut- turut adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika Bab Deret <br>Kelas: XII SMA <br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-suku-banyak-fxx3-6x2-9-632",
+            "question": "Tentukan akar-akar dari persamaan suku banyak f(x)=x^3 - 6x^2 + 9x - 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=x^3 - 6x^2 + 9x - 2 = 0<br>ambil dari koef derajat tertinggi -&gt; +-1<br>ambil dari suku tetap -&gt; +-1, +-2<br>akar akar <em><strong>yang mungkin\u00a0</strong></em><strong></strong>+-1/+-1 , +-2/+-1 -&gt; 1,-1,2,-2<br>f(1) = (1)</span>\u00b3\u00a0-\u00a06\u00a0(1)\u00b2\u00a0+\u00a09\u00a0(1)\u00a0-\u00a02<br><span>\u00a0 \u00a0 \u00a0\u00a0= 1 - 6 + 9 -2\u00a0<br>\u00a0 \u00a0 \u00a0 = 2\u00a0</span>\u2260\u00a00 (bukan akar dari pers)<br><span>f(-1) = (-1)</span>\u00b3 - 6 (-1)\u00b2 + 9 (-1) -2<br><span>\u00a0 \u00a0 \u00a0 = -1 - 6 -9 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span>f(2) = (2)</span>\u00b3 -6 (2)\u00b2 + 9 (2) -2<br><span>\u00a0 \u00a0 \u00a0 = 8 -24 +18 -2<br>\u00a0 \u00a0 \u00a0 = 26 - 26 = 0 (benar)<br></span><span>f(-2) = (-2)</span>\u00b3 - 6 (-2)\u00b2 +9 (-2) -2<br><span>\u00a0 \u00a0 \u00a0 \u00a0= -8 -24 -18 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span><br>akarnya hanya 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-ditentukan-oleh-fx-4x-32x1-x-12-jika-inver-811",
+            "question": "fungsi f ditentukan oleh f(x) = 4x-3/2x+1, x \u2260 -1/2. jika invers dari f(x) dituliskan f pngkt min 1(x), maka f pngkat min 1 (x+1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x) =  \\frac{4x - 3}{2x + 1} [/tex]<br>[tex]f^{-1}(x) = \\frac{-x - 3}{2x - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{-(x +1) - 3}{2(x +1) - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{- x -4}{2x - 2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sinus-105-sinus-15-adalah-743",
+            "question": "Nilai dari sinus 105 - sinus 15 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sin 105 - sin 15 =\u00a0</span>[tex] \\frac{1 +  \\sqrt{3} }{2 \\sqrt{2} } -  \\frac{ \\sqrt{3}-1 }{2 \\sqrt{2} } =  \\frac{1}{2}  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-maksimum-fxax24xa-adalah-3-hitunglah-nilai-a-tolong-693",
+            "question": "Nilai maksimum f(x)=ax\u00b2+4x+a adalah 3. hitunglah nilai a!    Tolong di jawab dangan pnjelasannya yahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 3<br>y = [tex] \\frac{-D}{4a} [/tex]<br>y = [tex] \\frac{-(b^{2} - 4ac)}{4a} [/tex]<br>3 = [tex] \\frac{-(4^{2} - 4a.a)}{4a} [/tex]<br>12a = -(16 - 4a\u00b2)<br>12a = -16 + 4a\u00b2<br>4a\u00b2 - 12a - 16 = 0<br>a\u00b2 - 3a - 4 = 0<br>(a - 4)(a + 1) = 0<br>a = 4 atau a = -1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sinta-mempunyai-uang-sebesar-rp6000000-besar-uang-adik-23-da-197",
+            "question": "Sinta mempunyai uang sebesar Rp.60.000,00. Besar uang adik 2/3 dari uang Sinta. Berapa rupiah besar uang Sinta dan adik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Uang Adik : Uang Sinta<br>2 : 3<br>maka jumlah uang mereka adalah<br>= [tex] \\frac{5}{3} x 60.000[/tex]<br><br>= 5 x 20.000<br>= 100.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60.000 + 40.000 = 100.000 rupiah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-akar-akar-persamaan-kuadrat-dari-x22x-80-831",
+            "question": "Carilah akar-akar persamaan kuadrat dari x\u00b2+2x-8=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0 adalah -4 dan 2.</p><p></p><h3>Pembahasan</h3><p>Persamaan kuadrat adalah persamaan polinomial dengan suku terdingginya berderajat 2.</p><p>Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c, dengan a, b dan c adalah koefisiennya, x\u00b2 dan x adalah peubahnya.</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Jika p dan q adalah akar-akar persamaan x\u00b2 - 16x + 48=0 dengan p &gt; q,nilai \u2153p - \u00bdq adalah brainly.co.id/tugas/23470449</li></ul><p></p><p>Untuk mengetahui akar-akar dari persamaan kuadrat dengan cara memfaktorkan atau menggunakan rumus abc.</p><p>Pada Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c = 0, penjumlahan akar-akarnya = [tex]\\frac{-b}{a}[/tex]\u00a0, dan hasil kali akar-akarnya = [tex]\\frac{c}{a}[/tex]\u00a0.</p><p>Rumus diskriminan persamaan kuadrat</p><p>D = b\u00b2 - 4ac</p><p>Jika akar-akar dari persamaan kuadrat adalah p dan q, maka bentuk persamaan kuadratnya adalah</p><p>x\u00b2 - (p+q)x + pq = 0</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Pengertian persamaan kuadrat dapat disimak di brainly.co.id/tugas/1779207 \u00a0</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0</p><p>Kita faktorkan</p><p>x\u00b2 + 2x - 8 = 0</p><p>(x + 4)(x - 2) = 0</p><p>x + 4 = 0 \u00a0atau x - 2 = 0</p><p>x = -4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = 2</p><p></p><p>HP = {-4, 2}</p><p></p><h3>Pelajari lebih lanjut</h3><ul><li>Tentukan persamaan kuadrat yang akarnya 8 dan -2 dapat disimak di brainly.co.id/tugas/4992073</li><li>Akar akar persamaan kuadrat 2x^-5x-3=0 dapat disimak di brainly.co.id/tugas/4039095</li></ul><h3>===============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Persamaan kuadrat</p><p><strong>Kode </strong>: 9.2.9</p><p></p><p><strong>Kata Kunci </strong>: Persamaan kuadrat, akar-akar persamaan kuadrat, Diskriminan.</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-deret-geometri-diketahui-sn4-dan-s440-tentukan-suku-921",
+            "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

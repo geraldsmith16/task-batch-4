@@ -1,0 +1,146 @@
+{
+    "question": "Diketahui panjang OP=28cm dan busur lingkaran PQ=17,6.Hitung luas juring POQ",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>[tex]K = 2  \\pi r\n \\\\ K = 2~x~(22/7)~x~28~cm\n \\\\ K = 176~cm\n \\\\ \n \\\\ L =  \\pi r^2\n \\\\ L = (22/7)~x~(28~cm)^2\n \\\\ L = 2464~cm^2[/tex]<span><br><br><span>[tex]Cari~sudut~POQ[/tex]<br><span>\u2220\u00a0[tex]POQ~/\\angle~1~lingkaran = panjang~PQ~/~keliling~lingkaran[/tex]<br></span><span>\u2220\u00a0[tex]POQ~/~360^\\circ = 17,6~/~176 [/tex]<br></span><span><span>\u2220\u00a0[tex]POQ = (17,6~/~176 )~x~360^\\circ[/tex]<br>\u2220\u00a0[tex]POQ = 36^\\circ[/tex]<br></span><br></span></span></span></span>[tex]Luas~Juring~POQ~/~luas~lingkaran = \\angle POQ~/ \\angle~1~lingkaran[/tex]<br><span>[tex]Luas~Juring~POQ~/~2464~cm^2 = 36^\\circ~/~360^\\circ[/tex]<br></span><span>[tex]Luas~Juring~POQ = 0,1~x~2464~cm^2[/tex]<br></span>[tex]Luas~Juring~POQ = 246,4~cm^2[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "panjang-jari-jari-lingkaran-sebuah-taman-bermain-32-m-314-mak-964",
+            "question": "Panjang jari-jari lingkaran sebuah taman bermain 32 m (=3,14) maka kelilingnya adalah???    dengan caranya ya???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K=2*pi*r\n =2*3.14*32\n =6.28*32\nK=200.96\n\nketerangan: * \u00bb kali. contoh : 2 kali 3.14",
+                    "attachments": []
+                },
+                {
+                    "answer": "kll =\u00a0[tex] \\pi  d[/tex]<br>\u00a0 \u00a0 = 3.14 x 64<br>\u00a0 \u00a0 = 200,96 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pada-gambar-besar-sudut-aob40-derajatamp-sudut-cod-150-437",
+            "question": "1. pada gambar , besar sudut AOB=40 derajat,&amp; sudut COD =150 derajat dan panjang busur AB=120 CM HITUNGLAH PANJANG BUSUR CD",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40<u></u>\u00b0 :\u00a0150\u00b0 = 120 :\u00a0CD<br>4 :\u00a015 = 120 :\u00a0CD<br>4 x CD = 15 x 120 (dikali silang)<br>4 x CD = 1800<br>CD = 1800 : 4 = 450 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-kelas-yang-terdiri-atas-46-siswa-dilakukan-pendataan-134",
+            "question": "pada sebuah kelas yang terdiri atas 46 siswa dilakukan pendataan pilihan ekstrakulikuler. dari hasil sementara diperoleh 19 siswa memilih KIR , 23 siswa memilih PMR, dan 16 siswa belum menentukan pilihan. Tentukan banyaknya siswa yang hanya memilih PMR saja dan KIR saja .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( 16 + 19 + 23) - 46 = 58  - 46 = 12. \njadi, KIR = 19 - 12 = 7.\njadi, PMR  = 23 - 12 = 11.",
+                    "attachments": []
+                },
+                {
+                    "answer": "KIR= 7 anak, PMR= 11<br>Itulah jawabanku<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-deret-aritmatika-mempunyai-suku-pertama-2-dan-u13-u7-30-931",
+            "question": "Suatu deret aritmatika mempunyai suku pertama 2 dan U13 - U7 = 30. Hitunglah S50.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2<br>a+12b-(a+6b)=30<br>2+12b-2-6b=30<br>6b= 30<br>b= 5<br><br>sn= n/2 (a +(n-1)5<br>S50= 25 (2+ (49)5<br>S50 = 25(2+ 245)<br>\u00a0\u00a0 \u00a0  = 25 x 247<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-adalah-bilangan-asli-tentukanlah-himpunan-penyelesaian-da-927",
+            "question": "Jika x adalah bilangan asli, tentukanlah himpunan penyelesaian dari persamaan linear berikut.    a) 6x + 5 = 26 - x\r\nb) 2 - 4x = 3\r\nc) x - 12 = 2x + 36\r\nd) -5x - 4x + 10 = 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><strong>Bilangan\u00a0asli = 1,2,3,4,5,\u00a0...</strong></span><br><strong></strong><br><strong>a.\u00a06x\u00a0+ 5 = 26 - x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hp = { 3 }</strong><br><strong>\u00a0\u00a0\u00a0 6x\u00a0+ 5 - 5 = 26 - 5 - x</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 6x = 21 - x</strong><br><strong>\u00a0\u00a0\u00a0 6x + x =\u00a021</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a07x\u00a0= 21</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = 21/7</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0x\u00a0= 3</strong><br><strong></strong><br><strong>b.\u00a02\u00a0- 4x = 3\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hp = { \u00a0}</strong><br><strong>\u00a0\u00a0\u00a0 2 - 2 - 4x = 3 - 2</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0-4x\u00a0=\u00a01</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x =\u00a01/-4</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = - 1/4</strong><br><strong></strong><br><span><strong>c.\u00a0x - 12 = 2x + 36\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0Hp = { \u00a0}</strong></span><br><strong>\u00a0\u00a0\u00a0 x - 12 + 12 = 2x + 36 + 12</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0x = 2x + 48</strong><br><strong>\u00a0\u00a0\u00a0 \u00a0x\u00a0-\u00a02x\u00a0=\u00a048</strong><br><strong> \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - x = 48</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = 48/-1</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = -48</strong><br><strong></strong><br><strong></strong><span><strong>d. (-5x - 4x) + 10 = 1</strong></span><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hp = { 1\u00a0}</strong><br><strong></strong><span><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0-9x + 10 = 1</strong></span><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -9x + 10 - 10 = 1 - 10</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - 9x = -9</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = -9/-9</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = 1</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lingkaran-4396-cmjika-p314-maka-panjang-jari-218",
+            "question": "Keliling sebuah lingkaran 43,96 cm.jika \u03c0=3,14 maka panjang jari jarinya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = 2.phi. r<br>43,96 = 2.3,14.r<br>43,96=6,28 r<br>r= 43,96/6,28<br>r= 7 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "K = 2[tex] \\pi [/tex]r<br>43,96= 2 x 3,14 x r<br>43,96= 6,24 x r<br>r= 43,96/6,24<br>r= 7,044 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-roy-menyimpan-uang-di-bank-pasar-sebesar-rp35000000-bank-p-689",
+            "question": "Pak Roy menyimpan uang di Bank Pasar sebesar Rp350.000,00. Bank Pasar memberi bunga 18% per tahun. Hitunglah:    1. Bunga satu tahun\r\n 2. Bunga satu caturwulan\r\n 3. Tabungan Pak Roy setelah empat bulan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Rp 63.000,00<br>2. Rp 21.000,00<br>3. Rp 371.000,00<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Rp 350.000 x 18% = Rp. 63.000<br><br>2. Rp. 63.000 \u00f7 4 = Rp. 15.750<br><br>3. Rp. 350.000 + Rp. 15.750 = Rp. 365.760<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-uang-danika-jumlah-uang-mereka-dan-dina-74-jika-s-669",
+            "question": "perbandingan uang danika\u00a0 jumlah uang mereka dan dina 7:4 jika selisih uang mereka 45000 jumlah uang mereka adalah ? pake cara ..please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Perbandingan<br>Kata Kunci : perbandingan, selisih, jumlah<br><br>Pembahasan :<br>Diketahui perbandingan\u00a0uang Danika dan Dina adalah 7 : 4.<br>Jika selisih\u00a0uang mereka\u00a0Rp45.000,00, maka perbandingan yang digunakan senilai.<br>Misalkan Danika = p<br>Dina = q<br>Sehingga perbandingannya<br>p : q = 7 : 4<br>\u21d4 p/q = 7/4<br>\u21d4 7q = 4p<br>\u21d4 q = 4/7 p<br>Kemudian,<br>p - q = 45.000<br>\u21d4 p = 45.000 + q<br>\u21d4 p = 45.000 + 4/7 p<br>\u21d4 p - 4/7 p = 45.000<br>\u21d4 7/7 p - 4/7 p = 45.000<br>\u21d4 3/7 p = 45.000<br>\u21d4 p = 45.000 x 7/3<br>\u21d4 p = 315.000/3<br>\u21d4 p = 105.000<br>Nilai p kita substitusikan ke persamaan<br>p - q = 45.000<br>\u21d4 q = p - 45.000<br>\u21d4 q = 105.000 - 45.000<br>\u21d4 q = 60000<br>p + q = 105.000 + 60.000 = 165.000<br>Jadi, jumlah uang mereka adalah Rp165.000,00<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x6111-merupakan-tripel-pythagoras-dan-61-bilangan-terbesa-532",
+            "question": "Jika\u00a0x,61,11 merupakan tripel pythagoras dan 61 bilangan terbesar maka nilai\u00a0x adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 11 = 61<br>x\u00a0 \u00a0  = 61 - 11<br>x\u00a0 \u00a0\u00a0 = 50<br><br>kalau tidak salah seperti itu<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x^2 + 11^2 = 61^2\nx^2 + 121=3721\nx^2=3721-121\nX^2 =3600\nX= 60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-rio-menyimpan-uangnya-di-bank-pada-awal-bulan-januari-2011-se-590",
+            "question": "Pak rio menyimpan uangnya di bank pada awal bulan januari 2011 sebesar Rp.4000000.Pada akhir bulan Desember 2011 Pak Rio mengambil uangnya yang sudah berjumblah Rp.4800000.Selama setahun tersebut persentase bunga yang diberikan bank sebesar . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{80.000}{400.000}[/tex]\u00a0\u00a0x 100 % = 20 %",
+                    "attachments": []
+                },
+                {
+                    "answer": "4/8=0.2=2/10=20/100=20%",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

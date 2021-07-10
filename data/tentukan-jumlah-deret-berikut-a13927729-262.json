@@ -1,0 +1,136 @@
+{
+    "question": "Tentukan jumlah deret berikut :\r\na).1+3+9+27+...+729",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jumlah deret 1+3+9+.....+729<br><br>a=1, r=3<br>un= a.r^(n-1)=729<br>un=1.3^(n-1)=3^6<br>(n-1)=6<br>n=7<br><br>Sn = a(r^n-1) /(r-1)<br>Sn =1.(3^7-1)/(3-1)<br>Sn=(2186)/2<br>Sn=1093",
+            "attachments": []
+        },
+        {
+            "answer": "1+3+9+27+\u2026+729\u00a0\u00a0\u00a0<br><span>Dik: a=1, Un=729 , r= 3<br>penyelesaian:<br>\u00a0 \u00a0#\u00a0Un=\u00a0a.r^(n-1) \u00a0 \u00a0 \u00a0\u00a0</span><br>\u00a0 \u00a0 \u00a0729= 1. 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0729= 3^(n.1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<span><br>\u00a0 \u00a0</span>3^(6)= 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a0 \u00a0 \u00a0 6= n -1</span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a06 + 1= n -1+1\u00a0\u00a0\n<br>\u00a0 \u00a07= n \u00a0<br></span><br>\u00a0#Sn = a(r^{n})/r-1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=1(3^{7} -1) /3-1<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=(2187 \u2013 1)/2<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=2187/2\u00a0<br>\u00a0 \u00a0\u00a0Sn\u00a0=1093,5<span><br>Jadi jumlah deret dari\u00a0</span>1+3+9+27+\u2026+729 \u00a0adalah 1093,5<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894",
+            "question": "Himpunan penyelesaian dari 36 log (x-4) + 36 log (x+1) &lt; 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2</strong> adalah {x | 4 &lt; x &lt; 5, x \u2208 R}. Logaritma merupakan salah satu invers dari perpangkatan. Definisinya\n</p><p><strong>\u1d43log b = n </strong>artinya <strong>a\u207f = b\n</strong></p><p>dengan syarat <strong>a &gt; 0, b &gt; 0, a \u2260 1\n</strong></p><p><u>Sifat-sifat logaritma</u>\n</p><ul><li>\u1d43log bc = \u1d43log b + \u1d43log c\n</li><li>\u1d43log (b/c) = \u1d43log b \u2013 \u1d43log c\n</li><li>\u1d43log b\u207f = n . \u1d43log b\n</li><li>[tex]^{a^{m}}log\\:b^{n} = \\frac{n}{m}[/tex] \u1d43log b \u21d2 [tex]^{a^{n}}log\\:b^{n}[/tex] = \u1d43log b\n</li><li>\u1d43log b = [tex]\\frac{^{c}log\\:b}{^{c}log\\:a}[/tex] \u21d2 \u1d43log b = [tex]\\frac{1}{^{b}log\\:a}[/tex]\n</li><li>\u1d43log b . \u1d47log d . \u1d48log n = \u1d43log n\n</li><li>[tex]a^{^{a}log\\:b} = b[/tex]\n</li><li>\u1d43log a = 1\n</li><li>\u1d43log 1 = 0\n</li><li>\u00b9\u2070log b = log b\n</li></ul><p><strong>Pertidaksamaan logaritma\n</strong></p><p>\u1d43log f(x) &gt; \u1d43log g(x)\n</p><ul><li>Jika 0 &lt; a &lt; 1 maka <strong>f(x) &lt; g(x)</strong> ==&gt; (Tanda &gt; berubah menjadi &lt;)\n</li><li>Jika a &gt; 1 maka <strong>f(x) &gt; g(x) </strong>==&gt; (Tanda &gt; tetap, tidak berubah)\n</li><li>Syarat: <strong>f(x) &gt; 0, g(x) &gt; 0\n</strong></li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p></p><p>Syarat: \u00a0</p><ul><li>1) (x \u2013 4) &gt; 0 \u21d2 <strong>x &gt; 4\n</strong></li><li>2) (x + 1) &gt; 0 \u21d2 <strong>x &gt; \u20131\n</strong></li></ul><p></p><p><strong>Penyelesaian\n</strong></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p>\u00b3\u2076log (x \u2013 4)(x + 1) &lt; \u00b3\u2076log [tex]36^{\\frac{1}{2}}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 + x \u2013 4x \u2013 4) &lt; \u00b3\u2076log [tex]\\sqrt{36}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 \u2013 3x \u2013 4) &lt; \u00b3\u2076log 6\n</p><p>(x\u00b2 \u2013 3x \u2013 4) &lt; 6\n</p><p>x\u00b2 \u2013 3x \u2013 10 &lt; 0\n</p><p>(x \u2013 5)(x + 2) &lt; 0\n</p><p>x = 5 atau x = \u20132\n</p><p></p><p><u>Garis bilangan\n</u></p><p>++++++ (\u20132) <strong>----------</strong> (5) ++++++\n</p><p>Karena kurang dari nol, maka ambil daerah yang negatif (antara \u20132 dan 5)\n</p><p></p><p><u>Irisan garis bilangan dengan syarat\n</u></p><p>.......... (\u20132) <strong>xxxxxxxxxxxxxxxxxx</strong> (5) .............\n</p><p>1) ............................. (4) <strong>xxxxxxxxxxxxxxxxx\n</strong></p><p>2) ...............( \u20131) <strong>xxxxxxxxxxxxxxxxxxxxxxxx\n</strong></p><p>Jadi irisannya adalah antara 4 dan 5, sehingga <strong>himpunan penyelesaiannya</strong> adalah:\n</p><p><strong>HP = {x | 4 &lt; x &lt; 5, x \u2208 R}\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang pertidaksamaan logaritma untuk 0 &lt; a &lt; 1\n</p><p>https://brainly.co.id/tugas/14458200\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel</strong> : Matematika Peminatan\n</p><p><strong>Kategori</strong> : Pangkat, Bentuk Akar dan Logaritma\n</p><p><strong>Kode</strong> : 10.2.3\n</p><p></p><p><strong>Kata Kunci</strong> : Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2\n</p>",
+                    "attachments": [
+                        "answer-attachments/himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-radian-25-putaran-963",
+            "question": "Ubahlah ke bentuk satuan derajat dan radian 2/5 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/5 x 360\u00b0 = 144\u00b0<br><br>144\u00b0 : 180\u00b0 =\u00a04/5 rad\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{5} [/tex] x 60 derajat = 12 derajat<br>radian = 12 x[tex] \\frac{\u03c0}{180} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u00a0[tex] \\frac{\u03c0}{15} [/tex] radian",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x32x2-15xk0-mempunyai-sepasang-akar-samanilai-k-a-501",
+            "question": "Persamaan x^3+2x^2-15x+k=0 mempunyai sepasang akar sama.nilai k adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan x\u00b3 + 2x\u00b2 - 15x + k = 0 mempunyai sepasang akar sama. Nilai\nk adalah\n\n\u00a0\n<br><br>Pembahasan :\n\n\u00a0\n<br><br>x\u00b3 + 2x\u00b2 - 15x + k = 0\n<br>\na = 1, b = 2, c = \u201315, d = k\n\n\u00a0\n<br><br>misal akar \u2013 akarnya adalah x\u2081, x\u2082 dan x\u2083 dengan x\u2081 = x\u2082\u00a0\u00a0\n<br><br>\n1) x\u2081 + x\u2082 + x\u2083 = \u2013b/a\n<br>\nx\u2082 + x\u2082 + x\u2083 = \u20132/1\n<br>\n2x\u2082 + x\u2083 = \u20132\n<br>\nx\u2083 = \u20132x\u2082 \u2013 2\n\n\u00a0\n<br><br>2) x\u2081x\u2082 + x\u2081x\u2083 + x\u2082x\u2083 = c/a\n<br>\nx\u2082x\u2082 + x\u2082x\u2083 + x\u2082x\u2083 = \u201315/1\n<br>\nx\u2082\u00b2 + 2x\u2082x\u2083 = \u201315\n\n\u00a0\n<br><br>x\u2082\u00b2 + 2x\u2082(\u20132x\u2082 \u2013 2) = \u201315\n<br>\nx\u2082\u00b2 \u2013 4x\u2082\u00b2 \u2013 4x\u2082 = \u201315\n<br>\n\u20133x\u2082\u00b2 \u2013 4x\u2082 + 15 = 0\n<br>\n3x\u2082\u00b2 + 4x\u2082 \u2013 15 = 0\n<br>\n(3x\u2082 \u2013 5)(x\u2082 + 3) = 0\n<br>\nx\u2082 = 5/3 atau x\u2082 = \u20133\n\n\u00a0\n<br><br>Jika x\u2082 = 5/3 maka x\u2081 = 5/3\n<br>\nx\u2083 = \u20132x\u2082 \u2013 2 <br>\n\nx\u2083 = \u20132(5/3) \u2013 2 <br>\n\nx\u2083 = \u201310/3 \u2013 6/3\n<br>\nx\u2083 = \u201316/3\n\n\u00a0\n<br><br>x\u2081 . x\u2082 . x\u2083 = \u2013d/a\n<br>\n5/3 . 5/3 . \u201316/3 = \u2013k/1\n<br>\n\u2013400/27 = \u2013k\n<br>\nk = 400/27\n\n\u00a0\n<br><br>Jika x\u2082 = \u20133 maka x\u2081 = \u20133\n<br>x\u2083 = \u20132x\u2082 \u2013 2\n<br>x\u2083 = \u20132(\u20133) \u2013 2 <br>x\u2083 = 6 \u2013 2\n<br>\nx\u2083 = 4\n\n\u00a0\n<br><br>x\u2081 . x\u2082 . x\u2083 = \u2013d/a\n<br>\n\u20133 . \u20133 . 4 = \u2013k/1\n<br>\n36 = \u2013k\n<br>k = \u201336\n\n\u00a0\n<br><br>Jadi nilai \n\nk = 400/27 atau k = \u201336 \n\n\u00a0<br><span><br>=============================================<span><br><br></span></span>\n\nKelas : 11<span><br>\nMapel : Matematika<br>\nKategori : Suku Banyak<br>\nKata Kunci : Akar \u2013 akar persamaan polinomial<br><span>Kode : 11.2.5 (Kelas 11 Matematika Bab 5 \u2013 Suku\nBanyak)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-permukaan-sebuah-kaleng-tanpa-tutup-tetapi-mempunyai-alas-de-336",
+            "question": "luas permukaan sebuah kaleng tanpa tutup tetapi mempunyai alas dengan diameter alas 20 cm dan tingginya 35 cm adalah ..\u00a0 \u00a0 (\u03c0=3,14)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas alas : <span>3,14 x 10 x 10 = 314<br>luas selimut : 3,14 x 20 x 35 = 2198<br>luas tabung tanpa tutup 314 + 2198 = 2512<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-salmah-menabung-uang-rp-2000000-di-koperasi-sentosa-selama-1-236",
+            "question": "Bu Salmah menabung uang RP 2.000.000 di koperasi SENTOSA selama 10 bulan. Jika bunga koperasi itu sebesar 12% per tahun, jumlah tabungan Bu Salmah adalah...    *tolong kasih tau caranya juga yaa, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga = 12% : 12 (12 bln) = 1 %. 10 bln = 10%, 10 % \u00d7 2000.000 = 200.000,,,, tabungan = 2200.000... maaf kalau salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-laporan-arus-kas-455",
+            "question": "Apa yang dimaksud dengan laporan arus kas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Laporan arus kas<span>\u00a0(</span><span>adalah bagian dari\u00a0</span>laporan keuangan<span>\u00a0suatu perusahaan yang dihasilkan pada suatu</span>periode akuntansi<span>\u00a0yang menunjukkan aliran masuk dan keluar\u00a0</span>uang<span>\u00a0(kas) perusahaan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "adalah bagian dari\u00a0laporan keuangan\n\u00a0suatu perusahaan yang dihasilkan pada suatuperiode akuntansi\n\u00a0yang menunjukkan aliran masuk dan keluar\u00a0uang\n\u00a0(kas) perusahaan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

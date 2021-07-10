@@ -1,0 +1,134 @@
+{
+    "question": "Apa yang di maksud kohesi beserta contohnya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-balok-a-dan-b-di-atas-bidang-datar-licin-dihubungkan-dengan-389",
+            "question": "Dua balok A dan B di atas bidang datar licin, dihubungkan dengan tali dan ditarik dengan gaya mendatar F=100 N hingga mengalami percepatan tetap a . Jika massa balok A=30 kg dan massa balok B=20 kg, maka gaya tegangan tali T dan a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F =100 \u00a0N<br>\u00a0 \u00a0 \u00a0ma = 30 kg dan mb = 20 kg<br>Dit T ?<br><br>T =\u00a0[tex] \\frac{ma}{ma+mb}. F [/tex]<br><br>T =\u00a0[tex] \\frac{30}{30 + 20} . 100 N  [/tex] = 3000 / 50 = 60 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dinding-bendungan-selalu-di-bangun-dengan-konsep-bagian-bawah-leb-672",
+            "question": "Dinding bendungan selalu di bangun dengan konsep bagian bawah lebih tebal daripada bagian atas. mengapa demikian? jelaskan.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk mencegah kebocoran . karena semakin ke dalam,tekanan air semakin besar sehingga diperlukan dinding yg tebal",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada bendungan, tekanan air yang berada didasar bendungan sangat besar yang mampu membuat bendungan jebol. Jadi agar bendungan dapat menampung air dengan jumlah banyak dibuatlah bendungan dengan dinding bagian bawah lebih tebal dari dinding bagian atas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-seutas-kawat-baja-dengan-panjang-3m-dan-luas-penampang-015-924",
+            "question": "Pada seutas kawat baja dengan panjang 3m dan luas penampang 0,15 cm\u00b2 digantungkan sebuah beban bermassa 500 kg (g= 9,8m/s\u00b2). tentukan    a. tetapan gaya kawat\r\nb. pertambahan panjang kawat\r\n(modulus elastis baja= 2,0 \u00d7 10^{11}\u00a0 N/m\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.F=k.<span>\u2206x<br>\u00a0 m.g=k.</span><span>\u2206x<br>\u00a0 500.9,8=k.3<br>\u00a0 k=</span>[tex] \\frac{4900}{3} [/tex]=1.633<br>b.<br>F/A=1.633/0,0015=108866<br>pertambahan panjang kawat=e.l=F/A=1.633/0,0015=108.2,0.10^{11}.<br>=216.10^{11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-diam-didorong-dengan-gaya-100-n-sehingga-2-s-kemudia-104",
+            "question": "Sebuah benda diam didorong dengan gaya 100 N sehingga 2 s kemudian kecepatannya menjadi 20 m/s . Empat sekon kemudian benda menabrak dinding dan memantul . Kecepatan benda sekarang menjadi 2o m/s . tentukan :    a. kecepatan benda sesaat sebelum menabrak dinding\r\nb. momentum benda saat menabrak dinding\r\nc. impuls yang diberikan dinding pada benda\r\nd. selang waktu benda bersentuhan dengan dinding",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.t = 4 s<br>\u00a0a= 20m/s\u00f72s = 10m/s\u00b2 <br>\u00a0 V= Vo+ a.t= 20m/s + 10m/s\u00b2.4s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20m/s + 40m/s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60 m/s<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-kubus-memiliki-volume-1-m3-volume-tangki-tersebut-355",
+            "question": "Sebuah tangki kubus memiliki volume 1 m3. Volume tangki tersebut menurut pengamat yang bergerak dengan kecepatan 0,8c sepanjang rusuk kubus adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt=panjang pengamat<br>L0=panjang diam<br>Lt=Lo(1-v^2/c^2)^1/2<br>Lt=Lo(1-0,64c^2/c^2)^1/2<br>Lt=Lo(0,36)^1/2<br>Lt=Lo(0,6)<br>1m^3=1000dm^3=1000 liter<br>panjangnya diamnya = (1000)^1/3 dm<br>=1 dm = 10 cm<br><span>Lt=10.0,6= 6cm</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-ac-massanya-40-kg-dan-panjangnya-3-m-ditumpu-pada-ti-801",
+            "question": "suatu batang ac massanya 40 kg dan panjangnya 3 m ditumpu pada titik a dan b . seorang anak bermassa 25 kg berjalan dari a menuju c . jika jarak ab = 2 m dan percepatan gravitasi 10 m/s2 , berapakh jarak minimum anak tersebut dari titik\u00a0c agar papan tetep seimbang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesalahan soal ..#jarak AC adlah 2 m<br>poros di c<br>\u03b5\u03c4=0<br>0.5*400-250*x=0<br>x=0.2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-masssa-jenisnya-sama-dengan-massa-jenis-air-p-b-396",
+            "question": "sebuah benda yang masssa jenisnya sama dengan massa jenis air p beradda pada dasar air dalamnya h. jika percepatan grafitasi g, massa benda m, dan volume benda V, besar gaya normal dari dasar kolam pada benda adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau massa jenis benda sama dengan massa jenis air, maka ketika benda berada di dalam air , benda akan melayang <br>jadi gaya normal yang diberikan oleh dasar kolam pada benda sama dengan nol. :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "es-bermassa-x-gram-pada-suhu-10c-dicampur-dengan-y-gram-air-b-396",
+            "question": "Es bermassa X gram pada suhu - 10\u00b0C dicampur dengan Y gram air bersuhu 60\u00b0C. Jika suhu akhir yang dicapai 20\u00b0C, kalor lebur es 80kal/g, dan kalor jenis es 0,5 kal/g\u00b0C, nilai perbandingan X per Y adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Q TOTAL ES = Q total AIR (tau kan grafik es jadi air ?) <br>Q1 + QL + Q2 = Q3 <br>m1 . c(es) . \u0394T + m1 . Lf + m1 . c(air) . \u0394T\u00a0 = m2 . c(air) .\u0394T\u00a0 <br>X ( 0.5 . 10 + 80 + 20 ) = Y . 40 ( x dikeluarkan agar mudah itungnya)<br>X/Y = 40/105 = 8/21 <br>kalau bingung tanya aja ya <br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-percobaan-dengan-bola-kasti-dan-kelereng-diluncurkan-pada-457",
+            "question": "dalam percobaan dengan bola kasti dan kelereng, diluncurkan pada bidang miring dengan kemiringan kurang lebih 40 derajar dimana percobaan tersebut dilakukan di bidang licin (lantai) dan dirumput, setelah percobaan dilantai ternyata kelereng menempuh jarak lebih jauh dibanding kasti sedangkan saat dirumput bola kasti yang menempuh jarak lebih jauh, mengapa demikian?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena pada saat kelereng meluncur di bidang licin klereng miliki kcepatan\u00a0yng lbih cepat d banding bola kasti sedangkann pada saat di rumput bola kasti memng cepat krena bola di desain mmang untuk rmput. :D<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena\u00a0<br>1. pada bidang licin tekanan kelereng lebih kecil dan luas permukaan kelereng yang licin menyebabkan\u00a0\u00a0gaya gesek yang di timbulkan sedikit namun pada bidang yang kasar tekanan kelereng mengalami gaya gesek yang besar karena ukuranya kecil dan masanya besar sehingga gaya yang bekerja pada kelereeg hanya sedikit jadi tidak dapat menempuh jarak yang jauh<br><br>2. pada bidang yang licin bola memiliki masa yang besar namun luas permukaan bola kasti yang kasar menyebabkan terjadinya gaya gesek yang lebih besar sehingga jarak yang di tempuh tidak begitu jauh.\u00a0namun pada bidang yang kasar gesekan antara rumput dan bola kasti yang terjadi hanya sedikit karena ukuranya yang besar dan massanya yang ringan\u00a0menyebabkan bola kasti dapat melakukan gesekan yang kecil\u00a0dengan rumput\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "question": "jika sebuah benda di celupkan kedalam air, maka 1/3 bagiannya muncul ke permukaan. jika benda tsb dicelupkan ke dalam larutan yang besar massa jenisnya 8/9 g/cm^3, maka bagian yang muncul dipermukaan larutan adlah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pb = massa jenis benda<br>pf = massa jenis larutan<br>Vb = volum benda<br>Vbf = volum benda tercelup<br>pf air = 1 g/cm^3<br><br>Vbf = (1 - 1/3)Vb<br>Vbf = 2/3Vb<br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>(pb)(Vb) = (pf)(2/3Vb)<br>pb = 2/3 .... (1)<br><br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>subtitusi (1) ke persamaan, didapat<br>(2/3)(Vb) = (8/9)(Vbf)<br>Vb = 4/3Vbf<br>Vbf = 3/4Vb<br>yg muncul dipermukaan = Vb - Vbf = Vb - 3/4Vb = 1/4Vb (1/4 bagian)<br><br>CMIIW :3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seseorang-bermassa-60-kg-menumpang-diujung-belakang-sebuah-perahu-339",
+            "question": "seseorang bermassa 60 kg menumpang diujung belakang sebuah perahu bermassa 200 kg yang bergerak dengan kecepata 1 m/s. jika kemudian orang itu melompat horizontal keluar dari perahu dengan kecepatan 2 m/s berlawanan arah dengan arah gerak perahu, maka berapa m/s kecepatan perahu sesaat setelah orang itu melompat? (gaya gesekan diabaikan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Momentum\u00a0<br><span>Kelas: XI SMA IPA\u00a0</span><br><br>Pembahasan:<br><br><span>Kecepatan perahu sesaat setelah orang itu melompat adalah 1,9 m/s<br></span><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seseorang-bermassa-60-kg-menumpang-diujung-belakang-sebuah-perahu-339-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-masssa-jenisnya-sama-dengan-massa-jenis-air-p-b-396",
+            "question": "sebuah benda yang masssa jenisnya sama dengan massa jenis air p beradda pada dasar air dalamnya h. jika percepatan grafitasi g, massa benda m, dan volume benda V, besar gaya normal dari dasar kolam pada benda adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau massa jenis benda sama dengan massa jenis air, maka ketika benda berada di dalam air , benda akan melayang <br>jadi gaya normal yang diberikan oleh dasar kolam pada benda sama dengan nol. :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-tegar-dikenai-gaya-8-n-dengan-titik-tumpu-gaya-berja-360",
+            "question": "Sebuah benda tegar dikenai gaya 8 N dengan titik    tumpu gaya berjarak 24 cm dari pusat rotasi dan membentuk sudut 150 \r\n drajad. tentukanlah torsi yang terjadi pada benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "torsi= f x l<br>=8 x0,24m<br>=1,92<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-murni-pada-bidang-miring-dengan-s-256",
+            "question": "Sebuah bola pejal menggelinding murni    pada bidang miring dengan sudut\r\n kemiringan \u03b8. Berapakah percepatan\r\n linear bola tersebut jika diketahui\r\n percepatan gravitasinya g?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Inersia untuk bola pejal:\u00a0</span><br><span>I = \u2156 MR\u00b2\u00a0</span><br><br><span>Translasi:\u00a0</span><br><span>mg sin\u03b8 - fk = m a .....(1)\u00a0</span><br><br><span>Rotasi:\u00a0</span><br><span>fk R = I \u03b1\u00a0</span><br><span>fk R = \u2156MR\u00b2 a/R\u00a0</span><br><span>fk = \u2156 m a ... (2)\u00a0</span><br><br><span>substitusi (2) ke (1)\u00a0</span><br><span>mg sin\u03b8 - fk = m a\u00a0</span><br><span>mg sin\u03b8 - \u2156 m a = m a\u00a0</span><br><span>coret m\u00a0</span><br><span>g sin\u03b8 - \u2156 a = a\u00a0</span><br><span>g sin\u03b8 = \u2077/\u2085 a\u00a0</span><br><span>a = \u2075/\u2087 g sin\u03b8</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-10-ppm-berapa-mililiter-132",
+            "question": "Dalam 10 ppm berapa mililiter",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1 mg / L = 1 PPM<br>10ppm= 10mg/l<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "satuan 1 mg / L diubah kedalam ppm adalah\u00a0\u00a01 ppm<br>jika ditanya\u00a010ppm diubah ke\u00a0mg/l\u00a0<br>maka hasilnya adalah\u00a010mg/l<br><br>jadi ,10 ppm= 10 mg/l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-koefisin-restitusi-pada-a-tumbukan-lentingelas-398",
+            "question": "Tuliskan rumus koefisin restitusi pada :     a. tumbukan lenting(elastis) sempurna\r\nb. tumbukan lenting(elastis) sebagian\r\nc. tumbukan lbola dengan lantai",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus koefisien restitusi untuk tumbukan di bidang mendatar adalah <br><br>[tex]e=- \\frac{v&#039;_{2}-v&#039;_{1}}{v_{2}-v_{1}} [/tex] <br><br>(a). Untuk <span>tumbukan lenting (elastis) sempurna<br>\u00a0\u00a0 \u00a0 \u00a0  e = 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga v&#039;\u2082 - v&#039;\u2081 = v\u2081 - v\u2082<br><br>(b). </span><span>tumbukan lenting (elastis) sebagian</span><span><br>\u00a0\u00a0 \u00a0 \u00a0 0 &lt; e&lt; 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga rumus koefisien restitusi di atas akan memiliki nilai sesuai nilai e\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 di soal\u00a0 \u00a0 \u00a0 <br><br>(c). tumbukan bola dengan lantai<br>\u00a0\u00a0 \u00a0 \u00a0 rumus koefisien restitusinya adalah <br>\u00a0\u00a0 \u00a0 \u00a0  [tex]e= \\sqrt{ \\frac{h&#039;}{h} } [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0 dengan h = ketinggian sebelum memantul (mengarah ke bawah)<br>\u00a0\u00a0 \u00a0 \u00a0 dan h&#039; = ketinggian sesudah pantulan</span> <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-a-dan-b-masing-bermassa-4kg-dan-3kg-dihubungkan-d-572",
+            "question": "dua buah benda A dan B masing\" bermassa 4kg dan 3kg dihubungkan dengan tali (massa tali diabaikan) melalui sebuah katrol bermassa 2kg dan berjari-jari 20cm. jika benda berputar dengan tali, percepatan setiap benda adalah... (g=10m/s\"kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mA : 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0mB : 3 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 g \u00a0 : 10 m/s^2<br>dit : a ??<br><br>penyy : (mA-mB)/(mA+mB).g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 1/7.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0: 1,42 = 1,5 \u00a0m/s^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-penampang-piston-i-sama-dengan-5-kali-piston-ii-j-742",
+            "question": "Diketahui luas penampang piston I sama dengan 5 kali piston II. Jika pada piston I diberi beban 4Kg, berapa beban yang harus diberikan pada pisto II agar sistem dalam keadaan seimbang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Penerapan hukum Pascal yaitu pada pengungkit hidrolik. Rumus pada hukum Pascal yaitu F\u2081/A\u2081 = F\u2082/A\u2082. </p><br><h3>Pembahasan</h3><p>Berdasarkan soal diatas diketahui bahwa:</p><ul><li>luas penampang piston I sama dengan 5 kali piston II -&gt; A\u2081 = 5, A\u2082 = 1</li></ul><ul><li>Jika pada piston I diberi beban 4Kg -&gt; m = 4 kg</li></ul><p>Adapun yang ditanyakan pada soal adalah menentukan gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang (F\u2082).</p><p>Untuk menyelesaikan soal diatas pertama - tama kita mencari gaya beban pada penampang I terlebih dahulu dengan cara sebagai berikut:</p><p>F\u2081= m \u00d7 g</p><p>F\u2081= 4 \u00d7 10</p><p>F\u2081 = 40 N</p><p>Nah, setelah diketahui gaya beban penampang piston I, maka langkah yang digunakan untuk mencari gaya beban pada penampang piston II yaitu sebagai berikut:</p><p>F\u2081/A\u2081 = F\u2082/A\u2082</p><p>40/5 \u00a0= F\u2082/1</p><p>40 \u00d7 1 = F\u2082 \u00d7 5</p><p>40 = F\u2082 \u00d7 5</p><p>F\u2082 = 40/5</p><p>F\u2082 = 8 N</p><p>Dengan demikian dapat disimpulkan bahwa besarnya gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang adalah <strong>8 N.</strong></p><br><h3>Pelajari lebih lanjut</h3><p>1. gaya minimum pada penampang kecil: https://brainly.co.id/tugas/15635353</p><p>2. gaya untuk mengangkat mobil: https://brainly.co.id/tugas/15761778</p><p>3. gaya untuk mengangkat beban: https://brainly.co.id/tugas/15814409</p><br><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> fluida</p><p><strong>Kode:</strong> 8.6.3</p><br><p><strong>Kata kunci:</strong> Hukum pascal, gaya tekan dan luas penampang</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

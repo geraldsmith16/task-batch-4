@@ -1,0 +1,148 @@
+{
+    "question": "Dua celah sempit yang terpisah pada jarak 0.2mm disinari tegak lurus. Garis terang ketiga terletak 7,5mm dari garis terang ke nol pada layar yang jaraknya 1m dari celah. Panjang gelombang sinar dipakai adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dy/l=n\u03bb untuk terang<br>0,2mm x 7,5mm/1000mm=3\u03bb<br>\u03bb=5x[tex] 10^{-4} [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "Dik d = 0.2 mm = 2 x 10^-4 m<br>\u00a0 \u00a0 \u00a0 m = 3<br>\u00a0 \u00a0 \u00a0 p = 7,5 mm = 7,5x10^-3 m<br>\u00a0 \u00a0 \u00a0 l = 1m\u00a0\u00a0<br>Dit\u00a0\u03bb ?<br>jawab.<br><br>d.p = m.l.\u03bb<br><br>0,2x10^-4 . 7,5 x 10^-3\u00a0= 3.1 .\u03bb<br><br>\u03bb =\u00a0[tex] \\frac{2x10^-4 . 7,5x10^-3}{3} [/tex] =\u00a0[tex] \\frac{15x10^-7}{3} [/tex] = 5x10^-7 m<br><br>",
+            "attachments": [
+                "answer-attachments/dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540",
+            "question": "Lempengan Logam berbentuk persegi dengan ukuran seperti gambar dengan suhu 40 celcius. Tentukan pertambhan luas logam tersebut jika suhunya dinaikkan sampai 160 C (\u03b1 = 25 * 10^-6 / C)\u00a0",
+            "attachments": [
+                "question-attachments/lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]\\triangle{A} = A_0 \\beta T[/tex]<br>[tex]=A_0(2 \\alpha )(T_2-T_1)[/tex]<br>[tex]=(60)^2(2*25*10^{-6})(160-40)\n=21,6 cm^2[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-penerus-dari-mesin-bubut-memeiliki-diameter-10-cm-dan-ma-400",
+            "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-prinsip-kerja-termometer-bimetal-dan-termometer-kris-881",
+            "question": "Bagaimanakah prinsip kerja termometer bimetal dan termometer kristalcair",
+            "attachments": [
+                "question-attachments/bagaimanakah-prinsip-kerja-termometer-bimetal-dan-termometer-kris-881-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Bimetal : Prinsipnya, makin besar suhu makin melengkung untuk menunjukkan suhu yang lebih besar. \nKristal cair : terdapat keistal cair yg warnany dpt berubah jka suhu berubah. kristal ini dikemas dlm plastik tipis,utk menukur suhu tubuh,suhu akuarium,dan sebagainya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328",
+            "question": "Setiap sekon di matahari terjadi perubahan 4\u00a0x\u00a010^9 kg materi menjadi energi\u00a0radiasi. apabila laju cahaya dalam vakum adalah 3 x 10^10 cm/s, daya yang dipancarkan oleh matahari adalah..    a. 3,6 x 10^30 watt\r\nb. 5,0 x 10^30 watt\r\nc. 1,2 x 10^18 watt\r\nd. 3,6 x 10^26 watt\r\ne. 1,2 x 10^26 watt",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika- relativitas<br>Kelas : 12 sma<br>Pembahasan : jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kegunaan-dari-pompa-hidrolik-adalah-185",
+            "question": "Kegunaan dari pompa hidrolik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pompa hidrolik adalah komponen yang paling dominan. Fungsi daripada pompa adalah \nuntuk mengubah energi mekanik menjadi energi hidrolik dengan cara \nmenekan fIuida hidrolik ke dalam sistem.<br>Dalam sistem hidrolik, pompa\n merupakan suatu alat untuk menimbulkan atau membangkitkan aliran fluida\n (untuk memindahkan sejumlah volume fluida) dan untuk memberikan gaya \nsebagaimana diperlukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pompa hidrolik berfungsi untuk mentransfer energi mekanik menjadi energi hidrolik.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengukur-tegangan-dan-kuat-arus-listrik-dengan-men-939",
+            "question": "Bagaimana cara mengukur tegangan dan kuat arus listrik dengan menggunakan basic meter?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake Tangan.............................<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\n<span>2.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Pasanglah catu daya pada\ntegangan tertentu</span>\n<span>\n<span>3.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Baca skala pada ampermeter</span>\n<span>\n<span>4.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Ulangi langkah 2-3 untuk\ntegangan sumber yang berbeda.</span>\n<span>\n<span>b.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Volt meter dan ohm meter</span>\n<span>\n<br><span>\n  <span>\n<span>\n   <br></span>\n<span>\n   <br></span>\n</span></span>\n<br><br>1. Rangkailah alat\nseperti gambar</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n1=Volt meter/ ohm meter</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n2= catu daya </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02. Pasanglah catu daya pada tegangan\ntertentu</span>\n<span>\n\u00a03. Baca skala pada volt meter</span>\n<span>\n\u00a04. Matikan catu daya dan bacalah skala pada\nohm meter </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n<span>\u00a05. Ulangi langkah 2-4 untuk tegangan sumber\nyang berbeda<br><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "momen-inersia-untuk-bola-berongga-dengan-jari-jari-r-adalah-499",
+            "question": "Momen inersia untuk bola berongga dengan jari-jari r adalah......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setau saya bola tipis berongga<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0I = 2/3 mrkuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "I = 2/3 mR\u00b2 menurut yang saya pelajari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-penampang-a-adalah-13-kali-luas-penampang-b-jika-gaya-yang-179",
+            "question": "luas penampang a adalah 1/3 kali luas penampang b jika gaya yang bekerja pada piston a sebesar 6 n , berapakah gaya pada piston b .... N mohon bantuannya yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F1 :\u00a0A1 = F2 :\u00a0A2<br>6N : 1/3 b = F 2 : b<br>18 N = F2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287",
+            "question": "pompa hidrolik mempunyai perbandingan diameter pengisap 1:40. apabila pada pengisap besar dimuati beban 32000N, maka agar seimbang, pada pengisap kecil harus diberi gaya sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\nBesar gaya yang dibutuhkan pada penampang kecil agar setimbang adalah 20 N</p><h3>Pembahasan \u00a0</h3><p>Pada soal ini dapat diselesaikan dengan konsep fluida statis \u00a0</p><p>Jawaban:\n</p><p>\nUntuk mencari besar gaya yang dibutuhkan pada penampang kecil kita gunakan hubungan tekanan pada bejane berhubungan</p><p>[tex]P_1=P_2\\\\\\frac{F_1}{A_1} =\\frac{F_2}{A_2} \\\\F_1A_2=F_2A_1\\\\F_1d_2^2=F_2d_1^2\\\\F_1*40^2=32000*1^2\\\\F_1=20\\; N[/tex]</p><p>Materi lebih lanjut terkait dengan fluida statis dapat dipelajari pada link berikut ini\n</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Archimedes https://brainly.co.id/tugas/20707089\n</p><p>2.Materi tentang Fluida statis https://brainly.co.id/tugas/5289680\n</p><p>3.Materi tentang Tegangan permukaan https://brainly.co.id/tugas/4439825\n</p><p>4.Materi tentang Fluida tidak bergerak https://brainly.co.id/tugas/20806499\n</p><p>5.Materi tentang fluida statis https://brainly.co.id/tugas/208110482\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 3 - Fluida Statis\n</p><p><strong>Kode</strong>: 11.6.3\n</p><p>\n</p><p><strong>Kata Kunci:</strong> Archimedes, pascal, fluida statis\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-ac-massanya-40-kg-dan-panjangnya-3-m-ditumpu-pada-ti-801",
+            "question": "suatu batang ac massanya 40 kg dan panjangnya 3 m ditumpu pada titik a dan b . seorang anak bermassa 25 kg berjalan dari a menuju c . jika jarak ab = 2 m dan percepatan gravitasi 10 m/s2 , berapakh jarak minimum anak tersebut dari titik\u00a0c agar papan tetep seimbang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesalahan soal ..#jarak AC adlah 2 m<br>poros di c<br>\u03b5\u03c4=0<br>0.5*400-250*x=0<br>x=0.2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

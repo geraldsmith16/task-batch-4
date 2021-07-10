@@ -1,0 +1,137 @@
+{
+    "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+            "attachments": []
+        },
+        {
+            "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-dari-32-15-125-13-81-12-adalah-738",
+            "question": "Nilai dari 32 1/5 - 125 1/3 + 81 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari 32^ 1/5 - 125^ 1/3 + 81^ 1/2 adalah ...</p><p>Soal diatas menrupakan materi Eksponen yang berpangkat pecahan. Kemungkinan ini soal UN Matematika SMK.</p><p><u><strong>Sifat-sifat Perpangkatan </strong></u></p><p>[tex]$\\begin{align} \\ a^{m}\\times a^{n} &amp;= a^{m + n} \\end {align}[/tex]</p><p>[tex]$\\begin{align} \\ \\frac{ a^{m} }{ a^{n} } &amp;= a^{m - n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (ab)^{n} &amp;= a^{ n} \\times \\ b^{n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (a:b)^{n} &amp;= a^{ n} : b^{n} \\end{align}[/tex]</p><p>Lebih lengkapnya silahkan lihat lampiran II</p><p></p><h2>Pembahasan</h2><p><strong>Menentukan nilai perpangkatan pecahan</strong></p><p>[tex]$\\begin{align} \\ 32^{\\frac{1}{5}} - 125^{\\frac{1}{3}} + 81^{\\frac{1}{2}} &amp; = (2^{ 5})^{\\frac{1}{5}} - (5^{3})^{\\frac{1}{3}} + (3^{ 4})^{\\frac{1}{2}} \\\\ &amp; = 2^{5 \\times \\frac{1}{5}} - 5^{3 \\times \\frac{1}{3}} + 3^{4 \\times \\frac{1}{2}} \\\\ &amp; = 2 - 5 + 3^{2} \\\\ &amp; = -3 + 9 \\\\ &amp; = 6\\end{align}[/tex]</p><p>Untuk penulisannya bisa dilihat pada lampiran I</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Eksponen dan bentuk Akar</h3><ol><li>Jika a = 1/9, b = 16 dan c = 125, maka nilai dari 2. a^(-1/2) - b^(1/4) + c^(1/3) adalah \u2192 https://brainly.co.id/tugas/14065011</li><li>Menyederhanakan perkalian bentuk pangkat \u2192 brainly.co.id/tugas/1774225</li><li>Menghitung perpangkatan negatif\u00a0\u2192\u00a0brainly.co.id/tugas/3777097</li><li>Sifat ekponen dan logaritma\u00a0\u2192\u00a0brainly.co.id/tugas/11181034</li><li>Pangkat pecahan \u2192\u00a0brainly.co.id/tugas/6055009</li><li>Soal cerita perpangkatan \u2192 https://brainly.co.id/tugas/3116750</li></ol><h3>Detil Jawaban</h3><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 10\u00a0SMA</p><p>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Matematika\u00a0</p><p>Kategori \u00a0 \u00a0 : Bab 1 - Eksponen dan Bentuk Akar</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 10.2.1</p><p>Kata kunci : nilai dari, pangkat pecahan</p><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": [
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-1.jpg",
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ditembakan-vertikal-ke-atas-mencapai-tinggi-h-met-626",
+            "question": "sebuah\u00a0roket ditembakan vertikal\u00a0ke atas\u00a0mencapai tinggi h meter setelah t detik dirumuskan dengan h(t)=\u00a0400t-5t\u00b2 tinggi maximum roket adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk mencari nilai tinggi maximum nya, yaitu dengan mencari nilai t pada\u00a0turunan pertamanya<br>h(t) = 400t-5t<span>\u00b2<br>h(t) = 400 - 10t<br><br>0 = 400 - 10t // pindah ruas<br>10t = 400<br>t = 400/10 = 40 \u00a0&lt;-- maka tinggi maksimu terjadi saat t=40<br><br>dan nilai ketinggian maksimunya adalah<br>h(t) = 400t - 5t</span><span>\u00b2<br>h(t) = 400 (40) - 5 (40</span><span>\u00b2)<br></span><span>\u00a0 \u00a0 \u00a0\u00a0= 16000 - 8000 = 8000 meter<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-dua-sudut-yang-berkomplemen-adalah-474",
+            "question": "Besar dua sudut yang berkomplemen adalah ..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 kalo ngakkk salahhhh dehhh...",
+                    "attachments": []
+                },
+                {
+                    "answer": "audut komplemen adalah dua buah sudut lancip yg besarnya 90derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-mencatat-hsil-panenanya-slma-11-hari-jka-hsil-prt-526",
+            "question": "Seorang petani mencatat hsil panenanya slma 11 hari, jka hsil prtma 15 kg dan mengalami kenaikan tetap sbsr 2 kg setiap hari, maka jmlh hsil panen yg di catat adalah ???    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seorang petani mencatat hasil panenanya selama 11 hari, jika hasil pertama 15 kg dan mengalami kenaikan tetap sebesar 2 kg setiap hari, maka jumlah hasil panen yg di catat adalah ...</p><p><strong>Barisan aritmetika</strong> adalah barisan bilangan dengan hasil pengurangan setiap suku dengan suku sebelumnya selalu sama atau tetap.</p><p>Suku ke-n \u00a0\u00a0\u2192 \u00a0\u00a0Un = a + (n - 1) b</p><p><strong>Deret aritmetika</strong> adalah penjumlahan dari suku-suku suatu barisan aritmetika.</p><p>Jumlah n suku pertama \u2192 \u00a0\u00a0Sn = n/2 [2a + (n - 1) b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau Sn = n/2 (a + Un)</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>hasil panen pertama (a) = 15 kg</p><p>kenaikan hasil panen (b) = 2 kg</p><p>lama panen (n) = 11 hari</p><p>Ditanya :</p><p>jumlah hasil panen yg dicatat (Sn) ?</p><p><u><strong>Jawab :</strong></u></p><p><strong>Jumlah hasil panen yang dicatat selama 11 hari</strong></p><p>Sn = \u207f/\u2082 [2a + (n - 1) b]</p><p>S\u2081\u2081 = \u00b9\u00b9/\u2082 [2 (15) + (11 - 1) 2]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 [30 + 20]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 \u00d7 50</p><p> \u00a0 \u00a0 = 11 \u00d7 25</p><p> \u00a0 \u00a0 = 275</p><p>Jadi jumlah hasil panen yang dicatat adalah 275 kg</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan dan Deret</h3><ol><li>Andri berhutang pada Beny 20 bulan akan lunas, bulan pertama Andri membayar Rp. 25.000,00 , bulan kedua Rp. 27.000,00 dan seterusnya, maka hutang Andri \u2192 https://brainly.co.id/tugas/14993248</li><li>Suku ke-8 suatu deret aritmatika = 20, \u00a0jumlah suku ke-2 dengan suku ke-5 adalah 4. Jumlah 20 suku pertama \u2192 brainly.co.id/tugas/15253327</li><li>Hitunglah jumlah semua bilangan asli antara 16 dan 394 yang habis dibagi 3, tetapi tidak habis di bagi 5 \u2192 brainly.co.id/tugas/21032962</li><li>Jumlah tiga bilangan barisan aritmatika = 45, jika suku kedua di kurangi 1 dan suku ke 3 di tambah 5, maka barisan tersebut menjadi barisan geometri \u2192 brainly.co.id/tugas/6359670</li><li>Lima bilangan positif membentuk barisan aritmatika naik. Jika jumlahnya adalah 30 adalah hasil kalinya adalah 3840. \u2192 brainly.co.id/tugas/268190</li></ol><h3>Detil Jawaban \u00a0</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 11 SMA \u00a0</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 7 - Barisan dan Deret</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 11.2.7</li><li>Kata kunci : barisan aritmetika, soal cerita, jumlah hasil panen</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-suatu-segitiga-siku-siku-adalah-48cm-salah-satu-sudut-l-715",
+            "question": "keliling suatu segitiga siku-siku adalah 48cm. salah satu sudut lancipnya 36,8\u00b0. hitunglah panjang sisi-sisi segitiga tersebut ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satu sudut lancip = 36,8\u00b0 <br>\nsudut lancip yg lain  = 90 - 36,8 = 53,2\u00b0 <br>\ngunakan perbandingan sinus,  <br>\nx/sin 36,8 = y/sin53,2 = r/sin90 <br>\nx = rsin36,8 <br>\ny = rsin53,2 <br>\nkeliling = 48 <br>\nrsin36,8 + rsin53,2 + r = 48 <br>\nr = 48/(1+sin36,8+sin53,2) \u2248 20 <br>\ningat perbandingan phytagoras: <br>\n3 : 4 : 5 = 12 : 16 : 20 <br>\njadi panjang sisi-sisi segitiga tersebut adalah 12, 16 dan 20 cm. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-3-dan-suku-ke-6-suatu-barisan-aritmatika-bertur-826",
+            "question": "Diketahui suku ke-3 dan suku ke-6 suatu barisan aritmatika berturut-turut 14 dan 29. suku ke-12 barisan tersebut adalah ......    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pers 1. \n14=a+2b\npers 2.\n29=a+5b\n\nmenggunakan metode eliminasi maka mendapatkan beda = 5,kemudian di subtitusikan ke pers. 1 maka didapat a/suku pertama =4\nslanjutx dgan menggunakan rumus a+(n-1)b,diperoleh hasil U12/suku ke-12 adalah 59..",
+                    "attachments": []
+                },
+                {
+                    "answer": "u3 = 14 = a+2b<br>u6 = 29 = a+5b<br>di eleminasi<br>-3b = -15<br>b = 5<br>nah kalau mau nyari a tinggal disubtitusi<br>misalnya pake yang u3<br>a+2b = 14<br>a+2(5) = 14<br>1=14-10 = 4<br>kalu udh ketemu tinggal dicantumkan deh<br>u12 = a+11b<br>u12 = 4+11\u00d75<br>u12 = 4 + 55<br>u12 = 59<br>Tolong dijadikan terbaik ya<br>Plisss banget<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fungsi-gx-2x-1-dan-fogx-4x26x-2-rumus-fungsi-359",
+            "question": "Diketahui fungsi g(x) =2x-1 dan (fog)(x) =4x\u00b2+6x-2. rumus fungsi f(x) +=...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> g(x) = 2x-1 dan (fog)(x) = 4x\u00b2+6x-2<br>misal g(x) = y<br>y = 2x - 1<br>2x = y + 1<br>x = [tex] \\frac{1}{2} [/tex](y + 1)<br>f(g(x)) =</span>4x\u00b2+6x-2<br>f(y) = 4[tex] ( \\frac{y + 1}{2} )^{2} [/tex]\u00a0 + 6[tex] (\\frac{y + 1}{2} )[/tex] - 2<br>f(y) = 4[tex] ( \\frac{y^{2} + 2y + 1}{4} ) [/tex]\u00a0 + 6[tex] (\\frac{y + 1}{2} )[/tex] - 2<br>f(y) = [tex] y^{2} [/tex] + 2y + 1 + 3(y + 1) - 2<br>f(y) = [tex] y^{2} [/tex] + 2y + 1 + 3y + 3 - 2<br>f(y) = [tex] y^{2} [/tex] + 5y + 2<br>f(x) = [tex] x^{2} [/tex] + 5x + 2<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

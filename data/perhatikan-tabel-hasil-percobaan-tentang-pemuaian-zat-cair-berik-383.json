@@ -1,0 +1,136 @@
+{
+    "question": "(Perhatikan tabel hasil percobaan tentang pemuaian zat cair berikut ini.)    Jenis Zat cair~Volume pada suhu30 derajad C(ml)~Volume pada suhu80derajad C(ml)\r\n\r\nAir \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0404,2\r\nMinyak goreng \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 414,5\r\n Alkohol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0422,0\r\na. Rumuskan masalah yang sesuai dengan tabel di atas!\r\nb. Berdasarkan masalah dan data tabel tersebut, apa kesimpulannya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Masalah yang sesuai dengan tabel adalah <strong>perbedaan volume setelah zat cair dengan volume sama dipanaskan pada perubahan suhu yang sama.</strong></p><p>Kesimpulan berdasarkan masalah dari tabel adalah <strong>setiap zat cair memiliki koefisien muai volume yang berbeda - beda</strong></p><p><strong></strong></p><p><strong>Pembahasan</strong></p><p><strong></strong></p><p><strong>PEMUAIAN ZAT</strong></p><p><strong></strong></p><p>Benda apapun saat dipanaskan pada umumnya akan mengalami pemuaian. Ada tiga jenis pemuaian:</p><p>1. Pemuaian Panjang</p><p>\u0394L = Lo \u00d7 \u03b1 \u00d7 \u0394T</p><p>\u0394T = T akhir - T awal</p><p>L = Lo + \u0394L</p><p>L = Lo + Lo \u00d7 \u03b1 \u00d7 \u0394T</p><p>L = Lo (1 + \u03b1 \u00d7 \u0394T)</p><p>Dimana</p><p>L = panjang setelah pemanasan</p><p>Lo = panjang sebelum dipanaskan</p><p>\u03b1 = koefisien muai panjang(\\\u00b0C)</p><p>\u0394L = perubahan panjang</p><p>\u0394T = perubahan suhu</p><p></p><p>2. Pemuaian Luas</p><p>\u0394A = Ao \u00d7 \u03b2 \u00d7 \u0394T</p><p>A = Ao + \u0394A</p><p>A = Ao + Ao \u00d7 \u03b2 \u00d7 \u0394T</p><p>A = Ao (1 + \u03b2 \u00d7 \u0394T)</p><p>Dimana</p><p>A = luas setelah pemanasan</p><p>Ao = luas sebelum dipanaskan</p><p>\u03b2 = koefisien muai luas (\\\u00b0C)</p><p>\u0394A = perubahan luas</p><p>\u03b2 = 2 \u00d7 \u03b1</p><p></p><p>3. Pemuaian Volume </p><p>\u0394V = Vo \u00d7 \u03b3 \u00d7 \u0394T</p><p>V = Vo + \u0394V</p><p>V = Vo + Vo \u00d7 \u03b3 \u00d7 \u0394T</p><p>V = Vo (1 + \u03b3 \u00d7 \u0394T)</p><p>\u03b3 = 3 \u00d7 \u03b1</p><p>Dimana</p><p>V = volume setelah pemanasan</p><p>Vo = volume sebelum dipanaskan</p><p>\u03b3 = koefisien muai volume (\\\u00b0C)</p><p>\u0394V = perubahan volume</p><p><strong>Diket:</strong></p><p>To = 30 \u00b0C</p><p>Ta = 80 \u00b0C</p><p>Air \u21d2 Vo = 400 mL \u21d2 V = 404,2 mL</p><p>Minyak goreng \u21d2 Vo = 400 mL \u21d2 V = 414,5 mL</p><p>Alkohol \u21d2 Vo = 400 mL \u21d2 V = 422,0 mL</p><p><strong>Dit:</strong></p><p>A. Masalah yang sesuai dengan tabel ?</p><p>B. Kesimpulan dari masalah di A?</p><p><strong>Penjelasan:</strong></p><p>A. Perubahan suhunya semua sama.</p><p>\u0394T = Ta - To = 80 \u00b0C - 30 \u00b0C = 50 \u00b0C</p><p>Vo semua sama.</p><p>V berbeda - beda.</p><p><strong>Jadi masalah yang ada adalah perbedaan volume setelah zat cair dengan volume sama dipanaskan pada perubahan suhu yang sama.</strong></p><p></p><p>B. Berdasarkan rumus</p><p>V = Vo (1 + \u03b3 \u00d7 \u0394T) karena \u0394T dan Vo semua semua data sama, tetapi hasil V berbeda - beda, hal ini membuktikan bahwa hanya \u03b3 yang berbeda - beda pada setiap cairan.</p><p><strong>Kesimpulannya, setiap zat cair memiliki koefisien muai volume yang berbeda - beda.</strong></p><p><strong></strong></p><p><strong></strong></p><p>Pelajari lebih lanjut pada tugas</p><p>Pemuaian Panjang https://brainly.co.id/tugas/18455424</p><p>Pemuaian Zat Cair https://brainly.co.id/tugas/16747470</p><p>Pemuaian Volume Zat Padat https://brainly.co.id/tugas/23681687</p><p></p><p></p><p>Kategorisasi</p><p>Mapel : Fisika</p><p>Kelas : XI</p><p>Materi : Suhu dan Kalor</p><p>Kode Kategorisasi : 11.6.5.</p><p></p><p>Kata Kunci : Koefisien Muai Volume, Volume Awal, Volume Akhir, Perubahan Suhu</p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tuliskan-persamaan-hukum-pascal-secara-matematika-772",
+            "question": "Tuliskan persamaan hukum pascal secara matematika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dalam soal apa dimatematikanya?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Secara matematis hukum pascal dituliskan sebagai berikut<br><br>F1 = D1\u00f7D2 \u00d7\u00a0F2<br>KET :<br>F1 = gaya pada permukaan A (N)<br>F2= gaya pada permukaan B (N)<br>A1 = Luas permukaan A (m\u00b2)<br>A2 = luas permukaan B (m\u00b2)<br><span>D1 = diameter permukaan A (m)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "membuat-elektromagnet-dapat-dilakukan-dengan-cara-a-melilitk-727",
+            "question": "Membuat elektromagnet dapat dilakukan dengan cara ...    a. melilitkan kawat penghantar pada besi atau baja\r\nb. mengalirkan arus AC melalui solenoida berinti logam\r\nc. mengalirkan arus DC melalui kumparan inti besi\r\nd. mengalirkan arus searah melalui batang besi lunak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.melilitkan kawat penghantar pada besi atau baja",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "18-sebuah-balon-dapat-naik-ke-udara-karena-1-massa-jenis-gas-p-286",
+            "question": "18. sebuah balon dapat naik ke udara karena    (1) massa jenis gas pengisi balon lebih besar daripada massa jenis udara\r\n(2) massa jenis gas pengisi balon lebih kecil daripada massa jenis udara\r\n(3) gaya ke atas pada balon oleh udara lebh besar dari pada berat balon \r\n(4) gaya ke atsa pada balon olh udara lebh kecil dar pada berat balon \r\n\r\nmana yg benar ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(2) massa jenis gas pengisi balon lebih kecil daripada massa jenis udara</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-minyak-goreng-dan-air-tidak-dapat-bercampur-ketika-diaduk-585",
+            "question": "Mengapa minyak goreng dan air tidak dapat bercampur ketika diaduk bersama dalam satu wadah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena minyak goreng memiliki massa jenis yang berbeda dengan air. Air yang massa jenisnya lebih besar daripada minyak, akan selalu berada di bawah minyak.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-2000-kg-bergerak-dengan-kecepatan-16msjik-746",
+            "question": "sebuah mobil bermassa 2000 kg bergerak dengan kecepatan 16m/s.jika mobil tersebut di rem dengan gaya 8000N,jarak yang ditempuh mobil mulai direm sampai berhenti adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=m.a\u21d2a=perlambatan<br>8000=2000*a<br>a=4m/s^2<br><br>t= (v\u2081-v\u2080)/a<br>t=(16-0)/4<br>=4s<br><br>s=v\u2080*t-1/2*a*t^2<br>=16*4-1/2*4*4^2<br>=64-32<br>=32m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengaruh-amplitudo-terhadap-bunyi-737",
+            "question": "Apa pengaruh amplitudo terhadap bunyi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "amplitudo mempengaruhi kuat lemahnya bunyi :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "k<span>uat bunyi bergantung pada amplitudo. Semakin besar amplitudo getaran sumber bunyi, semakin keras bunyi yang dihasilkan. Sebaliknya, semakin kecil amplitudo getaran sumber bunyi, semakin lemah bunyi yang dihasilkannya</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kalor-es-2100-jkgc-kalor-jenis-air-4200-jkgc-dan-k-547",
+            "question": "Jika kalor es 2.100 J/kg\u00b0C, kalor jenis air 4.200 J/kg\u00b0C, dan kalor lebur es 366.000 J/kg. Berapakah kalor yang dibutuhkan dalam proses dari B-C-D ?    a. 31.500 J\r\nb. 63.000 J\r\nc.168.000 J\r\nd.\u00a0231.000 J",
+            "attachments": [
+                "question-attachments/jika-kalor-es-2100-jkgc-kalor-jenis-air-4200-jkgc-dan-k-547-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<span><span>Diketahui\u00a0<br><br>\nM = 0.5 kg\u00a0</span><br><span>C = Kalor Jenis ( J/KgC )\u00a0<br></span>C\u00a0es= 2,1 kJ/kg\u00b0C<br>C air= 4,2 kJ/kg\u00b0C<br><span>L es= 366 kJ/kg<br></span>Kalor jenis adalah banyaknya kalor yang dibutuhkan untuk menaikkan suhu 1 kg zat sebesar 1 derajat celcius. Alat yang digunakan untuk menentukan besar kalor jenis adalah kalorimeter.\u00a0<br>\u0394 T = Perubahan Suhu ( C )\u00a0<br><br>Q = M. L ( digunakan untuk menghitung energi kalor pada fase perubahan wujud )\u00a0<br>M = Massa ( Kg )\u00a0<br>L = Kalor Laten ( J/Kg )\u00a0<br>Kalor Laten adalah kalor yang digunakan untuk mengubah wujud suatu zat. Kalor laten ada dua macam Q = m.U dan Q = m.L. Dengan U adalah kalor uap (J/kg) dan L adalah kalor lebur (J/kg)\u00a0<br><br>Diketahui :\u00a0<br><br>1. Fase perubahan suhu es dari -10\u00b0C menjadi es bersuhu 0\u00b0C.\u00a0<br>2. Fase perubahan wujud es menjadi air pada suhu 0\u00b0C.\u00a0<br>3. Fase perubahan suhu air dari 0\u00b0C. menjadi es bersuhu 10\u00b0C.\u00a0<br><br>Cara menghitung setiap fase.\u00a0<br><br>Fase 1 :\u00a0<br>Q1 = M. C. \u0394 T\u00a0<br>Q1 = 0,5 x 2,10 x 10\u00a0<br>Q1 = 10,5 kJ<br><br>Fase 2 :\u00a0<br>Q2 = M. L\u00a0<br>Q2 = 0,5 x 366\u00a0<br>Q2 = \u00a0183 kJoule\u00a0<br><br>Fase 3 :\u00a0<br>Q3 = M. C. \u0394 T\u00a0<br>Q3 = 0,5 x 4,2\u00a0x 30\u00a0<br>Q3 = \u00a063 kJoule\u00a0<br><br>Penjumlahan dari ketiga fase tersebut menghasilkan nilai akhir sbb :\u00a0<br><br>Q_total = Q1 + Q2 + Q3 =10.5+183+63= 256 kJ<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-step-up-mengubah-tegangan-50volt-menjadi-220-935",
+            "question": "Sebuah transformator step up mengubah tegangan 50volt menjadi 220volt. Kumparan sekunder dihubungkan dengan sebuah lampu 220volt/50watt. Berapa kuat arus yang mengalir pada kumparan primer?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Diketahui:</strong><br>Vp=50 volt<br>Vs=220 volt (karena step up ya)<br>kumparan sekunder 220 volt/50 watt=&gt;Ps=50 watt<br><strong>Ditanyakan:</strong> Ip ?<br><strong>Dijawab:<br></strong><u><strong>Gunakan rumus efisiensi:</strong></u><br>\u03b7 = <u>Ps</u>\u00a0x 100%<br>\u00a0 \u00a0 \u00a0 Pp<br>80% = <u>\u00a050 \u00a0 \u00a0 </u>\u00a0\u00a0\u00a0x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 220. Ip<br>0,8 =<u> \u00a0\u00a05 \u00a0 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a022.Ip<br>17,6.Ip = 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ip =<u> \u00a0\u00a05 \u00a0\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a017,6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ip = 0,284 A<br><br>Jelas ya.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-beratnya-20-n-memiliki-volume-00005-m3-kemudian-be-676",
+            "question": "Suatu benda beratnya 20 N memiliki volume 0,0005 m\u00b3. Kemudian benda tersenut dicelupkan ke dalam air, dan tenggelam. Massa jenis air 1000 kg/m\u00b3 dan percepatan gravitasi 10m/s\u00b2. Berat benda dalam air ... N.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "w udara = 20 N, g= 10 m/s\u00b2<br>m = w/ 10 = 20/ 10= 2 kg<br>V= 0,0005 m\u00b3\u00a0 \u00a0  -&gt; tercelup = V seluruh benda<br>p bnda= 2 kg/ 0.0005<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 4000<br>p air= 1000 kg/m\u00b3<br><br>F= p air. g. V<br>\u00a0 = 1000. 10. 0.0005<br>\u00a0 = 5 N<br><br>w air= w udara -F<br>\u00a0\u00a0 \u00a0 \u00a0 = 20 N- 5 N<br>\u00a0\u00a0 \u00a0 \u00a0 = 15 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-berat-badan-saat-naik-dan-turun-lift-berbeda-363",
+            "question": "Mengapa berat badan saat naik dan turun lift berbeda?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena pada saat lift naik, gaya gravitasi hilang. Dan jika lift turun maka berat badan kembali semula. Semua tergantung gaya gravitasinya",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.ketika lift naik gaya dari\u00a0massa badan kita menuju kebawah (kepusat bumi) dan dipengaruhi pula oleh gravitasi yang juga bergerak menuju kebawah\u00a0sehingga gaya berat badan kita :\u00a0W = m x g<br><br>2.Sedangkan ketika kita turun massa dari badan kita searah dengan gravitasi,jadi lebih ringan.<br><br>Berat = massa x gravitasi",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "question": "Lempengan Logam berbentuk persegi dengan ukuran seperti gambar dengan suhu 40 celcius. Tentukan pertambhan luas logam tersebut jika suhunya dinaikkan sampai 160 C (\u03b1 = 25 * 10^-6 / C)\u00a0",
+    "attachments": [
+        "question-attachments/lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "[tex]\\triangle{A} = A_0 \\beta T[/tex]<br>[tex]=A_0(2 \\alpha )(T_2-T_1)[/tex]<br>[tex]=(60)^2(2*25*10^{-6})(160-40)\n=21,6 cm^2[/tex]<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476",
+            "question": "Perhatikan rangkaian listrik pada gambar dibawah. Berapa kuat arus yang mengalir pada rangkaian tersebut\u00a0",
+            "attachments": [
+                "question-attachments/perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "R2 nya berapa?\u00a0<br>Cari kuat arus itu rumusnya\u00a0<br>I = V/R",
+                    "attachments": []
+                },
+                {
+                    "answer": "Soal ini merupakan penerapan hukum II kirchof, buat loop dengan arah terserah, lihat sumber tegangan, kalau kutub yang pertama dilewati loop sama, maka jumlahkan, apabila beda maka dikurangkan. lalu bagi dengan jumlah bambatan total.\u00a0<br>[tex]I = \\frac{E_2-E_1}{R_1+R_2+R_3} = \\frac{12-8}{3+5+2}= \\frac{4}{10} = 0.4 A[/tex]\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287",
+            "question": "pompa hidrolik mempunyai perbandingan diameter pengisap 1:40. apabila pada pengisap besar dimuati beban 32000N, maka agar seimbang, pada pengisap kecil harus diberi gaya sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\nBesar gaya yang dibutuhkan pada penampang kecil agar setimbang adalah 20 N</p><h3>Pembahasan \u00a0</h3><p>Pada soal ini dapat diselesaikan dengan konsep fluida statis \u00a0</p><p>Jawaban:\n</p><p>\nUntuk mencari besar gaya yang dibutuhkan pada penampang kecil kita gunakan hubungan tekanan pada bejane berhubungan</p><p>[tex]P_1=P_2\\\\\\frac{F_1}{A_1} =\\frac{F_2}{A_2} \\\\F_1A_2=F_2A_1\\\\F_1d_2^2=F_2d_1^2\\\\F_1*40^2=32000*1^2\\\\F_1=20\\; N[/tex]</p><p>Materi lebih lanjut terkait dengan fluida statis dapat dipelajari pada link berikut ini\n</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Archimedes https://brainly.co.id/tugas/20707089\n</p><p>2.Materi tentang Fluida statis https://brainly.co.id/tugas/5289680\n</p><p>3.Materi tentang Tegangan permukaan https://brainly.co.id/tugas/4439825\n</p><p>4.Materi tentang Fluida tidak bergerak https://brainly.co.id/tugas/20806499\n</p><p>5.Materi tentang fluida statis https://brainly.co.id/tugas/208110482\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 3 - Fluida Statis\n</p><p><strong>Kode</strong>: 11.6.3\n</p><p>\n</p><p><strong>Kata Kunci:</strong> Archimedes, pascal, fluida statis\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengukur-tegangan-dan-kuat-arus-listrik-dengan-men-939",
+            "question": "Bagaimana cara mengukur tegangan dan kuat arus listrik dengan menggunakan basic meter?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pake Tangan.............................<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\n<span>2.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Pasanglah catu daya pada\ntegangan tertentu</span>\n<span>\n<span>3.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Baca skala pada ampermeter</span>\n<span>\n<span>4.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Ulangi langkah 2-3 untuk\ntegangan sumber yang berbeda.</span>\n<span>\n<span>b.\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>Volt meter dan ohm meter</span>\n<span>\n<br><span>\n  <span>\n<span>\n   <br></span>\n<span>\n   <br></span>\n</span></span>\n<br><br>1. Rangkailah alat\nseperti gambar</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n1=Volt meter/ ohm meter</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n2= catu daya </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02. Pasanglah catu daya pada tegangan\ntertentu</span>\n<span>\n\u00a03. Baca skala pada volt meter</span>\n<span>\n\u00a04. Matikan catu daya dan bacalah skala pada\nohm meter </span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n<span>\u00a05. Ulangi langkah 2-4 untuk tegangan sumber\nyang berbeda<br><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747",
+            "question": "Tentukan besar dan arah dari resultan vektor F\u2081, F\u2082, dan F\u2083 yg diperlihatkan pada gambar di bawah ini.\u00a0(sin 53\u00b0 = 0.8 dan sin 37\u00b0 = 0.6)",
+            "attachments": [
+                "question-attachments/tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "=-F1.sin53+F2.sin37+F3<br>=-2.0,8+4.0,6+5<br>=-1,6+2,4+5<br>=5,8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-berapa-elektron-dalam-muatan-1-c-dan-berapakah-massa-elektro-584",
+            "question": "Ada berapa elektron dalam muatan 1 C, dan berapakah massa elektron elektron itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 columb =\u00a0<span>\u00a06.241</span>\u00d710^<span>18 elektron<br><br>massa elektron =\u00a0</span><span>\u00a09,109 \u00d7 10^\u221231 kilogram, <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0ataupun setara dengan 5,489 \u00d7 10^\u22124 satuan\u00a0</span>massa<span>\u00a0atom</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koefisien-momen-inersia-dari-batang-besi-yang-padat-dengan-panjan-254",
+            "question": "Koefisien momen inersia dari batang besi yang padat dengan panjang L adalah.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Koefisien momen inersia benda tegar, untuk batang kalo sumbunya melalui pusat itu 1/12, sedangkan kalau sumbunya diujung itu 1/3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung dari soal-soal nya\u00a0<br>kalau poros nya dari pusat \u00a0 I = 1/12 mLkuadrat<br>kalu poros nya dari ujung \u00a0 \u00a0 I = 1/3 mLkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "beban-75-gram-digantungkan-vertikal-pada-sebuah-pegas-bergetar-tu-210",
+            "question": "Beban 75 gram digantungkan vertikal pada sebuah pegas bergetar turun naik dengan frekuensi 3 Hz.Jika beban tersebut dikurangi sebesar 1/3 nya,maka frekuensinya menjadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa beban mula-mula m <br>\nmassa beban setelah dikurangi sepertiganya m&#039; = \u2154 m <br><br><br>\nf = 1/2\u03c0 \u221a(k/m) <br><br><br>\nf &#039;....1/2\u03c0 \u221a(k/m&#039;) <br>\n-- = ------------------- <br>\nf......1/2\u03c0 \u221a(k/m) <br><br>\nf &#039; / f = \u221a(m/m&#039;) <br><br>\n....f&#039; = f \u221a(m/m&#039;) <br>\n......= 3 \u221a(m / \u2154m) <br>\n......= 3 \u221a(3/2) <br>\n......= 1,5 \u221a6 <br>\n......\u2248 3,67 Hz <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-massanya-8kg-terletak-pada-lantai-mendatar-yang-lici-457",
+            "question": "sebuah benda massanya 8kg terletak pada lantai mendatar yang licin. benda dipengaruhi gaya mendatar ke\u00a0kanan F1\u00a0= 150 N, dan ke kiri F2 = 80 N. setelah bergerak 8 sekon, gaya F1 dihilangkan. kapan dan dimana gerak benda akan membalik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Gaya<br><span>Kelas: X SMA\u00a0</span><br><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/sebuah-benda-massanya-8kg-terletak-pada-lantai-mendatar-yang-lici-457-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berikan-10-contoh-fluida-dalam-kehidupan-sehari-hari-648",
+            "question": "Berikan 10 contoh fluida dalam kehidupan sehari-hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air, minyak, oli, minyak tanah, bensin, solarr, susu,, cairan pembersih piring, detergen cair",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>contoh-contoh fluida diabtaranya adalah : Minyak peluma, Susu dan air, Udara, Gas, Cairan.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "langsung-aja-deh-gansoalnya-begini-benda-a-ma-20kg-dan-774",
+            "question": "Langsung aja deh gan,soalnya begini...\u00a0    Benda A (mA = 20kg) dan benda B (mB = 10kg), semula diam di atas lantai. Kemudian, kedua benda ditarik keatas melalui sebuah katrol dengan gaya F = 788 N seperti pada gambar. Dengan menganggap katrol sangat ringan dan licin, percepatan benda A dan B adalah....\u00a0\r\n(g = 10 m/s)\u00a0\r\n\r\ntolong di bantu gan^^ kalo kurang jelas,soalnya ada di sini http://atophysics.files.wordpress.com/2008/11/evaluasi-4.pdf nomer 32\u00a0\r\n\r\nsekian,terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = Ma - Mb . g dibagi Ma + Mb<br>\u00a0 \u00a0= 20 - 10 . 10 dibagi 20 +10<br>\u00a0 \u00a0= 100 / 30 = 3,33 m/s",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

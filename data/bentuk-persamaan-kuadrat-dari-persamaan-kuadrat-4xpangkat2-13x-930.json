@@ -1,0 +1,134 @@
+{
+    "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-dan-y-memenuhi-xy-yx-52-dan-x-3y-1-maka-5x-5y-887",
+            "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-tinggal-landas-membentuk-sudut-30-dengan-landa-816",
+            "question": "Sebuah Pesawat tinggal landas membentuk sudut 30\u00b0\u00a0 dengan landasan. Jika pesawat telah menempuh jarak 6km dari tinggal landas, berapa ketinggian Pesawat sekarang! Pliss yang tau coret\" di bawah :v",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggi pesawat artinya, didepan sudut 30\u00b0<br>nah, kalo gitu pake yang sin<br>sin = depan/miring<br>sin 30 = tinggi/6<br>0,5 = tinggi/6<br>tinggi = 0,5/6<br>tinggi = 5/60<br>tinggi = 1/12 km<br><br><br>setau aku sih gitu ya\u00a0:)<br>kalo salah maap ye",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-dengan-beda-3-ji-672",
+            "question": "tiga buah bilangan membentuk barisan aritmatika dengan beda 3. jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. rasio barisan tersebut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baris aritmatika misal a, a+b, a+2b <br>a, a+3-1,a+2.3<br>a,a+2,a+6 (menjadi baris geometri )<br>[tex] \\frac{a+6}{a+2} = \\frac{a+2}{a} [/tex]<br>a^2+4a+4=a^2+6a<br>2a=4<br>a=2<br>msk kan a=2<br>2,4,8<br>jdi rasionya 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andra-megerjakan-soal-ipa-selama-1-jam-36-menit-43-detik-dan-mate-528",
+            "question": "andra megerjakan soal IPA selama 1 jam 36 menit 43 detik dan matematika selama 1 jam 48 menit 29 detik. waktu yang dibutuhkan andra seluruhnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti ditambahka jawabnnya 2jam \u00a025 menit 12 detik<br><br>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "2jam 25 menit 12 detik....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-fungsifx-5x-3-2x-1-x-528",
+            "question": "Jika diketahui fungsi\u00a0f(x) = ( 5x + 3 ) / (2x \u2013 1 ) ,\u00a0x\u00a0\u2260\u00a0 \u00bd\u00a0 dan\u00a0g(x) = 3x\u00a0+ 2 maka (f\u20131\u00a0o\u00a0g)(x) adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x - 1<br><br>y =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 2x - 1<br>y(2x-1) = 5x + 3<br>2xy - y = 5x +3<br>2xy\u00a0-\u00a05x = 3 + y<br>x(2y - 5) = 3 + y<br><br>x =<u> 3 + y\u00a0</u><br>\u00a0 \u00a0 \u00a02y - 5<br><br>f-1 =<u> 3 + x\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a02x - 5<br><br>(f-1 o g) = \u00a0<u> \u00a03 + 3x +\u00a02\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02(3x + 2) - 5<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u> \u00a03x + 5 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6x + 4 - 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u> 3x +\u00a05\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a06x - 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-a-merupakan-alas-jajargenjang-pqrs-dengan-t-merupakan-ti-440",
+            "question": "Misalkan a merupakan alas jajargenjang PQRS dengan t merupakan tingginya. Jika 2t \u00a0= 3a, tentukan:    a.panjang t\u00a0dalam a\r\nb.panjang alas dan tingginya jika luas jajargenjang tersebut 864 cm2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0 2t=3a<br>\u00a0\u00a0 \u00a0 \u00a0 t=3a/2<br><br>b.\u00a0 a.t= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a. 3a/2= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a\u00b2 = 864. 2/3<br>\u00a0\u00a0 \u00a0 a = 576<br>\u00a0\u00a0 \u00a0 a = \u221a576<br>\u00a0\u00a0 \u00a0 a =\u00a0 24 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. <br>a) 2t = 3a<br>t = 3a/2<br><br>b) L = alas x tinggi<br>864 = a x t subtitusikan t = 3a/2<br>864 = a x 3a/2<br>864 = 3a^2/2<br>1728 = 3a^2<br>a^2 = 1728/3<br>a^2 = 576<br>a = akar(576)<br>a = 24 cm<br><br>t = 3a/2 = 3x24/2 = 36 cm<br><br>keterangan ^ : pangkat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ab-garis-ba-apakah-sinar-abba-butuh-jawaban-776",
+            "question": "Garis AB = garis BA, apakah sinar AB=BA? butuh jawaban.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karna garis dan sinar itu berbeda, kalau sinar AB artinya a yg memancarkan sinar ke b, sdangkan sinar BA artinya b yg memancarkan sinar mnuju ke a,, jadi beda,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "iya sinar AB=BA jadi itu sama <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

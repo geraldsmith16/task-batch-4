@@ -1,0 +1,134 @@
+{
+    "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-luas-permukaan-prisma-segitiga-567",
+            "question": "Rumus luas permukaan prisma segitiga?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumusnya adalah Lp = (Luas alas segitiga x 2) + (keliling alas segitiga x tinggi prisma) *NB: - rumus luas alas segitiga = 1/2 x alas x tinggi. - keliling alas segitiga = sisi + sisi + sisi. Contoh: Sebuah prisma dengan alas segitiga 3cm dan tinggi segitiga 4cm. Hitung sisi miring alas segitiga dan Hitung luas permukaan jika tinggi prisma 10 cm! Jawab: Sisi miring alas segitiganya adalah 5cm (didapat dri phytagoras 3cm dan 4cm) Lp = (luas alas x 2) + (keliling alas x tinggi prisma) = ((1/2 x 3cm x 4 cm) 2) + (3cm + 4cm + 5cm) x 10cm) = (6 x 2) + (12 x 10cm) = 12 + 120cm = 132cm. Jadi jawabannya adalah 132cm. Semoga membantu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-permukaan-sebuah-kaleng-tanpa-tutup-tetapi-mempunyai-alas-de-336",
+            "question": "luas permukaan sebuah kaleng tanpa tutup tetapi mempunyai alas dengan diameter alas 20 cm dan tingginya 35 cm adalah ..\u00a0 \u00a0 (\u03c0=3,14)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas alas : <span>3,14 x 10 x 10 = 314<br>luas selimut : 3,14 x 20 x 35 = 2198<br>luas tabung tanpa tutup 314 + 2198 = 2512<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-rusuk-6cm-jarak-titik-a-938",
+            "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-soal-dan-jawaban-barisan-aritmatika-apa-saja-962",
+            "question": "10 contoh soal dan jawaban barisan aritmatika apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Diketahui barisan aritmetika\u00a0 3, 8, 13, \u2026<br>\u00a0\u00a0\u00a0 a. Tentukan suku ke-10 dan rumus suku ke-n barisan tersebut!<br>\u00a0\u00a0\u00a0 b. Suku keberapakah yang nilainya 198 ?</span><br><span><br>Jawab :</span><br><span>\u00a0<br>a. Dari barisan aritmetika 3, 8, 13, \u2026 diperoleh suku pertama a = 3 dan beda b = 8 \u2013 3 = 5.</span><br><span><br>Un\u00a0\u00a0\u00a0 = a + (n \u2013 1)b<br>U10\u00a0 = 3 + (10 \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 3 + 9 x 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 45<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>48</u></span><br><br>\u00a0Un\u00a0\u00a0 = a + (n \u2013 1)b<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + (n \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 5n \u2013 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>5n \u2013 2</u><br><span><br>b. Misalkan Un\u00a0 = 198, maka berlaku :</span><br><span><span><br>Un\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>5n \u2013 2 = 198<br>5n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 200<br>\u00a0n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>40</u><br>Jadi 198 adalah suku ke- 40</span>\u00a0</span><br><br><br><br><span>2. Diketahui U1 = a = 3 , U5 = 19 , Un = 31</span><br><span>\u00a0\u00a0\u00a0 a. Tentukan beda (b)</span><br>\n\u00a0\u00a0\u00a0 b. Tentukan n<br>\n\u00a0 \u00a0 c. Tentukan suku ke-20\u00a0<br><span>\u00a0\u00a0\u00a0 d. Tentukan n jika Un = 51</span><br><br><br><br>Jawab :<br><br><span>a. Cari U5 terlebih dahulu, setelah itu cari b dengan rumus U5 yang telah didapat :</span><br><span><br><span>\u00a0\u00a0\u00a0 Un = a + (n - 1)b</span></span><br>\u00a0\u00a0\u00a0 U5 = a + (5 - 1)b<br><span>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = <u>a + 4b</u></span><br><br><span>\n<span>\u00a0 \u00a0 b = a + 4b = 19</span></span><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 + 4b = 19<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4b = 19 - 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 16/4<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = <u>4</u> \u00a0</span><br><br><span>\n<span>\u00a0b. Gunakan rumus Un = a + (n - 1)b = 31 (diketahui Un = 31) :</span></span><br><br><span>\n<span>\u00a0 \u00a0 \u00a0 Un = 31</span></span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 31<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 31<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 31 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 32/4<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>8</u>\n<br><span><br><span>\u00a0c. suku ke-20 , dik: a = 3 , b = 4 :</span></span><br><br><span>\n\u00a0 \u00a0 \u00a0\u00a0 Un \u00a0 = a + (n - 1) b</span><br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + (20 - 1) 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + 80 - 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 80 - 1<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = <u>79</u>\u00a0<br><br><br><span>d. Jika Un = 51 :</span><br><br><span>\n\u00a0 \u00a0 \u00a0 Un = 51</span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 51<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 51<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 51 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 52/4<br><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>13</u></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2n-1x-n40-mempunyai-dua-akar-rel-ya-432",
+            "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-bilangan-1011121399-dari-deret-diatas-te-608",
+            "question": "Diketahui deret bilangan 10+11+12+13+...+99. Dari deret diatas tentukan jumlah bilangan yg habis dibagi 2 tapi tidak habis dibagi 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Yang habis di bagi 2\n<br><span>Un = a + (n-1)b</span>\n\n<br>98 = 10 + 2n-2\n\n<br>98 = 8 +2n\n\n<br>2n = 90\n\n<br>n = 45<br>\u00a0Yang habis dibagi 3\n\n<span><br>Un = a + (n-1)b</span>\n\n<br>99 = 12 + 3n-3\n\n9<br>9 = 9 + 3n\n<br>\n3n = 90\n<br>\nn = 30\n\n<br>yang habis dibagi 2 tetapi tdk habis di bagi 3\n\n<br>n = 45 \u2013 30\u00a0<span>= 15</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-integral-berikut-intgral-x-dx-602",
+            "question": "Selesaikan integral berikut...!!!\r\nintgral \u221ax dx ... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "integral dari<br>\u221ax dx = x ^1/2 dx<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/3 x ^3/2\u00a0<br><br><br>NB : ^ = berarti pangkat",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u221ax dx = \u00a0\u00a0</span>[tex] \\frac{2^{ \\frac{3}{2} } }{3} + C[/tex]<br><br>atau\u00a0<br><br>[tex] \\int\\limits^ \\pi _0 {sin x} \\, dx = 2[/tex] + C<br><br>Atau<br>[tex] \\int\\limits^a_b {sin x} \\, dx = - cos x + C [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

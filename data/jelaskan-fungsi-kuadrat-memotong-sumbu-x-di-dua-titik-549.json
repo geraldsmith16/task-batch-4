@@ -1,0 +1,130 @@
+{
+    "question": "Jelaskan fungsi kuadrat memotong sumbu x di dua titik",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "fungsi kuadrat yang memotong sumbu x di dua titik adalah fungsi kuadrat yang D&gt;0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derajat-suku-banyak-5x2-x2-3x34x-2-adalah-872",
+            "question": "Derajat suku banyak (5x\u00b2-x)\u00b2\u00a0 (3x\u00b3+4x-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(5x^2 - x)^2 (3x63 + 4x - 2) = (25x^4 -10x^3\u00a0+ x^2) (3x^3 + 4x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75x^7 + 100x^5 - 50x^4 - 30x^6 - 40x^4 + 20x^3 + 3x^5 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04x^3 - 2x^2<br><br>Karena pangkatnya yang paling besar adalah 7 maka persamaan di atas berderajat tujuh.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-deret-geometri-diketahui-sn4-dan-s440-tentukan-suku-921",
+            "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-diwajibkan-mengerjakan-10-dari-12-soal-yang-tersedi-364",
+            "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-dari-barisan-geometri-adalah-243hasil-bagi-suku-ke-9-d-353",
+            "question": "suku ke 5 dari barisan geometri adalah 243,hasil bagi suku ke 9 dengan suku ke 6 adalah 27,suku ke 2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XII</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Barisan dan Deret</strong><br><strong>Kata Kunci : geometri, rasio, suku</strong><br><br><strong>Kode : 12.2.7 [</strong><span><strong>Kelas 12 Matematika BAB 7 - Baris dan Deret]</strong><br><br>Diketahui<br>Barisan geometri<br>Suku ke-5 atau U</span>\u2085 = 243<br>Hasil bagi suku ke-9 dengan suku ke-6 adalah 27<br><br>Ditanya<br>Suku ke-2 (U\u2082)<br><br>Penyelesaian<br><br>Gunakan rumus-rumus berikut ini untuk barisan geometri.<br><br>Rumus suku ke-n\u00a0\u21d2\u00a0[tex]U_n=a.r^{n-1}[/tex]<br>Keterangan<br>a = U\u2081 = suku pertama<br>r = rasio<br><br><strong>Step-1</strong><br><strong>Siapkan suku ke-5</strong><br><br>\u21d4 U\u2085 = 243<br>\u21d4\u00a0[tex]a.r^4=243[/tex]<br><br><strong>Step-2</strong><br><strong>Hubungan antara suku ke-9 dengan suku ke-6 untuk mendapatkan rasio</strong><br><br>\u21d4\u00a0[tex] \\frac{U_9}{U_6}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{a.r^8}{a.r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{r^8}{r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex]r^3=27[/tex]<br><br>DIperoleh rasio sebesar r = 3.<br><br><strong>Step-3</strong><br><strong>Menentukan suku pertama</strong><br><br>Substitusikan rasio ke dalam suku ke-5.<br><br>\u21d4\u00a0[tex]a.(3)^4=243[/tex]<br>\u21d4\u00a0[tex]a.81=243[/tex]<br>Diperoleh suku pertama yaitu a = 3.<br><br><strong>Final step</strong><br><strong>Hitung ke-2</strong><br><br>\u21d4\u00a0[tex]U_2=a.r[/tex]<br>\u21d4\u00a0[tex]U_2=(3)(3)[/tex]<br><br><strong>Diperoleh suku kedua yaitu U\u2082 = 9.</strong><br><br>__________________________<br><br>Simak soal notasi sigma\u00a0<br>brainly.co.id/tugas/13193195<br>Soal mengenai pembuktian dengan induksi matematika<br>https://brainly.co.id/tugas/13567638<br>Serta soal terkait deret aritmatika<br>brainly.co.id/tugas/1124372<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-mempunyai-luas-1200cm2-selain-it-774",
+            "question": "Diketahui layang-layang \u00a0ABCD mempunyai luas 1.200cm2. Selain itu, ada layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal-diagonal layang-layang ABCD. Tentukan luas layang-layang \u00a0PQRS !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : layang-layang, luas, panjang diagonal, dua kali<br><br>Pembahasan :<br>Layang-layang\u00a0adalah segi empat yang dibentuk dari gabungan dua buah segitiga sama kaki yang alasnya sama panjang dan berhimpit.<br>Sifat-sifat layang-layang, yaitu :<br>1. masing-masing sepasang sisinya sama panjang;<br>2. sepasang sudut yang berhadapan sama besar;<br>3. salah satu diagonalnya merupakan sumbu simetri;<br>4. salah satu diagonalnya membagi diagonal lainnya menjadi dua bagian sama panjang dan kedua diagonal tersebut salah tegak lurus.<br><br>Kelilingnya dengan panjang sisi pendek b dan panjang sisi panjang a adalah <br>K = 2(a + b)<br><br>Luasnya dengan diagonal masing-masing d\u2081 dan d\u2082 adalah <br>L = 1/2(d\u2081 .d\u2082).<br><br>Mari kita lihat soal tersebut.<br>Diketahui luas layang-layang ABCD adalah 1200 cm\u00b2. Artinya<br>luas layang-layang ABCD adalah<br>L = 1/2(d\u2081 . d\u2082)<br>\u21d4 1200 = 1/2(d\u2081 . d\u2082)<br>\u21d4 2400 = d\u2081 . d\u2082<br>Selain itu, suatu layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal layang-layang ABCD. Artinya,<br>masing-masing panjang diagonal PQRS adalah<br>d\u2083 = 2 . d\u2081<br>d\u2084 = 2 . d\u2082<br>Luas layang-layang PQRS adalah<br>L = 1/2(d\u2083 . d\u2084)<br>\u21d4 L = 1/2(2d\u2081 . 2d\u2082)<br>\u21d4 L = 1/2(4 . d\u2081 . d\u2082)<br>\u21d4 L = 2(d\u2081 . d\u2082)<br>\u21d4 L = 2. 2400<br>\u21d4 L = 4800<br><br>Jadi, jika luas layang-layang ABCD adalah 1200 cm\u00b2, maka luas layang-layang PQRS adalah 4800 cm\u00b2.<br><br>Semangat Belajar!<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-3x-7-2x-5-adalah-394",
+            "question": "Fungsi invers dari f(x) = (3x + 7) / (2x - 5) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>y = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>3x + 7 = 2xy - 5y<br>3x - 2xy = -5y - 7<br>x(3 - 2y) = -5y - 7<br>x = [tex] \\frac{-5y - 7}{3 - 2y} [/tex]<br><br>[tex] f^{-1} [/tex](x) = [tex] \\frac{-5x - 7}{3 - 2x} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-keranjang-berisi-25-salak-dan-2-diantaranya-busuk-jika-dia-768",
+            "question": "suatu keranjang berisi 25 salak dan 2 diantaranya busuk, jika diambil 3 salak sekaligus, maka peluang terambilnya salak yang baik semua adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iket: <br>\nn(S) = 25 <br>\nA = busuk  <br>\nn(A) = 2 \u2192 n(A\u2019) = 25 \u2013 2 = 23 <br><br>\nkejadian terambil 3 salak sekaligus, <br>\npeluang salak baik semua: <br>\n= 23C\u2083/25C\u2083 <br>\n= 1771 . /2300 <br>\n= 77/100 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "question": "1.sebanyak\u00a02\u00a0gram\u00a0NaOH\u00a0(Mr=40)\u00a0dilarutkan\u00a0ke\u00a0dalam\u00a0air\u00a0sampai\u00a0volumenya\u00a0200\u00a0ml.tentukan\u00a0PH\u00a0dari\u00a0larutan\u00a0tersebut?    2.Tentukanlah\u00a0PH\u00a0dan\u00a0P0H\u00a0dari\u00a02\u00a0liter\u00a0larutan\u00a0H2SO4\u00a00,005m",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[No.1]<br>\nDik: Massa NaOH = 2 gram, dengan Mr = 40<br>\nVolum larutan = 20 ml<br>\nDit: pH<br>\nJaw:<br>\nKarena sudah diketahui konsentrasinya maka volum tidak berpengaruh<br>\nStep-1 siapkan konsentrasi larutan<br>\n\u21d2 Konsentrasi M = [gram/Mr] x [1000/Volum mililiter]<br>\n\u21d2 M = [2/40] x [1000/200] <br>\n\u21d2 M = 1/4 molar<br>\nStep-2 siapkan konsentrasi ion hidroksi<br>\n\u21d2 [OH\u207b] = M x valensi basa (jumlah OH dalam NaOH adalah 1)<br>\n\u21d2 [OH\u207b] = 1/4 x 1<br>\n\u2234 [OH\u207b] = 1/4 molar atau 2,5 x 10\u207b\u00b9 molar<br>\nStep-3 hitung pH<br>\n\u21d2 pOH = - \u33d2 [OH\u207b] <br>\n\u21d2 pOH = - \u33d2 [2,5 x 10\u207b\u00b9] atau pOH = 1 - \u33d2 2,5<br>\n\u21d2 pH = 14 - pOH<br>\n\u21d2 pH = 14 - [1 - \u33d2 2,5]<br>\n\u2234 pH = 13 + \u33d2 2,5<br>\nPerhatikan pengolahan lebih lanjut:<br>\npH = 13 + \u33d2 2,5 \u21d2 pH = 13 + [\u33d2 10 - \u33d2 4]<br>\nJadi, bisa ditulis sebagai pH = 14 - 2.\u33d2 2<br><br>\n\n[No.2]<br>\nDik: 2 liter larutan H\u2082SO\u2084 0,005 M<br>\nDit: pH dan pOH<br>\nJaw:<br>\nStep-1 hitung [H\u207a]<br>\n[H\u207a] = M x valensi asam (jumlah H dalam H\u2082SO\u2084 adalah 2)<br>\n[H\u207a] = 0,005 x 2<br>\n[H\u207a] = 0,01 = 10\u207b\u00b2 molar<br>\nStep-2 hitung pH dan pOH<br>\npH = - \u33d2 [H\u207a] <br>\npH = - \u33d2 10\u207b\u00b2<br>\n\u2234 pH = 2<br>\n\u2234 pOH = 14 - 2 = 12<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-bilangan-oksidasi-atom-mn-pd-senyawa-a-mn-bmno2-cmn-105",
+            "question": "Tentukan bilangan oksidasi atom Mn pd senyawa :    a. Mn\r\nb.MnO2\r\nc.MnSO4\r\nd. Mno4-\r\n\r\ntentukan bilangan oksidasi stiap atom pd senyawa/ion di bawah ini:\r\na.N2O3\r\nb.NaNo3\r\nc.K2Cr07\r\nd.CrO42-\r\nPO43-\r\nplease bgt makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Biloks pada:\u00a0<br>a. Mn= 0 (Karena Mn unsur bebas *lihat ketentuan biloks*)<br>b. MnO2 -&gt; Mn kita simbolkan dengan x (Yang mau dicari)<br>Jadi, diketentuan sudah diketahu biloks O dalam senyawa itu adalah -2, maka\u00a0<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x + -2(2) *karena O ada dua*= 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x - 4 = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x= +4<br>Jadi, Biloks Mn pada MnO2= +4<br><br>c. MnSO4<br>biloks Mn, jadi biloks MN= +2<br><br>d. MnO\u2084 -&gt; Mn + -2(4) = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mn-8=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mn= +8\u00a0<br><br><br><br><br>2)\u00a0<br>a. N\u2082O\u2083 -&gt; N\u2082 + -2(3) = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N\u2082 - 6 =0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N\u2082= +6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = 6/2= +3<br>N= +3 , O= -2<br><br>b. NaNO\u2083 -&gt; Na= +1 (golongan 1A)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0O = -2<br>Jadi, 1 + N + -2(3) =0<br>\u00a0 \u00a0 \u00a0 \u00a0 N - 5 =0<br>\u00a0 \u00a0 \u00a0 \u00a0 N= +5<br><br>c. K\u2082CrO\u2087 -&gt; K= +1 (golongan 1A)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0O= -2\u00a0<br>\u00a0Jadi, 1 + Cr -2 (7) =0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Cr - 13=0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Cr= +13<br><br>d. CrO\u2084\u00b2\u207b<br>\u00a0Cr + -2(4) = -2 (muatan\u00a0\u00b2\u207b)<br>\u00a0Cr = -2 + 8<br>\u00a0Cr= +6<br><br>e. PO\u2084\u00b3\u207b\u00a0<br>P + -2 (4) = -3<br>P = -3 \u00a0+ 8<br>P= +5\u00a0<br><br><br>Maaf jika kurang jelas atau ada yg keliru, ini seingat saya.\u00a0<br>Biloks itu pelajaran yang menarik loh! hehe<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "macam-macam-autoredoks-jelaskan-159",
+            "question": "Macam macam autoredoks? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nReaksi autoredoks atau disproporsionasi adalah reaksi redoks yang oksidator dan reduktornya merupakan zat yang sama.\nJadi, sebagian dari zat itu mengalami oksidasi dan sebagian lagi mengalami\nreduksi.</span>\n<span>\n\n \n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n \n \n \n\n \nContoh :</span>\n<span>\n</span>\n\n\n<span>\n<span>Sebagian dari gas\nklorin (Cl2) (biloks = 0) mengalami reduksi menjadi NaCl (biloks =\n-1) dan sebagian lagi mengalami oksidasi menjadi NaClO ( biloks = +1).</span><br><br><br><span>\nReaksi konproporsionasi\nmerupakan kebalikan dari reaksi disproporsionasi, yaitu reaksi redoks dimana\nhasil reduksi dan oksidasinya sama.</span>\n</span>\n<span>\nContoh :</span>\n<span>\n</span>\n\n\n<span>\n<span>Pada reaksi\ntersebut hasil reduksi dan oksidasinya merupakan zat yang sama, yaitu belerang\n(S).</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-garam-dapur-yang-terbentuk-padat-tidak-dapat-menghantarka-786",
+            "question": "Mengapa garam dapur yang terbentuk padat tidak dapat menghantarkan arus listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena garam dapur yang berbentuk padat ion ion\u00a0nya belum terurai dan belum terlarut sehingga garam dapur yang masih padat tidak melepaskan ion maupun elektron yang dapat menghantaarkan arus listrik dalam keadaan padat.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-4-gram-serbuk-kalsium-hidroksida-dilarutkan-dalam-air-hi-235",
+            "question": "sebanyak 4 gram serbuk kalsium hidroksida dilarutkan dalam air hingga 100mL. hitunglah volum larutan asam klorida 0,2 M yang diperlukan untuk menetralkan 25 mL larutan kalsium hidroksida tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sebanyak 4 gram serbuk kalsium hidroksida dilarutkan dalam air \nhingga 100mL. hitunglah volum larutan asam klorida 0,2 M yang diperlukan\n untuk menetralkan 25 mL larutan kalsium hidroksida tersebut<br><br><br>asam klorida valensi = 1<br>M = 0,2 M<br>V = ditanyakan<br><br>cari molaritas Ca(OH)2 ingat Ca(OH)2 bervalensi 2<br>M = gram/ Mr x 1000/ V = 4 / 74 x 1000/100 =\u00a0 0,54 M<br><br>kemudian gunakan rumus (ingat volume Ca(OH)2 yang digunakan hanya 25 mL<br>M1 v1 valensi = M2 v2 Valensi<br>0,54 M x 25 ml x 2 = 0,2 x 1 x V<br>V =\u00a0 135 mL<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :D<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-bilangan-oksidasi-atom-mn-pada-senyawa-mno4-mno-106",
+            "question": "Tentukan bilangan oksidasi atom Mn pada senyawa\r\n- MnO\u2084\u207b\r\n- MnO\u2084\u00b2\u207b\r\nmakasiiih &gt;&lt;",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setahu saya,,, \n\u25cfMnO4 adalah dimana muatan O=-2, jadi karna O ada 4, -2\u00d74=-8, karna O=-8, maka Mn=+8 (agar MnO4=0).\n\u25cfMnO4^-2 mungkin soalnya,, karna yang biasa saya lihat pangkat negatif,,,, karna muatan O=-2, dan O ada 4, maka -2 \u00d7 4 = -8, lalu -8 dikurang -2 (-2didapat dari pangkatnya), maka -8 -(-2)= -8+2= -6. agar muatan MnO4^-2 sama dengan 0, maka Mn harus bermuatan +6..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-100-ml-nh4oh-01-m-dicampur-dengan-400-ml-larutan-nh4oh-360",
+            "question": "Sebanyak 100 mL NH4OH 0,1 M\u00a0dicampur dengan 400 mL larutan NH4OH 02 M\u00a0lain. \u00a0Hitung pH larutan campuran ! (Kb=5x10 pangkat -7)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M cmpurn= 100*0,1+400*0,2 per 100+400\n                     = 50/500=0,1 M\n[OH-]= Akar kuadrat dr 0,1 M * 5x10 pgkt-7\n           = akar kuadrat dr 5* 10 pgkt-8\n           = 2,24 * 10 pgkt-4\npOH=- log 2,24 * 10 pgkt-4\n         =4- log 2,24\npH = 14-(4- log 2,24)\n       = 10 + log 2,24",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "asam-yang-memiliki-ph-paling-kecil-dalam-konsentrasi-yang-sama-ap-114",
+            "question": "Asam yang memiliki pH paling kecil dalam konsentrasi yang sama apa..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH paling kecil = paling asam, untuk konsentrasi yang sama antara semuanya pH paling kecil pada H2SO4, karena H2SO4 memiliki valensi 2 , misalnya untuk konsentrasi HCl dan H2SO4 =\u00a0[tex] 10^{-2} [/tex] M, pH HCl = 2, pH H2SO4 = 2 - log 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kaitan-antara-hipotesis-avogadro-dengan-hukum-gay-lussac-756",
+            "question": "Apakah kaitan antara hipotesis avogadro dengan hukum gay lussac ?\r\ntolong bantu jawab ya ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya kalau isinya memang sama,tapi hipotesa avogrado itu lebih luas perbandingannya\u00a0<br>hipotesis avogrado : \"pada reaksi gas, jika diukur pada suhu dan tekanan yang sama, perbandingan koefisien menyatakan perbandingan volume, dan perbandingan jumlah molekul\" (perbandingan koefisien = perbandingan volume = perbandingan jumlah molekul)\u00a0<br>ex: diukur pada suhu dan tekanan yg sama,20 ml H2 bereaksi dgn 10 ml O2 mghsilkan H2O\u00a0<br>persamaan reaksi = 2H2 (20 ml) + O2(10 ml) -&gt; 2H2O(20 ml)\u00a0<br>hukum gay lusac : \"bila diukur pada suhu dan tekanan yg sma,prbdgan vlume gas yg breaksi dan perbandgan hsil reaksi mrpkn bulat dan sderhna dan sama dengn koefisien reaksi\" (perbandingan volume = perbandingan koefisien reaksi)\u00a0<br>ex: H2(1 ml) + Cl2 (1 ml) -&gt; 2HCl (2 ml)\u00a0<br>kurang lebih sperti itu,maaf kalau ada kesalahan<br><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-50-ml-hcl-01-m-dicampurkan-dengan-50-ml-ch3cooh-01-m-ka-168",
+            "question": "Jika 50 mL HCL 0,1 M dicampurkan dengan 50 mL CH3COOH 0,1 M (Ka= 10^-3) maka pH campuran menjadi ....    a. 0,5\r\nb. 2,4\r\nc. 3,5\r\nd. 1,3\r\ne. 4,6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 mL HCL 0,1 M dicampurkan dengan 50 mL CH3COOH 0,1 M<br><br>Reaksi\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 HCl + CH\u2083COOH --&gt; CHCH\u2083COOCl + H\u2082O<br>Mula-mula\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,005\u00a0 \u00a0 \u00a0  0,005<br>Yang Bereaksi\u00a0 \u00a0\u00a0 0,005\u00a0 \u00a0 \u00a0 0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,005<br>Hasil Reaksi\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0  -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,005<br><br>Maka, pH =<br>Pertama mencari [H\u207a] = Ka . [M] asam / [M] garam<br>[H\u207a] = 10\u207b\u00b3 . 0,1 / 0,05<br>[H\u207a] = 10\u207b\u00b3 . 2<br>pH = - log [H\u207a] <br>pH = - log 10\u207b\u00b3 . 2<br>pH =\u00a0 3 - log 2<br>pH = 3 - 0,3<br>pH = 2,7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "senyawa-ion-dalam-bentuk-lelehan-maupun-larutan-dapat-menghantark-283",
+            "question": "senyawa ion dalam bentuk lelehan maupun larutan dapat menghantarkan arus listrik , tetapi tidak dalam bentuk kristalnya.berilah penjelasan mengenai hal ini!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena senyawa ionik pada keadaan padat gaya ikat yang \nterbentuk antara ion positif dan ion negatif (kisi kristal) sangat kuat \nsehingga tidak memungkinkan terjadinya mobilisasi ion-ion. yang enyebabkan tidak dapat menghantarkan arus listrik<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Senyawa ion dalam bentuk lelehan atau larutan dapat bergerak \nsecara bebas dan terpisah menjadi ion positif dan negatif. Ion yang \nbergerak bebas inilah yang dapat menghantarkan arus listrik. Dalam \nbentuk kristal, ionnya tertata secara struktural dan tidak bergerak \nbebas</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

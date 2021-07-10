@@ -1,0 +1,130 @@
+{
+    "question": "sebuah peluru bermassa M= 20 gram ditembakkan kearah balok ayunan bermassa 980 gram. setelah ditembakkan, peluru menumbuk balok dan tertanam didalam balok sehingga berayun mencapai ketinggian 10 cm. jika percepatan gravitasi bumi sebesar g = 9,8 m/s^2, kecepatan peluru sebelum menumbuk balok sebesar......m/s^2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Diketahui : <br>massa peluru = mp = 20 g = 0,02 kg<br>massa balok = mb = 980 g = 0,98 kg <br>sebelum menumbuk balok : vb = 0 <br>h = 10 cm = 0,1 m<br>g = 9,8 m/s^2<br>Ditanya : <br>vp = ...?<br>Jawab : <br>karena peluru bersarang di dalam balok, maka jenis tumbukannya adalah tumbukan tidak lenting samasekali <br>mp . vp + mb . vb = (mp + mb) . v&#039; <br>v&#039;\u00a0 = \u221a(2.g.h) = \u221a(2 . 9,8 . 0,1) = 1,4 m/s<br>0,02 vp + 0 = (0,02 + 0,98).1,4<br>0,02 vp = 1,4 <br>vp = 1,4 : 0,02 = 70 m/s\u00a0 <br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pipa-berbentuk-pipa-u-berisi-air-dan-minyak-tinggi-kolom-914",
+            "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika maasa jenis air 1.000 kg/, maka hitunglah massa jenis minyak.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c1 = Rho<br><br>Diketahui : \u03c11 = 1000 kg/[tex] M^{3} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 h1 = 10 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  h2 = 20 cm<br>Ditanyai : \u03c12\u00a0 ?<br><br>Penyelesaian<br><br>\u03c11 . h1 = \u03c12 . h2<br>1000 . 10 = \u03c12 . 20<br>\u03c12 = <u>1000 . 10</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u03c12 = <u>10000</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  20<br>\u03c12 = 500 kg/[tex] M^{3} [/tex]<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "massa jenis minyak = 0,5 g/cm^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-memompa-bola-basket-857",
+            "question": "Bagaimana cara memompa bola basket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dengan mengisi angin menggunakan pompa, sehingga tekanan udara di dalam bola basket meningkat :) Saat bola di pompa, udara dari ruang hampa yg ada di pompa aja terdorong ketika mendorong tuas (lagi posisi mompa), menuju bola basket :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "energi-dari-sebuah-partikel-yang-massa-diamnya-55x10-27-kg-se-678",
+            "question": "Energi dari sebuah partikel yang massa diamnya 5,5x10^{-27} kg setara dengan ... ( c = 3 x 10^{8} )\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "En= h (c/Lamda) \u00a0 (simbol lamda nya gk ad jadi pke tulis ja nama nya)<br><br>h itu=6,63x10^-34 Joule/Second<br><br>tingal masukan ja,, tapi lamda gk diketahui jadi gk bs dicari<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820",
+            "question": "Dua piringan berjari jari sama memiliki massa masing\u00a0- masing: mA=0,8 kg dan mB=1,6 kg. Pada awalnya kedua piringan berputar dengan kecepatan sudut\u00a0\u03c9A = 32 rpm dan \u03c9B = 8 rpm. Jika kedua piringan digabungkan sepusat maka, Tentukan kecepatan sudutnya setelah digabung?    dibawah ini contoh dan carakerjanya!",
+            "attachments": [
+                "question-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jangan lupa divote terbaik ya!\u00a0",
+                    "attachments": [
+                        "answer-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kumparan-terdiri-atas-200-lilitan-berbentuk-persegi-panjan-814",
+            "question": "sebuah kumparan terdiri atas 200 lilitan berbentuk persegi panjang dengan panjang 10 cm dan lebar 5 cm. kumparan itu diputar dalam medan maget 0,5 T dan kecepatan sudut 60 rad/s. pada ujung ujung kumparan akan timbul ggl AC maksimum sebesar...V",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>N=200 <br>A=0,1 x 0,05 = 0,005 m\u00b2<br>B=0,5 T<br>\u03c9=60 rad/s<br>Dit :<br>\u03b5=...?<br><br>Peny :<br>\u03b5 =N B A \u03c9<br>\u00a0\u00a0 =200 x 0,5 x 0,005 x 60<br>\u00a0\u00a0 =30 Volt <br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-bagaimana-proses-air-mendidih-dan-hukum-apa-yang-digunak-715",
+            "question": "Jelaskan bagaimana proses air mendidih dan hukum apa yang digunakan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Air terdiri dari beberapa molekul yang saling terikat atau tarik menarik. Nah ketika air dipanaskan air akan mengambil energi panas tersebut dengan memperlihatkan gerakan molekul-molekul air. Ketika suhu air semakin panas maka gerakan molekul-molekulnya pun akan semakin cepat yang akan menyebabkan terbebasnya atau terlepasnya ikatan molekul-molekul tersebut. Molekul yang terbebaskan akan berubah menjadi gas (menguap). Titik didih air berada pada 100 C tetapi kondisi ini jika air tidak mengandung bahan-bahan atau zat-zat yang lainnya. Sebagai contoh ketika air mendidih dalam suhu 100 C kemudian Anda memasukan garam kedalam air tersebut maka titik didih air akan lebih tinggi dari 100 C. hal ini dikarenan garam memberikan ikatan kembali kepada molekul-molekul air sehingga dibutuhkan energi panas yang lebih untuk membebaskan air dari ikatan-ikatan tersebut.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-memasak-air-di-daerah-pegunungan-maka-air-akan-mendidih-447",
+            "question": "jika kita memasak air di daerah pegunungan maka air akan mendidih di bawah suhu 100 derajat celcius. jelaskan!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air mendidih pada suhu 100 derajat Celcius. Itu benar, tetapi hanya berlaku untu tekanan 1 Atmosfer (Atm). \u00a0Jika tekanannya lebih rendah dari 1 Atm, maka air mendidih pada suhu di bawah 100 derajat Celcius. Ketika tangkai tabung ditarik, sementara ujung tabung ditutup, maka volume tabung meningkat dan mengakibatkan tekanan di dalam tabung berkurang. Turunnya tekanan di dalam tabung membuat air hangat di dalamnya mendidih.<span>Jika kita memasak air di\u00a0puncak\u00a0gunung yang tinggi, maka air akan mendidih di bawah suhu 100 derajat Celcius. Semakin tinggi letak suatu tempat dari permukaan Bumi semakin rendah tekanan udaranya.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-berapa-elektron-dalam-muatan-1-c-dan-berapakah-massa-elektro-584",
+            "question": "Ada berapa elektron dalam muatan 1 C, dan berapakah massa elektron elektron itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 columb =\u00a0<span>\u00a06.241</span>\u00d710^<span>18 elektron<br><br>massa elektron =\u00a0</span><span>\u00a09,109 \u00d7 10^\u221231 kilogram, <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0ataupun setara dengan 5,489 \u00d7 10^\u22124 satuan\u00a0</span>massa<span>\u00a0atom</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

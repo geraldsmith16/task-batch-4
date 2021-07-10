@@ -1,0 +1,144 @@
+{
+    "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-rusuk-6cm-jarak-titik-a-938",
+            "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-dan-y-memenuhi-xy-yx-52-dan-x-3y-1-maka-5x-5y-887",
+            "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-magga-dan-apel-75-buah-jika-perbandingan-78-banyak-buah-a-560",
+            "question": "Jumlah Magga dan Apel 75 Buah jika perbandingan 7:8 Banyak Buah Apel adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya mangga=35<br>apel=40<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mangga = m<br>Apel = a<br>\u00a0<br>m + a = 75<br>\u00a0m : a\u00a0= 7 : 8\u00a0<br>\u00a0Apel = 8/7 x \u00a075\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= \u00a085 , 71 \u00a0 ( dibulatkan )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 86\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-1-cos-a-tentukan-nilai-tan-a-320",
+            "question": "Jika 1 - cos a =  , tentukan nilai tan a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]1-cosa =  \\frac{9}{25(1+cosa)}[/tex]<br>kalikan kedua ruas dengan \u00a01 + cos a, didapat<br>[tex]1-cos^{2}a =  \\frac{9}{25}[/tex]<br>[tex]sin^{2}a =  \\frac{9}{25}[/tex]<br>[tex]sina =  \\frac{3}{5}[/tex]<br>[tex]1-cos^{2}a =  \\frac{9}{25}[/tex]<br>[tex]cos^{2}a =1-  \\frac{9}{25}[/tex]<br>[tex]cos^{2}a =  \\frac{16}{25}[/tex]<br>[tex]cosa =  \\frac{4}{5}[/tex]<br>sehingga<br>[tex]tana =  \\frac{sina}{cosa} = \\frac{3/5}{4/5} = \\frac{3}{4} [/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suku-ke-7-suatu-barisan-aritmatika-adalah-22-dan-suku-ke-628",
+            "question": "1.jika suku ke - 7 suatu barisan aritmatika adalah 22 dan suku ke - 12 adalah 37.tentukan suku ke - 14 barisan tsb    2.tentukan rumus suku ke (n) dari barisan aritmatika 13,10,7,4 adalah\r\n\r\n3.diketahui suku pertama suatu barisan geometri adalah 16 dan suku ketiga 36 tentukan suku ke - 5 barisan tersebut\r\n\r\n4.diketahui deret geometri dengan suku pertama 4 dan suku ke 5 = 324,hitung jumlah delapan suku pertama deret tersebut\r\n\r\n5.deret aritmatika jumlah suku kedua dan keenam adl 26 dan jumlah suku keempat dan kedelapan adalah\u00a0 38 tentukanlah :\r\n\r\na.suku pertama dan bedanya \r\nb.jumlah sepuluh suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)<br>U7 = a+6b =\u00a022<br>U12 = a+11b =\u00a037<br>U14 = ?<br><br>a+6b = 22<br>a+11b = 37<br>__________-<br>-5b = -15<br>b\u00a0=\u00a03<br><br>Cari a , b=3<br>a+6b = 22<br>a+18 = 22<br>a = 4<br><br>U14 = a+13b<br>U14 = 4+13(3)<br>U14 = 4+39<br>U14 =\u00a043<br><br>2)<br>U1 = 13<br>U2 = 10<br>U3 = 7<br>U4 = 4<br>b = U4 - U3 = 4 - 7<br>b = -3<br>Un = a+(n-1)b<br>U4 = a+(4-1)b<br>U4 = a+3b<br><br>3)<br>U1 = a = 16<br>U3 = ar^2 =\u00a036<br>U5 = ?<br>cari r<br>U1/U3 = 16/36<br>a/ar^2 = 16/36<br>1/r^2 = 4/9<br>r^2 = 9/4<br>r = 3/2<br>U5 = ar^4<br>U5 = 16(3/2)^4<br>U5 = 16(81/16)<br>U5 = 81<br><br>CMIIW<br><br>Maaf, No 4 dan 5 saya masih dalam pembelajaran hehe",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. u7 = a + 6b = 22<br>\u00a0 \u00a0<u>u22= a + 12b = 37 +<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -15b = -15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 1<br>a + 6 (1) = 22<br>a + 6 \u00a0 \u00a0 \u00a0\u00a0= 22<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 22 - 6<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 16<br><br>u14 = a + 13b<br>\u00a0 \u00a0 \u00a0 = 16 + 13.1<br>\u00a0 \u00a0 \u00a0\u00a0= 29<br>2. un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 + ( n-1)-3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 - 3n + 3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16 - 3n<br><br>yang nomer selanjutnya ntar dulu yach, mo shalat dulu.. hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-1-hari-terbentuk-sudut-787",
+            "question": "Jika kita perhatikan jam, berapa kali kah 1 hari terbentuk sudut sudut dibawah ini    a. 90 derajat = ?\r\nb. 180 derajat = ?\r\nc. 30 derajat = ?\r\nd. 120 derajat = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jam = 360\u02da<br>90\u02da = 360/90\u00a0= 4<br>180\u02da = 360/180 = 2<br>30\u02da = 360/30 = 12<br>120\u02da = 360/120 = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.4<br>b.12<br>c.2<br>d.3<br>terimakasih<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fxmx22m-3xm3-berada-diatas-sumbu-x-batas-685",
+            "question": "Grafik fungsi f(x)=mx^2+(2m-3)x+m+3 berada diatas sumbu x. Batas-batas nilai m yang memenuhi adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = mx\u00b2 +(2m -3)x\u00a0 + m + 3<br>a = m<br>b = 2m -3<br>c = m + 3<br><br>syarat FK punya akar imajiner : D &lt; 0<br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m - 3)\u00b2 - 4.m.(m+3) &lt; 0<br>4m\u00b2 - 12m + 9 - 4m\u00b2 - 12 &lt; 0<br>-12m - 3 &lt; 0<br>-12m &lt; 3<br>m &gt; [tex] \\frac{3}{-12} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) berada di atas sumbu x, berarti D &lt; 0<br>a = m<br>b = (2m-3)<br>c = m+3<br><br>D = b\u00b2 - 4.a.c &lt; 0<br>\u00a0 \u00a0 \u00a0 (2m-3)\u00b2 - 4.m.(m+3) &lt; 0<br>\u00a0 \u00a0 \u00a0 4m\u00b2 - 12m + 9 - 4m\u00b2 - 12m &lt; 0<br>\u00a0 \u00a0 \u00a0 -24m + 9 &lt; 0 \u00a0dikali (-1) agm\u00a0ar tidak negatif, hati2 setelah dikali (-1) tanda berubah<br>\u00a0 \u00a0 \u00a0 \u00a024m - 9 &gt; 0 dibagi 3 agar lebih mudah mencari nilai m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a08m - 3 &gt; 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08m &gt; 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m &gt; 3/8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0<br><br>\u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

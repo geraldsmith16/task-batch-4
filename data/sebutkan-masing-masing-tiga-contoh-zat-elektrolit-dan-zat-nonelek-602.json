@@ -1,0 +1,134 @@
+{
+    "question": "Sebutkan masing-masing tiga contoh zat elektrolit dan zat nonelektrolit di dalam kehidupan sehari-hari!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "elektrolit: larutan garam, larutan asam klorida, larutan air seni (lemah)<br>non elektrolit: larutan gula, larutan asam cuka, air murni<br>",
+            "attachments": []
+        },
+        {
+            "answer": "non elektrolit : gula<br>elektrolit : garam",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitung-ph-campuran-200-ml-larutan-ch3cooh-01-m-dengan-100-ml-lar-430",
+            "question": "Hitung pH campuran 200 ml larutan CH3COOH 0,1 M dengan 100 ml larutan Ba(CH3COO)2 ,0,1M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "CH\u2083COOH + Ba(CH\u2083COO)\u2082<br>mol CH\u2083COOH = 200 ml x 0,1 M = 20 mmol<br>mol Ba(CH\u2083COO)\u2082 = 100 ml x 0,1 = 10 mmol<br>mol OH\u207b sisa = 20-10 = 10 mmol<br>[OH\u207b] = mol/V.total = 10 mmol / 300 ml = 10\u207b\u00b2<br>pOH = - log [OH\u207b] = - log [10\u207b\u00b2] = 2 <br>pH = 14-pOH = 14 -2 = 12 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-ml-larutan-naoh-01-m-harus-dicampurkan-dengan-100-ml-laru-792",
+            "question": "berapa mL larutan NaOH 0,1 M harus dicampurkan dengan 100 mL larutan HCl 0,1 M untuk membuat larutan ph=3 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui :\u00a0</span><br><span>M NaOH = 0,1 M\u00a0</span><br><span>M HCl = 0,1 M\u00a0</span><br><span>V HCl = 100 ml\u00a0</span><br><br><span>Ditanya :\u00a0</span><br><span>V NaOH agar pH=3 ?\u00a0</span><br><br><span>Jawab :\u00a0</span><br><span>pH lar = 3\u00a0</span><br><span>[H+] = M\u00a0</span><br><span>[H+] = 10^-pH\u00a0</span><br><span>[H+] = 10^-3\u00a0</span><br><span>M lar = 10^-3 = 0,001 M\u00a0</span><br><br><span>NaOH + HCl == &gt; NaCl + H2O\u00a0</span><br><br><span>Mol NaOH = Mol NaCl\u00a0</span><br><span>V1.M1 = V2.M2\u00a0</span><br><span>x . 0,1 = (100 + x ) . 0,001\u00a0</span><br><span>0,1x = 0,1 + 0,001x\u00a0</span><br><span>0,1x \u2013 0,001x = 0,1\u00a0</span><br><span>0,099x = 0,1\u00a0</span><br><span>x = 0,1 / 0,099\u00a0</span><br><span>x = 1,01 ml\u00a0<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50ml-larutan-02-m-hcl-dicampurkan-dengan-50-ml-larutan-04-m-koh-384",
+            "question": "50ml larutan 0,2 M HCL dicampurkan dengan 50 ml larutan 0,4 M KOH . Hitunglah pH larutan masing masing sebelum dicampurkan dan pH larutan setelah dicampurkan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 ml larutan 0,2 M HCl + 50 ml larutan 0,4 M KOH -&gt; KCl +H2O<br>[H+](HCl) = M x n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,2 x 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 x 10^-1<br>pH HCl = 1-log2<br>[OH-](KOH) = M x n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,4 x 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4 x 10^-1<br>pOH HCl = 1-log 4<br>pH HCl = 14-(1-log4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 14 - 1 + log4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 + log 4<br>sesudah<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a050 ml larutan 0,2 M HCl + 50 ml larutan 0,4 M KOH -&gt; KCl +H2O<br>mula2 \u00a0 \u00a0: 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20 mmol<br>bereaksi : 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010 mmol<br>sisa \u00a0 \u00a0 \u00a0 : - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010 mmol<br><br>[OH-]= M x n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= (10 mmol/50ml+50ml) x 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 10^-1<br>pOH = 1<br>pH =13<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kesalahan-apa-yang-akan-terjadi-jika-pada-titrasi-basa-lemah-deng-631",
+            "question": "kesalahan apa yang akan terjadi jika pada titrasi basa lemah dengan asam kuat digunakan fenolftalein sebagai indikator?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik ekivalen basa lemah dan asam kuat &lt;7, sedangkan trayek fenolfetalein 8,3-10 sehingga memungkinkan belum terjadinya perubahan warna/perubahan warna tidak terlihat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kulit-pisang-bisa-menghantarkan-listrik-897",
+            "question": "Kenapa kulit pisang bisa menghantarkan listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin karena serat-serat kulitnya dan keadaannya yang agak basah..",
+                    "attachments": []
+                },
+                {
+                    "answer": "kulit pisang dapat digunakan sebagai penghantar\u00a0arus listrik, karena dalam<span>\u00a0limbah kulit pisang banyak terdapat berbagai macam elektrolit seperti asam asetat,\u00a0magnesium, seng, dan kalium yang mampu menghantarkan ion dan elektron dalam elektroda.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diuji-dengan-alat-penguji-elektrolit-ternyata-larutan-nh3-311",
+            "question": "Jika diuji dengan alat penguji elektrolit, ternyata larutan NH\u2083 0,1M merupakan konduktor yang lebih buruk daripada larutan NaCl 0,1 M. Mengapa demikian?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hal tersebut dapat terjadi di karenakan larutan nacl merupakan konuktor yang lebih baik di bandingkan nh3<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>karena NaCl lebih bersifat elektrolit kuat (bersifat garam) daripada NH3 yang merupakan elektrolit lemah</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-kegunaan-air-suling-dalam-percobaan-elektrolit-822",
+            "question": "Sebutkan kegunaan air suling dalam percobaan elektrolit !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pertama kita definisikan dulu apa itu suatu larutan ya<br>Larutan dibagi menjadi dua unsur yaitu pelarut dan larutan itu sendiri. Pelarut adalah sesuatu yang digunakan untuk melarutkan suatu benda. Jumlah pelarut ini lebih besar dari unsur yang dilarutkan. <br><br>Kemudian yang kedua terkait larutan elektrolit. Berdasarkan sumber yang dihimpun larutan Elektrolit adalah suatu zat yang ketika dilarutkan dalam air \nakan menghasilkan larutan yang dapat menghantarkan arus listrik. \nContohnya pelarut air dengan alkohol 70 %. <br><br>Sedangkan larutan non elektrolit tidak \nmenghantarkan arus listrik ketika dilarutkan ke dalam air. Senyawa ionik\n dan kovalen polar biasanya bersifat elektrolit. Contohnya asam, basa, \ndan garam<br><br>Nah Air suling atau aquades dengan rumus kimia H20 merupakan pelarut dengan Ph 7, yang fungsinya adalah sebagai bahan percobaan atau pelarut elektrolit yang baik. Konduktifitasnya adalah 0-100 \u03bcs. Sehingga di sini air sulit sangat baik untuk melarutkan zat zat yang bersifat elektrolit. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ke-dalam-larutan-asam-lemah-ha-01m-dicelupkan-kertas-indikqtor-u-685",
+            "question": "ke dalam larutan asam lemah HA 0,1M dicelupkan kertas indikqtor universal. ternyata, warnanya sama dengan indikator universal yang di crlupkan dalam larutan H2SO4 0,01M.tetapan ionisasi asam lemah tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 0,01 M =[H]=0,01<br>pada HA<br>[H] =\u00a0\u221aKa\u00a0\u00d7 M<br>10\u00b2 =\u00a0\u221aka\u00a0\u00d7 0,1<br>ka = 0,001",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "isomer-aldehid-yang-rumus-molekulnya-c6h12o-tuliskan-nama-masin-594",
+            "question": "Isomer aldehid yang rumus molekulnya\u00a0C6H12O. tuliskan nama masing-masing senyawa isomer ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><span>Kelas: XII</span></p>\n\n<p>Mata Pelajaran: Kimia </p>\n\n<p>Materi: Senyawa Organik</p>\n\n<p>Kata Kunci: Aldehid</p>\n\n<p>\u00a0</p>\n\n<p><strong>Pembahasan</strong>:</p>\n\n<p>\u00a0</p>\n\n<p>Aldehid adalah senyawa organik yang memiliki gugus fungsional \u2013CHO.\n</p>\n\n<p>\u00a0</p>\n\n<p>Pada senyawa dengan rumus senyawa C\u2086H\u2081\u2082O, terdapat 6 atom\nkarbon dan salah satunya merupakan gugus fungsional \u2013CHO ini. Sehingga\nisomernya adalah:</p>\n\n<p>\u00a0</p>\n\n<p><strong>1.\n1-Heksanal</strong></p>\n\n<p>\u00a0</p>\n\n<p>Isomer ini adalah isomer paling sederhana berupa heksana\nberrantai lurus dan gugus \u2013CHO pada atom karbon ujung. </p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083(CH\u2082)\u2085CHO</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0O</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0||</p>\n\n<p>CH\u2083 - CH\u2082 - CH\u2082 - CH\u2082\n- \u00a0CH\u2082 - C-H</p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>2. 2-metil\npentanal</strong></p>\n\n<p><strong>\u00a0</strong></p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di senyawa pentana\nyang juga terikat dengan dua gugus metil (-CH\u2083), yang terletak pada\natom karbon ke 2.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083CHO(CH\u2082)\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p>\u00a0</p>\n\n<p>O</p>\n\n<p><span>||\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></p>\n\n<p>CH - CH - CH\u2082 - CH\u2082 - CH\u2083 </p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 CH</span>\u2083</p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>3. 2-etil\nbutanal</strong></p>\n\n<p><strong>\u00a0</strong></p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di\nsenyawa butana yang juga terikat dengan dua gugus etil (-C\u2082H\u2085),\nyang terletak pada atom karbon ke 2.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083CH\u2082CHOCH\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></p>\n\n<p>O</p>\n\n<p>||\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n\n<p>CH - CH - CH\u2082 - CH\u2083 </p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0CH\u2082 - CH\u2083 </p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>4. 2,2-dimetil\nbutanal</strong></p>\n\n<p><strong>\u00a0</strong></p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di\nsenyawa butana yang juga terikat dengan dua gugus metil (-CH\u2083),\nyang keduanya terletak pada atom karbon ke 2.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083C(CH\u2083)(CHO)CH\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0O</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0||\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0C-H</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0|</span></p>\n\n<p>CH\u2083 - C - CH\u2082 - CH\u2083 </p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0|</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 CH\u2083</span></p>\n\n<p>\u00a0</p>\n\n<p><strong>5. 2,3-dimetil\nbutanal</strong></p>\n\n<p>\u00a0</p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di senyawa\nbutana yang juga terikat dengan dua gugus metil (-CH\u2083) pada atom karbon\nke 2 dan ke 3.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083C(CH\u2083)(CHO)CH\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p>\u00a0</p>\n\n<p>O</p>\n\n<p><span>||\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></p>\n\n<p>CH - CH - CH - CH\u2083 </p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0|\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0|</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0CH\u2083 \u00a0\u00a0\u00a0\u00a0\u00a0CH\u2083</span></p>\n\n<p>\u00a0</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </p>\n\n<p>\u00a0</p>\n\n<p>\u00a0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-isomer-dari-c3h6o-dan-c3h6o2-168",
+            "question": "Apakah isomer dari C3H6O dan C3H6O2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C3H6O isomernya aldehid dan keton<br>C3H6O2 isomernya Asam karboksilat dan ester",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

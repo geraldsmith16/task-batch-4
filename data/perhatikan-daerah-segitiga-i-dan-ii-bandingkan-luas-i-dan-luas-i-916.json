@@ -1,0 +1,146 @@
+{
+    "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+    "attachments": [
+        "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+            "attachments": []
+        },
+        {
+            "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491",
+            "question": "Persamaan garis singgung kurva \r\n\r\nY=x3+2x2+1\r\n\r\n pada titik yg berbasis 1 adalah...",
+            "attachments": [
+                "question-attachments/persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "mna soalnnya.........................................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-menyebabkan-pernyataan-jika-x2-x-6-maka-x2-922",
+            "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-fungsi-kuadrat-yang-memotong-sumbu-x-dititk-304",
+            "question": "tentukan persamaan fungsi kuadrat yang memotong sumbu x dititk (-3,0) dan (1,0) serta memotong sumbu y di titik (0,6)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = a (X-X1) (X-X2)<br>6 = a (0-(-3)) (0-1)<br>6 = a (3) (-1)<br>6 = -3a<br>-2 = a<br><br>maka f(x) = -2 (x+3) (x-1)<br>f (x) = -2 (x\u00b2+2x-3)<br>f(x) = -2x\u00b2-4x+6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-matriks-a-5-2-1-4-maka-invers-matriks-a-adalah-759",
+            "question": "Jika diketahui matriks a= -5 2 1 4 maka invers matriks a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= -5 \u00a02<br>\u00a0 \u00a0 \u00a01 \u00a0 4<br>a-1 (a invers) = 1/( -5x4) - ( 2x1 )\u00a0 4\u00a0 -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0-1 \u00a0-5<br>a-1 = 1/(-20-2) \u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 -1 \u00a0-5<br>a-1 = 1/-22 \u00a0\u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a01 \u00a0-5<br>a-1 = -2/11 \u00a0 1/11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a01/22 \u00a0 \u00a05/22<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

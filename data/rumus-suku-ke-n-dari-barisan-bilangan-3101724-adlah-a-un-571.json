@@ -1,0 +1,145 @@
+{
+    "question": "Rumus suku ke-n dari barisan bilangan 3,10,17,24 adlah..    A. Un = 7n-2\r\n B. Un = 7n-4\r\n C. Un= 7n+2\r\n D. Un = 7n+ 4\r\n E. Un= 7n+6",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 = 3 + (n-1) (10-3)<br>\u00a0 \u00a0 \u00a0 = 3 + 7n - 7<br>\u00a0 \u00a0 \u00a0 = 7n - 4",
+            "attachments": []
+        },
+        {
+            "answer": "B.Un = 7n-4\n\nMisal U2 = 7x2-4\n= 14-4\n=10",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-yang-akar-akarnya-27-dan-1-adalah-caranya-y-165",
+            "question": "Persamaan kuadrat yang akar akarnya 2/7 dan -1 adalah ? caranya yah guys",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x-2/7)(x+1)=0<br>\u00a0x^{2}+5/7x-2/7 =0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agak ragu deh....<br><br>x1 = 2/7 \u21d2 (7x - 2) = 0<br>x2 = -1 \u21d2 (x +1) = 0<br>jadi,<br>(7x - 2)(x + 1) = 0<br>7x^{2} +5x-2 = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-32-15-125-13-81-12-adalah-738",
+            "question": "Nilai dari 32 1/5 - 125 1/3 + 81 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari 32^ 1/5 - 125^ 1/3 + 81^ 1/2 adalah ...</p><p>Soal diatas menrupakan materi Eksponen yang berpangkat pecahan. Kemungkinan ini soal UN Matematika SMK.</p><p><u><strong>Sifat-sifat Perpangkatan </strong></u></p><p>[tex]$\\begin{align} \\ a^{m}\\times a^{n} &amp;= a^{m + n} \\end {align}[/tex]</p><p>[tex]$\\begin{align} \\ \\frac{ a^{m} }{ a^{n} } &amp;= a^{m - n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (ab)^{n} &amp;= a^{ n} \\times \\ b^{n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (a:b)^{n} &amp;= a^{ n} : b^{n} \\end{align}[/tex]</p><p>Lebih lengkapnya silahkan lihat lampiran II</p><p></p><h2>Pembahasan</h2><p><strong>Menentukan nilai perpangkatan pecahan</strong></p><p>[tex]$\\begin{align} \\ 32^{\\frac{1}{5}} - 125^{\\frac{1}{3}} + 81^{\\frac{1}{2}} &amp; = (2^{ 5})^{\\frac{1}{5}} - (5^{3})^{\\frac{1}{3}} + (3^{ 4})^{\\frac{1}{2}} \\\\ &amp; = 2^{5 \\times \\frac{1}{5}} - 5^{3 \\times \\frac{1}{3}} + 3^{4 \\times \\frac{1}{2}} \\\\ &amp; = 2 - 5 + 3^{2} \\\\ &amp; = -3 + 9 \\\\ &amp; = 6\\end{align}[/tex]</p><p>Untuk penulisannya bisa dilihat pada lampiran I</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Eksponen dan bentuk Akar</h3><ol><li>Jika a = 1/9, b = 16 dan c = 125, maka nilai dari 2. a^(-1/2) - b^(1/4) + c^(1/3) adalah \u2192 https://brainly.co.id/tugas/14065011</li><li>Menyederhanakan perkalian bentuk pangkat \u2192 brainly.co.id/tugas/1774225</li><li>Menghitung perpangkatan negatif\u00a0\u2192\u00a0brainly.co.id/tugas/3777097</li><li>Sifat ekponen dan logaritma\u00a0\u2192\u00a0brainly.co.id/tugas/11181034</li><li>Pangkat pecahan \u2192\u00a0brainly.co.id/tugas/6055009</li><li>Soal cerita perpangkatan \u2192 https://brainly.co.id/tugas/3116750</li></ol><h3>Detil Jawaban</h3><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 10\u00a0SMA</p><p>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Matematika\u00a0</p><p>Kategori \u00a0 \u00a0 : Bab 1 - Eksponen dan Bentuk Akar</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 10.2.1</p><p>Kata kunci : nilai dari, pangkat pecahan</p><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": [
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-1.jpg",
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-rumus-fungsi-f-dan-rumus-f-o-g-untuk-kondisi-g-o-f-302",
+            "question": "1. Tentukan rumus fungsi f dan rumus (f o g) untuk kondisi (g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1    2. Tentukan rumus fungsi f dan (g o f) untuk kondisi (f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1\r\n\r\n3. Tentukan rumus fungsi g dan rumus (g o f) untuk kondisi (f o g)(x) = akar 4x^2 + 12x + 14, f(x) = akar x^2 + 5, dan g(2) = 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0(g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1<br></span>\u00a0x^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 =\u00a04x^2 + 4x +1<br>\u00a0 f =\u00a0\u221a4x^2 + 4x +1<br>\u00a0 f = 2x+1<br><br>\u00a0 f o g =\u00a02(x^2 - 1)+1 = 2x^2-1<br><br><br><br>2.\u00a0<span>(f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1 \u00a0 \u00a0 g- = 1/2x -1/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f =\u00a0</span>4(1/2x -1/2)^2 - 6(1/2x -1/2) + 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f = x^2 - 5x + 9<br><br>\u00a0 g o f =\u00a02(x^2 - 5x + 9) + 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x^2 - 10x + 19<br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "1)\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x dan g(x) = x\u00b2\u00a0- 1<br>\u21d2\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x\u00a0<br>\u21d2 g(f(x)) =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 - 1 =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 =\u00a04x\u00b2\u00a0+ 4x + 1<br>\u21d2<br><br>2)\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5 dan g (x) = 2x + 1<br>\u21d2\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5\u00a0<br>\u21d2 f(g(x)) =\u00a04x\u00b2\u00a0- 6x + 5<br>\u21d2 f( 2x+1) = 4x\u00b2 - 6x +5<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a02x (2x\u00a0+1) + 4x + 5<br>\u21d2 \u00a0 \u00a0 \u00a0\u00a0f(x)\u00a0\u00a0= 2x\u00b2 + 4 x + 5 \u00a0 \u00a0, sehingga :<br>\u21d2\u00a0(g o f)(x)\u00a0= g (f(x))<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= g (\u00a02x\u00b2 + 4 x + 5 )<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2\u00a0(\u00a02x\u00b2 + 4 x + 5 ) + 1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x\u00b2 + 8x + 10 +1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a04x\u00b2 + 8x + 11<br><br><br><span>3)\u00a0(f o\ng)(x) =\u00a0\u221a4x\u00b2\u00a0+ 12x + 14, f(x) =\u00a0\u221ax\u00b2<span>\u00a0+\n5, dan g(2) = 7<br>\n\u00a0 \u00a0 \u00a0<span>\u221a4x\u00b2\n= 2x \u00a0 dan \u00a0 \u00a0\u221ax\u00b2\u00a0= x</span><br></span><span>\u21d2\u00a0(f o g)(x) =\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2 f (g(x)) \u00a0\n\u00a0=\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2\u00a0g(x) + 5\n\u00a0=\u00a02x\u00a0+ 12x + 14<br></span></span>\n\n<span>\u21d2\u00a0g(x)\n+ 5 \u00a0=\u00a02x\u00a0+\n12x + 14</span>\n<br><span>\u21d2 g(x) = 2x\u00a0+\n12x + 14 \u2013 5</span>\n<br><span>\u21d2 g(x) = 14x + 9 </span>\n\n\u00a0\n\n\u00a0\n<br><span><br>\u21d2\u00a0(g o f)(x)\u00a0= g\n(f(x))<span><br></span><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = g (x + 5)</span></span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = \u00a014 (x + 5) + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 14x + 60 + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0 14 x + 69</span><br><br>NB : 1 dan 3 belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dari-fungsi-fxax2bxc-diketahui-f0-6-f1-dan-f22-796",
+            "question": "Jika dari fungsi f(x)=ax2+bx+c diketahui f(0)=-6, f(1) dan f(2)=28 maka f(x)=0 untuk x=...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(0)=a.0^2+b.0+c<br>-6=0+0+c<br>-6=c .............................nilai c<br><br>f(1)=a.1^2+b.1+c<br>28=a+b+(-6)<br>28+6=a+b<br>34=a+b ......................persamaan 1<br><br>f(2)=a.2^2+b.2+c<br>28=4a+2b+(-6)<br>28+6=4a+2b<br>34=4a+2b ......................persamaan 2\u00a0<br><br>f(1)=f(2)<br>a+b=4a+2b<br>a-4a=2b-b<br>-3a=b<br>b=-3a<br><br>34=2a+b\n\u00a0......................persamaan 1\n<br>34=2a+(-3a)<br>34=-a<br>a=-34<br><br>b=-3a<br>b=-3.34=-102<br><br>f(x)=0<br>-34x2-102x-6=0<br>-2.(17x2+51x+3)\u00a0=\u00a00<br>(17x+1) . (x+3)=0<br>x=\u00a0-1 / 17\u00a0\u00a0\u00a0\u00a0\u00a0 atau\u00a0\u00a0\u00a0 x= -\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-soal-dan-jawaban-barisan-aritmatika-apa-saja-962",
+            "question": "10 contoh soal dan jawaban barisan aritmatika apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Diketahui barisan aritmetika\u00a0 3, 8, 13, \u2026<br>\u00a0\u00a0\u00a0 a. Tentukan suku ke-10 dan rumus suku ke-n barisan tersebut!<br>\u00a0\u00a0\u00a0 b. Suku keberapakah yang nilainya 198 ?</span><br><span><br>Jawab :</span><br><span>\u00a0<br>a. Dari barisan aritmetika 3, 8, 13, \u2026 diperoleh suku pertama a = 3 dan beda b = 8 \u2013 3 = 5.</span><br><span><br>Un\u00a0\u00a0\u00a0 = a + (n \u2013 1)b<br>U10\u00a0 = 3 + (10 \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 3 + 9 x 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 45<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>48</u></span><br><br>\u00a0Un\u00a0\u00a0 = a + (n \u2013 1)b<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + (n \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 5n \u2013 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>5n \u2013 2</u><br><span><br>b. Misalkan Un\u00a0 = 198, maka berlaku :</span><br><span><span><br>Un\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>5n \u2013 2 = 198<br>5n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 200<br>\u00a0n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>40</u><br>Jadi 198 adalah suku ke- 40</span>\u00a0</span><br><br><br><br><span>2. Diketahui U1 = a = 3 , U5 = 19 , Un = 31</span><br><span>\u00a0\u00a0\u00a0 a. Tentukan beda (b)</span><br>\n\u00a0\u00a0\u00a0 b. Tentukan n<br>\n\u00a0 \u00a0 c. Tentukan suku ke-20\u00a0<br><span>\u00a0\u00a0\u00a0 d. Tentukan n jika Un = 51</span><br><br><br><br>Jawab :<br><br><span>a. Cari U5 terlebih dahulu, setelah itu cari b dengan rumus U5 yang telah didapat :</span><br><span><br><span>\u00a0\u00a0\u00a0 Un = a + (n - 1)b</span></span><br>\u00a0\u00a0\u00a0 U5 = a + (5 - 1)b<br><span>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = <u>a + 4b</u></span><br><br><span>\n<span>\u00a0 \u00a0 b = a + 4b = 19</span></span><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 + 4b = 19<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4b = 19 - 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 16/4<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = <u>4</u> \u00a0</span><br><br><span>\n<span>\u00a0b. Gunakan rumus Un = a + (n - 1)b = 31 (diketahui Un = 31) :</span></span><br><br><span>\n<span>\u00a0 \u00a0 \u00a0 Un = 31</span></span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 31<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 31<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 31 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 32/4<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>8</u>\n<br><span><br><span>\u00a0c. suku ke-20 , dik: a = 3 , b = 4 :</span></span><br><br><span>\n\u00a0 \u00a0 \u00a0\u00a0 Un \u00a0 = a + (n - 1) b</span><br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + (20 - 1) 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + 80 - 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 80 - 1<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = <u>79</u>\u00a0<br><br><br><span>d. Jika Un = 51 :</span><br><br><span>\n\u00a0 \u00a0 \u00a0 Un = 51</span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 51<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 51<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 51 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 52/4<br><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>13</u></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

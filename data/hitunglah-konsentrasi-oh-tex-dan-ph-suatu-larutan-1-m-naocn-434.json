@@ -1,0 +1,132 @@
+{
+    "question": "hitunglah konsentrasi OH^-[/tex] dan pH suatu larutan 1 M NaOCN , bila harga Ka HOCN adalah 3,3 X",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "hidrolisis...<br><br>[OH^-] = AKAR Kw.M/Ka = akar 10^-14 . 1/ 3,3x10^-4 = akar 0,303x10^-10 = 0,55x10^5<br>maka Poh= - log OH^-<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - Log 5,5x10^-4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4-log\u00a05,5<br>PH=14-Poh<br>\u00a0 \u00a0 \u00a0= 14 - (4-log 5,5)<br>\u00a0 \u00a0 \u00a0=10 + log 5,5<br><br><br><u></u>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gas-n2o4-terdisosiasi-20-menjadi-gas-no2-jika-tekanan-total-pada-301",
+            "question": "gas N2O4 terdisosiasi 20% menjadi gas NO2 jika tekanan total pada kesetimbangan adalah 0,9 atm, maka harga kp pada suhu yang sama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui:<br>Gas N\u2082O\u2084 terdisosiasi sebanyak 20% menjadi\u00a0NO\u2082<br>Tekanan total 0,9 atm<br><br>Ditanya:<br>Tetapan kesetimbangan parsial gas Kp<br><br>Penyelesaian:<br>\u21d2 Misalkan jumlah mol mula-mula N\u2082O\u2084 adalah a<br>\u21d2 Terdisosiasi 20% atau 0,2 bagian dari a<br><br><em>Step-1</em><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 N\u2082O\u2084 \u00a0\u21c4\u00a0 2NO\u2082<br>mula-mula:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -<br>reaksi\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00,2a\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 0,4a<br>----------------------------------------<br>setimbang\u00a0\u00a0\u00a0\u00a0\u00a0 0,8a\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a00,4a<br><br><em>Step-2<br></em><br>\u21d2 Perbandingan tekanan parsial N\u2082O\u2084 dan NO\u2082 adalah 0,8a : 0,4a atau 2 : 1<br><br>\u21d2 Tekanan parsial gas N\u2082O\u2084 = 2/3 x 0,9 atm = 0,6 atm<br><br>\u21d2 Tekanan parsial gas NO\u2082 = 1/3 x 0,9 atm = 0,3 atm<br><br><br><em>Final Step<br></em><br>\u21d2 Kp = [P NO\u2082]\u00b2 / [P N\u2082O\u2084]<br>\u00a0\u00a0<br>\u21d2 Kp = [0,3]\u00b2 / [0,6]<br><br>\u21d2 Kp = 0,3/2<br><br><strong>\u2234 Diperoleh Kp sebesar 0,15</strong><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-50-ml-hcl-01-m-dicampurkan-dengan-50-ml-ch3cooh-01-m-ka-168",
+            "question": "Jika 50 mL HCL 0,1 M dicampurkan dengan 50 mL CH3COOH 0,1 M (Ka= 10^-3) maka pH campuran menjadi ....    a. 0,5\r\nb. 2,4\r\nc. 3,5\r\nd. 1,3\r\ne. 4,6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "50 mL HCL 0,1 M dicampurkan dengan 50 mL CH3COOH 0,1 M<br><br>Reaksi\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 HCl + CH\u2083COOH --&gt; CHCH\u2083COOCl + H\u2082O<br>Mula-mula\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,005\u00a0 \u00a0 \u00a0  0,005<br>Yang Bereaksi\u00a0 \u00a0\u00a0 0,005\u00a0 \u00a0 \u00a0 0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,005<br>Hasil Reaksi\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0  -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,005<br><br>Maka, pH =<br>Pertama mencari [H\u207a] = Ka . [M] asam / [M] garam<br>[H\u207a] = 10\u207b\u00b3 . 0,1 / 0,05<br>[H\u207a] = 10\u207b\u00b3 . 2<br>pH = - log [H\u207a] <br>pH = - log 10\u207b\u00b3 . 2<br>pH =\u00a0 3 - log 2<br>pH = 3 - 0,3<br>pH = 2,7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nh42so4-dalam-air-akan-menghasilkan-ion-996",
+            "question": "(NH4)2SO4 dalam air akan menghasilkan ion?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini ya :\u00a02NH4(+) + SO4(2-)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawabannya sama :) kayak diatas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titrasi-2mllarutan-asam-cuka-memerlukan-35ml-larutannaoh01m-mas-562",
+            "question": "Titrasi 2MLlarutan asam cuka memerlukan 35mL larutanNaOH0,1M. Masa jenis karuran tersebut adalah950 gr/L.Tentukan    a.molaritas asam cuka.dan\r\n\r\n b.kadar asam cuka tersebut \r\n\r\n MOHAN BANTUANYA KARNA SANGAT PERLU SEKALI",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik<br>[CH\u2083COOH] = ? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[NaOH] = 0,1 M<br>Vol. yang dipakai = 2 ml \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Vol. yang diperlukan\u00a0= 35 ml<br>\u03c1 = 950 gr/L \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mr (CH\u2083COOH) = 60 gr/mol<br>\u00a0 \u00a0= 0,95 kg/L (satuan Internasional)<br><br>1. kita langsung cari Molaritas CH\u2083COOH, dengan Rumus<br>N\u2081 x V\u2081 = N\u2082 x V\u2082 ==&gt; nomor 1 berkedudukan sbg asam cuka dan nomor 2 sbg NaOH<br>(1 x [CH\u2083COOH]) x 2 ml \u00a0 = \u00a0 (1 x 0,1M) x 35 ml<br>[CH\u2083COOH] =\u00a0<u>0,1 M x 35 ml</u> = <strong>1,75 M</strong> <strong>(Asam Cuka Pekat)</strong><u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 ml<br><u></u>a. Berapa Molaritas Asam Cuka (CH\u2083COOH)? ===&gt; <strong>1,75 M<br></strong>b. kadar asam cuka tersebut?<br>Rumus dasar :<br>M =\u00a0<u></u>\u03c1<u> . 10 . %kadar\u00a0</u> ==&gt; % kadar =\u00a0<u>M . Mr</u> =\u00a0<u>1,75 M x 60</u> \u00a0 = <strong>11,053 %</strong><u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Mr \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u03c1 . 10 \u00a0 \u00a00,95 kg/L x 10<br><br>Semoga Membantu!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-peb-dan-pei-pada-senyawa-pcl3-h2s-dan-sf4-762",
+            "question": "Tentukan jumlah PEB dan PEI pada senyawa PCl3, H2S, dan SF4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u2081\u2085P = 2 . 8 . 5<br>\u2081\u2087Cl = 2 . 8 . 7<br><br>PCl\u2083 merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 1, dan PEI (pasangan electron ikatan) sebanyak 3<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0..<br>Cl - P - Cl<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |<br>\u00a0\u00a0\u00a0\u00a0\u00a0 Cl<br>----------------------------------------------------------------------<br><br>\u2081H = 1<br>\u2081\u2086S = 2 . 8 . 6<br><br>H\u2082S merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 2, dan PEI (pasangan electron ikatan) sebanyak 2<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 ..<br>H -\u00a0S :<br>\u00a0\u00a0\u00a0\u00a0\u00a0 |<br>\u00a0\u00a0\u00a0\u00a0 H<br><br>---------------------------------------------------------------<br><br>\u2081\u2086S = 2 . 8 . 6<br>\u2089F = 2 . 7<br><br>SF\u2084 merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 1, dan PEI (pasangan electron ikatan) sebanyak 4.<br><br>(Gambar pada foto terlampir)<br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-jumlah-peb-dan-pei-pada-senyawa-pcl3-h2s-dan-sf4-762-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "menunjukkan-apa-koefisien-dalam-persamaan-reaksi-406",
+            "question": "Menunjukkan apa koefisien dalam persamaan reaksi???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : X</p>\n\n<p>Pelajaran: Kimia</p>\n\n<p>Kategori: Stokiometri</p>\n\n<p>Kata kunci: volume, jumlah molekul, koefisien reaksi</p>\n\n<p>\u00a0</p>\n\n<p>\u00a0</p>\n\n<p>1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nGuy Lussac menyatakan bahwa \u201c volume gas yang\nterlibat dalam suatu reaksi kimia diukur pada suhu dan tekanan yang sama\nberbanding sebagai bilangan bulat yang sederhana.\u201d </p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 3H2 + O2\u00a0\u00a0\u21d2\u00a0\u00a0 2H2O</p>\n\n<p>Contoh: reaksi dengan gas\nhidrogen dan oksigen diatas menghasilkan uap air dengan perbandingan volume masing\nmasing </p>\n\n<p>Gas \u00a0hidrogen : gas oksigen : uap air = 2 : 1 : 2</p>\n\n<p>Hal ini menunjukkan bahwa\nperbandingan koefisien sebanding dengan perbandingan volume.</p>\n\n<p>2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nHipotesis Avogadro menyatakan \u201c pada suhu dan\ntekanan yang sama, volume gas memiliki jumlah molekul yang sama juga.\u201d</p>\n\n<p>\u00a0</p>\n\n<p>N2 + 3H2\u00a0\u21d2\u00a0\u00a0\n2NH3</p>\n\n<p>\u00a0</p>\n\n<p>1 Volume N2 + 3 volume H2\u00a0\u00a0\u00a0\u00a0\u00a0 2 volume NH3</p>\n\n<p>\u00a0</p>\n\n<p>Terkait dengan teori Guy Lussac diatas,\nartinya \u00a0koefisien juga sebanding dengan\njumlah molekul</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-alasan-senyawa-kovalen-polar-bersifat-elektrolit-dan-sen-804",
+            "question": "jelaskan alasan senyawa kovalen polar bersifat elektrolit dan senyawa kovalen nonpolar bersifat non elektrolit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "senyawa polar dapat larut dalam air dan terurai menjadi ion-ionnya, sedangkan senyawa non polar tidak dapat larut dalam air dan tidak dapat terurai menjadi ion-ionnya.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-tujuan-vulkanisasi-pada-proses-pembuatan-ban-mohon-bantuanny-183",
+            "question": "Apa tujuan vulkanisasi pada proses pembuatan ban?\r\n\r\nmohon bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Tujuan vulkanisasi pada proses pembuatan ban adalah untuk meningkatkan <strong>ketahanan mekanis (memberi sifat keras) dan ketahanan suhu</strong>.</p><h3><strong>Penjelasan:</strong></h3><p>Ban dibuat dari bahan dasar karet. Seperti yang kita ketahui, karet memiliki sifat yang plastis dan kenyal. Namun, tentu saja setiap kendaraan membutuhkan spesifikasi ban yang berbeda, sesuai dengan medan yang biasa ditempuh. Karenanya, ban tidak dibuat hanya dari karet saja, melainkan dicampur dengan beberapa bahan lain untuk memberikan sifat yang berbeda. </p><p>Proses pengolahan karet dengan cara menambahkan bahan sulfur (belerang) disebut vulkanisasi. Vulkanisasi bertujuan untuk menambah sifat ketahanan fisik ban (membuatnya lebih keras) juga meningkatkan ketahanan suhu. Proses vulkanisasi merubah struktur molekul karet yang semula tidak berarturan menjadi berikatan, membentuk rantai panjang sehingga menghasilkan sifat fisik yang lebih keras. Semakin banyak belerang yang dicampurkan, akan semakin tinggi tingkat kekerasan ban yang dihasilkan.</p><h3>Pelajari lebih lanjut:</h3><p>Polimer : https://brainly.co.id/tugas/5003101</p><h3>Detil jawaban :\n</h3><p>Kelas : 12\n</p><p>\nMapel : Kimia\n</p><p>\nBab : Polimer\n</p><p>\nKode : 12.7.9</p><p></p><p><strong>kata kunci : vulkanisasi, ban</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kelompokkan-senyawa-senyawa-berikut-berdasarkan-jenis-ikatannny-872",
+            "question": "KeloMpokkan    senyawa-senyawa berikut berdasarkan\u00a0\r\n jenis ikatannnya :\r\n\r\na.H2CO3\r\n\r\n\r\nb.Sr(OH)2\r\n\r\n\r\n C.KBr\r\n\r\n\r\nd.NH4Cl\r\n\u00a0e.H2O\r\n\u00a0f. H3PO4\r\n\r\n\r\n g.LiOH\r\n\u00a0h.Cl2\r\n\r\n\r\njelaskan\r\n sifat keelektrolitan setiap kelompok senyawa tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a.H2CO3 (asam lemah)<br>ikatan kovalen dan ikatan kovalen koordninasi<br>merupakan elektrolit lemah karena hanya sebagian yag terurai dalam larutannya<br><br>b.Sr(OH)2 (basa kuat)<br>ikatan ion (sr dg O) dan kovalen (O dengan H)<br>merupakan elektrolit kuat karena terurai sempurna dalam larutannya<br><br>\nC.KBr <br>garam kuat, ikatan ion<br>elektrolit kuat,\u00a0 terurai sempurna dalam larutannya<br>d.NH4Cl<br>garam lemah, ikatan kovalen<br>merupakan eletrolit lemah karena terurai sebagian dalam larutannya <br>tetapi ada juga yang memasukannya dalam elektrolit kuat<br>\u00a0<span>e.H2O<br></span>ikatan kovalen,<br>merupakan elektrolit lemah karena hanya sebagian ion yang terurai dalam larutannya<br><br>\u00a0f. H3PO4<br></span>ikatan kovalen<br><span><span>ikatan kovalen dan ikatan kovalen koordninasi<br>merupakan elektrolit lemah karena hanya sebagian yag terurai dalam larutannya<br></span><br>\ng.LiOH<br></span><span><span>basa kuat<br>ikatan ion (sr dg O) dan kovalen (O dengan H)<br>merupakan elektrolit kuat karena terurai sempurna dalam larutannya<br></span><br>\u00a0h.Cl2</span><br>unsur biatom<br>non elektrolit<br>ikatan kovalen non polar, karena tidak ada yang terurai dalam larutannya<br><br><br>semoga bisa membantu, berika label terbaik ya :D<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-larutan-asam-lemah-ha-memiliki-ph-4-hitunglah-molarita-424",
+            "question": "Suatu larutan asam lemah [HA] memiliki pH = 4. hitunglah molaritas asam tersebut ! (ka = 10\u207b\u2075)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH=-log H+<br>H+=(ka.M)^1/2 ka=tetapan M=Molaritas<br>4=-log H+<br>H+=10^-4<br>10^-4=(10^-5.M)^1/2<br>10^-8=10^-5.M<br>M=10^-3<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pH = -log [H+]<br>[H+] = 4<br><br>Ma = [H+]\u00b2/Ka<br>\u00a0 \u00a0 \u00a0= 4\u00b2/10\u207b\u2075<br>\u00a0 \u00a0 \u00a0 = 16x10\u2075",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

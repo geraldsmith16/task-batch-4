@@ -1,0 +1,134 @@
+{
+    "question": "apakah simbol \"tak terdefinisi\" dan \"tak terhingga\" itu sama? dan bagaimanakah bentuk lambang \"tak terdefinisi\"? jelaskan!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "engga , gak sama ..\nkalo tak terdefini tuh kayak ~/~ hasilnya pasti kita gak ketahui ~ \ntapi kalo tak terhingga tuh kayak 0/0 = 0 kalo kita mau tulis 1 juga bisa , mau tulis 2 juga dst",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-interval-0-derajat-kurang-lebih-sama-dengan-x-kurang-lebih-s-956",
+            "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-px3-14x217x-60-dengan-x13-tentukan-x1x2x2-523",
+            "question": "Akar persamaan px3-14x2+17x-6=0 dengan x1=3 tentukan x1.x2.x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "px\u00b3-14x\u00b2 +17x-6 = 0<br><br>x1 = 3<br><br>p(3)\u00b3 - 14.3\u00b2 + 17.3 - 6 = 0<br>27p - 126 + 51 - 6 = 0<br>27p - 81 = 0<br>27p = 81<br>p = 3<br><br>3x\u00b3-14x\u00b2 +17x-6 = 0<br>x1.x2.x3 = -d/a = -(-6)/3 = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ab-garis-ba-apakah-sinar-abba-butuh-jawaban-776",
+            "question": "Garis AB = garis BA, apakah sinar AB=BA? butuh jawaban.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karna garis dan sinar itu berbeda, kalau sinar AB artinya a yg memancarkan sinar ke b, sdangkan sinar BA artinya b yg memancarkan sinar mnuju ke a,, jadi beda,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "iya sinar AB=BA jadi itu sama <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amoeba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-929",
+            "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+                    "attachments": []
+                },
+                {
+                    "answer": "(2*60)/15*30=240 amoeba",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-adalah-pernyataan-bernilai-benar-q-bernilai-salah-d-884",
+            "question": "Diketahui P adalah pernyataan bernilai benar, q bernilai salah, dan r bernilai benar.Tentukan nilai kebanaran dari pernyataan berikut ini!    a.-p\u2227-q\u00a0 b.(r\u2227-q) \u2228-r\u00a0 c.(p\u2227-r)\u21d2q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. -p\u2227-q = S\u2227B = S<br>b. (r\u2227-q)\u00a0\u2228-r = \u00a0(B\u2227B)\u2228S = B\u2228S = B<br>c. (p\u2227-r)\u00a0\u21d2q = B\u2227S\u21d2B = S\u21d2B = B",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

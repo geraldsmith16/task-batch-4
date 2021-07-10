@@ -1,0 +1,130 @@
+{
+    "question": "Jika dari fungsi f(x)=ax2+bx+c diketahui f(0)=-6, f(1) dan f(2)=28 maka f(x)=0 untuk x=...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(0)=a.0^2+b.0+c<br>-6=0+0+c<br>-6=c .............................nilai c<br><br>f(1)=a.1^2+b.1+c<br>28=a+b+(-6)<br>28+6=a+b<br>34=a+b ......................persamaan 1<br><br>f(2)=a.2^2+b.2+c<br>28=4a+2b+(-6)<br>28+6=4a+2b<br>34=4a+2b ......................persamaan 2\u00a0<br><br>f(1)=f(2)<br>a+b=4a+2b<br>a-4a=2b-b<br>-3a=b<br>b=-3a<br><br>34=2a+b\n\u00a0......................persamaan 1\n<br>34=2a+(-3a)<br>34=-a<br>a=-34<br><br>b=-3a<br>b=-3.34=-102<br><br>f(x)=0<br>-34x2-102x-6=0<br>-2.(17x2+51x+3)\u00a0=\u00a00<br>(17x+1) . (x+3)=0<br>x=\u00a0-1 / 17\u00a0\u00a0\u00a0\u00a0\u00a0 atau\u00a0\u00a0\u00a0 x= -\u00a03<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-sungsi-f-dan-g-ditentukan-dengan-rumus-fx-x2-gx-1-357",
+            "question": "Fungsi sungsi f dan g ditentukan dengan rumus f(x)= x+2 g(x) = 1/x (x # 0). tentukan fungsi invers dan f.komposisi berikut..    a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (x)\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (x)\r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (4)\r\n\r\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x+2<br>y = x+2<br>x = y-2<br>[tex] f^{-1} [/tex](y) = y-2<br>[tex] f^{-1} [/tex](x) = x-2<br><br>g(x) =\u00a0[tex] \\frac{1}{x} [/tex]<br>y =\u00a0[tex] \\frac{1}{x} [/tex]<br>xy = 1<br>x =\u00a0[tex] \\frac{1}{y} [/tex]<br>[tex] f^{-1} [/tex](x) =\u00a0[tex] \\frac{1}{x} [/tex]<br><br><br>a. [tex] (fog)^{-1} [/tex]\u00a0(x) = ([tex] g^{-1} [/tex]o[tex] f^{-1} [/tex]) (x) =\u00a0[tex] g^{-1} [/tex]([tex] f^{-1} [/tex]\u00a0(x)) =\u00a0[tex] g^{-1} [/tex](x-2) =\u00a0[tex] \\frac{1}{x-2} [/tex]<br>c.\u00a0[tex] (fog)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1}{4-2} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>b.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(x) =\u00a0\u00a0([tex] f^{-1} [/tex]o[tex] g^{-1} [/tex]) (x)\u00a0=\u00a0[tex] f^{-1} [/tex]([tex] g^{-1} [/tex] (x)) =\u00a0[tex] f^{-1} [/tex]([tex] \\frac{1}{x} [/tex]) =\u00a0[tex] \\frac{1}{x} [/tex] - 2 =\u00a0[tex] \\frac{1-2x}{x} [/tex]<br>d.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1-2(4)}{4} [/tex] =\u00a0[tex]- \\frac{7}{4} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-fungsi-f-dan-g-diketahui-fx2x23x-5-dan-gx3x-2-agar-g-544",
+            "question": "Dari fungsi f dan g diketahui f(x)=2x2+3x-5 dan g(x)=3x-2. Agar g0f(a)=-11. Tentukan nilai a positif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(gof)(a) = -11<br>(gof)(x) = g(f(x)) = g(2x^2 + 3x - 5)<br><br>=&gt; 3(2x^2 + 3x - 5) - 2<br>=&gt; 6x^2 + 9x - 15 - 2<br>=&gt; 6x^2 + 9x - 17<br>(gof)(a) = -11<br>6a^2 + 9a - 17 = -11<br>6a^2 + 9a - 17 + 11 = 0<br>6a^2 + 9a - 6 = 0<br>2a^2 + 3a - 2 = 0<br>(2a - 1\u00a0 )(a +2 ) = 0<br>2a - 1 =\u00a0 0 v a + 2 = 0<br>2a = 1 v a = -2<br>a = 1/2 v a = -2<br>karena a positif a = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-interval-0-derajat-kurang-lebih-sama-dengan-x-kurang-lebih-s-956",
+            "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-dan-suku-ke-6-barisan-geometri-berturut-turut-adalah-36-352",
+            "question": "suku ke-3 dan suku ke-6 barisan geometri berturut-turut adalah 36 dan 972. nilai suku ke -5 dari barisan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U5 = 660 <br>apa ada jawabannya ?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya 324. ada?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-balok-abcdefgh-dengan-ab-4cm-bc-8-cm-dan-bf-10-462",
+            "question": "Diketahui balok ABCD.EFGH dengan AB = 4cm, BC = 8 cm dan BF = 10 cm. Hitunglah jarak antara    a. titik B dan bidang ACGE \r\nb. titik G dan bidang CDEF\r\ntolong dengan jalan caranya ya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) AC = \u221a(AB\u00b2 + BC\u00b2) = \u221a(4\u00b2 + 8\u00b2) = \u221a80 <br>\nAC = 4\u221a5 cm <br>\ndengan perbandingan luas <br>\n\u00bd(AB*BC) = \u00bd(AC)t \u2192 t : jarak <br>\n\u00bd(4*8) = \u00bd(4\u221a5)t <br>\n16 = (2\u221a5)t <br>\nt = 8/\u221a5 = (8/5)\u221a5 cm <br><br>\nb) CF = \u221a(10\u00b2 + 8\u00b2) = \u221a164 <br>\nCF = 2\u221a41 <br>\n\u00bd(GF*CG) = \u00bd(CF)t <br>\n\u00bd(8*10) = \u00bd(2\u221a41)t <br>\nt = 40/\u221a41 = (40/41)\u221a41 cm          <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-kelipatan-3-antara-400-dan-500-adalah-503",
+            "question": "Jumlah bilangan kelipatan 3 antara 400 dan 500 adalah .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bilangan itu adalah : 402, 405, 408, ....., 498 <br>\na = 402, b = 3 <br><br>\nUn = a + (n - 1)b <br>\n498 = 402 + (n - 1)3 <br>\n498 = 402 + 3n - 3 <br>\n498 = 399 + 3n <br>\n3n = 498 - 399 <br>\n3n = 99 <br>\nn= 33 <br><br>\nSn = 1/2 n (a + Un) <br>\n.....= 1/2 x 33 x (402 + 498) <br>\n.....= 16,5 x 900 <br>\nSn = 14.850\u00a0<br><br>seoga membantu ya :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

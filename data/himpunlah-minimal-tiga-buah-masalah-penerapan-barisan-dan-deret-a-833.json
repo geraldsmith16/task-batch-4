@@ -1,0 +1,128 @@
+{
+    "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-bilangan-asli-antara-1-sampai-100-yang-habis-diba-957",
+            "question": "Tentukan jumlah bilangan asli antara 1 sampai 100 yang habis dibagi 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bolangan kelipatan 3 antara 1- 100 <br>a = bilangan yang bisa di bagi 3 yang lebih besar dari pada 1<br>\u00a0\u00a0 = 3 <br>b = selisih bilangan <br>\u00a0\u00a0 = 3<br>Un = bilangan yang mendekati 100 dan dapat di bagi 3 <br>\u00a0\u00a0 \u00a0  = 99<br>Un = a + (n-1) b <br>99\u00a0 = 3 + (n-1) 3<br>99\u00a0 = 3 + 3n - 3<br>99\u00a0 = 3n<br>99/3 = n <br>\u00a0 33\u00a0 =<strong> n </strong><br><strong>jumlah bilnagan kelipatannya adalah</strong> <br>sn = n/2 (a +un)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 3+99)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 102)<br>\u00a0\u00a0 \u00a0  = 33 x 51<br>\u00a0 \u00a0\u00a0 = 1683 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-setiap-bentuk-berikut-cos-90-a-sin-90-a-202",
+            "question": "Sederhanakan setiap bentuk berikut\r\ncos (90\u00b0-\u03b1\u00b0)\r\nsin (90\u00b0-\u03b1\u00b0)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos (90 - a) = cos 90 cos a + sin 90 sin a \n=&gt; 0.cos a + 1.sin a = sin a\nsin (90 - a) =  sin 90 cos a - cos 90 sin a \n=&gt; 1.cos a - 0.sin a = cos a\n\ncos (90 - a)\n----------------\nsin (90 - a)\n\nsin a\n-----------\ncos a\n\ntan a",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nama-nama-bangun-ruang-dalam-bahasa-inggris-691",
+            "question": "Nama-nama bangun ruang dalam bahasa inggris",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas\u00a0: 5 SDIT / 7 SMPIT\u00a0<br>mapel : matematika<br>kategori : bangun ruang<br>kata kunci : bangun ruang , bahasa inggris<br><br>Pembahasan :<br><br>nama\" bangun ruang dengan menggunakan bahasa inggris<br><br>1) kubus = cube<br>2) balok = cuboid<br>3) limas = pyramid<br>4) prisma = prism<br>5) tabung = sylinder<br>6) bola = sphere<br>7) kerucut = cone<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7log-2a-dan-2log-3b-maka-6-log-14-258",
+            "question": "Jika 7log 2=a dan\u00a0\u00b2log 3=b maka 6 log 14=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>log 14</u> =\u00a0<u>log 2. 7</u><br>log 6 \u00a0 \u00a0 \u00a0log 2.3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>log 2 + log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 2 + log 3\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>2log 2 + 2 log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2log 2 + 2 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>1+a<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01 +b<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-g-r-r-ditentukan-oleh-gx-x2-3x-1-dan-f-r-196",
+            "question": "Fungsi g: R \u2192 R ditentukan oleh    g(x) = x2 \u2013 3x + 1 dan f: R \u2192 R sehingga (f o g)(x) = 2x2\r\n \u2013 6x \u2013 1\u00a0\r\n\r\nmaka f(x) = \u2026.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f o g)(x)= f(g(x)) \u00a0 \u00a0 \u00a0 \u00a0\u00a0=\u00a02x^2<span>\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1)\u00a0=\u00a0</span>2x^2\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x^2-3x+1)\u00a0=\u00a02x^2\u2013 6x + 2 -\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1) = 2(x^2-3x+1) -3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x-3 \u00a0(buktikan saja masukan ke f(g(x))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terakhir-help-lg-ya-suku-ke-4-dan-ke-9-barisan-aritmatika-ber-518",
+            "question": "terakhir. help lg ya :) suku ke 4 dan ke 9 barisan aritmatika berturut turut adalah 110 dan 150. suku ke 30 dari barisan tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 = a+ (n-1)b<br>110= a+ (4-1)b<br>110=a + 3b<br><br>U9 = a +(n-1)b<br>150=a+(9-1)b<br>150=a+b8<br><br>eliminasi<br>110= a + 3b<br>150=a +\u00a08b<br>___________ -<br>-40=-5b<br>b=8<br><br>110=a+3.8<br>110=a + 24<br>110-24 =a<br>a=86<br><br>U30 = a + (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0=86 + (30-1)8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+29.8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+232<br>\u00a0 \u00a0 \u00a0 \u00a0= 318",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

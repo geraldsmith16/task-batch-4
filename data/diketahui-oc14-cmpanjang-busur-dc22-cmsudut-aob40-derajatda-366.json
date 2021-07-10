@@ -1,0 +1,130 @@
+{
+    "question": "Diketahui OC=14 cm,panjang busur DC=22 cm,sudut AOB=40 derajat,dan sudut COD=90 derajat,hitunglah;    a.panjang busur AB\r\nb.luas juring COD\r\nc.luas tembereng DC",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a) \u00a0 AB/DC=AOB/DOC<br>\u00a0 \u00a0 \u00a0 AB/22=40/90<br>\u00a0 \u00a0 \u00a0 AB= 88/9 cm<br>b) \u00a090/360.[tex] \\pi [/tex].14^2<br>\u00a0 \u00a0 \u00a0= 1/4 * 22/7 *\u00a014 *14<br>\u00a0 \u00a0 \u00a0= 154 cm^2<br>c) \u00a0154 - 1/2*sin90*14*14<br>\u00a0 \u00a0Sin 90 = 1<br>\u00a0 \u00a0= 154 - 7*14<br>\u00a0 \u00a0 = 154 -98<br>\u00a0 \u00a0 = 56 cm^2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ibu-membeli-4-rak-telur-dengan-harga-telur-rp2100000-tiap-rak-919",
+            "question": "ibu membeli 4 rak telur dengan harga telur Rp.21.000,00 tiap rak. berisi 30 butir telur. kemudian ibu menjual kembali dan setiap satu butir telur mendapatkan keuntungan Rp.100,00, berapakah harga jual telur seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 * 21.000= Rp 84.000<br>84.000 : (4 * 30)= 84.000 : 120 = 700<br>700 + 100 = 800<br>jadi, harga jual telur <u>Rp 800,00</u><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>semua telur yg dibeli = 21.000 x 4 = 84.000<br>jumlah telur = 30 x 4 = 120 butir=<br>harga 1 butir telur yg dibeli ibu = 21.000 : 30= 700<br>700 + 100= 800<br>harga jual seluruhnya= 800 x 120 = 96.000</span><br>untung = harga jual-harga beli<br>= 84.000-96.000<br>= 12.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-di-depan-sudut-60derajat-adalah-20cm-kel-932",
+            "question": "Panjang busur lingkaran di depan sudut 60derajat adalah 20cm. keliling lingkaran itu adalah....cm    jika luas lingkaran 616 cm2 sedang luas juring AOB adalah 462 cm2, maka besar sudut pusat AOB adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 60 derajat/360 derajat = 20 cm; keliling= 6 x 20 cm = 120 cm<br>2) sudut AOB = 616/462 = 1/3 = 360/3 = 120 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-pusat-kota-rencananya-akan-dibuat-sebuah-taman-berbentuk-linka-839",
+            "question": "di pusat kota rencananya akan dibuat sebuah taman berbentuk linkaran diameter 56 m. di dalam taman akan dibuat kolam berbentuk lingkaran berdiameter 28 m. jika di luar kolam akan ditanami rumput dengan biaya Rp6.000,00/m\u00b2, hitunglah seluruh biaya yang harus dikeluarkan untuk mennanam rumput tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L lingkarang besar =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\pi [/tex] x ([tex] \\frac{d}{2} [/tex] m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =[tex] \\frac{22}{7} [/tex] x (28 m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2464 m\u00b2<br>L lingkaran kecil =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x ([tex] \\frac{d}{2} [/tex] m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x (14 m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 616 m\u00b2<br>L wilayah yang akan ditanami rumput = L lingkaran besar - L lingkaran kecil<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2464 m\u00b2 - 616 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1848 m\u00b2<br><br>Jika untuk menanam rumput di lahan berluas\u00a01 m\u00b2 dibutuhkan biaya Rp 6.000, maka:<br><br>Rp 6.000 x 1848 m\u00b2 = Rp 11.088.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-kelereng-marisi-dari-kelereng-marisa-35-butir-perbanding-527",
+            "question": "selisih kelereng marisi dari kelereng marisa 35 butir. perbandingan banyak kelereng mereka 4 : 3. berapa banyak kelereng marisa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perbandingan = 4 : 3\n<br>\nSelisih = 4 - 3 = 1\n<br>\nMarisi = 4/1 x 35 = 140\n<br><span>Marisa = 3/1 x\n35 = 105</span>\n<br>\nJadi, kelereng Marisa\nada 105\n\n<span>\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12345640-453",
+            "question": "1+2+3+4+5+6+..............+40",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X 40 (2x1+40)<br>=20 X 42<br><span>=840<br><br>semoga bermanfaat :)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "putri-akan-membuat-nasi-tumpeng-berbentuk-kerucut-yang-permukaann-372",
+            "question": "putri akan membuat nasi tumpeng berbentuk kerucut yang permukaannya (selimut) akan ditutup penuh dengan hiasan dari makanan. jika diameter tumpeng 28 cm dan tinggi 48 cm serta (phi : 22/7), luas tumpeng yang akan dihias makanan adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>d = 28 cm<br>r = 14 cm<br>t = 48 cm<br><br>Luas tumpeng yang akan dihias = phi x r x s<br><br>S =\u00a0\u221a14\u00b2 + 48\u00b2<br>\u00a0 \u00a0=\u221a196 + 2304 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(menggunakan konsep phytagoras)<br>\u00a0 \u00a0=\u00a050\u00a0<br><br>Luas tumpeng yang akan dihias = phi x r x\u00a0s\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u00a022\u00a0</u> x 14 x 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a07<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2200 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-prosentase-bunga-per-tahun-162",
+            "question": "Cara mencari prosentase bunga per tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>Cara mencari prosentase bunga per tahun</h3><h2>Jawaban</h2><h3>Pendahuluan</h3><p>persentase atau perseratus adalah sebuah angka atau perbandingan untuk menyatakan pecahan dari seratus. Persentase sering ditunjukkan dengan simbol \u201c%\u201d untuk menghitung persen.</p><p><u><em><strong>rumus dalam bab prosentase</strong></em></u></p><p>prosentase = bagian/seluruhnya x 100%</p><p>keuntungan dalam Rp = keuntungan dalam prosen x harga</p><p>kerugian dalam Rp = kerugian dalam prosen x harga</p><p>prosentase keuntungan = keuntungan/harga beli x 100%</p><p>prosentase kerugian = kerugian/harga beli x 100%</p><h3>Pembahasan</h3><p>mencari prosentase bunga pertahun\u00a0</p><p>hitung bunga pertahunnya terlebih dahulu</p><p>(bunga selama 1 tahun) / (uang yang ditabung) x 100% = prosentase bunga pertahun</p><h3>Pelajari Lebih Lanjut</h3><p>1) Bentuk persen dari 1/8 adalah dapat disimak di brainly.co.id/tugas/10839736</p><p>2) Cara mencari persentase tara jika diketahui:</p><p>bruto:20kg</p><p>tara: 1kg</p><p>Netto : 19kg dapat disimak di brainly.co.id/tugas/34416</p><p>3) Cara mencari prosentase bunga per tahun dapat disimak di brainly.co.id/tugas/44473</p><h3>=============================================</h3><h2>Detail Jawaban</h2><h3>kelas : 7</h3><h3>mapel : matematika</h3><h3>kategori : aritmatika sosial</h3><h3>kata kunci : prosentase</h3><h3>kode : 7.2.5</h3><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-bruto-dan-netto-jika-tara-5-kg-dan-presentase-tara-212-794",
+            "question": "Berapa bruto dan netto jika tara 5 Kg dan Presentase Tara 2.12%\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: tara= 5kg<br>\u00a0 \u00a0 \u00a0 persentase tara=2.12%<br><br>dit: *bruto<br>\u00a0 \u00a0 \u00a0*netto<br>jb:<u> persentase tara</u>\u00a0<u></u>\u21d2<u> 2.12 x 100\u00a0</u> \u00a0= 42,4 kg<br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0tara \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br>netto = bruto-tara\u00a0\u21d2 42,4 - 5 = 37.4 kg<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebelum-membangun-sebuah-gedung-bertingkat-seorang-arsitek-membua-362",
+            "question": "Sebelum membangun sebuah gedung bertingkat seorang arsitek membuat desain dengan\u00a0 skala 1:1.000. Jika tinggi gedung yang akan dibangun 60 meter, tentukan tinggi gedung dalam gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,6 cm........................<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "air-mineral-dalam-sebuah-galon-dapat-diisikan-ke-dalam-76-kemasan-760",
+            "question": "Air mineral dalam sebuah galon dapat diisikan ke dalam 76 kemasan gelas plastik yg volumenya 220 ml. jika air mineral dalam tersebut diisikan dalam kemasan botol bervolume 380 ml . banyak botol yg diperlukan .............. buah    #pakai cara yaa pliss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cari dulu volume total pada 76 gelas yang berukuran 220 ml itu caranya,<br><br>76 x 220 = 16720 ml jadinya kan. Nah kalo mau di pindahkan ke botol yang berukuran 380 ml tinggal kita bagi volume total dengan volume botol, yaitu\u00a016720/380 = 44 botol\u00a0<br><br>cmiiw :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "76 x 220 = jumlah air didalam galom<br>76 x 220 =16720 ml<br><br>jika diisikan di dalam kemasan botol bervolume 380 ml<br>16720 : 380 = 44\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

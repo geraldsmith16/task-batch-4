@@ -1,0 +1,143 @@
+{
+    "question": "Jika 7log 2=a dan\u00a0\u00b2log 3=b maka 6 log 14=......",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<u>log 14</u> =\u00a0<u>log 2. 7</u><br>log 6 \u00a0 \u00a0 \u00a0log 2.3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>log 2 + log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 2 + log 3\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>2log 2 + 2 log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2log 2 + 2 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>1+a<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01 +b<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-3x-7-2x-5-adalah-394",
+            "question": "Fungsi invers dari f(x) = (3x + 7) / (2x - 5) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>y = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>3x + 7 = 2xy - 5y<br>3x - 2xy = -5y - 7<br>x(3 - 2y) = -5y - 7<br>x = [tex] \\frac{-5y - 7}{3 - 2y} [/tex]<br><br>[tex] f^{-1} [/tex](x) = [tex] \\frac{-5x - 7}{3 - 2x} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-suatu-jembatan-sudut-depresi-suatu-pelampung-di-atas-air-sun-937",
+            "question": "Dari suatu jembatan sudut depresi suatu pelampung di atas air sungai adalah 45\u00b0. Berapa jarak pelampung ke tepi jembatan apabila tinggi jembatan di atas permukaan air adalah 65 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = depan\u00a0=\u00a065<br>dit = samping<br>tan 45 = depan/samping<br>tan 45 = 65/samping<br>\u221a3 = 65/samping<br>samping= 65/\u221a3<br>jarak pelampung ke tepi jembatan = 65/\u221a3\u00a0<br>maap kalo jawabannya salaah~",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-32-15-125-13-81-12-adalah-738",
+            "question": "Nilai dari 32 1/5 - 125 1/3 + 81 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari 32^ 1/5 - 125^ 1/3 + 81^ 1/2 adalah ...</p><p>Soal diatas menrupakan materi Eksponen yang berpangkat pecahan. Kemungkinan ini soal UN Matematika SMK.</p><p><u><strong>Sifat-sifat Perpangkatan </strong></u></p><p>[tex]$\\begin{align} \\ a^{m}\\times a^{n} &amp;= a^{m + n} \\end {align}[/tex]</p><p>[tex]$\\begin{align} \\ \\frac{ a^{m} }{ a^{n} } &amp;= a^{m - n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (ab)^{n} &amp;= a^{ n} \\times \\ b^{n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (a:b)^{n} &amp;= a^{ n} : b^{n} \\end{align}[/tex]</p><p>Lebih lengkapnya silahkan lihat lampiran II</p><p></p><h2>Pembahasan</h2><p><strong>Menentukan nilai perpangkatan pecahan</strong></p><p>[tex]$\\begin{align} \\ 32^{\\frac{1}{5}} - 125^{\\frac{1}{3}} + 81^{\\frac{1}{2}} &amp; = (2^{ 5})^{\\frac{1}{5}} - (5^{3})^{\\frac{1}{3}} + (3^{ 4})^{\\frac{1}{2}} \\\\ &amp; = 2^{5 \\times \\frac{1}{5}} - 5^{3 \\times \\frac{1}{3}} + 3^{4 \\times \\frac{1}{2}} \\\\ &amp; = 2 - 5 + 3^{2} \\\\ &amp; = -3 + 9 \\\\ &amp; = 6\\end{align}[/tex]</p><p>Untuk penulisannya bisa dilihat pada lampiran I</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Eksponen dan bentuk Akar</h3><ol><li>Jika a = 1/9, b = 16 dan c = 125, maka nilai dari 2. a^(-1/2) - b^(1/4) + c^(1/3) adalah \u2192 https://brainly.co.id/tugas/14065011</li><li>Menyederhanakan perkalian bentuk pangkat \u2192 brainly.co.id/tugas/1774225</li><li>Menghitung perpangkatan negatif\u00a0\u2192\u00a0brainly.co.id/tugas/3777097</li><li>Sifat ekponen dan logaritma\u00a0\u2192\u00a0brainly.co.id/tugas/11181034</li><li>Pangkat pecahan \u2192\u00a0brainly.co.id/tugas/6055009</li><li>Soal cerita perpangkatan \u2192 https://brainly.co.id/tugas/3116750</li></ol><h3>Detil Jawaban</h3><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 10\u00a0SMA</p><p>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Matematika\u00a0</p><p>Kategori \u00a0 \u00a0 : Bab 1 - Eksponen dan Bentuk Akar</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 10.2.1</p><p>Kata kunci : nilai dari, pangkat pecahan</p><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": [
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-1.jpg",
+                        "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2x2-x12-dibagi-x-a-sisanya-15-maka-nilai-a-441",
+            "question": "Jika diketahui 2x\u00b2-x+12 dibagi (x-a) sisanya 15, maka nilai a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x + 2a - 1<br>\u00a0 \u00a0 \u00a0 \u00a0____________<br>x-a /2x^2 -\u00a0x + 12<br>\u00a0 \u00a0 \u00a0 2x^2 - 2ax<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 2ax\u00a0- x + 12<br>\u00a0 \u00a0 \u00a0 2ax - 2a^2<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 -\u00a0x + 2a^2 +12<br>\u00a0 \u00a0 \u00a0 - x + a<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a +12 = 15<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 + a +12 - 15 = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a - 3 = 0<br>\u00a0 \u00a0 (2a + 3) (a - 1)<br><br>\u00a0 \u00a0a = -3/2 atau a\u00a0= 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-cos-dari-1290-tolong-beserta-caranya-ya-d-361",
+            "question": "Nilai cos dari (1290) = ...\r\ntolong beserta caranya ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1290 = 3x 360 +210\ncos 1290 = cos (3x360 +210)\ncos210 = -cos 30\n=-1/2 akar 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-terdiri-dari-4-angka-disusun-dari-angka-angka-12345-254",
+            "question": "Bilangan terdiri dari 4 angka disusun dari angka-angka 1,2,3,4,5,6 dan 7. Banyak susunan bilangan dengan angka-angka yang berlainan (angka-angkanya tidak boleh berulang) adalah.... \u00a0 A. 20 B. 40 C. 80 D. 120. E. 360 \u00a0 Mohon bantuan +caranya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika benar itu terdiri dari angka 1 sampai 7 , maka jawabannya :<br><br>7 x 6 x 5 x 4 = 840\u00a0<br>jawabannya tdk ada di opsinya<br><br>tp jika terdiri dari angka 1 sampai 6 , maka jawabannya :<br><br>6 x 5 x 4 x 3 = 360\u00a0<br>jawaban E\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 sampai 7 <br>7 x 6 x 5 x 4 =840<br><br>1 sampai 6 <br>6 x 5 x 4 x 3 = 360<br><br>1 sampai 5<br>5 x 4 x 3 x 2 = 120<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

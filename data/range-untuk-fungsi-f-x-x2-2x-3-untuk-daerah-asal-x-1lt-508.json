@@ -1,0 +1,146 @@
+{
+    "question": "Range\u00a0 untuk fungsi f (x) =x2-2x-3 untuk daerah asal {x/-1&lt;_ x &lt;_ 4, x E R} adalah.??",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "daerah asalnya x= {1, 2, 3, 4} keterangan: R= bilangan asli.<br><br>range { -4, -3, 0, 5}<br><br>caranya daerah asalnya subtitusi ke persamaan f(x) = x^2 - 2x -3",
+            "attachments": []
+        },
+        {
+            "answer": "x={-1,0,1,2,3,4}<br>f(x) = x\u00b2-2x-3<br>f(-1) = -1\u00b2-2*-1-3<br>\u00a0\u00a0 \u00a0\u00a0 = 1+2-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 0<br>f(0) = 0\u00b2-2*0-3<br>\u00a0\u00a0 \u00a0\u00a0 = -3<br>f(1) = 1-2-3<br>\u00a0\u00a0 \u00a0 = -4<br>f(2) = 4-4-3<br>\u00a0\u00a0 \u00a0  = -3<br>f(3) = 9-6-3<br>\u00a0\u00a0 \u00a0\u00a0 = 0<br>f(4) = 16-8-3<br>\u00a0\u00a0 \u00a0  = 5<br>range ={-3,-4,0,5}<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-1-hari-terbentuk-sudut-787",
+            "question": "Jika kita perhatikan jam, berapa kali kah 1 hari terbentuk sudut sudut dibawah ini    a. 90 derajat = ?\r\nb. 180 derajat = ?\r\nc. 30 derajat = ?\r\nd. 120 derajat = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jam = 360\u02da<br>90\u02da = 360/90\u00a0= 4<br>180\u02da = 360/180 = 2<br>30\u02da = 360/30 = 12<br>120\u02da = 360/120 = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.4<br>b.12<br>c.2<br>d.3<br>terimakasih<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-64-32-16-8-tentukan-a-rasio-496",
+            "question": "diketahui barisan geometri : 64 , -32 , 16 , -8 tentukan a. Rasio b. rumus suku ke -n c. suku yang nilainya 1/4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) r = \\frac{ U_{2} }{ U_{1} } \\\\ r= \\frac{-32}{64} \\\\ r= -\\frac{1}{2}  \\\\ \\\\  b)   U_{n}=ar^{ n-1} \\\\  \\\\ c) U_{n} = ar^{n-1} \\\\ \\frac{1}{4} = 64 (\\frac{-1}{2}) ^{n-1} \\\\ \\frac{1}{4} \\frac{-1}{64}= (\\frac{-1}{2}) ^{n-1} \\\\ -\\frac{1}{256}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ -\\frac{1}{2^{9-1}}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ n=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-yang-akar-akarnya-27-dan-1-adalah-caranya-y-165",
+            "question": "Persamaan kuadrat yang akar akarnya 2/7 dan -1 adalah ? caranya yah guys",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x-2/7)(x+1)=0<br>\u00a0x^{2}+5/7x-2/7 =0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agak ragu deh....<br><br>x1 = 2/7 \u21d2 (7x - 2) = 0<br>x2 = -1 \u21d2 (x +1) = 0<br>jadi,<br>(7x - 2)(x + 1) = 0<br>7x^{2} +5x-2 = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-4-dan-suku-ke-336-929",
+            "question": "diketahui deret geometri dengan suku pertama =4 dan suku ke-3=36 jumlah lima suku pertama deret tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3:u1=36:4<br>r^2=9<br>r=3<br>sn=4(-243-1)/2<br>s5=4(242)/2<br>s5=484<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 = a = 4<br>U3 = a\u00d7r\u00b2 = 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r\u00b2 = 36/a = 36 / 4= 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r =\u00a0\u221a9 = 3<br>Sn = a\u00a0\u00d7 (r\u00a0pangkat n - 1) / r -1<br>S5= 4\u00a0\u00d7 (3pankat 5 - 1)/3-1<br>= 4\u00a0\u00d7 (243 -1)/2<br>=2\u00d7242 = 484<br><br>insya Allah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x32x2-15xk0-mempunyai-sepasang-akar-samanilai-k-a-501",
+            "question": "Persamaan x^3+2x^2-15x+k=0 mempunyai sepasang akar sama.nilai k adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan x\u00b3 + 2x\u00b2 - 15x + k = 0 mempunyai sepasang akar sama. Nilai\nk adalah\n\n\u00a0\n<br><br>Pembahasan :\n\n\u00a0\n<br><br>x\u00b3 + 2x\u00b2 - 15x + k = 0\n<br>\na = 1, b = 2, c = \u201315, d = k\n\n\u00a0\n<br><br>misal akar \u2013 akarnya adalah x\u2081, x\u2082 dan x\u2083 dengan x\u2081 = x\u2082\u00a0\u00a0\n<br><br>\n1) x\u2081 + x\u2082 + x\u2083 = \u2013b/a\n<br>\nx\u2082 + x\u2082 + x\u2083 = \u20132/1\n<br>\n2x\u2082 + x\u2083 = \u20132\n<br>\nx\u2083 = \u20132x\u2082 \u2013 2\n\n\u00a0\n<br><br>2) x\u2081x\u2082 + x\u2081x\u2083 + x\u2082x\u2083 = c/a\n<br>\nx\u2082x\u2082 + x\u2082x\u2083 + x\u2082x\u2083 = \u201315/1\n<br>\nx\u2082\u00b2 + 2x\u2082x\u2083 = \u201315\n\n\u00a0\n<br><br>x\u2082\u00b2 + 2x\u2082(\u20132x\u2082 \u2013 2) = \u201315\n<br>\nx\u2082\u00b2 \u2013 4x\u2082\u00b2 \u2013 4x\u2082 = \u201315\n<br>\n\u20133x\u2082\u00b2 \u2013 4x\u2082 + 15 = 0\n<br>\n3x\u2082\u00b2 + 4x\u2082 \u2013 15 = 0\n<br>\n(3x\u2082 \u2013 5)(x\u2082 + 3) = 0\n<br>\nx\u2082 = 5/3 atau x\u2082 = \u20133\n\n\u00a0\n<br><br>Jika x\u2082 = 5/3 maka x\u2081 = 5/3\n<br>\nx\u2083 = \u20132x\u2082 \u2013 2 <br>\n\nx\u2083 = \u20132(5/3) \u2013 2 <br>\n\nx\u2083 = \u201310/3 \u2013 6/3\n<br>\nx\u2083 = \u201316/3\n\n\u00a0\n<br><br>x\u2081 . x\u2082 . x\u2083 = \u2013d/a\n<br>\n5/3 . 5/3 . \u201316/3 = \u2013k/1\n<br>\n\u2013400/27 = \u2013k\n<br>\nk = 400/27\n\n\u00a0\n<br><br>Jika x\u2082 = \u20133 maka x\u2081 = \u20133\n<br>x\u2083 = \u20132x\u2082 \u2013 2\n<br>x\u2083 = \u20132(\u20133) \u2013 2 <br>x\u2083 = 6 \u2013 2\n<br>\nx\u2083 = 4\n\n\u00a0\n<br><br>x\u2081 . x\u2082 . x\u2083 = \u2013d/a\n<br>\n\u20133 . \u20133 . 4 = \u2013k/1\n<br>\n36 = \u2013k\n<br>k = \u201336\n\n\u00a0\n<br><br>Jadi nilai \n\nk = 400/27 atau k = \u201336 \n\n\u00a0<br><span><br>=============================================<span><br><br></span></span>\n\nKelas : 11<span><br>\nMapel : Matematika<br>\nKategori : Suku Banyak<br>\nKata Kunci : Akar \u2013 akar persamaan polinomial<br><span>Kode : 11.2.5 (Kelas 11 Matematika Bab 5 \u2013 Suku\nBanyak)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tuliskan-3-suku-berikutnya-dari-barisan-berikut-ini-269",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0    Tuliskan 3 Suku berikutnya dari\r\n barisan berikut ini.\r\n\r\no\u00a0\u00a0\r\n25,22,19,16,13,\u2026\r\n\r\no\u00a0\u00a0\r\n2,6,10,14,18,22,\u2026\r\n\r\no\u00a0\u00a0\r\n512,256,128,\u2026\r\n\r\no\u00a0\u00a0\r\n2,6,18,\u2026\r\n\r\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nBilangan 237 pada barisan 3,12,21,\u2026\r\n merupakan suku ke -...\r\n\r\n\u00a0\r\n\r\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSuku ke-8 dari barisan 125,25,5,\u2026\r\n adalah \u2026\r\n\r\n\u00a0\r\n\r\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDari suatu barisan aritmatika\r\n diketahui suku ke-5 adalah 22 dan suku ke-12 adalah 57. Suku ke-15 dari barisan\r\n ini adalah\u2026\r\n\r\n\u00a0\r\n\r\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSuku ke-3 dan suku ke-5 barisan\r\n geometri dgn suku\u2019\u2019 positif berturut\u201d adalah 18 dan 162. Suku ke-6 barisan\r\n tersebut adalah\u2026\r\n\r\n\u00a0\r\n\r\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDi antara bilangan 4 dan 28\r\n disisipkan lima bilangan sehingga membentuk barisan aritmatika. \r\n\r\nBeda barisan aritmatika tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n7.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDi antara 8 dan 128 disisipkan tiga\r\n buah bilangan sehingga terbentuk barisan geometri. Jika rasionya positif maka\r\n rasio dari barisan geometri tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n8.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDiketahui barisan aritmatika\r\n 4,7,10,13,\u2026,31. Jumlah barisan tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n9.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSetuas tali dipotong menjadi 9\r\n bagian. Panjang masing\u201d potongan \u00a0tsb\r\n mengikuti barisan geometri. Potongan tali yang paling pendek adalah 4 cm dan\r\n potongan tali paling panjang 1024 cm. Panjang tali semula adalah\u2026\r\n\r\n\u00a0\r\n\r\n10.\u00a0 Jumlah dari &amp; seterusnya sebanyak tak terhingga suku adalah\u2026\r\n\r\n \u00a0\r\n\r\n \u00a0\r\n\r\n \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. <br>a. 10, 7, 4 <br>b. 26, 30, 34 <br>c. 64, 32, 16 <br> d. 54, 162, 486<br>2. 3+(n-1)9=237\u2192(n-1)9=234\u2192n-1=26\u2192n=27 <br> 3. U8= 125*(1/5)^7=16/10.00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-laporan-arus-kas-455",
+            "question": "Apa yang dimaksud dengan laporan arus kas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Laporan arus kas<span>\u00a0(</span><span>adalah bagian dari\u00a0</span>laporan keuangan<span>\u00a0suatu perusahaan yang dihasilkan pada suatu</span>periode akuntansi<span>\u00a0yang menunjukkan aliran masuk dan keluar\u00a0</span>uang<span>\u00a0(kas) perusahaan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "adalah bagian dari\u00a0laporan keuangan\n\u00a0suatu perusahaan yang dihasilkan pada suatuperiode akuntansi\n\u00a0yang menunjukkan aliran masuk dan keluar\u00a0uang\n\u00a0(kas) perusahaan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-menyebabkan-pernyataan-jika-x2-x-6-maka-x2-922",
+            "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

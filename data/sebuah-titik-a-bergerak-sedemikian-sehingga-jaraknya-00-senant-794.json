@@ -1,0 +1,138 @@
+{
+    "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-ditentukan-oleh-fx-4x-32x1-x-12-jika-inver-811",
+            "question": "fungsi f ditentukan oleh f(x) = 4x-3/2x+1, x \u2260 -1/2. jika invers dari f(x) dituliskan f pngkt min 1(x), maka f pngkat min 1 (x+1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x) =  \\frac{4x - 3}{2x + 1} [/tex]<br>[tex]f^{-1}(x) = \\frac{-x - 3}{2x - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{-(x +1) - 3}{2(x +1) - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{- x -4}{2x - 2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-2x3-dan-gx-x2-1-maka-fg2-333",
+            "question": "Jika f(x) = 2x+3 dan g(x) =x2-1, maka (f.g)(2) =...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f.g(2))= 2(x2-1)+3\n            =2x2-2+1 = 2x2+1\n=2(2)2 +1 = 2(4)+1= 8+1=9",
+                    "attachments": []
+                },
+                {
+                    "answer": "(f.g)(x) = (2x + 3) (x2-1)<br>(f.g)(2) = (2(2) + 3) ((2)2-1)<br>(f.g)(2) = (4+3) (4-1)<br>(f.g)(2) = 7 . 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 21<br>kalo ga salah gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-nilai-kpk-dari-30-dan-48-198",
+            "question": "Berapa nilai kpk dari 30 dan 48?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br>KPK= 2 x 2 x 2 x 2 x 3 x 5 = 240<br>FPB = 2 x 3 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br><br><br>kpk= 2 x 2 x 2 x 2 x 3 x 5 = 240<br><span><br>fpb = 2 x 3 = 6</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-3-dan-suku-ke-6-suatu-barisan-aritmatika-bertur-826",
+            "question": "Diketahui suku ke-3 dan suku ke-6 suatu barisan aritmatika berturut-turut 14 dan 29. suku ke-12 barisan tersebut adalah ......    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pers 1. \n14=a+2b\npers 2.\n29=a+5b\n\nmenggunakan metode eliminasi maka mendapatkan beda = 5,kemudian di subtitusikan ke pers. 1 maka didapat a/suku pertama =4\nslanjutx dgan menggunakan rumus a+(n-1)b,diperoleh hasil U12/suku ke-12 adalah 59..",
+                    "attachments": []
+                },
+                {
+                    "answer": "u3 = 14 = a+2b<br>u6 = 29 = a+5b<br>di eleminasi<br>-3b = -15<br>b = 5<br>nah kalau mau nyari a tinggal disubtitusi<br>misalnya pake yang u3<br>a+2b = 14<br>a+2(5) = 14<br>1=14-10 = 4<br>kalu udh ketemu tinggal dicantumkan deh<br>u12 = a+11b<br>u12 = 4+11\u00d75<br>u12 = 4 + 55<br>u12 = 59<br>Tolong dijadikan terbaik ya<br>Plisss banget<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-2x2-4x-10-memiliki-akar-akar-x1-dan-x2-persa-445",
+            "question": "Persamaan kuadrat 2x^2-4x-1=0 memiliki akar-akar x1 dan x2. Persamaan kuadrat baru yang akar-akarnya 2x1 dan 2x2 adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Persamaan kuadrat 2x\u00b2 \u2013 4x \u2013 1 = 0 memiliki akar-akar x\u2081 dan x\u2082. Persamaan kuadrat baru yang akar-akarnya 2x\u2081 dan 2x\u2082</strong> adalah x\u00b2 \u2013 4x \u2013 2 = 0. Bentuk umum persamaan kuadrat adalah ax\u00b2 + bx + c = 0, dengan a \u2260 0. Jika x\u2081 dan x\u2082 adalah akar-akar persamaan kuadrat maka\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a}[/tex]\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a}[/tex]\n</li></ul><p>Menentukan persamaan kuadrat\n</p><ul><li>Cara 1: (x \u2013 x\u2081)(x \u2013 x\u2082) = 0\n</li><li>Cara 2: x\u00b2 \u2013 (x\u2081 + x\u2082)x + x\u2081 . x\u2082 = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><h3>Cara Pertama\n</h3><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>a = 2\n</p><p>b = \u20134\n</p><p>c = \u20131\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a} = -\\frac{(-4)}{2} [/tex] = 2\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a} = \\frac{-1}{2} [/tex]\n</li></ul><p>misal\n</p><ul><li>p = 2x\u2081 dan q = 2x\u2082\n</li></ul><p>maka\n</p><ul><li>p + q = 2x\u2081 + 2x\u2082 = 2(x\u2081 + x\u2082) = 2(2) = 4\n</li><li>pq = (2x\u2081)(2x\u2082) = 4x\u2081x\u2082 = 4(\u2013\u00bd) = \u20132\n</li></ul><p>Jadi <strong>persamaan kuadrat baru yang akar-akarnya p dan q</strong> adalah\n</p><p>x\u00b2 \u2013 (p + q)x + p . q = 0\n</p><p>x\u00b2 \u2013 4x + (\u20132) = 0\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara kedua\n</h3><p>Misal \u00a0</p><ul><li>2x = y \u21d2 x = \u00bd y\n</li></ul><p><strong>Substitusikan ke persamaan kuadrat\n</strong></p><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>2(\u00bd y)\u00b2 \u2013 4(\u00bd y) \u2013 1 = 0\n</p><p>2(\u00bc y\u00b2) \u2013 2y \u2013 1 = 0\n</p><p>\u00bd y\u00b2 \u2013 2y \u2013 1 = 0\n</p><p>==&gt; <em>kedua ruas kali 2 </em>&lt;==\n</p><p>y\u00b2 \u2013 4y \u2013 2 = 0\n</p><p>Jadi <strong>persamaan kuadrat barunya </strong>adalah\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara ketiga\n</h3><p>Persamaan kuadrat baru pada ax\u00b2 + bx + c = 0 jika akar-akarnya nx\u2081 dan nx\u2082 adalah\n</p><ul><li>ax\u00b2 + bx . n + c . n\u00b2 = 0\n</li></ul><p>2x\u2081 dan 2x\u2082 sehingga <strong>n = 2</strong>, maka persamaan kuadrat barunya adalah\n</p><p>2x\u00b2 \u2013 4x . <strong>2</strong> \u2013 1 . <strong>2\u00b2 </strong>= 0\n</p><p>2x\u00b2 \u2013 8x \u2013 4 = 0\n</p><p>==&gt;<em> kedua ruas bagi 2 </em>&lt;==\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang persamaan kuadrat\n</p><ul><li>10 soal persamaan kuadrat: brainly.co.id/tugas/14079686\n</li><li>Menentukan akar-akar persamaan kuadrat: brainly.co.id/tugas/10091829\n</li><li>Menentukan nilai m pada persamaan kuadrat: brainly.co.id/tugas/15258404\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel </strong>: Matematika\n</p><p><strong>Kategori </strong>: Persamaan Kuadrat\n</p><p><strong>Kode</strong> : 10.2.5\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-balok-abcdefgh-dengan-ab-4cm-bc-8-cm-dan-bf-10-462",
+            "question": "Diketahui balok ABCD.EFGH dengan AB = 4cm, BC = 8 cm dan BF = 10 cm. Hitunglah jarak antara    a. titik B dan bidang ACGE \r\nb. titik G dan bidang CDEF\r\ntolong dengan jalan caranya ya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) AC = \u221a(AB\u00b2 + BC\u00b2) = \u221a(4\u00b2 + 8\u00b2) = \u221a80 <br>\nAC = 4\u221a5 cm <br>\ndengan perbandingan luas <br>\n\u00bd(AB*BC) = \u00bd(AC)t \u2192 t : jarak <br>\n\u00bd(4*8) = \u00bd(4\u221a5)t <br>\n16 = (2\u221a5)t <br>\nt = 8/\u221a5 = (8/5)\u221a5 cm <br><br>\nb) CF = \u221a(10\u00b2 + 8\u00b2) = \u221a164 <br>\nCF = 2\u221a41 <br>\n\u00bd(GF*CG) = \u00bd(CF)t <br>\n\u00bd(8*10) = \u00bd(2\u221a41)t <br>\nt = 40/\u221a41 = (40/41)\u221a41 cm          <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-beta-12-dan-sudut-beta-di-kuadran-iimaka-tan-beta-ad-846",
+            "question": "Jika sin beta = 1/2 dan sudut beta di kuadran II,maka tan beta adalah?\r\n thanx before",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sin beta = 1/2 = y/r\u00a0<br>maka, y ( sisi tegak lurus) = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0(sisi miring) = 2<br>Yang dicari x (sisi vertikalnya)<br>Pakai rumus teorema phytagoras--&gt; x\u00b2 = r\u00b2 - y\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a2\u00b2- 1\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a4-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0\u221a3<br><br>Nah, rumus tan beta = y / x<br>Karena di kuadran 2, dimana x bernilai negatif (-), y bernilai positif (+) dan r bernilai positif (+)<br>maka, Tan beta = (+)y / (-)x = 1/-\u221a3 Karena penyebutnya akar, maka harus dirasionalkan dulu,\u00a0<br><br>---&gt; 1 / -\u221a3\u00a0\u00d7 (-\u221a3)/ (-\u221a3) = -\u221a3 / 3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

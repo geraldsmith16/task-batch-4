@@ -1,0 +1,148 @@
+{
+    "question": "Tentukan jumlah 20 suku pertama pada deret aritmatika berikut ini.\r\na. 1+4+7+...\r\nb.40+37+34+...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. a =1 b = 4-1=3<br>Sn = 20/2 (2(1)+(20-1)3)<br>\u00a0 \u00a0 \u00a0= 10 (2 + 57)<br>\u00a0 \u00a0 \u00a0= 590<br><br>2. a = 40 \u00a0b = 37-40 = -3<br>Sn = 20/2 (2(40) + (20-1) -3)<br>\u00a0 \u00a0 \u00a0= 10 (80 + (- 57))<br>\u00a0 \u00a0 \u00a0= \u00a0230",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fxx2-gxx-2-dan-hxx1-tentukan-nilai-fogoh-968",
+            "question": "Diketahui f(x)=x2, g(x)=x-2, dan h(x)=x+1. tentukan nilai (fogoh) (x)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g (h(x)) = (x+1) - 2 = x + 1 - 2 = x - 1<br>f ( g\u00a0o\u00a0h ) =\u00a0\u00a0(x-1)\u00b2 = x\u00b2 - 2x + 1<br><br>Jadi (f o g o h) = x\u00b2 - 2x +1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-a-16-putaran-b-25-putaran-935",
+            "question": "Ubahlah ke bentuk satuan derajat dan a. 1/6 putaran b 2/5 putaran c 3/10 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/6 x 360=60 ,;b.2/5 x 360 = 72; c.3/10 x 360=108....\nmaaf bila salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-1-hari-terbentuk-sudut-787",
+            "question": "Jika kita perhatikan jam, berapa kali kah 1 hari terbentuk sudut sudut dibawah ini    a. 90 derajat = ?\r\nb. 180 derajat = ?\r\nc. 30 derajat = ?\r\nd. 120 derajat = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jam = 360\u02da<br>90\u02da = 360/90\u00a0= 4<br>180\u02da = 360/180 = 2<br>30\u02da = 360/30 = 12<br>120\u02da = 360/120 = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.4<br>b.12<br>c.2<br>d.3<br>terimakasih<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "konversikan-36-derajat-r-derajat-c-derajat-f-k-464",
+            "question": "Konversikan\u00a0\r\n36 derajat R = ...derajat C = ...derajat F = ...K\u00a0\r\nbeserta cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C: 5/4 \u00d7 36 = 45 C \nF: 9/4 \u00d7 36 = 81+32=113 F\nK: 45+273=318 K inii yaa maff klo sllah",
+                    "attachments": []
+                },
+                {
+                    "answer": "C : 5/4 x 36 = 45 derajat C<br><br>F :9/4 x 36 + 32 = 113 derajat F<br><br>K : 36 + 273 = 309 derajat K<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-seorang-ayah-empat-kali-umur-anaknya-dan-lima-tahun-yang-lal-834",
+            "question": "umur seorang ayah empat kali umur anaknya dan lima tahun yang lalu hasil kali umur mereka adalah 175. nyatakan umur ayah sekarang dalam persamaan kuadrat!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur ayah : x, umur anak : y<br>x = 4y<br>(x - 5)(y - 5) = 175<br>(4y - 5)(y - 5) = 175<br>4y\u00b2 - 25y + 25 = 175<br>4y\u00b2 - 25 - 150 = 0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perbandingan umur ayah dan umur anak adalah 1 : 4<br>umur anaknya 10 tahun dan umur ayahnya 40 tahun<br>5 tahun yang lalu umur anaknya 5 tahun dan ayahnya 35 tahun, jika dikalikan mendapatkan hasil 175<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

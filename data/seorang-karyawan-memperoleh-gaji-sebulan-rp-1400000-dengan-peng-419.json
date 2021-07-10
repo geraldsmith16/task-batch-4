@@ -1,0 +1,150 @@
+{
+    "question": "seorang karyawan memperoleh gaji sebulan RP 1.400.000 dengan penghasilan tidak kena pajak RP 480.000 jika besar pajak penghasilan 10%, besar gaji yang diterima karyawan itu adalah..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gaji kena pajak = 1.400.000 - 480.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 920.000<br>pajak = 1/10. 920.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 92000<br><br>gaji yang diterima = 1.400.000 - 92.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1.308.000 rupiah<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Diketahui gaji/bulan = 1.400.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 gaji/bulan tidak kena pajak = 480.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 potongan gaji (pajak) = 10 %<br>Ditanya gaji bersih?<br><br>Gaji kena pajak =\u00a01.400.000 - 480.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 920.000<br><br>Gaji kena pajak = 920.000 x 10%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 92.000<br><br>Gaji bersih = 1.400.000 - 92.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1.308.000",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-sebuah-lingkaran-yg-berpusat-di-titik-p-berjari-jari-28-365",
+            "question": "Diketahui sebuah lingkaran yg berpusat di titik p berjari jari 28 cm. Jika titik A dan B terletak pada lingkaran sehingga APB= 180 derajat. Hitunglah luas juring APB ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus luas x sudut juring : 360<br>luas = pi r^2<br>l= 3.14 x 28 x 28<br>juring\u00a0= 2461.76 x 180 : 360<br>juring = 1230.88 :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/4.22/7.28=66,jadi luas lingkaran 66 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-segitiga-abc-disamping-dalah-946",
+            "question": "Luas segitiga ABC disamping dalah",
+            "attachments": [
+                "question-attachments/luas-segitiga-abc-disamping-dalah-946-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "(16\u00d712 :\u00a02) + (5\u00d712 : 2) = 96 + 30 = 126",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-ltpoq-72-derajat-dan-panjang-busur-pq-35-cm-387",
+            "question": "Diketahui besar &lt;POQ = 72 derajat dan panjang busur PQ = 35 cm    Hitunglah :\r\na. panjang busur PR,dan\r\nb. Keliling lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ada gambarnya gk neng?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-uang-siti-rp-3600000-dan-besar-uang-nia-rp-2400000perb-838",
+            "question": "Besar uang siti RP 36.000,00 dan besar uang nia RP 24.000,00.perbandingan uang keduanya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan besar uang siti : \u00a0nia =\u00a0<br>36000\u00a0:\u00a024000=3:2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-6-dan-7-dari-barisan-112358-sejalian-caranya-ya-965",
+            "question": "Suku ke 6 dan 7 dari barisan 1,1,2,3,5,8,...\r\nsejalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_1 = 1 \\\\ U_2 = 1 \\\\ U_n = U_{n-2} + U_{n-1} \\\\ U_6 = U_4 + U_5 = U_4 + U_3 + U_4 = 2U_4 + U_3 = 2U_2 + 3U_3 \\\\ = 5U_2 + 3U_1 = 5*1 + 3*1 = 8 \\\\ U_7 = U_5 + U_6 = U_3 + U_4 + 8 = 2U_3 + U_2 + 8 \\\\= 2U_1 + 3U_2 + 8 = 2*1 + 3*1 + 8 = 13[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : U1 / a=1<br>\u00a0\u00a0 \u00a0 \u00a0 U2 /b =2<br>dit: U6 dan U7?<br>jawab :<br>b= U2-U1= 2-1=1\u00a0 \u00a0 U7=1+(7-1)1<br>\u00a0U6= 1+(6-1)1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>\u00a0\u00a0 \u00a0 =6<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-deret-aritmatika-terdiri-dari-10-suku-jumlah-suku-pertama-303",
+            "question": "Sebuah deret aritmatika terdiri dari 10 suku, jumlah suku pertama dan ke dua adalah 9. Adapun jumlah suku ke 5 dan 6 adalah 33. jumlah deret tersebut adalah ...    A. 30\u00a0 \u00a0 \u00a0 C. 156\r\nB. 67\u00a0 \u00a0 \u00a0 D. 165\r\nJAWAB YG BENAR YAH .. MINTOL :D DENGAN CARANYA ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = 9<br>a + a + b = 9<br>2a + b = 9............1<br><br>U5 + U6 = 33<br>a + 4b + a + 5b = 33<br>2a + 9b = 33..........2<br><br>dari eliminasi persamaan 1 dan 2 didapat a =3,\u00a0 b = 3<br>Sn = [tex] \\frac{n}{2} [/tex] (2a + (n-1)b)<br>S10 = [tex] \\frac{10}{2} [/tex] (2.3 + (10-1)3)<br>=&gt; 5(6 + 27)<br>=&gt; 5(33) =\u00a0 165 (D)....semoga membantu..ok?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a+a+b=9\n2a+b=9...persamaan 1\na+4b+a+5b=33\n2a+9b=33...persamaan \n2\neliminasi pers 1 dan 2\ndapat a=3 dan b=3\njadi 10/2(2*3+(10-1)3)\n5*33=165",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-lingkaran-5024-cm2-maka-diameternya-adalah-401",
+            "question": "Jika luas lingkaran 5024 cm2 , maka diameternya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas = 1/4 \u03c0 d\u00b2<br>5024 = 1/4 3.14 d\u00b2<br>5024 x 4 = 3.14 d\u00b2<br>20096 = 3.14 d\u00b2<br>20096 : 3.14 = d\u00b2<br>6400 = d\u00b2<br>d = \u221a6400<br>d = 80 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "adi-sedang-berlatih-naik-mobil-pada-lintasan-berbentuk-lingkaran-152",
+            "question": "Adi sedang berlatih naik mobil pada lintasan berbentuk lingkaran dengan jari jari 28 meter , tentukan jarak yang ditempuh adi untuk :    a. 1 kali putaran\r\n b. 2 kali putaran \r\n c. 2 1/2 putaran\r\n d. 5 putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.KO = 2\u03c0r<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 2 . 22/7 . 28<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 176 meter<br>2. \u00a02 KO = 2 x 176 =\u00a0352 meter<br>3. \u00a02 1/2 KO = 2 1/2 x 176 =\u00a0440 meter<br>4. \u00a0 5 KO = 5 x 176 = 880 meter",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>k = 2 \u00d7\u00a0  \u00d7 28 <br>\u00a0 = 2 \u00d788 <br>\u00a0 = 176 m<br>a. 1 putraran = 1 \u00d7 176 m = 176 m<br>b. 2 putaran = 2 \u00d7 176 m =\u00a0 352 m<br>c\u00a0 2 1/2 putaran =  \u00d7 176 = 88 m<br>d. 5 putaran = 5 \u00d7 176 = 880 m <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-lingkaran-yang-masing-masing-berjari-jari-r-dan-r-950",
+            "question": "Diketahui dua lingkaran yang masing-masing berjari-jari r dan r + 1 . Panjang garis singgung persekutuan dalam dua lingkaran tersebut adalah 3r . Jika jarak kedua titik pusat lingkaran adalah 15cm maka panjang r adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d2=p2-(r1+r2)<br>15\u00b2-(3)\u00b2<br>225-9<br>216<br>d2= 216<br>d2=\u221a216=14,69",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-bantuannya-yang-no-5-pada-gambar-berikut-l-adalah-titik-pus-905",
+            "question": "Mohon bantuannya yang no 5    pada gambar berikut L adalah titik pusat lingkaran dan sudut BLD =130 derajat\r\ntentukanlah:\r\na.sudut\u00a0BAD\r\nb.sudut BCD\r\n\r\ntolong jelaskan dengan cara,makasih sebelumnya :)",
+            "attachments": [
+                "question-attachments/mohon-bantuannya-yang-no-5-pada-gambar-berikut-l-adalah-titik-pus-905-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "&lt; BAD = sudut BLD \u00f7 2 ( karena sudut keliling = sudut pusat \u00f7 2 )<br>&lt;BAD = 130 \u00f7 2<br>&lt;BAD = 65\u00b0<br><br>&lt;BCD = sudut reflek BLD \u00f7 2 <br>&lt;BCD = ( 360 - 130 ) \u00f7 2<br>&lt;BCD = 230 \u00f7 2<br>&lt;BCD = 115\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. &lt;BAD =\u00a0[tex] \\frac{1}{2}&lt; BLD[/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 65<br><br>b sudut reflek BAD= (360\u00a0- 130) = 230. <br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 &lt;BCD =\u00a0[tex] \\frac{1}{2} [/tex] x 230 = 155",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

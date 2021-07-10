@@ -1,0 +1,138 @@
+{
+    "question": "Persamaan garis singgung yang melalui titik (-2 , 2\u221a2) pada lingkaran x\u00b2 + y\u00b2 = 12 adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x1x + y1y = r^2<br>-2x + 2\u221a2 y = 12",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-suatu-deret-geometri-diketahui-sn4-dan-s440-tentukan-suku-921",
+            "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-2-6-18-jika-suku-terakhirnya-468",
+            "question": "Diketahui barisan geometri 2 , 6 , 18 ,... jika suku terakhirnya 1458 , suku tengah barisan tersebut adalah suku ke..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Pembahasan</h2><p>\u27aa <strong>Barisan bilangan</strong>, yaitu urutan dari bilangan-bilangan yang tersusun berdasarkan pada pola tertentu.</p><p>\u3164<strong><u>Barisan geometri</u> </strong>(barisan ukur) merupakan barisan yang hasil bagi setiap suku dengan suku sebelumnya tetap. Hasil bagi tersebut disebut dengan rasio (r). Berikut rumus-rumus yang akan digunakan dalam menyelesaikan kasus soal ini. </p><p>\u2666 <strong>Menentukan suku tengah barisan geometri</strong></p><p>[tex]\\red {\\boxed{ { \\sf U_t =  \\sqrt{a  \\times  U_n} }}}[/tex]</p><p>Keterangan:</p><ul><li>Ut = suku tengah</li><li>a = suku pertama</li><li>Un = suku terakhir</li></ul><p>\u2666 <strong>Menentukan rasio (r) </strong></p><p>[tex] \\blue {\\boxed{ { \\sf r =  \\frac{U_2}{U_1} =  \\frac{U_3}{U_2} =  \\frac{U_4}{U_3} ,...,  \\frac{U_n}{U_{n - 1}}}}}[/tex]</p><p>Keterangan:</p><ul><li>r = rasio</li><li>Un = suku ke-n</li><li>U1 = suku pertama</li><li>U2 = suku kedua</li><li>dst..... </li></ul><p>\u2666 <strong>Menentukan suku ke-n</strong></p><p>[tex] \\green {\\boxed{ { \\sf U_n = a {r}^{n - 1} }}}[/tex]</p><p>Keterangan:</p><ul><li>Un = suku ke-n</li><li>a = suku pertama</li><li>r = rasio</li></ul><p>\u2666 <strong>Menentukan letak suku tengah barisan geometri</strong></p><p>[tex] \\red {\\boxed{ { \\sf t = \\frac{1}{2}  \\: (n + 1) }}}[/tex]</p><p>Keterangan:</p><ul><li>t = posisi suku tengah</li><li>n = banyaknya suku</li></ul><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Penyelesaian Soal</h2><p><strong><u>Diketahui</u></strong><strong><u>:</u></strong> </p><p>Barisan geometri 2, 6, 18, .. dan suku terakhirnya 1458</p><ul><li>U\u2081 = a = 2</li><li>U\u2082 = 6</li><li>Un = 1458  (suku terakhir)</li></ul><p><strong><u>Ditanya</u></strong><strong><u>:</u></strong></p><p>Suku tengah barisan tersebut adalah suku ke? </p><p><strong><u>Dijawab</u></strong><strong><u>:</u></strong></p><p><strong>\u203aMenentukan </strong><strong>rasio</strong><strong> </strong><strong>(</strong><strong>r</strong><strong>)</strong></p><p>[tex]\\displaystyle  \\sf r =  \\frac{U_2}{U_1}  = \\frac{6}{2} = 3[/tex]</p><p><strong>\u203aMenentukan suku </strong><strong>tengah</strong></p><p>[tex] \\sf U_t =  \\sqrt{a  \\times  U_n} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2  \\times  1458} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2916} [/tex]</p><p>[tex] \\sf U_t = 54[/tex]</p><p><strong>\u203aMenentukan suku ke-n</strong></p><p>Yang ditanyakan berarti Ut = 54 terletak pada suku ke? Berarti terlebih dahulu kita harus mencari nilai n nya.</p><p>[tex] \\sf Un = a {r}^{n - 1} [/tex]</p><p>[tex] \\sf 1458 = 2(3{)}^{n - 1} [/tex]</p><p>[tex] \\displaystyle  \\sf \\frac{1458}{2}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf 729 =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  {3}^{6}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  \\:  \\:  6 =  n - 1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  6  +  1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  7[/tex]</p><p><strong>\u203a</strong><strong>Menentukan letak suku tengah</strong></p><p>Setelah itu, menentukan letak suku tengah barisan geometri. </p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (n + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (7 + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (8) [/tex]</p><p>[tex]\\displaystyle {\\boxed{ { \\sf t = 4}}}[/tex]</p><p>\u2756 Jadi, Ut = 54 terletak pada suku ke 4. </p><p><strong>\u3164\u3164\u3164</strong></p><h3><strong>Kesimpulan</strong><strong>:</strong></h3><p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h3>Pelajari Lebih Lanjut:</h3><p>Mengenai materi tentang barisan dan deret geometri pada link di bawah ini. </p><ol><li>Menentukan nilai tengah dan letak suku tengah dari barisan geometri brainly.co.id/tugas/39988697</li><li>Menentukan suku tengah pada barisan geometri  brainly.co.id/tugas/6301435</li><li>Menentukan nilai suku tengah dari 11 suku pada barisan geometri brainly.co.id/tugas/31495198</li></ol><p>\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 </p><h3>\u00bb Detail Jawaban</h3><p><strong>Mapel\u3164\u3164 :</strong> Matematika</p><p><strong>Kelas \u3164\u3164 :</strong> XI SMA</p><p><strong>Materi\u3164\u3164:</strong> Bab 7 - Barisan dan Deret</p><p><strong>Kode kategorisasi :</strong> 11.2.7</p><p><strong>Kata kunci : </strong>barisan geometri, suku tengah</p><p>\u3164\u3164\u3164</p><p>#AyoSemangat! </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-buah-buku-dan-2-buah-pensil-rp880000-jika-harga-sebua-328",
+            "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmetika-berikut-a-50-46-42-807",
+            "question": "Tentukan jumlah deret aritmetika berikut:     a.) 50\u00a0+\u00a046\u00a0+\u00a042\u00a0+\u00a038\u00a0+\u00a0... sampai dengan 10 suku.\r\nb.) -\u00a022\u00a0-\u00a016\u00a0-\u00a010\u00a0-\u00a04\u00a0-\u00a0... sampai dengan 20 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. S10\u00a0= 10/2 (2.50+(10-1) .\u00a0-4)<br>S10= 5 (100-36) =320<br>b. S20 = 20/2 (2. -22+(20-1)4)<br>S20 = 10(-44+76) = 320",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2(2a+(n-1)b)<br>s10=5(100+9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0  =5(100-36)<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =5(64)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =320<br>s20=10(2.-22+19.6)<br>\u00a0\u00a0 \u00a0 \u00a0  =10(-44+114)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =10(70)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =700<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-liter-bensin-untuk-50-km-senilai-dgn-liter-untuk-75-km-600",
+            "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-dan-keliling-segitiga-sama-sisi-706",
+            "question": "Luas dan Keliling segitiga sama sisi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas= alas kali tinggi bagi 2<br>Keliling= ab+bc+ca<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<em>Luas =\u00a0</em>[tex] \\frac{a^2}  {4} \\sqrt{3} [/tex]<br>Keliling= 3.a",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sinus-105-sinus-15-adalah-743",
+            "question": "Nilai dari sinus 105 - sinus 15 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sin 105 - sin 15 =\u00a0</span>[tex] \\frac{1 +  \\sqrt{3} }{2 \\sqrt{2} } -  \\frac{ \\sqrt{3}-1 }{2 \\sqrt{2} } =  \\frac{1}{2}  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "diketahui sebuah lingkaran dengan pusat P. Titik A, B, R dan S terletak pada lingkaran. Besar sudut APB 40*, besar sudut RPS 100* dan panjang busur RS adalah 40 cm. Hitunglah panjang busur AB",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "klo rumusnya<br>sudut/sudut = P.busur/P.busur<br>sudut/sudut = 40/X<br>100/40 = 40/X<br>40X40 = 100X<br>1600 = 100X<br>X \u00a0= 16<br><br>nih rumusnya<br><span>sudut/sudut = P.busur/P.busur = L.jurung/L.Juring</span><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "715-sudut-putaran-penuh-derajat-952",
+            "question": "7/15 sudut putaran penuh = .... Derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "7/15 x 360 = 168 derajat...",
+                    "attachments": []
+                },
+                {
+                    "answer": "168 derajat<br><br><br>semoga membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-garis-singgung-lingkaran-251",
+            "question": "Pengertian garis singgung lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran itu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran itu.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-397",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x = \u00bd\u221a3\nsin 2x = sin 60\u00b0\n2x = 60\u00b0\n \u2192 2x = 60\u00b0+k.360\u00b0\n \u2192 x = 30\u00b0+180\u00b0\nk = 0 \u2192 x = 30\u00b0\nk = 1 \u2192 x =30+180 = 210\u00b0\n \u21922x = 120+k.360\n \u2192 x = 60+180\nk=0 \u2192 x = 60\u00b0\nk=1 \u2192 x = 60+180 = 240\u00b0\nHP = {30\u00b0, 60\u00b0, 210\u00b0, 240\u00b0}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "budi-mempunyai-kawat-sepanjang-10-m-yang-akan-digunakan-untuk-mem-868",
+            "question": "budi mempunyai kawat sepanjang 10 m yang akan digunakan untuk membuat kerangka balok berukuran 40 cm\u00d724 cm\u00d736 cm. kerangka balok yang dapat dibuat budi sebanyak...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cari dulu total panjang rusuknya. caranya 40x4, terus 24x4, dan 36x4. Hasilnya 160+96+144= 400. total pjg rusuknya 400cm, sedangkan kawat yang kita punya adalah 10m = 1000cm. maka kita cuma bisa bikin dua balok aja, sisanya ada 200cm lagi:) maaf kalo salah yaa~<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kan\u00a0rumusnya itu\u00a0<br>4p + 4l\u00a0+ 4t<br>4\u00a0x\u00a040 + 4 x\u00a024 + 4x 36<br>160\u00a0+\u00a096 + 144<br>400<br>trs\u00a0kawat\u00a0yg dimiliki kan 10 m jdi 1.000 cm<br>jdi\u00a01.000\u00a0cm\u00a0/ 400<br>dapet 2 buah sisanya 200 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-lingkaran-yg-kelilingnya-sebagai-berikut-a-88c-529",
+            "question": "hitunglah luas lingkaran yg kelilingnya sebagai berikut \u00a0 a) 88cm\u00a0\u00a0\u00a0\u00a0 b) 94,2cm \u00a0 \u00a0 \u00a0 \u00a0 c) 188,4cm \u00a0\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) k = 2 \\pi r \\\\ 88=2 \\frac{22}{7} r \\\\ r=88 \\frac{7}{44}  \\\\ r=14 \\\\  \\\\ L= \\pi r^{2} \\\\ L= \\frac{22}{7} 14^{2}  \\\\ L=\\frac{22}{7}196 \\\\ L=616 cm^{2}  \\\\  \\\\ b) k = 2 \\pi r \\\\ 94,2=2 \u00d7 3,14r  \\\\ r=94,2:6,28 \\\\ r=15 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 15^{2}  \\\\ L=3,14 \u00d7  225 \\\\ L=706,5 cm^{2}  \\\\  \\\\ c) k = 2 \\pi r \\\\ 188,4=2 \u00d7 3,14r  \\\\ r=188,4:6,28 \\\\ r=30 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 30^{2}  \\\\ L=3,14 \u00d7  900 \\\\ L=2.826 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-yg-berputar-sebanyak-25-kali-dapat-menempuh-jarak-22-131",
+            "question": "sebuah roda yg berputar sebanyak 25 kali dapat menempuh jarak 22 m. jika \u03c0= 22/7, maka luas permukaan roda itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2200cm/25 (mau nyari 1puteran[1keliling])<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 88<br>keliling= d x\u00a0\u03c0<br>88 = d x 22/7<br>28 = d<br>jadi r nya itu 14<br>--<br>L =\u00a0\u03c0 x r\u00b2<br>L = 22/7 x 14 x 14<br>L = 616 cm\u00b2<br>aku harap ini membantu^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-nasabah-mendapat-bunga-rp22400000-selama-4-bulan-bunga-631",
+            "question": "Seorang nasabah mendapat bunga Rp224.000,00 selama 4 bulan, bunganya 14% dari modal yang disimpan. Berapakah modal yang disimpan ? Jelaskan caranya juga!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.400.000,00 \u00d7 14/100 =56000\n56000 \u00d7 4 = 224.000,00",
+                    "attachments": []
+                },
+                {
+                    "answer": "4/12 x 14/100 x m = 224.000\n14/300 x m = 224.000\n14/300m = 224.000\nm = 4.800.000\nmaaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-beli-kain-1-kodi-adalah-600000-dan-setelah-dijual-mengal-699",
+            "question": "harga beli kain 1 kodi adalah 600.000 , dan setelah dijual mengalami kerugian 8% . tentukan harga penjualan 1 lembar kain batik tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100-92 per 100 dikali 600.000\n= 92 per 100 dikali 600.000\n= 552000 dibgi 20 buah\n= 27600 maybe",
+                    "attachments": []
+                },
+                {
+                    "answer": "harga perkain sebelum rugi = 600.000/20<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 300/kain<br>harga setelah mengalami kerugian = 300 x 8/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2400/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-7-5x-11-maka-nilai-x-3-adalah-421",
+            "question": "Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><h3>Pembahasan</h3><p>Persamaan linear satu variabel atau PLSV merupakan kalimat terbuka yang memiliki satuvariabel dan menggunakan tanda sama dengan ( = ).</p><p>Bentuk umum persamaan linear satu variabel ax + b = 0.</p><p>a disebut koefisien dari variabel</p><p>x adalah variabel</p><p>b adalah konstanta</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Sederhanakanlah bentuk bentuk aljabar berikut \u00a012 + 2 (4x - 3y) = brainly.co.id/tugas/2898178</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><p> \u00a0 \u00a0 2x + 7 = 5x - 11 \u00a0Ruas kiri dan ruas kanan kita kurang 7</p><p>2x + 7 - 7 = 5x - 11 - 7</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 5x - 18 Ruas kiri dan ruas kanan kita kurang 5x</p><p> \u00a0 \u00a02x - 5x = 5x - 18 - 5x</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-3x = -18 Ruas kiri dan ruas kanan kita bagi -3</p><p> \u00a0 \u00a0-3x : -3 = -18 : -3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 6</p><p></p><p>Maka x + 3 = 6 + 3 = 9</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Apa yg dimaksud persamaan linier satu variabel? brainly.co.id/tugas/1909229</li><li>25 - 4y = 6y + 15 \u00a0[ tentukan himpunan penyelesaian dari persamaan linear ] brainly.co.id/tugas/2167585</li></ul><h3>==============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: PLSV</p><p><strong>Kode </strong>: 8.2.1</p><p></p><p><strong>Kata</strong> <strong>Kunci </strong>: Al-jabar, persamaan, linear, satu, variabel, koevisien, konstanta.</p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dina-membeli-baju-seharga-rp131750-setelah-dia-memperoleh-potong-146",
+            "question": "dina membeli baju seharga Rp131.750 setelah dia memperoleh potongan harga 15%.Tentukan harga yang terter pada baju tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 15:100 *131.750<br>#semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "131750*15%=19762.5 itu harga potongannya . nah harga setelah potongan 131750-19762.5= 111987.5",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

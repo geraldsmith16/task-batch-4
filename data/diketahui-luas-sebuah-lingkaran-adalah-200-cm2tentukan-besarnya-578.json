@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2.tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut kerjakan dengan caranya.    a.10 cm\u00b2\r\nb.20 cm\u00b2\r\nc.40 cm\u00b2\r\nd.50 cm\u00b2\r\ne.100 cm\u00b2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Luas juring= luas derajat/360 kali luas lingkaran",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "budi-membuat-sebuah-parasut-berbentuk-belahan-bola-dari-katun-den-369",
+            "question": "budi membuat sebuah parasut berbentuk belahan bola dari katun dengan panjang diameter 7m.\u00a0 jika harga katun rp.30,000,00 setiap m ,\u00a0 maka biyaya yang diperlukan untuk membuat parasut itu adalah ..? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k lingkaran =\u00a0[tex] \\pi [/tex] . d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] . 7 cm . 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44 cm<br>biaya = Rp 30.000 . keliling lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 30.000 . 44 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 132.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "v\u00a0= 4/3\u00a0\u00d7 22/7\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 1/2 = 4/3\u00a0\u00d7 22/7\u00a0\u00d7 3,5\u00a0\u00d7 3,5\u00a0\u00d73,5\u00a0\u00d7 1/2 = 3773/42\u00a0= 89,83 m\u00b3<br>kayak gitu itu kalo betul sih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-limit-berikut-1-lim-x3-x3-3x22x-6-x-359",
+            "question": "Hitunglah nilai limit berikut :    1). lim (x\u21d23) X\u00b3-3X\u00b2+2X-6: X+4\r\n2). lim (X\u21d20) X\u00b3-5X+5: X\u00b2-2X+3\r\nc). lim (X\u21d2-1) 2X+1: X\u00b2-3X+4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) lim x-&gt; 3 \u00a0 (x^3 - 3x^2 + 2x - 6) / (x + 4)<br>harus ada yang dihilangkan (malas ketikknya :3, sorry )<br><br>2) lim x-&gt;0 \u00a0 \u00a0(x^3 - 5x + 5) / (x^2 - 2x + 3)<br>lim x-&gt;0 \u00a0 \u00a05/3<br><br>3) lim x-&gt;-1 \u00a0 (2x+1) / (x^2 - 3x + 4)<br>lim x-&gt;-1 \u00a0 (-1) / (8)<br>hasil -&gt; -1/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-hitung-nilai-p-sukubanyak-fx-x5p-2-566",
+            "question": "tolong beri jawabannya, hitung nilai p ,sukubanyak f(x)= x^5+(p-2)x pngt4+3px pngt3-x pngt2+2x+4 dibagi dgn x+1 menghasilkan sisa -10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = x^5 + (p-2)x^4 + 3px^3 - x^2 + 2x + 4 dibagi dengan (x+1) menghasilkan sisa -10. Nilai p ?<br><br>(x+1) artinya nilai x = -1<br><br>x = -1 , (nilai x dimasukkan kedalam persamaan y)<br>(-1)^5 + (p-2)(-1)^4 + 3(-1)^3 - (-1)^2 + 2(-1) + 4 = 0<br>-1 + (p-2)(1) + 3(-1) - 1 - 2 + 4 = 0<br>-1 + p - 2 - 3 +\u00a01 = 0<br>p - 5 = 0<br>p = 5<br><br>y = x^5 + 3x^4 + 15x^3 - x^2 + 2x + 4 dibagi (x+1) sisa -10<br><br>untuk percobaan agar menghasilkan sisa -10, silahkan dibagikan dengan x=-1 :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x) =  x^{5} + (p-2)  x^{4}  + 3p x^{3} -  x^{2} +2x +4[/tex]<br><br>karena dibagi (x+1) = -10 maka<br><br>[tex]f(-1) = -10 \\\\ -10 = (-1)^{5} + (p-2)(-1)^{4} + 3p(-1)^{3} - (-1)^{2} + 2(-1) + 4 \\\\ -10 = -1 +(p-2) - 3p -1 -2 +4 \\\\ -8 = -2p \\\\ p = 4[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-x-13-3-dan-x-tumpul-berapakah-nilai-dari-cos-x-210",
+            "question": "Jika tan x = -1/3 \u221a3, dan x tumpul berapakah nilai dari cos x ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo nilai tan minus berarti tan itu ada di kuadran 2 atau ngga 4. terus karena nilainya 1/3\u221a3 berarti sudutnya 30\u00b0. karena sudutnya tumpul,berarti di kuadran 2. jadi nilai cosnya : cos (180\u00b0-30\u00b0) = -(cos 30\u00b0) = - 1/2\u221a3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>x = -1/3 \u221a3 =\u00a0</span>[tex] \\frac{sin 2x}{cos 2x + 1} =  \\frac{-1}{ \\sqrt{3} } [/tex]<br><br><br><br><br>Semoga membantu :) D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-dalam-radian-a-30-derajat-b-105-derajat-c-60-derajat-385",
+            "question": "Nyatakan dalam radian:\r\na. 30 derajat\r\nb. 105 derajat\r\nc. 60 derajat 48 aksen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 30\u00b0 = 30\u00b0 x 1\u00b0 =30\u00b0 x \u03c0/180\u00b0 = 30 \u03c0/180 rad = 1\u03c0/6 rad<br>b. 105\u00b0 = 105\u00b0 x 1\u00b0 = 105\u00b0 x \u03c0/180\u00b0 =\u00a0 105\u03c0/180 rad = 7\u03c0/12 rad<br>c. 60\u00b0 48&#039; = 48&#039; x (1/60)\u00b0 = 0,8\u00b0 = 60\u00b0+0,8\u00b0=60,8\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-berikut-a13927729-262",
+            "question": "Tentukan jumlah deret berikut :\r\na).1+3+9+27+...+729",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah deret 1+3+9+.....+729<br><br>a=1, r=3<br>un= a.r^(n-1)=729<br>un=1.3^(n-1)=3^6<br>(n-1)=6<br>n=7<br><br>Sn = a(r^n-1) /(r-1)<br>Sn =1.(3^7-1)/(3-1)<br>Sn=(2186)/2<br>Sn=1093",
+                    "attachments": []
+                },
+                {
+                    "answer": "1+3+9+27+\u2026+729\u00a0\u00a0\u00a0<br><span>Dik: a=1, Un=729 , r= 3<br>penyelesaian:<br>\u00a0 \u00a0#\u00a0Un=\u00a0a.r^(n-1) \u00a0 \u00a0 \u00a0\u00a0</span><br>\u00a0 \u00a0 \u00a0729= 1. 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0729= 3^(n.1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<span><br>\u00a0 \u00a0</span>3^(6)= 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a0 \u00a0 \u00a0 6= n -1</span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a06 + 1= n -1+1\u00a0\u00a0\n<br>\u00a0 \u00a07= n \u00a0<br></span><br>\u00a0#Sn = a(r^{n})/r-1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=1(3^{7} -1) /3-1<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=(2187 \u2013 1)/2<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=2187/2\u00a0<br>\u00a0 \u00a0\u00a0Sn\u00a0=1093,5<span><br>Jadi jumlah deret dari\u00a0</span>1+3+9+27+\u2026+729 \u00a0adalah 1093,5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

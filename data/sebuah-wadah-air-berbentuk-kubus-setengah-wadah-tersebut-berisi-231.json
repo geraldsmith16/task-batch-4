@@ -1,0 +1,144 @@
+{
+    "question": "sebuah wadah air berbentuk kubus. Setengah wadah tersebut berisi air. Jika volume air tersebut 864cm\u00b3,panjang rusuk wadah tersebut berapa cm?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/2V=864cm3<br>\u00a0V=2X864=1728cm3<br>V=r3<br>1728=r3<br>r=12 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "864 cm \u00b3 jadi jawaban 234 cm<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-todung-memiliki-sebuah-monbil-box-pengangkut-barang-dengan-da-303",
+            "question": "Pak Todung memiliki sebuah monbil box pengangkut barang dengan daya angkut maksimal 1 ton. Berat pak todung adalah 50 kg dan dia akan mengangkut kotak barang yg setiap kotak beratnya 25 kg.    a&gt; Berapa kotak paling banyak diangkut pak todung dalam sekali pengangkutan?\r\nb&gt; Jika pak todung akan mengangkut 1994 kotak , paling sedikit berapa kali pengangkutan kotak itu akan habis?\r\nc&gt; Jika setiap kotak beratnya 50 kg, berapa paling sedikit banyak pengangkutan yang akan dilakukan pak todung?\r\n\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 ton = 1000\u00a0kg<br>1000 - 50 = 950 kg<br>a.950 : 25 = 38 kotak<br>b.1994 X 25 = 49850<br>\u00a0 \u00a049850 : 1000 = 49,85 , jadi minimal sebenyak 50 kali angkutan<br>c.950 : 50 = 19 kotak",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 ton=1000 kg<br>berat pak dudung=50 kg<br>berat kotak=25 kg<br>1000 kg dikurangi 50 kg=950 kg<br>=950 kg : 25 kg = 38 kotak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-kedua-dan-suku-keenam-suatu-deret-geometri-dengan-155",
+            "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-berikut-hitunglah-nilai-x-dan-y-261",
+            "question": "Pada gambar berikut, hitunglah nilai\u00a0x\u00a0dan\u00a0y.",
+            "attachments": [
+                "question-attachments/pada-gambar-berikut-hitunglah-nilai-x-dan-y-261-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "a.x= 40 derjat<br><br>b. x= 50 derajat<br>\u00a0 \u00a0 y= 25 derajat<br><br>c. x= 35 derajat<br>\u00a0 \u00a0 y= 35 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631",
+            "question": "1. Sebuah mobil menghabiskan 8 liter bensin untuk menempuh jarak 56 km. Jika jarak yang\u00a0 ditempuh 84 km, maka bensin yang diperlukan adalah...?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2. Sudu pekerjaan diselesaikan oleh 30 orang tukang dalam 50 hari. Berapa harikah pekerjaan\u00a0 itu dapat diselesaikan oleh 20 orang tukang...?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3. Pembangunan sebuah gedung direncanakan selesai dalam waktu 22 hari bila dikerjakan oleh 20 orang. Setelah dikerjakan 10 hari, pekerjaan dihentikan selama 6 hari.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Supaya pembangunan itu selesai dapat pada waktunya, maka diperlukan tambahan pekerjaan sebanyak......?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Pliss tolong dijawab yha......\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori : Matematika -perbandingan<br>Kelas : 8 SMP<br>Pembahasan : jawabannya adalah<br>1) 12 liter<br>2) 33 hari<br>3) 20 orang<br>Penyelesaian dg cara terlampir",
+                    "attachments": [
+                        "answer-attachments/1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631-1.jpg",
+                        "answer-attachments/1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631-2.jpg",
+                        "answer-attachments/1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-juring-40cm2jika-jari-jarinya-10cm-maka-panjang-bu-241",
+            "question": "Luas sebuah juring 40cm\u00b2,jika jari jarinya 10cm ,maka panjang busur juring ialah=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{Luas Juring}{r} =  \\frac{Panjang busur}{2}  [/tex]<br>= [tex] \\frac{40}{10} =  \\frac{Panjang busur}{2}  [/tex]<br>= [tex]40 =  \\frac{panjang busur}{2} [/tex]<br>Panjang busur = 80 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{L juring}{L O} =  \\frac{Panjang B}{KO}  [/tex][tex] \\frac{40}{ \\pi 10^2} =  \\frac{Pb}{2 \\pi 10}  [/tex]<br><br>[tex]\\frac{40}{ \\pi 100} =  \\frac{Pb}{20 \\pi } [/tex]<br><br>pb = 40 x 20\u03c0 : 100\u03c0<br>\u00a0 \u00a0 = 8 cm<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koperasi-sekolah-membeli-2-kardus-buku-tulis-dangan-harga-rp5400-138",
+            "question": "Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah , tentukan :    a.harga penjualan\r\nb.Harga pembelian\r\nc.keuntungan\r\nd.persentase keuntungan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Koperasi sekolah membeli 2 kardus buku tulis</strong> dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah, maka\n</p><ul><li>a. harga penjualan = Rp135.000,00\n</li><li>b. harga pembelian = Rp108.000,00\n</li><li>c. keuntungan = Rp27.000,00\n</li><li>d. persentase keuntungan = 25%\n</li></ul><p>Seseorang akan <strong>mengalami keuntungan</strong> jika <em>harga penjualan lebih besar dari harga pembelian</em> atau <em>harga pembelian lebih kecil dari harga penjualan</em>, maka\n</p><ul><li>Untung = Harga jual \u2013 harga Beli\n</li><li>Untung = persentase untung \u00d7 harga beli\n</li></ul><p>maka\n</p><p>Persentase untung = [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100% \u00a0</p><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><p>Harag beli buku tulis = Rp54.000,00 per kardus\n</p><p>Setiap kardus berisi 50 buku tulis\n</p><p>Harga jual 1 buku tulis = Rp1.350,00\n</p><p></p><p><strong>Ditanyakan</strong>\n</p><p>a. harga penjualan\n</p><p>b. harga pembelian\n</p><p>c. keuntungan\n</p><p>d. persentase keuntungan\n</p><p></p><p><strong>Jawab\n</strong></p><p>Banyak total buku tulis\n</p><p>= 2 kardus \u00d7 50 buku\n</p><p>= 100 buku\n</p><p></p><p><strong>a. Harga Penjualan buku tulis\n</strong></p><p>= 100 buku \u00d7 Rp1.350,00\n</p><p>= <strong>Rp135.000,00\n</strong></p><p></p><p><strong>b. Harga pembelian buku tulis\n</strong></p><p>= 2 kardus \u00d7 Rp54.000,00\n</p><p>= <strong>Rp108.000,00\n</strong></p><p></p><p><strong>c. Keuntungan yang diperoleh\n</strong></p><p>= harga jual \u2013 harga beli\n</p><p>= Rp135.000,00 \u2013 Rp108.000,00\n</p><p>= <strong>Rp27.000,00\n</strong></p><p></p><p><strong>d. Persentase keuntungan yang diperoleh\n</strong></p><p>= [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27.000}{108.000}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27}{108}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{1}{4}[/tex] \u00d7 100%\n</p><p>= <strong>25%\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0</h3><p></p><p>Contoh soal lain tentang keuntungan\n</p><p>https://brainly.co.id/tugas/21047303\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel </strong>: Matematika \u00a0\n</p><p><strong>Kategori</strong> : Aritmatika Sosial\n</p><p><strong>Kode</strong> : 7.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-kerjakan-yaa-pak-budi-mempunyai-sebidang-tanah-berbentuk-p-784",
+            "question": "Coba kerjakan yaa :    Pak Budi mempunyai sebidang tanah berbentuk persegi panjang.Panjang tanah tersebut 5m lebih panjang dari lebarnya.Jika keliling tanah tersebut 50m,tentukan luas tanah petani itu.\r\n\r\nDengan cara tidak pindah ruas ya,makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>Keliling : 50<br>panjang : lebar + 5<br><br>Tanya : Luas =&gt; panjang x lebar<br><br>Jawab :<br>cari dulu lebar nya<br><br>keliling = 2p + 2l<br>50 = 2 (p+l) --&gt; subsitusi Panjang<br>50 = 2 ( l + 5 + l )<br>50 = 2 ( 2l + 5)<br>50 = 4L + 10<br>50-10 = 4L<br>40 = 4L<br>L= 40/4<br>L= 10<br><br>Lebar = 10m<br>Panjang = Lebar + 5<br>berarti panjang = 10 + 5 = 15 m<br><br>Luas = Panjang x Lebar<br>= 15 x 10<br>=150 m^2<br><br>cuma bisa pake pindah ruas aku, maaf ya ._.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-sisi-miring-25-cmjika-salah-s-132",
+            "question": "sebuah segitiga siku-siku memiliki sisi miring 25 cm.jika salah satu sisi siku-sikunya 7 cm,maka sisi siku-siku yang lain nya adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sisi yang lain =\u00a0\u221a25\u00b2 - 7\u00b2 =\u00a0\u221a625-49 =\u00a0\u221a576 = 24cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "(25 x 25) - (7 x 7)= 625 - 49= <span>\u221a</span>576 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-lingkaran-616-cm2-dan-sebuah-juring-pada-lingkaran-tsb-184",
+            "question": "Luas suatu lingkaran 616 cm2 dan sebuah juring pada lingkaran tsb luasnya 77 cm2. maka besar sudut pusatnya adalah    a. 45\u00b0\r\n b. 60\u00b0 \r\n c. 72\u00b0\r\n d. 90\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. 45\u00b0</span> <br>karena <u>45</u>/360 X 616 = 1/8 X 616 = 77 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+            "attachments": []
+        },
+        {
+            "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitung-nilai-trigonometri-berikut-sin-90-745",
+            "question": "Hitung nilai trigonometri berikut sin(-90)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= sin (-90)<br>= - (sin 90)<br>= - 1<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak ada jawaban dan caranya untuk mencari sin (-90)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-nilai-kpk-dari-30-dan-48-198",
+            "question": "Berapa nilai kpk dari 30 dan 48?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br>KPK= 2 x 2 x 2 x 2 x 3 x 5 = 240<br>FPB = 2 x 3 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br><br><br>kpk= 2 x 2 x 2 x 2 x 3 x 5 = 240<br><span><br>fpb = 2 x 3 = 6</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-2x33x2-xnjika-px-dibagi-x-2-819",
+            "question": "Diketahui\u00a0suku banyak P(x) =2x\u00b3+3x\u00b2-x+n.jika\u00a0p(x) dibagi (x-2)bersisa\u00a025,p(x)dibagi\u00a0(x+1)    terimakasih...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>P(x) =2x\u00b3+3x\u00b2-x+n.jika\u00a0p(x) dibagi (x-2)bersisa\u00a025<br>P(2) = 2.2\u00b3 + 3.2\u00b2 - 2 + n<br>25 = 16 + 12 - 2 + n<br>25 = 26 + n<br>n = -1<br></span><br><span><span><br>P(x) =2x\u00b3+3x\u00b2-x - 1</span><br><br>P(x) dibagi (x + 1) sisa ==&gt;<br><br>P(-1) = </span>2.(-1)\u00b3+3(-1)\u00b2-(-1) -1 = -2 + 3 + 1 - 1 = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-fungsi-f-dan-g-diketahui-fx2x23x-5-dan-gx3x-2-agar-g-544",
+            "question": "Dari fungsi f dan g diketahui f(x)=2x2+3x-5 dan g(x)=3x-2. Agar g0f(a)=-11. Tentukan nilai a positif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(gof)(a) = -11<br>(gof)(x) = g(f(x)) = g(2x^2 + 3x - 5)<br><br>=&gt; 3(2x^2 + 3x - 5) - 2<br>=&gt; 6x^2 + 9x - 15 - 2<br>=&gt; 6x^2 + 9x - 17<br>(gof)(a) = -11<br>6a^2 + 9a - 17 = -11<br>6a^2 + 9a - 17 + 11 = 0<br>6a^2 + 9a - 6 = 0<br>2a^2 + 3a - 2 = 0<br>(2a - 1\u00a0 )(a +2 ) = 0<br>2a - 1 =\u00a0 0 v a + 2 = 0<br>2a = 1 v a = -2<br>a = 1/2 v a = -2<br>karena a positif a = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

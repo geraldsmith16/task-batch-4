@@ -1,0 +1,142 @@
+{
+    "question": "Persamaan garis melalui titik (3,-2)dan sejajar garis 2x + 3y=6 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sejajar berarti gradien nya:<br>m1 = m2<br><br>maka gradien dari garis tersebur:<br>2x + 3y = 6<br>3y = - 2x + 6<br>y = <u>- 2x\u00a0</u> +\u00a0 6<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 3<br><br>M = <u>- 2</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>persamaan garis dengan titik (3 , -2 )<br><br>y - y1 = m ( x - x1 )<br>y - ( -2 ) = <u>-\u00a0 2\u00a0 </u>( x - 3 )\u00a0 ----------&gt; dikalikan 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3<br>3y + 6 = - 2 ( x - 3)<br>3y + 6 = -2x + 6<br>3y = - 2x<br>atau<br>2x + 3y = 0<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-bandi-membeli-sebuah-rumah-seharga-rp125000setelah-dua-tahu-702",
+            "question": "Pak Bandi membeli sebuah rumah seharga Rp.125000.Setelah dua tahun rumah trsbt dijual lagi sehingga rugi 5%.Tentukan=    a.Besar Kerugian\r\n b.Harga Jual Rumah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. besar kerugian = 5/100 \u00d7 125.000.000 = 6.250.000<br>b. harga jual rumah = 125.000.000 - 6.250.000 = 118.750.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5/100 x125000=7250<br>a.Rp6250<br>b.125000-6250=118750",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-kedua-dan-suku-keenam-suatu-deret-geometri-dengan-155",
+            "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-jika-diameternya-18-cm-adalah-tolong-di-bantu-den-675",
+            "question": "Luas lingkaran jika diameternya 18 cm adalah? Tolong di bantu denga caranya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L lingkaran =\u00a0\u03c0 r\u00b2<br>\u21d2 3,14\u00a0\u00d7 9\u00b2<br>\u21d2 3,14\u00a0\u00d7 81<br>= 254,34 cm\u00b2 *bener ngga?",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran : phi x jari-jari pangkat 2<br>Jika diameter lingkaran tersebut adalah 18, maka jari-jarinya adalah 9 cm, karena jari-jari merupakan setengah dari diameter.<br>Luas : 3,14 x 9 x 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0: 3,14 x 81<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0254,34 cm2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-memilikki-luas-6776cm2-jari-jari-lingkaran-te-514",
+            "question": "Sebuah lingkaran memilikki luas 6.776cm\u00b2. jari-jari lingkaran tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L= phi . r kuadrat <br>6776 = 22/7 . r kuadrat <br>r kuadrat = 6776 x 7/22 (dibalik)<br>r kuadrat = 2156 <br>jari - jari = 46,4 cm <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-sebuah-kerucut-yg-berdiameter-28-cm-dengan-panjang-garis-p-368",
+            "question": "Volume sebuah kerucut yg berdiameter 28 cm dengan panjang garis pelukis 50 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d = 28 r = 14<br>s = 50\u00a0<br>t = 50\u00b2 - 14\u00b2<br>\u00a0 = 2500 - 196 = 2304<br>\u00a0 =\u00a0[tex] \\sqrt{2304} = 48[/tex]<br><br>Vkerucut = 1/3\u00a0\u03c0 r\u00b2 . t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/3 . 22/7. 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9856 cm\u00b3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : D = 28 cm, r = 14 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s = 50 cm<br>Ditanya : V = ....?<br>Jawab: a)\u00a0[tex] t^{2} =  s^{2} -  r^{2} \n[/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =  \\sqrt{ s^{2} -  r^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =   \\sqrt{ 50^{2} -  7^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 =\u00a0[tex] \\sqrt{2304} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 = 48\u00a0cm<br>\u00a0 \u00a0 \u00a0 \u00a0b) \u00a0V =\u00a0[tex] \\frac{1}{3} [/tex] . \\pi [/tex]\u00a0. r .r .t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V =\u00a0[tex] \\frac{1}{3} .  \\frac{22}{7} [/tex] . 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = 22 . 14 . 16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V = 4928\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban di atas, silahkan ditanyakan ^_^,,,<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koperasi-sekolah-membeli-2-kardus-buku-tulis-dangan-harga-rp5400-138",
+            "question": "Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah , tentukan :    a.harga penjualan\r\nb.Harga pembelian\r\nc.keuntungan\r\nd.persentase keuntungan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Koperasi sekolah membeli 2 kardus buku tulis</strong> dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah, maka\n</p><ul><li>a. harga penjualan = Rp135.000,00\n</li><li>b. harga pembelian = Rp108.000,00\n</li><li>c. keuntungan = Rp27.000,00\n</li><li>d. persentase keuntungan = 25%\n</li></ul><p>Seseorang akan <strong>mengalami keuntungan</strong> jika <em>harga penjualan lebih besar dari harga pembelian</em> atau <em>harga pembelian lebih kecil dari harga penjualan</em>, maka\n</p><ul><li>Untung = Harga jual \u2013 harga Beli\n</li><li>Untung = persentase untung \u00d7 harga beli\n</li></ul><p>maka\n</p><p>Persentase untung = [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100% \u00a0</p><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><p>Harag beli buku tulis = Rp54.000,00 per kardus\n</p><p>Setiap kardus berisi 50 buku tulis\n</p><p>Harga jual 1 buku tulis = Rp1.350,00\n</p><p></p><p><strong>Ditanyakan</strong>\n</p><p>a. harga penjualan\n</p><p>b. harga pembelian\n</p><p>c. keuntungan\n</p><p>d. persentase keuntungan\n</p><p></p><p><strong>Jawab\n</strong></p><p>Banyak total buku tulis\n</p><p>= 2 kardus \u00d7 50 buku\n</p><p>= 100 buku\n</p><p></p><p><strong>a. Harga Penjualan buku tulis\n</strong></p><p>= 100 buku \u00d7 Rp1.350,00\n</p><p>= <strong>Rp135.000,00\n</strong></p><p></p><p><strong>b. Harga pembelian buku tulis\n</strong></p><p>= 2 kardus \u00d7 Rp54.000,00\n</p><p>= <strong>Rp108.000,00\n</strong></p><p></p><p><strong>c. Keuntungan yang diperoleh\n</strong></p><p>= harga jual \u2013 harga beli\n</p><p>= Rp135.000,00 \u2013 Rp108.000,00\n</p><p>= <strong>Rp27.000,00\n</strong></p><p></p><p><strong>d. Persentase keuntungan yang diperoleh\n</strong></p><p>= [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27.000}{108.000}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27}{108}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{1}{4}[/tex] \u00d7 100%\n</p><p>= <strong>25%\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0</h3><p></p><p>Contoh soal lain tentang keuntungan\n</p><p>https://brainly.co.id/tugas/21047303\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel </strong>: Matematika \u00a0\n</p><p><strong>Kategori</strong> : Aritmatika Sosial\n</p><p><strong>Kode</strong> : 7.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-jenis-makanan-kemasan-dengan-berat-bruto-berat-kotor-ap-429",
+            "question": "Contoh jenis makanan kemasan\u00a0dengan berat bruto (berat kotor) apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Setahuku sih sarden. Di kalengnya itu tertera brutonya.<br><br>Semoga bermanfaat :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-berputar-sebanyak-50-kalijika-roda-tersebut-memiliki-735",
+            "question": "sebuah roda berputar sebanyak 50 kali.jika roda tersebut memiliki diameter 10 cm.maka jarak yang ditempuh roda tersebut adalah...??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dicari kelilingnya dulu<br>kll = \u03c0.d = 3,14 \u00d7 10 = 31,4cm<br>maka jarak yang ditempuh adalah = 50 \u00d7 31,4 = 1570cm = 0,0157 km<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S = K . 50<br>\u00a0 \u00a0=\u00a0[tex] \\pi [/tex] .\u00a0D . 50<br>\u00a0 \u00a0= 3,14 .\u00a010 . 50<br>\u00a0 \u00a0= 314 . 5<br>\u00a0 \u00a0= 1570cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-panjang-busur-ab-40cm-dan-besar-sudut-aob-50derajat-dan-391",
+            "question": "diketahui panjang busur AB 40cm dan besar sudut AOB 50derajat dan sudut COD 80derajat hitunglah panjang CD please jawab dalam waktu 15menit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{Pb AB}{Pb CD} [/tex] = [tex] \\frac{sudut AOB}{sudut COD} <br><br>[/tex][tex] \\frac{40}{CD} [/tex] = [tex] \\frac{50}{80} [/tex]<br>\u00a0CD = 40.80 / 50<br>\u00a0CD = 64 cm<br>Gud Luck !<br>jadikan yg terbaik ya :D<br>\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-berikutnya-adalah-1247111829-486",
+            "question": "Tiga bilangan berikutnya adalah 1,2,4,7,11,18,29,...,...,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,2,4,7,11,18,29,48, 78, 126",
+                    "attachments": []
+                },
+                {
+                    "answer": "1,2,4,7,11,18,29,48,78,126<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

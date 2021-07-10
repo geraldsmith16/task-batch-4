@@ -1,0 +1,134 @@
+{
+    "question": "Tentukan nilai ekstrim Z dari fungsi Z=2XY dengan syarat 10x+5y=600",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<br>10x + 5y = 600<br>2x + y = 120<br>y = 120 - 2x<br><br>z= 2xy<br>z= 2x(120-2x)<br>z= 240x-4x2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-diketahui-matriks-a-5-2-1-4-maka-invers-matriks-a-adalah-759",
+            "question": "Jika diketahui matriks a= -5 2 1 4 maka invers matriks a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= -5 \u00a02<br>\u00a0 \u00a0 \u00a01 \u00a0 4<br>a-1 (a invers) = 1/( -5x4) - ( 2x1 )\u00a0 4\u00a0 -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0-1 \u00a0-5<br>a-1 = 1/(-20-2) \u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 -1 \u00a0-5<br>a-1 = 1/-22 \u00a0\u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a01 \u00a0-5<br>a-1 = -2/11 \u00a0 1/11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a01/22 \u00a0 \u00a05/22<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-keranjang-berisi-25-salak-dan-2-diantaranya-busuk-jika-dia-768",
+            "question": "suatu keranjang berisi 25 salak dan 2 diantaranya busuk, jika diambil 3 salak sekaligus, maka peluang terambilnya salak yang baik semua adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iket: <br>\nn(S) = 25 <br>\nA = busuk  <br>\nn(A) = 2 \u2192 n(A\u2019) = 25 \u2013 2 = 23 <br><br>\nkejadian terambil 3 salak sekaligus, <br>\npeluang salak baik semua: <br>\n= 23C\u2083/25C\u2083 <br>\n= 1771 . /2300 <br>\n= 77/100 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ab-garis-ba-apakah-sinar-abba-butuh-jawaban-776",
+            "question": "Garis AB = garis BA, apakah sinar AB=BA? butuh jawaban.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karna garis dan sinar itu berbeda, kalau sinar AB artinya a yg memancarkan sinar ke b, sdangkan sinar BA artinya b yg memancarkan sinar mnuju ke a,, jadi beda,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "iya sinar AB=BA jadi itu sama <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-4-buah-peti-telur-dengan-harga-rp543200-476",
+            "question": "Seorang pedagang membeli 4 buah peti telur dengan harga Rp543.200,00. Setiap peti memiliki bruto 25 kg dan tara 3 % . Jika pedagang menghendaki untung 25 %, maka harga jual telur per kg nya adalah ..    a. Rp4.200,00\r\nb. Rp5.600,00\r\nc. Rp6.790,00\r\nd. Rp7.000,00",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bruto: 25x4=100kg<br>Tara: 3/100 x 100= 3 kg<br>Neto: 100kg-3 kg = 97 kg.<br>Harga pembelian per kg nya: 543.200 : 97= 5600<br>Untung= 25/100 x 5600= 1400<br>Jadi harga jualnya 5600+1400= Rp 7.000,00<br>Kalau ada yang kurang paham bisa ditanyakan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-suatu-jembatan-sudut-depresi-suatu-pelampung-di-atas-air-sun-937",
+            "question": "Dari suatu jembatan sudut depresi suatu pelampung di atas air sungai adalah 45\u00b0. Berapa jarak pelampung ke tepi jembatan apabila tinggi jembatan di atas permukaan air adalah 65 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = depan\u00a0=\u00a065<br>dit = samping<br>tan 45 = depan/samping<br>tan 45 = 65/samping<br>\u221a3 = 65/samping<br>samping= 65/\u221a3<br>jarak pelampung ke tepi jembatan = 65/\u221a3\u00a0<br>maap kalo jawabannya salaah~",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-derajat-lt-x-lt-90-derajat-hitunglah-ni-671",
+            "question": "Jika sin x = 2/3 (0 derajat &lt; x &lt; 90 derajat), hitunglah nilai cotan (90 derajat-alfa)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin x = 2/3. depan = 2, miring = 3. berarti samping = \u221a5. cotan x = samping/depan. cotan x = \u221a5/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-nilai-trigonometri-berikut-sin-90-745",
+            "question": "Hitung nilai trigonometri berikut sin(-90)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= sin (-90)<br>= - (sin 90)<br>= - 1<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak ada jawaban dan caranya untuk mencari sin (-90)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-mean-suatu-data-7-4-6-7-8-7-x-8-5-8-7-6-9-adalah-709",
+            "question": "jika mean suatu data 7, 4, 6, 7, 8, 7, x. 8, 5, 8, 7, 6, 9 adalah 7, maka nilai x yg memenuhi adalah,,?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>7+ 4+ 6+ 7+ 8+ 7+ x+ 8 + 5 +\u00a0 8 +\u00a0 7 +\u00a0 6 + 9</span> per 13 = 7<br>82 + x per 13 = 7<br>82 + x = 7*13<br>82 + x = 91<br>x = 91-82<br>\u00a0\u00a0 = 9<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(7<span>+</span>4+6+7+8+7+x+8+5+8+7<span>+6+9</span>):13=7<br>(82+x):13=7<br>82+x=91<br>x=91-82<br>x=9<br><br>poinnya banyak dikit donk.. jadikan jawaban terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-liter-bensin-untuk-50-km-senilai-dgn-liter-untuk-75-km-600",
+            "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-64-32-16-8-tentukan-a-rasio-496",
+            "question": "diketahui barisan geometri : 64 , -32 , 16 , -8 tentukan a. Rasio b. rumus suku ke -n c. suku yang nilainya 1/4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) r = \\frac{ U_{2} }{ U_{1} } \\\\ r= \\frac{-32}{64} \\\\ r= -\\frac{1}{2}  \\\\ \\\\  b)   U_{n}=ar^{ n-1} \\\\  \\\\ c) U_{n} = ar^{n-1} \\\\ \\frac{1}{4} = 64 (\\frac{-1}{2}) ^{n-1} \\\\ \\frac{1}{4} \\frac{-1}{64}= (\\frac{-1}{2}) ^{n-1} \\\\ -\\frac{1}{256}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ -\\frac{1}{2^{9-1}}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ n=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

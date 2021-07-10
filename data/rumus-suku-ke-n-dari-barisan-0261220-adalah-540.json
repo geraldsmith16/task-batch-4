@@ -1,0 +1,146 @@
+{
+    "question": "Rumus suku ke-n dari barisan 0,2,6,12,20 adalah..........?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>0</strong>\u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 12\u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0\u00a0<strong> 2</strong>\u00a0 \u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  8<br>\u00a0\u00a0 \u00a0 \u00a0 <strong>\u00a0 2</strong>\u00a0 \u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 2 <br><br>a = 0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b = 2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  c = 2<br><br>Un = a + (n - 1)b + 1/2 (n\u00b2 - 3n + 2) c<br>Un = 0 + (n - 1) 2 + 1/2 (n\u00b2 - 3n + 2) 2<br>Un = 2n - 2 + n\u00b2 - 3n + 2<br>Un = n\u00b2 - n = n (n - 1)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gradien-garis-dari-persamaan-3x-6y-5-0-adalah-220",
+            "question": "Gradien garis dari persamaan 3x - 6y + 5 = 0 adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a06y = 3x + 5<br><br>jadi gradienya 3<br>atau y = 1/2 x + 5/6<br>gradien y = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = -a/b = -3/-6 = 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-kedua-dan-suku-keenam-suatu-deret-geometri-dengan-155",
+            "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-tentang-lingkaranmohon-bantu-dengan-jawaban-yg-benar-sala-113",
+            "question": "Soal tentang lingkaran,mohon bantu dengan jawaban yg benar ,    salah satu sudut pusat dari segi n beraturana adalah 36 erajat,tentukanlah:\r\na. nilai n\r\nb.besar setiap sudut segi n beraturan\r\nc.jumlah sudut n beraturan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sudut pusat =<u>\u00a0 360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n<br>36 =\u00a0 <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  n<br>n = 10<br><br>b. besar tiap sudut segi n <br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n<br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10<br>= 180 - 36 = 144\u00b0<br><br>c. total sudut n beraturan<br>= besar sudut segi n \u00d7 n<br>= 144 \u00d7 10 = 1440\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaranjika-diketahui-luas-lingkaran-sama-d-202",
+            "question": "Tentukan jari jari lingkaran,jika diketahui luas lingkaran sama dengan 113,04 cm2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas linkaran=pi  r^{2}<br>113,04=3,14\u00a0. r^{2}<br>113,04/3,14= r^{2)<br>36= r^{2}<br>[tex] \\sqrt{36} [/tex]=r<br>6=r",
+                    "attachments": []
+                },
+                {
+                    "answer": "L=\u00a0\u03c0r\u00b2<br>113,04=3,14\u00d7r\u00b2<br>r\u00b2=113,04\u00f73,14<br>r\u00b2=36<br>r=\u221a36<br>r=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-sisi-sebuah-segitiga-adalah-26-cm-28-cm-dan-38-cm-842",
+            "question": "panjang sisi- sisi sebuah segitiga adalah 26 cm, 28 cm, dan 38 cm. Hitunglah\u00a0 a. panjang jari-jari lingkaran dalam segitiga. b. panjang jari-jari lingkaran luar segitiga. \u00a0 yang bisa mohon bantuannya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : sisi segitiga =&gt; a = 26 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b =28 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0c = 38 cm<br>dit : a.) rd (jari-jari dalam segitiga) = ...?<br>\u00a0 \u00a0 \u00a0 b.) rl (jari-jari luar segitiga) = ...?<br>jwb :\u00a0<br>a.) rd = Lsegitiga/S<br>\u00a0 \u00a0 \u00a0Lsegitiga = a x t per 2 = 26 x 28 per 2 = 13 x 28 = 364 cm\u00b2<br>\u00a0 \u00a0 \u00a0S = 1/2 Ksegitiga = 1/2 (26+28+38) = 1/2 (92) = 46 cm<br>\u00a0 \u00a0 \u00a0rd = 364 cm\u00b2/46\u00a0cm = 7,91<br>b.) rl = a.b.c / 4Lsegitiga = 26.28.38/4(364) = 27.664/1.456 = 19 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-115",
+            "question": "1/2x + 5 &gt; 15 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x+5&gt; 15<br>dikali 2<br>2/2x+5&gt;15<br>x+5&gt;15<br>x&gt;15-5<br>x&gt;10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x + &gt; 15<br>1/2x\u00a0 \u00a0 &gt; 15 - 5<br>1/2x\u00a0 \u00a0  &gt; 10<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 10 - 0,5<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 9,5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-panggung-berbentuk-setengah-lingkaran-akan-ditutupi-de-682",
+            "question": "1.) sebuah panggung berbentuk setengah lingkaran akan ditutupi dengan karpet. jika diameter panggung 20m,hitunglah luas karpet minimal yang diperlukan!!...    2.) sebuah taman berbentuk lingkaran memeiliki luas 346,5m\u00b2. disekeliling taman akan ditanam pohon cendana dengan jarak 3m. tenetukan banyaknya ohon cendana yang diperlukan!!\r\n\r\nMohon bantuan nya teman\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. phi \u00d7 r\u00b2 \u00d7 0,5 = 3,14 \u00d7 10\u00b2 \u00d7 0,5 = 314 \u00d7 0,5 = 157m\u00b2<br>2. luas lahan \u00f7 jarak pohon = 346,5 \u00f7 3 = 115 pohon yang akan ditanamkan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "715-sudut-putaran-penuh-derajat-952",
+            "question": "7/15 sudut putaran penuh = .... Derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "7/15 x 360 = 168 derajat...",
+                    "attachments": []
+                },
+                {
+                    "answer": "168 derajat<br><br><br>semoga membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-dibantu-sebuah-atap-rumah-yang-berbentuk-limas-mempunyai-al-667",
+            "question": "Mohon dibantu    sebuah atap rumah yang berbentuk limas mempunyai alas berbentuk persegi dengan panjang sisi 8 m dan tinggi 3 m. atap tersebut akan ditutupi genteng berukuran 40 cm x 20 cm. banyak genteng yang diperlukan adalah ....\r\nA. 2.000 buah\r\nB. 1.600 buah\r\nC. 1.000 buah\r\nD. 800 buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=8m<br>t=3m<br>T.limas=akar3kuadrat+4kuadrat<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar25=5m<br>luas permukaan atap =4*luas segitiga<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =4*1/2*8*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=4*4*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =80m persegi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=800.000cmpersegi<br>banyak genteng yg diperlukan=<br>=seluruh\u00a0luas atap genteng(4luas segitiga)/luas genteng<br>=800.000/40*20<br>=800.000/800<br>=1000<br>jadi jumlah genteng yg dibutuhkan 1000 buah\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang bagian miring<br>=\u00a0[tex] \\sqrt{4^2 + 3^2}[/tex]<br>= 5 m<br>luas bagian atas<br>= 4\u00a0* 1/2 * 5 * 8<br>= 80 m^2<br>luas genteng<br>= 40 * 20<br>=800 cm^2<br>=0,08 m^2<br>total genteng yangdiperlukan<br>= 80 : 0,08<br>= 1000 buah genteng",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-yang-kelilingnya-314-cm-adalahcm2-343",
+            "question": "Luas lingkaran yang kelilingnya 314 cm adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "314/3,14=100/2=50\n50pangkat 2 kali 3,14=25\u00d7314=7850",
+                    "attachments": []
+                },
+                {
+                    "answer": "cari nilai jari-jari dulu :<br>k. lingkaran = 2[tex] \\pi [/tex]r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 2 x 3,14 x r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 6,28r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r \u00a0= 314/6,28 = 50 cm<br><br>luas lingkaran =\u00a0[tex] \\pi [/tex][tex] r^{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x\u00a0[tex] 50^{2} [/tex] <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 2500 = 7850 [tex] cm^{2} [/tex]\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

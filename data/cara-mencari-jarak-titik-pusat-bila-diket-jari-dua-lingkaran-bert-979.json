@@ -1,0 +1,152 @@
+{
+    "question": "cara mencari jarak titik pusat bila diket jari dua lingkaran berturut-turut 3cm dan 13 cm . dan garis singgung persekutuan luar 24 cm .\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "garis singgung persekutuan luar memiliki rumus:<br>L\u00b2 =\u00a0 p\u00b2 - ( r\u2081 -\u00a0 r\u2082 )\u00b2<br>24\u00b2 = p\u00b2 - (13 - 3 )\u00b2<br>576 = p\u00b2 - 100<br>p\u00b2 = 676<br>p = \u221a676<br>p = 26<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "panjang-busur-lingkaran-yang-berjari-jari-35-cm-dan-bersudut-pus-712",
+            "question": "Panjang busur lingkaran yang berjari jari 3,5 cm dan bersudut pusat 54\u00b0 adalah ... cm.     a. 2,8\r\n b. 3,3\r\n c. 4,2\r\n d. 5,8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang busur = A<br>A= (54/360) x 2[tex] \\pi [/tex]R<br>\u00a0 = (3/20) x 2 x 3,14 x 3,5<br>\u00a0= 3,297\u00a0<br>\u00a0= 3,3\u00a0<br><br>answer B",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang busur dimisalkan dengan X<br>X = (sudut pusat/360\u00b0)\u00a0 \u00d7 kll lingkaran = (54/360\u00b0) \u00d7 2\u03c0R = (3/20) \u00d7 2 \u00d7 22/7 \u00d7 3,5 = (3/20).22 = 3,3 jawabannya B<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gunakan-segitiga-pascal-u-menguraikan-bentuk-perpangkatan-a-x-538",
+            "question": "Gunakan segitiga pascal u/ menguraikan bentuk perpangkatan\r\na. (x+y)\u2075 \r\nb. (x-y)\u00b3\r\nc. (x-y)\u2074",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x + y)n = a0xn + a1x<span>n\u22121</span>y + a2x<span>n\u22122</span>y2 + \u2026 + a<span>n\u22121</span>xy<span>n\u22121</span> + anyn,<br>n\u00a0 \u00a0  tinggal\u00a0 kita isi sesua pangkatnya<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalo gk ngerti tanya aj",
+                    "attachments": [
+                        "answer-attachments/gunakan-segitiga-pascal-u-menguraikan-bentuk-perpangkatan-a-x-538-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-jumlah-2-bilangan-adalah-3-dan-selisih-kuadrat-bilangan-itu-454",
+            "question": "Jika jumlah 2 bilangan adalah 3 dan selisih kuadrat bilangan itu adalah 6, bilangan apa sajakah itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0  2pangkat 10 dan 1 pangkat -4\u00a0 (2pangkat 10 dan 1 pangkat -4)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+y = 3<br>x=3-y<br><br>(x-y)\u00b2 = 6<br>(3-y-y)\u00b2 = 6<br>(3-2y)\u00b2 = 6<br>3-2y = \u221a6<br>3-\u221a6 = 2y<br>y= (1/2)(3-\u221a6)<br><br>x=3-y<br>x=3 - (1/2)(3-\u221a6)<br>x=3 - 3/2 - \u221a6/2<br>x=6/2 - 3/2 - \u221a6/2<br>x=3/2 - \u221a6/2<br>x=(1/2)(3-\u221a6)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-sudut-berpelurus-dengan-perbandingan-7-5-salah-sudut-yg-d-107",
+            "question": "Dua sudut berpelurus dengan perbandingan 7 : 5 . Salah sudut yg d mksud adalah \r\n\r\nhelp me",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berpelurus = 180\u00b0<br>[tex] \\frac{7}{7+5} [/tex] x 180\u00b0 = 105\u00b0<br>[tex] \\frac{5}{7+5} [/tex] x 180\u00b0 = 75\u00b0<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-bruto-dan-netto-jika-tara-5-kg-dan-presentase-tara-212-794",
+            "question": "Berapa bruto dan netto jika tara 5 Kg dan Presentase Tara 2.12%\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: tara= 5kg<br>\u00a0 \u00a0 \u00a0 persentase tara=2.12%<br><br>dit: *bruto<br>\u00a0 \u00a0 \u00a0*netto<br>jb:<u> persentase tara</u>\u00a0<u></u>\u21d2<u> 2.12 x 100\u00a0</u> \u00a0= 42,4 kg<br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0tara \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br>netto = bruto-tara\u00a0\u21d2 42,4 - 5 = 37.4 kg<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-lingkaran-616-cm2-sedang-luas-juring-aob-adalah-462-cm-546",
+            "question": "Jika luas lingkaran 616 cm\u00b2 sedang luas juring AOB adalah 462 cm\u00b2 ,maka besar sudut pusat AOB adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{Luas lingkaran}{Luas Juring} =  \\frac{360}{besar sudut AOB} [/tex]<br>[tex] \\frac{616}{462} = \\frac{360}{besar sudut AOB}[/tex]\u00a0<br>616xAOB=462X360\u00a0(Kali Silang )<br>616AOB=166320<br>AOB=166320 : 616<br>AOB=[tex] 270^{o} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "616xAOB = 462x360<br>616 AOB = 166320<br>AOB =\u00a0[tex] \\frac{166320}{616} [/tex]<br>AOB = 270",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-meminjam-uang-di-koperasi-sebesar-rp800000000-yang-982",
+            "question": "Seseorang meminjam uang di koperasi sebesar Rp.8.000.000,00 yang akan diangsur selama 10 bulan dengan bunga 12% per tahun. Besar angsuran tiap bulan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>8.000.000</u><u> </u>= 800.000 / bulan tanpa bunga<br>10<br> bunga =<u>800.000</u> = 66.666/bulan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12<br>jadi besar angsuran tiap bulan adalah 800.000 + 66.666 = Rp. 866.666<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "12 : 12 = 1<br>8.000.000 x 1% = 80.000<br>8.000.000 : 10 = 800.000<br>800.000 + 80.000 = 880.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-nya-soal-persentase-untung-dan-rugi-1-pak-b-227",
+            "question": "TOLONG DIJAWAB NYA\u00a0 \u00a0 SOAL PERSENTASE UNTUNG DAN RUGI 1 . Pak Bhayu menjual TV , ternyata ia menderita kerugian sebesar 15 persen yg nilainya Rp.240.000 . Tentukan harga beli dan harga jual TV itu ? \u00a0 2 . Pak Iman membeli sepeda bekas dengan harga Rp.75.000 , kemudian deperbaikinya dengan biaya Rp.45.000 . Bila akhirnya sepeda itu ia jual dengan harga Rp.156.000 , maka Pak Iman akan mendapat untung sebesar ? ( hasilnya persen ) \u00a0 3 .Seorang pedagang membeli 18 kg apel dengan harga Rp.88.500 . Separuh apel ia jual dengan harga Rp.7.500 per kg , sepertiganya ia jual dengan harga Rp.6.800 per kg , dan sisanya ia jual dengan harga Rp.5.200 per kg . Pedagang tersebut ternyata tetap untung , besar untung yang di peroleh pedagang itu adalah ? \u00a0 TOLONG BANTU AKAU OWH MASALAH NYA TUGAS NYA DIKUMPULIN NYA BESOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. 156.000 - (75.000+45000) =156.000 -120000 = 36000<br>\u00a0\u00a0 \u00a0 36.000/120.000x100% = 30%<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. a. harga beli = 100/15 x 240.000 = 1.600.000\u00a0<br>\u00a0 \u00a0 b. harga jual = 85/15 x 240.000 = 1.360.000<br><br>2.\u00a0harga beli + perbaikan = 75.000+45.000= 120.000<br>\u00a0 \u00a0 dijual 156.000<br>\u00a0 \u00a0 keuntungan = 156.000-120.000= 36.000<br>\u00a0 \u00a0 keuntungan = 36.000/120.000 x 100% = 30%<br><br>3.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bambu-disandarkan-pada-tembok-panjang-bambu-tersebut-adal-587",
+            "question": "sebuah bambu disandarkan pada tembok. panjang bambu tersebut adalah 10 meter dan tinggi tembok adalah 6 meter. jarak kaki bambu ke tembok adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dari soal cerita tersebut menggambarkan bangun datar segitiga,\u00a0<br>dik : a= 10m<br>\u00a0 \u00a0 \u00a0 \u00a0b= 6 m<br>dit : c = ... ?<br>jwb : c^2 = a^2 - b^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10^2 - 6^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100-36<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0c^2 = 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c = akar dari 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c = 8<br>jadi, jarak antara kaki bambu ke tembok adalah 8 m",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang bambu=10<br>tinggi tembok=6<br> jarak kaki bambu ke tembok\u00b2=panjangbambu\u00b2-tinggitembok\u00b2<br>jarak kaki bambu ke tembok\u00b2=10\u00b2-6\u00b2<br>jarak kaki bambu ke tembok\u00b2=100-36<br>jarak kaki bambu ke tembok\u00b2=64<br><span>jarak kaki bambu ke tembok=\u221a64<br></span><span>jarak kaki bambu ke tembok=8</span><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukman-memanfaatkan-tanah-kosongnya-untuk-tempat-kandang-kambing-624",
+            "question": "Lukman memanfaatkan tanah kosongnya untuk tempat kandang kambing.luas tanah 100m.    ada empat kandang kambing yg akan dibuat dan tiap tiap kandang berbentuk sama yaitu persegi. berapa dm luas tiap tiap kandang kambing??? tolong caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika - satuan<br>Kelas : 6 SD<br><br><span>Pembahasan :\u00a0<br><br></span>Luas tanah = luas\u00a04 kandang kambing = 100m\u00b2<br>1 kandang kambing = 100 : 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 25\u00a0m\u00b2<br><br>konversikan satuan\u00a0m\u00b2 ke dm\u00b2 yaitu\u00a0turun 1 tingkat dengan mengalikan\u00a0100.<br><span>sehingga,<br><br></span><span>1 kandang kambing\u00a0</span><span>= 25 x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02500\u00a0dm\u00b2<br></span><br><span>Jadi,\u00a0luas tiap kandang kambing adalah\u00a0</span><span><strong>2500 dm\u00b2</strong></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

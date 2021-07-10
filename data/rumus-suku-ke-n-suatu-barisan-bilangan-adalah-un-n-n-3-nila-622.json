@@ -1,0 +1,154 @@
+{
+    "question": "Rumus suku ke-n suatu barisan bilangan adalah Un= \u00bdn (n-3). Nilai dari U12 - U8 = .... ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Un= 1/2n(n-3)<br>U12=1/2x12(12-3)<br>\u00a0\u00a0 \u00a0  =54<br>U8=1/2x8(8-3)<br>\u00a0\u00a0 \u00a0 =20<br><br>U12-U8= 54-20=34<br>",
+            "attachments": []
+        },
+        {
+            "answer": "u12= 1/2*12 (12-3) = 6*9 = 54                                                                                                                               \nu8= 1/2*8 (8-3) = 4*5 = 20                                                                                                                                       u12-u8= 54-20 = 34",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "alya-menyimpan-uang-di-bank-x-sebesar-rp-78000000-dengan-bunga-539",
+            "question": "Alya menyimpan uang di Bank X sebesar Rp 780.000,00 dengan bunga 16% per tahun. Tentukan lama penyimpanan uang di bank jika ia menerima bungan sebesar Rp72.800,00!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72.800 = x/12 x 16/100 x 780.000\u00a0<br>72.800 = 4x/3 x 7.800\u00a0<br>72.800 = 10400x\u00a0<br>x = 72.800/10.400\u00a0<br>\u00a0 = 7 bulan",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik= 780.000 dalam setahun <br>\u00a0\u00a0 \u00a0 \u00a0 bunga bank = 16%<br>dit brapa thn alya menyimpan uang di bank jika alya mendapat bunga 72800<br>jawab : 16% x 780000 =124800 <br>\u00a0\u00a0 72800 : 124800 = 7 bulan<br>jadi alya menabung selama 7 bulan <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573",
+            "question": "Hitunglah Keliling dan luas bangun yang diarsir pada gambar itu ?",
+            "attachments": [
+                "question-attachments/hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "pake rumus juring aja lebih gampang<br><br>45 per 360 * luas lingkarannya<br><br>luasnya tadi udah dicari, hasilnya 379,94<br><br>45 per 360 * 379,94 = 47,49 (ini luas yang engga diarsir + yang di arsir)<br><br>sekarang kita cari luas yang ga di arsir dulu.<br>45 per 360 * 113,04 = 14,13<br><br>kurangin.. 47,49 - 14,13 = 33,36 (luas yang di arsir)<br>__________________________________________________<br>keliling = phi*2r<br>tapi berhubung itu bukan lingkaran utuh, maka harus dicari panjang busur dulu<br><br>45 per 360 * keliling<br>= 45 per 360 * 69,08<br>= 8,6<br><br>tinggal di jumlah... 5 + 5 + 8,6 = 18,6 (keliling yang di arsir)<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-nama-nama-bulan-berawal-dari-huruf-j-314",
+            "question": "Himpunan nama\u00a0nama bulan berawal dari huruf J?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{ Januari,Juni,Juli }<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "J={Januari,juni,Juli} - metode tabulasi<br><br>J=[x|x nama nama bulan berawaln huruf J} - metode Rule<br><br>J={Nama nama bulan yang berawalan huruf J} - metode deskripsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-suku-ke-n-deret-aritmetika-jika-diketahui-suku-pertama-a-506",
+            "question": "Carilah Suku ke-n deret aritmetika jika diketahui suku pertama (a) dan\u00a0beda (b) \u00a0berikut    a.) a=\u00a09, b= -3 , dan n = 24\r\nb.) a=\u00a012, b= -7 , dan n = 8\r\nc.) a= -4, b= 4 dan n = 100\r\nd.) a=\u00a02 , b=9 dan n=1\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 Un = a + (n-1)b<br>Un = 9 + (n-1)(-3)<br>Un = 9 - 3n + 3<br>Un = 11 - 3n<br>n = 24<br>U24 = 11- 3.24 = 11 - 72 = - 61<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)a=9, b=3, n=24 jadi Un=24<br>Un=a+(n-1)b<br>24=9+(24-1)3<br>\u00a0\u00a0 =9+(23)3<br>\u00a0\u00a0 =78<br><span>b.) a=12, b=7, n=8 jadi Un=8<br>Un=a+(n-1)b<br>\u00a08= 12+(8-1)7<br>\u00a0\u00a0  =12+49<br>\u00a0\u00a0 =61<br>c) a=4, b=4, n=100 jadi Un=100<br>Un=a+(n-1)b<br>100=4+(100-1)4<br>\u00a0\u00a0 \u00a0 =4+396<br>\u00a0\u00a0 \u00a0 =400<br>d) a=2, b=9, n=15 jadi Un=15<br>Un=a+(n-1)b<br>15=2+(15-1)9<br>\u00a0\u00a0\u00a0 = 2+126<br>\u00a0\u00a0  =128<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lingkaran-luasnya-1256-cm2-jika-jari-jari-lingkaran-itu-d-133",
+            "question": "suatu lingkaran luasnya 1.256 cm2. jika jari jari lingkaran itu dikurangi 6 maka luas lingkaran sekarang adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "munkin klo di itung itung jasil nya 622 soalnta1256:2=628-6=622",
+                    "attachments": []
+                },
+                {
+                    "answer": "1256 : 3.14 = 400<span></span> .<br>Akar dari 400 = 20cm .<br>20-6 = 14 cm<br>22per7 dikali 14 dikali 14 = 616 cm persegi.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradiengaris-dengan-persamaan-3x-6y-5-adalah-380",
+            "question": "Gradiengaris dengan persamaan 3x-6y=-5 adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gradien (m) =-a/b=-3/-6=1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-mempunyai-panjang-dan-tinggi-masing-masing-15cm-dan-748",
+            "question": "Sebuah balok mempunyai panjang dan tinggi masing masing 15cm dan 10cm.jika panjang diagonal alas balok 17cm,luas permukaan balok adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = 15\u00a0<br>T = 10\u00a0<br>Diagonal = 17\u00a0<br>L = 289 - 225 = 64\u00a0<br>akar dari 64 = 8<br>L.Permukaan balok = 2{(pxl)+(pxt)+(lxt)}<br>\u00a0 \u00a0 = 2 {(15x8)+(15x10)+(8x10)}<br>\u00a0 \u00a0 = 2(120+150+80)<br>\u00a0 \u00a0 = 2x350<br>\u00a0 \u00a0 = 700",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996",
+            "question": "Mohon jawab no 8    tentukanlah nilai p,q,r,pada massing-masing gambar berikut ,L adalah titik pusat lingkaran\r\na,b,c saja agar saya yang mengerjakan d\r\nbuat caranya ,makasih :)",
+            "attachments": [
+                "question-attachments/mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "gambar a<br>p = 90\u00b0 karena sudut keliling menghadap diameter<br>q = 60 (saya ragu, cuman segitiga siku\" yang saya tau untuk kelas 8 cuman 2 model, antara yang bersudut 90,60,30 dan yang bersudut 90,45,45)<br>r = 180 - 60 - 90\u00a0 = 30\u00b0<br><br>gambar b<br>p =\u00a0 150 \u00f7 2 (karena sudut keliling = sudut pusat \u00f7 2)<br>\u00a0\u00a0 = 75\u00b0<br>q = sudut reflek \u00f7 2<br>\u00a0 = (360 - 150 ) \u00f7 2<br>\u00a0\u00a0 = 105\u00b0<br><br>gambar c<br>p = 60\u00b0 karena segitiga sama kaki<br>q = 60\u00b0 \u00d7 2<br>\u00a0\u00a0 = 120\u00b0<br>r = (180 - 120 ) \u00f7 2<br>\u00a0 = 60 \u00f7 2 = 30\u00b0 (dibagi 2 karena segitiga yg kecil adalah segitiga sama kaki)<br><br>gambar d<br>p = 180\u00b0 - 110\u00b0 ( karena sifat segi 4 tali bsur sudut berhadapan total 180\u00b0)<br>\u00a0\u00a0 = 70\u00b0<br>q = 180\u00b0 - 60\u00b0<br>\u00a0\u00a0 = 120\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>p= 90<br>q= 60<br>r= 30<br><br>b<br>p= 75<br>q= 105<br><br>c<br>p= 60<br>q= 120<br>r= 30<br><br>d.<br>p= 70<br>q= 120<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-qor-60-panjang-busur-qr2-724",
+            "question": "Pada gambar lingkaran, besar sudut QOR = 60\u00b0, panjang busur QR=24cm, dan panjang busur PQ = 36 cm. Hitunglah besar sudut POQ!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut QOR\u00a0</u> =\u00a0<u> PBusur QR</u><br>sudut POQ\u00a0 \u00a0\u00a0 PBusur PQ<br><br><u>60\u00b0\u00a0</u>  =<u>\u00a0 24</u><br>x\u00a0 \u00a0 \u00a0 \u00a0\u00a0 36<br><br>60 \u00d7 36 = 24 \u00d7 x<br>90 \u00b0 = x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-persamaan-dari-4y-8-2y-adalah-157",
+            "question": "Penyelesaian persamaan dari\u00a04y + 8 = 2y adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4y+8= 2y<br>4y-2y= -8<br>2y =-8<br>y= -8/2<br>y=-4<br>maaf ya kalo salah <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4y + 8 = 2y<br>4y - 2y = -8<br>2y= -8<br>y = -8/2<br>y= -4",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

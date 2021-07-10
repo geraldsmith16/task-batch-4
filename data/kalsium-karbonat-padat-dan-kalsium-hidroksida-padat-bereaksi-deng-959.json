@@ -1,0 +1,129 @@
+{
+    "question": "Kalsium Karbonat padat dan kalsium hidroksida padat bereaksi dengan larutan asam klorida menurut persamaan : \u00a0 CaCO3(s) + 2HCl(aq) -------&gt; CaCla(aq) +H2O(l) + CO2(g) Ca(OH)2(s) + 2HCl(aq) ------&gt; CaCl2(aq) + 2H2O(l) \u00a0 hitunglah volum larutan asam klorida 2 M yang diperlukan untuk melarutkan 25 gram campuran yang mengandung 40% kalsium karbonat dan 60% kalsium hidroksida (Ar H=1; C=12; O= 16)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Volume larutan HCl 2 M yang diperlukan untuk melarutkan campuran tersebut adalah 300 mL.</strong> Volume tersebut dapat ditentukan jika mol HCl diketahui. Mol HCl dapat ditentukan menggunakan konsep mol dan stoikiometri.\n</p><p></p><h3>Pembahasan\n</h3><p>Pada saol di atas <strong>diketahui </strong>beberapa data yaitu:\n</p><p>Reaksi 1 = CaCO\u2083 + 2 HCl \u2192 CaCl\u2082 + H\u2082O + CO\u2082\n</p><p>Reaksi 2 = Ca(OH)\u2082 + 2 HCl \u2192 CaCl\u2082 + 2H\u2082O\n</p><p>M HCl = 2 M\n</p><p>m CaCO\u2083 + Ca(OH)\u2082 = 25 gram\n</p><p>% CaCO\u2083 = 40 %\n</p><p>% Ca(OH)\u2082 = 60 %\n</p><p>Ar Ca = 40, C = 12, O = 16, H = 1\n</p><p>Adapun yang <strong>ditanyakan</strong> pada soal adalah volume HCl yang diperlukan untuk melarutkan campuran dua senaywa tersebut.\n</p><p>Penentuan volume HCl dapat dilakukan menggunakan tahapan-tahapan berikut:\n</p><p><em><strong>Step-1 </strong></em><strong>(menentukan massa CaCO\u2083 dan Ca(OH)\u2082)\n</strong></p><p>Pada soal sudah diketahui bahwa massa total CaCO\u2083 + Ca(OH)\u2082 adalah 25 gram. Kalian dapat menentukan massa masing-masing senaywa dalam campuran menggunakan data % massa senaywa yang diketahui dikalikan dengan massa campuran yang diketahui juga.\n</p><p>m CaCO\u2083 = % CaCO\u2083 x m campuran \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 40 % x 25 gram\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10 gram\n</p><p>m Ca(OH)\u2082 = % Ca(OH)\u2082 x m campuran\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 % x 25 gram\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 15 gram\n</p><p><em><strong>Step-2</strong></em><strong> (menentukan mol CaCO\u2083 dan Ca(OH)\u2082)\n</strong></p><p>Mol dapat ditentukan menggunakan data massa disbanding Mr. Massa masig-masing senyawa sudah didapatkan pada tahap sebelumnya. Adapun Mr masing-masing senyawa tersebut dapat ditentukan sebagai berikut:\n</p><p>Mr CaCO\u2083 = Ar Ca + Ar C + 3 (Ar O)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 40 + 12 + 3 (16)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 40 + 12 + 48\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100 gram/mol\n</p><p>Mr Ca(OH)\u2082 = Ar Ca + 2 (Ar O) + 2 (Ar H)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 40 + 2 (16) + 2 (1)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 40 + 32 + 2\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 74 gram/mol\n</p><p>Pelajari lebih lanjut tentang Mr di: https://brainly.co.id/tugas/20779161.\n</p><p>Selanjutnya mol CaCO\u2083 dan Ca(OH)\u2082 \u00a0dapat ditentukan sebagai berikut:\n</p><p>n CaCO\u2083 = m CaCO\u2083/ Mr = 10/ 100 = 0,1 mol\n</p><p>n Ca(OH)\u2082 = m Ca(OH)\u2082/ Mr = 15/ 74 = 0,2 mol\n</p><p><em><strong>Step-3 </strong></em><strong>(menentukan mol HCl)\n</strong></p><p>Mol HCl dapat ditentukan menggunakan perbandingan koefisien dari eraksi yang diketahui dan senyawa yang diketahui\n</p><p><u>Reaksi 1 \u00a0</u></p><p>CaCO\u2083 + 2 HCl \u2192 CaCl\u2082 + H\u2082O + CO\u2082\n</p><p>n HCl = (koef HCl/ koef CaCO\u2083) x n CaCO\u2083\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (2/1) x 0,1\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 x 0,1\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,2 mol\n</p><p><u>Reaksi 2\n</u></p><p>Ca(OH)\u2082 + 2 HCl \u2192 CaCl\u2082 + 2H\u2082O\n</p><p>n HCl = (koef HCl/ koef Ca(OH)\u2082) x n Ca(OH)\u2082\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (2/1) x 0,2\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 x 0,2\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,4 mol\n</p><p>n HCl total = 0,2 mol + 0,4 mol = 0,6 mol\n</p><p>Pelajari lebih lanjut tentang mol dan perbandingan koefisien di: https://brainly.co.id/tugas/18228152.\n</p><p><em><strong>Final step</strong></em><strong> (menentukan volume HCl)\n</strong></p><p>Volume HCl dapat ditentukan menggunakan data mol yang didapat dan molaritas HCl yang diketahui. Berikut rumus yang dapat digunakan.\n</p><p>V HCl = n/ M\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,6/ 2\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,3 L\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 300 mL\n</p><p><strong>Jadi dapat disimpulkan mol HCl yang diperlukan untuk melarutkan campuran tersebut adalah 300 mL.</strong></p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas: </strong>X\n</p><p><strong>Mapel: </strong>Kimia\n</p><p><strong>Bab: </strong>Stoikiometri\n</p><p><strong>Kode: </strong>10.7.9\n</p><p>#AyoBelajar\n</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "larutan-elektrolit-yang-daya-hantar-listriknya-lemah-disebut-deng-155",
+            "question": "larutan elektrolit yang daya hantar listriknya lemah disebut dengan elektrolit lemah dan yang daya hantar listriknya kuat disebut elektrolit kuat. jelaskan hubungan antara jumlah ion dengan daya hantar listrik suatu larutan elektrolit...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hubungannya semakin banyak jumlah ion\u00a0suatu larutan maka semakin tinggi sifat keasamanya dan derajat ionisasinya serta daya hantar listriknya",
+                    "attachments": []
+                },
+                {
+                    "answer": "semakin banyak jumlah ion maka semakin banyak pula daya hantar listrik larutan elektrolit<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-larutan-hcn-01-m-mempunyai-ph-sebesar-3-log-2-berapa-676",
+            "question": "Suatu larutan HCN 0,1 M mempunyai pH sebesar 3 \u2013    log 2, berapa gram KCN yang harus dilarutkan dalam air, agar diperoleh 500 ml\r\n larutan KCN dengan pH 9 + log 2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ph9+log 2?90 tp jkml akan\u00a0ditambah 60 akan mji 500ml",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-50-ml-hcl-001-m-diencerkan-sampai-dengan-volume-500-ml-287",
+            "question": "sebanyak 50 ml HCL 0,01 M diencerkan sampai dengan volume 500 ml . hitunglah pH larutan HCL tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>sebanyak 50 ml HCl 0,01 M diencerkan sampai dengan volume 500 ml. Maka pH larutan HCl tersebut adalah <strong>1.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : [HCl] = 0,01 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V HCl = 50 mL</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V larutan = 500 mL</p><p>Ditanya : pH sesudah pengenceran ?</p><p>Jawab :</p><ul><li>Hitung konsentrasi HCl setelah diencerkan dengan cara :</li></ul><p>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082</p><p>50 mL \u00d7 0,01 M = 500 mL \u00d7 M\u2082</p><p>50 mL.M = 500 mL \u00d7 M\u2082</p><p>M\u2082 = 50/500 M</p><p>M\u2082 = 0,1 M</p><p>M\u2082 = 10\u207b\u00b9 M</p><ul><li>Hitung pH setelah pengenceran dengan cara :</li></ul><p>[H\u207a] = a \u00d7 Ma</p><p> \u00a0 \u00a0 \u00a0 \u00a0= 1 \u00d7 0,1 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0= 0,1 M</p><p>pH = - log [H\u207a]</p><p> \u00a0 \u00a0 \u00a0= - log 10\u207b\u00b9</p><p> \u00a0 \u00a0 \u00a0= 1</p><p><strong>\u2234 Kesimpulan pH larutan setelah pengenceran adalah 1.</strong></p><p><strong>Pembahasan :\n</strong></p><p><strong>Pengertian Molaritas (M)\n</strong></p><p>Konsentrasi merupakan jumlah zat terlarut yang ada terhadap jumlah pelarut tertentu atau terhadap jumlah larutan tertentu. (diasumsikan zat terlarut berwujud cair atau padat, sedangkan pelarutnya berwujud cair) Konsentrasi dapat diungkapkan dengan beragam cara, salah satunya yang paling sering dipakai, dan memang akan kita gunakan sekarang ini adalah Molaritas (M), atau konsentrasi molar. Molaritas adalah jumlah mol terlarut setiap liter larutan. Atau bias diungkapkan dengan rumus:\n</p><p><strong>M = n/V\n</strong></p><p>Keterangan : M = konsentrasi zat\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n = mol zat terlarut\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = volume larutan (L)\n</p><p><strong>Pengenceran\n</strong></p><p>Proses pengenceran adalah proses yang dilakukan dengan mencampurkan pelarut yang lebih ukurannya dari suatu zat yang dilarutkannya. engenceran pada prinsipnya hanya menambahkan pelarut saja, sehingga jumlah mol zat terlarut sebelum pengenceran sama dengan jumlah mol zat terlarut sesudah pengenceran. Dengan kata lain jumlah mmol zat terlarut sebelum pengenceran sama dengan jumlah mmol zat terlarut sesudah penegenceran atau jumlah massa zat terlarut sebelum pengenceran sama dengan jumlah massa zat terlarut sesudah pengenceran.\n</p><p>Rumus : \u00a0</p><p><strong>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082\n</strong></p><p>Keterangan :\n</p><p>M\u2081 = Molaritas larutan sebelum pelarutan/pengenceran\n</p><p>V\u2081 = Volume larutan sebelum pelarutan/pengenceran\n</p><p>M\u2082 = Molaritas larutan sesudah pelarutan/pengenceran\n</p><p>V\u2082 = Volume Molaritas larutan sesudah pelarutan/pengenceran\n</p><p><strong>pOH \u00a0</strong></p><p>pOH digunakan untuk mengukur tingkat kebasaan suatu zat yang bersifat basa. contoh yang bersifat basa adalah sabun. kebasaan suatu zat kimia yang bersifat basa dihitung menggunakan pOH yang harus diubah ke pH. \u00a0</p><p>Rumus : \u00a0</p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = PKw - pOH \u00a0</strong></p><p><strong> \u00a0 \u00a0 \u00a0= 14 - pOH \u00a0</strong></p><p><strong>Perhitungan pH basa\n</strong></p><p>Sifat-sifat basa yaitu sebagai berikut : \u00a0</p><ul><li>Mempunyai rasa pahit dan merusak kulit. \u00a0</li><li>Terasa licin seperti sabun bila terkena kulit. \u00a0</li><li>Dapat mengubah kertas lakmus merah menjadi kertas lakmus biru. \u00a0</li><li>Dapat menghantarkan arus listrik \u00a0</li><li>Dapat menetralkan asam \u00a0</li></ul><p>Rumus menghitung basa kuat : \u00a0</p><p><strong>[OH\u207b] = b \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Rumus menghitung basa lemah : \u00a0</p><p><strong>[OH\u207b] = \u221aKb \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Keterangan : b = valensi basa \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mb = Konsentrasi basa\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Kb = tetapan ionisasi basa lemah \u00a0</p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>materi tentang pengenceran https://brainly.co.id/tugas/21621974\n</p><p>materi tentang pengenceran https://brainly.co.id/tugas/21583884\n</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21126249 \u00a0</p><p>--------------------------------------------------------------------------------------------------- \u00a0</p><p><strong>Detail jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 9 \u00a0</p><p>Kode : 11.7.9 \u00a0</p><p>Kata Kunci : pengenceran, titrasi\n</p>",
+                    "attachments": [
+                        "answer-attachments/sebanyak-50-ml-hcl-001-m-diencerkan-sampai-dengan-volume-500-ml-287-1.jpg",
+                        "answer-attachments/sebanyak-50-ml-hcl-001-m-diencerkan-sampai-dengan-volume-500-ml-287-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-2-mol-asam-sulfida-memiliki-derajat-ionisasi-04-jumlah-392",
+            "question": "sebanyak 2 mol asam sulfida memiliki derajat ionisasi 0,4. jumlah mol yang tidak terionisasi sebanyak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2S --&gt; 2 mol\nterionisasi 0,4\njumlah mol yg tdk terionisasi= jumlah mol awal - derajat ionisasi\nx= 2-0,4\nx= 1,6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "macam-macam-autoredoks-jelaskan-159",
+            "question": "Macam macam autoredoks? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nReaksi autoredoks atau disproporsionasi adalah reaksi redoks yang oksidator dan reduktornya merupakan zat yang sama.\nJadi, sebagian dari zat itu mengalami oksidasi dan sebagian lagi mengalami\nreduksi.</span>\n<span>\n\n \n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n \n \n \n\n \nContoh :</span>\n<span>\n</span>\n\n\n<span>\n<span>Sebagian dari gas\nklorin (Cl2) (biloks = 0) mengalami reduksi menjadi NaCl (biloks =\n-1) dan sebagian lagi mengalami oksidasi menjadi NaClO ( biloks = +1).</span><br><br><br><span>\nReaksi konproporsionasi\nmerupakan kebalikan dari reaksi disproporsionasi, yaitu reaksi redoks dimana\nhasil reduksi dan oksidasinya sama.</span>\n</span>\n<span>\nContoh :</span>\n<span>\n</span>\n\n\n<span>\n<span>Pada reaksi\ntersebut hasil reduksi dan oksidasinya merupakan zat yang sama, yaitu belerang\n(S).</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setarakan-persamaan-reaksi-berikut-a-fe2o3s-cog-gt-fe-519",
+            "question": "Setarakan persamaan reaksi berikut :    a. Fe2O3(s) + CO(g) -&gt; Fe(s) + CO2(g)\r\nb. NH3 + O2 --&gt; NO + H2O \r\nc. Ba(OH)2 + P2O5 -&gt; Ba3(PO4)2 + H2O\r\nd. (NH4)2SO4 +NaOH -&gt; Na2SO42 + H2O + NH3\r\nbesertakan jalannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Hasil penyetaraan reaksi adalah:</strong></p><ul><li>(a). Fe\u2082O\u2083 + 3CO\u00a0\u2192 2Fe + 3CO\u2082 </li><li>(b). 4NH\u2083 + 5O\u2082 \u2192\u00a04NO +\u00a06H\u2082O </li><li>(c). 3Ba(OH)\u2082 + P\u2082O \u2192 Ba\u2083(PO\u2084)\u2082 + 3H\u2082O </li><li>(d). (NH\u2084)\u2082SO\u2084 + 2NaOH \u2192 Na\u2082(SO\u2084)\u2082 +\u00a02H\u2082O +\u00a02NH\u2083</li></ul><h3>Pembahasan</h3><p>Cara penyetaraan reaksi saat mempelajari Kimia kelas 10 dapat dilakukan seperti di bawah ini, yakni menentukan kesamaan koefisien kedua ruas dengan memisalkannya dalam bentuk variabel terlebih dahulu. Namun, ketika sudah berada di kelas 12 penyetaraan reaksi yang lebih rumit dikerjakan dengan metode perubahan bilangan oksidasi atau metode setengah reaksi.</p><p><strong>(Soal a). </strong></p><p>aFe\u2082O\u2083 + bCO\u00a0\u2192 cFe + dCO\u2082 </p><p>Koefisien ruas kiri = koefisien ruas kanan</p><p>Fe \u00a0\u21d2 2a = c</p><p>O \u00a0 \u21d2 3a + b = 2d</p><p>C \u00a0 \u21d2 b = d</p><p>Kita misalkan a = 1, maka c = 2.</p><p>Karena b = d, maka </p><p>3a + d = 2d </p><p>3a = d</p><p>Substitusikan a = 1</p><p>Diperoleh d = 3 sekaligus b = 3</p><p><strong>Sehingga a : b : c : d = 1 : 3 : 2 : 3</strong></p><p><strong>Reaksi sudah setara:</strong></p><p>Fe\u2082O\u2083 + 3CO\u00a0\u2192 2Fe + 3CO\u2082</p><p><strong>(Soal b). </strong></p><p>aNH\u2083 + bO\u2082 \u2192 cNO + dH\u2082O</p><p>N \u21d2 a = c</p><p>H \u21d2 3a = 2d</p><p>O \u21d2 2b = c + d</p><p>Kita misalkan a = 1, maka c = 1.</p><p>Substitusikan a = 1 ke dalam 3a = 2d</p><p>3 = 2d</p><p>Diperoleh d = \u00b3/\u2082.</p><p>Substitusikan c dan d ke dalam 2b = c + d</p><p>2b = 1 + \u00b3/\u2082</p><p>2b = \u2075/\u2082</p><p>Diperoleh b = \u2075/\u2084.</p><p>Jadi, a : b : c : d = 1 : \u2075/\u2084 : 1 : \u00b3/\u2082.</p><p>Kalikan 4 agar menjadi bilangan bulat.</p><p><strong>Sehingga a : b : c : d menjadi 4 : 5 : 4 : 6.</strong></p><p><strong>Reaksi sudah setara:</strong></p><p>4NH\u2083 + 5O\u2082 \u2192\u00a04NO +\u00a06H\u2082O</p><p><strong>(Soal c). </strong></p><p>aBa(OH)\u2082 + bP\u2082O \u2192 cBa\u2083(PO\u2084)\u2082 + dH\u2082O</p><p>Ba \u21d2 a = 3c</p><p>O \u21d2 2a + b = 8c + d</p><p>H \u21d2 2a = 2d \u21d2 a = d</p><p>P \u21d2 2b = 2c \u21d2 b = c</p><p>Kita misalkan a = 3, maka c = 1,\u00a0lalu b = 1, dan d = 3\u00a0</p><p><strong>Diperoleh a : b : c : d = 3 : 1 : 1 : 3</strong></p><p><strong>Reaksi sudah setara:</strong></p><p>3Ba(OH)\u2082 + P\u2082O \u2192 Ba\u2083(PO\u2084)\u2082 + 3H\u2082O</p><p><strong>(Soal d). </strong></p><p>a(NH\u2084)\u2082SO\u2084 + bNaOH \u2192 cNa\u2082SO\u2084 + dH\u2082O + eNH\u2083\u00a0</p><p>N \u21d2 2a = e</p><p>H \u21d2 8a + b = 2d + 3e</p><p>S \u21d2 a = c </p><p>O \u21d2 4a + b = 4c + d</p><p>Na \u21d2 b = 2c</p><p>Kita misalkan a = 1, maka e = 2, c = 1, dan b = 2. Selanjutnya\u00a0substitusikan nilai a, b, dan c ke\u00a0persamaan 4a + b = 4c +\u00a0d.</p><p>4 + 2 =\u00a04 + d</p><p>Diperoleh d = 2.</p><p><strong>Sehingga a : b : c : d = 1 : 2 : 1 : 2 : 2</strong></p><p><strong>Reaksi sudah setara:</strong></p><p>(NH\u2084)\u2082SO\u2084 + 2NaOH \u2192 Na\u2082(SO\u2084)\u2082 +\u00a02H\u2082O +\u00a02NH\u2083</p><h3>Pelajari lebih lanjut</h3><p>Tipe persoalan yang serupa </p><ol><li>https://brainly.co.id/tugas/128579</li><li>brainly.co.id/tugas/24247</li><li>brainly.co.id/tugas/254350</li></ol><p>-----------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 :</strong> X</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> Tata Nama Senyawa dan Persamaan Reaksi</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 10.7.7</p><p></p><p><strong>Kata Kunci :</strong> setarakan persamaan reaksi berikut, cara, metode, koefisien, Fe\u2082O\u2083, CO, Fe, CO\u2082, NH\u2083, O\u2082, NO, Ba(OH)\u2082, P\u2082O, Ba\u2083(PO\u2084)\u2082, bilangan, substitusikan, brainly</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-kegunaan-air-suling-dalam-percobaan-elektrolit-822",
+            "question": "Sebutkan kegunaan air suling dalam percobaan elektrolit !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pertama kita definisikan dulu apa itu suatu larutan ya<br>Larutan dibagi menjadi dua unsur yaitu pelarut dan larutan itu sendiri. Pelarut adalah sesuatu yang digunakan untuk melarutkan suatu benda. Jumlah pelarut ini lebih besar dari unsur yang dilarutkan. <br><br>Kemudian yang kedua terkait larutan elektrolit. Berdasarkan sumber yang dihimpun larutan Elektrolit adalah suatu zat yang ketika dilarutkan dalam air \nakan menghasilkan larutan yang dapat menghantarkan arus listrik. \nContohnya pelarut air dengan alkohol 70 %. <br><br>Sedangkan larutan non elektrolit tidak \nmenghantarkan arus listrik ketika dilarutkan ke dalam air. Senyawa ionik\n dan kovalen polar biasanya bersifat elektrolit. Contohnya asam, basa, \ndan garam<br><br>Nah Air suling atau aquades dengan rumus kimia H20 merupakan pelarut dengan Ph 7, yang fungsinya adalah sebagai bahan percobaan atau pelarut elektrolit yang baik. Konduktifitasnya adalah 0-100 \u03bcs. Sehingga di sini air sulit sangat baik untuk melarutkan zat zat yang bersifat elektrolit. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-tuliskan-reaksi-pembuatan-sabun-kalium-palmitat-yang-terbu-572",
+            "question": "Tolong tuliskan reaksi pembuatan sabun kalium palmitat yang terbuat dari reaksi gliseril tripalmitat dan KOH \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sabun karena talok air jadi licin<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diukur-pada-suhu-dan-tekanan-yang-sama-75-l-gas-hidrogen-te-135",
+            "question": "jika diukur pada suhu dan tekanan yang sama, 75 L gas hidrogen tepat bereaksi dengan gas oksigen. reaksi tersebut menghasilkan uap air sebanyak?berikut penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2 + O2 --&gt;H2O<br>maka setarakan perSAMAan ini menjadi<br>2H2 +O2 --&gt; 2H2O<br>\u00a0 2 \u00a0 \u00a0: \u00a0 1 \u00a0 \u00a0 : \u00a0 \u00a02 (perbandingan koefisein)<br>75L : \u00a0 37.5L : 75L (perbandingan volume)<br>\u00a0<br>perbandingan koefisein dan\u00a0perbandingan volume adalah sama",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukan-reaksi-oksidasi-dan-reduksi-dari-persamaan-reaksi-beriku-173",
+            "question": "Tunjukan reaksi oksidasi dan reduksi dari persamaan reaksi berikut:    a) MnO\u2082 + 4HCl ---&gt; MnCl\u2082 _ 2Cl + 2H\u2082O\r\nb) Cl\u2082 + 2KI ----------&gt; 2Kcl + I\u2082\r\nc) 5Fe\u00b2\u207a + MnO\u2084\u207b + 8H\u207a ---&gt; 5Fe\u00b2\u207a + Mn\u00b2\u207a + 4H\u2082O",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran : Kimia<br>Kelas : X SMA<br>Kategori : Reaksi redoks<br>Kode kategori berdasarkan kurikulum KTSP : 10.7.8<br>Kata kunci : reaksi reduksi, reaksi oksidasi<br><br>Jawaban :<br>a) MnO\u2082 + 4HCl --------&gt; MnCl\u2082 + Cl2 + 2H\u2082O<br>Mn mengalami reduksi dan Cl mengalami oksidasi<br>b) Cl\u2082 + 2KI ----------&gt; 2KCl + I\u2082<br>Cl mengalami reduksi dan I mengalami oksidasi<br>c) 5Fe\u00b2\u207a + MnO\u2084\u207b + 8H\u207a --------&gt; 5Fe\u00b3\u207a + Mn\u00b2\u207a + 4H\u2082O<br>Fe mengalami oksidasi dan Mn mengalami reduksi<br><br>Pembahasan :<br>Reaksi redoks adalah suatu reaksi yang terjadi karena suatu unsur mengalami reduksi dan oksidasi. Dalam satu persamaan reaksi redoks pasti terjadi reduksi dan oksidasi. Unsur yang mengalami oksidasi disebut sebagai reduktor atau pereduksi sedangkan unsur yang mengalami reduksi disebut sebagai oksidator atau pengoksidasi.<br><br>Secara umum, pengertian reduksi dan oksidasi dapat dilihat dari tiga hal yaitu :<br>1. Berdasarkan reaksi terhadap elektron<br>Reaksi reduksi reaksi penangkapan elektron sedangkan reaksi oksidasi adalah reaksi pelepasan elektron. Contohnya :<br>F2 + 2e ----------&gt; 2F- disebut sebagai reaksi reduksi<br>Ca --------&gt; Ca\u00b2+ + 2e disebut sebagai reaksi oksidasi<br><br>2. Berdasarkan reaksi terhadap oksigen<br>Reaksi reduksi adalah reaksi pelepasan oksigen sedangkan reaksi oksidasi adalah reaksi pengikatan oksigen. Pada reaksi reduksi, jumlah oksigen akan berkurang dari semula dan sebaliknya reaksi oksidasi terjadi karena jumlah oksigen bertambah. Contoh reaksinya :<br>Reduksi : MnO2 ---------&gt; Mn\u00b2+<br>Oksidasi : Cl- ---------&gt; ClO3-<br><br>3. Berdasarkan perubahan bilangan oksidasi<br>Reaksi reduksi adalah reaksi penurunan bilangan oksidasi sedangan reaksi oksidasi adalah reaksi kenaikan bilangan oksidasi. Bilangan oksidasi adalah bilangan yang menyatakan muatan atau valensi suatu atom dalam senyawa.<br>Contohnya :<br>Reduksi : Mg\u00b2+ -------&gt; Mg<br>Oksidasi : 2Br-  -------&gt; Br2<br><br>Sebelum dibahas lebih lanjut mengenai reaksi redoks, hal yang harus diperhatikan adalah beberapa aturan untuk menentukan biloks suatu atom sebagai berikut :<br>1. Biloks semua unsur bebas adalah nol.<br>Contohnya : Cl2, Br2, Mg, O2, Na dll.<br>2. Biloks atom H dalam senyawa umumnya +1 kecuali pada hidrida logam biloks H = -1. Contohnya : atom H dalam NaH, CaH2 memiliki biloks -1.<br>3. Biloks atom O dalam senyawa umumnya -2 kecuali pada peroksida biloks O = -1. Contohnya : atom O H2O2, Na2O2 memiliki biloks -1.<br>4. Total biloks suatu senyawa adalah nol sedangkan total biloks ion sama dengan muatan ionnya.<br>5. Biloks atom F selalu -1 dalam senyawa apapun.<br><br>Beberapa reaksi berikut dapat ditentukan oksidasi dan reduksinya dengan cara menentukan biloks atom selain O dan H.<br>a) MnO\u2082 + 4HCl --------&gt; MnCl\u2082 + Cl2 + 2H\u2082O<br>Biloks Mn dalam MnO2 = +4 dan dalam MnCl2 = +2 maka atom Mn mengalami reduksi. Biloks Cl dalam HCl = -1 dan dalam Cl2 = 0 maka atom Cl mengalami oksidasi.<br><br>b) Cl\u2082 + 2KI ----------&gt; 2KCl + I\u2082<br>Biloks Cl dalam Cl2 = 0 dan dalam KCl = -1 maka at Cl mengalami reduksi. Biloks I dalam KI = -1 dan dalam I2 = 0 maka atom I mengalami oksidasi.<br><br>c) 5Fe\u00b2\u207a + MnO\u2084\u207b + 8H\u207a --------&gt; 5Fe\u00b3\u207a + Mn\u00b2\u207a + 4H\u2082O<br>Biloks Fe dalam Fe\u00b2+ = +2 dan dalam Fe\u00b3+ = +3 maka atom Fe mengalami oksidasi. Biloks Mn dalam MnO4- = +7 dan dalam Mn\u00b2+ = +2 maka atom Mn mengalami reduksi.(SL)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "question": "Berapakah banyaknya bilangan yang menyusun deret 5+7+9+... yang jumlahnya 192 ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "5+7+9+11+13+15+17+19+21+23+25+27 = 192<br>",
+            "attachments": []
+        },
+        {
+            "answer": "a = 5\u00a0 <br>b = 2<br><br>Sn = n/2 (2a+(n-1)b)<br>192 = n/2 (2x5 + (n-1) 2)<br>192 = n/2 (10+2n-2)<br>384 = n (10+2n-2)<br>384 = 2n^2+10n-2n<br>384 = 2n^2+8n<br>maka n = 12<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-dari-2x-4gt-3x9-175",
+            "question": "Himpunan penyelesaian dari 2x-4&gt; 3x+9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-4 &gt; 3x+9<br>2x-3x &gt; 9+4<br>\u00a0\u00a0 \u00a0 -1x &gt; 13<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 x &gt; -13<br><br><br>kalo ga salah yaaa<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 4 &gt; 3x\u00a0+ 9 = ...<br>2x - 3x &gt; 9 + 4 = ...<br>\u00a0\u00a0 - x \u00a0 \u00a0&gt; 13 \u00a0 = ....<br>\u00a0\u00a0 \u00a0x \u00a0 \u00a0 &gt; -13 \u00a0gg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-pelurus-sudut-p-tiga-kali-penyiku-sudut-pberapa-besar-550",
+            "question": "Diketahui pelurus sudut p tiga kali penyiku sudut p,berapa besar sudut p?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "180 - p = 3 (90 -p)<br>180 - p = 270 - 3p<br>2p = 270 - 180 = 90<br>p = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60x3=180 kan 1, sudut di segitiga besarnya 90 drajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sekelompok-siswa-35-siswa-gemar-bermain-basket-23-siswa-ge-817",
+            "question": "dari sekelompok siswa, 35 siswa gemar bermain basket, 23 siswa gemar bermain voli, 9 siswa gemar bermain kedua cabang olah raga tersebut dan7 siswa tidak menyukai keduanya . berapa jumlah siswa dalam kelompok tersebut ? tentukan dalam himpunan matematika beserta diagram venn nya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>himpunan</strong> adalah kumpulan benda atau obyek yang memiliki definisi yang jelas atau dengan kata lain memiliki batasan-batasan yang jelas atau kumpulan benda ataupun obyek yang anggota\"nya dapat didefinisikan secara jelas , sehingga antara satu orang dengan yang lain tdk akan terjadi multi tafsir.</p><p><strong>Irisan Himpunan</strong></p><p>Irisan himpunan adalah anggota himpunan yang menjadi anggota himpunan satu sekaligus menjadi anggota himpunan yang lain </p><p>Irisan Himpunan dilambangkan dengan \u2229</p><p><strong>Gabungan Himpunan</strong></p><p>Gabungan himpunan adalah semua anggota atau obyek yang menjadi anggota satu dan anggota himpunan yang lain disebutkan jadi 1</p><p>Gabungan Himpunan dilambangkan dengan \u222a</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><h3>Pembahasan</h3><p>diketahui:</p><p>35 siswa gemar bermain basket ................................. n(A)</p><p>23 siswa gemar bermain voli ....................................... n(B)</p><p>9 siswa gemar bermain kedua cabang olah raga \u00a0. n(A\u2229B) </p><p>7 siswa tidak menyukai keduanya .............................. n(A\u222aB)&#039;</p><p>ditanya, berapa jumlah siswa dalam kelompok tersebut ? n(S)</p><p>jawab:</p><p>gunakan rumus</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><p> \u00a0 \u00a0 \u00a0 = 35 + 23 - 9 + 7</p><p> \u00a0 \u00a0 \u00a0 = 56 siswa</p><h3>Pelajari Lebih lanjut</h3><p>tentang himpunan dapat juga disimak di</p><p>brainly.co.id/tugas/4938280</p><p>brainly.co.id/tugas/1477355</p><p>brainly.co.id/tugas/697707</p><p>perbedaan himpunan dan kumpulan dapat disimak di</p><p>brainly.co.id/tugas/11791002</p><p>brainly.co.id/tugas/693631</p><p>brainly.co.id/tugas/3635184</p><p>brainly.co.id/tugas/101649</p><h3>==============================================</h3><h3>Detail Jawaban</h3><p><strong>kelas</strong> : 7</p><p><strong>mapel</strong> : matematika</p><p><strong>kategori</strong> : himpunan</p><p><strong>kata kunci </strong>; irisan dan gabungan</p><p><strong>kode</strong> : 7.2.1</p><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-pembelian-kopi-dengan-bruto-50kg-adalah-rp-950000-jika-278",
+            "question": "Harga pembelian kopi dengan bruto 50kg adalah Rp. 950.000 , jika tara 2% dan penjualan tiap kg neto adalah Rp. 20.000 tentukan :    a neto\r\nb harga penjualan seluruhnya \r\nc keuntungan seluruhnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Harga pembelian</strong> kopi dengan <strong>bruto</strong> 50kg adalah Rp. 950.000 , jika<strong> tara</strong> 2% dan penjualan tiap kg <strong>netto</strong> adalah Rp. 20.000 tentukan :\n</p><p>a netto\n</p><p>b harga penjualan seluruhnya \u00a0</p><p>c keuntungan seluruhnya</p><p><strong>Membeli, menjual, untung, Bruto, Netto, Tara </strong>merupakan bagian dari permasalahan bab Aritmatika Sosial.</p><p><strong>Aritmatika sosial </strong>adalah materi matematika yang berhubungan dengan kehidupan sehari\", seperti menghitung harga jual, harga beli, untung, rugi, diskon, rabat, bruto, netto, tara, tangungan awal, tabungan ahir, bunga dll.</p><p><em><strong>Beberapa rumus dalam bab Aritmatika sosial berkenaan dengan jual beli:</strong></em></p><ul><li>Harga jual = Harga beli + Untung</li><li>Harga beli = Harga jual - Untung</li><li>Harga jual = Harga beli - Rugi</li><li>Harga beli = Harga jual + Rugi</li><li>Untung = Harga Jual - Harga beli</li><li>Rugi = Harga beli - Harga jual</li><li>Untung dalam rupiah = Prosentase untung x Harga beli</li><li>Bruto (berat kotor) = Netto + Tara</li><li>Netto = Bruto - Tara</li><li>Tara = Bruto - Netto</li></ul><p></p><h3>Pembahasan</h3><p><em><strong>Diketahui:</strong></em></p><p>Bruto = 50 kg</p><p>Tara = 2%</p><p>Harga beli = Rp 950.000</p><p>Harga jual/kg = Rp 20.000</p><p><em><strong>Ditanya:</strong></em></p><p>a netto\n</p><p>b harga penjualan seluruhnya \u00a0</p><p>c keuntungan seluruhnya</p><p><em><strong>Jawab:</strong></em></p><p><u><em><strong>Penyelesaian soal a</strong></em></u></p><p>Netto = Bruto - Tara</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50 kg - (2% x 50 kg)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50 kg - 1 kg</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 49 kg</p><p></p><p><u><em><strong>Penyelesaian soal b</strong></em></u></p><p>Harga jual seluruhnya = Netto x Harga jual/kg</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 49 x Rp 20.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 980.000</p><p></p><p><u><em><strong>Penyelesaian soal c</strong></em></u></p><p>Keuntungan seluruhnya = Harga Jual seluruhnya - harga beli seluruhnya</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 980.000 - Rp 950.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 30.000</p><p></p><h3>Pelajari Lebih Lanjut</h3><p>Soal-soal tentang Aritmatika Sosial dapat disimak juga di</p><ul><li>brainly.co.id/tugas/20594911</li><li>brainly.co.id/tugas/18969330</li><li>brainly.co.id/tugas/2285569</li><li>brainly.co.id/tugas/134717</li><li>brainly.co.id/tugas/17834231</li><li>brainly.co.id/tugas/85825</li></ul><h3>=============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 7</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Aritmatika Sosial</p><p><strong>Kode </strong>: 7.2.7</p><p></p><p><strong>Kata Kunci </strong>: Tabungan awal, tabungan ahir, suku bunga, lama menabung, Harga Jual, Harga Beli, Untung, Rugi</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ratih-membeli-sebuah-komputer-seharga-rp-4350000-dan-dikenakan-486",
+            "question": "Ratih membeli sebuah komputer seharga Rp. 4.350.000 dan dikenakan pajak penjualan 5%    a. besar pajak penjualan \r\nb. harga komputer setelah dikenakan pajak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.5x 4.350.000/100 : 217.500\nb.4.350.000-217.500 : 4.132.500\n\nkalau suka tolong jawaban terbaik yahh? terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.5/100 x 4.350.000=21.750<br>b.4.350.000 +\u00a021.750 =\u00a04.567.500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-sejauh-30-km-ke-arah-timur-kemudian-40-km-k-828",
+            "question": "sebuah kapal berlayar sejauh 30 km ke arah timur kemudian 40 km ke arah utara. jarak kapal sekarang dari tempat semula adalah???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menggunakan rumus pitagoras<br>30^2+40^2=jawaban^2<br><br>900+1600= 2500<br>\u221a2500=50 jadi jawabanya adalah 50<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Gunakan timur dg ketetapan peta sehingga timur sebagai sb x dan utara sb sumbu y.<br>sumbu x=30 m dan sb y=40<br><br>maka dg rumus phytagoras didapatkan 50 m dari posisi semula",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1pak-kamil-membeli-40-buah-pepaya-dengan-harga-seluruh-nya-rp750-345",
+            "question": "1.Pak kamil membeli 40 buah pepaya dengan harga seluruh nya Rp75000 pepaya tsb kemudian dijual dengan harga Rp 3500 setiap 2 buah tentukan:    A.untung /rugi kah pak kamil\r\n B.berapa persentase untung/rugi nya\r\n\r\n 2.Toko beras membeli 2 kuintal beras jenis A dengan harga Rp 3250/ kg dan 3 kuintal jenis B Rp 3500/kg kemudian ke 2 jenis beras di campur dan di jual dengan harga Rp 4200/kg persentase untung/ rugi???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3500 * 20 = 70000<br>karena &lt;75000 , maka rugi 5000<br>persentase untung/rugi 50 %<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.a =75000\u00a0: 40= 1875\u00a0x\u00a02=3750 {\u00a0rugi 250 setiap 2 buah } jawab = RUGI<br>1.b =total rugi 5000.rumus =rugi/harga pembelian x 100% { maaf hanya bisa rumusnya }<br><br>2.beras A=2\u00a0kw=200 kg x 3250 = 650000.<br>\u00a0 \u00a0beras B=3 kw =300 kg x 3500 = \u00a01050000<br>\u00a0 \u00a0650000 + 1050000 =1700000<br>\u00a0 \u00a04200 x 500 =2100000. jawab { untung 400000 }<br>\u00a0 \u00a0rumus\u00a0persentase untung = untung/harga pembelian x 100 %<br>\u00a0semoga\u00a0membantu \u00a0^_^<br>maaf kalau gak dihitung persentasenya.tapi aku masih punya rumusnya<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-3-kambing-dengan-harga-rata-rata-rp3400-672",
+            "question": "seorang pedagang menjual 3 kambing dengan harga rata-rata Rp340.000,00.Bila dari seluruh penjualan pedagang mendapat untung 25%,tentukan harga beli kambing per ekor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h. jual 3 ekor kambing = 340.000<br>untung = 25%<br>h beli tiap ekor = ?<br>jawab<br>h. beli 3 ekor kambing = 100 : 125 x 340.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 272.000<br>h. beli tiap ekor kambing = 272.000 : 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 90.666<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 90.700<br>- maaf kalo jawabannya salah -",
+                    "attachments": []
+                },
+                {
+                    "answer": "3 x 340.000 = 1.020.000<br>25% = 25/100 x 1.020.000<br>\u00a0\u00a0 \u00a0 \u00a0  = rp.255000<br>mngkin sih itu jg<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-indra-membeli-2-jenis-kopiia-membeli-10-kg-jenis-kopi-a-dngn-914",
+            "question": "Pak indra membeli 2 jenis kopi.Ia membeli 10 kg jenis kopi A dngn seharga Rp.10000 per kg dan 15 kg jenis kopi B dngn harga Rp.12000 per kg.Pak Indra mencampur kedua kopi trsbt dan akan dijual lagi.Jika Pak Indra menginginkah keuntungan 25%,Tentukan harga jual kopi campuran per kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10* 10.000 = 100.000<br>15*12.000 = 180.000<br>100.000 + 180.000 = 280.000<br>280.000*25% = 70.000<br>280.000+70.000 = 350.000<br>350.000 : 25 = 14.000 / kg<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasil gabungan kopi A dan kopi B = 100.000 + 180.000 = 280.000<br>HJ = HB + (persen untung x harga beli)<br>\u00a0 \u00a0 \u00a0 \u00a0 280.000 + (25 persen x 280.000)<br>\u00a0 \u00a0 \u00a0 \u00a0 280.000 + 70.000<br>\u00a0 \u00a0 \u00a0 \u00a0 350.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sepasang-sepatu-rp900000-lebihnya-daripada-empat-kali-har-270",
+            "question": "Harga sepasang sepatu rp9.000,00 lebihnya daripada empat kali harga sepasang kaos kaki.Jika harga sepasang sepatu rp55.000,00, harga sepasang kaos kakki....    A. RP8.500,00\r\nB.RP10.500,00\r\nC.11.500,00\r\nD.16.000,00",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal: x=sepatu , y = kaos kaiki.<br>maka ;<br>x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 9000 + 4x<br>55.000\u00a0 = 9000 + 4x<br>55.000-9000 = 4x<br>46.000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4x<br>x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11.500<br>jadi, harga sebuah kaos kaki adalah Rp 11,500,- ( jawaban yang C )<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

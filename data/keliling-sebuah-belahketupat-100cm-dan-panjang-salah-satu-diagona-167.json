@@ -1,0 +1,154 @@
+{
+    "question": "keliling sebuah belahketupat 100cm dan panjang salah satu diagonalnya 48cm. luas belahketupat tersebut adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Keliling sebuah belahketupat 100 cm dan panjang salah satu diagonalnya 48 cm. Luas belahketupat tersebut adalah [tex]\\displaystyle\\boxed{\\sf 336~cm^2} [/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Segi empat</strong> adalah bangun datar yang memiliki empat sisi dan empat sudut. Contoh bangun datar yang dikatakan segi empat, antara lain: persegi, persegi panjang, jajar genjang, belah ketupat, layang-layang, dan trapesium.</p><p>Adapun sifat-sifat <strong>belah ketupat</strong>, antara lain :</p><ul><li>Keempat sisinya sama panjang;</li><li>Sudut-sudut yang berhadapan sama besar;</li><li>Kedua diagonalnya saling tegak lurus dan saling membagi dua sama panjang;</li><li>Memiliki 2 simetri lipat dan 2 simetri putar.</li></ul><p>Untuk menyelesaikan soal ini kita akan menggunakan <strong>rumus</strong> berikut, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Keliling} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf K = 4 \\times s}} [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Luas} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf L = \\dfrac{1}{2} \\times d_1 \\times d_2}} [/tex]</p><p>dimana :</p><p>\u25cb L = luas belah ketupat</p><p>\u25cb K = keliling belah ketupat</p><p>\u25cb s = panjang sisi belah ketupat</p><p>\u25cb d\u2081 = diagonal belah ketupat</p><p>\u25cb d\u2082 = diagonal belah ketupat </p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>[tex]\\displaystyle\\sf K = 100~cm [/tex]</li><li>[tex]\\displaystyle\\sf d_1 = 48~cm [/tex]</li></ul><p><strong>Ditanya : </strong>Luas (L) = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan panjang sisi belah ketupat (s)</strong></p><p>[tex]\\displaystyle\\sf 4 \\times s = K [/tex]</p><p>[tex]\\displaystyle\\sf 4 \\times s = 100 [/tex]</p><p>[tex]\\displaystyle\\sf s = \\frac{100}{4} [/tex]</p><p>[tex]\\displaystyle\\sf s = 25~cm [/tex]</p><p>diperoleh: s = 25 cm</p><p>\u2756 <strong>Menentukan panjang diagonal salah satunya (d\u2082)</strong></p><p>Perhatikan segitiga siku-siku yang diarsir pada lampiran, kita akan mencari x dengan menggunakan teorema Pythagoras.</p><p>[tex]\\displaystyle\\sf x = \\sqrt{25^2 - 24^2} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{625 - 576} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{49} [/tex]</p><p>[tex]\\displaystyle\\sf x = 7~cm [/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\sf d_2 = 2x [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 2 \\times 7 [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 14~cm [/tex]</p><p>diperoleh: d\u2082 = 14 cm</p><p>\u2756 Sehingga, <strong>luas belah ketupat </strong>tersebut</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times d_1 \\times d_2 [/tex]</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times 48 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\sf L = 24 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\boxed{\\sf L = 336~cm^2} [/tex]</p><p>\u2234 <strong>Kesimpulan : </strong>Jadi, luas belah ketupat tersebut adalah 336 cm\u00b2.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>segiempat dan segitiga</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Sebuah taman berbentuk persegi panjang berukuran 30 m \u00d7 18 m. Disekeliling taman dipasang tiang lampu dengan jarak antar lampu 6 meter. Jika harga tiap tiang lampu Rp200.000,00 per tiang, maka biaya yang diperlukan seluruhnya adalah <strong><em>brainly.co.id/tugas/5481048</em></strong></li><li>Jika pada jajar genjang ABCD, besar \u2220A = (3x + 2)\u00b0 dan \u2220D = (2x + 18\u00b0) maka nilai x adalah <strong><em>brainly.co.id/tugas/14772998</em></strong></li><li>Diketahui jajaran genjang PQRS dengan \u2220Q = (5x \u2013 4)\u00b0. Jika besar \u2220P = 7/8 \u2220Q, maka nilai x adalah <strong><em>brainly.co.id/tugas/130684</em></strong></li></ul><h3>____________________________</h3><h3>DETAIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 4 - Segiempat dan Segitiga</p><p><strong>Kode :\u00a0</strong>7.2.4</p><p><strong>Kata kunci : </strong>segiempat, belah ketupat, luas, keliling, diagonal, panjang sisi, segitiga siku-siku, teorema pythagoras</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+            "attachments": [
+                "answer-attachments/keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "koperasi-sekolah-membeli-2-kardus-buku-tulis-dangan-harga-rp5400-138",
+            "question": "Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah , tentukan :    a.harga penjualan\r\nb.Harga pembelian\r\nc.keuntungan\r\nd.persentase keuntungan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Koperasi sekolah membeli 2 kardus buku tulis</strong> dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah, maka\n</p><ul><li>a. harga penjualan = Rp135.000,00\n</li><li>b. harga pembelian = Rp108.000,00\n</li><li>c. keuntungan = Rp27.000,00\n</li><li>d. persentase keuntungan = 25%\n</li></ul><p>Seseorang akan <strong>mengalami keuntungan</strong> jika <em>harga penjualan lebih besar dari harga pembelian</em> atau <em>harga pembelian lebih kecil dari harga penjualan</em>, maka\n</p><ul><li>Untung = Harga jual \u2013 harga Beli\n</li><li>Untung = persentase untung \u00d7 harga beli\n</li></ul><p>maka\n</p><p>Persentase untung = [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100% \u00a0</p><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><p>Harag beli buku tulis = Rp54.000,00 per kardus\n</p><p>Setiap kardus berisi 50 buku tulis\n</p><p>Harga jual 1 buku tulis = Rp1.350,00\n</p><p></p><p><strong>Ditanyakan</strong>\n</p><p>a. harga penjualan\n</p><p>b. harga pembelian\n</p><p>c. keuntungan\n</p><p>d. persentase keuntungan\n</p><p></p><p><strong>Jawab\n</strong></p><p>Banyak total buku tulis\n</p><p>= 2 kardus \u00d7 50 buku\n</p><p>= 100 buku\n</p><p></p><p><strong>a. Harga Penjualan buku tulis\n</strong></p><p>= 100 buku \u00d7 Rp1.350,00\n</p><p>= <strong>Rp135.000,00\n</strong></p><p></p><p><strong>b. Harga pembelian buku tulis\n</strong></p><p>= 2 kardus \u00d7 Rp54.000,00\n</p><p>= <strong>Rp108.000,00\n</strong></p><p></p><p><strong>c. Keuntungan yang diperoleh\n</strong></p><p>= harga jual \u2013 harga beli\n</p><p>= Rp135.000,00 \u2013 Rp108.000,00\n</p><p>= <strong>Rp27.000,00\n</strong></p><p></p><p><strong>d. Persentase keuntungan yang diperoleh\n</strong></p><p>= [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27.000}{108.000}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27}{108}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{1}{4}[/tex] \u00d7 100%\n</p><p>= <strong>25%\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0</h3><p></p><p>Contoh soal lain tentang keuntungan\n</p><p>https://brainly.co.id/tugas/21047303\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel </strong>: Matematika \u00a0\n</p><p><strong>Kategori</strong> : Aritmatika Sosial\n</p><p><strong>Kode</strong> : 7.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-ratna-memupuk-13-tanaman-hias-menggunakan-8-ml-pupuk-cair-ji-363",
+            "question": "bu ratna memupuk 13 tanaman hias menggunakan 8 ml pupuk cair . jika bu ratna mempunyai 65 tanaman hias . pupuk cair yang ia perlukan sebanyak .... ml",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{13}{8} [/tex] x [tex] \\frac{65}{...} [/tex]<br><br>65 : 13 x 8 = 5 x 8 = 40 ml<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "13 = 8<br>65 = x<br><br>x = 65/13 x 8<br>\u00a0\u00a0 = 5 x 8<br>\u00a0\u00a0 = 40 ml<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-dari-x33-2x-32-23-568",
+            "question": "Penyelesaian dari x+3/3 - 2x-3/2\u00a0\u2264 2/3\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=x+1-2x-3/2<br>=x-2x+1-3/2<br>=-x + 2/2-3/2<br>=-x - 1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x-2x\u00a0\u2264 2/3 - 3/3 + 3/2<br>-x \u00a0 \u00a0\u00a0\u2264 -1/3 + 3/2<br>-x \u00a0 \u00a0 \u2264 -5/6<br>x \u00a0 \u00a0 \u00a0\u2264 5/6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jikaa-harga-1-gros-peniti-rp10800-maka-hargaa-perbuah-penitiiny-192",
+            "question": "Jikaa harga 1 gros peniti rp.10.800 maka hargaa perbuah penitiinya berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 gross= 144<br>144/10.800=Rp.750",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp.75<br>diketahui<br>harga peniti 1 gross =rp. 10.800<br>1 gross = 144 buah<br>jadi 10.800/144=rp.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-genap-yang-berurutan-adalah-126-aapabila-b-766",
+            "question": "jumlah tiga bilangan genap yang berurutan adalah 126. a.apabila bilangan genap yang pertama 2n,nyatakan bilangan kedua dan ketiga dalam n. b.tentukan ketiga bilangan itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jumlah tiga bilangan genap yang berurutan adalah 126</strong>. Bilangan genap adalah bilangan yang habis dibagi 2. Selisih antara dua bilangan genap berurutan adalah 2. Jadi, bilangan genap selalu bertambah 2 untuk menentukan bilangan genap berikutnya..</p><br><h3>Pembahasan</h3><br><p><strong>a. Apabila bilangan genap yang pertama 2n</strong>, maka</p><p>Bilangan kedua adalah <strong>(2n + 2)</strong></p><p>Bilangan ketiga adalah (2n + 2) + 2 = <strong>(2n + 4)</strong></p><br><p><strong>b. Tentukan ketiga bilangan itu</strong></p><p>Jumlah ketiga bilangan genap berurutan = 126</p><p>2n + (2n + 2) + (2n + 4) = 126</p><p>6n + 6 = 126</p><p>6n = 120</p><p><strong>n = 20</strong></p><br><ul><li>Bilangan pertama = 2n = 2(20) = 40</li><li>Bilangan kedua = 2n + 2 = 2(20) + 2 = 42</li><li>Bilangan ketiga = 2n + 4 = 2(20) + 4 = 44</li></ul><br><p>Jadi ketiga bilangan genap tersebut adalah</p><p><strong>40, 42, 44</strong></p><br><h3>Pelajari lebih lanjut </h3><br><p>Contoh soal lain tentang jumlah bilangan genap berurutan</p><p>https://brainly.co.id/tugas/270962</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 7</p><p><strong>Mapel</strong> : Matematika </p><p><strong>Kategori</strong> : Persamaan dan Pertidaksamaan linear satu variabel</p><p><strong>Kode</strong> : 7.2.6</p><br><p><strong>Kata Kunci </strong>: Jumlah tiga bilangan genap berurutan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lantai-sebuah-rumah-berukuran-panjang-8-m-dan-lebar-6-m-lantai-it-672",
+            "question": "lantai sebuah rumah berukuran panjang 8 m dan lebar 6 m lantai itu akan ditutup dengan ubin berukuran 30cm x 30cm hitunglah bnyk ubin yg digunakan untuk menutup lantai tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><br>ukuran lantai = 8m x 8m = 800cm x 600cm = 480000</p><p>ukuran ubi = 30 x 30 = 900</p><p>banyak nya ubi 480000/900 = 533,33 hasilnya 533,33cm ( JADIKAN TERBAIK )</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas lantai= 480000cm<br>keliling ubin= 4xs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x30=120cm<br>banyak ubin= 480000/120<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4000 ubin<br><br>kalo gak salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-berjalan-di-jalan-raya-jika-roda-mobil-tersebut-ber-515",
+            "question": "Sebuah mobil berjalan di jalan raya, jika roda mobil tersebut berjari-jari 35 cm dan roda tersebut berputar 2000 kali, maka jarak yang ditempuh adalah?    a. 4,4 km\r\n b. 6,6 km\r\n c. 8,8 km\r\n d. 13,2 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hitung keliling rodanya dulu..<br>[tex]K = 2 \\pi r[/tex]<br>[tex]K = 2. \\frac{22}{7} . 35 [/tex]<br>[tex]K = 220[/tex]<br><br>K x\u00a0n<br>220 x 2000<br>440000cm<br>4,4km\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "kll lingkaran = 2 \u00d7 \u03c0 \u00d7 r = 2 \u00d7 22/7 \u00d7 35 = 220cm\u00b2<br>jarak tempuh = kll lingkaran \u00d7 banyak putaran = 220 \u00d7 2000 = 440.000cm = 4,4 KM jawabannya adalah A<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "irsan-adalah-seorang-agen-minyak-tanah-bersubsididia-membeli-500-789",
+            "question": "irsan adalah seorang agen minyak tanah bersubsidi.dia membeli 500 liter minyak tanah.minyak itu kemudian di jual secara eceran denagn harga Rp.11.500,00 tiap liter.keuntungan yang di peroleh dari hasil penjualan seluruh minyak itu adalah Rp.200.000,00.berapa rupiahkah yang harus di keluarkan irsan untuk membeli moinyak tanah tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "500\u00a0X 11.500 = Rp. 5.750.000<br>harga pertama =\u00a0pendapatan - untung<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5.750.000 -\u00a0200.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp.\u00a05.550.000<br><br>jadi biaya yang dikeluarkan irsan untuk membeli minyak tanah sebesar Rp. 5.550.000<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "500x11500-200000 = 5750000 - 200000<br>= 5550000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [
+                "question-attachments/pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Sebuah segitiga, mempunyai total besar sudut sebanyak 180.<br>\u00a0Panjang PQ dan QR adalah SAMA.<br>Berarti sudut P dan sudut Q adalah SAMA.<br>\u00a0Maka, 180 - 112 = 68 drajat<br>68 : 2 = 34 derajat.<br>\u00a0Jadi, masing masing sudut P dan Q adalah 34 derajat.<br><br>*Pembuktian = 34 + 34 + 112 = 180",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-panjang-jari-jari-dua-buah-lingkaran-adalah-21-ten-869",
+            "question": "perbandingan panjang jari-jari dua buah lingkaran adalah 2:1. tentukan perbandingan antara keliling dan luasnya! tolong beri tahu caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "r1:r2= 2:1<br>k= 2:1<br>luas = 4:1<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "K1 : K2 = 2[tex] \\pi [/tex] r1 : 2[tex] \\pi [/tex] r2 ( karena k1 dan k2 samasama 2[tex] \\pi [/tex] , maka boleh dicoret.)<br>sehingga K1 : K2 = 2 : 1<br><br>L1 : L2 = [tex] \\pi [/tex] r1kuadrat : [tex]  \\pi [/tex] r2 kuadrat ( yang sama boleh dicoret lagi)<br>sehingga K1 : K2 = 4 : 1<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

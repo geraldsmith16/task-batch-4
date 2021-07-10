@@ -1,0 +1,146 @@
+{
+    "question": "Sebuah Trafo Memiliki kumparan primer 200 lilitan dan sekunder 1000 lilitan serta efisiensinya 60% Tentukan jenis trafo, perbandingan tegangan primer dan sekunder,arus primer sekunder dan daya primer sekunder",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tegangan = Np:Ns =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0200:1000 =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Vp : Vs = 1: 5<br>jenis trafo = Trafo step up<br>arus = Np: Ns = Is:Ip<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200 : 1000 = Is :Ip<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Is: Ip = 1 :5<br>daya nya aku enggak tau",
+            "attachments": []
+        },
+        {
+            "answer": "tegangan = Np:Ns =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0200:1000 =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Vp : Vs = 1: 5<br>jenis trafo = Trafo step up<br>arus = Np: Ns = Is:Ip<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200 : 1000 = Is :Ip<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Is: Ip = 1 :5<br>tekananya dengan rumus<br>P = W/t = i^2.R = V.i = V^2 / R</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "terdapat-kawat-lurus-dan-kawat-berbentuk-kumparan-yang-dialiri-ar-775",
+            "question": "terdapat kawat lurus dan kawat berbentuk kumparan yang dialiri arus sama besar . kawat manakah yang menghasilkan medan magnet lebih besar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kawat yang menghasilkan medan magnet lebih besar adalah kawat kumparan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-piston-dongkrak-hidrolik-dapat-mengangkat-benda-seberat-1t-880",
+            "question": "sebuah piston dongkrak hidrolik dapat mengangkat benda seberat 1ton dengan diameter piston 0,1m. jika luas penampang piston pengisap 0.01 m , hitunglah gaya minimal yang harus diberikan agar dapat mengangkat benda seberat itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m = 1 ton = 1000kg <br>F1= 1000kg * 10 m/s2 = 10.000 N<br>A1 = 0,1 m<br>A2 = 0,01 m<br>F2 = ?<br>jawab <br>F1/A1 = F2/A2<br>10.000 N /0,1 m = F2/0,01 m<br>10.000 N/ 0,1 m*0,01m = F2<br>10.000 N * 0,1 m = F2<br>1000 N = F2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ketika-ingin-membuat-magnet-dengan-cara-menggosok-harus-s-105",
+            "question": "Mengapa Ketika ingin membuat magnet dengan cara menggosok harus searah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena kalau tidak searah kekuatan magnet tidk dapat pindah.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena jika tidak searah tidak akan jadi magnet.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-perbedaan-dari-sistem-repirasi-aerob-sama-anaerob-507",
+            "question": "4 perbedaan dari\u00a0sistem repirasi aerob sama anaerob?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "respirasi aerob adalah respirasi yg memelukan oksigen sedangkan respirasi anaerob tidak membutuhkan oksigen setau aku sih gitu sorry kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurutku dari tempat berlangsung(Misal mitokondria) dan kapan terjadinya<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terdapat-4-termometer-skala-celcius-dengan-skala-terkecil-dan-ter-573",
+            "question": "Terdapat 4 termometer skala celcius dengan skala terkecil dan terbesarnya ditunjukkan pada tabel dibawah ini: Termometer A,B,C,D skala terkecil('C) 0,20,10,32 Skala terbesar('C) 100,37,60,45 termometer manakah yang paling sesuai untuk mengukur suhu tubuh manusia? Jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "termometer B<br>dari 20 terendah dan 37 tertinggi<br>karena suhu tubuh orang demam umumnya 37<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "termometer\u00a0yang tepat adalah termometer skala terkecil karena pada umumnya manusia memiliki termometer skala terkecil",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-gaya-gravitasi-di-permukaan-bulan-adalah-seperenam-kali-gay-826",
+            "question": "Besar gaya gravitasi di permukaan bulan adalah seperenam kali gaya gravitasi bumi. Bila massa benda 6 kg dan percepatan gravitasi bumi 9,8 m/s2 , maka berat benda di permukaan bulan adalah.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "percepatan gravitasi bulan= 1/6 x 9.8 = 9,8/6<br>w= m x g<br>= 6kg x 9,8/6<br>= 9,8 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rizki-dan-rizal-sedang-mendorong-sebuah-lemari-untuk-berpindah-s-569",
+            "question": "rizki dan rizal sedang mendorong sebuah lemari. untuk berpindah sejauh 2 m diperlukan usaha sebesar 1 kJ. jika rizal memberikan gaya 150 N, berapakah gaya yg harus diberikan rizki?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket = W= 1Kj=1000j<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F1=150N (rizal)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s=2m<br>dit = F2 (riski)....?<br>jawab= W=(F1+F2).s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1000=(150+F2).2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1000/2=150+F2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 500 =150+F2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F2 = 500-150<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F2= 350N<br>\u00a0MAKA GAYA YANG DI KELUARKAN RISKI SEBESAR 350N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "resultan-dua-gaya-yang-segaris-dan-searah-sama-dengan-340",
+            "question": "Resultan dua gaya yang segaris dan searah sama dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>resultan dua gaya yang segaris dan searah sama dengan jumlah kedua gaya tersebut.<br>semoga membantu :)<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "F1 + F2 =....<br>itu jawabannya karena searah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-tabel-hasil-percobaan-tentang-pemuaian-zat-cair-berik-383",
+            "question": "(Perhatikan tabel hasil percobaan tentang pemuaian zat cair berikut ini.)    Jenis Zat cair~Volume pada suhu30 derajad C(ml)~Volume pada suhu80derajad C(ml)\r\n\r\nAir \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0404,2\r\nMinyak goreng \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 414,5\r\n Alkohol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0422,0\r\na. Rumuskan masalah yang sesuai dengan tabel di atas!\r\nb. Berdasarkan masalah dan data tabel tersebut, apa kesimpulannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Masalah yang sesuai dengan tabel adalah <strong>perbedaan volume setelah zat cair dengan volume sama dipanaskan pada perubahan suhu yang sama.</strong></p><p>Kesimpulan berdasarkan masalah dari tabel adalah <strong>setiap zat cair memiliki koefisien muai volume yang berbeda - beda</strong></p><p><strong></strong></p><p><strong>Pembahasan</strong></p><p><strong></strong></p><p><strong>PEMUAIAN ZAT</strong></p><p><strong></strong></p><p>Benda apapun saat dipanaskan pada umumnya akan mengalami pemuaian. Ada tiga jenis pemuaian:</p><p>1. Pemuaian Panjang</p><p>\u0394L = Lo \u00d7 \u03b1 \u00d7 \u0394T</p><p>\u0394T = T akhir - T awal</p><p>L = Lo + \u0394L</p><p>L = Lo + Lo \u00d7 \u03b1 \u00d7 \u0394T</p><p>L = Lo (1 + \u03b1 \u00d7 \u0394T)</p><p>Dimana</p><p>L = panjang setelah pemanasan</p><p>Lo = panjang sebelum dipanaskan</p><p>\u03b1 = koefisien muai panjang(\\\u00b0C)</p><p>\u0394L = perubahan panjang</p><p>\u0394T = perubahan suhu</p><p></p><p>2. Pemuaian Luas</p><p>\u0394A = Ao \u00d7 \u03b2 \u00d7 \u0394T</p><p>A = Ao + \u0394A</p><p>A = Ao + Ao \u00d7 \u03b2 \u00d7 \u0394T</p><p>A = Ao (1 + \u03b2 \u00d7 \u0394T)</p><p>Dimana</p><p>A = luas setelah pemanasan</p><p>Ao = luas sebelum dipanaskan</p><p>\u03b2 = koefisien muai luas (\\\u00b0C)</p><p>\u0394A = perubahan luas</p><p>\u03b2 = 2 \u00d7 \u03b1</p><p></p><p>3. Pemuaian Volume </p><p>\u0394V = Vo \u00d7 \u03b3 \u00d7 \u0394T</p><p>V = Vo + \u0394V</p><p>V = Vo + Vo \u00d7 \u03b3 \u00d7 \u0394T</p><p>V = Vo (1 + \u03b3 \u00d7 \u0394T)</p><p>\u03b3 = 3 \u00d7 \u03b1</p><p>Dimana</p><p>V = volume setelah pemanasan</p><p>Vo = volume sebelum dipanaskan</p><p>\u03b3 = koefisien muai volume (\\\u00b0C)</p><p>\u0394V = perubahan volume</p><p><strong>Diket:</strong></p><p>To = 30 \u00b0C</p><p>Ta = 80 \u00b0C</p><p>Air \u21d2 Vo = 400 mL \u21d2 V = 404,2 mL</p><p>Minyak goreng \u21d2 Vo = 400 mL \u21d2 V = 414,5 mL</p><p>Alkohol \u21d2 Vo = 400 mL \u21d2 V = 422,0 mL</p><p><strong>Dit:</strong></p><p>A. Masalah yang sesuai dengan tabel ?</p><p>B. Kesimpulan dari masalah di A?</p><p><strong>Penjelasan:</strong></p><p>A. Perubahan suhunya semua sama.</p><p>\u0394T = Ta - To = 80 \u00b0C - 30 \u00b0C = 50 \u00b0C</p><p>Vo semua sama.</p><p>V berbeda - beda.</p><p><strong>Jadi masalah yang ada adalah perbedaan volume setelah zat cair dengan volume sama dipanaskan pada perubahan suhu yang sama.</strong></p><p></p><p>B. Berdasarkan rumus</p><p>V = Vo (1 + \u03b3 \u00d7 \u0394T) karena \u0394T dan Vo semua semua data sama, tetapi hasil V berbeda - beda, hal ini membuktikan bahwa hanya \u03b3 yang berbeda - beda pada setiap cairan.</p><p><strong>Kesimpulannya, setiap zat cair memiliki koefisien muai volume yang berbeda - beda.</strong></p><p><strong></strong></p><p><strong></strong></p><p>Pelajari lebih lanjut pada tugas</p><p>Pemuaian Panjang https://brainly.co.id/tugas/18455424</p><p>Pemuaian Zat Cair https://brainly.co.id/tugas/16747470</p><p>Pemuaian Volume Zat Padat https://brainly.co.id/tugas/23681687</p><p></p><p></p><p>Kategorisasi</p><p>Mapel : Fisika</p><p>Kelas : XI</p><p>Materi : Suhu dan Kalor</p><p>Kode Kategorisasi : 11.6.5.</p><p></p><p>Kata Kunci : Koefisien Muai Volume, Volume Awal, Volume Akhir, Perubahan Suhu</p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-disekitar-penghantar-digantungkan-sebuah-magnet-batangke-397",
+            "question": "Apabila disekitar penghantar digantungkan sebuah magnet    batang,kemudian penghantar itu dialiri listrik ternyata magnet bergerak. hal\r\n itu menunjukan\r\n\r\n \u00a0\r\n\r\n a. disekitar arus listrik terjadi medan magnet , b. medan\r\n listrik timbul karena medan magnet, c. disekitar medan magnet terjadi m,edan\r\n listrik d. medan magnet dan medan kistrik terjadi dalam waktu bersamaan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang C jawabannya :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "disekitar medan magnet terjadi arus listrik<br>C",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "sebuah transformator menurunkan tegangan listrik bolak-balik dari 220 volt menjadi 10 volt. efisiensi transformator 60%. bila kuat arus pada kumparan sekunder 6,6 ampere, maka kuat arus pada kumparan primernya adalah... A",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Efisiensi = [tex] \\frac{P s}{P p} [/tex]<br>P = V . I<br><br>Jadi, Efisiensi = [tex] \\frac{Vs . Is}{Vp . Ip} [/tex]<br>60 % = [tex] \\frac{10.6,6}{220.x} [/tex]<br>x = [tex] \\frac{6600}{13200} [/tex]<br>x = 0,5 A<br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "efisiensi=[tex] \\frac{Pkeluaran}{Ptotal} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = [tex] \\frac{Vs.Is}{Vp.Ip} [/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 60%\u00a0 =\u00a0  [tex] \\frac{10x6,6}{220xIp} [/tex] <br>\u00a0\u00a0 Ip\u00a0 \u00a0 \u00a0\u00a0 =\u00a0   [tex] \\frac{10x6,6}{220x60%} [/tex]\u00a0 = 0,5 A <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-menghitung-perbesaran-mikroskop-pada-mata-normal-754",
+            "question": "Cara menghitung perbesaran mikroskop pada mata normal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Pembesaran mikroskop adalah hasil kali pembesaran lensa objektif dan pembesaran lensa okuler, sehingga dirumuskan:<br><br><strong>M = Mob x Mok</strong><br><br>\u2192Pembesaran Mikroskop pada saat mata berakomodasi maksimum<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob ) x (Sn / fok ) + 1</strong><br><br><br>\u2192Pembesaran Mikroskop pada saat mata tidak berakomodasi<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob) x (Sn / fok)</strong><br><br>Keterangan:<br><strong>M= Perbesaran total</strong><br><strong>Mob = Perbesaran lensa objektif</strong><br><strong>Mok = Perbesaran lensa okuler</strong><br><strong>S&#039;ob = Jarak bayangan lensa objektif</strong><br><strong>Sob = Jarak benda dari lensa objektif</strong><br><strong>Sn = titik dekat mata (25cm)</strong><br><strong>fok = Fokus lensa okuler</strong><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bermassa-20-kg-massa-jenis-4000-kgm3-diikat-dengan-490",
+            "question": "Suatu benda bermassa 20 kg, massa jenis 4000 kg/m3, diikat dengan tali dan dimasukkan ke dalam bak yang berisi minyak (massa jenis minyak 800 kg/m3) hingga benda dalam keadaan tergantung (g=10m/s2). maka tegangan tali pada sistem ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D1 : massa jenis benda= 4000 kg.m^3 \u00a0 \u00a0 \u00a0 \u00a0 m = 20kg<br>\u00a0 \u00a0 \u00a0 \u00a0massa jenis fluida= 800 kg/m^3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s^2<br>D2 : T=..?<br>D3 : <br>V benda = m benda/massa jenis benda<br>V benda = 20/4000<br>V benda = 1/200 m^3<br>sigma F = 0<br>T + Fa = W<br>T + massa jenis fluida.volume benda.g = massa benda.g<br>T + 800.1/200.10 = 20.10<br>T + 40 = 200<br>T = 200-40<br>T = 160 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-daya-masukan-720-watt-tegangan-dan-arus-ke-464",
+            "question": "sebuah trafo memiliki daya masukan 720 watt. Tegangan dan arus keluaran dari trafo berturut-turut 72 V dan 6 A. Efisiensi trafo tersebut sebesar...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Pp = 720 Watt<br>\u00a0 \u00a0 \u00a0 V = 72 volt<br>\u00a0 \u00a0 \u00a0 \u00a0l = 6 A<br>Dit efisiensi ?<br>jawab<br>Rumus Pp = V.l<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 72 . 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 432<br><br>efisiensi = Ps / Pp x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 432 / 720 x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 %<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koefisien-momen-inersia-dari-batang-besi-yang-padat-dengan-panjan-254",
+            "question": "Koefisien momen inersia dari batang besi yang padat dengan panjang L adalah.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Koefisien momen inersia benda tegar, untuk batang kalo sumbunya melalui pusat itu 1/12, sedangkan kalau sumbunya diujung itu 1/3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung dari soal-soal nya\u00a0<br>kalau poros nya dari pusat \u00a0 I = 1/12 mLkuadrat<br>kalu poros nya dari ujung \u00a0 \u00a0 I = 1/3 mLkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-teropong-bintang-dapat-menghasilkan-perbesaran-bayangan-10-226",
+            "question": "sebuah teropong bintang dapat menghasilkan perbesaran bayangan 10kali. jika jarak fokus lensa obyektifnya 100cm, maka jarak antara lensa obyektif dan lensa okuler teropong itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=fob:fok<br>fok=fok:M<br>fok=100:10<br>fok=10<br>d=fob+fok<br>\u00a0 =100+10<br>\u00a0 =110 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-cepat-rambat-cahaya-di-air-186",
+            "question": "Rumus mencari cepat rambat cahaya di air",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = c/v\u00a0<br><span>===&gt;&gt;&gt; v = c/n\u00a0</span><br><span>dimana:\u00a0</span><br><br><span>n = indeks bias (udara=1) (air=1,33)\u00a0</span><br><span>c = kecepatan cahaya dalam ruang hampa (299,792,458 m/s ~ 2x10^8 m/s)\u00a0</span><br><span>v = cepat rambat cahaya pada suatu medium (udara, kaca, air, dst)\u00a0</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-10-contoh-fluida-dalam-kehidupan-sehari-hari-648",
+            "question": "Berikan 10 contoh fluida dalam kehidupan sehari-hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air, minyak, oli, minyak tanah, bensin, solarr, susu,, cairan pembersih piring, detergen cair",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>contoh-contoh fluida diabtaranya adalah : Minyak peluma, Susu dan air, Udara, Gas, Cairan.</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumys-triogonometri-sudut-negatif-548",
+            "question": "Rumys triogonometri sudut negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Kuadran IV : sudut dalam derajat 270\u00b0 &lt;\u00a0\u03b1 &lt; 360\u00b0 atau <br>sudut dalam radian 3\u03c0/2 &lt;\u00a0\u03b1 &lt; 2\u03c0<span><br>sin (360\u00b0 -\u00a0\u03b1) = sin (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sin (-\u03b1) = -sin \u03b1<br>cos (360\u00b0 -\u00a0\u03b1) = cos (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cos (-\u03b1) = cos \u03b1<br>tan (360\u00b0 -\u00a0\u03b1) = tan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>tan (-\u03b1) = -tan\u00a0\u03b1<br>cotan (360\u00b0 -\u00a0\u03b1) = cotan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cotan (-\u03b1) = -cotan\u00a0\u03b1<br>secan (360\u00b0 -\u00a0\u03b1) = secan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>secan (-\u03b1) = -secan \u03b1<br>sec (360\u00b0 -\u00a0\u03b1) = sec (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sec (-\u03b1) = sec\u00a0\u03b1<br><br>Contoh :\u00a0<br></span><span>sin (-35)</span>\u00b0 = -sin 35\u00b0<br><span>cos (-26)</span>\u00b0 = cos 26\u00b0<br><span>tan (-</span>\u03c0/5) = -tan\u00a0\u03c0/5<br><span><br>Semangat!<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-invers-jika-fx-x2-2x-3-792",
+            "question": "Tentukan invers jika f(x) = x2 - 2x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x2 - 2x - 3 mungkin soalnya seperti ini\u00a0f(x) = x\u00b2<span>\u00a0- 2x - 3<br>maka :<br></span>f(x) = x\u00b2\u00a0- 2x - 3<br>\u21d2 y =\u00a0x\u00b2\u00a0- 2x - 3 + 4<br>\u21d2 y = (x - 1)\u00b2 + 4<br>\u21d2\u00a0(x - 1)\u00b2 \u00a0= y + 4<br>\u21d2 x - 1 =\u00a0[tex] \\sqrt{y + 4} [/tex]<br>\u21d2 x\u00a0=\u00a0[tex] \\sqrt{y + 4} [/tex] + 1<br>\u21d2 f\u00a0\u207b\u00a0\u2081 (x) =\u00a0[tex]\\sqrt{x + 4}   + 1[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tumpukan-beberapa-lembar-kertas-dipotong-menjadi-2-bagian-yang-sa-340",
+            "question": "tumpukan beberapa lembar kertas dipotong menjadi 2 bagian yang sama. kemudian, kertas tersebut ditumpuk dan dipotong lagi menjadi 2 bagian, begitu seterusnya. pada potongan yang ketiga jumlah kertas menjadi 160 lembar. banyak kertas pada potongan yang ketujuh adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Barisan dan Deret<br>Kelas : 2 SMA/XI SMA<br><br>Pembahasan :<br><br>Misalkan ada n tumpukan kertas.<br>Potongan 1 = 2n<br>Potongan 2 = 4n<br>Potongan 3 = 8n<br><br>Sehingga:<br>8n = 160<br>n = 160/8 <br>\u00a0 \u00a0=\u00a020<br><br>Maka, potongan ketujuh adalah :<br><span>U\u2087 =\u00a02\u2077.n <br>\u00a0 \u00a0 \u00a0\u00a0= 128\u00a0.\u00a020 <br>\u00a0 \u00a0 \u00a0\u00a0= 2.560 lembar</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx2x5-dan-gx4-x-tentukan-a-fog-x-b-gof-780",
+            "question": "Diketahui = f(x)=2x+5 dan g(x)=4-x Tentukan = a. fog (x) b. gof (x) c. fog ( -2) d. gof (-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab :<br>a) fog (x) = f(g(x))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f(4-x)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2(4-x)+5 = 8-2x+5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =13-2x<br>b) gof (x) = g (f (x) )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (2x+5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1(2x+5)+4 = -2x-5 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = -2x-1<br>c)fog (-2) = f(g (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0\u00a0  f (4(2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2(8) + 5 = 21<br>d) gof (-2) = g (f (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g(5(-4))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1 (-20) +4 = 24<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-limit-berikut-1-lim-x3-x3-3x22x-6-x-359",
+            "question": "Hitunglah nilai limit berikut :    1). lim (x\u21d23) X\u00b3-3X\u00b2+2X-6: X+4\r\n2). lim (X\u21d20) X\u00b3-5X+5: X\u00b2-2X+3\r\nc). lim (X\u21d2-1) 2X+1: X\u00b2-3X+4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) lim x-&gt; 3 \u00a0 (x^3 - 3x^2 + 2x - 6) / (x + 4)<br>harus ada yang dihilangkan (malas ketikknya :3, sorry )<br><br>2) lim x-&gt;0 \u00a0 \u00a0(x^3 - 5x + 5) / (x^2 - 2x + 3)<br>lim x-&gt;0 \u00a0 \u00a05/3<br><br>3) lim x-&gt;-1 \u00a0 (2x+1) / (x^2 - 3x + 4)<br>lim x-&gt;-1 \u00a0 (-1) / (8)<br>hasil -&gt; -1/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-terdiri-dari-4-angka-disusun-dari-angka-angka-12345-254",
+            "question": "Bilangan terdiri dari 4 angka disusun dari angka-angka 1,2,3,4,5,6 dan 7. Banyak susunan bilangan dengan angka-angka yang berlainan (angka-angkanya tidak boleh berulang) adalah.... \u00a0 A. 20 B. 40 C. 80 D. 120. E. 360 \u00a0 Mohon bantuan +caranya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika benar itu terdiri dari angka 1 sampai 7 , maka jawabannya :<br><br>7 x 6 x 5 x 4 = 840\u00a0<br>jawabannya tdk ada di opsinya<br><br>tp jika terdiri dari angka 1 sampai 6 , maka jawabannya :<br><br>6 x 5 x 4 x 3 = 360\u00a0<br>jawaban E\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 sampai 7 <br>7 x 6 x 5 x 4 =840<br><br>1 sampai 6 <br>6 x 5 x 4 x 3 = 360<br><br>1 sampai 5<br>5 x 4 x 3 x 2 = 120<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kabel-akan-dipotong-menjadi-tujuh-bagian-panjang-dari-mas-661",
+            "question": "seutas kabel akan dipotong menjadi tujuh bagian. panjang dari masing-masing kabel membentuk\u00a0 barisan geometri . jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas kabel akan dipotong menjadi 7 bagian. Panjang dari masing-masing kabel membentuk \u00a0barisan geometri . Jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...</p><p><strong>Barisan geometri </strong>adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p><strong>Deret geometri </strong>adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>Banyak kabel dipotong (n) = 7</p><p>Panjang kabel terpendek (a) = 5 cm</p><p>Panjang kabel terpanjang (Un) = 320 cm</p><p>Ditanya :</p><p>Panjang kabel semula (Sn)?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio</strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>320 = 5 r\u2077\u207b\u00b9</p><p>320 = 5 r\u2076</p><p> \u00a0 \u00a0r\u2076 = [tex]\\frac{320}{5}[/tex]</p><p> \u00a0 \u00a0r\u2076 = 64</p><p> \u00a0 \u00a0r\u2076 = 2\u2076</p><p> \u00a0 \u00a0 r = 2</p><p>Jadi rasio = 2</p><p></p><ul><li><strong>Menentukan panjang kabel semula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2087 = [tex]\\frac{5 (2^{7} - 1)}{2 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{5 (128 - 1)}{1}[/tex]</p><p> \u00a0 \u00a0 = 5 \u00d7 127</p><p> \u00a0 \u00a0 = 635</p><p>Jadi panjang kabel tersebut adalah 635 cm atau 6,35 m</p><p></p><p>-------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri </h3><ol><li>Seutas tali dipotong menjadi 5 bagian. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula \u2192 https://brainly.co.id/tugas/39374</li><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang kabel semula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-setiap-bentuk-berikut-cos-90-a-sin-90-a-202",
+            "question": "Sederhanakan setiap bentuk berikut\r\ncos (90\u00b0-\u03b1\u00b0)\r\nsin (90\u00b0-\u03b1\u00b0)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos (90 - a) = cos 90 cos a + sin 90 sin a \n=&gt; 0.cos a + 1.sin a = sin a\nsin (90 - a) =  sin 90 cos a - cos 90 sin a \n=&gt; 1.cos a - 0.sin a = cos a\n\ncos (90 - a)\n----------------\nsin (90 - a)\n\nsin a\n-----------\ncos a\n\ntan a",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

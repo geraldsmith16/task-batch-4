@@ -1,0 +1,132 @@
+{
+    "question": "Jika keliling lingkaran adalah 22 cm dan sudut POQ adalah 80, maka panjang busur PQ adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik K = 22 cm, &lt;POQ=80drajat<br>dit panjang busur PQ ?<br>jwb : panjang busur PQ = 80/360 x k<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2/9 x 22<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4,88=4,9 cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-500",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas 8 Matematika<br>Bab Garis dan Sudut<br><br>\u0394 PQR adalah segitiga sama kaki<br>PQ = QR, maka sudut P = sudut R<br><br>Sudut P + sudut Q + sudut R = 180\u00b0<br>Sudut P + 112\u00b0 + sudut P = 180\u00b0<br>2 . sudut P = 180\u00b0 - 112\u00b0<br>Sudut P = 68\u00b0/2<br>Sudut P = 34\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167",
+            "question": "keliling sebuah belahketupat 100cm dan panjang salah satu diagonalnya 48cm. luas belahketupat tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Keliling sebuah belahketupat 100 cm dan panjang salah satu diagonalnya 48 cm. Luas belahketupat tersebut adalah [tex]\\displaystyle\\boxed{\\sf 336~cm^2} [/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Segi empat</strong> adalah bangun datar yang memiliki empat sisi dan empat sudut. Contoh bangun datar yang dikatakan segi empat, antara lain: persegi, persegi panjang, jajar genjang, belah ketupat, layang-layang, dan trapesium.</p><p>Adapun sifat-sifat <strong>belah ketupat</strong>, antara lain :</p><ul><li>Keempat sisinya sama panjang;</li><li>Sudut-sudut yang berhadapan sama besar;</li><li>Kedua diagonalnya saling tegak lurus dan saling membagi dua sama panjang;</li><li>Memiliki 2 simetri lipat dan 2 simetri putar.</li></ul><p>Untuk menyelesaikan soal ini kita akan menggunakan <strong>rumus</strong> berikut, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Keliling} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf K = 4 \\times s}} [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Luas} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf L = \\dfrac{1}{2} \\times d_1 \\times d_2}} [/tex]</p><p>dimana :</p><p>\u25cb L = luas belah ketupat</p><p>\u25cb K = keliling belah ketupat</p><p>\u25cb s = panjang sisi belah ketupat</p><p>\u25cb d\u2081 = diagonal belah ketupat</p><p>\u25cb d\u2082 = diagonal belah ketupat </p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>[tex]\\displaystyle\\sf K = 100~cm [/tex]</li><li>[tex]\\displaystyle\\sf d_1 = 48~cm [/tex]</li></ul><p><strong>Ditanya : </strong>Luas (L) = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan panjang sisi belah ketupat (s)</strong></p><p>[tex]\\displaystyle\\sf 4 \\times s = K [/tex]</p><p>[tex]\\displaystyle\\sf 4 \\times s = 100 [/tex]</p><p>[tex]\\displaystyle\\sf s = \\frac{100}{4} [/tex]</p><p>[tex]\\displaystyle\\sf s = 25~cm [/tex]</p><p>diperoleh: s = 25 cm</p><p>\u2756 <strong>Menentukan panjang diagonal salah satunya (d\u2082)</strong></p><p>Perhatikan segitiga siku-siku yang diarsir pada lampiran, kita akan mencari x dengan menggunakan teorema Pythagoras.</p><p>[tex]\\displaystyle\\sf x = \\sqrt{25^2 - 24^2} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{625 - 576} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{49} [/tex]</p><p>[tex]\\displaystyle\\sf x = 7~cm [/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\sf d_2 = 2x [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 2 \\times 7 [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 14~cm [/tex]</p><p>diperoleh: d\u2082 = 14 cm</p><p>\u2756 Sehingga, <strong>luas belah ketupat </strong>tersebut</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times d_1 \\times d_2 [/tex]</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times 48 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\sf L = 24 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\boxed{\\sf L = 336~cm^2} [/tex]</p><p>\u2234 <strong>Kesimpulan : </strong>Jadi, luas belah ketupat tersebut adalah 336 cm\u00b2.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>segiempat dan segitiga</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Sebuah taman berbentuk persegi panjang berukuran 30 m \u00d7 18 m. Disekeliling taman dipasang tiang lampu dengan jarak antar lampu 6 meter. Jika harga tiap tiang lampu Rp200.000,00 per tiang, maka biaya yang diperlukan seluruhnya adalah <strong><em>brainly.co.id/tugas/5481048</em></strong></li><li>Jika pada jajar genjang ABCD, besar \u2220A = (3x + 2)\u00b0 dan \u2220D = (2x + 18\u00b0) maka nilai x adalah <strong><em>brainly.co.id/tugas/14772998</em></strong></li><li>Diketahui jajaran genjang PQRS dengan \u2220Q = (5x \u2013 4)\u00b0. Jika besar \u2220P = 7/8 \u2220Q, maka nilai x adalah <strong><em>brainly.co.id/tugas/130684</em></strong></li></ul><h3>____________________________</h3><h3>DETAIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 4 - Segiempat dan Segitiga</p><p><strong>Kode :\u00a0</strong>7.2.4</p><p><strong>Kata kunci : </strong>segiempat, belah ketupat, luas, keliling, diagonal, panjang sisi, segitiga siku-siku, teorema pythagoras</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": [
+                        "answer-attachments/keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-lingkaran-yg-kelilingnya-sebagai-berikut-a-88c-529",
+            "question": "hitunglah luas lingkaran yg kelilingnya sebagai berikut \u00a0 a) 88cm\u00a0\u00a0\u00a0\u00a0 b) 94,2cm \u00a0 \u00a0 \u00a0 \u00a0 c) 188,4cm \u00a0\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) k = 2 \\pi r \\\\ 88=2 \\frac{22}{7} r \\\\ r=88 \\frac{7}{44}  \\\\ r=14 \\\\  \\\\ L= \\pi r^{2} \\\\ L= \\frac{22}{7} 14^{2}  \\\\ L=\\frac{22}{7}196 \\\\ L=616 cm^{2}  \\\\  \\\\ b) k = 2 \\pi r \\\\ 94,2=2 \u00d7 3,14r  \\\\ r=94,2:6,28 \\\\ r=15 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 15^{2}  \\\\ L=3,14 \u00d7  225 \\\\ L=706,5 cm^{2}  \\\\  \\\\ c) k = 2 \\pi r \\\\ 188,4=2 \u00d7 3,14r  \\\\ r=188,4:6,28 \\\\ r=30 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 30^{2}  \\\\ L=3,14 \u00d7  900 \\\\ L=2.826 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-10-kg-gram-kuning-telur-ayam-mengandung-kolestrol-2000-mg-229",
+            "question": "setiap 10 kg gram kuning telur ayam mengandung kolestrol 2000 mg. berapa kolestrol yang terkandung dalam 150 gram kuning telur",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Setiap 10 gram kuning telur ayam mengandung kolestrol 2000 mg. berapa kolestrol yang terkandung dalam 150 gram kuning telur ...</p><p><strong>Perbandingan \u00a0senilai </strong>adalah perbandingan antara dua besaran dengan \u00a0ketentuan jika yang satu diperbesar (diperkecil) maka yang kedua juga membesar \u00a0(mengecil), begitu pula sebaliknya.</p><h2>Pembahasan</h2><p>Diketahui :</p><p>10 gram kuning telur mengandung kolesterol 2000 mg</p><p>Ditanya :</p><p>kandungan kolesterol dalam 150 g kuning telur ?</p><p>Jawab : </p><p>[tex]\\frac{Berat~ kuning~ telur~ I}{Berat~ kuning ~ telur ~II} = \\frac{kolesterol~ I}{kolesterol ~II}[/tex]</p><p>[tex]\\frac{10}{2000} = \\frac{150}{x}[/tex]</p><p>10 x = 2000 \u00d7 150</p><p>10 x = 300.000</p><p> \u00a0 \u00a0 x = 300.000 / 10</p><p> \u00a0 \u00a0 x = 30.000 mg</p><p>Jadi kolestrol yang terkandung dalam 150 gram kuning telur adalah 30.000 mg.</p><br><h3>Pelajari lebih lanjut tentang Perbandingan</h3><ol><li>Contoh soal perbandingan dua besaran dengan satuan yang berbeda \u2192 brainly.co.id/tugas/14671457</li><li>Perbandingan umur edi dengan umur ayah adalah 2:6. jika umur ayah 42 tahun \u2192 https://brainly.co.id/tugas/7514553</li><li>Mahmud suka sekali jus buah, terutama jus jambu dan wortel. Untuk membuat segelas jus jambu-wortel, dia mencampur 2 ons jambu dan 5 ons wortel. \u2192 brainly.co.id/tugas/13876102</li><li>Tabel 5.2 situasi perbandingan senilai( proporsi) dan bukan \u2192 brainly.co.id/tugas/13801155</li><li>Panjang dan lebar sebuah rumah adalah 25 m dan 15 m. Jika digambar dengan skala 1 : 200 maka panjang dan lebar rumah \u2192 brainly.co.id/tugas/7191140</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 7 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 5 - Perbandingan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 7.2.5 \u00a0</li><li>Kata kunci : perbandingan, kuning telur ayam, mengandung kolesterol</li></ul><br><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-hamid-menjual-sepeda-motor-seharga-rp-1080000000-dengan-911",
+            "question": "Pak hamid menjual sepeda motor seharga RP 10.800.000,00 .    dengan kerugian 10%.harga pembelian motor pak hamid adalah.....?????\r\n\r\nMOHON DI JAWAB YHA TEMAN,JANGAN LUPA PAKAI CARA YHA......\r\nAKU TUNGGUUUUUUUU......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.800.000=90%<br>Kita cari 10%nya<br>Berarti\u00a0<br>10.800.000:90=1.200.000<br>berarti 10% nya adalah 1.200.000<br>Harga pembelian motornya adalah 1.200.000 x 10 = 12.000.000<br>Maaf kalo caranya gajelas gitu._.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-0261220-adalah-540",
+            "question": "Rumus suku ke-n dari barisan 0,2,6,12,20 adalah..........?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>0</strong>\u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 12\u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0\u00a0<strong> 2</strong>\u00a0 \u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  8<br>\u00a0\u00a0 \u00a0 \u00a0 <strong>\u00a0 2</strong>\u00a0 \u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 2 <br><br>a = 0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b = 2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  c = 2<br><br>Un = a + (n - 1)b + 1/2 (n\u00b2 - 3n + 2) c<br>Un = 0 + (n - 1) 2 + 1/2 (n\u00b2 - 3n + 2) 2<br>Un = 2n - 2 + n\u00b2 - 3n + 2<br>Un = n\u00b2 - n = n (n - 1)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-ukuran-diagonal-diagonal-suatu-belahketupat-yang-memilik-550",
+            "question": "Tentukan ukuran diagonal-diagonal suatu belahketupat yang memiliki luas 48 Cm2?? Mohon dijawab:)), thanks b4^^:*",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3><u>JAWABAN:</u></h3><ul><li><strong>Perbandingan (1 : 1) \u21d2 d\u2081 = 4\u221a6 cm</strong> dan <strong>d\u2082 = 4\u221a6 cm</strong></li><li><strong>Perbandingan (1 : 2) \u21d2d\u2081 = 4\u221a3 cm</strong> dan <strong>d\u2082 = 8\u221a3 cm</strong></li><li><strong>Perbandingan (2 : 3) \u21d2d\u2081 = 8 cm</strong> dan <strong>d\u2082 = 12 cm</strong></li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>PEMBAHASAN:</strong></p><ul><li><strong> Bangun Belah Ketupat</strong> <u><em>(rhombus)</em></u> adalah bangun datar berbentuk dua dimensi yang terbentuk dari 4 \u00a0sisi yang sama panjang dan mempunyai 2 pasang sudut dengan sudut yang saling berhadapan berukuran sama besar</li></ul><p><u><strong>Sifat- sifat Belah Ketupat (rhombus):</strong></u></p><ul><li>keempat sisinya sama panjang</li><li>mempunyai 2 diagonal yang saling tegak lurus</li><li>sudut yang saling berhadapan memiliki besar yang sama</li><li>keempat jumlah titik sudutnya sebesar 360\u00b0</li><li>mempunyai 2 sumbu simetri yang merupakan panjang diagonalnya</li></ul><p></p><h3><u><strong>RUMUS-RUMUS YANG DIGUNAKAN:</strong></u></h3><h3><u><strong></strong></u></h3><h2> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 K = 4 x s</h2><p></p><h2> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>L = \u00a0</strong>[tex]\\frac{1}{2}[/tex]<strong> \u00a0x d\u2081 x d\u2082</strong></h2><h2><strong></strong></h2><h3>Ketertangan:</h3><ul><li>K = keliling</li><li>L = luas</li><li>s \u00a0= panjang sisi-sisinya</li><li>d\u2081 = panjang diagonal 1</li><li>d\u2082 = panjang diagonal 2</li></ul><p></p><h3><u>PENYELESAIAN:</u></h3><p>Dari soal diperoleh:</p><ul><li>L = 48 cm\u00b2</li></ul><p><strong>Ditanya:</strong></p><ul><li>d\u2081 dan d\u2082 = ....... ?</li></ul><p></p><p>gunakan rumus luas belah ketupat \u00a0\u21d2 \u00a0<strong>L = \u00a0</strong>[tex]\\frac{1}{2}[/tex]<strong> \u00a0x d\u2081 x d\u2082</strong></p><p>48 = <strong> </strong>[tex]\\frac{1}{2}[/tex]<strong> </strong>x d\u2081 x d\u2082</p><p>d\u2081 x d\u2082 = 48 x 2</p><p><strong>d\u2081 x d\u2082 = 96 .......................... persamaan I</strong></p><p><strong></strong></p><p>untuk menentukan panjang d\u2081 dan d\u2082 kita gunakan perbandingan yang umum diapakai dalam bentuk belah ketupat yaitu:</p><ul><li> 1 : 1</li><li> 1 : 2</li><li> 2 : 3</li></ul><p></p><h3><u>PERBANDINGAN ( </u><u><strong>1 : 1 ):</strong></u></h3><p><strong>d\u2081 = d\u2082 </strong> \u21d2 substitusi ke <strong>persamaan I</strong></p><p>d\u2082 x d\u2082 = 96</p><p>(d\u2082)\u00b2 = 96</p><p>d\u2082 = \u221a96</p><p>d\u2082 = \u221a(16 x 6)</p><p>d\u2082= 4\u221a6 cm</p><ul><li>maka diperoleh, <strong>d\u2081 = 4\u221a6 cm</strong> dan <strong>d\u2082 = 4\u221a6 cm</strong></li></ul><h3><u><strong></strong></u></h3><h3><u><strong>PERBANDINGAN ( 1 : 2 ):</strong></u></h3><p>d\u2081 : d\u2082 = 1 : 2</p><p><strong>d\u2082 = 2d\u2081 \u00a0</strong> \u21d2 substitusi ke <strong>persamaan I</strong></p><p>d\u2081 x 2d\u2081 = 96</p><p>2(d\u2081)\u00b2 = 96</p><p>(d\u2081)\u00b2 = 96/2</p><p>d\u2081 = \u221a48</p><p>d\u2081 = \u221a(16 x 3)</p><p><strong>d\u2081 = 4\u221a3 cm</strong></p><p></p><p>d\u2082 = 2 x d\u2081</p><p>d\u2082 = 2 x 4\u221a3</p><p><strong>d\u2082 = 8\u221a3 cm</strong></p><ul><li>maka diperoleh, <strong>d\u2081 = 4\u221a3 cm</strong> dan <strong>d\u2082 = 8\u221a3 cm</strong></li></ul><p><strong></strong></p><h3><u><strong>PERBANDINGAN ( 2 : 3 )</strong></u></h3><p>d\u2081 : d\u2082 = 2 : 3</p><p>2d\u2082 = 3d\u2081</p><p><strong>d\u2082 = </strong>[tex]\\frac{3}{2}[/tex]<strong> d\u2081</strong> \u21d2 substitusi ke <strong>persamaan I</strong></p><p>d\u2081 x <strong> </strong>[tex]\\frac{3}{2}[/tex]<strong> </strong>d\u2081 = 96</p><p> <strong> </strong>[tex]\\frac{3}{2}[/tex]<strong> \u00a0</strong>(d\u2081)\u00b2 = 96</p><p>(d\u2081)\u00b2 = 96 x [tex]\\frac{2}{3}[/tex]</p><p>(d\u2081)\u00b2 = 64</p><p>d\u2081 = \u221a64</p><p><strong>d\u2081 = 8 cm</strong></p><p></p><p>d\u2082 = [tex]\\frac{3}{2}[/tex] d\u2081 </p><p>d\u2082 = \u00a0[tex]\\frac{3}{2}[/tex] x 8</p><p><strong>d\u2082 = 12 cm</strong></p><ul><li>maka diperoleh, <strong>d\u2081 = 8 cm</strong> dan <strong>d\u2082 = 12 cm</strong></li></ul><p><strong></strong></p><h3><u><strong>KESIMPULAN:</strong></u></h3><p>maka untuk memperoleh panjang diagonal- diagonal pada belah ketupat pada soal ini kita tentukan perbandingan yang umum dipakai dalam menetukan bentuk belah ketupat tersebut, yaitu:</p><ul><li><strong>Perbandingan (1 : 1) \u21d2 d\u2081 = 4\u221a6 cm</strong> dan <strong>d\u2082 = 4\u221a6 cm</strong></li><li><strong>Perbandingan (1 : 2) \u21d2d\u2081 = 4\u221a3 cm</strong> dan <strong>d\u2082 = 8\u221a3 cm</strong></li><li><strong>Perbandingan (2 : 3) \u21d2d\u2081 = 8 cm</strong> dan <strong>d\u2082 = 12 cm</strong></li></ul><p><strong></strong></p><p><strong></strong></p><h3><u><strong>PELAJARI LEBIH LANJUT:</strong></u></h3><p>Tentang belah ketupat:</p><ul><li>https://brainly.co.id/tugas/5022018</li><li>https://brainly.co.id/tugas/2204144</li></ul><p></p><p><strong>___________________________________</strong></p><h3><u><strong>Detail jawaban:</strong></u></h3><ul><li>Mapel : Matematika \u00a0</li><li>Kelas : V</li><li>Bab : 3</li><li>Materi : Luas Bangun Datar Sederhana</li><li>Kode Kategorisasi : 5.2.3</li><li>Kata kunci : diagonal belah ketupat</li></ul><p><strong></strong></p><p>by: richanRED</p><h3>#OptiTeamCompetition</h3>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-jajar-genjang-pqrs-panjang-pq-3x-38-cm-dan-panjan-r-825",
+            "question": "Pada Jajar Genjang PQRS, panjang PQ = ( 3x - 38 ) cm dan panjan RS = ( x + 9 ) cm. Panjang sisi PQ sama dengan... kasih tau sekalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna sisi PQ dan RS berhadapan, maka sisinya sma panjang<br>PQ=RS<br>3x-5=x+9<br>3x-x=9+5<br>2x=14<br>x=7<br><br>panjang PQ<br>=3x-5<br>=3(7)-5<br>=21-5<br>=16cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pada Jajar Genjang PQRS, panjang PQ = ( 3x - 5 ) cm dan panjan RS = ( x + 9 ) cm.\u00a0<br><br>panjang RS=PQ<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x+9=3x-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2x=-9-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0</span>[tex] \\frac{-14}{-2x} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x= 7<br><br>Panjang PQ =3x-5 = (3 x 7)-5 = 21-5 =16",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradiengaris-dengan-persamaan-3x-6y-5-adalah-380",
+            "question": "Gradiengaris dengan persamaan 3x-6y=-5 adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gradien (m) =-a/b=-3/-6=1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-sebuah-fungsi-adalah-fx-1-2x2-nilai-f-2-adalah-664",
+            "question": "Rumus sebuah fungsi adalah f(x) = 1-2x\u00b2\r\n nilai f (-2) adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(-2) =1-2(-2)^2\n         =1-8\n         =-7",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2)= 1-2(-2^2)<br>f(-2)= 1-2(4)<br>f(-2)= 1-8<br>f(-2)= -7<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

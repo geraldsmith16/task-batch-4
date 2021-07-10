@@ -1,0 +1,134 @@
+{
+    "question": "20 sen malasyia berapa rupiah ya? 10 sen singapura berapa rupiah ya?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "20 sen malaysia = brp rupiah?<br><br>1 ringgit = 3.280,59<br>1 ringgit = 100 sen<br><strong>20 sen</strong> = 20% x 1 ringgit<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 20% x 3.280,59<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>  = 656,12 rupiah</strong><br><br>10 sen singapura = brp rupiah?<br><br>1 dollar singapura = 9.897,21 rupiah<br>1 dolar = 100 sen<br><strong>10 sen</strong> = 10% x 1 dolar<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 10% x 9.897,21<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <strong>= 989,721 rupiah</strong><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "umur-adik-3-tahun-lebih-muda-dari-umur-kakak-jika-jumlah-umur-me-720",
+            "question": "Umur adik 3 tahun lebih muda dari umur kakak. jika jumlah umur mereka 19 tahun. tentukan umur adik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Misalkan, umur kakak = K<br>Umur adik berarti, K - 3<br><br>Karena jumlah umur mereka = 19 tahun.<br>Maka, K + K - 3 = 19 tahun<br>2 K = 22 tahun<br>K = 11 tahun<br><br>Jadi, adik = K -3 = 11 -\u00a03 = 8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Adik = K - 3<br>Jumlah umur mereka : A + K = 19<br>A ?<br>A + K = 19<br>(K - 3) + K = 19<br>2K - 3 = 19<br>2K = 19 + 3<br>K = 22 : 2<br>K = 11<br><br>Adik : K - 3 =&gt; 11 - 3 = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-0261220-adalah-540",
+            "question": "Rumus suku ke-n dari barisan 0,2,6,12,20 adalah..........?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>0</strong>\u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 12\u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0\u00a0<strong> 2</strong>\u00a0 \u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  8<br>\u00a0\u00a0 \u00a0 \u00a0 <strong>\u00a0 2</strong>\u00a0 \u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 2 <br><br>a = 0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b = 2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  c = 2<br><br>Un = a + (n - 1)b + 1/2 (n\u00b2 - 3n + 2) c<br>Un = 0 + (n - 1) 2 + 1/2 (n\u00b2 - 3n + 2) 2<br>Un = 2n - 2 + n\u00b2 - 3n + 2<br>Un = n\u00b2 - n = n (n - 1)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3x210x-8-adalah-164",
+            "question": "Bentuk sederhana dari 3x\u00b2+10x-8\u00a0 adalah..\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 9x\u00b2-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3 x^{2} +10x -8}{9 x^{2} -4}\n= \\frac{(3x-2)(x+4}{(3x-2)(3x+2)}\n= \\frac{x+4}{3x+2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berbentuk-lingkaran-ketika-berputar-100-kali-benda-896",
+            "question": "Sebuah benda berbentuk lingkaran. Ketika berputar 100 kali, benda tersebut dapat menempuh jarak 176 cm. Hitunglah : a. Diameter benda dengan pi=3,14 b. Luas permukaan benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K = \u03c0d<br>176 = 100K<br>176 = 100(3,14d)<br>176 = 314d<br>d = 176/314 = 0,56<br><br>r = 1/2 d = 0.28<br><br>L = \u03c0r\u00b2<br><br>= 3,14(0.28)\u00b2<br>=3,14 x 0,0784<br>=0,246176<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-sisi-dan-rusuk-pada-prisma-dengan-alas-segi-7-adalah-a-519",
+            "question": "Banyak sisi dan rusuk pada prisma dengan alas\u00a0segi 7 adalah:    A. 8 dan 14\r\nB. 9 dan 14\r\nC. 8 dan 21\r\nD. 9 dan 21",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Banyak sisi dan rusuk pada prisma dengan alas segi 7</strong> adalah 9 dan 21. <strong>Prisma</strong> merupakan salah satu contoh dari bangun ruang. <strong>Prisma</strong> adalah bangun ruang yang dibatasi oleh dua buah sisi yang sejajar dan kongruen sebagai sisi alas dan sisi atas, serta sisi-sisi tegak yang berbentuk persegi panjang sebagai sisi selimut. <strong>Unsur-unsur pada prisma</strong> terdiri dari rusuk, sisi (bidang) dan titik sudut. \u00a0Pada <strong>prisma segi n beraturan</strong>, memiliki\n</p><ul><li>Sisi sebanyak (n + 2) buah\n</li><li>Rusuk sebanyak (3n) buah\n</li><li>Titik sudut sebanyak (2n) buah\n</li></ul><br><h3>Pembahasan\n</h3><br><p>Pada prisma segi 7 \u21d2 \u00a0<strong>n = 7\n</strong></p><br><p><strong>Banyak sisi \u00a0</strong></p><p>= (n + 2) buah \u00a0</p><p>= (7 + 2) buah\n</p><p>= <strong>9 buah sisi\n</strong></p><br><p><strong>Banyak rusuk\n</strong></p><p>= 3n buah \u00a0</p><p>= 3(7) buah\n</p><p>= <strong>21 buah rusuk</strong></p><br><p><strong>Banyak titik sudut\n</strong></p><p>= 2n buah\n</p><p>= 2(7) buah\n</p><p>= 14 buah titik sudut</p><br><p>Jadi <strong>banyaknya sisi dan rusuk pada prisma dengan alas segi 7</strong> adalah <strong>9 buah sisi</strong> dan <strong>21 buah rusuk</strong> </p><p><strong>Jawaban D</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang banyak rusuk dan sisi pada prisma\n</p><p>https://brainly.co.id/tugas/14591733\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 8\n</p><p><strong>Mapel</strong> : Matematika\n</p><p><strong>Kategori</strong> : Bangun Ruang\n</p><p><strong>Kode</strong> : 8.2.8\n</p><br><p><strong>Kata Kunci</strong> : Banyaknya rusuk dan sisi prisma segi-7\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lingkaran-luasnya-1256-cm2-jika-jari-jari-lingkaran-itu-d-133",
+            "question": "suatu lingkaran luasnya 1.256 cm2. jika jari jari lingkaran itu dikurangi 6 maka luas lingkaran sekarang adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "munkin klo di itung itung jasil nya 622 soalnta1256:2=628-6=622",
+                    "attachments": []
+                },
+                {
+                    "answer": "1256 : 3.14 = 400<span></span> .<br>Akar dari 400 = 20cm .<br>20-6 = 14 cm<br>22per7 dikali 14 dikali 14 = 616 cm persegi.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ratih-membeli-sebuah-komputer-seharga-rp-4350000-dan-dikenakan-486",
+            "question": "Ratih membeli sebuah komputer seharga Rp. 4.350.000 dan dikenakan pajak penjualan 5%    a. besar pajak penjualan \r\nb. harga komputer setelah dikenakan pajak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.5x 4.350.000/100 : 217.500\nb.4.350.000-217.500 : 4.132.500\n\nkalau suka tolong jawaban terbaik yahh? terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.5/100 x 4.350.000=21.750<br>b.4.350.000 +\u00a021.750 =\u00a04.567.500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-dan-penyelesaian-materi-garis-singgung-lingkaran-dan-544",
+            "question": "Contoh soal dan penyelesaian materi Garis Singgung Lingkaran dan pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diketahui dua buah lingakaran dgn pusat di A dan B,masing2 berjari-jari 34 cm dan 10cm. Garis CD merupakan garis singgung persekutuan luar. Jika garis CD=32cm,maka panjang AB?\n*jawab: AB=akarAEpangkat2+BEpangkat\n           AB=akar24pangkat2+32pangkat2\n           AB=akar576+1024\n           AB=akar1600\n           AB=40cm\n\nMaaf sy bingung nulis akarnya hehe jd sy tulis begitu,maaf kl kurang jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-lingkaran-yang-masing-masing-berjari-jari-r-dan-r-950",
+            "question": "Diketahui dua lingkaran yang masing-masing berjari-jari r dan r + 1 . Panjang garis singgung persekutuan dalam dua lingkaran tersebut adalah 3r . Jika jarak kedua titik pusat lingkaran adalah 15cm maka panjang r adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d2=p2-(r1+r2)<br>15\u00b2-(3)\u00b2<br>225-9<br>216<br>d2= 216<br>d2=\u221a216=14,69",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pegawai-swasta-mendapat-gaji-rp4000000-per-bulan-dengan-800",
+            "question": "Seorang pegawai swasta mendapat gaji Rp4.000.000 per bulan dengan penghasilan tidak kena pajak Rp800.000. Jika ia dikenakan PPh sebesar 10%. Berapa gaji yang diterima pegawai swasta tersebut setelah dikenakan pajak?     Jawabannya 2.880.000,- bener gak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaji = Rp4.000.000<br>Gaji tidak kena pajak = 800.000<br>Gaji berpajak = 4jt - 800.000 = 3.200.000<br><br>Pajak= 10% x 3.200.000 = 320.000<br><br>Gaji yang diterima Rp4.000.000 - 320.000 = 3.680.000,-<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

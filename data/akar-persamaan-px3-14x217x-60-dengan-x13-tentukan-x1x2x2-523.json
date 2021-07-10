@@ -1,0 +1,146 @@
+{
+    "question": "Akar persamaan px3-14x2+17x-6=0 dengan x1=3 tentukan x1.x2.x2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "px\u00b3-14x\u00b2 +17x-6 = 0<br><br>x1 = 3<br><br>p(3)\u00b3 - 14.3\u00b2 + 17.3 - 6 = 0<br>27p - 126 + 51 - 6 = 0<br>27p - 81 = 0<br>27p = 81<br>p = 3<br><br>3x\u00b3-14x\u00b2 +17x-6 = 0<br>x1.x2.x3 = -d/a = -(-6)/3 = 2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-kuadrat-yang-akar-akarnya-27-dan-1-adalah-caranya-y-165",
+            "question": "Persamaan kuadrat yang akar akarnya 2/7 dan -1 adalah ? caranya yah guys",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x-2/7)(x+1)=0<br>\u00a0x^{2}+5/7x-2/7 =0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agak ragu deh....<br><br>x1 = 2/7 \u21d2 (7x - 2) = 0<br>x2 = -1 \u21d2 (x +1) = 0<br>jadi,<br>(7x - 2)(x + 1) = 0<br>7x^{2} +5x-2 = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-suku-pertama-suatu-barisan-geometri-16-dan-suku-ketiga-3-764",
+            "question": "Jika suku pertama suatu barisan geometri = 16 dan suku ketiga = 36, maka besar suku kelima adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 12<br>Mapel : Matematika<br>Kategori : Barisan dan Deret<br>Kata Kunci : barisan geometri<br>Kode : 12.2.7 [<span>Kelas 12 Matematika KTSP - Bab 6 - Barisan dan Deret]<br></span><br>Pembahasan :<br><p>Barisan geometri adalah suatu barisan dengan rasio\n(pembanding atau pengali) antara dua suku yang berurutan selalu tetap atau\nkonstan.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum barisan geometri adalah</p>\n\n<p>U\u2081, U\u2082, ..., Un.</p>\n\n<p>U\u2081 =\na</p>\n\n<p>U\u2082 =\nar</p>\n\n<p>...</p>\n\n<p>Un = ar\u207f\u207b\u00b9,</p>\n\n<p>dengan r \u2260 0.</p>\n\n<p>\u00a0</p>\n\n<p>Sehingga berdasarkan definisi di atas berlaku hubungan</p>\n\n<p>\u00a0</p>\n\n<p>r = [tex] \\frac{U_n}{U_{n-1}} [/tex]</p>\n\n<p>\u00a0</p>\n\n<p>dengan r = rasio antara dua suku yang berurutan, a = suku\npertama, Un = suku ke-n, U(n-1) = suku ke n-1, dan n = banyak suku.</p>\n\n<p>\u00a0</p>\n\n<p>Deret geometri adalah jumlah suku-suku barisan geometri.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum deret geometri adalah</p>\n\n<p>Sn = U\u2081 +\nU\u2082 + U\u2083 + ... + U(n - 1) + Un</p>\n\n<p>\u21d4 Sn = a + ar + ar\u00b2 +\n... + ar\u207f \u207b \u00b9</p>\n\n<p>\u21d4 Sn = [tex]\n\\frac{a(r^n-1)}{r-1} [/tex] untuk r &gt; 1</p>\n\n<p>\u21d4 Sn = [tex] \\frac{a(1\n- r^n)}{1 - r} [/tex] untuk r &lt; 1</p>\n\n<p>\u00a0</p>\n\n<p>Mari kita lihat soal tersebut.</p><span>Jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah...<br><br>Jawab :<br>Diketahui\u00a0<br>U</span>\u2081 = 16<br>\u21d4 a = 16<br><br>U\u2083 = 36<br><p>\u21d4 36 = ar\u00b2<br></p><p>\u21d4 36 = 16 x r\u00b2<br></p><p>\u21d4 r\u00b2 =\u00a0[tex] \\frac{36}{16} [/tex]<br></p><p>\u21d4 r\u00b2 = [tex] \\frac{9}{4} [/tex]<br></p><p>\u21d4 r = [tex] \\frac{3}{2} [/tex]<br></p><p><br></p><p>U\u2085 = ar\u2074<br></p><p>\u21d4 U\u2085 = 16 x ([tex] \\frac{3}{2} [/tex])\u2074<br></p><p>\u21d4 U\u2085 = 16 x\u00a0[tex] \\frac{81}{16} [/tex]<br></p>\u21d4 U\u2085 = 81<br><br>Jadi, jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah 81.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5670317<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-laporan-arus-kas-455",
+            "question": "Apa yang dimaksud dengan laporan arus kas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Laporan arus kas<span>\u00a0(</span><span>adalah bagian dari\u00a0</span>laporan keuangan<span>\u00a0suatu perusahaan yang dihasilkan pada suatu</span>periode akuntansi<span>\u00a0yang menunjukkan aliran masuk dan keluar\u00a0</span>uang<span>\u00a0(kas) perusahaan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "adalah bagian dari\u00a0laporan keuangan\n\u00a0suatu perusahaan yang dihasilkan pada suatuperiode akuntansi\n\u00a0yang menunjukkan aliran masuk dan keluar\u00a0uang\n\u00a0(kas) perusahaan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-dari-dimensi-2-dan-tiga-berikan-masing-masing-6-contoh-587",
+            "question": "Pengertian dari dimensi 2 dan tiga berikan masing-masing 6 contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dimensi 2 = yaitu suatu benda dimana hanya memiliki panjang dan lebar, contohnya persegi, persegi panjang, lingkaran, segitiga, layang-layang.<br>Dimensi 3 = yaitu suatu benda dimana memiliki panjang, lebar dan tinggi, contohnya balok, kubus, kerucut, tabung, prisma, limas.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dimensi 2 hanya memiliki panjang dan lebar cth: persegi, layang layang, lingkaran, segitiga persegi panjang, jajargenjang, belah ketupat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-jenis-mesin-penggiling-padi-digunakan-untuk-menggiling-s-772",
+            "question": "Dua buah jenis mesin penggiling padi digunakan untuk menggiling satu peti padi. untuk menggiling satu peti padi, mesin jenis pertama lebih cepat 1/2 jan dari mesin jenis kedua. sementara jika kedua mesin digunakan sekaligus, dapat menggiling satu peti padi selama 6 jam.    a. berapa jam waktu yang digunakan mesin jenis pertama untuk menggiling satu peti padi\r\nb. berapa jam waktu yang digunakan mesin jenis kedua untuk menggiling satu peti padi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal<br>penggiling pertama=a<br>penggiling kedua=b<br>a lebih cepat1/2jam dari b, maka<br>a=b - 1/2 =&gt;a-b=1/2<br>adan b secara bersama 6 jam, maka<br>a + b = 6<br><br>a - b = 1/2 ditambah a + b =\u00a0 6<br><span>hasilnya 2a = 2 1/4\u00a0</span><br>maka lama yang dibutuhkan a 2 1/4 jam<br><br>a + b = 6<br>2 1/4 + b = 6<br>b= 3 3/4 jam<br><span>maka yang lama yang dibutuhkan b 3 1/4 jam<br><br>semoga bermanfaat :)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ab-garis-ba-apakah-sinar-abba-butuh-jawaban-776",
+            "question": "Garis AB = garis BA, apakah sinar AB=BA? butuh jawaban.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karna garis dan sinar itu berbeda, kalau sinar AB artinya a yg memancarkan sinar ke b, sdangkan sinar BA artinya b yg memancarkan sinar mnuju ke a,, jadi beda,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "iya sinar AB=BA jadi itu sama <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-566",
+            "question": "Suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 25 adalah 25/28",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau menurut saya jawabannya adalah 25/28 semoga bener ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-kuadrat-memotong-sumbu-x-di-dua-titik-549",
+            "question": "Jelaskan fungsi kuadrat memotong sumbu x di dua titik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsi kuadrat yang memotong sumbu x di dua titik adalah fungsi kuadrat yang D&gt;0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

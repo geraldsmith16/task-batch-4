@@ -1,0 +1,144 @@
+{
+    "question": "Tentukan empat suku pertama dari barisan aritmatika, jika jumlah 20 suku pertama dan jumlah\u00a018 suku pertama deret yg sesuai berturut-turut adalah 440 dan 360.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] S_{20} = 440[/tex]<br>[tex] S_{18} = 360[/tex]<br>[tex] S_{20}-S_{18}=2b = 440-360[/tex]<br>[tex] 2b = 120[/tex]\u00a0<br>[tex] b = .....[/tex]<br>[tex] S_{18} = 360 = a + 17b[/tex]<br>[tex] a = ...[/tex]<br>empat suku pertama : a,\u00a0a+b,\u00a0a+2b,\u00a0a+3b",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-jari-jari-lingkaran-yang-memiliki-a-keliling-22cm-b-k-810",
+            "question": "Hitunglah jari jari lingkaran yang memiliki    a. keliling 22cm\r\n b. keliling 31.4cm\r\n c. luas 154cm2\r\n d.luas 346.5 cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.kelO=2.22/7.r<br>\u00a0 \u00a0r=22.7/44<br>\u00a0 \u00a0 \u00a0=3.5<br>b. r=31,4/2.3,14<br>\u00a0 \u00a0 \u00a0=31,4/6,28<br>\u00a0 \u00a0 \u00a0=5<br>c.luasO=22/7.rkuadrat<br>rkuadrat=154/22/7<br>\u00a0 \u00a0=154.7/22<br>\u00a0 \u00a0 =49<br>\u00a0 r=akar49<br>\u00a0 \u00a0=7<br>d. rkuadrat=346,5/3,14<br>\u00a0 \u00a0 \u00a0=110,25<br>\u00a0 \u00a0 \u00a0 r=akar110,25<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=10,5<br>\u00a0 \u00a0 \u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kolo gak salah<br>r =138,16 cm<br>r = 5 cm<br>r = 7 cm<br>r=10,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-qor-60-panjang-busur-qr2-724",
+            "question": "Pada gambar lingkaran, besar sudut QOR = 60\u00b0, panjang busur QR=24cm, dan panjang busur PQ = 36 cm. Hitunglah besar sudut POQ!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut QOR\u00a0</u> =\u00a0<u> PBusur QR</u><br>sudut POQ\u00a0 \u00a0\u00a0 PBusur PQ<br><br><u>60\u00b0\u00a0</u>  =<u>\u00a0 24</u><br>x\u00a0 \u00a0 \u00a0 \u00a0\u00a0 36<br><br>60 \u00d7 36 = 24 \u00d7 x<br>90 \u00b0 = x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-8-3x4-63-611",
+            "question": "Hasil dari 8+(-3x4)-(-6:3) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 + -12 - -2\n\n-4 - -2\n\n-4 + 2\n\n= -2",
+                    "attachments": []
+                },
+                {
+                    "answer": "8+(-3\u00d74)-(-6:3) = 8 +(-12)-(-2) = 8-12+2 = -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "uraikan-dari-yang-terbesar-2-pangkat-5555-5-pangkat-2222-3-pang-351",
+            "question": "Uraikan dari yang terbesar 2 pangkat 5555, 5 pangkat 2222, 3 pangkat 3333",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 pangkat 5555 = 2 pangkat 5 (1111)<br>5 pangkat 2222 = 5 pangkat 2 (1111)<br>3 pangkat 3333 = 3 pangkat 3 (1111)<br>jadi urutan dari yang terbesar <br>2 pangkat 5555<br>3 pangkat 3333<br>5 pangkat 2222<br>^^<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 pangkat 5555 = (2^5)^1111 = 32^1111<br>5 pangkat 2222 = (5^2)^1111 = 25^1111<br>3 pangkat 3333 = (3^3)^1111 = 27^1111<br>\u00a0jadi urutan dari yg terbesar adalah<br><br>2 pangkat 5555, 3 pangkat 3333, 5 pangkat 2222<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "irsan-adalah-seorang-agen-minyak-tanah-bersubsididia-membeli-500-789",
+            "question": "irsan adalah seorang agen minyak tanah bersubsidi.dia membeli 500 liter minyak tanah.minyak itu kemudian di jual secara eceran denagn harga Rp.11.500,00 tiap liter.keuntungan yang di peroleh dari hasil penjualan seluruh minyak itu adalah Rp.200.000,00.berapa rupiahkah yang harus di keluarkan irsan untuk membeli moinyak tanah tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "500\u00a0X 11.500 = Rp. 5.750.000<br>harga pertama =\u00a0pendapatan - untung<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5.750.000 -\u00a0200.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp.\u00a05.550.000<br><br>jadi biaya yang dikeluarkan irsan untuk membeli minyak tanah sebesar Rp. 5.550.000<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "500x11500-200000 = 5750000 - 200000<br>= 5550000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-500",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas 8 Matematika<br>Bab Garis dan Sudut<br><br>\u0394 PQR adalah segitiga sama kaki<br>PQ = QR, maka sudut P = sudut R<br><br>Sudut P + sudut Q + sudut R = 180\u00b0<br>Sudut P + 112\u00b0 + sudut P = 180\u00b0<br>2 . sudut P = 180\u00b0 - 112\u00b0<br>Sudut P = 68\u00b0/2<br>Sudut P = 34\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pegawai-swasta-mendapat-gaji-rp4000000-per-bulan-dengan-800",
+            "question": "Seorang pegawai swasta mendapat gaji Rp4.000.000 per bulan dengan penghasilan tidak kena pajak Rp800.000. Jika ia dikenakan PPh sebesar 10%. Berapa gaji yang diterima pegawai swasta tersebut setelah dikenakan pajak?     Jawabannya 2.880.000,- bener gak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaji = Rp4.000.000<br>Gaji tidak kena pajak = 800.000<br>Gaji berpajak = 4jt - 800.000 = 3.200.000<br><br>Pajak= 10% x 3.200.000 = 320.000<br><br>Gaji yang diterima Rp4.000.000 - 320.000 = 3.680.000,-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-sepasang-sepatu-dua-kali-harga-sepasang-sandal-265",
+            "question": "Diketahui harga sepasang sepatu dua kali harga sepasang sandal . seorang pedagang membeli 4 pasang sepatu dan 3 pasang sandal . pedagang tersebut harus membayar Rp 275.000,00    a) buatlah model matematika dari keterangan di atas\r\nb) selesaikan model matematika tersebut . kemudian , tentukan harga 3 pasang sepatu dan 5 sandal.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.) sepatu : x, sandal : y<br>model matematika: 4x\u00a0+ 3y = 275.000<br><br>untuk menjawab pertanyaan b, dalam soal harus memiliki min 2 persamaan.",
+                    "attachments": []
+                },
+                {
+                    "answer": "Sepatu = x, sandal y<br>dik : x = 2y\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a04x + 3y = 275.000<br>4x+3y = 275000<br>4.2y+3y=275000<br>8y+3y=275000<br>11y=275000<br>y=275000/11=25000<br>x=2y=2.25000=50000<br>3x+5y=3.50000+5.25000=150000+125000=275000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-belah-ketupat-pqrs-di-atas-besar-sudut-p-60-drajat-dan-pa-890",
+            "question": "pada belah ketupat PQRS di atas, besar sudut P = 60 drajat dan panjang QS= 12cm. luas belah ketupat PQRS adalah? saya katakan anda hebat jika bisa menjawab nya sy saja yang rangking 1 masih bingung",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui:\n<br>\nSebuah belah ketupat PQRS,<br>\nbesar sudut P = 60</span>\u00b0<span><br>\npanjang QS = 12 cm<br>\nDitanyakan: <br>\nLuas belah ketupat PQRS = ?<br>\nJawab:<br>\nSifat-sifat belah ketupat:<br>\n1. Memiliki 4 buah sisi yang sama panjang.<br>\nUntuk belah ketupat PQRS, berarti<br>\nPQ = QR = RS = PS.<br>\n2. Memiliki dua pasang sudut berhadapan yang sama besar.<br>\nUntuk belah ketupat PQRS, berarti<br>\nsudut P = sudut R = 60</span>\u00b0<span><br>\nsudut Q = sudut S <br>\n3. Mempunyai dua buah diagonal yang berpotongan tegak lurus di tengah-tengah. Masing-masing\ndiagonal akan membagi dua belah ketupat sama luas, dan membagi dua setiap sudut\ndengan sama besar.<br>\nBerarti, segitiga PQS kongruen dengan segitiga RQS, dan segitiga PSR kongruen\ndengan segitiga PQR.<br>\nLebih jauhnya, <br>\nMisalkan kedua diagonal berpotongan di titik O, maka <br>\nsegitiga POQ, segitiga POS, segitiga ROQ, dan segitiga ROS, keempatnya adalah\nkongruen.<br>\nDari diketahui:<br>\npanjang QS = 12 cm<br>\ndiagonal PR akan membagi dua diagonal QS sama panjang, sehingga<br>\nQO = OS = 1/2 </span>\u00d7<span> 12\n= 6 cm<br>\nSudut P = 60</span>\u00b0<span><br>\ndiagonal PR akan membagi dua sudut P sama besar, sehingga<br>\nsudut OPQ = sudut OPS = 1/2 </span>\u00d7<span>\n60</span>\u00b0<span>\u00a0= 30</span>\u00b0<span><br>\nSekarang perhatikan segitiga POQ siku-siku di O.<br>\nPanjang OQ = 6 cm<br>\nbesar sudut OPQ = 30</span>\u00b0<span><br>\nmaka <br>\npanjang OP = OQ/tan 30</span>\u00b0<span><br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0= 6/(1/3 </span>\u221a<span>3)<br>\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6</span>\u221a<span>3 cm<br>\nDari sini kamu bisa mencari:<br>\nLuas segitiga POQ = 1/2 </span>\u00d7 OP\n\u00d7<span> OQ<br>\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 1/2 </span><span>\u00d7 6\u221a3\n\u00d7 6<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 18\u221a3 cm</span>\u00b2<span><br>\nAkibatnya,<br>\nluas belah ketupat PQRS <br>\n= 4 \u00d7 luas segitiga POQ<br>\n= 4 \u00d7 18\u221a3<br>\n= 72\u221a3 cm</span>\u00b2<span><br></span><span>Atau<br>\nKamu hitung:<br>\nPanjang PR = 2 </span>\u00d7<span> OP<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0= 2 </span>\u00d7 6\u221a<span>3<br>\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12</span>\u221a<span>3 cm<br>\nLalu hitung luas belah ketupat dengan rumus<br>\nLuas = 1/2 </span><span>\u00d7 diagonal 1 \u00d7 diagonal 2<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 1/2 \u00d7 PR \u00d7 QS <br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 1/2 \u00d7 12\u221a3 \u00d7 12<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 72\u221a3 cm</span>\u00b2<span><br>\nKita dapatkan hasil yang sama kan?<br>\nJadi, luas belah ketupat PQRS = 72\u221a3 cm</span>\u00b2<span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukan-dengan-gamabar-apa-yang-di-maksud-dengan-a-sudut-pusa-879",
+            "question": "Tunjukan dengan gamabar apa yang di maksud dengan : A. sudut pusat B. sudut keliling",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini dia, gambarnya yang sudut pusat sama sudut keliling.........................",
+                    "attachments": [
+                        "answer-attachments/tunjukan-dengan-gamabar-apa-yang-di-maksud-dengan-a-sudut-pusa-879-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

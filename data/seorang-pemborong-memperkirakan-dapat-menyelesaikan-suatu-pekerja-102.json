@@ -1,0 +1,140 @@
+{
+    "question": "Seorang pemborong memperkirakan dapat menyelesaikan suatu pekerjaan dalam waktu 8 hari\u00a0    Dengan sekelompok Pekerja. Jika banyak pekerja ditambah 5 orang, maka pekerjaan itu dapat diselesaikan dlm waktu 6 hari. Banyak pekerja mula-mula? Jawab pake cara, lagi butuh banget",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jumlah orang mula\" adalah x<br>jika x orang maka pekerjaan akan selasai dalam 8 hari<br>jika di tambah 5 orang maka akan menjai 6 hari<br><br>maka berlaku perbandingan berbalik nilai<br><br><u>x\u00a0</u>\u00a0 \u00a0 =\u00a0<u> 6</u><br>x+5\u00a0 \u00a0\u00a0 8<br>8x = 6x + 30<br>2x = 30<br>x = 15<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bentuk-pangkat-negatif-dari-125-adalah-991",
+            "question": "Bentuk pangkat negatif dari 125 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pangkat positif 125 = 5^3\npangkat negatif = 5^-3 = 1/125",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] 5^{-3} [/tex]jika\u00a0pangkat negatif ya<br>:)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167",
+            "question": "keliling sebuah belahketupat 100cm dan panjang salah satu diagonalnya 48cm. luas belahketupat tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Keliling sebuah belahketupat 100 cm dan panjang salah satu diagonalnya 48 cm. Luas belahketupat tersebut adalah [tex]\\displaystyle\\boxed{\\sf 336~cm^2} [/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Segi empat</strong> adalah bangun datar yang memiliki empat sisi dan empat sudut. Contoh bangun datar yang dikatakan segi empat, antara lain: persegi, persegi panjang, jajar genjang, belah ketupat, layang-layang, dan trapesium.</p><p>Adapun sifat-sifat <strong>belah ketupat</strong>, antara lain :</p><ul><li>Keempat sisinya sama panjang;</li><li>Sudut-sudut yang berhadapan sama besar;</li><li>Kedua diagonalnya saling tegak lurus dan saling membagi dua sama panjang;</li><li>Memiliki 2 simetri lipat dan 2 simetri putar.</li></ul><p>Untuk menyelesaikan soal ini kita akan menggunakan <strong>rumus</strong> berikut, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Keliling} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf K = 4 \\times s}} [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Luas} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf L = \\dfrac{1}{2} \\times d_1 \\times d_2}} [/tex]</p><p>dimana :</p><p>\u25cb L = luas belah ketupat</p><p>\u25cb K = keliling belah ketupat</p><p>\u25cb s = panjang sisi belah ketupat</p><p>\u25cb d\u2081 = diagonal belah ketupat</p><p>\u25cb d\u2082 = diagonal belah ketupat </p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>[tex]\\displaystyle\\sf K = 100~cm [/tex]</li><li>[tex]\\displaystyle\\sf d_1 = 48~cm [/tex]</li></ul><p><strong>Ditanya : </strong>Luas (L) = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan panjang sisi belah ketupat (s)</strong></p><p>[tex]\\displaystyle\\sf 4 \\times s = K [/tex]</p><p>[tex]\\displaystyle\\sf 4 \\times s = 100 [/tex]</p><p>[tex]\\displaystyle\\sf s = \\frac{100}{4} [/tex]</p><p>[tex]\\displaystyle\\sf s = 25~cm [/tex]</p><p>diperoleh: s = 25 cm</p><p>\u2756 <strong>Menentukan panjang diagonal salah satunya (d\u2082)</strong></p><p>Perhatikan segitiga siku-siku yang diarsir pada lampiran, kita akan mencari x dengan menggunakan teorema Pythagoras.</p><p>[tex]\\displaystyle\\sf x = \\sqrt{25^2 - 24^2} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{625 - 576} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{49} [/tex]</p><p>[tex]\\displaystyle\\sf x = 7~cm [/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\sf d_2 = 2x [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 2 \\times 7 [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 14~cm [/tex]</p><p>diperoleh: d\u2082 = 14 cm</p><p>\u2756 Sehingga, <strong>luas belah ketupat </strong>tersebut</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times d_1 \\times d_2 [/tex]</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times 48 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\sf L = 24 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\boxed{\\sf L = 336~cm^2} [/tex]</p><p>\u2234 <strong>Kesimpulan : </strong>Jadi, luas belah ketupat tersebut adalah 336 cm\u00b2.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>segiempat dan segitiga</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Sebuah taman berbentuk persegi panjang berukuran 30 m \u00d7 18 m. Disekeliling taman dipasang tiang lampu dengan jarak antar lampu 6 meter. Jika harga tiap tiang lampu Rp200.000,00 per tiang, maka biaya yang diperlukan seluruhnya adalah <strong><em>brainly.co.id/tugas/5481048</em></strong></li><li>Jika pada jajar genjang ABCD, besar \u2220A = (3x + 2)\u00b0 dan \u2220D = (2x + 18\u00b0) maka nilai x adalah <strong><em>brainly.co.id/tugas/14772998</em></strong></li><li>Diketahui jajaran genjang PQRS dengan \u2220Q = (5x \u2013 4)\u00b0. Jika besar \u2220P = 7/8 \u2220Q, maka nilai x adalah <strong><em>brainly.co.id/tugas/130684</em></strong></li></ul><h3>____________________________</h3><h3>DETAIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 4 - Segiempat dan Segitiga</p><p><strong>Kode :\u00a0</strong>7.2.4</p><p><strong>Kata kunci : </strong>segiempat, belah ketupat, luas, keliling, diagonal, panjang sisi, segitiga siku-siku, teorema pythagoras</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": [
+                        "answer-attachments/keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-mililiter-sama-dengan-berapa-m-pangkat-3-652",
+            "question": "1 mililiter sama dengan berapa m pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 mL = 1\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "1ml=1cm^3\n\n\n\n1cm^3=1/10^-6m^3\n\n\nKETERANGAN\n^=Pangkat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-rasio-dari-suatu-barisan-geometri-696",
+            "question": "Cara mencari rasio dari suatu barisan geometri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-kali-5-berapa-sich-433",
+            "question": "5 Kali 5 berapa sich:-)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 dikalikan 5 itu hasilnya 25<br>good luck ya...",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 dikali 5 adalah 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-op-13cm-ox-15cm-py-10cm-dan-xz-36cm-hitunglah-pa-926",
+            "question": "Jika OP = 13cm, OX = 15cm, PY = 10cm, dan XZ = 36cm. hitunglah panjang XY, panjang OZ, dan perbandingan luas segitiga OXZ dan segitiga PYZ    agar lebih jelas lihat gambar",
+            "attachments": [
+                "question-attachments/jika-op-13cm-ox-15cm-py-10cm-dan-xz-36cm-hitunglah-pa-926-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a).\u00a0OP=XY<br>\u00a0 \u00a0 \u00a013= 13<br>\u00a0karena, OP dan XY bersebrangan otomatis sama<br><br>b). YZ\u00a0<u></u>- XY= 36-13= 23<br>\u00a0 \u00a0 DIK : YP = 10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 YZ = 23<br>\u00a0 \u00a0 DIT PZ = ?<br><br>\u00a0 \u00a0PZ =\u221a YZ\u00b2 - YP\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a 23\u00b2 - 10\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a 529 - 100<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a429<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a 20,72<br>panjng OZ = OP + PZ<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 + 20,72<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33,72<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-gross-berapa-lusin-515",
+            "question": "1 gross berapa lusin ????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1 gross berapa lusin </p><p>gross \u2192 umumnya digunakan pada jumlah alat tulis, seperti jumlah buku, jumlah pensil, jumlah bolpoint dan sebagainya</p><br><p>1 gross = 144 buah</p><p>1 rim = 500 lembar</p><p>1 lusin = 12 buah</p><p>1 kodi = 20 lembar</p><h3>Pembahasan</h3><p>1 gross = 144 buah</p><p>1 lusin = 12 buah</p><p>1 gross = 144/12</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 12 lusin</p><p>jadi 1 gross = 12 lusin</p><br><p>jika pingin lebih jelas lagi, simak videonya </p><br><h3>Pelajari Lebih Lanjut</h3><p>soal\" tentang satuan kuantitas dapat disimak juga di</p><p>https://brainly.co.id/tugas/9830833</p><p>https://brainly.co.id/tugas/13585351</p><p>https://brainly.co.id/tugas/92509</p><p>https://brainly.co.id/tugas/4392633</p><h3>================================</h3><h3>Detail Jawaban</h3><p>kelas : 3</p><br><p>mapel : matematika</p><br><p>kategori : hubungan satuan waktu, jumlah</p><br><p>kata kunci : satuan jumlah</p><br><p><strong>kode </strong>: 3.2.8</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-lingkaran-yang-masing-masing-berjari-jari-r-dan-r-950",
+            "question": "Diketahui dua lingkaran yang masing-masing berjari-jari r dan r + 1 . Panjang garis singgung persekutuan dalam dua lingkaran tersebut adalah 3r . Jika jarak kedua titik pusat lingkaran adalah 15cm maka panjang r adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d2=p2-(r1+r2)<br>15\u00b2-(3)\u00b2<br>225-9<br>216<br>d2= 216<br>d2=\u221a216=14,69",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-suku-berikutnya-dari-barisan-1235813-adalah-tolong-576",
+            "question": "Dua suku berikutnya dari barisan: 1,2,3,5,8,13,... adalah?\r\n tolong dijawab ya,please... :\"(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dua suku berikutnya dari barisan</strong>: 1, 2, 3, 5, 8, 13, ... adalah 21, 34. Barisan tersebut adalah barisan fibbonanci. <strong>Barisan fibbonanci</strong> adalah barisan yang diperoleh dengan cara menjumlakan bilangan sebelumnya untuk mendapatkan bilangan berikutnya. Contoh untuk mendapatkan suku ke 5 diperoleh dengan menjumlahkan suku ke 4 dan suku ke 3. Untuk lebih jelasnya bisa dilihat di pembahasan</p><br><h3>Pembahasan</h3><h3></h3><p>1, \u00a0 \u00a02, \u00a0 3, \u00a05, \u00a0 8, 13, ...., .....</p><p>U\u2081, U\u2082, U\u2083, U\u2084, U\u2085, U\u2086, U\u2087, U\u2088</p><p>U\u2081 = 1</p><p>U\u2082 = 2</p><p>U\u2083 = U\u2082 + U\u2081 = 2 + 1 = 3</p><p>U\u2084 = U\u2083 + U\u2082 = 3 + 2 = 5</p><p>U\u2085 = U\u2084 + U\u2083 = 5 + 3 = 8</p><p>U\u2086 = U\u2085 + U\u2084 = 8 + 5 = 13</p><p><u>Jadi</u></p><p>U\u2087 = U\u2086 + U\u2085 = 13 + 8 = <strong>21</strong></p><p>U\u2088 = U\u2087 + U\u2086 = 21 + 13 = <strong>34</strong></p><br><p>Barisan utuhnya</p><p>1, 2, 3, 5, 8, 13, <strong>21, 34</strong></p><br><p>Berarti <strong>dua suku berikutnya dari barisan tersebut adalah 21, 34</strong></p><br><h3>Pelajari lebih lanjut \u00a0 </h3><br><p>Contoh soal lain tentang barisan fibbonanci</p><p>https://brainly.co.id/tugas/12222950</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 9</p><p><strong>Mapel</strong> : Matematika</p><p><strong>Kategori</strong> : Barisan dan Deret Bilangan</p><p><strong>Kode</strong> : 9.2.2</p><br><p><strong>Kata Kunci</strong> : Dua suku berikutnya dari barisan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-dua-buah-lingkaran-yang-berpusat-di-o-dan-p-mas-458",
+            "question": "Panjang jari-jari dua buah lingkaran yang    berpusat di O dan P masing-masing adalah\r\n8 cm dan 4 cm. Jarak kedua titik\r\npusatnya 20 cm.\r\na. Lukislah garis singgung persekutuan\r\ndalamnya.\r\nb. Hitunglah panjang garis singgung\r\npersekutuan dalam tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas: 8<br></strong><strong>Mapel: Matematika<br></strong><strong>Kategori: Garis Singgung Lingkaran<br></strong><strong>Kata kunci: Garis Singgung Persekutuan Dalam, Jarak Pusat, Jarak lingkaran<br></strong><strong>Kode: 8.2.7 (Kelas 8 Matematika Bab 7-Garis Singgung Persekutuan Dalam)<br></strong><span><br>Panjang jari-jari dua buah lingkaran yang berpusat di O dan P masing-masing adalah 8 cm dan 4 cm. Jarak kedua titik pusatnya 20 cm.<br>a. Lukislah garis singgung persekutuan dalamnya.<br>b. Hitunglah panjang garis singgung persekutuan dalam tersebut.<br></span><span><br>Pembahasan:<br><br>A)\u00a0Gambar pada lampiran<br>R = 8 cm<br>r = 4 cm<br>p = 20 cm<br><br>B)\u00a0p</span>\u00b2 = d\u00a0\u00b2 + (R+r)\u00b2<br>dengan:<br>p = jarak\u00a0 kedua pusat lingkaran<br>R = jari-jari lingkaran besar<br>r = jari-jari lingkaran kecil<br>d = garis singgung persekutuan dalam<br><br>p\u00b2 = d\u00b2 + (R+r)\u00b2<br>20\u00b2 = d\u00b2 +(8+4)\u00b2<br>20\u00b2 = d\u00b2 + 12\u00b2<br>400 = d\u00b2 + 144<br>d\u00b2 = 400 - 144<br>d\u00b2 = 256<br>d =\u00a0\u221a 256<br>d = 16<br><br><strong>Jadi, panjang garis singgung persekutuan dalam tersebut adalah 16 cm<br></strong><br>Soal lainnya tentang garis singgung persekutuan dalam yang dapat dipelajari:<br>https://brainly.co.id/tugas/14195229<br>https://brainly.co.id/tugas/14210097<br>https://brainly.co.id/tugas/14315423<br>https://brainly.co.id/tugas/14108922<br><br>Semangat belajar!<br>Semoga mebnatu :)",
+                    "attachments": [
+                        "answer-attachments/panjang-jari-jari-dua-buah-lingkaran-yang-berpusat-di-o-dan-p-mas-458-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

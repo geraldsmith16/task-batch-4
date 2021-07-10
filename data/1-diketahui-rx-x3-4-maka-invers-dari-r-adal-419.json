@@ -1,0 +1,134 @@
+{
+    "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0    Diketahui R(x) = x3\r\n \u2013 4. Maka invers dari R adalah\u00a0\r\n\r\n\r\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nA = {x \u2208 R; x &gt; 0} dan f,g adalah fungsi fungsi pada A yang ditentukan oleh f(x) = x2 \u2013 1 dan g(x) = 4x + 3. Jika f-1(a) = 11 dan g-1(b)\r\n = 25, cari nilai a dan b",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.\u00a0R\u00a0infernya r = x^3 - 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r + 4 = x^3<br>\u00a0 \u00a0 karena nilai r = x maka<br>\u00a0 \u00a0 x = \u00a0r + 4 dibagi x^3<br>\u00a0 \u00a0 x = 1/1^3 r\u00a0+ 4/1<br>\u00a0 \u00a0 \u00a0 \u00a0= r + 4<br>karena x = R<br>maka infers R = x^3 + 4 atau r + 4<br><br>2. f-1 =\u00a0[tex] \\frac{1}{x^2} +  \\frac{1}{x^2} = 11[/tex]<br><br>\u00a0 \u00a0 g-1 =\u00a0[tex] \\frac{1}{4} x -  \\frac{3}{4} = 25 [/tex]<br><br>b = 25 + 3/4 ; 1/4 = 412",
+            "attachments": []
+        },
+        {
+            "answer": "R(x) = x\u00b3 - 4<br>misal R(x) = y<br>y = x\u00b3 - 4<br>x\u00b3 = y + 4<br>x = [tex] \\sqrt[3]{y + 4} [/tex]<br>[tex] R^{-1}(x) [/tex] = [tex] \\sqrt[3]{x + 4} [/tex]<br><br><br>f(x) = x\u00b2 - 1<br>y = x\u00b2 - 1<br>x\u00b2 = y + 1<br>x = [tex] \\frac{+}{} [/tex][tex] \\sqrt{y + 1} [/tex]<br>[tex] f^{-1}(x) [/tex] = [tex] \\frac{+}{} [/tex][tex] \\sqrt{x + 1} [/tex]<br>[tex] f^{-1}(a) [/tex] = 11<br>11 = [tex] \\frac{+}{} [/tex][tex] \\sqrt{a + 1} [/tex]<br>121 = a + 1<br>a = 120<br><br>lebihnya cari ndiri ya gan...:)<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-299",
+            "question": "suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . . Pake cara ? Yang jwab Thanks yah !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/4 , 2/5 , 3/6 , 4/7 , ...<br>U25 ?<br><br>U1=a=1/4<br>U2=a+b=2/5<br><br>cari b<br>b = U2 - U1<br>b = 2/5 - 1/4<br>b = 3/20<br><br>1/4 + 3/20 = 5+3/20 = 8/20 = 2/5<br>nah, jadi ini termasuk deret aritmetika, karna deret aritmetika, maka memakai rumus<br>Un = a + (n-1)b<br>U25 = a + (25-1)b<br>U25 = a + 24b<br>U25 = 1/4 + 24(3/20)<br>U25 = 1/4 + 72/20<br>U25 = 5+72/20<br>U25 = 77/20<br><br><span>CMIIW ^_^<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x2 - 8x +\r\n 3\u00a0 dari grafik fungsi kudrat \u00a0g(x) = 4x2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f\u00a00\u00a0g =\u00a04(4x^2)^2 - 8(<span>4x^2)</span>\u00a0+3 = 64x (4x^2-1)",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-fx-jika-dibagi-x-1-sisanya-8-dan-491",
+            "question": "diketahui suku banyak f(X) jika dibagi\u00a0 ( x+ 1) sisanya 8 dan ( x-3 ) sisanya 4 suku banyak g(x) jika dibagi dengan (x+1) bersisa -9 dan jika dibagi (x-3) sisanya 15 jika h(x) = F(X) . G(X), maka sisa pembagian H(X) oleh \u00d7\u00b2 - 2\u00d7 - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 11<br>Mapel : Matematika<br>Kategori : Suku Banyak<br>Kata Kunci : suku banyak, pembagi, hasil bagi, sisa<br>Kode : 11.2.5 [Kelas 11 Matematika KTSP Bab 5 - Sukubanyak]<br><br>Pembahasan :<br>Suku banyak atau polinomial p dalam k berderajat n memiliki bentuk umum :<br>[tex]a_n[/tex]x\u207f +\u00a0[tex]a_{n-1}[/tex]x\u207f\u207b\u00b9 + ... + [tex]a_2[/tex]x\u00b2 + [tex]a_1[/tex]x\u00b9 +\u00a0[tex]a_0[/tex]<br><span><br>dengan\u00a0</span>[tex]a_n[/tex], [tex]a_{n-1}[/tex], ..., [tex]a_2[/tex], [tex]a_1[/tex], [tex]a_0[/tex]\u00a0merupakan konstanta-konstanta real;<br><br>[tex]a_n[/tex] koefisien x\u207f, [tex]a_{n-1}[/tex]\u00a0koefisien x\u207f\u207b\u00b9, dan seterusnya;<br><br>[tex]a_0[/tex]\u00a0merupakan suku tetap;<br><span><br>n merupakan bilangan cacah yang menyatakan derajat suku banyak.<br><br>Misalnya suku banyak f(x) dibagi dengan P(x) memberikan hasil bagi H(x) dan sisanya S(x) maka diperoleh hubungan<br>f(x) = P(x) . H(x) + S(x)<br><br>Jika f(x) merupakan suku banyak berderajat n dan P(x) merupakan pembagi berderajat m dengan m\u00a0\u2264 n maka<br>1. H(x) adalah hasil bagi berderajat n - m<br>2. S(x) adalah sisa pembagian berderajat maksimum (m - 1).<br><br>Penerapan teorema sisa dapat dikembangkan untuk menentukan sisa pada pembagian suku banyak dengan suku banyak berderajat dua atau lebih yang dapat difaktorkan menjadi faktor-faktor linear.<br><br>Mari kita lihat soal tersebut.<br></span><span>Suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4. Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15. Jika suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah...<br><br>Jawab :<br>Diketahui s</span>uku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4.<br><br>Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15.<br><br>Suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3 = (x - 3)(x + 1).<br><br>Oleh karena pembagi (x - 3)(x + 1) berderajat dua, maka sisanya maksimum berderajat satu.<br><br>Misalkan pembagi P(x) = (x - 3)(x + 1), sisa S(x) = ax + b dan hasil bagi H(x), maka<br>h(x) = P(x) . H(x) + S(x)<br>h(x) = (x - 3)(x + 1) . H(x) + ax + b<br>f(x) . g(x) = (x - 3)(x + 1) . H(x) + ax + b<br><br>Kita substitusikan x = 3 dan sisa S(3) = 4 . 15 = 60<br>h(3) = f(3) . g(3) = 3a + b = 60 ... (1)<br><br>Kita substitusikan x = -1 dan sisa S(-1) = 8 . (-9) = -72<br>h(-1) = f(-1) . g(-1) = -a + b = -72 ... (2)<br><br>Kedua persamaan kita selesaikan dengan metode eliminasi dan substitusi, diperoleh<br>3a + b = 60<br>-a + b = -72<br>__________-<br>\u21d4 4a = 132<br>\u21d4 a =\u00a0[tex] \\frac{132}{4} [/tex]<br>\u21d4 a = 33<br><br>Kita substitusikan a = 33 ke persamaan (2), diperoleh<br>-a + b = -72<br>\u21d4 -33 + b = -72<br>\u21d4 b = -72 + 33<br>\u21d4 b = -39<br><br>S(x) = 33x - 39<br><br>Jadi, jika suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4, suku banyak g(x) dibagi x + 1 sisanya -9dan dibagi x - 3 sisanya 15, dan suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah 33x - 39.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5171052<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-dari-barisan-geometri-adalah-243hasil-bagi-suku-ke-9-d-353",
+            "question": "suku ke 5 dari barisan geometri adalah 243,hasil bagi suku ke 9 dengan suku ke 6 adalah 27,suku ke 2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XII</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Barisan dan Deret</strong><br><strong>Kata Kunci : geometri, rasio, suku</strong><br><br><strong>Kode : 12.2.7 [</strong><span><strong>Kelas 12 Matematika BAB 7 - Baris dan Deret]</strong><br><br>Diketahui<br>Barisan geometri<br>Suku ke-5 atau U</span>\u2085 = 243<br>Hasil bagi suku ke-9 dengan suku ke-6 adalah 27<br><br>Ditanya<br>Suku ke-2 (U\u2082)<br><br>Penyelesaian<br><br>Gunakan rumus-rumus berikut ini untuk barisan geometri.<br><br>Rumus suku ke-n\u00a0\u21d2\u00a0[tex]U_n=a.r^{n-1}[/tex]<br>Keterangan<br>a = U\u2081 = suku pertama<br>r = rasio<br><br><strong>Step-1</strong><br><strong>Siapkan suku ke-5</strong><br><br>\u21d4 U\u2085 = 243<br>\u21d4\u00a0[tex]a.r^4=243[/tex]<br><br><strong>Step-2</strong><br><strong>Hubungan antara suku ke-9 dengan suku ke-6 untuk mendapatkan rasio</strong><br><br>\u21d4\u00a0[tex] \\frac{U_9}{U_6}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{a.r^8}{a.r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{r^8}{r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex]r^3=27[/tex]<br><br>DIperoleh rasio sebesar r = 3.<br><br><strong>Step-3</strong><br><strong>Menentukan suku pertama</strong><br><br>Substitusikan rasio ke dalam suku ke-5.<br><br>\u21d4\u00a0[tex]a.(3)^4=243[/tex]<br>\u21d4\u00a0[tex]a.81=243[/tex]<br>Diperoleh suku pertama yaitu a = 3.<br><br><strong>Final step</strong><br><strong>Hitung ke-2</strong><br><br>\u21d4\u00a0[tex]U_2=a.r[/tex]<br>\u21d4\u00a0[tex]U_2=(3)(3)[/tex]<br><br><strong>Diperoleh suku kedua yaitu U\u2082 = 9.</strong><br><br>__________________________<br><br>Simak soal notasi sigma\u00a0<br>brainly.co.id/tugas/13193195<br>Soal mengenai pembuktian dengan induksi matematika<br>https://brainly.co.id/tugas/13567638<br>Serta soal terkait deret aritmatika<br>brainly.co.id/tugas/1124372<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-diwajibkan-mengerjakan-10-dari-12-soal-yang-tersedi-364",
+            "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

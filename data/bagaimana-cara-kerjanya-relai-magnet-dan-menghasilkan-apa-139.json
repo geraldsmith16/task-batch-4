@@ -1,0 +1,142 @@
+{
+    "question": "Bagaimana cara kerjanya Relai magnet ? dan Menghasilkan apa ?\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Relay dapat bekerja\n karena adanya medan magnet yang digunakan untuk menggerakkan saklar. \nSaat kumparan diberikan tegangan sebesar tegangan kerja relay maka akan \ntimbul medan magnet pada kumparan karena adanya arus yang mengalir pada \nlilitan kawat. Kumparan yang bersifat sebagai elektromagnet ini kemudian\n akan menarik saklar dari kontak NC ke kontak NO. Jika tegangan pada \nkumparan dimatikan maka medan magnet pada kumparan akan hilang sehingga \npegas akan menarik saklar ke kontak NC.\n</span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Relay adalah sebuah alat elektro mekanik \nyang bekerja dengan memanfaatkan teori arus listrik yang menghasilkan \nmedan magnet. Pada dasarnya relay tidak berbeda dengan kontaktor dalam \nhal prinsip kerja. Kebanyakan relay mempunyai ukuran kecil, yang \nmempunyai fungsi</span><span>.</span>\nApa perbedaan relay dan kontaktor?\nBanyak sumber yang saya baca mengatakan bahwa perbedaan relay dan kontaktor:\nUkuran dari relay dan kontaktorPemakaian kontaktor biasanya digunakan untuk starting motor ataupun \narus fasa yang besar, sedangkan relay digunakan untuk memberikan nilai \ninput kepada controller.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-membuat-elektromagnet-yang-benar-a-sepotong-besi-ditempelka-393",
+            "question": "cara membuat elektromagnet yang benar a. sepotong besi ditempelkan pada penghantar yang berarus listrik b. sepotong besi dililiti kumparan kawat yang berarus listrik c. menempelkan paku kecil pada paku besar yang dililiti penghantar d. ujung-ujung besi dihubungkan dengan kutub-kutub elemen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>cara membuat elektromagnet yang benar adalah<br></span><span>b. sepotong besi dililiti kumparan kawat yang berarus listrik,karna dengan itu persebarannya merata\u00a0<br></span><br>semoga membantu:)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-magnet-dan-kumparan-yang-saling-berdekatan-digerakkan-sehi-282",
+            "question": "Sebuah magnet dan kumparan yang saling berdekatan digerakkan sehingga perubahan garis gaya magnet yang terjadi bernilai nol. Pernyataan yg tepat terkait kondisi tersebut adalah...    A. GGL induksi bernilai nol\r\n B. GGL induksi bernilai kecil\r\n C. GGL induksi bernilai tetap\r\n D. GGL induksi bernilai besar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ggl induksi terjadi jika ada perubahan garis gaya magnet jawabannya A",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mikroskop-mempunyai-objektif-yang-berjarak-titik-api-2-cm-963",
+            "question": "sebuah mikroskop mempunyai objektif yang berjarak titik api 2 cm. sebuah objek diletakkan 2,2 cm di bawah objektif. jika perbesaran okuler 10 kali, maka perbesaran mikroskop itu...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui\u00a0fob\u00a0:\u00a02\u00a0cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sob\u00a0:\u00a02,2\u00a0cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Mok\u00a0:\u00a010\u00a0kali<br>jarak\u00a0bayangan objektif (S&#039;ob)\u00a0yaitu :<br>S&#039;ob\u00a0=Sob.fob\u00a0: Sob\u00a0-\u00a0fob<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0= 2,2\u00a0. 2 : 2,2 - 2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 4,4 : 0,2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 22\u00a0cm<br>Perbesaran\u00a0total\u00a0:<br>Mtotal = Mob x Mok<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0=\u00a0<u>S&#039;ob .</u>\u00a0Mok<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sob<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =<u>\u00a022 </u>. 10<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 2,2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 10.10<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 100 kali<br>Jadi perbesaran mikroskop tersebut adalah 100 kali<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ayunan-bergetar-dengan-frekuensi-6-hz-ayunan-tersebut-aka-837",
+            "question": "sebuah ayunan bergetar dengan frekuensi 6 Hz. ayunan tersebut akan berayun dalam waktu 1 menit sebanyak berapa kali?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = 1 menit = 60 s<br>f = n/t<br>n = f x t<br>\u00a0 \u00a0= 6 x 60<br>\u00a0 \u00a0= 360 kali",
+                    "attachments": []
+                },
+                {
+                    "answer": "f = n/t<br>6 = n/60<br>n = 360 kali",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-memanaskan-bahan-kimia-yang-mudah-terbakar-768",
+            "question": "Bagaimana cara memanaskan bahan kimia yang mudah terbakar ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "alkkohol,bahan yang terbuatdr plastisin<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Untuk memanaskan bahan kimia yang mudah terbakar, harus digunakan penangas air</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tumbuhan-hydrilla-verticilla-banyak-terdapat-di-mana-apakah-se-225",
+            "question": "Tumbuhan hydrilla verticilla banyak terdapat di mana???\r\n Apakah sering di temukan???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kolam, danau<br>biasanya untuk hiasan di akuarium, di tempat jual ikan mungkin ada<br>mungkin iya (?) tergantung tempatnya sih<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-tiga-gerakan-satelit-830",
+            "question": "Sebutkan tiga gerakan satelit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gerakan rotasi, gerakan revolusi thdp bumi dan bersama-sama bumi berevolusi thdp matahari.",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Rotasi (berputar pada porosnya) <br>\n2. Revolusi (sebagai satelit yang berputar mengelilingi planetnya) <br>\n3. Bersama-sama bumi mengelilingi matahari          <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-kekekalan-energi-berikan-contohnya-753",
+            "question": "Apa yang dimaksud dengan kekekalan energi? berikan contohnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi memilik hukum, hukum itu disebut hukum kekekalan energi. Begini isinya : <br>Energi tidak dapat diciptakan, adan tidak dapat dimusnahkan<br>Seperti contohnya air, air akan terus ada. Juga angin. dan energi lainnya<br>\u00a0By : Muhammad Rafid Nadhif Rizqullah<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hukum kekekalan energi adalah : bahwa energi tidak dapat diciptakan dan tenergi tidak dapat dimusnahkan tetapi, energi dapat diubah kedalam bentuk yang lain. contohnya : energi gravitasi, dapat diubah menjadi energi gravitasi elastisitas.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "56-r-berapaf-15-f-berapar-20-k-berapa-c-75-f-berapa-469",
+            "question": "56 R berapa....F\r\n15 F berapa.....R\r\n20 K berapa ....C\r\n75 F berapa.......K",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "56R =( [tex] \\frac{9}{4} [/tex] x 56 ) +32<br>\u00a0 \u00a0 \u00a0= 126 + 32<br>\u00a0 \u00a0 \u00a0= 159 F<br>15F = ( 15 - 32 ) x\u00a0[tex] \\frac{4}{9} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0= -17 x\u00a0[tex] \\frac{4}{9} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0= - 7,6 R<br>20K = (20-273)<br>\u00a0 \u00a0 \u00a0 \u00a0= -253 C<br>75F = (75-32) x\u00a0[tex] \\frac{5}{9} [/tex] + 273<br>\u00a0 \u00a0 \u00a0 \u00a0= 23,9 + 273<br>\u00a0 \u00a0 \u00a0 \u00a0= 296,9 K",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-contoh-perpindahan-panas-secara-radiasi-903",
+            "question": "Sebutkan contoh perpindahan panas secara radiasi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diminta untuk sebutkan contoh perpindahan panas secara radiasi. Di bawah ini akan kita paparkan beberapa contoh perpindahan panas secara radiasi yang terjadi dalam kehidupan sehari-hari.</p><h3>Pembahasan</h3><p>Radiasi (atau pancaran) adalah perpindahan kalor tanpa melalui medium atau zat perantara. Radiasi tak dapat dilihat, hanya dapat dirasakan.</p><p>Berbeda dengan dua cara perpindahan kalor lainnya, yakni konduksi dan konveksi. Konduksi merupakan perpindahan kalor melalui medium zat padat, sedangkan konveksi adalah perpindahan kalor melalui medium zat cair atau gas.</p><p>Contoh perpindahan panas secara radiasi dapat disimak di bawah ini.</p><ul><li>Panas matahari sampai ke bumi melalui ruang hampa. </li><li>Radiasi\u00a0panas\u00a0dari\u00a0bola\u00a0lampu. </li><li>Radiasi\u00a0panas\u00a0dari\u00a0tungku\u00a0perapian, biasanya di negara berhawa dingin. </li><li>Microwave oven. </li><li>Menetaskan telur\u00a0ayam atau bebek\u00a0menggunakan sinar\u00a0lampu. </li><li>Menjemur pakaian\u00a0di siang hari. </li><li>Menjemur bahan makanan mentah di siang hari. </li><li>Lampu inframerah digunakan untuk menjaga suhu makanan di restoran\n. </li><li>Peralatan pencitraan medis \u00a0seperti MRI (magnetic resonance imagng) dan CT Scan. </li><li>Ionisasi makanan\n. </li><li>Sterilisasi alat medis\n. </li><li>Pemindaian medis nuklir\n. </li><li>Rontgen (sinar X). \u00a0</li><li>Pemindai keamanan bandara. </li><li>Terapi radiasi untuk penyakit kanker. \u00a0</li><li>Senjata nuklir\n. </li><li>Radiasi kosmik galaksi (tempat astronot terpapar)\n. </li><li>Radiasi peristiwa partikel surya (yang memungkinkan astronot terpapar)\n. </li><li>Gelombang yang terpancar oleh ponsel\n. </li><li>Remote kontrol\n. </li><li>Telepon tanpa kabel\n. </li><li>Layar komputer\n. </li><li>Sinar gamma\n. </li><li>Sinar alfa\n. </li><li>Sinar beta\n. </li><li>Produksi tenaga nuklir. </li><li>Partikel peluruhan radioaktif\n</li></ul><h3>\nPelajari lebih lanjut</h3><ol><li>Konversi suhu skala Celcius menjadi Reamur dan Fahrenheit brainly.co.id/tugas/1990198, brainly.co.id/tugas/5164684, dan brainly.co.id/tugas/1402684</li><li>Menghitung penambahan panjang akibat pemuaian brainly.co.id/tugas/80467</li><li>Menghitung koefisien muai panjang logam dari grafik dan memprediksi jenis logam brainly.co.id/tugas/2504479</li><li>Apa yang dimaksud suhu? https://brainly.co.id/tugas/28483</li></ol><p>__________________</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0: </strong>VII</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 :</strong> Fisika</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :</strong> Suhu, Pemuaian, dan Kalor</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 :</strong> 7.6.7</p><br><p><strong>Kata Kunci :</strong> sebutkan contoh, perpindahan panas, secara radiasi, kalor, tanpa melalui, medium, zat perantara, panas matahari, bola lampu, tungku perapian, dingin, microwave oven, menetaskan telur, menjemur pakaian, brainly</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

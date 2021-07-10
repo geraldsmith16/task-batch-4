@@ -1,0 +1,144 @@
+{
+    "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+            "attachments": [
+                "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+            ]
+        },
+        {
+            "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-fx-jika-dibagi-x-1-sisanya-8-dan-491",
+            "question": "diketahui suku banyak f(X) jika dibagi\u00a0 ( x+ 1) sisanya 8 dan ( x-3 ) sisanya 4 suku banyak g(x) jika dibagi dengan (x+1) bersisa -9 dan jika dibagi (x-3) sisanya 15 jika h(x) = F(X) . G(X), maka sisa pembagian H(X) oleh \u00d7\u00b2 - 2\u00d7 - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 11<br>Mapel : Matematika<br>Kategori : Suku Banyak<br>Kata Kunci : suku banyak, pembagi, hasil bagi, sisa<br>Kode : 11.2.5 [Kelas 11 Matematika KTSP Bab 5 - Sukubanyak]<br><br>Pembahasan :<br>Suku banyak atau polinomial p dalam k berderajat n memiliki bentuk umum :<br>[tex]a_n[/tex]x\u207f +\u00a0[tex]a_{n-1}[/tex]x\u207f\u207b\u00b9 + ... + [tex]a_2[/tex]x\u00b2 + [tex]a_1[/tex]x\u00b9 +\u00a0[tex]a_0[/tex]<br><span><br>dengan\u00a0</span>[tex]a_n[/tex], [tex]a_{n-1}[/tex], ..., [tex]a_2[/tex], [tex]a_1[/tex], [tex]a_0[/tex]\u00a0merupakan konstanta-konstanta real;<br><br>[tex]a_n[/tex] koefisien x\u207f, [tex]a_{n-1}[/tex]\u00a0koefisien x\u207f\u207b\u00b9, dan seterusnya;<br><br>[tex]a_0[/tex]\u00a0merupakan suku tetap;<br><span><br>n merupakan bilangan cacah yang menyatakan derajat suku banyak.<br><br>Misalnya suku banyak f(x) dibagi dengan P(x) memberikan hasil bagi H(x) dan sisanya S(x) maka diperoleh hubungan<br>f(x) = P(x) . H(x) + S(x)<br><br>Jika f(x) merupakan suku banyak berderajat n dan P(x) merupakan pembagi berderajat m dengan m\u00a0\u2264 n maka<br>1. H(x) adalah hasil bagi berderajat n - m<br>2. S(x) adalah sisa pembagian berderajat maksimum (m - 1).<br><br>Penerapan teorema sisa dapat dikembangkan untuk menentukan sisa pada pembagian suku banyak dengan suku banyak berderajat dua atau lebih yang dapat difaktorkan menjadi faktor-faktor linear.<br><br>Mari kita lihat soal tersebut.<br></span><span>Suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4. Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15. Jika suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah...<br><br>Jawab :<br>Diketahui s</span>uku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4.<br><br>Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15.<br><br>Suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3 = (x - 3)(x + 1).<br><br>Oleh karena pembagi (x - 3)(x + 1) berderajat dua, maka sisanya maksimum berderajat satu.<br><br>Misalkan pembagi P(x) = (x - 3)(x + 1), sisa S(x) = ax + b dan hasil bagi H(x), maka<br>h(x) = P(x) . H(x) + S(x)<br>h(x) = (x - 3)(x + 1) . H(x) + ax + b<br>f(x) . g(x) = (x - 3)(x + 1) . H(x) + ax + b<br><br>Kita substitusikan x = 3 dan sisa S(3) = 4 . 15 = 60<br>h(3) = f(3) . g(3) = 3a + b = 60 ... (1)<br><br>Kita substitusikan x = -1 dan sisa S(-1) = 8 . (-9) = -72<br>h(-1) = f(-1) . g(-1) = -a + b = -72 ... (2)<br><br>Kedua persamaan kita selesaikan dengan metode eliminasi dan substitusi, diperoleh<br>3a + b = 60<br>-a + b = -72<br>__________-<br>\u21d4 4a = 132<br>\u21d4 a =\u00a0[tex] \\frac{132}{4} [/tex]<br>\u21d4 a = 33<br><br>Kita substitusikan a = 33 ke persamaan (2), diperoleh<br>-a + b = -72<br>\u21d4 -33 + b = -72<br>\u21d4 b = -72 + 33<br>\u21d4 b = -39<br><br>S(x) = 33x - 39<br><br>Jadi, jika suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4, suku banyak g(x) dibagi x + 1 sisanya -9dan dibagi x - 3 sisanya 15, dan suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah 33x - 39.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5171052<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-suatu-deret-geometri-adalah-15-dan-suku-ke-8-adalah-120-927",
+            "question": "Suku ke 5 suatu deret geometri adalah 15 dan suku ke 8 adalah 120.rasio deret itu adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u5=15\nu8=120\nu5=a.r^(5-1)\n=a.r^4\nu8=a.r^(8-1)\n=a.r^7\nu8/u5=(a.r^7)/(a.r^4)\n120/15=r^3\n8=r^3\nr=2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-20-dari-barisan-420-2-adalah-824",
+            "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491",
+            "question": "Persamaan garis singgung kurva \r\n\r\nY=x3+2x2+1\r\n\r\n pada titik yg berbasis 1 adalah...",
+            "attachments": [
+                "question-attachments/persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "mna soalnnya.........................................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-823",
+            "question": "Pak daniel seorang karyawan\u00a0 perusahaan. Ia membeli sebuah mobil bekas seharga Rp 90.000.000,00. dan dikenakan pajak penjualan sebesar 5%.Berapa rupiah uang yang harus dibayar Pak Daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: IX</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Matematika perdagangan</p>\n\n<p>Kata kunci: pembelian, pajak, penjualan</p>\n\n<p>\u00a0</p>\n\n<p>Pak Daniel membeli sebuah mobil seharga Rp. 90.000.000,- </p>\n\n<p>Pak daniel juga harus membayar pajak sebesar 5% dari besar harga\npembelian mobil itu.</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>\u00a0</p>\n\n<p>Kita hitung dulu harga pajak yang harus dibayarkan:</p>\n\n<p>5/100 x 90.000.000 = Rp. 4500.000,-</p>\n\n<p>\u00a0</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>90.000.000 + 4.500.000 = Rp. 94.500.000,-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-566",
+            "question": "Suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 25 adalah 25/28",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau menurut saya jawabannya adalah 25/28 semoga bener ya<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

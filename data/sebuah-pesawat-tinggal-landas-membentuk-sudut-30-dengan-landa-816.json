@@ -1,0 +1,136 @@
+{
+    "question": "Sebuah Pesawat tinggal landas membentuk sudut 30\u00b0\u00a0 dengan landasan. Jika pesawat telah menempuh jarak 6km dari tinggal landas, berapa ketinggian Pesawat sekarang! Pliss yang tau coret\" di bawah :v",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tinggi pesawat artinya, didepan sudut 30\u00b0<br>nah, kalo gitu pake yang sin<br>sin = depan/miring<br>sin 30 = tinggi/6<br>0,5 = tinggi/6<br>tinggi = 0,5/6<br>tinggi = 5/60<br>tinggi = 1/12 km<br><br><br>setau aku sih gitu ya\u00a0:)<br>kalo salah maap ye",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-maksimum-fxax24xa-adalah-3-hitunglah-nilai-a-tolong-693",
+            "question": "Nilai maksimum f(x)=ax\u00b2+4x+a adalah 3. hitunglah nilai a!    Tolong di jawab dangan pnjelasannya yahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 3<br>y = [tex] \\frac{-D}{4a} [/tex]<br>y = [tex] \\frac{-(b^{2} - 4ac)}{4a} [/tex]<br>3 = [tex] \\frac{-(4^{2} - 4a.a)}{4a} [/tex]<br>12a = -(16 - 4a\u00b2)<br>12a = -16 + 4a\u00b2<br>4a\u00b2 - 12a - 16 = 0<br>a\u00b2 - 3a - 4 = 0<br>(a - 4)(a + 1) = 0<br>a = 4 atau a = -1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-3-dan-suku-ke-6-suatu-barisan-aritmatika-bertur-826",
+            "question": "Diketahui suku ke-3 dan suku ke-6 suatu barisan aritmatika berturut-turut 14 dan 29. suku ke-12 barisan tersebut adalah ......    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pers 1. \n14=a+2b\npers 2.\n29=a+5b\n\nmenggunakan metode eliminasi maka mendapatkan beda = 5,kemudian di subtitusikan ke pers. 1 maka didapat a/suku pertama =4\nslanjutx dgan menggunakan rumus a+(n-1)b,diperoleh hasil U12/suku ke-12 adalah 59..",
+                    "attachments": []
+                },
+                {
+                    "answer": "u3 = 14 = a+2b<br>u6 = 29 = a+5b<br>di eleminasi<br>-3b = -15<br>b = 5<br>nah kalau mau nyari a tinggal disubtitusi<br>misalnya pake yang u3<br>a+2b = 14<br>a+2(5) = 14<br>1=14-10 = 4<br>kalu udh ketemu tinggal dicantumkan deh<br>u12 = a+11b<br>u12 = 4+11\u00d75<br>u12 = 4 + 55<br>u12 = 59<br>Tolong dijadikan terbaik ya<br>Plisss banget<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kabel-akan-dipotong-menjadi-tujuh-bagian-panjang-dari-mas-661",
+            "question": "seutas kabel akan dipotong menjadi tujuh bagian. panjang dari masing-masing kabel membentuk\u00a0 barisan geometri . jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas kabel akan dipotong menjadi 7 bagian. Panjang dari masing-masing kabel membentuk \u00a0barisan geometri . Jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...</p><p><strong>Barisan geometri </strong>adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p><strong>Deret geometri </strong>adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>Banyak kabel dipotong (n) = 7</p><p>Panjang kabel terpendek (a) = 5 cm</p><p>Panjang kabel terpanjang (Un) = 320 cm</p><p>Ditanya :</p><p>Panjang kabel semula (Sn)?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio</strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>320 = 5 r\u2077\u207b\u00b9</p><p>320 = 5 r\u2076</p><p> \u00a0 \u00a0r\u2076 = [tex]\\frac{320}{5}[/tex]</p><p> \u00a0 \u00a0r\u2076 = 64</p><p> \u00a0 \u00a0r\u2076 = 2\u2076</p><p> \u00a0 \u00a0 r = 2</p><p>Jadi rasio = 2</p><p></p><ul><li><strong>Menentukan panjang kabel semula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2087 = [tex]\\frac{5 (2^{7} - 1)}{2 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{5 (128 - 1)}{1}[/tex]</p><p> \u00a0 \u00a0 = 5 \u00d7 127</p><p> \u00a0 \u00a0 = 635</p><p>Jadi panjang kabel tersebut adalah 635 cm atau 6,35 m</p><p></p><p>-------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri </h3><ol><li>Seutas tali dipotong menjadi 5 bagian. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula \u2192 https://brainly.co.id/tugas/39374</li><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang kabel semula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285",
+            "question": "1. jumlah semua bilangan ganjil antara 300 dan 750 yang bukan kelipatan 7 adalah 2. jumlah 3 suku pertama suatu deret geometri ialah 21 dan hasil kali 3 suku pertama itu ialah 64. nilai suku ketiga dan suku pertama deret itu berturut- turut adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika Bab Deret <br>Kelas: XII SMA <br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-barisan-aritmatika-adalah-45-jika-suku-kedu-114",
+            "question": "jumlah tiga bilangan barisan aritmatika adalah 45, jika suku kedua dikurangi 1 dan suku ketiga di tambah 5 maka, barisan tersebut menjadi barisan geometri, rasio barisan geometri tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggap suku suku itu adalah\u00a0<br>suku 1 = a-b<br>suku 2 = a<br>suku 3 = a+b<br>dan jumlahnya adalah 45<br><br>maka didapatkan : (a-b) + a +(a+b) = 45<br>b habis dan tersisa 3a = 45, maka a=15.<br><br>maka baris geometrinya menjadi 15-b + 15 + 15+b dan ketentuan soalnya adalah suku 2 dikurang 1 dan suku 3 ditambah 5 maka menjadi:<br>15-b + 14 + 20+b\u00a0<br><br>untuk mencari rasio, kita cari dulu kan biasanya b itu nah b itu didapetin dari cara silang kita yaitu:<br><br>suku2/suku1 = suku3/suku2 (rumus umumnya)<br>hasil kali silangnya dapet kan tuh -b^2 - 5b + 300 = 196 (\u00a0^\u00a0= kudarat ya ahaha)<br>kita turunin lagi tuh jadinya -b^2 - 5b + 104 atau sama juga b^2 + 5b - 104 biar ga bingung negatif dipangkat b^2 nya.<br><br>dapet kan tuh (b-8) (b+13) maka b bisa 8 atau -13<br><br>karna rasio, masukkan aja suku2/suku1<br>14\u00a0/\u00a015-b<br><br>*b nya kita ganti dengan 8 dan -13<br><br>hasilnya adalah untuk b = 8 rasionya 2<br>untuk b = -13 rasionya adalah 1/2<br><br>CMIIW ya hhe<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-adalah-pernyataan-bernilai-benar-q-bernilai-salah-d-884",
+            "question": "Diketahui P adalah pernyataan bernilai benar, q bernilai salah, dan r bernilai benar.Tentukan nilai kebanaran dari pernyataan berikut ini!    a.-p\u2227-q\u00a0 b.(r\u2227-q) \u2228-r\u00a0 c.(p\u2227-r)\u21d2q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. -p\u2227-q = S\u2227B = S<br>b. (r\u2227-q)\u00a0\u2228-r = \u00a0(B\u2227B)\u2228S = B\u2228S = B<br>c. (p\u2227-r)\u00a0\u21d2q = B\u2227S\u21d2B = S\u21d2B = B",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-sungsi-f-dan-g-ditentukan-dengan-rumus-fx-x2-gx-1-357",
+            "question": "Fungsi sungsi f dan g ditentukan dengan rumus f(x)= x+2 g(x) = 1/x (x # 0). tentukan fungsi invers dan f.komposisi berikut..    a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (x)\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (x)\r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (4)\r\n\r\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x+2<br>y = x+2<br>x = y-2<br>[tex] f^{-1} [/tex](y) = y-2<br>[tex] f^{-1} [/tex](x) = x-2<br><br>g(x) =\u00a0[tex] \\frac{1}{x} [/tex]<br>y =\u00a0[tex] \\frac{1}{x} [/tex]<br>xy = 1<br>x =\u00a0[tex] \\frac{1}{y} [/tex]<br>[tex] f^{-1} [/tex](x) =\u00a0[tex] \\frac{1}{x} [/tex]<br><br><br>a. [tex] (fog)^{-1} [/tex]\u00a0(x) = ([tex] g^{-1} [/tex]o[tex] f^{-1} [/tex]) (x) =\u00a0[tex] g^{-1} [/tex]([tex] f^{-1} [/tex]\u00a0(x)) =\u00a0[tex] g^{-1} [/tex](x-2) =\u00a0[tex] \\frac{1}{x-2} [/tex]<br>c.\u00a0[tex] (fog)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1}{4-2} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>b.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(x) =\u00a0\u00a0([tex] f^{-1} [/tex]o[tex] g^{-1} [/tex]) (x)\u00a0=\u00a0[tex] f^{-1} [/tex]([tex] g^{-1} [/tex] (x)) =\u00a0[tex] f^{-1} [/tex]([tex] \\frac{1}{x} [/tex]) =\u00a0[tex] \\frac{1}{x} [/tex] - 2 =\u00a0[tex] \\frac{1-2x}{x} [/tex]<br>d.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1-2(4)}{4} [/tex] =\u00a0[tex]- \\frac{7}{4} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "konversikan-36-derajat-r-derajat-c-derajat-f-k-464",
+            "question": "Konversikan\u00a0\r\n36 derajat R = ...derajat C = ...derajat F = ...K\u00a0\r\nbeserta cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C: 5/4 \u00d7 36 = 45 C \nF: 9/4 \u00d7 36 = 81+32=113 F\nK: 45+273=318 K inii yaa maff klo sllah",
+                    "attachments": []
+                },
+                {
+                    "answer": "C : 5/4 x 36 = 45 derajat C<br><br>F :9/4 x 36 + 32 = 113 derajat F<br><br>K : 36 + 273 = 309 derajat K<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

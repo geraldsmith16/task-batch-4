@@ -1,0 +1,156 @@
+{
+    "question": "diketahui barisan geometri dengan suku ke- 3=90 dan ke-5 =810 jumlah 6 suku pertama barisan\u00a0 itu adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U3 = 90<br>U5 = 810<br>r\u00b2 = [tex] \\frac{810}{90} [/tex] = 9 \u21d4 r = 3<br><br>U1 = Un[tex] \\frac{Un}{r^{n-1} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{3^{3-1} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{3^{2} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{9} [/tex]<br><br>\u00a0\u00a0 \u00a0 = 10<br><br>Sn = U1 x ([tex] r^{n} [/tex]-1)<br>S6 = 10 x ([tex] 3^{6} [/tex]-1)[tex] \\frac{10 \u00d7 (3^{6}-1)}{3-1} [/tex]<br><br>\u00a0\u00a0 \u00a0  = [tex] \\frac{10 x (729-1)}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{10 x 728}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{7280}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = 3.640<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982",
+            "question": "pada gambar diatas diketahui besar &lt;ACD = 20 derajat. hitunglah besar = &lt;BOC, &lt;AOC, &lt;BOD. tolong dibantu.. terimakasih ^^",
+            "attachments": [
+                "question-attachments/pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u2220OAC = \u2220OCA = 20\u00b0 (karena segitiga OCA adalah segitiga sama kaki) <br><br>sehingga<br>a. \u2220BOC = 2.\u2220OAC\u00a0 (sudut pusat dan sudut keliling yang menghadap busur yang sama)<br>\u2220BOC = 2.20\u00b0 = 40\u00b0<br><br>b. \u2220AOC = 180\u00b0 - \u2220OCA - \u2220OAC = 180\u00b0 - 20\u00b0 - 20\u00b0 = 140\u00b0<br><br>c. \u2220BOD = \u2220AOC\u00a0 (saling bertolak belakang)<br>\u00a0\u2220BOD = 140\u00b0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-karung-beras-ditulis-bruto-100-kg-dan-tara-10-maka-n-604",
+            "question": "Jika pada karung beras ditulis bruto 100 kg dan tara 10% , maka neto adalah...    *pake caranya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100% - 10% = 90%<br><br>90<br>----- x 100 = 90kg<br>100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "netto =\u00a0bruto\u00a0- tara<br>\u00a0 \u00a0 \u00a0 \u00a0 =100 kg - (10/100 x 100 kg)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 100 kg - 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 = 90 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748",
+            "question": "Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton . sisa karton di sebelah kiri,kanan dan atas foto 2 cm . jika foto dan karton sebangun , lebar karton di bawah foto adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : IX (3 SMP)<span><br>\nMateri : Kesebangunan dan Kekongruenan<br>\nKata Kunci : panjang, lebar, luas, sebangun</span></p><p><span><br>\nPembahasan :<br>\nDua bangun dikatakan sebangun, bila<br>\n1. sudut-sudut yang bersesuaian sama besar;<br>\n2. sisi-sisi yang bersesuaian memiliki\nperbandingan yang sama.</span></p><p><span><br>\nMari kita lihat soal tersebut.</span></p><span>Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton. Sisa karton di sebelah kiri, kanan, dan atas foto 2 cm. Jika foto dan karton sebangun, maka lebar karton di bawah foto adalah?<br><br>Jawab :<br></span>Perhatikan gambar terlampir.<br><p>Misalkan foto memiliki ukuran sebagai berikut.<br></p><p>tinggi = t\u2081 = \u00a030 cm, lebar = l\u2081 = 20 cm, dan luas = L\u2081.</p><p><span>\nLuas foto adalah<br>\nL</span>\u2081 = t\u2081 x l\u2081</p><p>\u21d4 L\u2081 = 30 x 20<span><br></span>\u21d4 L\u2081 = 600<span><br>\nJadi, luas foto adalah 600 cm\u00b2.<br><br></span></p><p>Misalkan karton memiliki ukuran sebagai berikut.</p><p>tinggi = t\u2082, lebar = l\u2082, dan luas L\u2082. Sehingga</p><p>lebar\u00a0</p><p>l\u2082 = l\u2081 + 2 + 2<span><br></span>\u21d4 l\u2082 = 20 + 2 + 2<span><br></span>\u21d4 l\u2082 = 24<br><br>tinggi</p><p>t\u2082 = t\u2081 + 2 + x<span><br></span>\u21d4 t\u2082 = 30 + 2 + x</p><p>\u21d4 t\u2082 = 32 + x</p><p><br></p><p>Karena foto dan karton sebangun, maka</p><p>[tex] \\frac{t_1}{t_2}= \\frac{l_1}{l_2}  [/tex]</p><p>\u21d4\u00a0[tex] \\frac{30}{32+x}= \\frac{20}{24}  [/tex]</p><p>\u21d4 20 . (32 + x) = 30 . 24</p><p>\u21d4 640 + 20x = 720</p><p>\u21d4 20x = 720 - 640</p><p>\u21d4 20x = 80</p><p>\u21d4 x =\u00a0[tex] \\frac{x=80}{20} [/tex]</p><p>\u21d4 x = 4.</p><p><br></p><p>tinggi</p><p>t\u2082 = 32 + x</p><p>\u21d4 t\u2082 = 32 + 4</p><p>\u21d4 t\u2082 = 36.</p><p><br></p><p>Luas karton adalah</p><p>L\u2082 = t\u2082 x l\u2082</p><p>\u21d4 L\u2082 = 36 x 24</p><p>\u21d4 L\u2082 = 864</p><p><span><br></span></p><p><span>Jadi, lebar karton di bawah foto adalah 4 cm dan luas karton adalah 864 cm</span>\u00b2.</p><p><span><br>\nSemangat!</span></p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-taman-bunga-berbentuk-lingkaran-dengan-luas-1386-m2-di-s-139",
+            "question": "suatu taman bunga berbentuk lingkaran dengan luas 1.386 m\u00b2. di sekeliling taman itu setiap 4 meter ditanami pohon cemara. banyak pohon cemara yang dapat ditanam adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran = [tex] \\pi [/tex] x r\u00b2<br>1386 m\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{22}{7} [/tex] x r\u00b2<br>1386 m\u00b2 x\u00a0[tex] \\frac{7}{22} [/tex] = r\u00b2<br>\u00a0[tex]\\sqrt{441} [/tex] m\u00b2 = r<br>\u00a0 \u00a0 21 m \u00a0 \u00a0 \u00a0 \u00a0 = r<br><br>keliling =\u00a0[tex] \\pi [/tex] x diameter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x 2 x r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x 2 x 21 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 132 m<br><br>banyak pohon cemara yang ditanam = 132 m : 4 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas = [tex] \\pi [/tex].r2<br>1386 = 22/7 . r\u00b2<br>r\u00b2 = 1386 . 7 / 22<br>r = \u221a441<br>r = 21<br><br>K = 2.[tex] \\pi [/tex].r<br>K = 2.22/7.21<br>K = 44 . 3 = 132<br><br>banyak pohon = 132/4 = 33 pohon<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-pembelian-kopi-dengan-bruto-50kg-adalah-rp-950000-jika-278",
+            "question": "Harga pembelian kopi dengan bruto 50kg adalah Rp. 950.000 , jika tara 2% dan penjualan tiap kg neto adalah Rp. 20.000 tentukan :    a neto\r\nb harga penjualan seluruhnya \r\nc keuntungan seluruhnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Harga pembelian</strong> kopi dengan <strong>bruto</strong> 50kg adalah Rp. 950.000 , jika<strong> tara</strong> 2% dan penjualan tiap kg <strong>netto</strong> adalah Rp. 20.000 tentukan :\n</p><p>a netto\n</p><p>b harga penjualan seluruhnya \u00a0</p><p>c keuntungan seluruhnya</p><p><strong>Membeli, menjual, untung, Bruto, Netto, Tara </strong>merupakan bagian dari permasalahan bab Aritmatika Sosial.</p><p><strong>Aritmatika sosial </strong>adalah materi matematika yang berhubungan dengan kehidupan sehari\", seperti menghitung harga jual, harga beli, untung, rugi, diskon, rabat, bruto, netto, tara, tangungan awal, tabungan ahir, bunga dll.</p><p><em><strong>Beberapa rumus dalam bab Aritmatika sosial berkenaan dengan jual beli:</strong></em></p><ul><li>Harga jual = Harga beli + Untung</li><li>Harga beli = Harga jual - Untung</li><li>Harga jual = Harga beli - Rugi</li><li>Harga beli = Harga jual + Rugi</li><li>Untung = Harga Jual - Harga beli</li><li>Rugi = Harga beli - Harga jual</li><li>Untung dalam rupiah = Prosentase untung x Harga beli</li><li>Bruto (berat kotor) = Netto + Tara</li><li>Netto = Bruto - Tara</li><li>Tara = Bruto - Netto</li></ul><p></p><h3>Pembahasan</h3><p><em><strong>Diketahui:</strong></em></p><p>Bruto = 50 kg</p><p>Tara = 2%</p><p>Harga beli = Rp 950.000</p><p>Harga jual/kg = Rp 20.000</p><p><em><strong>Ditanya:</strong></em></p><p>a netto\n</p><p>b harga penjualan seluruhnya \u00a0</p><p>c keuntungan seluruhnya</p><p><em><strong>Jawab:</strong></em></p><p><u><em><strong>Penyelesaian soal a</strong></em></u></p><p>Netto = Bruto - Tara</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50 kg - (2% x 50 kg)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50 kg - 1 kg</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 49 kg</p><p></p><p><u><em><strong>Penyelesaian soal b</strong></em></u></p><p>Harga jual seluruhnya = Netto x Harga jual/kg</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 49 x Rp 20.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 980.000</p><p></p><p><u><em><strong>Penyelesaian soal c</strong></em></u></p><p>Keuntungan seluruhnya = Harga Jual seluruhnya - harga beli seluruhnya</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 980.000 - Rp 950.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 30.000</p><p></p><h3>Pelajari Lebih Lanjut</h3><p>Soal-soal tentang Aritmatika Sosial dapat disimak juga di</p><ul><li>brainly.co.id/tugas/20594911</li><li>brainly.co.id/tugas/18969330</li><li>brainly.co.id/tugas/2285569</li><li>brainly.co.id/tugas/134717</li><li>brainly.co.id/tugas/17834231</li><li>brainly.co.id/tugas/85825</li></ul><h3>=============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 7</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Aritmatika Sosial</p><p><strong>Kode </strong>: 7.2.7</p><p></p><p><strong>Kata Kunci </strong>: Tabungan awal, tabungan ahir, suku bunga, lama menabung, Harga Jual, Harga Beli, Untung, Rugi</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668",
+            "question": "Pada gambar dibawah, jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah........",
+            "attachments": [
+                "question-attachments/pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah 65\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah<span><span></span></span> 65 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-5254-178-adalah-dan-sebutkan-langkah-langkah-x-892",
+            "question": "Hasil dari 5/2:5/4-17/8 adalah... dan sebutkan langkah-langkah-x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=5/2 x 4/5 - 17/8<br>=2-17/8=16/8-17/8=-1/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "(5/2 : 5/4) - 17/8 =<br>(5/2 x 4/5) - 17/8 =<br>20/10 - 17/8 = <br>2/1 - 17/8 =<br>16/8 - 17/8 = - 1/8<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tempat-mainan-berbentuk-balok-dibuat-dari-tripleks-untuk-425",
+            "question": "sebuah tempat mainan berbentuk balok dibuat dari tripleks. untuk membuatnya diperlukan tripleks 8,64 m\u00b2. jika tinggi tempat mainan 2m dan lebarnya 0,6 m maka panjangnya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas permukaan balok = (panjang x lebar) + (Panjang x tinggi) + (tinggi x lebar)<br>\u00a08,64 = (p x l) + (p x t) + (2 x 0,6)<br>\u00a08,64 = 1,2 + p ( t x l)<br>8,64 - 1,2 = p(2 x 0,6)<br>7,44 = 1,2p<br>panjang = 7,44/1,2 = 6,2 m",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permukaan balok = \n&lt;=&gt; ((pxl) + (pxt) + (lxt)) x2\n&lt;=&gt; ((p(l+t) + (lxt))x2\n&lt;=&gt; ((p(0,6+2) + (0,6x2))x2=8,64\n&lt;=&gt; 2,6p +1,2=4,32   &lt;=&gt; 2,6p = 4,32 - 1,2\n&lt;=&gt; 2,6p=3,12  &lt;=&gt; p= 3,12/2,6\np=1,2\n\njd panjang balo adalah 1,2 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-meminjam-uang-di-koperasi-sebesar-rp800000000-yang-982",
+            "question": "Seseorang meminjam uang di koperasi sebesar Rp.8.000.000,00 yang akan diangsur selama 10 bulan dengan bunga 12% per tahun. Besar angsuran tiap bulan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>8.000.000</u><u> </u>= 800.000 / bulan tanpa bunga<br>10<br> bunga =<u>800.000</u> = 66.666/bulan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12<br>jadi besar angsuran tiap bulan adalah 800.000 + 66.666 = Rp. 866.666<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "12 : 12 = 1<br>8.000.000 x 1% = 80.000<br>8.000.000 : 10 = 800.000<br>800.000 + 80.000 = 880.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-garis-singgung-lingkaran-251",
+            "question": "Pengertian garis singgung lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran itu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran itu.<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

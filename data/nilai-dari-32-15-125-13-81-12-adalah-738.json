@@ -1,0 +1,133 @@
+{
+    "question": "Nilai dari 32 1/5 - 125 1/3 + 81 1/2 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Nilai dari 32^ 1/5 - 125^ 1/3 + 81^ 1/2 adalah ...</p><p>Soal diatas menrupakan materi Eksponen yang berpangkat pecahan. Kemungkinan ini soal UN Matematika SMK.</p><p><u><strong>Sifat-sifat Perpangkatan </strong></u></p><p>[tex]$\\begin{align} \\ a^{m}\\times a^{n} &amp;= a^{m + n} \\end {align}[/tex]</p><p>[tex]$\\begin{align} \\ \\frac{ a^{m} }{ a^{n} } &amp;= a^{m - n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (ab)^{n} &amp;= a^{ n} \\times \\ b^{n} \\end{align}[/tex]</p><p>[tex]$\\begin{align} \\ (a:b)^{n} &amp;= a^{ n} : b^{n} \\end{align}[/tex]</p><p>Lebih lengkapnya silahkan lihat lampiran II</p><p></p><h2>Pembahasan</h2><p><strong>Menentukan nilai perpangkatan pecahan</strong></p><p>[tex]$\\begin{align} \\ 32^{\\frac{1}{5}} - 125^{\\frac{1}{3}} + 81^{\\frac{1}{2}} &amp; = (2^{ 5})^{\\frac{1}{5}} - (5^{3})^{\\frac{1}{3}} + (3^{ 4})^{\\frac{1}{2}} \\\\ &amp; = 2^{5 \\times \\frac{1}{5}} - 5^{3 \\times \\frac{1}{3}} + 3^{4 \\times \\frac{1}{2}} \\\\ &amp; = 2 - 5 + 3^{2} \\\\ &amp; = -3 + 9 \\\\ &amp; = 6\\end{align}[/tex]</p><p>Untuk penulisannya bisa dilihat pada lampiran I</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Eksponen dan bentuk Akar</h3><ol><li>Jika a = 1/9, b = 16 dan c = 125, maka nilai dari 2. a^(-1/2) - b^(1/4) + c^(1/3) adalah \u2192 https://brainly.co.id/tugas/14065011</li><li>Menyederhanakan perkalian bentuk pangkat \u2192 brainly.co.id/tugas/1774225</li><li>Menghitung perpangkatan negatif\u00a0\u2192\u00a0brainly.co.id/tugas/3777097</li><li>Sifat ekponen dan logaritma\u00a0\u2192\u00a0brainly.co.id/tugas/11181034</li><li>Pangkat pecahan \u2192\u00a0brainly.co.id/tugas/6055009</li><li>Soal cerita perpangkatan \u2192 https://brainly.co.id/tugas/3116750</li></ol><h3>Detil Jawaban</h3><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 10\u00a0SMA</p><p>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Matematika\u00a0</p><p>Kategori \u00a0 \u00a0 : Bab 1 - Eksponen dan Bentuk Akar</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 10.2.1</p><p>Kata kunci : nilai dari, pangkat pecahan</p><p></p><p>Semoga bermanfaat</p>",
+            "attachments": [
+                "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-1.jpg",
+                "answer-attachments/nilai-dari-32-15-125-13-81-12-adalah-738-2.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pesawat-tinggal-landas-membentuk-sudut-30-dengan-landa-816",
+            "question": "Sebuah Pesawat tinggal landas membentuk sudut 30\u00b0\u00a0 dengan landasan. Jika pesawat telah menempuh jarak 6km dari tinggal landas, berapa ketinggian Pesawat sekarang! Pliss yang tau coret\" di bawah :v",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggi pesawat artinya, didepan sudut 30\u00b0<br>nah, kalo gitu pake yang sin<br>sin = depan/miring<br>sin 30 = tinggi/6<br>0,5 = tinggi/6<br>tinggi = 0,5/6<br>tinggi = 5/60<br>tinggi = 1/12 km<br><br><br>setau aku sih gitu ya\u00a0:)<br>kalo salah maap ye",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-positif-membentuk-barisan-geometri-dengan-rasio-r-gt-798",
+            "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dari-fungsi-fxax2bxc-diketahui-f0-6-f1-dan-f22-796",
+            "question": "Jika dari fungsi f(x)=ax2+bx+c diketahui f(0)=-6, f(1) dan f(2)=28 maka f(x)=0 untuk x=...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(0)=a.0^2+b.0+c<br>-6=0+0+c<br>-6=c .............................nilai c<br><br>f(1)=a.1^2+b.1+c<br>28=a+b+(-6)<br>28+6=a+b<br>34=a+b ......................persamaan 1<br><br>f(2)=a.2^2+b.2+c<br>28=4a+2b+(-6)<br>28+6=4a+2b<br>34=4a+2b ......................persamaan 2\u00a0<br><br>f(1)=f(2)<br>a+b=4a+2b<br>a-4a=2b-b<br>-3a=b<br>b=-3a<br><br>34=2a+b\n\u00a0......................persamaan 1\n<br>34=2a+(-3a)<br>34=-a<br>a=-34<br><br>b=-3a<br>b=-3.34=-102<br><br>f(x)=0<br>-34x2-102x-6=0<br>-2.(17x2+51x+3)\u00a0=\u00a00<br>(17x+1) . (x+3)=0<br>x=\u00a0-1 / 17\u00a0\u00a0\u00a0\u00a0\u00a0 atau\u00a0\u00a0\u00a0 x= -\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-u1-2-dan-s10-33s5-nilai-u6-304",
+            "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-tahun-yang-lalu-umur-ayah-6-kali-umur-anaknya-dalam-18-tahun-m-645",
+            "question": "2 tahun yang lalu umur ayah 6 kali umur anaknya. Dalam 18 tahun mendatang, umur ayah menjadi 2 kali umur anaknya. Berapa umur mereka sekarang ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori : matematika - persamaan linier<br>kelas : 10 SMA<br>pembahasan : jawabannya adalah umur ayah 32 tahun dan umur anak 7 tahun. penyelesaian dengan cara terlampir<br>",
+                    "attachments": [
+                        "answer-attachments/2-tahun-yang-lalu-umur-ayah-6-kali-umur-anaknya-dalam-18-tahun-m-645-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "umur-seorang-ayah-empat-kali-umur-anaknya-dan-lima-tahun-yang-lal-834",
+            "question": "umur seorang ayah empat kali umur anaknya dan lima tahun yang lalu hasil kali umur mereka adalah 175. nyatakan umur ayah sekarang dalam persamaan kuadrat!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur ayah : x, umur anak : y<br>x = 4y<br>(x - 5)(y - 5) = 175<br>(4y - 5)(y - 5) = 175<br>4y\u00b2 - 25y + 25 = 175<br>4y\u00b2 - 25 - 150 = 0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perbandingan umur ayah dan umur anak adalah 1 : 4<br>umur anaknya 10 tahun dan umur ayahnya 40 tahun<br>5 tahun yang lalu umur anaknya 5 tahun dan ayahnya 35 tahun, jika dikalikan mendapatkan hasil 175<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187",
+            "question": "selisih panjang dan lebar suatu persegipanjang adalah 8 cm, dan keliling persegi panjang tersebut 44 cm. luas persegi panjang adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : persegi panjang, panjang, lebar, keliling, luas<br>Pembahasan :<br>Perhatikan gambar terlampir.<br><p>Persegi panjang adalah bangun datar\nsegi empat yang memiliki dua pasang sisi sejajar dan empat buah sudut\nsiku-siku.<br></p>\n\n<p>Sifat-sifat persegi panjang, yaitu :<span><br>\n1. sisi-sisi yang berhadapan </span>pada persegi panjang adalah sama panjang dan\nsejajar<span><br>\nAB = C</span>D, AB//CD dan AD = BC, AD//BC;<span><br>\n2. setiap sudut pada persegi panjang sama besar\ndan merupakan sudut siku-siku</span>\n(atau memiliki sudut 90\u00b0)<span><br></span>\u2220BAD = \u2220ABC= \u2220BCD\n= \u2220ADC = 90\u00b0;<span><br>\n3. diagonal-diagonal pada persegi panjang </span>adalah sama panjang<span><br>\nAC = BD;<br>\n4. diagonal-diagonal </span>pada persegi panjang\nberpotongan dan saling membagi dua sama panjang<span><br>\nOA = OC dan OB = OD</span>. Karena AC = BD, maka OA = OB = OC =\nOD;<span><br>\n5. </span>persegi panjang memiliki dua buah simetri\nlipat atau sumbu simetri;<span><br>\n6. </span>persegi panjang memiliki dua buah simetri putar;<span><br>\n7. Menempati bingkainya dengan empat cara.<br></span>Keliling persegi\npanjang adalah </p>\n\n<p>K = 2 . p\n+ 2 . l </p>\n\n<p>= 2 . (p\n+ l)</p>\n\n<p>dengan p merupakan\npanjang dan l merupakan lebar.<span><br></span>Luas persegi panjang\nadalah </p>\n\n<p>L = p . l</p>\n\n<span>dengan\np merupakan panjang dan l merupakan lebar.<br><br>Mari kita lihat soal tersebut.<br>Diketahui selisih panjang dan lebar suatu persegi panjang adalah 8 cm.<br>Kelilingnya adalah 44 cm.\u00a0<br>Misalkan panjang = p, lebar = l, keliling = K, dan luas = L,<br>diperoleh<br>p - l = 8<br></span>\u21d4 p = 8 + l<br><span>Kemudian, <br>K = 44 cm<br>K = 2(p + l)<br></span>\u21d4 K = 2(8 + l + l)<br>\u21d4 K = 2(8 + 2l)<br>\u21d4 K = 16 + 4l<br>\u21d4 44 = 16 + 4l<br>\u21d4 28 = 4l<br>\u21d4 l =\u00a0[tex] \\frac{28}{4} [/tex]<br>\u21d4 l = 7<br><span>Sehingga l = 7 kita substitusikan ke persamaan<br>p = 8 + l<br></span>\u21d4 p = 8 + 7<br>\u21d4 p = 15<br><span>Selanjutnya,\u00a0<br>L = p x l<br></span>\u21d4 L = 15 x 7<br>\u21d4 L = 105<br><span>Jadi, luas persegi panjang tersebut adalah 105 cm</span>\u00b2.<br><span><br>Semangat!<br><br></span>",
+                    "attachments": [
+                        "answer-attachments/selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-persamaan-kuadrat-dari-persamaan-kuadrat-4xpangkat2-13x-930",
+            "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

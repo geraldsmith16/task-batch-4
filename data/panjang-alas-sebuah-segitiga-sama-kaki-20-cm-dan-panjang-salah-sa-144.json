@@ -1,0 +1,144 @@
+{
+    "question": "Panjang alas sebuah segiTiga sama kaki 20 cm Dan panjang salah satu kakinya 26 cm.\u00a0    A. Garis\u00a0 tinggi Dari titik puncak ke sisi alas adalah?\r\nB. Berapakah luas segitiga tersebut?\u00a0\r\nPlease dibantu sama caranya ya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "A) karna segitiga sama kaki maka segitiga sama kaki tersebut dapat dibagi menjadi dua segitiga tegak lurus , sehingga alasnya 1/2 x 20 = 10<br>maka[tex]=  \\sqrt{ 26^{2}  - 10^{2} } =  \\sqrt{ 676 - 100 } =  \\sqrt{ 576}  = 24[/tex]<br><br>B) Untuk luas segitiga<br>[tex] \\frac{1}{2} * alas * tinggi =  \\frac{1}{2} * 20 cm * 24 cm =   240 cm^{2} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "herman-meminjam-uang-di-bank-sebesar-900000-bank-tersebut-membe-800",
+            "question": "Herman meminjam uang di bank sebesar 900.000. Bank tersebut memberikan bunga pinjaman 15% per tahun. Jika Herman hendak mengembalikan pinjaman dengan cara cicil selama 18 bulan, maka besar cicilan tiap bulannya adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "115^2/10000x50000= 66.125 rupiah",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0pinjam 900.000<br>bunga 15%<br>cicilan 18 bulan<br><br>-&gt; 15/100 x 900.000 = 135.000 (bunga)<br>-&gt; 900.000 + 135.000 = 1.035.000<br>-&gt; 1.035.000 : 18 = 57.500 (besar cicilan tiap bulan)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-disamping-besar-sudut-aob90-dan-panjang-jari-jari-536",
+            "question": "pada gambar disamping besar sudut AOB=90\u00b0 dan panjang jari jari =10 cm,berapa luas daerah yg di arsir?",
+            "attachments": [
+                "question-attachments/pada-gambar-disamping-besar-sudut-aob90-dan-panjang-jari-jari-536-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "L juring= a x [tex] \\pi [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>L juring = 90 x 3,14 x 10 x 10 / 360 = 78,5 cm2<span><br><span>L\nsgitiga= 1/2 x 10 x 10 = 50 cm2</span><br>\njadi, daerah yang di arsi= 78,5 - 50 = 28,5cm2</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-ayam-membeli-300-ekor-ayam-dari-peternak-dengan-915",
+            "question": "Seorang pedagang ayam membeli 300 ekor ayam dari peternak dengan harga rata rata rp6.000,00 kemudian dijualnya di pasar.hari pertama ia menjual 180 ekor ayam dengan harga rp10.000,00tiap ekor.ternyata pada hari kedua 100 ekor ayam mati karna flu burung dan sisanya berhasil dijual dengan harga rp 9.000,00 tiap ekor.jawablah pertanyaan di bawah ini    a)untung atau rugikah pedagang tersebut?\r\nb)berapakah persentase keuntungan atau kerugiannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) untung<br>b) jawab :<br>seorang pedagang membeli 300 ekor ayam<br>harga rata2 Rp. 6.000,00<br>hari pertama menjual 180 ekor<br>harga tiap ekor Rp. 10.000,00<br>mati 100<br>sisanya dijual dengan harga Rp. 9.000,00<br>300 ekor - 180 ekor - 100 ekor = 20 ekor<br>180 dikali Rp.10.000,00 = Rp.1.800.000,00<br>20 dikali Rp.9.000,00 = Rp.180.000,00<br>Rp.1.800.000,00 + Rp. 180.000,00 = Rp. 1980.000,00<br>300 dikali Rp.6.000,00 = Rp.1.800.000,00<br>1.980.000,00 - 1.800.000,00 = 180.000,00<br>jadi pedagang tersebut untung sebanyak Rp. 180.000,00<br>Presentase untung = 180.000,00/1.800.000,00 dikali 100% = 10%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kolam-berbentuk-lingkaran-berjari-jari-40m-di-sekeliling-k-353",
+            "question": "sebuah kolam berbentuk lingkaran berjari-jari 40m di sekeliling kolam di buat jalan melingkar selebar 2 m jika biaya untuk membuat jalan tiap 1m\u00b2 adalah Rp20.000,00 hitunglah seluruh biaya untuk membuat jalan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L1 =\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 = 3,14 x 40 m x 40 m<br>\u00a0 \u00a0 = 5024 m\u00b2<br>L2 =\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 = 3,14 x 42 m x 42 m<br>\u00a0 \u00a0 = 5538,96 m\u00b2<br>L jalan = 5538, 96 m\u00b2 - 5024 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 514,96 m\u00b2<br>Biaya total = biaya awal x L jalan]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 20.000 x 514,96 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp\u00a010.299.200",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-yang-besarnya-lebih-dari-180-derajat-dan-kurang-dari-360-de-859",
+            "question": "Sudut yang besarnya lebih dari 180 derajat dan kurang dari 360 derajat disebut....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut refleks.......",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-suatu-sudut-2-kali-pelurusnya-hitung-besar-sudut-itu-beser-961",
+            "question": "Besar suatu sudut 2 kali pelurusnya hitung besar sudut itu!\r\nbeserta contohnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x+x =180<br>3x=180<br>x = 60<br><br>besar sudut = 2x = 2.60 = 120",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. 180 = 360<br>contoh sudut antara jarum\u00a0jam 12 dgn jarum jam 6\u00a0<br>dikalikan dua = 360 drajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-indah-membeli-2-lusin-gelas-seharga-192000gelas-tsb-akan-dij-245",
+            "question": "Bu indah membeli 2 lusin gelas seharga 192.000,gelas tsb akan dijual lagi dengan harga Rp.9500/biji.    a. tentukan besar keuntungan /kerugian bu indah \r\nb. agar diperoleh keuntungan 25%,berapa harga jual gelas perbiji?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Rp.9500 x 24 = Rp.228.000<br>keuntungan = Rp.228.000 - Rp.192.000 = Rp. 36.000<br><br>b. 25% x Rp.192.000 = Rp.48.000<br>harga jual dua lusin = Rp.192.000 + Rp.48.000 = Rp.240.000<br>jadi harus dijual dengan = Rp.240.000 : 24 = Rp.10.000 per buah.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>2 lusin = 2 x 12 = 24 gelas<br><br>harga jual = 24 x 9.500 = 228.000<br><br>keuntungan = harga jual - harga beli = 228.000 - 192.000 = 36.000<br><br>b.<br>harga beli 1 gelas = 192.000 : 24 = 8000<br>harga jual 1 gelas untuk 25% =\u00a0[tex] \\frac{125}{100}\\times 8000=10000 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-beserta-jawaban-dan-proses-berikan-contoh-2-soal-persamaan-267",
+            "question": "Soal beserta jawaban dan proses.    berikan contoh 2 soal persamaan linear satu variabel. beserta prosesnya dan jawabannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. -10+3(4-3X)=2(X+2)-10<br>5-12+9X = 2X+4-10<br>9X-2X + -10+4+12-5<br>7X = 1<br>X = 1/7<br><br>2.-4(3X-2)+38-2X<br>-12X+8 = 38-2X<br>-12+2X = 38-8<br>-10X=30<br>X=30/-10<br>X=-3",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 1 = 5<br>\u00a0 \u00a0 \u00a02x = 5+1<br>\u00a0 \u00a0 \u00a02x\u00a0= 6<br>\u00a0 \u00a0 \u00a0 x \u00a0= 3<br><br>3x\u00a0+ 12 = 7x - 8<br>3x-7x \u00a0 \u00a0= -8-12<br>-4x \u00a0 \u00a0 \u00a0 \u00a0= -20<br>x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 5<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-didefinisikan-dengan-rumus-fx-ax-b-jika-f-3-858",
+            "question": "Fungsi f didefinisikan dengan rumus f(x) = ax + b , jika f(-3) = -15 dan f(2) = 0 , nilai f(-5) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x) = ax + b <br>f(-3) = -3a + b =\u00a0-15 <br>f(2) = 2a + b = 0\u00a0<br>dieliminasi, -5a = -15, a = 3, jadi b = -6<br><br>nilai f(-5) = -5(3) - 6 = -21</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-rio-menyimpan-uangnya-di-bank-pada-awal-januari-2011-sebesar-350",
+            "question": "Pak Rio menyimpan uangnya di bank pada awal Januari 2011 sebesar RP.4.000.000. Pada akhir bulan Desember 2011 Pak Rio mengambil uangnya yg sudah berjumlah RP.4.800.000 . Selama setahun tersebut persentase bunga yg di berikan bank sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tab awal = 4.000.000<br><br>4.800.000 - 4.000.000 = 800.000<br>Bunga \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 800.000<br>4.000.000 x 1 x P<u></u><u></u>/100 = 800.000<br>40.000P = 800.000<br>P = 800.000 : 40.000<br>P = 20<br>Besar % bunga 20%<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

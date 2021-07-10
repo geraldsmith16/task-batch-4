@@ -1,0 +1,140 @@
+{
+    "question": "Apa yang anda ketahui tentang file yang berekstensi.com",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "setau silla .com bukan ektensi file deh... tapi sebuah domain di internet...",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-fungsi-sub-menu-copy-dalam-menu-home-232",
+            "question": "Apakah fungsi sub menu copy dalam menu home ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang pasti untuk menyalin sesuatu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bedanya-gb-sama-mb-itu-apa-240",
+            "question": "Bedanya gb sama mb itu apa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Gb dan Mb <strong>adalah </strong>dua ukuran penyimpanan data dalam perangkat elektronik. Gb merupakan singkatan dari Gigabita semetnara Mb merupakan singkatan dari Megabita. Hal ini berbeda dengan GB maupun MB, masing-masing singkatan dari Gigabyte dan Megabyte.</p><p></p><h3>Pembahasan</h3><p>Pada kesempatan ini, soal meminta kita untuk menjelaskan perbedaan Gb dan Mb. Berikut kakak akan mencoba menjawab pertanyaan tersebut. </p><p></p><p><strong>Gigabita atau Gb adalah satuan ukuran data yang terdiri dari 1.024 Mb atau Megabita. Sementara Mb atau Megabita merupakan satuan ukuran data yang terdiri dari 1.024 Kb atau kilobit. </strong></p><p><strong></strong></p><p>Berkat adanya satuan pengukuran data tersebut, ketika kita ingin menyebutkan besaran suatu data, kita tak perlu lagi direpotkan dengan jumlah angka yang terlalu besar sebab dapat disederhanakan menjadi bentuk yang lebih ringkas.</p><p></p><h3>Pelajari lebih lanjut</h3><p>Pada materi ini, kamu dapat belajar tentang memori:</p><p>https://brainly.co.id/tugas/6290475</p><p></p><h3>Detil jawaban</h3><p><strong>Kelas: SMP</strong></p><p><strong>Mata pelajaran: TI</strong></p><p><strong>Bab: -</strong></p><p><strong>Kode kategori: -</strong></p><p><strong></strong></p><p><strong>Kata kunci: gigabit</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-search-engine-900",
+            "question": "Contoh search engine",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yahoo, google, ask, opera.",
+                    "attachments": []
+                },
+                {
+                    "answer": "Easy bana! :)<br>search engine yaa mesin pencarian,kaya web ini juga bisalah tergolong salah satunya. tapi ada beberapa yang terkenal di kalangan umum :<br>1. Mbah Google :P<br>2. Yahoo<br>3. Wikipedia<br>4. WikiHow<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-fungsi-dan-kegunaan-kertas-dalam-kantor-829",
+            "question": "Pengertian, Fungsi, dan kegunaan kertas dalam kantor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kertas dalam kantor adalah wadah yg digunakan untuk menuliskan segala sesuatu urusan kantor baik yg formal maupun non formal,<br><br>Fungsi : sebagai dokumentasi tertulis dlm bentuk cetak<br><br>Kegunaan kertas :<br>- surat menyurat<br>- dokumentasi data<br>- Pencatatan kegiatan<br>- pembukuan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pengertian-right-dan-rumusnya-2-pengertian-left-dan-rumus-326",
+            "question": "1.\u00a0pengertian\u00a0RIGHT dan rumusnya     2.\u00a0pengertian\u00a0LEFT dan rumusnya\u00a0\r\n3.\u00a0pengertian\u00a0LEN dan rumusnya\u00a0\r\n4.\u00a0pengertiann\u00a0PROPER dan rumusnya\u00a0\r\n5.\u00a0pengertian\u00a0LOWER dan rumusnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a01.\u00a0RIGHT digunakan untuk mengambil karakter dari kanan/belakang/akhir dari data teks sebanyak jumlah karakter yang diambil\u00a0<br><span>=RIGHT(data_teks, jumlah_karakter).<br>2.\u00a0</span>\u00a0string adalah fungsi yang dapat menempatkan dan mengelolah data berjenis teks pada lembar kerja MS. Excel.<br><span>\u00a0=LEFT(data teks, jumlah karakter)<br>3.\u00a0</span>LEN <span>Digunakan untuk menghitung panjang suatu teks atau banyaknya teks<br></span><span>=Menjumlah Karakter(Sel yang akan dihitung karakternya)<br></span>4.PROPER\u00a0membuat teks menjadi huruf besar di karakter pertama di setiap kata. Penulisannya:<br><span>=PROPER(text)<br>5.\u00a0</span>Fungsi LOWER<br>Fungsi ini kebalikan dari fungsi UPPER, yaitu menjadikan huruf kecil semua. penulisannya:<br><span>=LOWER(text)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-mengenai-tab-file-dalam-ms-excel-2010-866",
+            "question": "Jelaskan mengenai tab File dalam MS. Excel 2010",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tombol\n yang berisi menu full down.tombol ini sebagai pengganti microsoft \noffice button (atau tombol microsoft) yang terdapat pada excel versi \n2007<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pada tutorial VBA dasar, penulis menunjukkan bagaimana developer tab diaktifkan di MS Excel 2007. Nah, ternyata terdapat perbedaanuntuk mengaktifkan tab yang sama di MS Excel 2010.<br><br><br>kunjunggi\u00a0</span>http://www.belajarexcel.info/2013/09/mengaktifkan-developer-tab-di-excel-2010.html",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-antara-tombol-close-dengan-tombol-exit-pada-lembar-801",
+            "question": "Apa perbedaan antara tombol close dengan tombol exit pada lembar kerja microsoft Excel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Close:</strong> Untuk menutup dokumen di Ms. Excel tanpa menutup aplikasinya<br><strong>Exit:</strong> Untuk menutup dokumen di Ms. Excel beserta menutup aplikasinya<br><br>Semoga Membantu!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-tujuan-komunikasi-dalam-jaringan-apa-jenis-komunikasi-dalam-599",
+            "question": "Apa tujuan komunikasi dalam jaringan?, Apa jenis komunikasi dalam jaringan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tujuan komunikasi dalm jaringan adalah mempermudah dalam berkomunikasi tidak perlu bertemu langsung. jenis komunikasi dalam jaringan misalnya, intrnet, tv, handphone<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebagai mana yang kita ketahui komunikasi merupakan suatu kegitan di mana kita saling berinteraksi baik secara langsung maupun tak langsung untuk menyampaikan suatu informasi. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-jejaring-sosial-585",
+            "question": "Pengertian jejaring sosial",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jejaring sosial adalah suatu struktur sosial\n yang dibentuk dari simpul-simpul (yang umumnya adalah individu atau \norganisasi) yang dijalin dengan satu atau lebih tipe relasi spesifik \nseperti nilai, visi, ide, teman, keturunan, dll.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jejaring sosial adalah suatu cakupan dari sistem software yg memungkinkan pengguna dapat berinteraksi dan berbagi data dengan pengguna yg lain dalam skala yg besar<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebutkan-macam-macam-komponen-yang-terdapat-dalam-excel-2007-903",
+            "question": "1. sebutkan    macam-macam komponen yang terdapat dalam excel 2007!\r\n\r\n 2.\r\n jelaskan perbedaan antara cell dan range dalam excel 2007!\r\n\r\n 3.\r\n jelaskan perbedaan antara tombol save dan save as!\r\n\r\n 4.\r\n jelaskan perbedaan fungsi dari perintah excel options dan exit excel!\r\n\r\n 5. apa\r\n yang dimaksud dengan quick access toolbar? jelaskan!\r\n\r\n 6.jelaskan\r\n cara memindah worksheet!\r\n\r\n 7.\r\n sebutkan bentuk-bentuk kursor dan jelaskan!\r\n\r\n 8.\r\n jelaskan apa yang disebut dengan autofill!\r\n\r\n9.\r\n jelaskan apa yang di maksud dengan range!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Office Button, Quick Acces Toolbar, Tiittle Bar, Ribbon, Name Box (Bar Nama), Formula Bar, Kolom (Column), Baris (Row), Sel (Cell), Lembar Kerja, Tabulasi Worksheet, Navigasi Worksheet, Zoom Level, Scroll Bar.<br><br>2. - Cell adalah perpotongan antara baris dan kolom<br>\u00a0\u00a0\u00a0 - Range merupakan gabungan dari beberapa sel<br><br>3. - Save: Untuk menyimpan dokumen<br>\u00a0\u00a0\u00a0 - Save as: Untuk menyimpan dokumen dengan nama atau format yang berbeda<br><br>4. - Excel Options: Untuk membuka jendela Excel Options (Pengaturan Excel)<br>\u00a0\u00a0\u00a0 - Exit Excel: Untuk menutup aplikasi Ms. Excel<br><br>5. Quick Acces Toolbar adalah bar yang berfungsi untuk mengakses perintah-perintah yang ada di Ms. Excel dengan cepat, atau Quick Acces Toolbar merupakan jalan pintas untuk mengakses suatu perintah-perintah<br><br>6. Cara memindahkan Sheet: Klik dan Tahan Tab Worksheet yang ingin dipindahkan \u2192 Lalu gerakan pointer ke arah Tab Worksheet yang ingin dipindahkan.<br><br>7. (Di Gambar)<br><br>8. <span>Untuk mengisi data pada sel berdasarkan pola tertentu dari data pada sel lain</span><br><br>9. Range adalah gabungan dari beberapa sel<br>",
+                    "attachments": [
+                        "answer-attachments/1-sebutkan-macam-macam-komponen-yang-terdapat-dalam-excel-2007-903-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

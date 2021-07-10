@@ -1,0 +1,138 @@
+{
+    "question": "Carilah akar-akar persamaan kuadrat dari x\u00b2+2x-8=0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0 adalah -4 dan 2.</p><p></p><h3>Pembahasan</h3><p>Persamaan kuadrat adalah persamaan polinomial dengan suku terdingginya berderajat 2.</p><p>Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c, dengan a, b dan c adalah koefisiennya, x\u00b2 dan x adalah peubahnya.</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Jika p dan q adalah akar-akar persamaan x\u00b2 - 16x + 48=0 dengan p &gt; q,nilai \u2153p - \u00bdq adalah brainly.co.id/tugas/23470449</li></ul><p></p><p>Untuk mengetahui akar-akar dari persamaan kuadrat dengan cara memfaktorkan atau menggunakan rumus abc.</p><p>Pada Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c = 0, penjumlahan akar-akarnya = [tex]\\frac{-b}{a}[/tex]\u00a0, dan hasil kali akar-akarnya = [tex]\\frac{c}{a}[/tex]\u00a0.</p><p>Rumus diskriminan persamaan kuadrat</p><p>D = b\u00b2 - 4ac</p><p>Jika akar-akar dari persamaan kuadrat adalah p dan q, maka bentuk persamaan kuadratnya adalah</p><p>x\u00b2 - (p+q)x + pq = 0</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Pengertian persamaan kuadrat dapat disimak di brainly.co.id/tugas/1779207 \u00a0</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0</p><p>Kita faktorkan</p><p>x\u00b2 + 2x - 8 = 0</p><p>(x + 4)(x - 2) = 0</p><p>x + 4 = 0 \u00a0atau x - 2 = 0</p><p>x = -4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = 2</p><p></p><p>HP = {-4, 2}</p><p></p><h3>Pelajari lebih lanjut</h3><ul><li>Tentukan persamaan kuadrat yang akarnya 8 dan -2 dapat disimak di brainly.co.id/tugas/4992073</li><li>Akar akar persamaan kuadrat 2x^-5x-3=0 dapat disimak di brainly.co.id/tugas/4039095</li></ul><h3>===============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Persamaan kuadrat</p><p><strong>Kode </strong>: 9.2.9</p><p></p><p><strong>Kata Kunci </strong>: Persamaan kuadrat, akar-akar persamaan kuadrat, Diskriminan.</p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-persamaan-berikut-ini-a-3-kal-609",
+            "question": "Tentukan nilai x yang memenuhi persamaan berikut ini !\u00a0    a. 3 kali x pangkat 0,4 = 9 kali (1/3) pangkat 0,6\r\nb. 3 pangkat 5x-1 = 27 pangkat x+3\r\nc. akar 4 pangkat x+4 = (1/16) pangkat 5-x\r\nd. 3 akar 27 pangkat 2x-1 = (3 akar 1/243) pangkat 3x\r\n\r\n~Selamat menjawab~ tolong bantu saya :)\r\n# jangan jawab asal asalan yah.. poinnya tinggi loh.. ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x^{0.4} = 9(\\frac{1}{3})^{0.6} \\\\ 3x^{(\\frac{2}{5})} = 3^3 3^{-(\\frac{3}{5})} \\\\ 3x^{(\\frac{2}{5})} = 3^{3 - (\\frac{3}{5})} \\\\ x^{(\\frac{2}{5})} = 3^{(\\frac{7}{5})} \\\\ x^{(\\frac{2}{5})} = (3^{(\\frac{7}{2})})^{(\\frac{2}{5})} \\\\ x = 3^{(\\frac{7}{2})}[/tex]<br>Sesak gua jawabnya -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-magga-dan-apel-75-buah-jika-perbandingan-78-banyak-buah-a-560",
+            "question": "Jumlah Magga dan Apel 75 Buah jika perbandingan 7:8 Banyak Buah Apel adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya mangga=35<br>apel=40<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mangga = m<br>Apel = a<br>\u00a0<br>m + a = 75<br>\u00a0m : a\u00a0= 7 : 8\u00a0<br>\u00a0Apel = 8/7 x \u00a075\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= \u00a085 , 71 \u00a0 ( dibulatkan )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 86\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-1-hari-terbentuk-sudut-787",
+            "question": "Jika kita perhatikan jam, berapa kali kah 1 hari terbentuk sudut sudut dibawah ini    a. 90 derajat = ?\r\nb. 180 derajat = ?\r\nc. 30 derajat = ?\r\nd. 120 derajat = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jam = 360\u02da<br>90\u02da = 360/90\u00a0= 4<br>180\u02da = 360/180 = 2<br>30\u02da = 360/30 = 12<br>120\u02da = 360/120 = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.4<br>b.12<br>c.2<br>d.3<br>terimakasih<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-menyebabkan-pernyataan-jika-x2-x-6-maka-x2-922",
+            "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-px3-14x217x-60-dengan-x13-tentukan-x1x2x2-523",
+            "question": "Akar persamaan px3-14x2+17x-6=0 dengan x1=3 tentukan x1.x2.x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "px\u00b3-14x\u00b2 +17x-6 = 0<br><br>x1 = 3<br><br>p(3)\u00b3 - 14.3\u00b2 + 17.3 - 6 = 0<br>27p - 126 + 51 - 6 = 0<br>27p - 81 = 0<br>27p = 81<br>p = 3<br><br>3x\u00b3-14x\u00b2 +17x-6 = 0<br>x1.x2.x3 = -d/a = -(-6)/3 = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-11-dari-barisan-25612864-adalah-431",
+            "question": "Suku ke 11 dari barisan 256,128,64...\r\nadalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=256<br>r=1/2<br><br>U11= ar^10<br>= 256(1/2)^10<br>= 256:1024 <br>= 1/4 = 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2 . (2a+n-1)b<br>11=11/2.(2.256+11-1).2<br>276<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-2-6-18-jika-suku-terakhirnya-468",
+            "question": "Diketahui barisan geometri 2 , 6 , 18 ,... jika suku terakhirnya 1458 , suku tengah barisan tersebut adalah suku ke..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Pembahasan</h2><p>\u27aa <strong>Barisan bilangan</strong>, yaitu urutan dari bilangan-bilangan yang tersusun berdasarkan pada pola tertentu.</p><p>\u3164<strong><u>Barisan geometri</u> </strong>(barisan ukur) merupakan barisan yang hasil bagi setiap suku dengan suku sebelumnya tetap. Hasil bagi tersebut disebut dengan rasio (r). Berikut rumus-rumus yang akan digunakan dalam menyelesaikan kasus soal ini. </p><p>\u2666 <strong>Menentukan suku tengah barisan geometri</strong></p><p>[tex]\\red {\\boxed{ { \\sf U_t =  \\sqrt{a  \\times  U_n} }}}[/tex]</p><p>Keterangan:</p><ul><li>Ut = suku tengah</li><li>a = suku pertama</li><li>Un = suku terakhir</li></ul><p>\u2666 <strong>Menentukan rasio (r) </strong></p><p>[tex] \\blue {\\boxed{ { \\sf r =  \\frac{U_2}{U_1} =  \\frac{U_3}{U_2} =  \\frac{U_4}{U_3} ,...,  \\frac{U_n}{U_{n - 1}}}}}[/tex]</p><p>Keterangan:</p><ul><li>r = rasio</li><li>Un = suku ke-n</li><li>U1 = suku pertama</li><li>U2 = suku kedua</li><li>dst..... </li></ul><p>\u2666 <strong>Menentukan suku ke-n</strong></p><p>[tex] \\green {\\boxed{ { \\sf U_n = a {r}^{n - 1} }}}[/tex]</p><p>Keterangan:</p><ul><li>Un = suku ke-n</li><li>a = suku pertama</li><li>r = rasio</li></ul><p>\u2666 <strong>Menentukan letak suku tengah barisan geometri</strong></p><p>[tex] \\red {\\boxed{ { \\sf t = \\frac{1}{2}  \\: (n + 1) }}}[/tex]</p><p>Keterangan:</p><ul><li>t = posisi suku tengah</li><li>n = banyaknya suku</li></ul><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Penyelesaian Soal</h2><p><strong><u>Diketahui</u></strong><strong><u>:</u></strong> </p><p>Barisan geometri 2, 6, 18, .. dan suku terakhirnya 1458</p><ul><li>U\u2081 = a = 2</li><li>U\u2082 = 6</li><li>Un = 1458  (suku terakhir)</li></ul><p><strong><u>Ditanya</u></strong><strong><u>:</u></strong></p><p>Suku tengah barisan tersebut adalah suku ke? </p><p><strong><u>Dijawab</u></strong><strong><u>:</u></strong></p><p><strong>\u203aMenentukan </strong><strong>rasio</strong><strong> </strong><strong>(</strong><strong>r</strong><strong>)</strong></p><p>[tex]\\displaystyle  \\sf r =  \\frac{U_2}{U_1}  = \\frac{6}{2} = 3[/tex]</p><p><strong>\u203aMenentukan suku </strong><strong>tengah</strong></p><p>[tex] \\sf U_t =  \\sqrt{a  \\times  U_n} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2  \\times  1458} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2916} [/tex]</p><p>[tex] \\sf U_t = 54[/tex]</p><p><strong>\u203aMenentukan suku ke-n</strong></p><p>Yang ditanyakan berarti Ut = 54 terletak pada suku ke? Berarti terlebih dahulu kita harus mencari nilai n nya.</p><p>[tex] \\sf Un = a {r}^{n - 1} [/tex]</p><p>[tex] \\sf 1458 = 2(3{)}^{n - 1} [/tex]</p><p>[tex] \\displaystyle  \\sf \\frac{1458}{2}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf 729 =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  {3}^{6}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  \\:  \\:  6 =  n - 1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  6  +  1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  7[/tex]</p><p><strong>\u203a</strong><strong>Menentukan letak suku tengah</strong></p><p>Setelah itu, menentukan letak suku tengah barisan geometri. </p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (n + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (7 + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (8) [/tex]</p><p>[tex]\\displaystyle {\\boxed{ { \\sf t = 4}}}[/tex]</p><p>\u2756 Jadi, Ut = 54 terletak pada suku ke 4. </p><p><strong>\u3164\u3164\u3164</strong></p><h3><strong>Kesimpulan</strong><strong>:</strong></h3><p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h3>Pelajari Lebih Lanjut:</h3><p>Mengenai materi tentang barisan dan deret geometri pada link di bawah ini. </p><ol><li>Menentukan nilai tengah dan letak suku tengah dari barisan geometri brainly.co.id/tugas/39988697</li><li>Menentukan suku tengah pada barisan geometri  brainly.co.id/tugas/6301435</li><li>Menentukan nilai suku tengah dari 11 suku pada barisan geometri brainly.co.id/tugas/31495198</li></ol><p>\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 </p><h3>\u00bb Detail Jawaban</h3><p><strong>Mapel\u3164\u3164 :</strong> Matematika</p><p><strong>Kelas \u3164\u3164 :</strong> XI SMA</p><p><strong>Materi\u3164\u3164:</strong> Bab 7 - Barisan dan Deret</p><p><strong>Kode kategorisasi :</strong> 11.2.7</p><p><strong>Kata kunci : </strong>barisan geometri, suku tengah</p><p>\u3164\u3164\u3164</p><p>#AyoSemangat! </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "akar-akar persamaan kuadrat x2 + (a+1)x + 2a = 0 adalah p dan q. nilai minimum dari p2 + q2 dicapai untuk a sama dengan...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "p^2+q^2<br>(p+q)^2-2pq<br>(-a-1)^2-2.2a<br>a^2-2a+1=0<br>(a-1)(a-1)<br>a=1 <br>mklumin lw salah yea :D :)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-petani-mencatat-hsil-panenanya-slma-11-hari-jka-hsil-prt-526",
+            "question": "Seorang petani mencatat hsil panenanya slma 11 hari, jka hsil prtma 15 kg dan mengalami kenaikan tetap sbsr 2 kg setiap hari, maka jmlh hsil panen yg di catat adalah ???    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seorang petani mencatat hasil panenanya selama 11 hari, jika hasil pertama 15 kg dan mengalami kenaikan tetap sebesar 2 kg setiap hari, maka jumlah hasil panen yg di catat adalah ...</p><p><strong>Barisan aritmetika</strong> adalah barisan bilangan dengan hasil pengurangan setiap suku dengan suku sebelumnya selalu sama atau tetap.</p><p>Suku ke-n \u00a0\u00a0\u2192 \u00a0\u00a0Un = a + (n - 1) b</p><p><strong>Deret aritmetika</strong> adalah penjumlahan dari suku-suku suatu barisan aritmetika.</p><p>Jumlah n suku pertama \u2192 \u00a0\u00a0Sn = n/2 [2a + (n - 1) b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau Sn = n/2 (a + Un)</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>hasil panen pertama (a) = 15 kg</p><p>kenaikan hasil panen (b) = 2 kg</p><p>lama panen (n) = 11 hari</p><p>Ditanya :</p><p>jumlah hasil panen yg dicatat (Sn) ?</p><p><u><strong>Jawab :</strong></u></p><p><strong>Jumlah hasil panen yang dicatat selama 11 hari</strong></p><p>Sn = \u207f/\u2082 [2a + (n - 1) b]</p><p>S\u2081\u2081 = \u00b9\u00b9/\u2082 [2 (15) + (11 - 1) 2]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 [30 + 20]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 \u00d7 50</p><p> \u00a0 \u00a0 = 11 \u00d7 25</p><p> \u00a0 \u00a0 = 275</p><p>Jadi jumlah hasil panen yang dicatat adalah 275 kg</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan dan Deret</h3><ol><li>Andri berhutang pada Beny 20 bulan akan lunas, bulan pertama Andri membayar Rp. 25.000,00 , bulan kedua Rp. 27.000,00 dan seterusnya, maka hutang Andri \u2192 https://brainly.co.id/tugas/14993248</li><li>Suku ke-8 suatu deret aritmatika = 20, \u00a0jumlah suku ke-2 dengan suku ke-5 adalah 4. Jumlah 20 suku pertama \u2192 brainly.co.id/tugas/15253327</li><li>Hitunglah jumlah semua bilangan asli antara 16 dan 394 yang habis dibagi 3, tetapi tidak habis di bagi 5 \u2192 brainly.co.id/tugas/21032962</li><li>Jumlah tiga bilangan barisan aritmatika = 45, jika suku kedua di kurangi 1 dan suku ke 3 di tambah 5, maka barisan tersebut menjadi barisan geometri \u2192 brainly.co.id/tugas/6359670</li><li>Lima bilangan positif membentuk barisan aritmatika naik. Jika jumlahnya adalah 30 adalah hasil kalinya adalah 3840. \u2192 brainly.co.id/tugas/268190</li></ol><h3>Detil Jawaban \u00a0</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 11 SMA \u00a0</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 7 - Barisan dan Deret</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 11.2.7</li><li>Kata kunci : barisan aritmetika, soal cerita, jumlah hasil panen</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-ditentukan-oleh-fx-4x-32x1-x-12-jika-inver-811",
+            "question": "fungsi f ditentukan oleh f(x) = 4x-3/2x+1, x \u2260 -1/2. jika invers dari f(x) dituliskan f pngkt min 1(x), maka f pngkat min 1 (x+1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x) =  \\frac{4x - 3}{2x + 1} [/tex]<br>[tex]f^{-1}(x) = \\frac{-x - 3}{2x - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{-(x +1) - 3}{2(x +1) - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{- x -4}{2x - 2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-n-jika-diketahui-a-2-b7-dan-un138-467",
+            "question": "Tentukan nilai n jika diketahui a= -2 b=7 dan un=138",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un = a+(n-1)b<br>138= -2 + (n-1)7<br>138 = -2 + 7n - 7<br>138 = 7n -9<br>138 + 9 = 7n<br>147 = 7n<br>147/7 = n<br>21 = n <br><br>jadi nilai n = 21<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un=a+(n-1)b<br>138=-2+(n-1)7<br>138+2=7n-7<br>140+7=7n<br>7n=147<br>n=21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-akar-akar-persamaan-kuadrat-dari-x22x-80-831",
+            "question": "Carilah akar-akar persamaan kuadrat dari x\u00b2+2x-8=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0 adalah -4 dan 2.</p><p></p><h3>Pembahasan</h3><p>Persamaan kuadrat adalah persamaan polinomial dengan suku terdingginya berderajat 2.</p><p>Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c, dengan a, b dan c adalah koefisiennya, x\u00b2 dan x adalah peubahnya.</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Jika p dan q adalah akar-akar persamaan x\u00b2 - 16x + 48=0 dengan p &gt; q,nilai \u2153p - \u00bdq adalah brainly.co.id/tugas/23470449</li></ul><p></p><p>Untuk mengetahui akar-akar dari persamaan kuadrat dengan cara memfaktorkan atau menggunakan rumus abc.</p><p>Pada Bentuk umum dari persamaan kuadrat adalah ax\u00b2 + bx + c = 0, penjumlahan akar-akarnya = [tex]\\frac{-b}{a}[/tex]\u00a0, dan hasil kali akar-akarnya = [tex]\\frac{c}{a}[/tex]\u00a0.</p><p>Rumus diskriminan persamaan kuadrat</p><p>D = b\u00b2 - 4ac</p><p>Jika akar-akar dari persamaan kuadrat adalah p dan q, maka bentuk persamaan kuadratnya adalah</p><p>x\u00b2 - (p+q)x + pq = 0</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab persamaan kuadrat \u2192 Pengertian persamaan kuadrat dapat disimak di brainly.co.id/tugas/1779207 \u00a0</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Akar-akar persamaan kuadrat dari x\u00b2 + 2x - 8 = 0</p><p>Kita faktorkan</p><p>x\u00b2 + 2x - 8 = 0</p><p>(x + 4)(x - 2) = 0</p><p>x + 4 = 0 \u00a0atau x - 2 = 0</p><p>x = -4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = 2</p><p></p><p>HP = {-4, 2}</p><p></p><h3>Pelajari lebih lanjut</h3><ul><li>Tentukan persamaan kuadrat yang akarnya 8 dan -2 dapat disimak di brainly.co.id/tugas/4992073</li><li>Akar akar persamaan kuadrat 2x^-5x-3=0 dapat disimak di brainly.co.id/tugas/4039095</li></ul><h3>===============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Persamaan kuadrat</p><p><strong>Kode </strong>: 9.2.9</p><p></p><p><strong>Kata Kunci </strong>: Persamaan kuadrat, akar-akar persamaan kuadrat, Diskriminan.</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kali-dalam-1-hari-terbentuk-sudut-sudut-a90-derajat-b180-878",
+            "question": "Berapa kali dalam 1 hari terbentuk sudut sudut    a.90 derajat \r\n b.180 derajat \r\n c.30 derajat \r\n d. 120 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.90 derajat = 5 kali<br>b.180 derajat= 10 kali<br>c.30 derajat= 12 kali<br>d. 120 derajat= 3 kali",
+                    "attachments": []
+                },
+                {
+                    "answer": "Antara jarum jam dinding?<br><br>90 derajat 4 kali, 03.00 09.00 15.00 21.00<br>180 derajat 2 kali 06.00 18.00<br>30 derajat 4 kali 01.00 11.00 13.00 23.00<br>120 derajat 4 kali 04.00 08.00 16.00 20.00<br><br>Sudut antara jarum jam yang panjangnya tidak tepat di 12 karena selain saat itu sudutnya tidak pas. Bisa saja jarum pendek yang angkanya lebih sedikit sudutnya sudah tidak tepat.<br><br>Maaf kalau salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-irisan-sebuah-pipa-mendatar-dengan-garis-t-647",
+            "question": "Tolong bantu saya ..    \u00a0irisan sebuah pipa mendatar dengan garis tengah 1 m berituk:\r\n\r\nlebar pipa 1 m panjang pipa 10 cm\r\n\r\ndidalam pipa tersebut terdapat air yang dalamnya 10 cm ditengah-tengah penampang. lebar permukaan air adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 x 1000 cm....<br>trus di tambah 1..;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

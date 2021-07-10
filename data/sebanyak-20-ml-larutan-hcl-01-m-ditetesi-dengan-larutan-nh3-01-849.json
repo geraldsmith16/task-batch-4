@@ -1,0 +1,138 @@
+{
+    "question": "Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.    a. Perkirakan pH awal larutan HCl\r\nb. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?\r\nc. Berapakah kira-kira pH pada titik ekivalen?\r\nd. Gambarkan (sketsa) kurva titrasinya.\r\ne. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.<br>a. Perkirakan pH awal larutan HCl<br>b. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?<br>c. Berapakah kira-kira pH pada titik ekivalen?<br>d. Gambarkan (sketsa) kurva titrasinya.<br>e. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.</span><br><br>maaf saya copy paste soal kamu, supaya dapat mudah membaca soal :)<br>a. pH awal HCl (asam kuat)<br>[H+] = Ma x Va ................. Ma = molaritas asam, Va = valensi asam ( Va HCl = 1, liha jumlah atom H-nya saja)<br>maka<br>H+ = 0,1 x 1 = 0,1<br>pH = - log H+ = - log 0,1 = 1<br><br>b. secara teori NH3 yang diperlukan untuk mencapai titk ekivalen<br>Ma x Va x valensi = Mb x Vb x valensi<br>0,1 x 20 x 1 = 0,1 x Vb x 1<br>2/0,1 = Vb<br>Vb = 20 mL<br><br>c.titik ekivalen adalah titik dimana asam dan basa habis bereaksi, berdasarkan data b, maka dapat ditentukan pH larutan (dengan menentukan pH pada titik ekivalen berarti kita sudah masuk dalam BAB hidrolisis garam)<br>mol HCl = 20 x 0,1 = 2 mmol<br>mol NH3 = 20 x 0,1 = 2 mmol<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>\u00a0 \u00a0 \u00a0\u00a0 HCl\u00a0  +\u00a0 \u00a0  NH3\u00a0  -----&gt;\u00a0 \u00a0 NH4Cl<br>M\u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>R \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>S \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br><br>Molaritas garam NH4Cl = mol / voltotal = 2/40 = 0,05<br>diandaikan Kb NH3 = 10^-5<br>maka<br>H+ = akar (Kw/Kb x Mgaram)<br>H+ = akar (10^-14/10^-5 x 0,05)<br>H+ = akar ( 0,5 x 10^-12)<br>= 7,071 x 100^-7<br>pH = 6,15<br><br>jadi pH pada saat titik ekivalen mendekati 7 atau sekitar 6,15<br><br>d.sketsa kurva titrasinya saya upload gan :)<br>e. indikator yang cocok metil merah, perubahannya dari tidak berwarna menjadi merah (bukan pp lho ya, ini beda lagi)<br>",
+            "attachments": [
+                "answer-attachments/sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849-1.gif"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-sumber-radio-aktif-a-dan-b-mula-mula-jumlahnya-sama-a-mempun-966",
+            "question": "dua sumber radio aktif A dan B mula mula jumlahnya sama. A mempunyai waktu paruh 12 jam, sedang B mempunyai waktu paruh 8 jam. Setelah 24 jam, perbandingan\u00a0 jumlah A terhadap B ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurutku\u00a0<br>jumlah A : Jumlah B = 2:1<br>jumlah A= 2 B",
+                    "attachments": []
+                },
+                {
+                    "answer": "nA = t/waktu paruh<br>\u00a0 \u00a0 \u00a0= 24 / 12<br>\u00a0 \u00a0 \u00a0= 2<br><br>nB = 24 / 8<br>\u00a0 \u00a0 = \u00a03<br><br>Nt = N\u2080(1/2)^n<br><br>N\u2080A = N\u2080B<br>Nt(A)/ (1/2)^nA = Nt(B)/(1/2)^nB<br>Nt(A)/(1/2)\u00b2 \u00a0 \u00a0 \u00a0\u00a0= Nt(B)/(1/2)\u00b3<br>\u00a0 \u00a0 \u00a0 Nt(A)/(1/4) \u00a0 = \u00a0Nt(B)/(1/8)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4NtA \u00a0 \u00a0 \u00a0\u00a0= \u00a0 8NtB<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tuliskan-postulat-einstein-berdasarkan-teori-relativitas-562",
+            "question": "1. tuliskan postulat einstein berdasarkan teori relativitas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. postulat pertama <br>\u00a0\u00a0  yang menyatakan bahwa \"hukum-hukum fisika adalah sama dalam semua kerangka inersia\"<br>2. postulat kedua<br>\u00a0 yang berbunyi \"kelajuan cahaya adalah sama dalam semua kerangka inersia \"<br>Maaf kalau salah, aku cuma berniat nolong aja kok :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diukur-pada-suhu-dan-tekanan-yang-sama-75-l-gas-hidrogen-te-135",
+            "question": "jika diukur pada suhu dan tekanan yang sama, 75 L gas hidrogen tepat bereaksi dengan gas oksigen. reaksi tersebut menghasilkan uap air sebanyak?berikut penjelasannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2 + O2 --&gt;H2O<br>maka setarakan perSAMAan ini menjadi<br>2H2 +O2 --&gt; 2H2O<br>\u00a0 2 \u00a0 \u00a0: \u00a0 1 \u00a0 \u00a0 : \u00a0 \u00a02 (perbandingan koefisein)<br>75L : \u00a0 37.5L : 75L (perbandingan volume)<br>\u00a0<br>perbandingan koefisein dan\u00a0perbandingan volume adalah sama",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-kimia-dan-fisika-dari-a-logam-mg-b-asam-klorida-841",
+            "question": "Sifat kimia dan fisika dari a) Logam Mg \r\nb) asam klorida",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisika logam mg<br>wujud zat,warna,kelarutan,daya hantar listrik,kemagnetan,titik didih,titik leleh.<br>sifat kimia logam mg<br>berkarat<br>sifat fisika asam klorida<br>wujud zat<br>titik didih,massa jenis,titik leleh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-senyawa-senyawa-yang-termasuk-ion-dan-kovalen-167",
+            "question": "Sebutkan senyawa senyawa yang termasuk ion dan kovalen ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Contoh senyawa ion:</strong></p><p>NaCl = natrium klorida</p><p>KCl = kalium klorida</p><p>MgBr\u2082 = magnesium bromida</p><p>CaI\u2082 = kalsium iodida</p><p>Al\u2082O\u2083 = aluminium oksida</p><p>BaS = barium sulfida</p><p>K\u2082O = kalium oksida</p><p>MgS = magnesium sulfida</p><p>FeI\u2082 = besi (II) iodida</p><p>CaO = kalsium oksida</p><p>LiBr = litium bromida</p><p>Al\u2082S\u2083 = alumunium sulfida</p><p>BaO = barium oksida</p><p>CuI = tembaga (I) iodida</p><p>NaH = natrium hidrida</p><p>PbS\u2082 = timbal (IV) sulfida</p><p>CoBr\u2083 = kobalt (III) bromida</p><p>Ag\u2083N = perak nitrida</p><p>Timah florida = SnF\u2082</p><p>Seng klorida = ZnCl\u2082</p><p><strong>Contoh senyawa kovalen:</strong></p><p>HF = asam florida</p><p>HCl = asam klorida </p><p>HBr = asam bromida </p><p>HI = asam iodida </p><p>HClO = asam hipoklorit </p><p>HClO\u2084 = asam perklorat </p><p>H\u2082O = air </p><p>NH\u2083 = amonia </p><p>CO\u2082 = karbon dioksida</p><p>HNO\u2083 = asam nitrat </p><p>H\u2082SO\u2084 = asam sulfat </p><p>H\u2083PO\u2084 = asam fosfat </p><p>H\u2082CO\u2083 = asam karbonat </p><p>SO\u2082 = belerang dioksida</p><p>P\u2082O\u2085 = difosfor pentaoksida </p><p>CH\u2084 = metana </p><p>H\u2082 = gas hidrogen </p><p>O\u2082 = gas oksigen </p><p>N\u2082 = gas nitrogen </p><p>Cl\u2082 = gas klorin </p><p>Br\u2082 = gas bromin </p><p>I\u2082 = gas iodin</p><h3>Pembahasan</h3><p><strong>Ikatan ion (ionik/elektrovalen/heteropolar)</strong> adalah ikatan antara ion positif dan ion negatif karena adanya gaya elektrostatis sehingga terjadi serah terima elektron. Senyawa yang mengandung ikatan ion disebut juga sebagai senyawa ion atau senyawa ionik.</p><ul><li>Terbentuk antara unsur logam dan non logam</li><li>Terbentuk antara unsur dengan energi ionisasi kecil dan unsur dengan afinitas elektron besar</li><li>Terdapat perbedaan keelektronegatifan yang besar</li></ul><p><strong>Ikatan kovalen/homopolar </strong>adalah ikatan yang terjadi berdasarkan penggunaan (atau pemakaian) bersama pasangan elektron. \u00a0</p><ul><li>Terbentuk antara sesama unsur non logam</li><li>Dapat terbentuk antara atom/unsur nonlogam sejenis\t</li></ul><p><strong>Contoh tambahan</strong>, senyawa yang mengandung ikatan ion dan kovalen sekaligus:</p><p>NaOH, KOH, Na\u2082SO\u2084, Al(OH)\u2083, KClO\u2084</p><p>Jadi pada contoh tambahan ini, kita\u00a0dapat melihat bahwa baik ikatan ion maupun kovalen terdapat di dalamnya, karena terdapat atom unsur logam dan lebih dari satu atom unsur non logam.</p><h3>Pelajari lebih lanjut</h3><ol><li>Lebih rinci tentang sifat ikatan ionik https://brainly.co.id/tugas/1415983</li><li>Perbedaan sifat ikatan kovalen polar dan non polar https://brainly.co.id/tugas/2459310</li></ol><p>-----------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 :</strong> X</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> Ikatan Kimia</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 10.7.4</p><p></p><p><strong>Kata Kunci :</strong> contoh senyawa ion, kovalen, ikatan, yang, terjadi karena adanya serah terima elektron disebut, ionik, elektrovalen, heteropolar, sifat, ciri-ciri, logam, nonlogam, ion positif, negatif, gaya elektrostatis, pemakaian bersama, elektron valensi, \u00a0brainly</p>",
+                    "attachments": [
+                        "answer-attachments/sebutkan-senyawa-senyawa-yang-termasuk-ion-dan-kovalen-167-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "konsep-reaksi-reduksi-berdasarkan-transfer-elektron-beserta-conto-993",
+            "question": "Konsep reaksi reduksi berdasarkan transfer elektron beserta contohnya 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Reduksi :\u00a0<span>O2</span><span>(aq) +\u00a0</span>4 \u00e9\u00a0\"\u00a0<span>2 O2-</span><span>(s)</span></span><span><span>Oksidasi : Zn(s)\u00a0</span>\"<span><span>\u00a0Zn</span>2+(aq) + 2</span>\u00a0\u00e9\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x 2</span><span><span>Redoks :\u00a0</span><span>O2</span><span>(aq) +\u00a0</span>2<span>Zn(s)\u00a0\u00a0</span>\"\u00a0<span>2O2-</span><span>(s) +\u00a0</span>2<span>Zn2+(aq)</span></span><span><span>Penjelasan : Pada reaksi tersebut\u00a0</span><span>O2</span><span>\u00a0menangkap\u00a0</span>4<span>\u00a0elektron dari Zn(s) sehingga menjadi\u00a0</span><span>2O2-</span><span>(s), reaksinya disebut reaksi reduksi.\u00a0</span>Spesi 2Zn<span>(s)</span><span>melepas\u00a0</span>4<span>\u00a0elektron sehingga menjadi\u00a0</span>2<span>Zn2+</span><span>(aq)</span>, reaksinya disebut reaksi oksidasi.</span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-dengan-bilangan-oksidasi-reaksi-berikut-termasuk-redok-347",
+            "question": "Tunjukkan dengan bilangan oksidasi, reaksi berikut termasuk redoks atau bukan. bila redoks sebutkan oksidator, reduktor, hasil oksidasi, dan hasil reduksinya!    a) KMnO4\u00a0+ H2SO4\u00a0+ H20 --&gt; MnSO4\u00a0+ K2SO4\u00a0+ H2O\u00a0+ O2 (belum setara) bantu yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reduktor: KMnO4\u00a0<br>oksidator : H2SO4\u00a0<br>h.oksidasi : MnSO4<br>hasil reduksi: MnSO4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "senyawa-ion-dalam-bentuk-lelehan-maupun-larutan-dapat-menghantark-283",
+            "question": "senyawa ion dalam bentuk lelehan maupun larutan dapat menghantarkan arus listrik , tetapi tidak dalam bentuk kristalnya.berilah penjelasan mengenai hal ini!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena senyawa ionik pada keadaan padat gaya ikat yang \nterbentuk antara ion positif dan ion negatif (kisi kristal) sangat kuat \nsehingga tidak memungkinkan terjadinya mobilisasi ion-ion. yang enyebabkan tidak dapat menghantarkan arus listrik<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Senyawa ion dalam bentuk lelehan atau larutan dapat bergerak \nsecara bebas dan terpisah menjadi ion positif dan negatif. Ion yang \nbergerak bebas inilah yang dapat menghantarkan arus listrik. Dalam \nbentuk kristal, ionnya tertata secara struktural dan tidak bergerak \nbebas</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-koh-0125-m-dititrasi-dengan-25-ml-larutan-hcl-01-m-deng-817",
+            "question": "Larutan KOH 0,125 M dititrasi dengan 25 mL larutan HCL 0,1 M dengan menggunakan indikator fenolftalein (PP). Volume KOH yang diperlukan untuk menetralkan 25 mL HCL dalam titrasi tersebut adalah ...    A. 20 mL\r\nB. 25 mL\r\nC. 30 mL\r\nD. 40 mL\r\nE. 50 mL.\r\n\r\nBeri jalannya .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V1.M1 = V2.M2<br>V1.0.125=25.0,1<br>V1=2,5/0.125<br>V1= 20 mL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ke-dalam-2-liter-larutan-asam-asetat-02-m-ka-10-5-ditambahka-108",
+            "question": "ke dalam 2 liter larutan asam asetat 0,2 M (ka= 10^-5) ditambahkan 8\u00a0gram NaOH .hitunglah ph larutan yang terjadi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 gram:2liter=4 ph larutan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maaf saya mengopi soal kamu, biar gampang bacanya :D<br><span>ke dalam 2 liter larutan asam asetat 0,2 M (ka= 10^-5) ditambahkan 8\u00a0gram NaOH .hitunglah ph larutan yang terjadi<br>\u00a0<br>cari <br>mol NaOH <br>= gram / Mr\u00a0 = 8/40 = 0,2 mol<br>mol as. aseta<br>= V x M = 0,2 x 2 = 0,4 mol<br>buat reaksi pembatas<br>\u00a0\u00a0 \u00a0  CH3COOH\u00a0 +\u00a0 NaOH --&gt; CH3COONa + H2O<br>M\u00a0 \u00a0 \u00a0 \u00a0 0,4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,2<br>R\u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2<br>S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2<br><br>sisa merupakan asam lemah, maka dari soal dapat disimpulkan bahwa larutan yang terbentyuk merupakan larutan penyangga asam.<br>valensi garam asam lemah (CH3COONa) = 1<br>cari konsentrasi ion hidorgen<br>H+ = Ka x (mol asam lemah sisa / (mol garam x valensi))<br></span>= 10^-5 x (0,2/0,2x1)<br>= 10^-5<br><br>maka <br>pH = - log H+ = - loh 10^-5 = 5<br><br><br>semoga bisa membantu :)<br>beri labelterbai jika perlu he he he<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

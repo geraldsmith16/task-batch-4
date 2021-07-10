@@ -1,0 +1,148 @@
+{
+    "question": "Diketahui besar sudut BCA = 25\u00b0 dan sudut CBO = 15\u00b0. Hitunglah besar    a. sudut AOB\r\n b. sudut OAB\r\n c. sudut ABC\r\n d. sudut BAC\r\n Tolong jawabannya ya. Trims",
+    "attachments": [
+        "question-attachments/diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "a.AOB=5O&#039;<br>b.OAB=65&#039;<br>c.ABC=80&#039;<br>d.BAC=80&#039;",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-mencari-rasio-dari-suatu-barisan-geometri-696",
+            "question": "Cara mencari rasio dari suatu barisan geometri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-segitiga-12-cm-dan-tingginya-10-cm-luas-segitiga-ter-355",
+            "question": "Alas sebuah segitiga 12 cm dan tingginya 10 cm. luas segitiga tersebut adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luasnya segitiga<br>\u00a060cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "L Segitiga = 1/2 a . t<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1/2.12cm.10cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6cm.10cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  60cm\u00b2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selembar-kertas-folio-dipotong-menjadi-2-yg-sama-kemudian-potong-536",
+            "question": "Selembar kertas folio dipotong menjadi 2 yg sama, kemudian potongan yg satu ditumpuk diatas yg lain. tumpukan itu dipotong lagi menjadi 2 bagian yg sama, kemudian ditumpuk lagi, dan seterusnya.    a. brp banyak potongan kertas jika dilakukan 10 kali pemotongan?\r\nb. berapa kali pemotongan dilakukan jika banyak potongan kertas 256 lmbr?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] U_{10} [/tex]=a<u></u>[tex] r^{9} [/tex]<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =2 x [tex] 2^{9} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =1024<br>b. Un=a[tex] r^{n-1} [/tex]<br>\u00a0\u00a0  256=2 x [tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 256/2=[tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 128=[tex] 2^{n-1} [/tex]<br>\u00a0 [tex] 2^{n-1} [/tex]=[tex] 2^{7} [/tex]<br>\u00a0 n-1=7<br>\u00a0 n=8<br>Jadi,hasilnya 8 kali potongan<br><br>Mohon yang terbaiknya makasih..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-sebuah-menara-air-40-meter-tinggi-menarantrsebut-pada-gamb-866",
+            "question": "tinggi sebuah menara air 40 meter tinggi menarantrsebut pada gambar adalah 5 cm skala gambar menara air tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40 : 5 = 8 jadi skalanya 8 meter per cm / 1:800<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tinggi pada gambar : tinggi sebenarnya<br>5 cm : 40x100 cm<br>5 cm : 4000 cm<br>1 : 800",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553",
+            "question": "Gambarkan sudut 175 derajat, 215 derajat , 310 derajat \r\ntolong di jawab ya...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu ada lingkaran sudut, cara kerjanya sama seperti penggaris busur.<br>",
+                    "attachments": [
+                        "answer-attachments/gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaranjika-diketahui-luas-lingkaran-sama-d-202",
+            "question": "Tentukan jari jari lingkaran,jika diketahui luas lingkaran sama dengan 113,04 cm2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas linkaran=pi  r^{2}<br>113,04=3,14\u00a0. r^{2}<br>113,04/3,14= r^{2)<br>36= r^{2}<br>[tex] \\sqrt{36} [/tex]=r<br>6=r",
+                    "attachments": []
+                },
+                {
+                    "answer": "L=\u00a0\u03c0r\u00b2<br>113,04=3,14\u00d7r\u00b2<br>r\u00b2=113,04\u00f73,14<br>r\u00b2=36<br>r=\u221a36<br>r=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jarak-dari-bandung-ke-ciamis-pada-peta-8-cm-apabila-sk-991",
+            "question": "Diketahui jarak dari Bandung ke Ciamis pada peta 8 cm. Apabila skala yang digunakan oleh peta 1 : 1.500.000, maka jarak Bandung dengan Ciamis yang sebenarnya adalah.... pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aku ksh rumusnya aja nih<br>JS = JP.S<br><br>ket : JS - jrak sbnernya<br>\u00a0 \u00a0 \u00a0 \u00a0 JP - jarak pda peta<br>\u00a0 \u00a0 \u00a0 \u00a0 S - skala",
+                    "attachments": []
+                },
+                {
+                    "answer": "120 km<br>caranya=<br>8/1/1.500.000=8 dikali 1.500.000= 12.000.000 cm=120 km<br>insyaallah bener<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-847",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika sin x = sin alfa, maka :\u00a0<br><br><span>x = alfa + k . 360, dan\u00a0</span><br><span>x = (180 - alfa) + k . 360\u00a0</span><br><br><span>k = bilangan bulat\u00a0</span><br><br><span>sin 2x = 1/2\u00a0</span><br><span>sin 2x = sin 30\u00a0</span><br><br><span>i)\u00a0</span><br><span>2x = 30 + k . 360\u00a0</span><br><span>x = 15 + k . 180\u00a0</span><br><br><span>k = 0 -&gt; x = 15\u00a0</span><br><span>k = 1 -&gt; x = 195\u00a0</span><br><br><span>ii)\u00a0</span><br><span>2x = (180 - 30) + k . 360\u00a0</span><br><span>2x = 150 + k . 360\u00a0</span><br><span>x = 75 + k . 180\u00a0</span><br><br><span>k = 0 -&gt; x = 75\u00a0</span><br><span>k = 1 -&gt; x = 255\u00a0</span><br><br><span>HP : {15, 75, 195, 255}<br><br>Semoga Membantu,,,</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-segitiga-abc-disamping-dalah-946",
+            "question": "Luas segitiga ABC disamping dalah",
+            "attachments": [
+                "question-attachments/luas-segitiga-abc-disamping-dalah-946-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "(16\u00d712 :\u00a02) + (5\u00d712 : 2) = 96 + 30 = 126",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oa-10-cm-dan-jarak-ob-26-cm-luas-segitiga-oab-ada-913",
+            "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

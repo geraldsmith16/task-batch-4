@@ -1,0 +1,142 @@
+{
+    "question": "Diketahui suku ke-3 dan suku ke-6 suatu barisan aritmatika berturut-turut 14 dan 29. suku ke-12 barisan tersebut adalah ......    \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pers 1. \n14=a+2b\npers 2.\n29=a+5b\n\nmenggunakan metode eliminasi maka mendapatkan beda = 5,kemudian di subtitusikan ke pers. 1 maka didapat a/suku pertama =4\nslanjutx dgan menggunakan rumus a+(n-1)b,diperoleh hasil U12/suku ke-12 adalah 59..",
+            "attachments": []
+        },
+        {
+            "answer": "u3 = 14 = a+2b<br>u6 = 29 = a+5b<br>di eleminasi<br>-3b = -15<br>b = 5<br>nah kalau mau nyari a tinggal disubtitusi<br>misalnya pake yang u3<br>a+2b = 14<br>a+2(5) = 14<br>1=14-10 = 4<br>kalu udh ketemu tinggal dicantumkan deh<br>u12 = a+11b<br>u12 = 4+11\u00d75<br>u12 = 4 + 55<br>u12 = 59<br>Tolong dijadikan terbaik ya<br>Plisss banget<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-tan-660-sin-900-cos-390-532",
+            "question": "Hasil tan 660 - sin 900 + cos (-390)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 660 = tan (660-360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= tan 300 \u00a0berada di kuadran 4 berarti negatif<br>tan 300 = tan (360-60)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= -tan 60<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - V3<br><br>sin 900 = sin (2x360 + 180)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= sin 180<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0<br><br>cos (-390) = cos (-390 + 360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= cos (-30) berada dikuadran 4 cos positif<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/2V3<br><br>-V3 + 0 + 1/2V3 = - 1/2 V3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-bilangan-14-dan-224-disisipkan-3-bilangan-sehingga-terb-514",
+            "question": "Di antara bilangan 14 dan 224 disisipkan 3 bilangan sehingga terbentuk barisan geometri. Tentukanlah rasio dan jumlah deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  r_{baru} = \\sqrt[3+1]{224/14}  =  \\sqrt[4]{16} = 2[/tex]<br><br>[tex] S_{5} =  \\frac{14( 2^{5} - 1)}{2-1} = 448[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-bangun-datar-yang-ga-punya-sumbu-simetri-dan-sumbu-putar-a-310",
+            "question": "Contoh bangun datar yang ga punya sumbu simetri dan sumbu putar apaan?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bangunan yg tidak mempunyai sumbu simetri dan sumbu putar adalah :<br>- Segitiga sembarang<br>-\u00a0<span>Trapesium Siku-siku<br>-\u00a0</span><span>Trapesium Sembarang<br>- benda tak beraturan lainnya</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bangun yang tidak memiliki sumbu simetri dan simetri putar diantaranya ( segitiga sembarang , trapesium siku-siku, trapesium sembarang, segi 4 sembarang <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-dan-suku-ke-6-barisan-geometri-berturut-turut-adalah-36-352",
+            "question": "suku ke-3 dan suku ke-6 barisan geometri berturut-turut adalah 36 dan 972. nilai suku ke -5 dari barisan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U5 = 660 <br>apa ada jawabannya ?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya 324. ada?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-yang-setara-dengan-pernyataan-jika-hewan-itu-elang-ma-116",
+            "question": "Pernyataan yang setara dengan pernyataan \"jika hewan itu elang maka hewan itu dapat terbang\" adalah ....    tolong jawabannya dan pembahasan nya ... terima kasih...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p-&gt;q setara dengan ~q=&gt;~p<br><span>jika hewan itu elang maka hewan itu dapat terbang setara dengan jika hewan itu tidak bisa terbang maka hewan itu bukan elang<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p =&gt; q \u2261\u00a0 -p \u2228 q \u2261 -q =&gt; -p <br>Pernyataan : <br>Jika hewan itu elang maka hewan itu dapat terbang <br>setara dengan : <br>* Hewan itu bukan elang atau hewan itu dapat terbang<br>* Jika hewan itu dapat terbang maka hewan itu elang <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-823",
+            "question": "Pak daniel seorang karyawan\u00a0 perusahaan. Ia membeli sebuah mobil bekas seharga Rp 90.000.000,00. dan dikenakan pajak penjualan sebesar 5%.Berapa rupiah uang yang harus dibayar Pak Daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: IX</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Matematika perdagangan</p>\n\n<p>Kata kunci: pembelian, pajak, penjualan</p>\n\n<p>\u00a0</p>\n\n<p>Pak Daniel membeli sebuah mobil seharga Rp. 90.000.000,- </p>\n\n<p>Pak daniel juga harus membayar pajak sebesar 5% dari besar harga\npembelian mobil itu.</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>\u00a0</p>\n\n<p>Kita hitung dulu harga pajak yang harus dibayarkan:</p>\n\n<p>5/100 x 90.000.000 = Rp. 4500.000,-</p>\n\n<p>\u00a0</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>90.000.000 + 4.500.000 = Rp. 94.500.000,-</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

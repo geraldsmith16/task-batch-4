@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui = f(x)=2x+5 dan g(x)=4-x Tentukan = a. fog (x) b. gof (x) c. fog ( -2) d. gof (-2)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jawab :<br>a) fog (x) = f(g(x))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f(4-x)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2(4-x)+5 = 8-2x+5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =13-2x<br>b) gof (x) = g (f (x) )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (2x+5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1(2x+5)+4 = -2x-5 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = -2x-1<br>c)fog (-2) = f(g (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0\u00a0  f (4(2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2(8) + 5 = 21<br>d) gof (-2) = g (f (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g(5(-4))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1 (-20) +4 = 24<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pengertian-bilangan-real-dan-contohnya-terima-kasih-737",
+            "question": "Pengertian bilangan real dan contohnya ???\r\n\r\n-terima kasih-",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Bilangan real </strong>adalah bilangan yang anggota-anggotanya terdiri dari bilangan irasional dan bilangan rasional.\n</p><p>Contoh : log 3, \u03c0, \u221a2, dan lain-lain.\n</p><h3>Pembahasan</h3><p>Diatas sudah dijelaskan, bahwa bilangan real adalah bilangan yang anggota-anggotanya terdiri dari bilangan irasional dan bilangan rasional.</p><p>Simak juga pengertian bilangan irasional dan bilangan rasional dibawah ini:</p><p><strong>Bilangan irasional</strong> adalah bilangan yang anggota-anggotanya terdiri dari bilangan berbentuk akar dan bilangan desimal tidak berulang yang tidak terbatas. Bilangan irasional tidak dapat dinyatakan sebagai pembagian dari bilangan bulat.\n</p><p>Contoh : \u221a2, \u03c0, e, dan lain-lain.\n</p><p><strong>Bilangan rasional</strong> atau bilangan pecahan adalah bilangan yang anggota-anggotanya terdiri dari bilangan bulat, bilangan desimal terbatas, bilangan desimal berulang yang tidak terbatas, pecahan biasa, dan pecahan campuran. Bilangan rasional dapat dinyatakan sebagai pembagian dari bilangan bulat yang berbentuk a/b dengan a dan b bilangan bulat, serta b tidak sama dengan nol.\n</p><p>Contoh : 8, 6,25. 2/5, dan lain-lain.\n</p><h3>Pelajari Lebih Lanjut</h3><p>Pengertian : Bilangan Bulat, Bilangan Asli, Bilangan Cacah, Bilangan Prima, dan Bilangan Real / Nyata dapat disimak di</p><ul><li>https://brainly.co.id/tugas/533188</li></ul><p>bilangan prima lebih lanjut dapat disimak di</p><ul><li>brainly.co.id/tugas/54323</li></ul><h3>========================</h3><h3>Detail jawaban</h3><p><strong>Kelas </strong>: 7</p><p><strong>Mapel </strong>: matematika</p><p><strong>Kategori </strong>: Bilangan</p><p><strong>Kode </strong>: 7.2.1</p><br><p><strong>Kata Kunci</strong>: Pengertian Bilangan, Bilangan Bulat, Bilangan Asli, Bilangan Cacah, Bilangan Prima, dan Bilangan Real / Nyata</p><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Jawab:bilangan gabungan antara rasional dan irasional</p><br><p>Penjelasan dengan langkah-langkah:</p><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-seper-berapa-putaran-penuhkah-sudut-sudut-berikut-a-3-202",
+            "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amoeba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-929",
+            "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+                    "attachments": []
+                },
+                {
+                    "answer": "(2*60)/15*30=240 amoeba",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866",
+            "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketuai-fx-2log-x13-dan-gx-2log-x7-maka-f5-g-514",
+            "question": "Diketuai f(x) = 2log (x+1/3) dan g(x) = 2log (x+7) maka f(5) + g(5) =...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(5) + g(5) = 2log (5+\u00a01/3) + 2log (5+7)<br>= 2log (16/3) + 2log (12)<br>= 2log (16/3 x 12)<br>= 2log 64<br>= 6",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

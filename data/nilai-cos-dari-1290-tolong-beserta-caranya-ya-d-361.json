@@ -1,0 +1,134 @@
+{
+    "question": "Nilai cos dari (1290) = ...\r\ntolong beserta caranya ya :D",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1290 = 3x 360 +210\ncos 1290 = cos (3x360 +210)\ncos210 = -cos 30\n=-1/2 akar 3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "terakhir-help-lg-ya-suku-ke-4-dan-ke-9-barisan-aritmatika-ber-518",
+            "question": "terakhir. help lg ya :) suku ke 4 dan ke 9 barisan aritmatika berturut turut adalah 110 dan 150. suku ke 30 dari barisan tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 = a+ (n-1)b<br>110= a+ (4-1)b<br>110=a + 3b<br><br>U9 = a +(n-1)b<br>150=a+(9-1)b<br>150=a+b8<br><br>eliminasi<br>110= a + 3b<br>150=a +\u00a08b<br>___________ -<br>-40=-5b<br>b=8<br><br>110=a+3.8<br>110=a + 24<br>110-24 =a<br>a=86<br><br>U30 = a + (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0=86 + (30-1)8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+29.8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+232<br>\u00a0 \u00a0 \u00a0 \u00a0= 318",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-a1x-2a-0-adalah-p-dan-q-727",
+            "question": "akar-akar persamaan kuadrat x2 + (a+1)x + 2a = 0 adalah p dan q. nilai minimum dari p2 + q2 dicapai untuk a sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p^2+q^2<br>(p+q)^2-2pq<br>(-a-1)^2-2.2a<br>a^2-2a+1=0<br>(a-1)(a-1)<br>a=1 <br>mklumin lw salah yea :D :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "35-putaran-ada-berapa-derajat-846",
+            "question": "3/5 putaran ada berapa derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/5 putaran = 216 dejarat",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/5 X 360=216 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-xyz-dengan-siku-siku-d-y-cos-z-20-per-24-tentuka-889",
+            "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

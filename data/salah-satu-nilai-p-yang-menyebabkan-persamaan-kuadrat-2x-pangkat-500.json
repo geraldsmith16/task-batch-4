@@ -1,0 +1,130 @@
+{
+    "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketuai-fx-2log-x13-dan-gx-2log-x7-maka-f5-g-514",
+            "question": "Diketuai f(x) = 2log (x+1/3) dan g(x) = 2log (x+7) maka f(5) + g(5) =...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(5) + g(5) = 2log (5+\u00a01/3) + 2log (5+7)<br>= 2log (16/3) + 2log (12)<br>= 2log (16/3 x 12)<br>= 2log 64<br>= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-bangun-datar-yang-ga-punya-sumbu-simetri-dan-sumbu-putar-a-310",
+            "question": "Contoh bangun datar yang ga punya sumbu simetri dan sumbu putar apaan?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bangunan yg tidak mempunyai sumbu simetri dan sumbu putar adalah :<br>- Segitiga sembarang<br>-\u00a0<span>Trapesium Siku-siku<br>-\u00a0</span><span>Trapesium Sembarang<br>- benda tak beraturan lainnya</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bangun yang tidak memiliki sumbu simetri dan simetri putar diantaranya ( segitiga sembarang , trapesium siku-siku, trapesium sembarang, segi 4 sembarang <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-suatu-jembatan-sudut-depresi-suatu-pelampung-di-atas-air-sun-937",
+            "question": "Dari suatu jembatan sudut depresi suatu pelampung di atas air sungai adalah 45\u00b0. Berapa jarak pelampung ke tepi jembatan apabila tinggi jembatan di atas permukaan air adalah 65 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = depan\u00a0=\u00a065<br>dit = samping<br>tan 45 = depan/samping<br>tan 45 = 65/samping<br>\u221a3 = 65/samping<br>samping= 65/\u221a3<br>jarak pelampung ke tepi jembatan = 65/\u221a3\u00a0<br>maap kalo jawabannya salaah~",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-liter-bensin-untuk-50-km-senilai-dgn-liter-untuk-75-km-600",
+            "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-kecepatan-80kmjam-memerlukan-waktu-2-jam-15-774",
+            "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-nilai-perbandingan-trigonometri-yang-lain-jika-diketa-924",
+            "question": "Tentukanlah nilai perbandingan trigonometri yang lain jika diketahui sudut lancipnya sebagai berikut ...    cos \u0443 = 0,8\r\n\r\ntolong yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos y = 0,8 = 8/10<br>cos y = sami(samping miring) = x/r<br>berarti x = 8 , r = 10 (sisi miring)<br>berarti mencari nilai y, dengan phytagoras didapat y = 6<br><br>sehingga sin y = y/r = 6/10 = 0.6<br>tan y = y/x = 6/8 = 0.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-matriks-a-5-2-1-4-maka-invers-matriks-a-adalah-759",
+            "question": "Jika diketahui matriks a= -5 2 1 4 maka invers matriks a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= -5 \u00a02<br>\u00a0 \u00a0 \u00a01 \u00a0 4<br>a-1 (a invers) = 1/( -5x4) - ( 2x1 )\u00a0 4\u00a0 -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0-1 \u00a0-5<br>a-1 = 1/(-20-2) \u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 -1 \u00a0-5<br>a-1 = 1/-22 \u00a0\u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a01 \u00a0-5<br>a-1 = -2/11 \u00a0 1/11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a01/22 \u00a0 \u00a05/22<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

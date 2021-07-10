@@ -1,0 +1,130 @@
+{
+    "question": "jumlah tiga bilangan genap yang berurutan adalah 126. a.apabila bilangan genap yang pertama 2n,nyatakan bilangan kedua dan ketiga dalam n. b.tentukan ketiga bilangan itu",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jumlah tiga bilangan genap yang berurutan adalah 126</strong>. Bilangan genap adalah bilangan yang habis dibagi 2. Selisih antara dua bilangan genap berurutan adalah 2. Jadi, bilangan genap selalu bertambah 2 untuk menentukan bilangan genap berikutnya..</p><br><h3>Pembahasan</h3><br><p><strong>a. Apabila bilangan genap yang pertama 2n</strong>, maka</p><p>Bilangan kedua adalah <strong>(2n + 2)</strong></p><p>Bilangan ketiga adalah (2n + 2) + 2 = <strong>(2n + 4)</strong></p><br><p><strong>b. Tentukan ketiga bilangan itu</strong></p><p>Jumlah ketiga bilangan genap berurutan = 126</p><p>2n + (2n + 2) + (2n + 4) = 126</p><p>6n + 6 = 126</p><p>6n = 120</p><p><strong>n = 20</strong></p><br><ul><li>Bilangan pertama = 2n = 2(20) = 40</li><li>Bilangan kedua = 2n + 2 = 2(20) + 2 = 42</li><li>Bilangan ketiga = 2n + 4 = 2(20) + 4 = 44</li></ul><br><p>Jadi ketiga bilangan genap tersebut adalah</p><p><strong>40, 42, 44</strong></p><br><h3>Pelajari lebih lanjut </h3><br><p>Contoh soal lain tentang jumlah bilangan genap berurutan</p><p>https://brainly.co.id/tugas/270962</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 7</p><p><strong>Mapel</strong> : Matematika </p><p><strong>Kategori</strong> : Persamaan dan Pertidaksamaan linear satu variabel</p><p><strong>Kode</strong> : 7.2.6</p><br><p><strong>Kata Kunci </strong>: Jumlah tiga bilangan genap berurutan</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "6skala-sebuah-peta-1-1500000-jarak-kota-a-dan-b-pada-peta-i-595",
+            "question": "6.skala sebuah peta 1 : 1.500.000. jarak kota A dan B pada peta itu 6 cm. berapa jarak sebenarnya kota A dan kota B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya = 1.500.000 X 6cm = 9.000.000cm = 90km<br>Jarak Sebenarnya = 90km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-tentang-lingkaranmohon-bantu-dengan-jawaban-yg-benar-sala-113",
+            "question": "Soal tentang lingkaran,mohon bantu dengan jawaban yg benar ,    salah satu sudut pusat dari segi n beraturana adalah 36 erajat,tentukanlah:\r\na. nilai n\r\nb.besar setiap sudut segi n beraturan\r\nc.jumlah sudut n beraturan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sudut pusat =<u>\u00a0 360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n<br>36 =\u00a0 <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  n<br>n = 10<br><br>b. besar tiap sudut segi n <br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n<br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10<br>= 180 - 36 = 144\u00b0<br><br>c. total sudut n beraturan<br>= besar sudut segi n \u00d7 n<br>= 144 \u00d7 10 = 1440\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-yang-besarnya-192derajat-adalah-a-25-putaran-penuh-b-613",
+            "question": "Sudut yang besarnya 192derajat adalah...    a. 2/5 putaran penuh\r\nb. 3/5 putaran penuh\r\nc. 7/12 putaran penuh\r\nd. 8/15 putaran penuh\r\n\r\nPakai caranya... Mohon minta bantuannya....:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "192 derajat = <span>8/15 x 360 derajat = </span><span>8/15 putaran penuh</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "satu putaran = 360 derajat<br><br>192/360 putaran<br>pembilang dan penyebut dibagi 24<br>192/360 = 8/15<br>8/15 putaran<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "anggi-dengan-mengendarai-mobil-dapat-menempuh-jarak-280km-selama-128",
+            "question": "Anggi dengan mengendarai mobil dapat menempuh jarak 280km selama 4jam 20menit. Jika Anggi akan menempuh jarak 360km, berapa yang diperlukan?    Pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket = jarak 280km, dengan waktu 260 menit.<br>jawab = 360/280 x 260 = 334 menit.<br>jadi waktu yang diperlukan jika menempuh jarak 360 km adalah 5 jam 34 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-40-dari-barisan-7531-adalah-655",
+            "question": "Suku ke-40 dari barisan 7,5,3,1,... adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><em><strong>Suku ke-40 dari barisan 7, 5, 3, 1\u2026 adalah</strong></em> (-71).</p><p></p><ul><li>Pelajari juga tentang simpangan baku dari data 4 5 6 6 4, baca di brainly.co.id/tugas/5284357</li></ul><ul><li>Pelajari juga tentang cara mencari modus data kelompok yang memiliki 2 frekuensi yang sama besar, baca di brainly.co.id/tugas/10779188</li></ul><p></p><h3>Pembahasan</h3><p><em><strong>Suku ke-40 dari barisan 7, 5, 3, 1\u2026 adalah</strong></em> (-71).</p><p><strong>Diketahui:</strong></p><p>a = 7</p><p>b = Un \u2013 U(n-1)</p><p>=U2 - U1</p><p>=5 \u2013 7</p><p>=(-2)</p><p></p><p><strong>Ditanya:</strong></p><p>U40?</p><p></p><p><strong>Dijawab:</strong></p><p><strong>Rumus</strong></p><p><strong>Un = a + (n-1)b</strong></p><p><strong>U40 = 7 + (40-1)(-2)</strong></p><p>=7 + (39 x (-2))</p><p>=7 + (-78)</p><p><strong>=(-71)</strong></p><p></p><ul><li>Pelajari juga tentang ciri ciri bangun ruang, baca di brainly.co.id/tugas/10441848</li></ul><p></p><h3>Detail Jawaban</h3><p><strong>Kelas</strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XI</p><p><strong>Mapel \u00a0</strong> \u00a0 \u00a0 \u00a0 : Matematika</p><p><strong>Bab </strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : Bab 7 \u2013 Barisan dan Deret</p><p><strong>Kode \u00a0</strong> \u00a0 \u00a0 \u00a0 \u00a0: 11.2.7</p><p>#AyoBelajar</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kelas-terdiri-dari-40-siswa-di-antaranya-18-siswa-suka-ip-810",
+            "question": "Sebuah kelas terdiri dari 40 siswa, di antaranya 18 siswa suka ipa, 23 suka ips, 8 siswa suka kedua-duanya dan x siswa yg tidak suka keduanya,tentukan;    a. nilai x\r\n\r\n#mohon bantuannya yah sebelumnya makasih banyak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(40 - 10 -\u00a08 - 15 )=\u00a07 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "jumlah = 40<br>yang suka ipa=18<br>yang suka ips = 23<br>yang suka ipa dan ips =8<br>yang hanya suka ipa = 18-8 =10<br>yang hanya suka ips = 23-8 =15<br>yang tidak suka keduanya = 40 - (8+10+15)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 40 - 33<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-pedagang-buah-membeli-1-peti-jeruk-yang-beratnya-30-kg-288",
+            "question": "1. Seorang pedagang buah membeli 1 peti jeruk yang beratnya 30 kg dengan harganya Rp 228.000,- setelah dibuka ternyata berat petinya 1,5 kg supaya pedagang untung 15 %. Berapa harga jual tiap kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 peti 30 kg dengan harga 228.000 . trus di kurang 1.5 kg . cara nya 30 kg - 1.5 kg =28.5 kg . maka 228.000 : 28.5 kg = 8000 perkilo nya modal .228.000*15%=34200. maka 228.000+34200= 262200 : 28.5 = 9200 perkilo yng di jual",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-garis-singgung-lingkaran-berjari-jari-6cm-dari-titik-di-l-860",
+            "question": "Panjang garis singgung lingkaran berjari-jari 6cm dari titik di luar lingkaran yang berjarak 10cm dari pusat lingkaran adalah.... \u00a0 pake cara yah :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = r = 6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 p = 10 cm<br>dit = panjang garis singgung (<em>\u00a0l</em>\u00a0) =... cm<br>jwb = l\u00b2 = p\u00b2 - r\u00b2 = 10\u00b2 - 6\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 100 - 36<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 l =\u00a0\u221a64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8<br>jadi panjang garis singgung adalah 8 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-juring-pada-lingkaran-adalah-123-2-jika-besar-s-179",
+            "question": "diketahui luas juring pada lingkaran adalah 123, 2 , jika besar sudut pusat juring itu 72 derajat , panjang jari-jari lingkaran tersebut adalah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring = sudut/360 \u00d7 \u03c0 r^2<br>123,2 = 72/360 \u00d7 22/7 \u00d7 r^2<br>123,2 = 1/5 \u00d7 22/7 r^2<br>123,2 = 22/35 r^2<br>r^2 = 123,2 \u00d7 35/22<br>r^2 = 196<br>r = \u221a196<br>r = 14<br><br>Jadi jari-jari lingkaran tersebut adalah 14",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

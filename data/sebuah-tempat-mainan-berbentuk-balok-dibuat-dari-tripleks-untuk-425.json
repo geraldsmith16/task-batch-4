@@ -1,0 +1,152 @@
+{
+    "question": "sebuah tempat mainan berbentuk balok dibuat dari tripleks. untuk membuatnya diperlukan tripleks 8,64 m\u00b2. jika tinggi tempat mainan 2m dan lebarnya 0,6 m maka panjangnya adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "luas permukaan balok = (panjang x lebar) + (Panjang x tinggi) + (tinggi x lebar)<br>\u00a08,64 = (p x l) + (p x t) + (2 x 0,6)<br>\u00a08,64 = 1,2 + p ( t x l)<br>8,64 - 1,2 = p(2 x 0,6)<br>7,44 = 1,2p<br>panjang = 7,44/1,2 = 6,2 m",
+            "attachments": []
+        },
+        {
+            "answer": "luas permukaan balok = \n&lt;=&gt; ((pxl) + (pxt) + (lxt)) x2\n&lt;=&gt; ((p(l+t) + (lxt))x2\n&lt;=&gt; ((p(0,6+2) + (0,6x2))x2=8,64\n&lt;=&gt; 2,6p +1,2=4,32   &lt;=&gt; 2,6p = 4,32 - 1,2\n&lt;=&gt; 2,6p=3,12  &lt;=&gt; p= 3,12/2,6\np=1,2\n\njd panjang balo adalah 1,2 meter",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jarak-titik-pusat-lingkaran-dengan-sebuah-titik-yang-berada-di-lu-481",
+            "question": "jarak titik pusat lingkaran dengan sebuah titik yang berada di luar lingkaran adalah 39 cm.panjang garis singgung yang melalui titik tersebut 36 cm.diameter lingkaran tersebut adalah .........cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini akan membentuk sebuah segitiga 36 sebagai tingginya , 39 sebagai garis yang miringnya dan jari2(r) sebagai alasnya.<br>r=akar 39kuadtar -36kuadrat<br>\u00a0=akar \u00a01521-1296<br>\u00a0=akar 225=15<br>d=2 x\u00a0r cm<br>\u00a0 \u00a0=2x15<br>\u00a0 \u00a0=30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-indah-membeli-2-lusin-gelas-seharga-rp192000gelas-tersbut-di-939",
+            "question": "Bu Indah membeli 2 lusin gelas seharga Rp.192000.Gelas tersbut dijual lagi dngn harga Rp.9500 per buah.    a.Tentukan besar keuntungan/kerugian Bu Indah.\r\n b.Agar diperoleh keuntungan 25%,berapa harga jual gelas per buah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a] ia mendapat keuntungan sebesar = 36.000<br>\u00a0sy tidak tau yg ke duanya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 9.500 x 24 = 228.000<br>keuntungan = 228.000 - 192.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 36.000<br>b. 25/100 \u00d7 192.000 = 48.000<br>harga jual 2 lusin = 192.000 + 48.000 = 240.000<br>jadi dijual dengan harga = 240.000 : 24 = 10.000 perbuah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-lingkaran-616-cm2-dan-sebuah-juring-pada-lingkaran-tsb-184",
+            "question": "Luas suatu lingkaran 616 cm2 dan sebuah juring pada lingkaran tsb luasnya 77 cm2. maka besar sudut pusatnya adalah    a. 45\u00b0\r\n b. 60\u00b0 \r\n c. 72\u00b0\r\n d. 90\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. 45\u00b0</span> <br>karena <u>45</u>/360 X 616 = 1/8 X 616 = 77 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-semua-bilangan-bulat-antara-100-dan-500-yang-tid-609",
+            "question": "Hitunglah jumlah semua bilangan bulat antara 100 dan 500 yang tidak habis dibagi 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]jumlah seluruhnya \\\\ S_{400} = \\frac{400}{2} (2(100)+(399)1) \\\\ S_{400} = 200(599) \\\\ S_{400} = 119800 \\\\ \\\\ kelipatan5 \\\\ S_{400} = \\frac{80}{2} (100+500) \\\\ S_{400} = 40(600) \\\\ S_{400} = 2400 \\\\ \\\\ 119800-2400=117400 \\\\ \\\\ *CMIIW*[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jumlah suku dari 100-500 dikurangi jumlah suku yg habis dibagi 5. Logikanya spt itu saja.\nMisal: suku dari 100-500 dgn b=1 kita misal A dan suku dari 100-500 dgn b=5 kita misal B (dipahami B habis dibagi 5)\nSn(A) = 401/2 x (100+500) = 401/2 x 600 = 120300\nSn(B) = 81/2 x (100+500) = 81/2 x 600 = 24300\nMaka jumlah yg tdk habis dibagi 5 misalkan C\nSn(C) = Sn(A) - Sn(B) = 120300-24300 = 96000\nPenyelesaian soal ini menggunakan konsep suku ke n deret aritmatik+jumlah suku aritmatik dan himpunan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1nyatakan-segitiga-segitiga-berikut-lancip-siku-siku-atau-t-885",
+            "question": "1.Nyatakan segitiga segitiga berikut, lancip, siku - siku, atau tumpul. jika merupakan segitiga siku - siku, lancip, atau tumpul. tentukan nama titik sudut yang siku- siku, lancip, atau tumpul!    A.segitiga ABC.AB=16CM, BC=30CM DAN AC=34CM\r\nB.segitiga PQR.PQ=12CM, QR=10CM, DAN PR=8CM\r\n\r\n2.ebuah kapal berlayar dari pelabuhan a kearah selatan menuju pelabuhan b sejauh 250km. kemudian, dilanjutkan ke arah timur menuju pelabuhan c sejauh 300km.\r\na.buatlah sketsa dari keterangan di atas.\r\nb.berapakah jarak dari pelabuhan a ke pelabuhan d",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ga ngerti aku nee..........<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.\u00a0a. tumpul<br>\u00a0 \u00a0\u00a0b. siku-siku<br>2. a. 6/5<br>\u00a0 \u00a0 b. 50 km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-556",
+            "question": "Pada hari raya , supermarket menjual pakaian dengan diskon besar besaran. Ibu membeli kemeja adik dengan harga Rp 150.000 setelah di diskon 30% (+15%), artinya akan terjadi diskon lagi sebesar 15% dari total harga setelah didiskon 30%. Berapakah harga kemeja tersebut jika tidak didiskon???    jawab secepatnya ya! pake cara!!\r\n\r\n\r\n#thanks",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30/100 dikali 150.000 = 45.000<br>150.000 - 45.000 = 105.000<br>15/100 dikali 105.000 = 15.750<br>105.000 - 15.750 = 89.250 Hasilnya...<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pake konsep bunga majemuk\n1. cari 115/100*150.000 dulu=172.500\n2. caru 130/100*172.500=224.250\n\njadi hqrga sebelum diskon 224.250,-\n\ncat: jangan menjumlahkan kedua diskon(30+15) karena hasilnya salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921",
+            "question": "PANJANG DIAMETER ALAS KALENG SUSU ADALAH 7.4 CM DAN TINGGI 7,5 CM LABEL KALENG SUSU YANG SEDANG DI BUKA TERBUAT DARI LEMBARAN KERTAS TENTUKAN:    * BENTUK LABEL\r\n*UKURAN LABEL\r\n*LUAS LABEL",
+            "attachments": [
+                "question-attachments/panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "* selimut tabung\n* 2pi.r.t = 2 . 3,14. 3,7 . 7,5 = 174,27\n* sama dengan ukuran label",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-deret-aritmatika-terdiri-dari-10-suku-jumlah-suku-pertama-303",
+            "question": "Sebuah deret aritmatika terdiri dari 10 suku, jumlah suku pertama dan ke dua adalah 9. Adapun jumlah suku ke 5 dan 6 adalah 33. jumlah deret tersebut adalah ...    A. 30\u00a0 \u00a0 \u00a0 C. 156\r\nB. 67\u00a0 \u00a0 \u00a0 D. 165\r\nJAWAB YG BENAR YAH .. MINTOL :D DENGAN CARANYA ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = 9<br>a + a + b = 9<br>2a + b = 9............1<br><br>U5 + U6 = 33<br>a + 4b + a + 5b = 33<br>2a + 9b = 33..........2<br><br>dari eliminasi persamaan 1 dan 2 didapat a =3,\u00a0 b = 3<br>Sn = [tex] \\frac{n}{2} [/tex] (2a + (n-1)b)<br>S10 = [tex] \\frac{10}{2} [/tex] (2.3 + (10-1)3)<br>=&gt; 5(6 + 27)<br>=&gt; 5(33) =\u00a0 165 (D)....semoga membantu..ok?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a+a+b=9\n2a+b=9...persamaan 1\na+4b+a+5b=33\n2a+9b=33...persamaan \n2\neliminasi pers 1 dan 2\ndapat a=3 dan b=3\njadi 10/2(2*3+(10-1)3)\n5*33=165",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-membelah-diri-menjadi-dua-setiap-20-menit-jika-mula-mula-t-877",
+            "question": "amuba membelah diri menjadi dua setiap 20 menit. jika mula mula terdapat 15 amuba, maka selama 2 jam banyak amuba adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Materi Baris dan Deret</p><p>Kelas IX</p><p><br></p><p>2 jam = 120 menit</p><p>n = 120 :20</p><p>n = 6</p><p><br></p><p>Un = a.r^n</p><p>U6 = 15.2^6</p><p>U6 = 15.64</p><p>U6 = 960</p><p><br></p><p>Mohon maaf apabila ada kesalahan<br></p><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pagar-tanaman-di-halaman-pak-roni-tingginya-98-cmpak-roni-memang-207",
+            "question": "pagar tanaman di halaman pak roni tingginya 98 cm.pak roni memangkas pagar tersebut sehingga tingginya berkurang 2 dm.setelah se bulan,tinggi pagar tanaman tersebut bertambah 90mm.tinggi pagar tanaman di halaman pak roni sekarang berapa cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "98 cm = 98 cm<br>2 dm = 20 cm<br>90 mm = 9 cm<br>so, (98-20) + 8<br><br>Bener kan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span></span>tinggi=98 cm<br>dipangkas=2dm <u></u>dikali 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  98cm - 20 cm=78 cm<br>bertambah 1 bulan=90 mm/10 =9 cm<br>jadi,78+9=87 cm<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

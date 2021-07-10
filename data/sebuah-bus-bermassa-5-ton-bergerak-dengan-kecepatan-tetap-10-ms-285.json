@@ -1,0 +1,146 @@
+{
+    "question": "Sebuah bus bermassa 5 ton bergerak dengan kecepatan tetap 10 m/s. Berapa\u00a0momentum\u00a0yang dimiliki bus tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "p=mv<br>p=5000kg x 10 m/s .......... (5 ton = 5000 kg)<br>p=50.000 kg m/s................(50ribu)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1 ton :1000 kg<br>10 m/s:?<br>1000/10:100<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balon-udara-berisi-udara-panas-memiliki-volume-500m3-bal-902",
+            "question": "sebuah balon udara berisi udara panas memiliki volume 500m^3. balon itu bergerak ke atas dengan kelajuan tetap di udara yang massa jenisnya 1,2 kg/m^3. massa jenis udara panas yang ada di dalam balon ketika itu adalah 0.80 kg/m^3. \u00a0 \u00a0 a. berapa massa total balon dan udara panas di dalamnya? b. berapa percepatan ke atas balon ketika suhu udara di dalam balon dinaikkan hingga massa jenisnya menjadi 0,7kg/m^3 ? \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jawab A.\u00a0<br><br>\u03a3F = 0\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = 0\u00a0<br>-m + (1.2)\u00a0500 - (0.8)\u00a0500 \u00a0 \u00a0= 0\u00a0<br>m = 200 kg\u00a0<br><br><br><br><br>Jawab B.\u00a0<br><br>\u03a3F = m a\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = M a\u00a0<br>-(200)(9.8) + (1.2)(9.8)(500) - (0.7)(9.8)(500) = (200 + 0.7 * 500) a\u00a0<br>a = 0.89 m/s\u00b2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-saja-yang-digunakan-untuk-membuat-galvanometer-dan-m-432",
+            "question": "jelaskan apa saja yang digunakan untuk membuat galvanometer dan motor listrik. apa yang diperlukan untuk membuat motor listrik , namun tidak diperlukan dalam pembuatan galvanometer ? mengapa alt tersebut diperlukan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan dan alat membuat motor litrik ;\u00a0<br>-kabel tembaga beremail\u00a0<br>- satu buah maget batang<br>-batery pack<br>-styrofoam<br>- kater<br>-spidol<br>-tusuk gigi<br>alasannya ; alt tersebut harus diperlukan agar buatan motor listrik tersebut jadi sempurna apabila tidak lengkap maka hasilnya akan kurang baik.",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada motor listrik butuh batrai sedangkan pada galvanometer tidak membutuhkan batre. karena sumber listrik dari motor listrik dari batre sedangkan  pada galvanometer sumber listrik dari rangkaian listrik yg di pasang pada galvanometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899",
+            "question": "Dua celah sempit yang terpisah pada jarak 0.2mm disinari tegak lurus. Garis terang ketiga terletak 7,5mm dari garis terang ke nol pada layar yang jaraknya 1m dari celah. Panjang gelombang sinar dipakai adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dy/l=n\u03bb untuk terang<br>0,2mm x 7,5mm/1000mm=3\u03bb<br>\u03bb=5x[tex] 10^{-4} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik d = 0.2 mm = 2 x 10^-4 m<br>\u00a0 \u00a0 \u00a0 m = 3<br>\u00a0 \u00a0 \u00a0 p = 7,5 mm = 7,5x10^-3 m<br>\u00a0 \u00a0 \u00a0 l = 1m\u00a0\u00a0<br>Dit\u00a0\u03bb ?<br>jawab.<br><br>d.p = m.l.\u03bb<br><br>0,2x10^-4 . 7,5 x 10^-3\u00a0= 3.1 .\u03bb<br><br>\u03bb =\u00a0[tex] \\frac{2x10^-4 . 7,5x10^-3}{3} [/tex] =\u00a0[tex] \\frac{15x10^-7}{3} [/tex] = 5x10^-7 m<br><br>",
+                    "attachments": [
+                        "answer-attachments/dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-pembentukan-bayangan-gambar-pa-712",
+            "question": "buatlah masing-masing 3 contoh pembentukan bayangan ( gambar ) pada lensa cembung dan cermin cembung beserta sifatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk cermin cekung dan lensa cembung itu pembentukan bayangan dan sifatnya sama, yaitu<br>bila benda di ruang 1 maka bayangan di ruang 4, sifatnya maya, diperbesar, tegak<br>bila benda di ruang 2 maka bayangan di ruang 3, sifatnya nyata, terbalik diperbesar<br>bila benda di ruang 3 maka bayangan di ruang 2, sifatnya nyata, terbalik, diperkecil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-penyebab-terjadinya-bunyi-791",
+            "question": "Apa penyebab terjadinya bunyi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyebab terjadinya bunyi :<br>1. Ada sumber bunyi yg menghasilkan getaran<br>2. Ada medium perambatan bunyi<br>3. Ada pendengar / yg menangkap sumber bunyi<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328",
+            "question": "Setiap sekon di matahari terjadi perubahan 4\u00a0x\u00a010^9 kg materi menjadi energi\u00a0radiasi. apabila laju cahaya dalam vakum adalah 3 x 10^10 cm/s, daya yang dipancarkan oleh matahari adalah..    a. 3,6 x 10^30 watt\r\nb. 5,0 x 10^30 watt\r\nc. 1,2 x 10^18 watt\r\nd. 3,6 x 10^26 watt\r\ne. 1,2 x 10^26 watt",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika- relativitas<br>Kelas : 12 sma<br>Pembahasan : jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508",
+            "question": "teh panas yang massanya 20 gram pada suhu t dituang kedalam cangkir bermassa 190 gram dan bersuhu 20 derajat celcius. jika suhu kesetimbangan termal 36 derajat celcius dan panas jenis air teh = 8 kali panas jenis cangkir, tentukan suhu mula-mula teh? gimana caranya y? terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran: fisika <br>Kelas: 10 SMA <br>Kategori: suhu dan kalor <br>Kata kunci: suhu campuran <br>Pembahasan:<br><br>Berikut terlampir pembahasan soal.",
+                    "attachments": [
+                        "answer-attachments/teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "cos-120-derajat-berapa-ya-818",
+            "question": "Cos 120 derajat berapa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari cos 120\u2070 adalah - \u00b9/\u2082.</p><h3><strong>Pembahasan</strong></h3><p>Diminta untuk menentukan nilai dari <strong>cos 120\u00b0</strong>.</p><p>Mari kita pahami terlebih dahulu mengenai <strong>kuadran</strong>. Sistim koordinat dapat terbagi ke dalam empat wilayah kuadran.</p><ul><li><strong>Kuadran-1 berada dalam interval 0\u00b0 \u2264 x \u2264 90\u00b0</strong></li><li><strong>Kuadran-2 berada dalam interval 90\u00b0 \u2264 x \u2264 180\u00b0</strong></li><li><strong>Kuadran-3 berada dalam interval 180\u00b0 \u2264 x \u2264 270\u00b0</strong></li><li><strong>Kuadran-4 berada dalam interval 270\u00b0 \u2264 x \u2264 360\u00b0</strong></li></ul><p>Perhatikan nilai-nilai dari sinus, cosinus, dan tangen pada setiap kuadran berikut ini.</p><ul><li><strong>Kuadran-1, semua nilai-nilai dari sin, cos, dan tan adalah positif</strong></li><li><strong>Kuadran-2, hanya nilai sin yang positif</strong></li><li><strong>Kuadran-3, hanya nilai tan yang positif</strong></li><li><strong>Kuadran-4, hanya nilai cos yang positif</strong></li></ul><p><u>Catatan:</u> fungsi tangen dapat ditulis sebagai tan atau tg.</p><p>Garis sumbu yang memisahkan antarkuadran dapat kita sebut sebagai pembatas kuadran.</p><ul><li><strong>Pembatas kuadran mendatar adalah 180\u00b0 dan 360\u00b0</strong></li><li><strong>Pembatas kuadran tegak adalah 90\u00b0 dan 270\u00b0</strong></li></ul><p>Ingatlah hal penting berikut ini yang terkait dengan relasi sudut:</p><p><strong>A. pembatas kuadran mendatar tidak mengubah fungsi</strong></p><ul><li>sin (180\u00b0 - \u03b1) = sin \u03b1</li><li>cos (180\u00b0 - \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 - \u03b1) = - tan \u03b1</li><li>sin (180\u00b0 + \u03b1) = - sin \u03b1</li><li>cos (180\u00b0 + \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 + \u03b1) = tan \u03b1</li><li>sin (360\u00b0 - \u03b1) = sin \u03b1</li><li>cos (360\u00b0 - \u03b1) = cos \u03b1</li><li>tan (360\u00b0 - \u03b1) = - tan \u03b1</li></ul><p><strong>B. pembatas kuadran tegak akan mengubah fungsi</strong></p><ul><li>sin (90\u00b0 - \u03b1) = cos \u03b1</li><li>cos (90\u00b0 - \u03b1) = sin \u03b1</li><li>tan (90\u00b0 - \u03b1) = cot \u03b1</li><li>sin (90\u00b0 + \u03b1) = cos \u03b1</li><li>cos (90\u00b0 + \u03b1) = - sin \u03b1</li><li>tan (90\u00b0 + \u03b1) = - cot \u03b1</li><li>sin (270\u00b0 - \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 - \u03b1) = - sin \u03b1</li><li>tan (270\u00b0 - \u03b1) = cot \u03b1</li><li>sin (270\u00b0 + \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 + \u03b1) = sin \u03b1</li><li>tan (270\u00b0 + \u03b1) = - cot \u03b1</li></ul><p>Kembali kepada soal yang ditanyakan, yakni diminta untuk menentukan nilai dari cos 120\u00b0. Sudut 120\u00b0 ini tentu berada di kuadran 2 sehingga nilai dari cosinusnya adalah negatif. Kita kerjakan dengan dua cara.</p><p><strong>CARA PERTAMA</strong></p><p><strong>Gunakan cos (180\u00b0 - \u03b1) = - cos \u03b1</strong></p><p>cos 120\u00b0 = cos (180\u00b0 - 60\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - cos 60\u00b0 (ingat, nilai dari cos 60\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>CARA KEDUA</strong></p><p><strong>Gunakan cos (90\u00b0 + \u03b1) = - sin \u03b1</strong></p><p>cos 120\u00b0 = cos (90\u00b0 + 30\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - sin 30\u00b0 (ingat, nilai dari sin 30\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>Kesimpulan</strong></p><p>Untuk dapat menjawab pertanyaan tentang penentuan nilai-nilai fungsi trigonometri, kita harus pahami terlebih dahulu mengenai:</p><p>a. kuadran dan pembatas-pembatas kuadran,</p><p>b. posisi sudut pada suatu kuadran, dan</p><p>c. relasi sudut.</p><h3>--------------------------</h3><p>Pelajari persoalan trigonometri lainnya di sini</p><ol><li>https://brainly.co.id/tugas/15359538</li><li>brainly.co.id/tugas/34048</li><li>brainly.co.id/tugas/8232394</li></ol><h3>______________</h3><h3>Detil Jawaban</h3><p><strong>Kelas:</strong> X</p><p><strong>Mapel: </strong>Matematika</p><p><strong>Kategori: </strong>Trigonometri</p><p><strong>Kata Kunci: nilai, cosinus, sinus, tangen, kuadran, pembatas, sistim, koordinat, relasi, sudut</strong></p><p></p><p><strong>Kode: </strong>10.2.6 </p>",
+                    "attachments": [
+                        "answer-attachments/cos-120-derajat-berapa-ya-818-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613",
+            "question": "Berat benda saat ditimbang di udara adalah 30 N. Jika ditimbang didalam    air beratnya menjadi 22,5 N, dan jika ditimbang dalam suatu cairan lain \r\n beratnya menjadi 11,25 N. Tentukan massa jenis cairan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi ; fluida <br>Kata kunci : massa jenis cairan<br><br>Pembahasan : perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

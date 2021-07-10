@@ -1,0 +1,144 @@
+{
+    "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fxmx22m-3xm3-berada-diatas-sumbu-x-batas-685",
+            "question": "Grafik fungsi f(x)=mx^2+(2m-3)x+m+3 berada diatas sumbu x. Batas-batas nilai m yang memenuhi adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = mx\u00b2 +(2m -3)x\u00a0 + m + 3<br>a = m<br>b = 2m -3<br>c = m + 3<br><br>syarat FK punya akar imajiner : D &lt; 0<br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m - 3)\u00b2 - 4.m.(m+3) &lt; 0<br>4m\u00b2 - 12m + 9 - 4m\u00b2 - 12 &lt; 0<br>-12m - 3 &lt; 0<br>-12m &lt; 3<br>m &gt; [tex] \\frac{3}{-12} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) berada di atas sumbu x, berarti D &lt; 0<br>a = m<br>b = (2m-3)<br>c = m+3<br><br>D = b\u00b2 - 4.a.c &lt; 0<br>\u00a0 \u00a0 \u00a0 (2m-3)\u00b2 - 4.m.(m+3) &lt; 0<br>\u00a0 \u00a0 \u00a0 4m\u00b2 - 12m + 9 - 4m\u00b2 - 12m &lt; 0<br>\u00a0 \u00a0 \u00a0 -24m + 9 &lt; 0 \u00a0dikali (-1) agm\u00a0ar tidak negatif, hati2 setelah dikali (-1) tanda berubah<br>\u00a0 \u00a0 \u00a0 \u00a024m - 9 &gt; 0 dibagi 3 agar lebih mudah mencari nilai m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a08m - 3 &gt; 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08m &gt; 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m &gt; 3/8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0<br><br>\u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-dari-pelabuhan-a-dengan-arah-044-derajat-se-209",
+            "question": "Sebuah kapal berlayar dari pelabuhan A dengan arah 044 derajat sejauh 50km .kemudian berlayar lagi dengan arah 104 derajat sejauh 40 km ke pelabuhan C. Jarak pelabuhan A ke C adalah...\u00a0    minta tolong dong , gmna caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pilih sebagai solusi terbaik ya<br>B=180-(44+104) <br>\n=180-60=120 derajat <br>\na=40km <br>\nc=50km  <br>\nditanya,,,b? <br>\nb^2=a^2+c^2-2ac cosB <br>\n=40^2+50^2-2.40.50 cos 120 derajat <br>\n=1600+2500-4000.-1/2 <br>\n=4100+2000 <br>\n=6100 <br>\nb=akar dari 6100=10 akar 61 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-x2-5x-6-0-prsamaan-kuadrat-berikut-dengan-cara-f-742",
+            "question": "Selesaikan x^2 - 5x +6 = 0 prsamaan kuadrat berikut dengan cara faktorisasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 - 5x + 6 = 0<br>faktornya adalah : <br>(x - 2)(x - 3) = 0 <br>x - 2 = 0 atau x - 3 = 0<br>x = 2 atau x = 3 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya adalah\u00a0(x-2)(x-3)=0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-deret-geometri-diketahui-suku-ke-2-adalah-6-dan-suku-761",
+            "question": "Pada sebuah deret geometri diketahui suku ke 2 adalah 6 dan suku ke 5 adalah 48 jumlah sepuluh suku pertaama adaalah ???    tolong dibantu jawaban nya yaaaah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "_ 6 _ _ 48<br><br>Jadi<br>U1 = 3<br>U2 = 6<br>U3 = 12<br>U4 = 24<br>U5 = 48<br><br>Sn = a(r^n-1) / r -1<br>= 3 (2^10-1) / 2-1<br>= 3 . 1023 /1<br>=3069",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik: U2=6<br>\u00a0 \u00a0 \u00a0 \u00a0U5=48<br>Pertamaanya cari dulu r nya<br>saya punya cara mudahnya,rumusnya:<br>\u00a0[tex] r^{(suku yang paling besar-suku yang paling kecil)} [/tex] = <u>(nilai suku yg paling besar)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 (nilai suku yg paling kecil)<br><br>jadi cara ngerjainnya:<br>[tex] r^{5-2} [/tex] = <u>48</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 6<br><u></u>[tex] r^{3} [/tex] \u00a0 \u00a0 =8<br>\u00a0 \u00a0 \u00a0\u00a0 r =[tex] 3\\sqrt{8} [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0r = 2<br><u></u><br>jadi cara mencari [tex] S_{10} [/tex] = <u>a([tex] r^{n} [/tex] -1)<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 r-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <u>3([tex] r^{10} [/tex] -1)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u>3(1023)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 X 1023 = 3069<br><br>jadi\u00a0[tex] S_{10} [/tex] yaitu 3069<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

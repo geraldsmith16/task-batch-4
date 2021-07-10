@@ -1,0 +1,134 @@
+{
+    "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-diketahui-matriks-a-5-2-1-4-maka-invers-matriks-a-adalah-759",
+            "question": "Jika diketahui matriks a= -5 2 1 4 maka invers matriks a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= -5 \u00a02<br>\u00a0 \u00a0 \u00a01 \u00a0 4<br>a-1 (a invers) = 1/( -5x4) - ( 2x1 )\u00a0 4\u00a0 -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0-1 \u00a0-5<br>a-1 = 1/(-20-2) \u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 -1 \u00a0-5<br>a-1 = 1/-22 \u00a0\u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a01 \u00a0-5<br>a-1 = -2/11 \u00a0 1/11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a01/22 \u00a0 \u00a05/22<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-a-2i-j-k-dan-b-i-2j-k-nilai-sinus-su-280",
+            "question": "Diketahui vektor a= 2i - j + k\u00a0dan b= i - 2j + k. nilai sinus sudut antara vektor a dan b adalah..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "|a||b|cos A = (2)(1) + (-1)(-2) + (1)(1)<br>(\u221a6)(\u221a6)cos A = 5<br>cos A = 5/6<br>sin A =\u00a0[tex] \\sqrt{1-cos^2A} [/tex]<br>sin A =\u00a0[tex] \\sqrt{1- \\frac{25}{36} } [/tex]<br>sin A =\u00a0[tex] \\sqrt{ \\frac{11}{36} } [/tex]<br>sin A =[tex] \\frac{1}{6}  \\sqrt{11} [/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x2 - 8x +\r\n 3\u00a0 dari grafik fungsi kudrat \u00a0g(x) = 4x2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f\u00a00\u00a0g =\u00a04(4x^2)^2 - 8(<span>4x^2)</span>\u00a0+3 = 64x (4x^2-1)",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nilai-cos-dari-1290-tolong-beserta-caranya-ya-d-361",
+            "question": "Nilai cos dari (1290) = ...\r\ntolong beserta caranya ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1290 = 3x 360 +210\ncos 1290 = cos (3x360 +210)\ncos210 = -cos 30\n=-1/2 akar 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tuliskan-3-suku-berikutnya-dari-barisan-berikut-ini-269",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0    Tuliskan 3 Suku berikutnya dari\r\n barisan berikut ini.\r\n\r\no\u00a0\u00a0\r\n25,22,19,16,13,\u2026\r\n\r\no\u00a0\u00a0\r\n2,6,10,14,18,22,\u2026\r\n\r\no\u00a0\u00a0\r\n512,256,128,\u2026\r\n\r\no\u00a0\u00a0\r\n2,6,18,\u2026\r\n\r\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nBilangan 237 pada barisan 3,12,21,\u2026\r\n merupakan suku ke -...\r\n\r\n\u00a0\r\n\r\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSuku ke-8 dari barisan 125,25,5,\u2026\r\n adalah \u2026\r\n\r\n\u00a0\r\n\r\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDari suatu barisan aritmatika\r\n diketahui suku ke-5 adalah 22 dan suku ke-12 adalah 57. Suku ke-15 dari barisan\r\n ini adalah\u2026\r\n\r\n\u00a0\r\n\r\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSuku ke-3 dan suku ke-5 barisan\r\n geometri dgn suku\u2019\u2019 positif berturut\u201d adalah 18 dan 162. Suku ke-6 barisan\r\n tersebut adalah\u2026\r\n\r\n\u00a0\r\n\r\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDi antara bilangan 4 dan 28\r\n disisipkan lima bilangan sehingga membentuk barisan aritmatika. \r\n\r\nBeda barisan aritmatika tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n7.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDi antara 8 dan 128 disisipkan tiga\r\n buah bilangan sehingga terbentuk barisan geometri. Jika rasionya positif maka\r\n rasio dari barisan geometri tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n8.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDiketahui barisan aritmatika\r\n 4,7,10,13,\u2026,31. Jumlah barisan tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n9.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSetuas tali dipotong menjadi 9\r\n bagian. Panjang masing\u201d potongan \u00a0tsb\r\n mengikuti barisan geometri. Potongan tali yang paling pendek adalah 4 cm dan\r\n potongan tali paling panjang 1024 cm. Panjang tali semula adalah\u2026\r\n\r\n\u00a0\r\n\r\n10.\u00a0 Jumlah dari &amp; seterusnya sebanyak tak terhingga suku adalah\u2026\r\n\r\n \u00a0\r\n\r\n \u00a0\r\n\r\n \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. <br>a. 10, 7, 4 <br>b. 26, 30, 34 <br>c. 64, 32, 16 <br> d. 54, 162, 486<br>2. 3+(n-1)9=237\u2192(n-1)9=234\u2192n-1=26\u2192n=27 <br> 3. U8= 125*(1/5)^7=16/10.00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "Hitunglah konsentrasi OH- dan pH suatu larutan 1 M NaOCN bila harga Ka HOCN adalah 3,3X10^-4",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab :</strong></p><p>konsentrasi OH\u207b dan pH suatu larutan 1 M NaOCN bila harga Ka HOCN = 3,3 \u00d7 10\u207b\u2074 adalah <strong>5,5 \u00d7 10\u207b\u2076 dan 8 + log 5,5.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : [NaOCN] = 1 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ka HOCN = 3,3 \u00d7 10\u207b\u2074</p><p>Ditanya : [OH\u207b] dan pH</p><p>Jawab :</p><ul><li>Hitung [OH\u207b] menggunakan rumus hidrolisis dengan cara :</li></ul><p>[OH\u207b] = \u221aKw/Ka \u00d7 [NaOCN]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a10\u207b\u00b9\u2074/ 3,3 \u00d7 10\u207b\u2074 \u00d7 1</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a0,303 \u00d7 10\u207b\u00b9\u2070</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a30,3 \u00d7 10\u207b\u00b9\u00b2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5,5 \u00d7 10\u207b\u2076</p><ul><li>Hitung pH dengan cara :</li></ul><p>pOH = - log [OH\u207b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = - log 5,5 \u00d7 10\u207b\u2076</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = 6 - log 5,5</p><p>pH = 14 - pOH</p><p> \u00a0 \u00a0 \u00a0= 14 - (6 - log 5,5)</p><p> \u00a0 \u00a0 \u00a0= 8 + log 5,5</p><p><strong>\u2234 Kesimpulan [OH\u207b] dan pH larutan adalah 5,5 \u00d7 10\u207b\u2076 dan 8 + log 5,5.</strong></p><p><strong>Pembahasan : \u00a0</strong></p><p><strong>Pengertian Hidrolisis Garam \u00a0</strong></p><p>Hidrolisis adalah reaksi penguraian dalam air. Hidrolisis garam adalah reaksi penguraian garam dalam air membentuk ion positif dan ion negatif. Ion-ion tersebut akan bereaksi dengan air membentuk asam (H\u2083O\u207a) dan basa (OH\u207b) asalnya. Reaksi hidrolisis berlawanan dengan reaksi penggaraman atau reaksi penetralan. Reaksi penggaraman yaitu reaksi antara asam dengan basa yang menghasilkan garam. Garam yang dihasilkan tidak selalu bersifat netral, tetapi tergantung kekuatan asam dan basa pembentuk garam tersebut. \u00a0</p><p><strong>Macam-Macam Hidrolisis Garam \u00a0</strong></p><p><strong>1. Garam dari Asam Kuat dan Basa Kuat \u00a0</strong></p><p>Garam yang terbentuk dari asam kuat dan basa kuat tidak terhidrolisis. \u00a0</p><p><strong>2. Garam dari Asam Lemah dan Basa Kuat \u00a0</strong></p><p>Garam yang terbentuk dari asam lemah dan basa kuat mengalami hidrolisis parsial dalam air. Menurut prinsip kesetimbangan, untuk reaksi-reaksi kesetimbangan di atas berlaku persamaan berikut : \u00a0</p><p><strong>[OH\u207b] = \u221aKw/Ka \u00d7 [garam] \u00a0</strong></p><p><strong>Atau \u00a0</strong></p><p><strong>[OH\u207b] = \u221aKh \u00d7 [garam] \u00a0</strong></p><p>Keterangan : \u00a0</p><p>Kh = tetapan hidrolisis \u00a0</p><p>Kw = tetapan kesetimbangan air \u00a0</p><p>Ka = tetapan ionisasi asam lemah \u00a0</p><p><strong>3. Garam dari asam Kuat dan Basa lemah \u00a0</strong></p><p>Garam yang terbentuk dari asam kuat dan basa lemah mengalami hidrolisis parsial dalam air. Garam yang terbentuk dari asam kuaat dan basa lemah dalam air bersifat asam karena kationya terhidrolisis (memberi proton terhadap air), sedangkan anionnya tidak. Menurut prinsip kesetimbangan, untuk reaksi-reaksi kesetimbangan di atas berlaku persamaan berikut : \u00a0</p><p><strong>[H\u207a] = \u221aKw/Kb \u00d7 [garam] \u00a0</strong></p><p><strong>Atau \u00a0</strong></p><p><strong>[H\u207a] = \u221aKh \u00d7 [garam] \u00a0</strong></p><p>Keterangan : \u00a0</p><p>Kh = tetapan hidrolisis \u00a0</p><p>Kw = tetapan kesetimbangan air \u00a0</p><p>Kb = tetapan ionisasi bsa lemah pembentuk garam \u00a0</p><p><strong>4. Garam dari Asam Lemah dan Basa Lemah \u00a0</strong></p><p>Garam yang terbentuk dari asam lemah dan basa lemah mengalami hidrolisis total dalam air. Baik anion maupun kation dari garam yang terbentuk dari asam lemah dan basa lemah terhidrolisis dalam air, sehingga disebut hidrolisis total. \u00a0</p><p>Adapun pH larutan, secara kuantitatif sukar dikaitkan dengan harga Ka dan Kb maupun dengan konsentrasi garam. pH larutan yang tepat hanya dapat ditentukan melalui pengukuran. pH larutan dapat diperkirakan dengan rumus : \u00a0</p><p><strong>[H\u207a] = \u221aKw \u00d7 Ka/Kb \u00a0</strong></p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/21052446 \u00a0</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/2439982 \u00a0</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/125279 \u00a0</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22003392\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22019984\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22075414\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22003923\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/10145769\n</p><p>______________________________________________________\n</p><p><strong>Detail Jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 7 \u00a0</p><p>Kode : 11.7.7 \u00a0</p><p>Kata kunci : pH, hidrolisis, reaksi, asam, basa, Kh \u00a0</p>",
+            "attachments": [
+                "answer-attachments/hitunglah-konsentrasi-oh-dan-ph-suatu-larutan-1-m-naocn-bila-har-340-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apakah-semua-senyawa-konvalen-dapat-menghantarkan-arus-listrik-218",
+            "question": "Apakah semua senyawa konvalen dapat menghantarkan arus listrik ? Jelaskan !\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tidak semua senyawa kovalen dapat menghantarkan listrik karena senyawa kovalen memiliki muatan 0 dan tergantung ion2 penyusunnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tidak ,karena yang dapat menghantarkan listrik adalah senyawa kovalen polar sedangkan yang tidak dapat menghantarkan listrik adalah senyawa kovalen non polar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dikenal-ada-4-persenyawaan-kloryang-berturut-turut-mengandung-kl-438",
+            "question": "dikenal ada 4 persenyawaan klor,yang berturut turut mengandung klor sebanyak 53,65%;49,10%;43,56%;27,84%. jelaskan perhitungan, dan apakah hukum kelipatan perbandingan dalton berlaku dalam senyawa ini...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya pake picture aja yaa :)",
+                    "attachments": [
+                        "answer-attachments/dikenal-ada-4-persenyawaan-kloryang-berturut-turut-mengandung-kl-438-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-peb-dan-pei-pada-senyawa-pcl3-h2s-dan-sf4-762",
+            "question": "Tentukan jumlah PEB dan PEI pada senyawa PCl3, H2S, dan SF4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u2081\u2085P = 2 . 8 . 5<br>\u2081\u2087Cl = 2 . 8 . 7<br><br>PCl\u2083 merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 1, dan PEI (pasangan electron ikatan) sebanyak 3<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0..<br>Cl - P - Cl<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |<br>\u00a0\u00a0\u00a0\u00a0\u00a0 Cl<br>----------------------------------------------------------------------<br><br>\u2081H = 1<br>\u2081\u2086S = 2 . 8 . 6<br><br>H\u2082S merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 2, dan PEI (pasangan electron ikatan) sebanyak 2<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 ..<br>H -\u00a0S :<br>\u00a0\u00a0\u00a0\u00a0\u00a0 |<br>\u00a0\u00a0\u00a0\u00a0 H<br><br>---------------------------------------------------------------<br><br>\u2081\u2086S = 2 . 8 . 6<br>\u2089F = 2 . 7<br><br>SF\u2084 merupakan ikatan kovalen yang memiliki PEB (pasangan electron bebas pada atom pusat P) sebanyak 1, dan PEI (pasangan electron ikatan) sebanyak 4.<br><br>(Gambar pada foto terlampir)<br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-jumlah-peb-dan-pei-pada-senyawa-pcl3-h2s-dan-sf4-762-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-100-ml-nh4oh-01-m-dicampur-dengan-400-ml-larutan-nh4oh-315",
+            "question": "Sebanyak 100 mL NH4OH 0,1 M Dicampur Dengan 400 mL Larutan NH4OH 0,2 M Lain. Hitung PH Larutan Campuran ! (Kb=5x10^-7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "langkah pertama :<br>kita hitung molaritas campuran dari 2 senyawa di atas<br>M campuran <br>= (M1 V1 ) + (M2 V2) / Vol total<br>= ( 0,1 x 100) + ( 400 x 0,2) / 500<br>= 10 + 80 / 500<br>= 90 / 500<br>= 0,18 M<br><br>dari molaritas campuran kita hitung [OH-] nya<br>[OH-] = akar (kb x Mb) = akar ( 0,18 x 5 x 10^-7) = akar (9\u00a0 x 10^-8) = 3 x 10^-4<br>maka <br>pOH = - log [OH-] = - log 3 x 10^-4 = 4 - log 3<br>maka<br>pH = 14 - pOH = 14 - (4 - log 3) = 10 + log 3<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :)<br>25% poin kamu akan kembali :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-asam-monoprotik-basa-monohidroksi-426",
+            "question": "Reaksi Asam monoprotik - Basa monohidroksi???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebelum kita menuju reaksinya, kita ketahui dulu<br>asam monoprootik adalah senyawa asam yang mengandung 1 buah atom/ ion hidrogen<br>contoh :<br>HCl, HNO3, HClO4, HClO3, HI, HBr<br>basa monohidroksi adalah senyawa basa yang mengandung 1 buah ion hidroksida<br>contoh :<br>LiOH, NaOH, KOH, RbOH,CsOH<br><br>reaksi antara asam monoprotik dan basa monohidroksi<br>bisa juga menggunakan rumus dibawah ini :<br>y HxA + x L(OH)y\u00a0 ----&gt; LxAy + x.y H2O ..................\u00a0 \u00a0 x.y = x kali y<br>contoh reaksinya :<br>HCl + NaOH ---&gt; NaCl + H2O<br>HNO3 + LiOH\u00a0 ---&gt; LiNO3 + H2O<br>HClO4 + KOH --&gt; KClO4 + H2O<br>HI + RbOH\u00a0 ---&gt; RbI + H2O<br><br><br><br>semoga bisa membantu ya :)<br>beri label terbaik ya :D <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-32-gram-serbuk-sulfur-di-reaksikan-dengan-gas-oksigen-me-691",
+            "question": "Sebanyak 32 gram serbuk sulfur di reaksikan dengan gas oksigen menghasilkan gas sulfur dioksida sebanyak 64 gram. Berapakah massa gas oksigen yang bereaksi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Massa gas oksigen yang bereaksi adalah 32 gram. </strong>Pernyataan yang ada pada soal sesuai dengan hukum Lavoisier. Hukum Lavoisier dikenal juga sebagai hukum kekekalan massa. Massa zat sebelum reaksi sama dengan massa sesudah reaksi.\n</p><p></p><h3>Pembahasan\n</h3><p>Hukum dasar kimia merupakan hukum dasar yang digunakan dalam stoikiometri (perhitungan kimia). Berikut beberapa hokum dasar yang dgunakan dalam penghitungan kimia:\n</p><p><strong>1) Hukum Lavoisier (Kekekalan Massa)\n</strong></p><p>Hukum ini dikenal juga sebagai hokum kekekalan massa. Pada hokum ini dinyatakan bahwa dalam sistem tertutup, massa zat sebelum dan sesudah reaksi adalah tetap. Dalam hal ini, berarti suatu zat yang mengalami reaksi kimia tidak berubah massa. Oleh karena itu, reaktan memiliki massa yang sama dengan produk yang dihasilkannya. Contohnya adalah:\n</p><p>A \u00a0 \u00a0+ \u00a0 B \u00a0 \u00a0 \u00a0 \u2192 \u00a0AB\n</p><p>5 g \u00a0 5 g \u00a0 \u00a0 \u00a0 \u00a0 10 g\n</p><p><strong>2) Hukum Proust (Hukum Perbandingan Tetap)\n</strong></p><p>Hukum Proust menyatakan perbandingan massa unsur-unsur pembentuk suatu senyawa selalu tetap.\n</p><p>Suatu zat yang direaksikan akan selalu memiliki perbandingan yang sama untuk membentuk suatu senyawa. Berikut contoh penerapan hukum perbandingan tetap: \u00a0</p><p>2H\u2082 + \u00a0O\u2082 \u2192 2H\u2082O\n</p><p>1 g \u00a0 \u00a0 \u00a08 g \u00a0 \u00a0 \u00a09 g \u00a0</p><p>2 g \u00a0 \u00a0 16 g \u00a0 \u00a018 g\n</p><p>Perbandingan H dan O pada senyawa I dan II adalah sama yaitu 1 : 8.\n</p><p><strong>3) Hukum Dalton (Hukum Perbandingan Berganda)\n</strong></p><p>Hukum Dalton menjelaskan bahwa dua unsur atau lebih dapat membentuk lebih dari satu senyawa yang berbeda. HUkum ini menyatakan bahwa bila dua unsur dapat membentuk dua senyawa atau lebih, unsur pertama massanya tetap, unsur kedua akan menghasilkan suatu perbandingan bilangan bulat sederhana.\n</p><p>Contoh: \u00a0</p><p>Unsur C dan O dapat membentuk senyawa CO, CO2 dan CO3 dengan nilai C tetap. Oleh karena itu, unsur O pada ketiga senyawa berbanding 1 : 2 : 3.\n</p><p><strong>4) Hukum Gay-Lussac (Hukum Perbandingan Volume)\n</strong></p><p>\"Pada suhu dan tekanan yang sama perbandingan volume gas-gas yang bereaksi dan hasil reaksi berbanding sebagai bilangan bulat\".\n</p><p>Hukum perbandingan volume (Gay Lussac):\n</p><p>(Koef A/ koef B) = (Volume A : volume B)\n</p><p>Contoh: \u00a0</p><p>Jika 20 L nitrogen direaksikan dengan hidrogen sesuai reaksi berikut, \u00a0</p><p>N\u2082 (g) + 3H\u2082 (g) \u00a0\u2192 2NH\u2083 (g)\n</p><p>Perbandingan koefisien reaksinya 1 : 3 : 2, dan volumenya pun memiliki perbandingan sama, jadi volume H\u2082 60 L, dan volume NH\u2083 40 L.\n</p><p><strong>5) Hipotesis Avogadro\n</strong></p><p>Hipotesis Avogadro menjelaskan bahwa perbandingan tersebut berlaku pula dalam molekul secara keseluruhan. Hipotesisnya adalah pada suhu dan tekanan yang sama, semua gas yang bervolume sama memiliki jumlah molekul yang sama pula.\n</p><p><u><strong>Pada Kasus di atas\n</strong></u></p><p>Pada soal diatas <strong>diketahui</strong> beberapa data yaitu:\n</p><p>m S = 32 gram\n</p><p>m SO\u2082 = 64 gram\n</p><p>Adapun yang <strong>ditanyakan</strong> adalah massa gas O\u2082 yang bereaksi.\n</p><p>Pernyataan yang terdapat pada soal sesuai dengan hukum kekekalan massa dari Lavoisier. JIka massa zat dianggap tidak ada yang hilang maka massa sebelum reaksi sama dengan massa sesudah reaksi. Reaksi yang terjadi antara sulfur dan gas oksigen adalah sebagai berikut:\n</p><p>S + O\u2082 \u2192 SO\u2082\n</p><p>Karena massa sebelum sama dengan massa sesudah maka:\n</p><p>m S + m O\u2082 = m SO\u2082\n</p><p>32 \u00a0 + m O\u2082 = 64\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m O\u2082 = 64 \u2013 32\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m O\u2082 = 32 gram\n</p><p><strong>Jadi massa gas O\u2082 yang bereaksi adalah 32 gram.\n</strong></p><p>Pelajari lebih lanjut tentang mol dan perbandingan koefisien di: https://brainly.co.id/tugas/18228152.\n</p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas: </strong>X\n</p><p><strong>Mapel:</strong> Kimia\n</p><p><strong>Bab:</strong> Hukum dasar perhitungan kimia\n</p><p><strong>Kode:</strong> 10.7.8\n</p><p>#AyoBelajar\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setarakan-persamaan-reaksi-berikut-a-c2h2o2-co2h2o-b-mgh-559",
+            "question": "Setarakan persamaan reaksi berikut :    A) C2H2+O2 = CO2+H2O\r\n B) Mg+HCl = MgCl2+H2\r\n C) CS2+O2 = CO2+SO2\r\n D) Al2O3+HCl = AlCl3+H2O\r\n E) C2H3OH+O2 = CO2+H2O\r\n F) Al2O3+H2SO4 = Al2(SO4)3+H2O\r\n G) CaCO3+HCl = CaCl2+CO2+H2O\r\n H) NH3+O2 = NO+H2O",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2C\u2082H\u2082 + 5O\u2082\u00a0 -------\u00a0 4CO\u2082\u00a0 +\u00a0 2H\u2082O<br>Mg +\u00a0 2HCl\u00a0 ------- MgCl\u2082\u00a0 \u00a0 +\u00a0 H\u2082<br>CS\u2082\u00a0 + 3O\u2082\u00a0  --------\u00a0 CO\u2082\u00a0  +\u00a0 2 SO\u2082<br>Al\u2082O\u2083 + 3 H\u2082SO\u2084\u00a0 ------Al\u2082 (SO\u2084)\u2083\u00a0 + 3H\u2082O<br>CaCO\u2083\u00a0 + 2HCl\u00a0 --------- CaCl\u2082 + CO\u2082 +\u00a0  H\u2082O<br>2NH\u2083 +\u00a0 5/2O\u2082\u00a0 -------- 2NO\u00a0  + 3H\u2082O",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-larutan-hcn-01-m-mempunyai-ph-sebesar-3-log-2-berapa-676",
+            "question": "Suatu larutan HCN 0,1 M mempunyai pH sebesar 3 \u2013    log 2, berapa gram KCN yang harus dilarutkan dalam air, agar diperoleh 500 ml\r\n larutan KCN dengan pH 9 + log 2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ph9+log 2?90 tp jkml akan\u00a0ditambah 60 akan mji 500ml",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-persamaan-dan-perbedaan-sifat-antara-air-dan-susu-strawbery-426",
+            "question": "Apa persamaan dan perbedaan sifat antara air dan susu strawbery?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Apa persamaan dan perbedaan sifat antara air dan susu strawbery?</h2><p> </p><h2>Jawaban</h2><p> </p><h3>Pendahuluan</h3><p>Materi adalah segala sesuatu yang mempunyai massa dan menempati ruang (memiliki volume). Massa dan volume termasuk sifat materi. Sifat materi dapat dikelompokkan berdasarkan jumlah dari materi dan perubahan yang terjadi pada materi.</p><p>Sifat materi berdasar jumlah dari materi adalah sifat ekstensif dan sifat intensif. Sedangkan menurut perubahan yang terjadi sifat materi dikelompokkan menjadi sifat fisis atau sifat fisika dan sifat kimia. Sifat fisika adalah sifat suatu materi yang dapat diamati tanpa harus mengubah susunan materi atau menghasilkan zat baru. Contoh sifat fisika adalah massa, volume, suhu, warna, rasa, bau, titik didih, titik lebur, daya hantar listrik, kelarutan, dan kekerasan.</p><p>Sifat kimia adalah sifat materi yang dapat diamati ketika materi tersebut mengalami perubahan menjadi zat baru. Contoh sifat kimia dari materi adalah mudah berkarat, mudah terbakar, mudah bususk, dan mudah meledak.</p><p> </p><h3>Pembahasan</h3><p>Pada soal diatas ditanyakan persamaan dan perbedaan sifat antara air dan susu strawberry.</p><p>Persamaan sifat fisika dari air adalah sama - sama berupa cairan.</p><p>Sedangkan perbedaan sifat fisika dari air dan susu strawberry adalah:</p><p>- air jernih tidak berwarna sedangkan susu strawberry keruh dan berwarna merah muda</p><p>- titik didih air 100\u00b0C sedangkan titik didih susu strawberry sedikit lebih tinggi dari titik didih air, yaitu 100.16\u00b0C</p><p>- air tidak memiliki aroma dan rasa, sedangkan susu strawberry memiliki aroma strawberry dan berasa manis</p><p>Sifat kimia dari air dan susu strawberry berbeda. Susu strawberry memiliki sifat kimia dapat membusuk / \u00a0basi sedangkan air tidak dapat busuk / \u00a0basi. </p><p> </p><h3>Kesimpulan</h3><p>Persamaan sifat air dan susu strawberry: berwujud cairan</p><p>Perbedaan sifat air dan susu strawberry: \u00a0</p><p>- air jernih tidak berwarna sedangkan susu strawberry keruh dan berwarna merah muda</p><p>- titik didih air 100\u00b0C sedangkan titik didih susu strawberry sedikit lebih tinggi dari titik didih air, yaitu 100.16\u00b0C</p><p>- air tidak memiliki aroma dan rasa, sedangkan susu strawberry memiliki aroma strawberry dan berasa manis</p><p>- susu strawberry memiliki sifat kimia dapat membusuk / \u00a0basi sedangkan air tidak dapat busuk / \u00a0basi</p><p> </p><h2>Pelajari lebih lanjut </h2><p>1. Materi tentang sifat kimia dan sifat fisika benda https://brainly.co.id/tugas/5077220</p><p>2. Materi tentang sifat kimia dan sifat fisika benda https://brainly.co.id/tugas/3023912</p><p>-----------------------------</p><p> </p><h2>Detil Jawaban</h2><p>Kelas : 10</p><p>Mapel : Kimia</p><p>Bab : Pendahuluan Ilmu Kimia</p><p>Kode : 10.7.1</p><br><p>Kata Kunci: sifat fisika, sifat kimia</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-lemak-termasuk-polimer-jika-iya-maka-apakah-yg-menjadi-m-771",
+            "question": "Apakah lemak termasuk polimer? \r\n Jika iya, maka apakah yg menjadi monomer dari lemak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ya,dan monomernya adalah asam lemak.<br>Lipid (lemak) merupakan makromolekul (polimer dari asam lemak)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya karena monomernya adalah asam lemak.",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "Bilangan terdiri dari 4 angka disusun dari angka-angka 1,2,3,4,5,6 dan 7. Banyak susunan bilangan dengan angka-angka yang berlainan (angka-angkanya tidak boleh berulang) adalah.... \u00a0 A. 20 B. 40 C. 80 D. 120. E. 360 \u00a0 Mohon bantuan +caranya\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jika benar itu terdiri dari angka 1 sampai 7 , maka jawabannya :<br><br>7 x 6 x 5 x 4 = 840\u00a0<br>jawabannya tdk ada di opsinya<br><br>tp jika terdiri dari angka 1 sampai 6 , maka jawabannya :<br><br>6 x 5 x 4 x 3 = 360\u00a0<br>jawaban E\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "1 sampai 7 <br>7 x 6 x 5 x 4 =840<br><br>1 sampai 6 <br>6 x 5 x 4 x 3 = 360<br><br>1 sampai 5<br>5 x 4 x 3 x 2 = 120<br><br>Semoga Membantu<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fxx2-1-gx-2x-1-jika-hx-fxgx-maka-domain-h-901",
+            "question": "F(x)=\u221ax\u00b2-1 g(x)=\u00a0\u221a2x-1. jika h(x)= f(x).g(x) maka domain h(x) yang memenuhi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]h(x)= f(x).g(x) \\\\ h(x) = \\sqrt{ x^{2} -1} .  \\sqrt{2x-1}  \\\\ h(x) =  \\sqrt{ 2x^{3} -  x^{2} -2x+1 } [/tex]<br><br>Ingat di dalam akar tidak boleh\u00a0negatif..<br><br>[tex]2x^{3} -  x^{2} -2x+1 \\geq 0  \\\\  (x-1)(2x-1)(x+1)  \\geq 0[/tex]<br><br>buat garis bilangan sehingga diperoleh<br>[tex]-1 \\leq x \\leq \\frac{1}{2} ; x \\geq 1[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "{ ( x^2 - 1 ) . ( 2x - 1) }^1/2<br>( 2x^3 - x^2 - 2x +1 )^1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-px3-14x217x-60-dengan-x13-tentukan-x1x2x2-523",
+            "question": "Akar persamaan px3-14x2+17x-6=0 dengan x1=3 tentukan x1.x2.x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "px\u00b3-14x\u00b2 +17x-6 = 0<br><br>x1 = 3<br><br>p(3)\u00b3 - 14.3\u00b2 + 17.3 - 6 = 0<br>27p - 126 + 51 - 6 = 0<br>27p - 81 = 0<br>27p = 81<br>p = 3<br><br>3x\u00b3-14x\u00b2 +17x-6 = 0<br>x1.x2.x3 = -d/a = -(-6)/3 = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannyaapakah-relasi-350",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya.apakah relasi tersebut merupakan fungsi? berikan penjelasanmu!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Iya karena pada fungsi setiap anggota A hanya bisa memasangkan satu angota B . <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya, karena <u><strong>setiap siswa</strong></u>(di daerah\u00a0domain) hanya mempunyai <u><strong>satu tanggal kelahiran</strong></u>(di\u00a0daerah kodomain), artinya setiap siswa hanya mempunyai satu pasangan di daerah kodomain. Sehingga terjadi relasi.<br><br>Tapi kalo tanggal kelahiran direlasikan dengan siswa(tanggal kelahiran dijadikan domain), BISA JADI tidak terjadi relasi, karena kemungkinan terdapat siswa dengan tanggal kelahiran yang sama.<br><br>sepengetahuan ane sih gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-mencatat-hsil-panenanya-slma-11-hari-jka-hsil-prt-526",
+            "question": "Seorang petani mencatat hsil panenanya slma 11 hari, jka hsil prtma 15 kg dan mengalami kenaikan tetap sbsr 2 kg setiap hari, maka jmlh hsil panen yg di catat adalah ???    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seorang petani mencatat hasil panenanya selama 11 hari, jika hasil pertama 15 kg dan mengalami kenaikan tetap sebesar 2 kg setiap hari, maka jumlah hasil panen yg di catat adalah ...</p><p><strong>Barisan aritmetika</strong> adalah barisan bilangan dengan hasil pengurangan setiap suku dengan suku sebelumnya selalu sama atau tetap.</p><p>Suku ke-n \u00a0\u00a0\u2192 \u00a0\u00a0Un = a + (n - 1) b</p><p><strong>Deret aritmetika</strong> adalah penjumlahan dari suku-suku suatu barisan aritmetika.</p><p>Jumlah n suku pertama \u2192 \u00a0\u00a0Sn = n/2 [2a + (n - 1) b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau Sn = n/2 (a + Un)</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>hasil panen pertama (a) = 15 kg</p><p>kenaikan hasil panen (b) = 2 kg</p><p>lama panen (n) = 11 hari</p><p>Ditanya :</p><p>jumlah hasil panen yg dicatat (Sn) ?</p><p><u><strong>Jawab :</strong></u></p><p><strong>Jumlah hasil panen yang dicatat selama 11 hari</strong></p><p>Sn = \u207f/\u2082 [2a + (n - 1) b]</p><p>S\u2081\u2081 = \u00b9\u00b9/\u2082 [2 (15) + (11 - 1) 2]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 [30 + 20]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 \u00d7 50</p><p> \u00a0 \u00a0 = 11 \u00d7 25</p><p> \u00a0 \u00a0 = 275</p><p>Jadi jumlah hasil panen yang dicatat adalah 275 kg</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan dan Deret</h3><ol><li>Andri berhutang pada Beny 20 bulan akan lunas, bulan pertama Andri membayar Rp. 25.000,00 , bulan kedua Rp. 27.000,00 dan seterusnya, maka hutang Andri \u2192 https://brainly.co.id/tugas/14993248</li><li>Suku ke-8 suatu deret aritmatika = 20, \u00a0jumlah suku ke-2 dengan suku ke-5 adalah 4. Jumlah 20 suku pertama \u2192 brainly.co.id/tugas/15253327</li><li>Hitunglah jumlah semua bilangan asli antara 16 dan 394 yang habis dibagi 3, tetapi tidak habis di bagi 5 \u2192 brainly.co.id/tugas/21032962</li><li>Jumlah tiga bilangan barisan aritmatika = 45, jika suku kedua di kurangi 1 dan suku ke 3 di tambah 5, maka barisan tersebut menjadi barisan geometri \u2192 brainly.co.id/tugas/6359670</li><li>Lima bilangan positif membentuk barisan aritmatika naik. Jika jumlahnya adalah 30 adalah hasil kalinya adalah 3840. \u2192 brainly.co.id/tugas/268190</li></ol><h3>Detil Jawaban \u00a0</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 11 SMA \u00a0</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 7 - Barisan dan Deret</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 11.2.7</li><li>Kata kunci : barisan aritmetika, soal cerita, jumlah hasil panen</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-balokkubusdan-piramid-pada-bangun-ruang-819",
+            "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus bangun ruang <br>smoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

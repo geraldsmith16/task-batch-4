@@ -1,0 +1,142 @@
+{
+    "question": "pada belah ketupat PQRS di atas, besar sudut P = 60 drajat dan panjang QS= 12cm. luas belah ketupat PQRS adalah? saya katakan anda hebat jika bisa menjawab nya sy saja yang rangking 1 masih bingung",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Diketahui:\n<br>\nSebuah belah ketupat PQRS,<br>\nbesar sudut P = 60</span>\u00b0<span><br>\npanjang QS = 12 cm<br>\nDitanyakan: <br>\nLuas belah ketupat PQRS = ?<br>\nJawab:<br>\nSifat-sifat belah ketupat:<br>\n1. Memiliki 4 buah sisi yang sama panjang.<br>\nUntuk belah ketupat PQRS, berarti<br>\nPQ = QR = RS = PS.<br>\n2. Memiliki dua pasang sudut berhadapan yang sama besar.<br>\nUntuk belah ketupat PQRS, berarti<br>\nsudut P = sudut R = 60</span>\u00b0<span><br>\nsudut Q = sudut S <br>\n3. Mempunyai dua buah diagonal yang berpotongan tegak lurus di tengah-tengah. Masing-masing\ndiagonal akan membagi dua belah ketupat sama luas, dan membagi dua setiap sudut\ndengan sama besar.<br>\nBerarti, segitiga PQS kongruen dengan segitiga RQS, dan segitiga PSR kongruen\ndengan segitiga PQR.<br>\nLebih jauhnya, <br>\nMisalkan kedua diagonal berpotongan di titik O, maka <br>\nsegitiga POQ, segitiga POS, segitiga ROQ, dan segitiga ROS, keempatnya adalah\nkongruen.<br>\nDari diketahui:<br>\npanjang QS = 12 cm<br>\ndiagonal PR akan membagi dua diagonal QS sama panjang, sehingga<br>\nQO = OS = 1/2 </span>\u00d7<span> 12\n= 6 cm<br>\nSudut P = 60</span>\u00b0<span><br>\ndiagonal PR akan membagi dua sudut P sama besar, sehingga<br>\nsudut OPQ = sudut OPS = 1/2 </span>\u00d7<span>\n60</span>\u00b0<span>\u00a0= 30</span>\u00b0<span><br>\nSekarang perhatikan segitiga POQ siku-siku di O.<br>\nPanjang OQ = 6 cm<br>\nbesar sudut OPQ = 30</span>\u00b0<span><br>\nmaka <br>\npanjang OP = OQ/tan 30</span>\u00b0<span><br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0= 6/(1/3 </span>\u221a<span>3)<br>\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6</span>\u221a<span>3 cm<br>\nDari sini kamu bisa mencari:<br>\nLuas segitiga POQ = 1/2 </span>\u00d7 OP\n\u00d7<span> OQ<br>\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 1/2 </span><span>\u00d7 6\u221a3\n\u00d7 6<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 18\u221a3 cm</span>\u00b2<span><br>\nAkibatnya,<br>\nluas belah ketupat PQRS <br>\n= 4 \u00d7 luas segitiga POQ<br>\n= 4 \u00d7 18\u221a3<br>\n= 72\u221a3 cm</span>\u00b2<span><br></span><span>Atau<br>\nKamu hitung:<br>\nPanjang PR = 2 </span>\u00d7<span> OP<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0= 2 </span>\u00d7 6\u221a<span>3<br>\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12</span>\u221a<span>3 cm<br>\nLalu hitung luas belah ketupat dengan rumus<br>\nLuas = 1/2 </span><span>\u00d7 diagonal 1 \u00d7 diagonal 2<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 1/2 \u00d7 PR \u00d7 QS <br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 1/2 \u00d7 12\u221a3 \u00d7 12<br>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 72\u221a3 cm</span>\u00b2<span><br>\nKita dapatkan hasil yang sama kan?<br>\nJadi, luas belah ketupat PQRS = 72\u221a3 cm</span>\u00b2<span><br><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sudut-yang-besarnya-lebih-dari-180-derajat-dan-kurang-dari-360-de-859",
+            "question": "Sudut yang besarnya lebih dari 180 derajat dan kurang dari 360 derajat disebut....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut refleks.......",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6skala-sebuah-peta-1-1500000-jarak-kota-a-dan-b-pada-peta-i-595",
+            "question": "6.skala sebuah peta 1 : 1.500.000. jarak kota A dan B pada peta itu 6 cm. berapa jarak sebenarnya kota A dan kota B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya = 1.500.000 X 6cm = 9.000.000cm = 90km<br>Jarak Sebenarnya = 90km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jari-jari-sebuah-lingkaran-adalah-10cmtentukan-panjang-busur-l-626",
+            "question": "1.Jari-jari sebuah lingkaran adalah 10cm.tentukan panjang busur lingakran yang memiliki sudut pusat sebagai berikut :    a.30\u02da b.60\u02da c.90\u02da d.120\u02da e.180\u02da\r\n\r\n2.Diketahui keliling sebuah lingkaran adalah 100cm.tentukan besarnya sudut pusat yang dibentuk jika memiliki panjang busur sebagai berikut :\r\na.10cm b.20cm c.25cm d.40cm e.50cm\r\n\r\n3.Jari-jari suatu lingkaran adalah 20cm.tentukan luas juring lingakran yang dibentuk oleh sudut pusat sebagai berikut :\r\na.10cm\u02da b.45\u02da c.60\u02da d.50\u02da e.120\u02da\r\n\r\n4.Diketahui luas sebuah lingakran adalah 200cm\u00b2 tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut :\r\na.10cm\u00b2\r\nb.20cm\u00b2\r\nc.40cm\u00b2\r\nd.50cm\u00b2\r\ne.100cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a.30 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0 \u00a0=1/12.2.3,14.10<br>\u00a0 \u00a0 \u00a0 \u00a0=5,233<br>\u00a0 \u00a0b.60 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =1/6.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =10.46<br>\u00a0 \u00a0c.120 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =1/3.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =20,93<br>\u00a0 \u00a0d.180 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0=1/2.2.3,14.10<br>\u00a0 \u00a0 \u00a0=31,4\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-di-samping-panjang-busur-pq-8478-cm-dan-besar-891",
+            "question": "Pada gambar di samping,\u00a0    panjang busur PQ = 84,78 cm dan besar &lt;POQ = 108o. Untuk \u03c0 = 3,14, panjang jari-jari OP adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang busur = &lt;POQ/360drjt x keliling lingkrn<br>84.78 = 1080/360 x 2[tex] \\pi [/tex]r<br>84.78= 3x2x3.14.r<br>84.78=18.84r<br>r=84.78/18.84=4.5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-45-bilangan-40-37-34-31-28-adalah-967",
+            "question": "Suku ke 45 bilangan 40, 37, 34, 31, 28...... adalah......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 40<br>b= -3<br>Un= a+(n-1)b<br>u45 = 40 + (45-1)-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 40 + (44) -3<br>\u00a0\u00a0 \u00a0 \u00a0 = 40 - 132<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = -92<br>klau gk salah itu barisan aritmatika<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a=40\u00a0 \u00a0 \u00a0 \u00a0  b=1/3<br><br>U45=a+(45-1)b<br>\u00a0\u00a0 \u00a0 =40+44.1/3<br>\u00a0\u00a0 \u00a0 = 40+14,67<br>\u00a0\u00a0 \u00a0 =54,67<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-kali-5-berapa-sich-433",
+            "question": "5 Kali 5 berapa sich:-)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 dikalikan 5 itu hasilnya 25<br>good luck ya...",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 dikali 5 adalah 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-antara-kota-padang-dan-jambi-372-km-jika-ingin-menggambar-915",
+            "question": "Jarak antara kota Padang dan Jambi 372 km. Jika ingin menggambar dengan panjang 1,5 cm pada buku gambar, skala yang harus digunakan adalah.............    tolong sama caranya yh...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas: 7</strong><br><strong>Mapel: Matematika</strong><br><strong>Kategori: Perbandingan dan Aritmatika Sosial</strong><br><strong>Kata kunci: perbandingan, skala</strong><br><strong>Kode: 7.2.5 (Kelas 7 Matematika Bab 5-Perbandingan dan Aritmatika Sosial)</strong><br><br><span>Jarak antara kota Padang dan Jambi 372 km. Jika ingin menggambar dengan panjang 1,5 cm pada buku gambar, skala yang harus digunakan adalah...<br><br>Pembahasan:<br><br>Skala adalah perbandingan antara jarak pada peta dengan jarak sebenarnya (satuan harus sama).<br>catatan :\u00a0<br>1 km = 100.000 cm<br><br>Skala = jarak pada peta : jarak sebenarnya\u00a0<br>Skala = 1,5 cm : 372 km<br>Skala = 1,5 cm : (372\u00a0</span>\u00d7 1<span>00.000) cm<br>Skala = 1,5 cm : 37.200.000 cm<br>Skala = 1 : 24.800.000<br><br><strong>Jadi, skala yang digunakan adalah\u00a0</strong></span><strong>\u00a01 : 24.800.000</strong><br><br>Semangat belajar!<br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/jarak-antara-kota-padang-dan-jambi-372-km-jika-ingin-menggambar-915-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748",
+            "question": "Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton . sisa karton di sebelah kiri,kanan dan atas foto 2 cm . jika foto dan karton sebangun , lebar karton di bawah foto adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : IX (3 SMP)<span><br>\nMateri : Kesebangunan dan Kekongruenan<br>\nKata Kunci : panjang, lebar, luas, sebangun</span></p><p><span><br>\nPembahasan :<br>\nDua bangun dikatakan sebangun, bila<br>\n1. sudut-sudut yang bersesuaian sama besar;<br>\n2. sisi-sisi yang bersesuaian memiliki\nperbandingan yang sama.</span></p><p><span><br>\nMari kita lihat soal tersebut.</span></p><span>Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton. Sisa karton di sebelah kiri, kanan, dan atas foto 2 cm. Jika foto dan karton sebangun, maka lebar karton di bawah foto adalah?<br><br>Jawab :<br></span>Perhatikan gambar terlampir.<br><p>Misalkan foto memiliki ukuran sebagai berikut.<br></p><p>tinggi = t\u2081 = \u00a030 cm, lebar = l\u2081 = 20 cm, dan luas = L\u2081.</p><p><span>\nLuas foto adalah<br>\nL</span>\u2081 = t\u2081 x l\u2081</p><p>\u21d4 L\u2081 = 30 x 20<span><br></span>\u21d4 L\u2081 = 600<span><br>\nJadi, luas foto adalah 600 cm\u00b2.<br><br></span></p><p>Misalkan karton memiliki ukuran sebagai berikut.</p><p>tinggi = t\u2082, lebar = l\u2082, dan luas L\u2082. Sehingga</p><p>lebar\u00a0</p><p>l\u2082 = l\u2081 + 2 + 2<span><br></span>\u21d4 l\u2082 = 20 + 2 + 2<span><br></span>\u21d4 l\u2082 = 24<br><br>tinggi</p><p>t\u2082 = t\u2081 + 2 + x<span><br></span>\u21d4 t\u2082 = 30 + 2 + x</p><p>\u21d4 t\u2082 = 32 + x</p><p><br></p><p>Karena foto dan karton sebangun, maka</p><p>[tex] \\frac{t_1}{t_2}= \\frac{l_1}{l_2}  [/tex]</p><p>\u21d4\u00a0[tex] \\frac{30}{32+x}= \\frac{20}{24}  [/tex]</p><p>\u21d4 20 . (32 + x) = 30 . 24</p><p>\u21d4 640 + 20x = 720</p><p>\u21d4 20x = 720 - 640</p><p>\u21d4 20x = 80</p><p>\u21d4 x =\u00a0[tex] \\frac{x=80}{20} [/tex]</p><p>\u21d4 x = 4.</p><p><br></p><p>tinggi</p><p>t\u2082 = 32 + x</p><p>\u21d4 t\u2082 = 32 + 4</p><p>\u21d4 t\u2082 = 36.</p><p><br></p><p>Luas karton adalah</p><p>L\u2082 = t\u2082 x l\u2082</p><p>\u21d4 L\u2082 = 36 x 24</p><p>\u21d4 L\u2082 = 864</p><p><span><br></span></p><p><span>Jadi, lebar karton di bawah foto adalah 4 cm dan luas karton adalah 864 cm</span>\u00b2.</p><p><span><br>\nSemangat!</span></p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "herman-meminjam-uang-di-bank-sebesar-rp900000-bank-tersebut-me-485",
+            "question": "Herman meminjam uang di bank\u00a0sebesar Rp900.000. Bank tersebut memberikan bunga pinjaman 15% per tahun. Jika Herman hendak mengembalikan pinjaman dengan cara menyicil selama 18 bulan, maka besar cicilan tiap bulannya adalah....    (pake cara yah.. yang jelas caranya!!)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "18 bln = 1 1/2 thn\u00a0 1 thn = 15%, 1/2 thn = 7,5%, 15+7,5=22,5, 1 1/2 thn = 22,5%<br>22,5%x900.000 = 22,5/100x900.000 = 20.250<br>20.250 : 18 bln = Rp.1.125,00 = bunga tiap bln<br>900.000 : 18 bln = Rp.50.000,00 = cicilan tiap bln<br>Rp.1.125,00 + Rp.50.000,00 = Rp. 51.125,00<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp900.000 x (15%+7.5%) = (Rp900.000 x 22.5%) + Rp900.000 : 18bulan<br>\u00a0= (Rp202.500 + Rp900.000) : 18 bulan<br>=Rp1.102.500 : 18 = Rp61.250<br><br>(moga benar)<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-jumlah-dari-a-sembilan-bilangan-ganjil-yg-pertama-b-se-267",
+            "question": "Berapa jumlah dari :    a. sembilan bilangan ganjil yg pertama\r\n b. sebelas bilangan ganjil yg pertama\r\n c. lima belas bilangan ganjil yg prtma\r\n d. dua puluh dua bilangan ganjil yg prtma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Bab Barisan &amp; Deret Aritmatika</em></strong><br><strong><em>Matematika SMP Kelas IX</em></strong><br><strong><em></em></strong><br><br><br>Diketahui:<br>Suku pertama barisan bilangan ganjil adalah U\u2081 atau a = 1<br>Beda b = 2<br><br>Ditanya: S\u2089, S\u2081\u2081, S\u2081\u2085, S\u2082\u2082<br><br>Penyelesaian:<br><br><em>Makna dari \"jumlah n suku yang pertama\" adalah Sn</em><br><em></em><br><strong>Sn = \u207f/\u2082.[2a + (n - 1)b]</strong><br><strong></strong><br>[a]<br><br>S\u2089 = \u2079/\u2082.[2(1) + (9 - 1)(2)]<br>\u00a0\u00a0\u00a0 <br>\u00a0\u00a0\u00a0 = 9.[1 + 8]<br><br>\u00a0\u00a0\u00a0 = 81\u00a0\u00a0<br><br>[b]<br><br>S\u2081\u2081 = \u00b9\u00b9/\u2082.[2(1) + (11 - 1)(2)]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 11.[1 + 10]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 121<br><br>[c]<br><br>S\u2081\u2085 = \u00b9\u2075/\u2082.[2(1) + (15 - 1)(2)]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 15.[1 + 14]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 225\u00a0<br><br>[d]<br><br>S\u2082\u2082 = \u00b2\u00b2/\u2082.[2(1) + (22 - 1)(2)]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 22.[1 + 21]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 484<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gunakan rumus Sn aritmatika\u00a0<br><br>dg b = 2 krn setiap bilangan ganjil bedanya 2<br><br>rumus umum<br>Sn = n/2 ( 2a + (n-1)b)<br><br>a) masukkan angka 9 pada n<br>\u00a0 \u00a0 S9 = 9/2 (2 + (9-1)2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9/2 (2 + 16)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9 (9)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 81<br><br>b) S11 = 11/2 (2a + 10.2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11/2 (2 + 20)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11 (11)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 121<br><br>c) S15 = 15/2 (2a + 28)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15(1+ 14)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 225<br><br>d) S22 = 22/2 (2.1 + 21.2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11(2+42)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 484",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

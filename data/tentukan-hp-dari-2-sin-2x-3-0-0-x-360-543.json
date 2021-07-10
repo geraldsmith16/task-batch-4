@@ -1,0 +1,136 @@
+{
+    "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabel-sudut-istimewa-trigonometri-0-360-981",
+            "question": "Tabel sudut istimewa trigonometri 0-360",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>ini\u00a0tabel sudut istimewa trigonometri 0-360</span>",
+                    "attachments": [
+                        "answer-attachments/tabel-sudut-istimewa-trigonometri-0-360-981-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-perusahaan-memproduksi-x-unit-barang-dengan-biaya-4x2-8x-540",
+            "question": "Suatu perusahaan memproduksi x unit barang    dengan biaya ( 4x^2-8x+24) dalam ribu rupiah untuk tiap unit \r\n jika barang tersebut terjual habis dengan harga 40.000 tiap unit keuntungan maksimum nya yang diperoleh perusahaan tersebut adalah...\r\n mohon bantuannya ya..\r\n buatin caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suatu perusahaan memproduksi x unit barang dengan biaya (4x^2 \u2013 8x + 24) dalam ribu rupiah untuk tiap unit</strong>. Jika barang tersebut terjual habis dengan harga Rp40.000,00 tiap unit maka <strong>keuntungan maksimumnya yang diperoleh perusahaan tersebut </strong>adalah Rp32.000,00. Hasil tersebut diperoleh dengan mencari nilai stasioner. Nilai stasioner diperoleh jika f\u2019(x) = 0. Titik stasioner ada 3 jenis yaitu\n</p><ul><li>Titik balik maksimum diperoleh jika f\u201d(x\u2081) &lt; 0\n</li><li>Titik balik minimum diperoleh jika f\u201d(x\u2081) &gt; 0\n</li><li>Titik belok diperoleh jika f\u201d(x\u2081) = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Biaya per unit = (4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>maka\n</p><p><strong>Biaya untuk memproduksi x unit\n</strong></p><p>B(x) = x(4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>B(x) = (4x\u00b3 \u2013 8x\u00b2 + 24x) dalam ribu rupiah\n</p><p></p><p>Harga jual per unit = Rp40.000,00 = 40 ribu rupiah\n</p><p>maka\n</p><ul><li>harga jual untuk x unit = 40x ribu rupiah\n</li></ul><p></p><p>Sehingga<strong> keuntungan yang diperoleh perusahaan</strong> adalah\n</p><p>U = harga jual \u2013 biaya produsi\n</p><p>U = 40x \u2013 (4x\u00b3 \u2013 8x\u00b2 + 24x)\n</p><p>U = 40x \u2013 4x\u00b3 + 8x\u00b2 \u2013 24x\n</p><p>U = \u20134x\u00b3 + 8x\u00b2 + 16x\n</p><p>U\u2019 = \u201312x\u00b2 + 16x + 16\n</p><p></p><p><strong>Agar diperoleh keuntungan maksimum, maka U\u2019 = 0\n</strong></p><p>\u201312x\u00b2 + 16x + 16 = 0\n</p><p>\u20134(3x\u00b2 \u2013 4x \u2013 4) = 0\n</p><p>\u20134(x \u2013 2)(3x + 2) = 0\n</p><p>(x \u2013 2) = 0 atau (3x + 2) = 0\n</p><p> \u00a0 \u00a0 \u00a0 x = 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03x = \u20132\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = \u00a0[tex]-\\frac{2}{3}[/tex]\n</p><p>karena <strong>jumlah produksi tidak mungkin bernilai negatif</strong>, maka kita pilih <strong>x = 2\n</strong></p><p></p><p>Jadi <strong>keuntungan maksimum yang diperoleh perusahaan tersebut</strong> adalah\n</p><p>U = (\u20134x\u00b3 + 8x\u00b2 + 16x) ribu rupiah\n</p><p>U = (\u20134(2)\u00b3 + 8(2)\u00b2 + 16(2)) ribu rupiah\n</p><p>U = (\u20134(8) + 8(4) + 32) ribu rupiah\n</p><p>U = (\u201332 + 32 + 32) ribu rupiah\n</p><p>U = 32 ribu rupiah\n</p><p><strong>U = Rp32.000,00\n</strong></p><p></p><h3>Pelajari lebih lanjut\n</h3><p></p><p>Contoh soal lain tentang nilai stasioner\n</p><ul><li>Laba maksimum: brainly.co.id/tugas/10878909\n</li><li>Penjualan maksimum: brainly.co.id/tugas/13787566\n</li><li>Biaya minimum: brainly.co.id/tugas/252367\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 11\n</p><p><strong>Mapel</strong> : Matematika \u00a0\n</p><p><strong>Kategori</strong> : Turunan Fungsi Aljabar\n</p><p><strong>Kode</strong> : 11.2.9\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-nilai-perbandingan-trigonometri-yang-lain-jika-diketa-924",
+            "question": "Tentukanlah nilai perbandingan trigonometri yang lain jika diketahui sudut lancipnya sebagai berikut ...    cos \u0443 = 0,8\r\n\r\ntolong yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos y = 0,8 = 8/10<br>cos y = sami(samping miring) = x/r<br>berarti x = 8 , r = 10 (sisi miring)<br>berarti mencari nilai y, dengan phytagoras didapat y = 6<br><br>sehingga sin y = y/r = 6/10 = 0.6<br>tan y = y/x = 6/8 = 0.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-barisan-aritmatika-adalah-45-jika-suku-kedu-114",
+            "question": "jumlah tiga bilangan barisan aritmatika adalah 45, jika suku kedua dikurangi 1 dan suku ketiga di tambah 5 maka, barisan tersebut menjadi barisan geometri, rasio barisan geometri tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggap suku suku itu adalah\u00a0<br>suku 1 = a-b<br>suku 2 = a<br>suku 3 = a+b<br>dan jumlahnya adalah 45<br><br>maka didapatkan : (a-b) + a +(a+b) = 45<br>b habis dan tersisa 3a = 45, maka a=15.<br><br>maka baris geometrinya menjadi 15-b + 15 + 15+b dan ketentuan soalnya adalah suku 2 dikurang 1 dan suku 3 ditambah 5 maka menjadi:<br>15-b + 14 + 20+b\u00a0<br><br>untuk mencari rasio, kita cari dulu kan biasanya b itu nah b itu didapetin dari cara silang kita yaitu:<br><br>suku2/suku1 = suku3/suku2 (rumus umumnya)<br>hasil kali silangnya dapet kan tuh -b^2 - 5b + 300 = 196 (\u00a0^\u00a0= kudarat ya ahaha)<br>kita turunin lagi tuh jadinya -b^2 - 5b + 104 atau sama juga b^2 + 5b - 104 biar ga bingung negatif dipangkat b^2 nya.<br><br>dapet kan tuh (b-8) (b+13) maka b bisa 8 atau -13<br><br>karna rasio, masukkan aja suku2/suku1<br>14\u00a0/\u00a015-b<br><br>*b nya kita ganti dengan 8 dan -13<br><br>hasilnya adalah untuk b = 8 rasionya 2<br>untuk b = -13 rasionya adalah 1/2<br><br>CMIIW ya hhe<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-dalam-radian-a-30-derajat-b-105-derajat-c-60-derajat-385",
+            "question": "Nyatakan dalam radian:\r\na. 30 derajat\r\nb. 105 derajat\r\nc. 60 derajat 48 aksen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 30\u00b0 = 30\u00b0 x 1\u00b0 =30\u00b0 x \u03c0/180\u00b0 = 30 \u03c0/180 rad = 1\u03c0/6 rad<br>b. 105\u00b0 = 105\u00b0 x 1\u00b0 = 105\u00b0 x \u03c0/180\u00b0 =\u00a0 105\u03c0/180 rad = 7\u03c0/12 rad<br>c. 60\u00b0 48&#039; = 48&#039; x (1/60)\u00b0 = 0,8\u00b0 = 60\u00b0+0,8\u00b0=60,8\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangga-yang-panjangnya-12-m-bersandar-pada-tembok-sebuah-r-116",
+            "question": "sebuah tangga yang panjangnya 12 m bersandar pada tembok sebuah rumah.Jika tangga itu berbentuk sudut 60 derajat dengan tanah.tentukan tinggi tembok!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 60 = tinggi tembok/ panjang tangga<br>\u221a3/2 = tinggi tembok/12<br>tinggi tembok = 12 x \u221a3/2<br>tinggi tembok = 6\u221a3 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menggunakan perbandingan pada segituga istimewa<br>1:\u221a3:2<br>[tex] \\frac{\u221a3}{2} [/tex] x 12 = 6\u221a3 m<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

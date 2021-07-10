@@ -1,0 +1,136 @@
+{
+    "question": "Yang dipindahkan gelombang adalah..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "yg dipindahkan gelombang adalah ENERGI ,,,",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-tipis-dengan-panjang-l-dan-massa-m-dapat-berputar-pa-267",
+            "question": "suatu batang tipis dengan panjang L dan massa m dapat berputar pada sumbu yang terletak di ujung batang. pada awalnya batang berada pada posisi horizontal dan kemudian di lepas. pada saat batang membuat sudut \u0424 (tetha) dengan arah vertikal, percepatan sudut rotasi batang adalah???? GPL (GAK PAKE LAMA)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyelesaian :<br>letak titik pusat massa batang L/2 dari sumbu rotasi<br>I batang terhadap ujung = 1/3 mL\u00b2<span><br>Maka persamaannya :<br>\u03a3T = I \u03b1\u00a0, atau :</span><br>mg sin \u03b8\u00a0\u00d7<span>\u00a0L/2 = 1/3 m L\u00b2 \u03b1\u00a0\u00a0(hilangkan massanya (m))</span><br>maka menjadi :<br><br>[tex]g.sin\\theta* \\frac{L}{2}  =  \\frac{1}{3}  L^{2}  \\alpha [/tex]<br><br>[tex] \\frac{g.sin\\theta}{1/3} =  \\frac{L^{2} \\alpha }{L/2}  [/tex]<br><br>[tex]  \\alpha = \\frac{3.g.Sin\\theta}{2L} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-panjang-memiliki-penampang-berbeda-pada-empat-bagian-226",
+            "question": "Sebuah pipa panjang memiliki penampang berbeda pada empat bagian. Luas penampang pipa berturut-turut pada bagian 1, bagian 2 dan bagian 3 adalah 150 cm2, 100 cm2, dan 50 cm2. Laju aliran air pada bagian 1 adalah 8 m/s. Sedangkan pada bagian 4 adalah 4,8 m/s. Tentukanlah:    A. Debit air melalui keempat penampang iti\r\n B. Luas penampang pada bagian 4\r\n C. Laju air pada bagian 2 dan 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab A<br><br>Debit air sama di semua bagian :<br>Q1 = Q2 = Q3= Q4 = 800 x 150<br>=120000cm^3/s<br><br>Jawab B<br><br>Luas penampang pada bagian 4 :<br>A1V1 = A4V4<br><br>V4 = A1V1 / A4 = 150 x\u00a08 / 4,8 = 250 cm^2<br><br>Jawab C<br><br>Laju air pada bagian 2 dan 3<br>V2 = Q2 / A2 = 120000 / 100 = 1200 cm/s = 12 m/s<br>V3 = Q3\u00a0/\u00a0A3\u00a0= 120000 / 50 \u00a0= 2400 cm/s = 24 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310",
+            "question": "dua buah benda digantung seperti pada gambar dan sistem dalam keadaan setimbang.Massa katrol M=2 kg dan jari-jarinya R= 10 cm serta sumbu putar katrol tanpa gesekan. Tentukan massa beban m1,jika massa beban m2=20 kg dan percepatan gravitasi di tempat itu g=10 m/s\u00b2!",
+            "attachments": [
+                "question-attachments/dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<strong>mungkin jawabannya 5</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736",
+            "question": "Lintasan berkas sinar ketika melalui sistem optik teropong bintang ditunjukkan seperti pada gambar.\u00a0    Berdasarkan gambar berikut, perbesaran bayangan untuk mata tidak berakomodasi adalah?\u00a0",
+            "attachments": [
+                "question-attachments/lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Pada teroping apabila mata tidak berakomodasi maka nilai perbesaran hanyalah membandingkan panjang fokus objecktif dengan fokus okuler saja\u00a0<br><br>[tex]M = \\frac{f_ob}{f_ok} = \\frac{160}{2} = 80 [/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "160 : 2 = 80 <br>maaf rumusnya gak di tulis <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-10-contoh-fluida-dalam-kehidupan-sehari-hari-648",
+            "question": "Berikan 10 contoh fluida dalam kehidupan sehari-hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air, minyak, oli, minyak tanah, bensin, solarr, susu,, cairan pembersih piring, detergen cair",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>contoh-contoh fluida diabtaranya adalah : Minyak peluma, Susu dan air, Udara, Gas, Cairan.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ban-sepeda-memiliki-volume-12-x-10-3-m3-jika-diisi-penuh-769",
+            "question": "Sebuah ban sepeda memiliki volume 1,2 x 10-3    m3 jika diisi penuh. Silinder sebuah pompa sepeda memiliki volum\r\n kerja 9 x 10-5 m3. Berapa kali anda harus menekan pompa\r\n untuk mengisi ban sepeda dalam pompa untuk mengisi ban sepeda dalam keadaan\r\n kosong (sama sekali tidak ada udara dalam ban) sampai tekanan udara dalam ban\r\n menjadi\u00a0 3,0 x 105 Pa?\u00a0 tekanan atmosfer 1,0 x 105 Pa dan\r\n dianggap udara dipompa secara perlahan sehinggga suhunya tidak berubah.\r\ntolong dibantu yah sob.. :) \"jawabnya yg bnar/jgn ngasal dan pke cara\"",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>P = Po + n(v/V)\u00a0<br><br>3.0 * 10^5 = 10^5 + n(9 * 10^-5/(1.2 * 10^-3))\u00a0<br><br>n = 2.66667 * 10^6 kali\u00a0<br><br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-gaya-pada-suatu-pegas-200n-dengan-luas-penampang-batang-565",
+            "question": "diberikan gaya pada suatu pegas 200N dengan luas penampang batang 50m kuadrat. berapa tegangan yang di hasilkan dari pegas trsebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nPembahasan:</span>\n<br><span>\n\u03c3 = F /A</span>\n<span>\nF <br>= 200 N</span>\n<span>\n<span>A <br>= 50 m2</span></span>\n\n<span>\u03c3\u00a0 <br>= 200 N/ 50 m2 <br></span><span>= 4,0 N/m<span>2</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-seutas-kawat-baja-dengan-panjang-3m-dan-luas-penampang-015-924",
+            "question": "Pada seutas kawat baja dengan panjang 3m dan luas penampang 0,15 cm\u00b2 digantungkan sebuah beban bermassa 500 kg (g= 9,8m/s\u00b2). tentukan    a. tetapan gaya kawat\r\nb. pertambahan panjang kawat\r\n(modulus elastis baja= 2,0 \u00d7 10^{11}\u00a0 N/m\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.F=k.<span>\u2206x<br>\u00a0 m.g=k.</span><span>\u2206x<br>\u00a0 500.9,8=k.3<br>\u00a0 k=</span>[tex] \\frac{4900}{3} [/tex]=1.633<br>b.<br>F/A=1.633/0,0015=108866<br>pertambahan panjang kawat=e.l=F/A=1.633/0,0015=108.2,0.10^{11}.<br>=216.10^{11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-baja-angka-muai-panjang-105c-panjangnya-1000-325",
+            "question": "sebatang baja (angka muai panjang 10\u207b\u2075/\u2070C) panjangnya 100,0 cm pada suhu 30\u2070C. bila panjang batang baja itu sekarang menjadi 100,1 cm, maka suhunya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt = L0 x\u00a0\u03b1 x\u00a0\u0394T<br>0,1 = 100 x\u00a0[tex] 10^{-5} [/tex] x ( x-30)<br>0,1 =\u00a0[tex] 10^{-3} [/tex] (x-30)<br>0,1 =\u00a0[tex] 10^{-3}x[/tex] - 0,03<br>0,1 + 0,03 =\u00a0[tex] 10^{-3}x[/tex]<br>0,13 =\u00a0[tex] 10^{-3}x[/tex]<br>x = [tex] 130^{0} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

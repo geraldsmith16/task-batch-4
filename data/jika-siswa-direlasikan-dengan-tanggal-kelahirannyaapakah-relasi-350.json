@@ -1,0 +1,144 @@
+{
+    "question": "jika siswa direlasikan dengan tanggal kelahirannya.apakah relasi tersebut merupakan fungsi? berikan penjelasanmu!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Iya karena pada fungsi setiap anggota A hanya bisa memasangkan satu angota B . <br>",
+            "attachments": []
+        },
+        {
+            "answer": "Ya, karena <u><strong>setiap siswa</strong></u>(di daerah\u00a0domain) hanya mempunyai <u><strong>satu tanggal kelahiran</strong></u>(di\u00a0daerah kodomain), artinya setiap siswa hanya mempunyai satu pasangan di daerah kodomain. Sehingga terjadi relasi.<br><br>Tapi kalo tanggal kelahiran direlasikan dengan siswa(tanggal kelahiran dijadikan domain), BISA JADI tidak terjadi relasi, karena kemungkinan terdapat siswa dengan tanggal kelahiran yang sama.<br><br>sepengetahuan ane sih gitu",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-dari-13-sudut-lurus-682",
+            "question": "Tentukan besar sudut dari 1/3 sudut lurus\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/3 dikali 180 (sudut lurus) = 60 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60 derajat<br>maaf kalau salah ..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-nilai-kpk-dari-30-dan-48-198",
+            "question": "Berapa nilai kpk dari 30 dan 48?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br>KPK= 2 x 2 x 2 x 2 x 3 x 5 = 240<br>FPB = 2 x 3 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br><br><br>kpk= 2 x 2 x 2 x 2 x 3 x 5 = 240<br><span><br>fpb = 2 x 3 = 6</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derajat-suku-banyak-5x2-x2-3x34x-2-adalah-872",
+            "question": "Derajat suku banyak (5x\u00b2-x)\u00b2\u00a0 (3x\u00b3+4x-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(5x^2 - x)^2 (3x63 + 4x - 2) = (25x^4 -10x^3\u00a0+ x^2) (3x^3 + 4x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75x^7 + 100x^5 - 50x^4 - 30x^6 - 40x^4 + 20x^3 + 3x^5 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04x^3 - 2x^2<br><br>Karena pangkatnya yang paling besar adalah 7 maka persamaan di atas berderajat tujuh.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285",
+            "question": "1. jumlah semua bilangan ganjil antara 300 dan 750 yang bukan kelipatan 7 adalah 2. jumlah 3 suku pertama suatu deret geometri ialah 21 dan hasil kali 3 suku pertama itu ialah 64. nilai suku ketiga dan suku pertama deret itu berturut- turut adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika Bab Deret <br>Kelas: XII SMA <br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "35-putaran-ada-berapa-derajat-846",
+            "question": "3/5 putaran ada berapa derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/5 putaran = 216 dejarat",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/5 X 360=216 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Perhatikan gambar berikut .    S adalh pusat lingkaran \u00a0suut =21 derajat\r\nsudut SPR=27 derajat .teentukanlahsudut PRS.sudut SQR,sudut PRQdan sudut PSQ\r\n\r\n\r\nmohon bantuannya dengan cara :)",
+    "attachments": [
+        "question-attachments/perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "PRS = 21 Derajat<br>SQR = 27 Derajat<br>PRQ = 42 Derajat<br>PSQ = 84 Derajat",
+            "attachments": []
+        },
+        {
+            "answer": "&lt;PRS = 21\u00b0 karena menghadap busur PQ ( &lt;SRQ juga menghadap busur PQ )<br>&lt;SQR = 27\u00b0 <br>&lt;PRQ = 42\u00b0 karena jumlah suudut PRS dan sudut SRQ<br>&lt;PSQ = 84\u00b0 karena sudut pusat = 2 \u00d7 sudut keliling &lt;PRQ<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-mencari-panjang-apotema-lingkaran-bagaimana-dan-tentang-car-580",
+            "question": "cara mencari panjang apotema lingkaran bagaimana? dan tentang cara mencari luas juring dan tembereng ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apotema bisa pake konsep luas segitiga dan dalil phytagoras<br>Cara mencari Tembereng :<br><span>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Panjang tali busur bisa dicari dengan rumus : <br><br>\n                          Panjang tali busur = besar sudut yg diapit dua jari2: 360 derajat *2*pi*r <br><br>\n Apotema : dicari dengan dalil pythagoras. <br><br>\nTembereng :  Luas juring - Luas segitiga ( keduanya dalam satu bidang datar yg dibentuk oleh dua jari2 suatu lingkaran.)  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-mempunyai-luas-juring-opq-1925cm2-dan-luas-j-518",
+            "question": "Sebuah lingkaran mempunyai luas juring OPQ = 19,25cm\u00b2 dan luas juring ORS = 51,33cm\u00b2. jika besar POQ = 45 derajat maka besar ROS adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "19,25 / 45 = 51,33 / ROS<br><br>ROS = 51,33 x 45 / 19,25<br>\u00a0 \u00a0 \u00a0 \u00a0 = 119,99<br>\u00a0 \u00a0 \u00a0 \u00a0 = 120\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-tumpukan-dua-buah-kursi-92-cm-dan-tinggi-tumpukan-empat-160",
+            "question": "tinggi tumpukan dua buah kursi 92 cm , dan tinggi tumpukan empat buah kursi 108 cm . jika ada 15 kursi sejenis ditumpuk , maka tingginya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Tinggi tumpukan dua buah kursi</strong> 92 cm, tinggi tumpukan empat buah kursi 108 cm, jika ada 15 kursi sejenis ditumpuk, maka tingginya adalah 196 cm. Soal ini merupakan penerapan materi barisan dan deret aritmatika. <strong>Barisan aritmatika</strong> adalah barisan yang antar dua suku berdekatannya memiliki selisih yang tetap. Untuk menentukan <strong>suku ke n pada barisan aritmatika</strong> adalah\n</p><p>Un = a + (n \u2013 1)b\n</p><p><strong>Rumus jumlah n suku pertama\n</strong></p><p>Sn = n/2 (2a + (n \u2013 1)b)\n</p><p>Sn = n/2 (a + Un)\n</p><p><u>Keterangan</u>\n</p><p>a = suku pertama\n</p><p>b = beda \u21d2 b = U\u2082 \u2013 U\u2081 = U\u2083 \u2013 U\u2082 = ....\n</p><br><h3>Pembahasan\n</h3><br><p><strong>Diketahui\n</strong></p><p>Tinggi tumpukan dua buah kursi 92 cm \u21d2 U\u2082 = 92\n</p><p>Tinggi tumpukan empat buah kursi 108 cm \u21d2 U\u2084 = 108\n</p><br><p><strong>Ditanyakan\n</strong></p><p>tinggi tumpukan 15 kursi (U\u2081\u2085)\n</p><br><p><strong>Jawab\n</strong></p><p>U\u2084 = 108 \u21d2 a + 3b = 108\n</p><p>U\u2082 = 92 \u21d2 \u00a0 <u>a + b = 92 \u00a0 \u00a0 \u00a0</u>\u2013\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2b = 16\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>b = 8\n</strong></p><p><strong>Substitusikan b = 8 ke U\u2082 = 92</strong>\n</p><p>a + b = 92\n</p><p>a + 8 = 92\n</p><p>a = 92 \u2013 8\n</p><p><strong>a = 84\n</strong></p><br><p><u>tinggi tumpukan 15 kursi\n</u></p><p>U\u2081\u2085 = a + 14b\n</p><p>U\u2081\u2085 = 84 + 14(8)\n</p><p>U\u2081\u2085 = 84 + 112\n</p><p><strong>U\u2081\u2085 = = 196\n</strong></p><p>Jadi <strong>tinggi tumpukan 15 kursi adalah 196 cm\n</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang barisan aritmatika\n</p><p>https://brainly.co.id/tugas/1779659\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><br><p><strong>Kata Kunci</strong> : tinggi tumpukan kursi\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-budi-membeli-10-lusin-buku-dengan-harga-rp2400000-perlusin-140",
+            "question": "Pak budi membeli 10 lusin buku dengan harga Rp.24.000,00 perlusin. Ketika di jual, 8 lusin buku laku dengan harga Rp. 33.000,00 per lusin dan sisanya laku dengan harga Rp.28.000,00 per lusin. Persentase keuntungan pak budi sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pengeluaran Pak Budi = 10\u00a0X Rp\u00a024.000,00 = Rp\u00a0240.000,00<br>Penghasilan = (8 X Rp 33.000,00) + (2 X Rp 28.000,00) = \u00a0Rp 264.000,00 + Rp 56.000,00 = Rp 320.000,00<br>Keuntungan = Rp 320.000,00 - Rp 240.000,00 = Rp 80.000,00<br>Presentase keuntungan =\u00a0[tex] \\frac{untung}{pengeluaran}[/tex] X 100% =\u00a0[tex] \\frac{80.000}{240.000} [/tex] X 100% = 33,33%<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "modal : 24000 x 10 = 240.000<br>untung :<br>33000 x 8 = 264.000<br>28000 x 2 = 56.000<br>total = 320.000<br><br>320.000 - 240.000 = 80.000<br>jadi keuntungan nya 33 %",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573",
+            "question": "Hitunglah Keliling dan luas bangun yang diarsir pada gambar itu ?",
+            "attachments": [
+                "question-attachments/hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "pake rumus juring aja lebih gampang<br><br>45 per 360 * luas lingkarannya<br><br>luasnya tadi udah dicari, hasilnya 379,94<br><br>45 per 360 * 379,94 = 47,49 (ini luas yang engga diarsir + yang di arsir)<br><br>sekarang kita cari luas yang ga di arsir dulu.<br>45 per 360 * 113,04 = 14,13<br><br>kurangin.. 47,49 - 14,13 = 33,36 (luas yang di arsir)<br>__________________________________________________<br>keliling = phi*2r<br>tapi berhubung itu bukan lingkaran utuh, maka harus dicari panjang busur dulu<br><br>45 per 360 * keliling<br>= 45 per 360 * 69,08<br>= 8,6<br><br>tinggal di jumlah... 5 + 5 + 8,6 = 18,6 (keliling yang di arsir)<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-bidang-diagonal-dan-diagonal-ruang-balok-adalah-827",
+            "question": "Banyak bidang diagonal dan diagonal ruang balok adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Banyak diagonal sisi, bidang diagonal dan diagonal ruang pada balok adalah ...<br><br><strong>Pembahasan :\u00a0</strong><br><br><strong>Diagonal Sisi (Bidang)</strong><br><br></span>Diagonal sisi (bidang) adalah ruas garis yang menghubungkan dua titik sudut yang berhadapan pada setiap bidang atau sisi balok/kubus.<br><br>Yang merupakan diagonal sisi pada balok yaitu :<br>BD , FH,<br>AC , EG,\u00a0<br>AF , DG,\u00a0<br>BF , CH,\u00a0<br>AH , BG,\u00a0<br>DE , CF<br>Jadi banyak diagonal sisi adalah 12 garis<br><br><strong>Bidang Diagonal</strong>\u00a0<br><br>Bidang diagonal<span>\u00a0adalah daerah yang dibatasi oleh dua buah diagonal bidang dan dua buah rusuk yang saling berhadapan, dan membagi bangun ruang menjadi dua bagian.\u00a0<br></span><br>Yang merupakan bidang diagonal pada balok yaitu :<br>BCHE , ADGE ,<br>ABGH , CDEF ,<br>ACGE , BDHF\u00a0<br>Jadi banyak bidang diagonal balok adalah 6 buah<br><br><strong>Diagonal Ruang\u00a0</strong><br><br>Diagonal ruang adalah ruas garis yang menghubungkan dua titik sudut yang berhadapan dalam suatu ruang.<br><br>Yang merupakan diagonal ruang pada balok yaitu :\u00a0<br>AG , BH , CE , dan DF<br>Jadi banyak diagonal ruang balok ada 4 buah<br><br>Untuk lebih jelas silahkan perhatikan gambar balok yang terdapat pada lampiran.<br><br>-----------------------------------------------------------------<br>Pelajari lebih lanjut tantang Balok yang lainnya : <br>- Pasangan diagonal sisi, bidang diagonal balok\u00a0\u2192\u00a0https://brainly.co.id/tugas/154839<br>- Bidang diagonal dan jaring-jaring balok \u2192 brainly.co.id/tugas/10550994<br>- Rumus tinggi balok yang diketahui luas permukaan balok \u2192 brainly.co.id/tugas/230205<br>- Menghitung volume balok yg diketahui perbandingan rusuknya dan luas permukaan \u2192 brainly.co.id/tugas/133018<br><br><strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 8 </strong><br><strong>Mapel\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Bab 8 - Bangun Ruang Sisi Datar</strong><br><strong>Kata kunci : balok, diagonal sisi, bidang diagonal, diagonal ruang</strong><br><br><strong>Kode : 8.2.8 [Kelas 8 Matematika Bab 8 - Bangun Ruang Sisi Datar]</strong><br><br>Semoga bermanfat",
+                    "attachments": [
+                        "answer-attachments/banyak-bidang-diagonal-dan-diagonal-ruang-balok-adalah-827-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kotak-perhiasan-berbentuk-balok-berukuran-19-cm-x-10-cm-x-155",
+            "question": "Sebuah kotak perhiasan berbentuk balok berukuran 19 cm x 10 cm x 7 cm . Jika bagian luar kotak dilapisi kain beludru, maka luas kain beludru yang diperlukan adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 ((pxl)+(p x t)+(l x t)) = 2 ((19\u00d710)+(19\u00d77)+(10\u00d77) = 2 (190+133+70) = 2 \u00d7 393 = 789",
+                    "attachments": []
+                },
+                {
+                    "answer": "p = 19 cm<br>l = 10 cm<br>t = 7 cm<br><br>luas kain = luas kotak = 2 (p.l + p.t +l.t)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 (19.10 +19.7 +10.7)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 (190 + 133 + 70)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 (393)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 786 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-garis-singgung-lingkaran-berjari-jari-6cm-dari-titik-di-l-860",
+            "question": "Panjang garis singgung lingkaran berjari-jari 6cm dari titik di luar lingkaran yang berjarak 10cm dari pusat lingkaran adalah.... \u00a0 pake cara yah :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = r = 6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 p = 10 cm<br>dit = panjang garis singgung (<em>\u00a0l</em>\u00a0) =... cm<br>jwb = l\u00b2 = p\u00b2 - r\u00b2 = 10\u00b2 - 6\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 100 - 36<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 l =\u00a0\u221a64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8<br>jadi panjang garis singgung adalah 8 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pada-gambar-besar-sudut-aob40-derajatamp-sudut-cod-150-437",
+            "question": "1. pada gambar , besar sudut AOB=40 derajat,&amp; sudut COD =150 derajat dan panjang busur AB=120 CM HITUNGLAH PANJANG BUSUR CD",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40<u></u>\u00b0 :\u00a0150\u00b0 = 120 :\u00a0CD<br>4 :\u00a015 = 120 :\u00a0CD<br>4 x CD = 15 x 120 (dikali silang)<br>4 x CD = 1800<br>CD = 1800 : 4 = 450 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-bruto-dan-netto-jika-tara-5-kg-dan-presentase-tara-212-794",
+            "question": "Berapa bruto dan netto jika tara 5 Kg dan Presentase Tara 2.12%\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: tara= 5kg<br>\u00a0 \u00a0 \u00a0 persentase tara=2.12%<br><br>dit: *bruto<br>\u00a0 \u00a0 \u00a0*netto<br>jb:<u> persentase tara</u>\u00a0<u></u>\u21d2<u> 2.12 x 100\u00a0</u> \u00a0= 42,4 kg<br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0tara \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br>netto = bruto-tara\u00a0\u21d2 42,4 - 5 = 37.4 kg<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-jumlah-bilangan-asli-antara-1-sampai-100-yang-habis-diba-957",
+            "question": "Tentukan jumlah bilangan asli antara 1 sampai 100 yang habis dibagi 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bolangan kelipatan 3 antara 1- 100 <br>a = bilangan yang bisa di bagi 3 yang lebih besar dari pada 1<br>\u00a0\u00a0 = 3 <br>b = selisih bilangan <br>\u00a0\u00a0 = 3<br>Un = bilangan yang mendekati 100 dan dapat di bagi 3 <br>\u00a0\u00a0 \u00a0  = 99<br>Un = a + (n-1) b <br>99\u00a0 = 3 + (n-1) 3<br>99\u00a0 = 3 + 3n - 3<br>99\u00a0 = 3n<br>99/3 = n <br>\u00a0 33\u00a0 =<strong> n </strong><br><strong>jumlah bilnagan kelipatannya adalah</strong> <br>sn = n/2 (a +un)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 3+99)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 102)<br>\u00a0\u00a0 \u00a0  = 33 x 51<br>\u00a0 \u00a0\u00a0 = 1683 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-menyebabkan-pernyataan-jika-x2-x-6-maka-x2-922",
+            "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-x4-3x3-2x2-x-6-tentukan-sis-787",
+            "question": "Diketahui suku banyak p(x) = x4 + 3x3 - 2x2 - x + 6. tentukan sisa pembagian suku banyak p(x) oleh q(x) berikut!    a. q(x) = x+1\r\nb. q(x) = 2x-1\r\nc. q(x) = 2x2 + x - 1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. sisa : 8\nb. sisa : 105/16",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-berat-1cm-besi-50-gram-dan-pi-314-berapa-kg-berat-422",
+            "question": "jika berat 1cm besi 50 gram dan pi 3,14\u00a0\u00a0\u00a0 ,\u00a0 berapa kg berat kapsul tersebut , diameter =60\u00a0 . t= 80.. kapsul besi yang terdiri dari tabung dan belahan bola \u00a0 A.6876kg B.7986kg C . 8478kg D .\u00a0 16956 kg \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti kan di atas tabung ada 1/2 bola dan dibawah tabung ada 1/2 bola juga berarti disatukan aja volumenya jadi 1 bola paham ? <br>lalu cari total volume kapsul ...... <br>V kapsul = V bola + V tabung <br> = 4/3 .pi . [tex] r^{3} [/tex] + pi . [tex] r^{2} [/tex] . tinggi <br>= 4/3 . 3.14 . [tex] 30^{3} [/tex] + pi . [tex] 30^{2} [/tex] . 80 = 339120 cm3 (harus pakai kalkulator biar gk bingung ngitungnya ) <br>lalu kan 1 cm3 = 50 gram jadi berat total kapsul = 339120 x 50 =16956000gram = 16956kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

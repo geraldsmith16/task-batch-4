@@ -1,0 +1,138 @@
+{
+    "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sepertinya 10 deh..........................",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-bilangan-3101724-adlah-a-un-571",
+            "question": "Rumus suku ke-n dari barisan bilangan 3,10,17,24 adlah..    A. Un = 7n-2\r\n B. Un = 7n-4\r\n C. Un= 7n+2\r\n D. Un = 7n+ 4\r\n E. Un= 7n+6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 = 3 + (n-1) (10-3)<br>\u00a0 \u00a0 \u00a0 = 3 + 7n - 7<br>\u00a0 \u00a0 \u00a0 = 7n - 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "B.Un = 7n-4\n\nMisal U2 = 7x2-4\n= 14-4\n=10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-terdiri-dari-4-angka-disusun-dari-angka-angka-12345-254",
+            "question": "Bilangan terdiri dari 4 angka disusun dari angka-angka 1,2,3,4,5,6 dan 7. Banyak susunan bilangan dengan angka-angka yang berlainan (angka-angkanya tidak boleh berulang) adalah.... \u00a0 A. 20 B. 40 C. 80 D. 120. E. 360 \u00a0 Mohon bantuan +caranya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika benar itu terdiri dari angka 1 sampai 7 , maka jawabannya :<br><br>7 x 6 x 5 x 4 = 840\u00a0<br>jawabannya tdk ada di opsinya<br><br>tp jika terdiri dari angka 1 sampai 6 , maka jawabannya :<br><br>6 x 5 x 4 x 3 = 360\u00a0<br>jawaban E\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 sampai 7 <br>7 x 6 x 5 x 4 =840<br><br>1 sampai 6 <br>6 x 5 x 4 x 3 = 360<br><br>1 sampai 5<br>5 x 4 x 3 x 2 = 120<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-g-r-r-ditentukan-oleh-gx-x2-3x-1-dan-f-r-196",
+            "question": "Fungsi g: R \u2192 R ditentukan oleh    g(x) = x2 \u2013 3x + 1 dan f: R \u2192 R sehingga (f o g)(x) = 2x2\r\n \u2013 6x \u2013 1\u00a0\r\n\r\nmaka f(x) = \u2026.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f o g)(x)= f(g(x)) \u00a0 \u00a0 \u00a0 \u00a0\u00a0=\u00a02x^2<span>\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1)\u00a0=\u00a0</span>2x^2\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x^2-3x+1)\u00a0=\u00a02x^2\u2013 6x + 2 -\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1) = 2(x^2-3x+1) -3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x-3 \u00a0(buktikan saja masukan ke f(g(x))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-kearah-timur-seauh-30-mil-kemudian-kapal-m-401",
+            "question": "sebuah kapal berlayar kearah timur seauh 30 mil. kemudian kapal melanjutkan perjalanan dengan arah 030 derjat sejauh 60 mil. jarak kapal terhadap posisi saat kapal berangkat adalah...mil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "...................................................................................................................................................................................................................................................................<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau yang ditanya jarak, berarti tinggal \u00a030mil+60miltapi kalau yang ditanya perpindahan baru nyari jarak terdekat dari titik awl ke titik akhir.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-koordinat-a1-p-5-b2-4-4-dan-c-1-2-q-jik-179",
+            "question": "Diketahui koordinat A(1, p, 5), B(2, -4, 4), dan C(-1, 2, q). jika A, B, dan C segaris, nilai p+q = .......    pembahasan nya juga yaaa, tolong di bantu ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{}{AB} = \\left[\\begin{array}{ccc}1-2\\\\p-(-4)\\\\5-4\\end{array}\\right] = \\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right] [/tex]<br><br>[tex] \\frac{}{BC} = \\left[\\begin{array}{ccc}2-(-1)\\\\-4-2\\\\4-q\\end{array}\\right] = \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right] [/tex]<br><br>Sehingga :<br>Karena segaris maka :<br>AB segaris BC atau sama saja dengan AB = BC<br><br>[tex]\\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right]= k \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right][/tex]<br><br>Maka :<br>- 1 = k3<br>k = -1/3<br><br>Untuk nilai p :<br>p + 4 = -6k<br>p + 4 = -6(-1/3)<br>p + 4 = 2<br>p = 2 -\u00a04<br>p = - 2<br><br>Untuk nilai q :<br>1 = k (4 - q)<br>1 = (-1/3) ( 4 - q)<br>- 3\u00a0= 4 - q<br>- 3 - 4 = - q<br>- 7 = - q<br>q = 7<br>\u00a0<br><strong>Maka untuk p + q</strong><br><strong>= - 2 + 7</strong><br><span><strong>= 5</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-fungsi-kuadrat-yang-memotong-sumbu-x-dititk-304",
+            "question": "tentukan persamaan fungsi kuadrat yang memotong sumbu x dititk (-3,0) dan (1,0) serta memotong sumbu y di titik (0,6)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = a (X-X1) (X-X2)<br>6 = a (0-(-3)) (0-1)<br>6 = a (3) (-1)<br>6 = -3a<br>-2 = a<br><br>maka f(x) = -2 (x+3) (x-1)<br>f (x) = -2 (x\u00b2+2x-3)<br>f(x) = -2x\u00b2-4x+6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suatu-deret-aritmetika-ialah-sn-85n-5-595",
+            "question": "Jumlah n suku pertama suatu deret aritmetika ialah Sn = 85n\u00a0-\u00a05n\u00b2 . Tentukan suku pertama dan bedanya? Help ya kak, aku belum mengerti karna hanya diketahui Sn Y_Y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = S1<br>a = 85(1) - 5([tex] 1^{2} [/tex])<br>a = 80<br><br>Sn =\u00a085n - 5[tex] n^{2} [/tex]<br>Sn-1 = 85(n-1) - 5[tex] (n-1)^{2} [/tex]<br>Un = Sn - Sn-1<br>Un = 90 - 10n<br>Un = a + (n-1)b<br>U2 = a + b<br>90 - 10(2) = 80 + b<br>70 = 80 + b<br>b = -10<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-6-dan-suku-ke-empat-663",
+            "question": "diketahui deret geometri dengan suku pertama 6 dan suku ke empat adalah 48, jumlah enam suku pertama deret tsb adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] u_{1} = a= 6[/tex]<br><br>[tex] u_{4} =[/tex]ar\u00b3 = 48<br><br>ar\u00b3 = 48<br>6r\u00b3=48<br>r\u00b3 = 48/6<br>r\u00b3=8<br>r =\u00a0\u221b8=2<br><br>[tex] s_{6}  =  \\frac{a( r^{n} -1)}{r-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 2^{6} -1)}{2-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 64 -1)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 63)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{378} [/tex]<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

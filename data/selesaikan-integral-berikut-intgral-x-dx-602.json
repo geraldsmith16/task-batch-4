@@ -1,0 +1,138 @@
+{
+    "question": "Selesaikan integral berikut...!!!\r\nintgral \u221ax dx ... ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "integral dari<br>\u221ax dx = x ^1/2 dx<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/3 x ^3/2\u00a0<br><br><br>NB : ^ = berarti pangkat",
+            "attachments": []
+        },
+        {
+            "answer": "<span>\u221ax dx = \u00a0\u00a0</span>[tex] \\frac{2^{ \\frac{3}{2} } }{3} + C[/tex]<br><br>atau\u00a0<br><br>[tex] \\int\\limits^ \\pi _0 {sin x} \\, dx = 2[/tex] + C<br><br>Atau<br>[tex] \\int\\limits^a_b {sin x} \\, dx = - cos x + C [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-tuliskan-3-suku-berikutnya-dari-barisan-berikut-ini-269",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0    Tuliskan 3 Suku berikutnya dari\r\n barisan berikut ini.\r\n\r\no\u00a0\u00a0\r\n25,22,19,16,13,\u2026\r\n\r\no\u00a0\u00a0\r\n2,6,10,14,18,22,\u2026\r\n\r\no\u00a0\u00a0\r\n512,256,128,\u2026\r\n\r\no\u00a0\u00a0\r\n2,6,18,\u2026\r\n\r\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nBilangan 237 pada barisan 3,12,21,\u2026\r\n merupakan suku ke -...\r\n\r\n\u00a0\r\n\r\n3.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSuku ke-8 dari barisan 125,25,5,\u2026\r\n adalah \u2026\r\n\r\n\u00a0\r\n\r\n4.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDari suatu barisan aritmatika\r\n diketahui suku ke-5 adalah 22 dan suku ke-12 adalah 57. Suku ke-15 dari barisan\r\n ini adalah\u2026\r\n\r\n\u00a0\r\n\r\n5.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSuku ke-3 dan suku ke-5 barisan\r\n geometri dgn suku\u2019\u2019 positif berturut\u201d adalah 18 dan 162. Suku ke-6 barisan\r\n tersebut adalah\u2026\r\n\r\n\u00a0\r\n\r\n6.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDi antara bilangan 4 dan 28\r\n disisipkan lima bilangan sehingga membentuk barisan aritmatika. \r\n\r\nBeda barisan aritmatika tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n7.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDi antara 8 dan 128 disisipkan tiga\r\n buah bilangan sehingga terbentuk barisan geometri. Jika rasionya positif maka\r\n rasio dari barisan geometri tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n8.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nDiketahui barisan aritmatika\r\n 4,7,10,13,\u2026,31. Jumlah barisan tsb adalah\u2026\r\n\r\n\u00a0\r\n\r\n9.\u00a0\u00a0\u00a0\u00a0\u00a0\r\nSetuas tali dipotong menjadi 9\r\n bagian. Panjang masing\u201d potongan \u00a0tsb\r\n mengikuti barisan geometri. Potongan tali yang paling pendek adalah 4 cm dan\r\n potongan tali paling panjang 1024 cm. Panjang tali semula adalah\u2026\r\n\r\n\u00a0\r\n\r\n10.\u00a0 Jumlah dari &amp; seterusnya sebanyak tak terhingga suku adalah\u2026\r\n\r\n \u00a0\r\n\r\n \u00a0\r\n\r\n \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. <br>a. 10, 7, 4 <br>b. 26, 30, 34 <br>c. 64, 32, 16 <br> d. 54, 162, 486<br>2. 3+(n-1)9=237\u2192(n-1)9=234\u2192n-1=26\u2192n=27 <br> 3. U8= 125*(1/5)^7=16/10.00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-sudut-komplemen-dan-sudut-suplemen-369",
+            "question": "Pengertian sudut komplemen dan sudut suplemen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sudut komplemen = sudut yang berpenyiku (besarnya 90 derajat)<br>Sudut suplemen = sudut yang berpelurus (besarnya 180 derajat)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut komplemen yakni sudut saling berpenyiku , artinya jumlah kedua sudut = 90 derajat<br>sudut suplemen yakni sudut yang saling berpelurus, artinya jumlah kedua sudut = 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-mempunyai-sepasang-akar-berkebalikan-nilai-p-905",
+            "question": "Persamaan\u00a0 mempunyai sepasang akar berkebalikan.    Nilai p\u00a0= .......\r\na. 18\r\nb. 6\r\nc. 3\r\nd. -6\r\ne. -18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mempunyai sepasang akar berkebalikan artinya : x\u2081 . x\u2082 = 1<br>x\u2081 . x\u2082 . x\u2083 = -d/a<br>x\u2083 = -8/2 = -4 <br>masukkan x = -4 ke persamaan : 2x\u00b3 + 3x\u00b2 + px + 8 = 0<br>akan didapat : <br>2(-64) + 3(16) - 4p + 8 = 0<br>-128 + 48 + 8 = 4p<br>p = - 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-deret-geometri-diketahui-suku-ke-2-adalah-6-dan-suku-761",
+            "question": "Pada sebuah deret geometri diketahui suku ke 2 adalah 6 dan suku ke 5 adalah 48 jumlah sepuluh suku pertaama adaalah ???    tolong dibantu jawaban nya yaaaah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "_ 6 _ _ 48<br><br>Jadi<br>U1 = 3<br>U2 = 6<br>U3 = 12<br>U4 = 24<br>U5 = 48<br><br>Sn = a(r^n-1) / r -1<br>= 3 (2^10-1) / 2-1<br>= 3 . 1023 /1<br>=3069",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik: U2=6<br>\u00a0 \u00a0 \u00a0 \u00a0U5=48<br>Pertamaanya cari dulu r nya<br>saya punya cara mudahnya,rumusnya:<br>\u00a0[tex] r^{(suku yang paling besar-suku yang paling kecil)} [/tex] = <u>(nilai suku yg paling besar)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 (nilai suku yg paling kecil)<br><br>jadi cara ngerjainnya:<br>[tex] r^{5-2} [/tex] = <u>48</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 6<br><u></u>[tex] r^{3} [/tex] \u00a0 \u00a0 =8<br>\u00a0 \u00a0 \u00a0\u00a0 r =[tex] 3\\sqrt{8} [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0r = 2<br><u></u><br>jadi cara mencari [tex] S_{10} [/tex] = <u>a([tex] r^{n} [/tex] -1)<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 r-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <u>3([tex] r^{10} [/tex] -1)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u>3(1023)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 X 1023 = 3069<br><br>jadi\u00a0[tex] S_{10} [/tex] yaitu 3069<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-566",
+            "question": "Suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku ke 25 adalah 25/28",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau menurut saya jawabannya adalah 25/28 semoga bener ya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kabel-akan-dipotong-menjadi-tujuh-bagian-panjang-dari-mas-661",
+            "question": "seutas kabel akan dipotong menjadi tujuh bagian. panjang dari masing-masing kabel membentuk\u00a0 barisan geometri . jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas kabel akan dipotong menjadi 7 bagian. Panjang dari masing-masing kabel membentuk \u00a0barisan geometri . Jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...</p><p><strong>Barisan geometri </strong>adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p><strong>Deret geometri </strong>adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>Banyak kabel dipotong (n) = 7</p><p>Panjang kabel terpendek (a) = 5 cm</p><p>Panjang kabel terpanjang (Un) = 320 cm</p><p>Ditanya :</p><p>Panjang kabel semula (Sn)?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio</strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>320 = 5 r\u2077\u207b\u00b9</p><p>320 = 5 r\u2076</p><p> \u00a0 \u00a0r\u2076 = [tex]\\frac{320}{5}[/tex]</p><p> \u00a0 \u00a0r\u2076 = 64</p><p> \u00a0 \u00a0r\u2076 = 2\u2076</p><p> \u00a0 \u00a0 r = 2</p><p>Jadi rasio = 2</p><p></p><ul><li><strong>Menentukan panjang kabel semula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2087 = [tex]\\frac{5 (2^{7} - 1)}{2 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{5 (128 - 1)}{1}[/tex]</p><p> \u00a0 \u00a0 = 5 \u00d7 127</p><p> \u00a0 \u00a0 = 635</p><p>Jadi panjang kabel tersebut adalah 635 cm atau 6,35 m</p><p></p><p>-------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri </h3><ol><li>Seutas tali dipotong menjadi 5 bagian. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula \u2192 https://brainly.co.id/tugas/39374</li><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang kabel semula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-fx-jika-dibagi-x-1-sisanya-8-dan-491",
+            "question": "diketahui suku banyak f(X) jika dibagi\u00a0 ( x+ 1) sisanya 8 dan ( x-3 ) sisanya 4 suku banyak g(x) jika dibagi dengan (x+1) bersisa -9 dan jika dibagi (x-3) sisanya 15 jika h(x) = F(X) . G(X), maka sisa pembagian H(X) oleh \u00d7\u00b2 - 2\u00d7 - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 11<br>Mapel : Matematika<br>Kategori : Suku Banyak<br>Kata Kunci : suku banyak, pembagi, hasil bagi, sisa<br>Kode : 11.2.5 [Kelas 11 Matematika KTSP Bab 5 - Sukubanyak]<br><br>Pembahasan :<br>Suku banyak atau polinomial p dalam k berderajat n memiliki bentuk umum :<br>[tex]a_n[/tex]x\u207f +\u00a0[tex]a_{n-1}[/tex]x\u207f\u207b\u00b9 + ... + [tex]a_2[/tex]x\u00b2 + [tex]a_1[/tex]x\u00b9 +\u00a0[tex]a_0[/tex]<br><span><br>dengan\u00a0</span>[tex]a_n[/tex], [tex]a_{n-1}[/tex], ..., [tex]a_2[/tex], [tex]a_1[/tex], [tex]a_0[/tex]\u00a0merupakan konstanta-konstanta real;<br><br>[tex]a_n[/tex] koefisien x\u207f, [tex]a_{n-1}[/tex]\u00a0koefisien x\u207f\u207b\u00b9, dan seterusnya;<br><br>[tex]a_0[/tex]\u00a0merupakan suku tetap;<br><span><br>n merupakan bilangan cacah yang menyatakan derajat suku banyak.<br><br>Misalnya suku banyak f(x) dibagi dengan P(x) memberikan hasil bagi H(x) dan sisanya S(x) maka diperoleh hubungan<br>f(x) = P(x) . H(x) + S(x)<br><br>Jika f(x) merupakan suku banyak berderajat n dan P(x) merupakan pembagi berderajat m dengan m\u00a0\u2264 n maka<br>1. H(x) adalah hasil bagi berderajat n - m<br>2. S(x) adalah sisa pembagian berderajat maksimum (m - 1).<br><br>Penerapan teorema sisa dapat dikembangkan untuk menentukan sisa pada pembagian suku banyak dengan suku banyak berderajat dua atau lebih yang dapat difaktorkan menjadi faktor-faktor linear.<br><br>Mari kita lihat soal tersebut.<br></span><span>Suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4. Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15. Jika suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah...<br><br>Jawab :<br>Diketahui s</span>uku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4.<br><br>Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15.<br><br>Suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3 = (x - 3)(x + 1).<br><br>Oleh karena pembagi (x - 3)(x + 1) berderajat dua, maka sisanya maksimum berderajat satu.<br><br>Misalkan pembagi P(x) = (x - 3)(x + 1), sisa S(x) = ax + b dan hasil bagi H(x), maka<br>h(x) = P(x) . H(x) + S(x)<br>h(x) = (x - 3)(x + 1) . H(x) + ax + b<br>f(x) . g(x) = (x - 3)(x + 1) . H(x) + ax + b<br><br>Kita substitusikan x = 3 dan sisa S(3) = 4 . 15 = 60<br>h(3) = f(3) . g(3) = 3a + b = 60 ... (1)<br><br>Kita substitusikan x = -1 dan sisa S(-1) = 8 . (-9) = -72<br>h(-1) = f(-1) . g(-1) = -a + b = -72 ... (2)<br><br>Kedua persamaan kita selesaikan dengan metode eliminasi dan substitusi, diperoleh<br>3a + b = 60<br>-a + b = -72<br>__________-<br>\u21d4 4a = 132<br>\u21d4 a =\u00a0[tex] \\frac{132}{4} [/tex]<br>\u21d4 a = 33<br><br>Kita substitusikan a = 33 ke persamaan (2), diperoleh<br>-a + b = -72<br>\u21d4 -33 + b = -72<br>\u21d4 b = -72 + 33<br>\u21d4 b = -39<br><br>S(x) = 33x - 39<br><br>Jadi, jika suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4, suku banyak g(x) dibagi x + 1 sisanya -9dan dibagi x - 3 sisanya 15, dan suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah 33x - 39.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5171052<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

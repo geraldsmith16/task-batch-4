@@ -1,0 +1,144 @@
+{
+    "question": "Gradien garis dari persamaan 3x - 6y + 5 = 0 adalah??",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a06y = 3x + 5<br><br>jadi gradienya 3<br>atau y = 1/2 x + 5/6<br>gradien y = 1/2",
+            "attachments": []
+        },
+        {
+            "answer": "m = -a/b = -3/-6 = 1/2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pak-bandi-membeli-sebuah-rumah-seharga-rp125000setelah-dua-tahu-702",
+            "question": "Pak Bandi membeli sebuah rumah seharga Rp.125000.Setelah dua tahun rumah trsbt dijual lagi sehingga rugi 5%.Tentukan=    a.Besar Kerugian\r\n b.Harga Jual Rumah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. besar kerugian = 5/100 \u00d7 125.000.000 = 6.250.000<br>b. harga jual rumah = 125.000.000 - 6.250.000 = 118.750.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5/100 x125000=7250<br>a.Rp6250<br>b.125000-6250=118750",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-rasio-dari-suatu-barisan-geometri-696",
+            "question": "Cara mencari rasio dari suatu barisan geometri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukan-dengan-gamabar-apa-yang-di-maksud-dengan-a-sudut-pusa-879",
+            "question": "Tunjukan dengan gamabar apa yang di maksud dengan : A. sudut pusat B. sudut keliling",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini dia, gambarnya yang sudut pusat sama sudut keliling.........................",
+                    "attachments": [
+                        "answer-attachments/tunjukan-dengan-gamabar-apa-yang-di-maksud-dengan-a-sudut-pusa-879-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-lingkaran-adalah-10cmtentukan-panjang-busur-lin-723",
+            "question": "Jari-jari sebuah lingkaran adalah 10cm.tentukan panjang busur lingkaran yang memiliki sudut pusat sebagai berikut.    a.30\u00b0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \r\nb.60\u00b0\r\nc.90\u00b0\r\nd.120\u00b0\r\ne.180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus keliling lingkaran :<br><br>- 2 x\u00a0[tex] \\pi [/tex] x r<br><br>jadi keliling lingkaran dengan jari-jari 10cm adalah :<br><br>= 2 x 3,14 x 10<br>= 62,8 cm<br><br>\u00a062,8 adalah 360\u00b0<br><br>Jadi jawaban nya :<br><br>\u00a0a. 30\u00b0\u00a0<br><br>\u00a0 \u00a0 \u00a0= \u00a030\u00b0/360\u00b0 x 62,8\u00a0cm<br>\u00a0 \u00a0 \u00a0= \u00a05,233 cm<br><br>\u00a0b. 60\u00b0<br><br>\u00a0 \u00a0 \u00a0= \u00a060\u00b0/360\u00b0 x 62,8 cm<br>\u00a0 \u00a0 \u00a0= \u00a010,466 cm<br><br>\u00a0 \u00a0 \u00a0atau<br><br>\u00a0 \u00a0 \u00a0= \u00a05,233 x 2<br>\u00a0 \u00a0 \u00a0= \u00a010,466 cm<br><br>\u00a0c. 90\u00b0 = 5,233 x 3 = 15,699 cm<br><br>\u00a0d. 120\u00b0 = 5,233 x 4 = 20,932 cm<br><br>\u00a0e. 180\u00b0 = 5,233 x 6 = 31,398 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-peternak-mempunyai-persediaan-makanan-untuk-30-ekor-kambi-450",
+            "question": "Seorang peternak mempunyai persediaan makanan untuk 30 ekor kambing selama 15 hari . Jika ternak itu di jual 5 ekor , persediaan makanan itu akan habis dalam waktu ....Hari    A . 16\r\nB . 14\r\nC . 18\r\nD . 20 ? Bantuin MTK nih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong></strong><strong>Kelas : 6<br>Mapel : Matematika<br>Kategori : Perbandingan Senilai dan Berbalik Nilai<br>Kata kunci : persediaan makanan, perbandingan berbalik nilai<br>Kode : 6.2.9 (</strong><strong>Kelas 6 Matematika Perbandingan Senilai dan Berbalik Nilai)<br><br><br></strong><strong>Pembahasan :<br></strong>Pada\n soal, diketahui bahwa seorang peternak mempunyai persediaan makanan untuk 30 ekor kambing yang akan habis dalam waktu 15 hari, kemudian 5 ekor kambing tersebut dijual. Lalu ditanyakan waktu yang diperlukan sampai persediaan makanan tersebut habis.<br><strong><br></strong>Pada kejadian ini, jika jumlah kambing berkurang, maka tentunya persediaan makanan akan habis lebih lama dari sebelumnya. Maka berlaku Perbandingan Berbalik Nilai, karena sesuai \ndengan sifat dari Perbandingan Berbalik Nilai yaitu jika variabel suatu \nkejadian berkurang, maka variabel yang lainnya akan bertambah.<br><strong><br>Perbandingan Berbalik Nilai<br></strong>Kita misalkan variabel atas kejadian diatas sebagai berikut :<br><strong></strong>Jumlah kambing = a<br>Waktu sampai persediaan habis = b<br><br><strong>Rumus :</strong><br><strong>a1 / b2 = a2 / b1<br></strong><br>Penyelesaian :<br>Diketahui :<br>Jumlah kambing pada kejadian awal (a1) = 30 ekor<br>Waktu sampai persediaan habis pada kejadian awal (b1) = 15 hari<br>Jumlah kambing pada kejadian berikutnya (a2) = 30 ekor - 5 ekor = 25 ekor<br><br>Ditanyakan :<br>Waktu sampai persediaan habis pada kejadian berikutnya (b2)<br><br>Jawaban :<br>a1 / b2 = a2 / b1<br>30 / b2 = 25 / 15<br>30 / b2 = (25 : 5) / (15 : 5)<br>30 / b2 = 5 / 3<br>5.b2 = 3 x 30<br>5.b2 = 90<br>b2 = 90 : 5<br>b2 = 18<br><br><strong>Jadi, jika kambing dijual 5 ekor, persediaan makanan akan habis dalam waktu 18 hari (Opsi C)</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-segitiga-dalam-kehidupan-sehari-hari-675",
+            "question": "Apa manfaat segitiga dalam kehidupan sehari-hari ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. berguna dalam probabilitas dan statistik. <br>\nb. binomium newton <br>\nc. penyusunan matriks asal - tujuan dalam rekayasa transportasi (transportation engineering)  <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. berguna dalam probabilitas dan statistik. <br>\nb. binomium newton <br>\nc. penyusunan matriks asal - tujuan dalam rekayasa transportasi (transportation engineering)  </span><br><br>maaf kalo salah ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-3-liter-bensin-rp-1350000jika-seseorang-membeli-dengan-980",
+            "question": "Harga\u00a0 3 Liter bensin Rp 13.500.00.Jika seseorang membeli dengan uang Rp 27.000.00, beraoa liter yang di perolehnya?Tulis Rumus Nya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>13.500</u> = 4500/ liter<br>3<br><u>27.000</u> =\u00a0 6 liter<br>4500 <br>maaf cum itu aja :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "13.500 : 3 = 4.500<br>27.000 : 4.500 = 6<br>jadi bensin yang diperoleh sebanyak 6 liter<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-115",
+            "question": "1/2x + 5 &gt; 15 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x+5&gt; 15<br>dikali 2<br>2/2x+5&gt;15<br>x+5&gt;15<br>x&gt;15-5<br>x&gt;10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x + &gt; 15<br>1/2x\u00a0 \u00a0 &gt; 15 - 5<br>1/2x\u00a0 \u00a0  &gt; 10<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 10 - 0,5<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 9,5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-aob-30-sudut-boc-90-245",
+            "question": "Pada gambar lingkaran, besar sudut AOB = 30\u00b0, sudut BOC = 90\u00b0, dan luas juring OAB = 60 cm\u00b2. Hitunglah luas juring OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut AOB</u> = <u>LJuring OAB</u><br>sudut BOC\u00a0 \u00a0 LJuring OBC<br><br><u>30</u> =<u> 60</u><br>90\u00a0 \u00a0 x<br>30x = 60 \u00d7 90<br>x = 180 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-memilikki-luas-6776cm2-jari-jari-lingkaran-te-514",
+            "question": "Sebuah lingkaran memilikki luas 6.776cm\u00b2. jari-jari lingkaran tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L= phi . r kuadrat <br>6776 = 22/7 . r kuadrat <br>r kuadrat = 6776 x 7/22 (dibalik)<br>r kuadrat = 2156 <br>jari - jari = 46,4 cm <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

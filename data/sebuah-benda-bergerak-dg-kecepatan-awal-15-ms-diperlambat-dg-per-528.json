@@ -1,0 +1,132 @@
+{
+    "question": "Sebuah benda bergerak dg kecepatan awal 15 m/s diperlambat dg perlambatan tetap 3 m/s\u00b2. Kecepatan benda\u00a0itu ketika berpindah 31,5 m adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Kecepatan benda itu ketika berpindah 31,5 m adalah 6 m/s sesuai dengan perhitungan sebagai berikut. </strong></p><p><strong></strong></p><h2>PEMBAHASAN</h2><p><strong>Diketahui</strong></p><p>Vo = 15 m/s</p><p>a = 3 m/s\u00b2</p><p>s = 31,5 m</p><p></p><p><strong>Ditanya</strong></p><p>Vt = ?</p><p></p><p><strong>PENYELESAIAN</strong></p><p>Karena benda tsb mengalami perlambatan, maka nilai a = -3 m/s\u00b2. </p><p></p><p>Vt\u00b2 = Vo\u00b2 + 2as</p><p>Vt\u00b2 = 15\u00b2 + 2 \u2022 -3 \u2022 31,5</p><p>Vt\u00b2 = 225 - 189</p><p>Vt\u00b2 = 36</p><p>Vt = \u221a36</p><p><strong>Vt = 6 m/s</strong></p><p></p><h2>PEMBAHASAN MATERI GLB DAN GLBB</h2><p>Gerak Lurus dapat dibagi menjadi 2 bagian, yaitu Gerak Lurus Beraturan (GLB) dan Gerak Lurus Berubah Beraturan (GLBB). </p><p></p><p>[tex] \\boxed {GLB} [/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0GLB merupakan gerak lurus beraturan. Dimana kecepatan tidak mengalami percepatan ataupun perlambatan. Kecepatan akan terus konstan. </p><p></p><p>[tex] \\boxed {v = \\frac {s}{t}} [/tex]</p><p></p><p>v = kecepatan (m/s)</p><p>s = jarak yang ditempuh (m) </p><p>t = waktu yg diperlukan (s) </p><p></p><p>[tex] \\boxed {GLBB} [/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0GLBB merupakan gerak lurus berubah beraturan. Disini terdapat unsur percepatan yang membedakan antara GLB dan GLBB. GLBB memiliki percepatan, sehingga benda yg awalnya berkecepatan awal Vo akan berubah menjadi Vt baik itu bertambah cepat atau pun bertambah lambat. </p><p></p><p>[tex] \\boxed { Vt^{2} = Vo^{2} + 2as} [/tex] </p><p>[tex] \\boxed { s = Vot + \\frac{1}{2} at^{2}} [/tex]</p><p>[tex] \\boxed { Vt = Vo + at } [/tex]</p><p></p><p>Vo = Kecepatan awal (m/s)</p><p>Vt = Kecepatan akhir (m/s)</p><p>a = percepatan (m/s\u00b2)</p><p>s = jarak yg ditempuh (m) </p><p>t = waktu yg diperlukan (s) </p><p></p><p>-----------------------------</p><h2>Pelajari lebih lanjut </h2><p>1. Materi tentang GLB https://brainly.co.id/tugas/3860295</p><p>2. Materi tentang GLBB Diperlambat https://brainly.co.id/tugas/3766788</p><p>3. Materi tentang GLBB Dipercepat https://brainly.co.id/tugas/13395024</p><p>-----------------------------</p><p></p><h2>DETIL JAWABAN</h2><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 8 SMP</strong></p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Fisika</strong></p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : Gerak </strong></p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 8.6.1</strong></p><p><strong>Kata Kunci : Gerak Lurus, GLBB, GLB, Gerak Lurus Berubah Beraturan</strong></p>",
+            "attachments": [
+                "answer-attachments/sebuah-benda-bergerak-dg-kecepatan-awal-15-ms-diperlambat-dg-per-528-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "roda-penerus-dari-mesin-bubut-memeiliki-diameter-10-cm-dan-ma-400",
+            "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ketika-diam-di-bumi-mempunyai-panjang-100-m-roket-t-310",
+            "question": "sebuah roket ketika diam di bumi mempunyai panjang 100 m. roket tersebut bergerak dengan kecepatan 0,8 c ( c = kecepatan cahaya dalam vakum). menurut orang dibumi panjang roket tersebut selama bergerak adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dicari kan L aksen maka menggunakan rumus\nL aksen = Lo \u221a1-(v/c)^2 \n= 100 \u221a1-0.8c^2/c^2 \n=100 \u221a1-0.64c^2 / c^2\nkemudian c^2 di coret menjadi\n=100\u221a0.36\n=100 . 0.6\n= 60 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-5kg-dilempar-vertikal-ke-atas-dengan-kecepatan-a-344",
+            "question": "benda bermassa 5kg dilempar vertikal ke atas\u00a0 dengan kecepatan awal 10 m/s.kecepatan benda pada ketinggian 2,5 m di atas posisi saat melempar adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Em1=Em2<br>\u21d4Ek1+Ep1=Ek2+Ep2<br>\u21d40.5.m.10\u00b2+m.g.0=0.5.m.v\u00b2+m.g.2.5,semua ruas ada nilai m maka bisa dihilangkan,dan nilai dr Ep1=0.dan kalikan 0.5 agar setara tidak ada bil pecahan\u00a0sehingga didpt persamaan..<br>100=v\u00b2+50\u21d2v=5\u221a2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-seberkas-cahaya-monokromatis-diarahkan-pada-sebuah-kisi-yang-915",
+            "question": "Jika seberkas cahaya monokromatis diarahkan pada sebuah kisi yang mempunyai 10^4 garis/cm, garis terang pertama terjadi pada sudut deviasi 30 derajat\u00a0, maka panjang gelombang cahaya yang dipakai adalah \u2026\u2026\u2026\u2026 \u00c5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 n = 10^4 garis/cm<br>\u00a0sin\u00a0\u03b8 = 30 = 0,5<br>Dit\u00a0\u03bb ?<br>jawab.<br>d =\u00a0[tex] \\frac{1}{n} [/tex]<br><br>sehingga diperoleh rumus<br><br>d sin\u00a0\u03b8 = m .\u00a0\u03bb<br><br>\u03bb\u00a0=\u00a0[tex] \\frac{sin 0 }{n.m} [/tex]\u00a0<br><br>\u03bb =\u00a0[tex] \\frac{sin30}{10^4 . 1} [/tex]<br><br>\u03bb =\u00a0[tex] \\frac{0,5}{10^4}  = [/tex] = 5 x 10^-5 garis/cm = <strong>5 .000 \u00c0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578",
+            "question": "benda x berada di depan cermin cekung dengan jari-jari kelengkungan 0,2m. jika bayangan terbentuk pada jarak 0,6m di depan cermin hitung jarak benda x di depan cermin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>PEMBAHASAN</h3><p><em>Marilah kita ingat kembali rumus yang berlaku di cermin sebagai berikut ini:</em></p><p>[tex]\\boxed{\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}}[/tex]</p><p><em>dimana :</em></p><p><em>S = jarak benda ( meter )</em></p><p><em>S&#039; = jarak bayangan ( meter )</em></p><p><em>f = fokus cermin ( meter )</em></p><p>[tex]\\texttt{ }[/tex]</p><p><u>Diketahui:</u></p><p>jarak bayangan = S&#039; = 0,6 m</p><p>jari-jari kelengkungan cermin = R = 0,2 m</p><p>jarak fokus cermin = f = R/2 = 0,2/2 = 0,1 m</p><p><u>Ditanyakan:</u></p><p>jarak benda = S = ?</p><p><u>Penyelesaian:</u></p><p><em>Kita akan mencari jarak benda dengan cara sebagai berikut ini:</em></p><p>[tex]\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{1}{f} - \\frac{1}{S&#039;}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{S&#039; - f}{S&#039; \\times f}[/tex]</p><p>[tex]S = \\frac{S&#039; \\times f}{S&#039; - f}[/tex]</p><p>[tex]S = \\frac{0,6 \\times 0,1}{0,6 - 0,1}[/tex]</p><p>[tex]S = \\frac{0,06}{0,5}[/tex]</p><p>[tex]\\boxed{S = 0,12 \\texttt{ m}}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Kesimpulan :</h3><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut:</h3><p><strong>Lensa Cembung</strong> : https://brainly.co.id/tugas/20987845</p><p><strong>Cermin Cembung</strong> : https://brainly.co.id/tugas/21150959</p><p>[tex]\\texttt{ }[/tex]</p><p>-----------------------------</p><h3>Detil Jawaban:</h3><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : Fisika</p><p><strong>Bab</strong> : Alat-Alat Optik</p><p><strong>Kode</strong> : 11.6.11</p><p>#AyoBelajar</p>",
+                    "attachments": [
+                        "answer-attachments/benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-700-kg-bergerak-dengan-kecepatan-72-kmjam-768",
+            "question": "sebuah mobil bermassa 700 kg bergerak dengan kecepatan 72 km/jam. maka besar momentum mobil tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Massa = 700 kg<br>Kecepatan (V) = 72 km/jam =<u> 72 x 1000 </u>= 20 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03600<br><br>Momentum\u00a0(P) = ?<br><br>P = M x V<br>\u00a0 \u00a0= 700 x 20<br>\u00a0 \u00a0= 14000 kg m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667",
+            "question": "Hitunglah laju aliran volume air dalam pipa yang berjari-jari 5 cm dengan laju 10 cm/det ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Mekanika Fluida<br>Kelas : 2 SMA/XI SMA<br>Pembahasan :<br>Jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667-1.png"
+                    ]
+                },
+                {
+                    "answer": "Dik:<br>r = 5 cm --&gt; 0,05 m<br>v = 10 cm/s --&gt; 0,1 m/s<br>Dit:<br>Q = ...?<br>Jawab:<br>Q = A v<br>= \u03c0r\u00b2 . 0,1<br>= 3,14 (0,05)\u00b2 . 0,1<br>= 0,000785m\u00b3/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuan-nya-ya-1-air-sebanyak-60-gram-bersuhu-90-c-228",
+            "question": "Tolong bantuan nya ya?    1).\u00a0air sebanyak 60 gram bersuhu 90\u00a0\u00b0C( kalor jenis air = 1kal/gr\u00a0\u00b0C ) di campur\u00a040 gr air sejenis\u00a0bersuhu 25\u00a0\u00b0C. jika tidak ada faktor lain yang mempengaruhi proses ini, suhu akhir air campuran adalah.......\u00a0\u00b0C\r\n\r\n2). es massanya 100 gr bersuhu -5\u00b0C kemudian di beri kalor hingga menjadi air dengan suhu 15\u00b0C. ( kalor lebur es = 80 kal.g pangkat -1, kalor jenis es = 0,5 kal/g\u00b0C; kalor jenis air = 1 kal/g\u00b0C dan 1 kalori = 4,2 joule). Berapakah kalor yang diberikan pada es tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1=60g=0,6 kg<br>1)T1=90&#039;C<br>m2=40g=0,4kg<br>T2=25&#039;C=1 kal/gr&#039;C<br>Tc=?<br>Qlepas=Qterima<br>m1*C*(T1-Tc)=m2*C*(Tc-T2)<br>m1*(T1-Tc)=m2*(Tc-T2)<br>60(90-Tc) \u00a0=40(Tc-25)<br>60/40(90-Tc)=Tc-25<br>3/2(90-Tc)=Tc-25<br>135-3/2Tc=Tc-25<br>135+25=Tc+3/2Tc<br>160 \u00a0 \u00a0=5/2Tc<br>Tc \u00a0 \u00a0 \u00a0 =160/5/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =160*2/5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32*2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =64 &#039;C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-pengaruh-panjang-tali-terhadap-periode-gerak-harmonik-p-733",
+            "question": "Bagaimana pengaruh panjang tali terhadap periode gerak harmonik pada ayunan sederhana ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika tali pendek maka periode besar sedangkan jika tali panjang, periode mengecil. (maybe)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-memompa-bola-basket-857",
+            "question": "Bagaimana cara memompa bola basket?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dengan mengisi angin menggunakan pompa, sehingga tekanan udara di dalam bola basket meningkat :) Saat bola di pompa, udara dari ruang hampa yg ada di pompa aja terdorong ketika mendorong tuas (lagi posisi mompa), menuju bola basket :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+            "attachments": []
+        },
+        {
+            "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-4-buah-peti-telur-dengan-harga-rp543200-476",
+            "question": "Seorang pedagang membeli 4 buah peti telur dengan harga Rp543.200,00. Setiap peti memiliki bruto 25 kg dan tara 3 % . Jika pedagang menghendaki untung 25 %, maka harga jual telur per kg nya adalah ..    a. Rp4.200,00\r\nb. Rp5.600,00\r\nc. Rp6.790,00\r\nd. Rp7.000,00",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bruto: 25x4=100kg<br>Tara: 3/100 x 100= 3 kg<br>Neto: 100kg-3 kg = 97 kg.<br>Harga pembelian per kg nya: 543.200 : 97= 5600<br>Untung= 25/100 x 5600= 1400<br>Jadi harga jualnya 5600+1400= Rp 7.000,00<br>Kalau ada yang kurang paham bisa ditanyakan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2x2-x12-dibagi-x-a-sisanya-15-maka-nilai-a-441",
+            "question": "Jika diketahui 2x\u00b2-x+12 dibagi (x-a) sisanya 15, maka nilai a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x + 2a - 1<br>\u00a0 \u00a0 \u00a0 \u00a0____________<br>x-a /2x^2 -\u00a0x + 12<br>\u00a0 \u00a0 \u00a0 2x^2 - 2ax<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 2ax\u00a0- x + 12<br>\u00a0 \u00a0 \u00a0 2ax - 2a^2<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 -\u00a0x + 2a^2 +12<br>\u00a0 \u00a0 \u00a0 - x + a<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a +12 = 15<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 + a +12 - 15 = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a - 3 = 0<br>\u00a0 \u00a0 (2a + 3) (a - 1)<br><br>\u00a0 \u00a0a = -3/2 atau a\u00a0= 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pertumbuhan-penduduk-biasanya-dinyatakan-dalam-persen-misalnya-353",
+            "question": "Pertumbuhan penduduk biasanya dinyatakan dalam persen.    Misalnya, pertumbuhan penduduk adalah 2% per tahun artinya jumlah penduduk\r\n bertambah sebesar 2% dari jumlah penduduk tahun sebelumnya. Pertambahan\r\n penduduk menjadi dua kali setiap 10 tahun. Jumlah penduduk desa pada awalnya\r\n 500 orang, berapakah jumlah penduduknya setelah 70 tahun apabila pertumbuhannya\r\n 2,5%?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = jumlah penduduk mula-mula = 500 jiwa<br>\u00a0 \u00a0 \u00a0 \u00a0 pertumbuhannya = 2,5 %<br>dit = jumlah penduduk akhir pd 70 th = ...\u00a0<br>jwb = (500 jiwa x 2,5 %) x 70 th = 437500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-persamaan-kuadrat-dari-persamaan-kuadrat-4xpangkat2-13x-930",
+            "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

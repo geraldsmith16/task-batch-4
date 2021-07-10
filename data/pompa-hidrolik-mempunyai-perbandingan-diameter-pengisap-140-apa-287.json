@@ -1,0 +1,138 @@
+{
+    "question": "pompa hidrolik mempunyai perbandingan diameter pengisap 1:40. apabila pada pengisap besar dimuati beban 32000N, maka agar seimbang, pada pengisap kecil harus diberi gaya sebesar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>\nBesar gaya yang dibutuhkan pada penampang kecil agar setimbang adalah 20 N</p><h3>Pembahasan \u00a0</h3><p>Pada soal ini dapat diselesaikan dengan konsep fluida statis \u00a0</p><p>Jawaban:\n</p><p>\nUntuk mencari besar gaya yang dibutuhkan pada penampang kecil kita gunakan hubungan tekanan pada bejane berhubungan</p><p>[tex]P_1=P_2\\\\\\frac{F_1}{A_1} =\\frac{F_2}{A_2} \\\\F_1A_2=F_2A_1\\\\F_1d_2^2=F_2d_1^2\\\\F_1*40^2=32000*1^2\\\\F_1=20\\; N[/tex]</p><p>Materi lebih lanjut terkait dengan fluida statis dapat dipelajari pada link berikut ini\n</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Archimedes https://brainly.co.id/tugas/20707089\n</p><p>2.Materi tentang Fluida statis https://brainly.co.id/tugas/5289680\n</p><p>3.Materi tentang Tegangan permukaan https://brainly.co.id/tugas/4439825\n</p><p>4.Materi tentang Fluida tidak bergerak https://brainly.co.id/tugas/20806499\n</p><p>5.Materi tentang fluida statis https://brainly.co.id/tugas/208110482\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 3 - Fluida Statis\n</p><p><strong>Kode</strong>: 11.6.3\n</p><p>\n</p><p><strong>Kata Kunci:</strong> Archimedes, pascal, fluida statis\n</p><p>\n</p><p></p>",
+            "attachments": [
+                "answer-attachments/pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "es-bermassa-m-gram-bersuhu-0c-dimasukkan-ke-dlm-air-massa-340-g-183",
+            "question": "Es bermassa M gram bersuhu 0\u00b0C dimasukkan ke dlm air massa 340 gram suhu 20\u00b0C yang ditempatkan pada bejana khusus. anggap bejana tdk menyerap/melepaskan kalor.    jika L es = 80 kal g\u207b\u00b9 , C air = 1 kal \u00b0C\u207b\u00b9 , semua es mencair dan kesetimbangan termal dicapai pada suhu 5\u00b0C, maka massa es (M) adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:<br>T es =\u00a0<span>0\u00b0C\u00a0<br>m air = 340 gr<br>T air = 2</span><span>0\u00b0C\u00a0<br>L es = 80 kal g^-1<br>c air = 1 kal^-1\u00a0</span><span>\u00b0C^-1<br>T = 5</span><span>\u00b0C\u00a0</span><span><br><br>m es . . .?<br><br>Jawab:<br>m air . C air . (T air - T) = m es . L es + m es . C air (T - T es)<br>340 . 1 . (20 - 5) = m es . 80 + m es (5 - 0)<br>340 . 15 = 80 m es + 5 m es<br>5100 = 85 m es<br>m es = 5100/85<br>\u00a0 \u00a0 \u00a0 \u00a0 = 60 gr</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-reaksi-kimia-dan-reaksi-fisika-yang-nda-tahu-nda-usah-906",
+            "question": "Perbedaan reaksi kimia dan reaksi fisika? Yang nda tahu nda usah pura pura jawab cuma buat dapat poin ya! akan aku laporkan ke moderator loh!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reaksi kimia menghasilkan zat baru, terjadi perubahan bentuk, warna dan bau, contohnya meletusnya kembang api, nasi basi dan kayu yang dibakar.        sedangkan perubahan fisika tidak menghasilkan zat baru, hanya terjadi perubahan wujud/bentuk, contohnya air jadi es, beras dihaluskan jadi tepung.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820",
+            "question": "Dua piringan berjari jari sama memiliki massa masing\u00a0- masing: mA=0,8 kg dan mB=1,6 kg. Pada awalnya kedua piringan berputar dengan kecepatan sudut\u00a0\u03c9A = 32 rpm dan \u03c9B = 8 rpm. Jika kedua piringan digabungkan sepusat maka, Tentukan kecepatan sudutnya setelah digabung?    dibawah ini contoh dan carakerjanya!",
+            "attachments": [
+                "question-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jangan lupa divote terbaik ya!\u00a0",
+                    "attachments": [
+                        "answer-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-saja-yang-digunakan-untuk-membuat-galvanometer-dan-m-432",
+            "question": "jelaskan apa saja yang digunakan untuk membuat galvanometer dan motor listrik. apa yang diperlukan untuk membuat motor listrik , namun tidak diperlukan dalam pembuatan galvanometer ? mengapa alt tersebut diperlukan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan dan alat membuat motor litrik ;\u00a0<br>-kabel tembaga beremail\u00a0<br>- satu buah maget batang<br>-batery pack<br>-styrofoam<br>- kater<br>-spidol<br>-tusuk gigi<br>alasannya ; alt tersebut harus diperlukan agar buatan motor listrik tersebut jadi sempurna apabila tidak lengkap maka hasilnya akan kurang baik.",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada motor listrik butuh batrai sedangkan pada galvanometer tidak membutuhkan batre. karena sumber listrik dari motor listrik dari batre sedangkan  pada galvanometer sumber listrik dari rangkaian listrik yg di pasang pada galvanometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-cahaya-menerangi-celah-ganda-yang-memiliki-jarak-antarcelah-435",
+            "question": "suatu cahaya menerangi celah ganda yang memiliki jarak antarcelah 0,1 cm, sedemikian sehingga terbentuk pola gelap terang pada layar yang berjarak 60 cm. ketika pemisahan antar polaterang adalah 0,048 cm, maka panjang gelombang cahaya yang di gunakan tersebut adalah... \u00a0 a. 200 nm b. 300 nm c. 400 nm d. 600 nm e. 800 nm \u00a0 tolong jawab yg benar ya, nnti lw salah di komplen guru....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>jawaban dan caranya terlampir</span>",
+                    "attachments": [
+                        "answer-attachments/suatu-cahaya-menerangi-celah-ganda-yang-memiliki-jarak-antarcelah-435-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sejumlah-gas-ideal-dalam-tabung-tertutup-dipanaskan-secara-isokho-499",
+            "question": "sejumlah gas ideal dalam tabung tertutup dipanaskan secara isokhorik sehingga suhunya naik menjadi empat kali suhu semula. energi kinetik rata-rata molekul gas ideal menjadi.....(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi kinetik rata-rata molekul gas hanya dipengaruhi suhu mutlak gas. Sehingga dibuat perbandingan:<br>Ek = 3/2 kT<br>Ek2/Ek1 = T2/T1 = 4T/T = 4kali semula<span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875",
+            "question": "Tolong dikasi caranya juga ya , gambar ada dibawah biar lebii j3las :)    Benda pada gambar di bawah ini memiliki berat 100 N digantung dalam keadaan diam . Maka besar tegangan tali T1 dan T2 berturut turut adalah ?\r\n( T1 berada pada kiri dan membentuk sudut 53derajat dan T2 berada pada kanan dan membentuk sudut 37drajat )",
+            "attachments": [
+                "question-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><em><strong>Konsep Dasar </strong></em></p><p>Kesetimbangan merupakan salah satu hal penting dalam kehidupan keseharian. Dalam bidang teknik kontruksi bangunan pada kontruksi gedung, jembatan, atap sebuah stadion, dan struktur bangunan lain sangat bergantung pada kesetimbangan. Begitu pula pada mesin biologis tubuh makhluk hidup, misalnya kesetimbangan pada tulang, otot dan urat. Kesetimbangan yang dimiliki oleh setiap benda atau sistem tersebut sangat erat hubungannya dengan gaya-gaya dan momen-momennya yang bekerja pada benda tersebut.</p><p>Baik benda itu dalam keadaan diam maupun bergerak, keduanya dapat saja bekerja gaya luar baik itu jumlah gayanya satu maupun banyak. Gaya luar tersebut mengakibatkan dua dampak pada benda. </p><p><strong>PERTAMA</strong>, dengan tidak memperhatikan titik tangkap gaya yang bekerja pada benda maka benda akan bergerak translasi atau linier atau lurus.</p><p><strong>KEDUA</strong>, dengan memperhatikan titik tangkap gaya yang bekerja pada benda maka benda akan bergerak rotasi.</p><p>Jadi sebuah benda tegar dikatakan dalam kesetimbangan apabila benda itu tidak mengalami perubahan kecepatan gerak transalasi maupun kecepatan gerak rotasi. Artinya, benda itu tidak mengalami percepatan translasi (a = 0) maupun percepatan sudut (\u03b1 = 0). </p><p>Berdasarkan hukum kedua Newton, baik untuk gerak translasi maupun rotasi, benda tegar berada dalam keadaan kesetimbangan manakala resultan gaya dan resultan momen gaya (torsi) bernilai NOL. Secara matematis dituliskan sebagai berikut :</p><p><strong>\u03a3 F = 0 dan \u03a3 \u03c4 = 0</strong></p><p></p><p>Penting untuk dicatat, benda tegar yang berada dalam keadaan setimbang <strong>TIDAK HARUS DIAM</strong>. Ia boleh bergerak, tetapi dengan kecepatan translasi (V = tetap) dan kecepatan sudut putarnya juga harus TETAP (\u03c9 = tetap), nah keadaan setimbang seperti ini disebut dengan istilah <strong>Kesetimbangan Dinamis</strong>. </p><p></p><p><strong><em>SOAL</em></strong> </p><p>Benda pada gambar di bawah memiliki berat 100 N digantung dalam keadaan diam. Maka besar tegangan tali T1 dan T2 berturut - turut adalah ... </p><p><em><strong>Penyelesaian </strong></em></p><p></p><p><strong>Step 1</strong></p><p>sudut apit antara T1 dan bidang atas adalah 53\u00b0, kita uraikan atau proyeksikan ke arah sumbu x dan sumbu y sehingga menjadi :</p><p>T1x = - T1. cos 53\u00b0 = - T1. 3/5  [tanda negatif artinya arak ke kiri ke sumbu x negatif]</p><p>dan </p><p>T1y = T1. sin 53\u00b0 = T1. 4/5 [tanda positif artinya arah ke atas ke sumbu y positif]</p><p></p><p><strong>Step 2</strong></p><p>sudut apit antara T2 dan bidang atas adalah 37\u00b0, kita uraikan atau proyeksikan ke arah sumbu x dan sumbu y sehingga menjadi :</p><p>T2x =  T2. cos 37\u00b0 =  T2. 4/5  [tanda positif artinya arak ke kanan ke sumbu x positif]</p><p>dan </p><p>T2y = T2. sin 37\u00b0 = T2. 3/5 [tanda positif artinya arah ke atas ke sumbu y positif]</p><p></p><p><strong>Step 3</strong></p><p>Gunakan konsep :</p><p>\u2211 Fx = 0</p><p>T1x + T2x = 0</p><p>- T1. 3/5 + T2. 4/5 = 0</p><p>- 3.T1 + 4.T2 = 0 ....... Pers (1)</p><p></p><p><strong>Step 4</strong></p><p>Gunakan konsep :</p><p>\u2211 Fy = 0</p><p>T1y + T2y - w = 0 .        </p><p>T1. 4/5 + T2. 3/5 - 100 = 0      [semua ruas dikalikan 5]</p><p>4.T1 + 3.T2 - 500 = 0</p><p>4.T1 + 3.T2 = 500 ....... Pers (2)</p><p></p><p><strong>Step 5</strong></p><p>Eliminasi persamaan (1) dan (2)</p><p>- 3.T1 + 4.T2 = 0 .     |x3|  \u2192 - 9.T1 + 12.T2 = 0</p><p> 4.T1 + 3.T2  = 500 . |x4| \u2192   16.T1 + 12.T2 = 2000</p><p>------------------------------------------------------------------------ selesih</p><p>                                       \u2192 - 25.T1 + 0 = - 2000</p><p>                                       \u2192          25.T1 = 2000</p><p>maka T1 = 2000 / 25 = 80 N</p><p></p><p><strong>Step 6</strong></p><p>masukkan T1 = 80 N ke persamaan (1) </p><p>- 3.T1 + 4.T2 = 0</p><p>- 3. 80 + 4.T2 = 0</p><p>- 240 + 4.T2 = 0</p><p>4.T2 = 240</p><p>T2 = 240 / 4</p><p>T2 = 60 N</p><p></p><p><strong>Jadi besar tegangan Tali T1 dan T2 berturut - turut adalah 80 N dan 60 N</strong></p><p>Jawaban : A</p><p></p><p></p><p></p><p><em><strong>CARA ATURAN SINUS</strong></em></p><p>Buat tiga arah panah gaya yang bertitik tangkap ditengah sebagai titik partikelnya, </p><p>T1 / sin A = T2 / sin B = w / sin C</p><p>Dimana :</p><p>* A adalah sudut apit antara garis T2 dan w yaitu A = 90\u00b0 + 37\u00b0 = 127\u00b0</p><p>** B adalah sudut apit antara garis T1 dan w yaitu B = 90\u00b0 + 53\u00b0 = 143\u00b0</p><p>*** C adalah sudut apit antara garis T1 dan T2 yaitu C = 90\u00b0</p><p></p><p><strong>Step 1</strong></p><p>Cari T1 = __?</p><p>T1 / sin A = w / sin C</p><p>T1 / sin 127\u00b0 = 100 / sin 90\u00b0</p><p>T1 / sin 53\u00b0 = 100 / 1</p><p>T1 / (4/5) = 100</p><p>T1 = 100 x (4/5) </p><p><strong>T1 = 80 N</strong></p><p></p><p><strong>Step 2</strong></p><p>Cari T2 = __?</p><p>T2 / sin B = w / sin C</p><p>T2 / sin 143\u00b0 = 100 / sin 90\u00b0</p><p>T2 / sin 37\u00b0 = 100 / 1</p><p>T2 / (3/5) = 100</p><p>T2 = 100 x (3/5) </p><p><strong>T2 = 60 N</strong></p><p></p><p><strong>Jadi besar tegangan Tali T1 dan T2 berturut - turut adalah 80 N dan 60 N</strong></p><p>Jawaban : A</p><p></p><p>__________________________________________________________</p><p>Simak Soal :</p><p><strong>Syarat kesetimbangan benda tegar</strong>, https://brainly.co.id/tugas/3489</p><p>___________________________________________________________</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : FISIKA</strong></p><p><strong>Kategori : Dinamika Rotasi dan Kesetimbangan Benda Tegar</strong></p><p><strong>Kata Kunci : Kesetimbangan, Gaya tegangan Tali</strong></p><p><strong>Kode : 11.6.7 [Kelas 11 SMA FISIKA Bab 7 - Dinamikas Rotasi dan Kesetimbangan Benda Tegar]</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-dengan-konstanta-pegas-5000-nm-dalam-posisi-mendata-298",
+            "question": "sebuah pegas dengan konstanta pegas 5000 N/m dalam posisi mendatar di atas bidang licin. Salah satu ujung pegas ditahan dengan dinding sedangkan ujung lain yang bebas dilempar dengan benda bermassa 500 gram tegak pada penampang pegas. Jika kecepatan benda 10 m/s, berapa cm pegas itu akan tertekan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui :<br>K=5000\u00a0 N/m<br>m=500 g = 0.5 kg<br>grafitasi = 10 m/s<br>f = m.grafitasi<br>\u00a0 = 0.5 \u00d7 10<br>\u00a0 = 5 N<br><br>\u0394L = f<strong> / </strong>K<br>\u00a0\u00a0 \u00a0 =5 <strong>/</strong> 5000<br>\u00a0\u00a0 \u00a0 =<u>0,001</u> m<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

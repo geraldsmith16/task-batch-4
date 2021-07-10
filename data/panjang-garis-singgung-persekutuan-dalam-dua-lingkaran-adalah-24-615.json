@@ -1,0 +1,164 @@
+{
+    "question": "Panjang garis singgung persekutuan dalam dua lingkaran adalah 24 cm dan jarak kedua pusatnya adalah 26 cm. Jika panjang salah satu jari-jari lingkaran 6 cm. Hitunglah panjang jari-jari yang lain",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>Kelas : VIII</strong><br><strong>Pelajaran : Matematika</strong><br><strong>Kategori : Lingkaran - Garis Singgung Persekutuan Dalam (GSPD)</strong><br><strong>Kata Kunci : lingkaran, GSPD, garis singgung persekutuan dalam</strong><br><strong></strong><br>Diketahui<br>Panjang GSPD = 24 cm<br>Jarak antar pusat = 26 cm<br>Panjang jari-jari salah satu lingkaran R =\u00a06 cm<br><br>Ditanya<br>Panjang jari-jari yang lain\u00a0(r)<br><br>Penyelesaian<br><br>Perhatikan gambar terlampir. <br>Garis singgung persekutuan dalam AB digeser menjadi PN.<br>AB\u00a0sejajar PN.<br>Jarak antar pusat adalah MN.<br><br>Misalkan,<br>jarak antar pusat = p, sebagai sisi miring<br>GSPD = d, dan total jari-jari (R + r), keduanya saling berpenyiku<br><br>Secara dalil Phytagoras, p\u00b2 = d\u00b2 + (R + r)\u00b2<br><br>Biasanya sering ditulis, d\u00b2 = p\u00b2 - (R + r)\u00b2<br><br>(R + r)\u00b2 = p\u00b2 - d\u00b2<br><br>(6 + r)\u00b2 = 26\u00b2 - 24\u00b2<br><br>Di sini kita coba mengingat salah satu tripel phytagoras yakni 5-12-13 yang menjadi 10-24-26<br><br>(6 + r)\u00b2 = 10\u00b2<br><br>6 + r = 10<br><br>r = 10 - 6<br><br><strong>Diperoleh panjang jari-jari yang lain sebesar r = 4 cm</strong><br><strong></strong><br><br>",
+            "attachments": [
+                "answer-attachments/panjang-garis-singgung-persekutuan-dalam-dua-lingkaran-adalah-24-615-1.jpeg"
+            ]
+        },
+        {
+            "answer": "Kelas : VIII<br>Mapel : Matematika <br>Bab : Persekutuan Lingkaran <br><br>Dik : <br>d=24 cm <br>p=26 cm <br>R=6 cm <br>Dit : <br>r=....?<br><br>Peny : <br>d=\u221ap\u00b2-(R+r)\u00b2<br>24\u00b2=(\u221a26\u00b2-(6+r)\u00b2)\u00b2<br>576=676-(6+r)\u00b2<br>-100=-(6+r)\u00b2<br>10\u00b2=(6+r)\u00b2<br>10=6+r<br>r=<strong>4 cm \u2192 Jawab</strong><br><br>Semoga Membantu<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-lingkaran-dengan-pusat-o-sudut-cob45derajat-dan-diame-312",
+            "question": "Diketahui lingkaran dengan pusat O, sudut cob:45derajat dan diameter 42 cm dgn phi:22/7,hitunglah= a.keliling lingkaran b.panjang busur ab c.luas lingkaran d.luas jaring aob",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K=phi*D=22/7*42=132. b. panjang busur=45/360*132=1/8*132=132/8 cm. c. L=phi*r^2=22/7*21*21=22*3*21=1386. d.luas juring=1/8*1386=1386/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "a keliling lingkara: 2\u00d7\u03c0\u00d7r = 2\u00d722/7\u00d721=132 cm<br>b.panjang busur=\u03b1/360 derajat\u00a0\u00d7 kll lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 45/360\u00d7132<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/8\u00a0\u00d7 132 =16,5<br>c.luas juring =\u00a0\u03b1/360\u00a0\u00d7\u00a0\u03c0.r.r=45/360\u00d722/7.21.21=1/8.1386=173.25 cm\u00b2<br><br>semoga bermanfaat :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ciri-persamaan-linear-dengan-satu-variabel-769",
+            "question": "Ciri persamaan linear dengan satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ciri-ciri Persamaan Linear Satu Variabel adalah sebagai berikut :<br>1. Mempunyai satu variabel.<br>2. Variabel berpangkat satu.<br>3. Dihubungkan dengan relasi sama dengan (=).",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut aku sih<br>\u00a01.mempunyai 1 variabel<br>\u00a02. variabel berpangkatnya yaitu satu<br>\u00a03.dan mempunyai relasi berpangkat yaitu (=) klo &lt;,&gt;,lebih dari sama dengan dan kurang dari sama dengan itu perbedaan\u00a0linear satu variabel.<br>\u00a0mudh mudh bermanfaat\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-dari-x33-2x-32-23-568",
+            "question": "Penyelesaian dari x+3/3 - 2x-3/2\u00a0\u2264 2/3\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=x+1-2x-3/2<br>=x-2x+1-3/2<br>=-x + 2/2-3/2<br>=-x - 1/2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x-2x\u00a0\u2264 2/3 - 3/3 + 3/2<br>-x \u00a0 \u00a0\u00a0\u2264 -1/3 + 3/2<br>-x \u00a0 \u00a0 \u2264 -5/6<br>x \u00a0 \u00a0 \u00a0\u2264 5/6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kolam-berbentuk-lingkaran-dengan-diameter-105-m-hitungla-375",
+            "question": "sebuah kolam berbentuk lingkaran dengan diameter 10.5 m. hitunglah panjang pagar kawat sekeliling kolam tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling= D x \u03c0<br>= 10,5 x 3,14<br>= 32,97 m <br><br>jadikn jwbn terbaik ya :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang pagar kawat sekeliling kolam tersebut = keliling lingkaran\njari2 lingkaran=10,5/2\n                         = 5,25\nkeliling lingkarang= 2x3,14x5,25\n                                =32,97 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-3-contoh-perbandingan-senilai-dan-3-contoh-perbandingan-b-703",
+            "question": "Berikan 3 contoh perbandingan senilai dan 3 contoh perbandingan berbalik nilai yang kreatif. tolongin ya, please...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>1. PERBANDINGAN SENILAI \u00a0</h3><p>Perbandingan senilai adalah perbandingan dari dua nilai atau lebih dari suatu besaran yang sejenis yang memiliki nilai atau harga yang sama. Ciri ciri perbandingan senilai yaitu : Jika nilai satu komponen naik / bertambah maka jumlah komponen lain akan ikut bertambah pula.</p><p><u>Contoh Kejadian Perbandingan senilai : \u00a0</u></p><ul><li>Perbandingan antara jumlah tabungan dan waktu penyimpanan \u00a0</li><li>Perbandingan antara jumlah barang dan harga barang \u00a0</li><li>Perbandingan antara jumlah pekerja dan upah pembayaran yang dikeluarkan</li><li>Perbandingan antara jarak tempuh kendaraan dan waktu tempuh\n</li><li>Perbandingan antara jumlah makanan dan jumlah orang yang menghabiskan\n.</li></ul><p></p><p><em><u><strong>Contoh Soal</strong></u></em></p><p>Persediaan beras pada keluarga pak iwan adalah 40 kg, ternyata beras tersebut cukup untuk makan selama 24 hari. Kemudian ayah membeli beras lagi sebanyak maka 60 kg. \u00a0Maka beras tersebut cukup untuk </p><p>Jawab :</p><p>Hitung banyaknya pekerja dengan menggunakan perbandingan senilai dengan cara :\n</p><p>X\u2081 / X\u2082 = Y\u2081 / Y\u2082\n</p><p>\n40 kg / 60 kg = 24 hari / Y\u2082\n</p><p>40Y\u2082 = 60 \u00d7 24 hari\n</p><p>40Y\u2082 = 1.440 hari\n</p><p> \u00a0 \u00a0Y\u2082 = 1.440 hari/ 40\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = 36 hari</p><p></p><h3>2. PERBANDINGAN BERBALIK NILAI \u00a0</h3><p>Perbandingan berbalik nilai menyatakan perbandingan dua nilai dari suatu besaran yang sejenis. Ciri perbandingan berbalik nilai yaitu Jika semakin banyak nilai suatu komponen maka komponen yang lain akan semakin turun. </p><p><u>Contoh Kejadian Perbandingan Berbalik Nilai : \u00a0</u></p><ul><li>Perbandingan antara jumlah pekerja dan waktu penyelesaian \u00a0</li><li>Perbandingan antara jumlah hewan dan waktu penghabisan makanannya</li><li>Perbandingan antara kecepatan sebuah mobil dengan waktu tempuh\n.</li></ul><p></p><p><em><u><strong>Contoh Soal </strong></u></em></p><p>Pekerja dapat menyelesaikan pekerjaan dalam waktu 20 bulan dengan 10 pekerja. jika ia ingin menyelesaikan pekerjaan itu dalam 5 bulan jumlah pekerja yang perlu ditambah adalah sebanyak 30 pekerja.</p><p>Jawab :</p><p><strong>LANGKAH PERTAMA (I)</strong></p><p>Hitung banyaknya pekerja dengan menggunakan perbandingan berbalik nilai dengan cara sebagai berikut :</p><p>X\u2081 / X\u2082 = Y\u2082 / Y\u2081</p><p>20 bulan / 5 bulan = Y\u2082 / 10 pekerja</p><p>5Y\u2082 = 20 \u00d7 10 pekerja</p><p>5Y\u2082 = 200 \u00a0pekerja</p><p>\u00a0Y\u2082 = 200 pekerja/ 5</p><p>\u00a0Y\u2082 = 40 pekerja</p><p><strong>LANGKAH KEDUA (II)</strong></p><p>Hitung banyaknya tambahan pekerja dengan menggunakan cara sebagai berikut :</p><p>Tambahan pekerja = Jumlah pekerja akhir - Jumlah pekerja awal</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 40 pekerja - 10 pekerja</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 30 pekerja</p><h2>Pelajari Lebih Lanjut : \u00a0</h2><p>Materi tentang contoh soal perbandingan berbalik nilai https://brainly.co.id/tugas/21247221 \u00a0</p><p>Materi tentang contoh soal perbandingan berbalik nilai https://brainly.co.id/tugas/21238951 \u00a0</p><p>Materi tentang contoh soal perbandingan berbalik nilai https://brainly.co.id/tugas/21113216 \u00a0</p><p>Materi tentang contoh soal perbandingan senilai https://brainly.co.id/tugas/21177439 \u00a0</p><p>Materi tentang contoh soal perbandingan senilai brainly.co.id/tugas/20964335 \u00a0</p><h3>-------------------------------------------------\n</h3><h2>Detail Jawaban : \u00a0</h2><p>Kelas : 6 \u00a0</p><p>Mapel : Matematika \u00a0</p><p>Bab : 9 \u00a0</p><p>Kode : 6.2.9 \u00a0</p>",
+                    "attachments": [
+                        "answer-attachments/berikan-3-contoh-perbandingan-senilai-dan-3-contoh-perbandingan-b-703-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [
+                "question-attachments/pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Sebuah segitiga, mempunyai total besar sudut sebanyak 180.<br>\u00a0Panjang PQ dan QR adalah SAMA.<br>Berarti sudut P dan sudut Q adalah SAMA.<br>\u00a0Maka, 180 - 112 = 68 drajat<br>68 : 2 = 34 derajat.<br>\u00a0Jadi, masing masing sudut P dan Q adalah 34 derajat.<br><br>*Pembuktian = 34 + 34 + 112 = 180",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-dibantu-sebuah-atap-rumah-yang-berbentuk-limas-mempunyai-al-667",
+            "question": "Mohon dibantu    sebuah atap rumah yang berbentuk limas mempunyai alas berbentuk persegi dengan panjang sisi 8 m dan tinggi 3 m. atap tersebut akan ditutupi genteng berukuran 40 cm x 20 cm. banyak genteng yang diperlukan adalah ....\r\nA. 2.000 buah\r\nB. 1.600 buah\r\nC. 1.000 buah\r\nD. 800 buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=8m<br>t=3m<br>T.limas=akar3kuadrat+4kuadrat<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar25=5m<br>luas permukaan atap =4*luas segitiga<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =4*1/2*8*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=4*4*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =80m persegi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=800.000cmpersegi<br>banyak genteng yg diperlukan=<br>=seluruh\u00a0luas atap genteng(4luas segitiga)/luas genteng<br>=800.000/40*20<br>=800.000/800<br>=1000<br>jadi jumlah genteng yg dibutuhkan 1000 buah\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang bagian miring<br>=\u00a0[tex] \\sqrt{4^2 + 3^2}[/tex]<br>= 5 m<br>luas bagian atas<br>= 4\u00a0* 1/2 * 5 * 8<br>= 80 m^2<br>luas genteng<br>= 40 * 20<br>=800 cm^2<br>=0,08 m^2<br>total genteng yangdiperlukan<br>= 80 : 0,08<br>= 1000 buah genteng",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-asli-adalah-123hasil-perkalian-bilangan-pal-281",
+            "question": "Jumlah tiga bilangan asli adalah 123.hasil perkalian bilangan paling sedikit dengan bilsngan paling banyak adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=40<br>a+1=41<br>a+2=42<br><br>[tex]40.42=1680[/tex]<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab: <br>123 : 3 = 41<br><br>bilangan tengahnya adalah 41, berarti urutan bilangan dari kecil - besar = 40,41,42<br><br>Hasil kali bilangan kecil &amp; besar = 40 x 42<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1680<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban diatas, silahkan ditanyakan ^_^,,,\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-adalah-variabel-pada-bilangan-cacah-kurang-dari-10-tentika-404",
+            "question": "Jika x adalah variabel pada bilangan cacah kurang dari 10 tentikan himpuan penyelesaian dari pertidaksamaan berikut    a. \u00a09-x&gt;x+5\r\nb.2{x-1}+3&gt;7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menurut saya jawabanya a.9-x&gt;x+5<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 9-x &gt;\u00a0x+5<br>\u00a0 \u00a0 9-5\u00a0&gt;\u00a02x<br>\u00a0 \u00a0 \u00a0 4 \u00a0&gt; \u00a02x<br>\u00a0 \u00a0 \u00a0 2 \u00a0&gt; \u00a0 x<br>b. 2{x-1}+3&gt;7<br>\u00a0 \u00a0 2x-2+3\u00a0&gt;\u00a07 = 2x-2+2+3-3 &gt; 7+2-3<br>\u00a0 \u00a0 2x &gt; 6<br>\u00a0 \u00a0 \u00a0x &gt; 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-banyaknya-bilangan-yang-menyusun-deret-579-yang-j-679",
+            "question": "Berapakah banyaknya bilangan yang menyusun deret 5+7+9+... yang jumlahnya 192 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5+7+9+11+13+15+17+19+21+23+25+27 = 192<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 5\u00a0 <br>b = 2<br><br>Sn = n/2 (2a+(n-1)b)<br>192 = n/2 (2x5 + (n-1) 2)<br>192 = n/2 (10+2n-2)<br>384 = n (10+2n-2)<br>384 = 2n^2+10n-2n<br>384 = 2n^2+8n<br>maka n = 12<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

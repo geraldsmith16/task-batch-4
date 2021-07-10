@@ -1,0 +1,136 @@
+{
+    "question": "Gaya listrik yang dialami q dari titik A adalah 12 N. Jika muatan q digeser mendekati titik A sejauh 5mm, ma gaya listrik yang dialamai muatan q adalah .... ()",
+    "attachments": [
+        "question-attachments/gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "Gunakan perbandingan antar variabel\u00a0<br>[tex]F = k \\frac{qq&#039;}{r^2} = F \\alpha \\frac{1}{r^2}\n\n\n[/tex]<br><br>Artinya besar gaya listrik berbanding terbalik dengan kuadrat jarak\u00a0<br><br>Berdasar gambar di atas jarak nya 10 mm, digeser mendekati titik A sejauh 5 mm, artinya jarak menjadi 1/2 lebih dekat yang berakibat listrik menjadi 4 kali semua yaitu 12 x 4 = 48 N",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "logam-p-mempunyai-luas-1-m2-dengan-suhu-sebesar-27-derajat-celc-925",
+            "question": "Logam P mempunyai luas 1 m\u00b2 dengan suhu sebesar\u00a027 derajat celcius. Pak Rudi membakar logam tersebut didalam tungku hingga suhunya menjadi 423K. Jika\u00a0\u03b1 bernilai 1,8 x 10\u207b\u2075/derajat celcius, luas logam setelah mencapai suhu 423K adalah ... m\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ao=1 mpersegi<br>detaT=150-27=123&#039;C<br>423,k=150&#039;C<br>alfha=1,8*10pngkt-5<br>At=?<br>betha=2*alfaha<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=2*1,8*10pngkt-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3,6*pngkt-5<br>At=Ao(1+betha*deltaT)<br>\u00a0 \u00a0=1(1+0,000036*150)<br>\u00a0 \u00a0=1(1+0,0054)<br>\u00a0 \u00a0=1(1,0054)<br>\u00a0 \u00a0=1,0054 m\u00a0persegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-memiliki-konstanta-pegas-sebesar-400-nm1jika-pa-642",
+            "question": "Sebuah pegas memiliki konstanta pegas sebesar 400 Nm\u207b\u00b9.Jika pada    pegas digantungkan sebuah beban dengan massa 2kg , hitunglah pertambahan\r\n panjang pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=k.\u0394x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F=gaya, k=konstanta pegas,\u00a0\u0394x=pertambahan panjang<br>F=m.g<br><br>m.g=k.\u0394x<br>2.10=400.\u00a0\u0394x<br>20=400.\u0394x<br>\u0394x=20/400<br>\u0394x=1/20 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-massa-800-kg-menabrak-pohon-yang-ada-dipinggi-192",
+            "question": "sebuah mobil dengan massa 800 kg menabrak pohon yang ada dipinggir jalan dengan kecepatan 72 km/jam hingga berhenti. hitung besarnya impuls yang terjadi !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Impuls = perubahan momentum<br>I = perubahan (m.v)<br>I = m2v2 - m1v1<br>I = 800 x 0 - 800 x 20<br>I = 0 - 16.000<br>I = -16.000\u00a0Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "Besarnya impuls yang terjadi adalah -16000 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-fokus-sebuah-cermin-cekung-8-cm-tentukan-letak-perb-163",
+            "question": "1. \u00a0 \u00a0jarak fokus sebuah cermin cekung 8 cm tentukan letak perbesaran dan jarak \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bayangan jika jarak benda sejauh 2o cm. \u00a0 2. \u00a0 sebuah benda terletak 30 cm di depan cermin dengan jarak fokus 15 cm. tentukan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a. jarak bayangan \u00a0 \u00a0 \u00a0 \u00a0b. perbesaran bayangan \u00a0 \u00a0 \u00a0 \u00a0c. sifat sifat bayangan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk nomor 1 aja ya<br>1/8 = 1/20 + 1/s&#039;<br>1/s&#039; = 1/8 - 1/20<br>1/s&#039; = 5/40 - 2/40<br>s&#039; = 40/3 = <strong><em>13,3 cm</em></strong> <u>(pembuktiannya titik fokus berada di 8cm maka titik M berada di 16 cm sehingga benda berada di ruang 3, untuk cermin cekung titik O-F itu ruang 1, F-M ruang 2, M kebelakang ruang 3, dibelakang cermin ruang 4, rumus untuk letak benda dan perbesaran secara sederhana adalah ruang benda + ruang bayangan = 5, tadi benda ada di ruang 3, maka 3 + x = 5, maka x = 2, terbukti bahwa bayangan berada di ruang 2 karena jaraknya 13,3 cm)</u><br>Perbesaran s&#039;/s = 13,3/8 = <em><strong>1,6x</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-kereta-api-dari-ke-keadaan-diam-bergerak-dari-sebuah-s-603",
+            "question": "\u00a01.sebuah kereta api dari ke keadaan diam bergerak dari sebuah stasiun dan selama dari 10 s percepatanya 4m/s2.lalu kereta itu bergerak dg kecepatan konstan selama 30sekon. lalu di perlambat dengan\u00a0 8m/s.sampai berhenti di stasiun berikutnya .berapa jarak total yang di tempuhnya ? \u00a0 2. seorang penerjun berlari dg kecepatan 1,6m/s lalu terjun horizontal dari tebing vertikal dan mencapai air di bawah 3 sekon,berapa tinggi tebing dan seberapa jauh kaki tebih penerjun menyentuh air? \u00a0 3.sebuah peluru di tembakan gengan kecepatan awal 75 m/s dan sudut 30 di atas horizontal pada tempat latihan yang panjang, a,berapa tinggi maksimum yang di capai peluru b. waktu total di udara c. jarak horizontal total yang di tempuh d.kecepatan peluru 1,5 sekon setelah penembakan \u00a0 4.sebuah mobil yg masanya 1 ton meluncur dengan kecepatan tetap 54 m/jam.suatu saat mobil di rem dengn gaya 300 n gerak mobil selama di rem di anggap gerak lurus berubah beraturan,setelah beberapa sekon dan di mana mobil berhenti? \u00a0 5.sebuah benda di gantung pada sebuah kawat yang dapat memikul beban maksimum sebesar 15000 N.jika percepatan gravitasi 10m/s dan massa bendanya 1200 kg,berapa harga maksimum percepatan ke atas yang di berikan pada benda itu ? \u00a0  \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. vo=0, a1= 4m/s\u00b2, t1= 10s,\u00a0 t2= 30 s, -a2=8m/s\u00b2<br>S1= vo.t + 1/2 a. t\u00b2<br>\u00a0\u00a0 = 0 + 1/2. 4. 10\u00b2<br>\u00a0\u00a0 = 200 m<br>V=a.t<br>\u00a0 = 4. 10<br>\u00a0 = 40 m/s<br>S2= v. t2<br>\u00a0\u00a0 = 40. 30<br>\u00a0\u00a0 = 1200 m<br>t3= V/a<br>\u00a0\u00a0 = 40/ 8<br>\u00a0\u00a0 = 5 s<br>S3= V.t - 1/2 a. t\u00b2<br>\u00a0\u00a0\u00a0 = 40. 5 s - 1/2. 8. 5\u00b2<br>\u00a0\u00a0 \u00a0 = 200 - 100<br>\u00a0\u00a0 \u00a0 = 100 m<br>S total = s1 + s2 + s3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 + 1200 + 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1500 m= 1.5 km<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tingkat-intensitas-sebuah-pesawat-jet-pada-jarak-30-m-adalah-1-708",
+            "question": "1. Tingkat intensitas sebuah pesawat jet pada jarak 30 m adalah 140 1.\u00a0Tingkat\r\n intensitas sebuah pesawat jet pada jarak 30 m adalah 140 dB. Berapakah tingkat\r\n intensitasnya pada jarak 300 m?\r\n2.\u00a0Cepat rambat gelombang\r\n seismik pada pada lapisan batuan tertentu adalah2000 m/s. Untuk mengetahui ketebalan lapisan tersebut dinamit diledakkan di\r\n suatu titik di bagian atas lapisan tersebut kemudian sinyal pantul ditangkap di\r\n titik yang lain. Jika jarak antara titik peledakan dan titik tempat sinyal\r\n ditangkap adalah 400 m dan selangwaktu antara peledakan dinamit dan penangkapan\r\n sinyal adalah 0,25 s, tentukan ketebalan lapisan batuan tersebut.\r\n3.\u00a0Sebuah\r\n mobil polisi membunyikan sirene dengan frekuensi fO. Kelajuan\r\n bunyi di udara diam adalah vo, sehingga panjang\r\n gelombangnya jika tidak ada gerak adalah \u03bbo. Jika mobil polisi\r\n tersebut diam sedangkan pengamat bergerak terhadap pengamat besaran apa saja\r\n yang berubah dan apa yang tetap? Jelaskan! Jika mobil polisi yang bergerak\r\n terhadap pengamat sedangkan pengamat diam, besaran apa saja yang berubah dan\r\n apa saja yang tetap? Jelaskan!\r\n4.\u00a0Jika\r\n dia mengayuh papan selancarnya sehingga bergerak dengan kecepatan 2 m/s searah\r\n dengan gelombang laut dia merasakan gelombang laut melaluinya setiap\r\n\r\n12 sekon. Tentukan frekuensi, panjang gelombang dan\r\n kecepatan gelombang laut tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nomer 1 keanya 120 dB<br>TIb = TIa + 10 log n ( r1/r2 )^2<br>TIb = 140 + 10 log ( 30/300 )^2<br>TIb = 140 + 10 (-2)<br>TIb = 120 dB<br><br>kalo nomer 4 keanya <br>untuk melakukan 1 gelombang dibutuhkan waktu 12s<br>berarti f = 1/12 = 0,083<br>panjang gelombang berarti 2m/s . 12 = 24 m<br>v = lamda . f = 24 . 0,083 = 1,992 m/s <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613",
+            "question": "Berat benda saat ditimbang di udara adalah 30 N. Jika ditimbang didalam    air beratnya menjadi 22,5 N, dan jika ditimbang dalam suatu cairan lain \r\n beratnya menjadi 11,25 N. Tentukan massa jenis cairan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi ; fluida <br>Kata kunci : massa jenis cairan<br><br>Pembahasan : perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

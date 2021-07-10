@@ -1,0 +1,138 @@
+{
+    "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233",
+            "question": "tentukan letak titik berat sebuah kawat yang berupa busur lingkaran dari titik pusat kelengkungannya jika diketahui sudut busur tersebut 60 derajat dan jari jarinya R.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XI</strong><br><strong>Pelajaran \u00a0 \u00a0: Fisika</strong><br><strong>Kategori \u00a0 \u00a0 \u00a0: Titik Berat</strong><br><strong>Kata Kunci \u00a0: kawat, busur, letak titik berat</strong><br><br><em>Pembahasan pada gambar terlampir\u00a0</em><br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593",
+            "question": "batang AB homogen panjang 12m berat 200 N bersandar pada dinding vertikal yg licin di B &amp; bertumpu pada lantai horizontal di A yg kasar. Batang AB membentuk sudut 60' dg bidang horizontal. Jika batang tepat akan menggeser maka besar koefisien di A adl... tolongin ya pake crnya jg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><u>Kesetimbangan Benda Tegar</u></h2><h3>UAN 2003</h3><p>Jawaban berupa Lampiran</p><p>Kelas : XI</p><p>Bab Dinamika Rotasi dan Keseimbangan Benda Tegar</p><br>",
+                    "attachments": [
+                        "answer-attachments/batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-memiliki-konstanta-pegas-sebesar-400-nm1jika-pa-642",
+            "question": "Sebuah pegas memiliki konstanta pegas sebesar 400 Nm\u207b\u00b9.Jika pada    pegas digantungkan sebuah beban dengan massa 2kg , hitunglah pertambahan\r\n panjang pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=k.\u0394x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F=gaya, k=konstanta pegas,\u00a0\u0394x=pertambahan panjang<br>F=m.g<br><br>m.g=k.\u0394x<br>2.10=400.\u00a0\u0394x<br>20=400.\u0394x<br>\u0394x=20/400<br>\u0394x=1/20 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920",
+            "question": "berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><br><h2>GAYA PADA FLUIDA STATIS</h2><p><u><strong>HUKUM ARCHIMEDES</strong></u></p><p>Menurut Archimedes, benda yang dicelupkan sebagian atau seluruhnya ke dalam fluida, akan mengalami gaya ke atas.</p><p>Besar gaya ke atas tersebut sama dengan berat fluida yang dipindahkan oleh benda.</p><p>Secara matematis dituliskan sebagai :</p><h2>Fa = \u03c1. g . Vtc</h2><br><p>Dimana :</p><p>Fa = gaya Archimedes apung ke atas (N)</p><p>\u03c1 = massa jenis fluida (kg/m\u00b3)</p><p>g = percepatan gravitasi bumi (m/s\u00b2)</p><p>Vtc = Volume benda tercelup di fluida (m\u00b3)</p><br><h2>TIGA KEMUNGKINAN BENDA DI DALAM FLUIDA</h2><h2>1. TERAPUNG</h2><p><strong><em>Benda-benda akan terapung</em></strong> di atas permukaan fluida, jika massa jenis benda <em><strong>lebih kecil</strong></em> dibandingkan massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p>\u21d2 <strong>\u03c1 benda &lt; \u03c1 fluida </strong>dan </p><p>\u21d2 <strong>w = Fa </strong></p><p><strong>m.g = \u03c1. g. Vtc</strong></p><p><strong>(\u03c1b.Vb).g = \u03c1. g. Vtc</strong></p><p><strong>\u03c1b.Vb = \u03c1. Vtc</strong></p><p>maka :</p><p><strong>Vtc = (\u03c1b/\u03c1).Vb</strong></p><p>Dimana :</p><p>Vtc = Volume benda tercelup</p><p>\u03c1b = massa jenis benda</p><p>\u03c1 = massa jenis fluida</p><p>Vb = Volume benda</p><br><h2>2. MELAYANG</h2><p><strong><em>Benda-benda akan melayang</em></strong> di dalam fluida, jika massa jenis benda <em><strong>sama dengan</strong></em> massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p><strong> \u21d2 \u03c1 benda = \u03c1 fluida</strong></p><p>dan </p><p>\u21d2 <strong>w = Fa</strong></p><br><h2>3. TENGGELAM</h2><p><strong><em>Benda-benda akan tenggelam</em></strong> di dalam fluida, jika massa jenis benda <em><strong>lebih besar </strong></em>daripada massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda lebih kecil atau lebih ringan dari pada berat benda di udara. Nah selisih berat benda di <em><strong>udara (Berat Real)</strong></em> ini dengan berat benda di <em><strong>fluida (berat semu) </strong></em>ini sama dengan gaya Archimedesnya, sehingga berlaku persamaan :</p><p><strong>\u21d2 \u03c1 benda &gt; \u03c1 fluida</strong></p><p>dan</p><p><strong>\u21d2 W udara - W fluida = Fa</strong></p><p>dan akhirnya diperoleh rumus :</p><h2><strong>W fluida = [1 - (\u03c1/\u03c1b)].W udara </strong></h2><p>dimana :</p><p>W fluida = berat benda di fluida</p><p>W udara = berat benda di udara</p><p>\u03c1 = massa jenis fluida</p><p>\u03c1b = massa jenis benda</p><br><p>Nah setelah memahami konsep di atas mari kita kerjakan soal berikut ini :</p><br><h2>SOAL</h2><p><em>Berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..</em></p><p><u><strong>PENYELESAIAN</strong></u></p><p><strong>Diketahui :</strong></p><p>berat benda di udara, W udara = 40 N</p><p>berat benda di fluida, W air = 36 N</p><p>massa jenis air, \u03c1 = 1 gr/cm\u00b3 = 1000 kg/m\u00b3</p><p><strong>Tanya :</strong></p><p>massa jenis benda, \u03c1b = __?</p><p><strong>Jawab :</strong></p><p><strong><u>Step 1</u></strong></p><p> Cari dulu gaya Archimedes, Fa = __?</p><p>Gunakan rumus : </p><p>Fa = W udara - W air</p><p>Fa = 40 - 36</p><p>Fa = 4 N</p><br><p><u><strong>Step 2</strong></u></p><p>cari massa benda di udara, m = __?</p><p>Gunakan rumus :</p><p>W udara = m.g</p><p>40 = m. 10</p><p>m = 4 kg</p><br><p><strong><u>Step 3</u></strong></p><p>Cari Volume benda, Vb = __?</p><p>Gunakan rumus :</p><p>Fa = \u03c1.g.Vb</p><p>4 = 1000. 10. Vb</p><p>Vb = 4 x 10\u207b\u2074 m\u00b3</p><br><p><u><strong>Step 4</strong></u></p><p>cari massa jenis benda, \u03c1b = __?</p><p>Gunakan rumus :</p><p>\u03c1b = m/Vb</p><p>\u03c1b = 4 / (4 x 10\u207b\u2074)</p><p>\u03c1b = 10\u2074 </p><p>\u03c1b = 10000 kg/m\u00b3</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>RUMUS TRIK</h2><p><strong>W air = [1 - (\u03c1/\u03c1b)].W udara </strong></p><p>36 = [1 - (1/\u03c1b)].40</p><p>36 / 40 = [1 - (1/\u03c1b)]</p><p>0,9 = 1 - (1/\u03c1b)</p><p>(1/\u03c1b) = 1 - 0,9</p><p>(1/\u03c1b) = 0,1</p><p>\u03c1b = 1/0,1</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>KESIMPULAN</h2><p><strong>Jadi besar massa jenis benda tersebut adalah 10 gram/cm\u00b3</strong></p><br><p>==========================================================</p><p>Simak soal tentang :</p><p>* <strong>Menghitung massa jenis benda dengan tabung gelas ukur</strong></p><p>https://brainly.co.id/tugas/15297318</p><p><strong>** Cara konversi satuan massa jenis dari gr/cm\u00b3 ke Kg/m\u00b3</strong></p><p>https://brainly.co.id/tugas/3028917</p><p>==========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : Fisika</strong></p><p><strong>Kategori : Fluida Statis</strong></p><p><strong>Kata Kunci : berat benda di udara, berat benda di air, massa jenis benda, \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>fluida statis, gaya archimedes ke atas</strong></p><p><strong>Kode : 11.6.3 [Kelas 11 SMA Fisika Bab 3 - Fluida Statis]</strong></p>",
+                    "attachments": [
+                        "answer-attachments/berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebab-sebab-hilangnya-sifat-kemagnetan-417",
+            "question": "Sebab-sebab hilangnya sifat kemagnetan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dipanaskan, di dekatkan kedua kutub yang sama misalnya utara dengan utara, dipukul pukul, dialiri arus listrik bolak balik, <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suhu magnet terlmpau tinggi,bentiran dengan benda lain, domainnya menjadi acak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permukaan-air-p-air-1-gcm3-di-dalam-pipa-kapiler-berdiameter-802",
+            "question": "permukaan air (p. air= 1 g/cm3) di dalam pipa kapiler berdiameter dalam 1 mm adalah 4 cm di atas permukaan air di luar pipa itu. jika sudut kontak air dalam pipa kapiler 60derajat, besar tegangan permukaan air adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Rumus<br>y =2.\u03b3.cos \u03b8\u00a0/\u03c1.g.r,\u00a0<br>Tegangan permukaan :\u00a0<br>\u03b3= y.\u03c1.g.r/2. cos\u03b8\u00a0<br>= 0,04 x 1000 x 10 x 5 x\u00a0[tex] 10^{-4} [/tex]/ 2 x cos 60 ( r = 5 x\u00a0[tex] 10^{4} [/tex]\u00a0m)\u00a0<br>= 0,2\u00a0/1\u00a0<br>= 0,2 N/m</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya 2cm di bawah bidang batas minyak-air, seperti pada gambar. Ketinggian kolom minyak dan air masing - masing adalah 10cm. Massa jenis minyak adalah 0,8 g/cm^3. Tekanan hidrostatis yang bekerja pada sisi paling bawah balok adalah..    A. 800 Pa\r\nB. 840 Pa\r\nC. 900 Pa\r\nD. 1020 Pa\r\nE. 9600 Pa",
+            "attachments": [
+                "question-attachments/sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<span>gram ke KG = 1/1000<br>cm^3 ke m^3 = 1/1000000<br>jadi,<br>=0,8/1000/1/1000000<br>=8/10000/1/1000000<br>=8/10000 * 1000000/1<br>=800 Pa</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-diam-didorong-dengan-gaya-100-n-sehingga-2-s-kemudia-104",
+            "question": "Sebuah benda diam didorong dengan gaya 100 N sehingga 2 s kemudian kecepatannya menjadi 20 m/s . Empat sekon kemudian benda menabrak dinding dan memantul . Kecepatan benda sekarang menjadi 2o m/s . tentukan :    a. kecepatan benda sesaat sebelum menabrak dinding\r\nb. momentum benda saat menabrak dinding\r\nc. impuls yang diberikan dinding pada benda\r\nd. selang waktu benda bersentuhan dengan dinding",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.t = 4 s<br>\u00a0a= 20m/s\u00f72s = 10m/s\u00b2 <br>\u00a0 V= Vo+ a.t= 20m/s + 10m/s\u00b2.4s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20m/s + 40m/s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60 m/s<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-atraksi-udara-pesawat-pesawat-menerbangi-suati-lintas-400",
+            "question": "Pada suatu atraksi udara, pesawat-pesawat menerbangi suati lintasan yang mengitari sederetan\u00a0 menara tinggi.Dalam mengitari menara, percepatan sentripetal maksimum yang dapat ditahan pilot kira-kira 6g ( ambil g=10m/s ) jika pesawatb terbang pada 150m/s, jari-jari putaran untuk percepatan 6g adalah? .....    \u00a0pliss help me, i need help ^^\r\na. 25m\u00a0 \u00a0 b.125m\u00a0\u00a0 c.250m\u00a0 d.375m\u00a0 \u00a0 e.450m\r\n\u00a0caranya yaa ^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. as =6g = 6 . (10), v= 150 m/s\n\nDit. R = ...?\n\n\nR = v^2 / as = 150^2 / 60 = 22500/60 = 375 m\n\n\nJawabannya d",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

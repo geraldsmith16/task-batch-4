@@ -1,0 +1,132 @@
+{
+    "question": "Tuliskan rumus koefisin restitusi pada :     a. tumbukan lenting(elastis) sempurna\r\nb. tumbukan lenting(elastis) sebagian\r\nc. tumbukan lbola dengan lantai",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rumus koefisien restitusi untuk tumbukan di bidang mendatar adalah <br><br>[tex]e=- \\frac{v&#039;_{2}-v&#039;_{1}}{v_{2}-v_{1}} [/tex] <br><br>(a). Untuk <span>tumbukan lenting (elastis) sempurna<br>\u00a0\u00a0 \u00a0 \u00a0  e = 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga v&#039;\u2082 - v&#039;\u2081 = v\u2081 - v\u2082<br><br>(b). </span><span>tumbukan lenting (elastis) sebagian</span><span><br>\u00a0\u00a0 \u00a0 \u00a0 0 &lt; e&lt; 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga rumus koefisien restitusi di atas akan memiliki nilai sesuai nilai e\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 di soal\u00a0 \u00a0 \u00a0 <br><br>(c). tumbukan bola dengan lantai<br>\u00a0\u00a0 \u00a0 \u00a0 rumus koefisien restitusinya adalah <br>\u00a0\u00a0 \u00a0 \u00a0  [tex]e= \\sqrt{ \\frac{h&#039;}{h} } [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0 dengan h = ketinggian sebelum memantul (mengarah ke bawah)<br>\u00a0\u00a0 \u00a0 \u00a0 dan h&#039; = ketinggian sesudah pantulan</span> <br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-menghitung-perbesaran-mikroskop-pada-mata-normal-754",
+            "question": "Cara menghitung perbesaran mikroskop pada mata normal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Pembesaran mikroskop adalah hasil kali pembesaran lensa objektif dan pembesaran lensa okuler, sehingga dirumuskan:<br><br><strong>M = Mob x Mok</strong><br><br>\u2192Pembesaran Mikroskop pada saat mata berakomodasi maksimum<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob ) x (Sn / fok ) + 1</strong><br><br><br>\u2192Pembesaran Mikroskop pada saat mata tidak berakomodasi<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob) x (Sn / fok)</strong><br><br>Keterangan:<br><strong>M= Perbesaran total</strong><br><strong>Mob = Perbesaran lensa objektif</strong><br><strong>Mok = Perbesaran lensa okuler</strong><br><strong>S&#039;ob = Jarak bayangan lensa objektif</strong><br><strong>Sob = Jarak benda dari lensa objektif</strong><br><strong>Sn = titik dekat mata (25cm)</strong><br><strong>fok = Fokus lensa okuler</strong><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "balok-bermassa-10-kg-terletak-di-atas-permukaan-kasar-dengan-miu-296",
+            "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "N= w<br>N= 10x10 &gt; 100N<br>\u03a3F= m.a<br>F-f=m.a<br>100-(100x0,4)=10a<br>100-40=10a<br>a=60/10<br>a=6 m/s2<br>mencari kecepatan menggunakan rumus kecepatan dan jarak:<br>Vt\u00b2=Vo\u00b2+2as<br>Vt\u00b2=0\u00b2+2.6.3 (kecepatan awal 0 m/s)<br>Vt\u00b2= 36<br>Vt= \u221a36 &gt; 6 m/s.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-bagaimana-proses-air-mendidih-dan-hukum-apa-yang-digunak-715",
+            "question": "Jelaskan bagaimana proses air mendidih dan hukum apa yang digunakan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Air terdiri dari beberapa molekul yang saling terikat atau tarik menarik. Nah ketika air dipanaskan air akan mengambil energi panas tersebut dengan memperlihatkan gerakan molekul-molekul air. Ketika suhu air semakin panas maka gerakan molekul-molekulnya pun akan semakin cepat yang akan menyebabkan terbebasnya atau terlepasnya ikatan molekul-molekul tersebut. Molekul yang terbebaskan akan berubah menjadi gas (menguap). Titik didih air berada pada 100 C tetapi kondisi ini jika air tidak mengandung bahan-bahan atau zat-zat yang lainnya. Sebagai contoh ketika air mendidih dalam suhu 100 C kemudian Anda memasukan garam kedalam air tersebut maka titik didih air akan lebih tinggi dari 100 C. hal ini dikarenan garam memberikan ikatan kembali kepada molekul-molekul air sehingga dibutuhkan energi panas yang lebih untuk membebaskan air dari ikatan-ikatan tersebut.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebi-jel-135",
+            "question": "Tolong dikasi caranya juga ya :) gambar ada dibawah biar lebi jelas !    Batang\r\n bersandar pada dinding licin dan bertumpu pada lantai kasar seperti \r\n gambar . Bila AC = 5 m , CB = 4 m , maka koefisien gesekan di titik A \r\n pada saat batang tepat akan bergeser adalah ?",
+            "attachments": [
+                "question-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebi-jel-135-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "1.\u00a0saat stb:<br>\u03a3fx=0<br>Nb-fa=0<br>Nb=Fa<br>\u03a3fy=0<br>Na-w=0<br>Na=w<br><br>\u03a3\u03c4orsi=0<br>w.1/2.oa-nb.ob=0<br>nb.ob=1/2.w.oa<br>nb.ab sin\u03b1=1/2.w.ab cos\u03b1<br>nb=1/2 w cottan\u00a0\u03b1<br>Fa=\u03bc.na<br>1/2 w cottan\u00a0\u03b1=\u03bc.na<br>\u03bc=1/2 cottan\u03b1<br><br>koefisien gesekan =1/2 cottan alfa<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1/2 kali (3/4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-kubus-memiliki-volume-1-m3-volume-tangki-tersebut-355",
+            "question": "Sebuah tangki kubus memiliki volume 1 m3. Volume tangki tersebut menurut pengamat yang bergerak dengan kecepatan 0,8c sepanjang rusuk kubus adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt=panjang pengamat<br>L0=panjang diam<br>Lt=Lo(1-v^2/c^2)^1/2<br>Lt=Lo(1-0,64c^2/c^2)^1/2<br>Lt=Lo(0,36)^1/2<br>Lt=Lo(0,6)<br>1m^3=1000dm^3=1000 liter<br>panjangnya diamnya = (1000)^1/3 dm<br>=1 dm = 10 cm<br><span>Lt=10.0,6= 6cm</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "notasi-ilmiah-dari-0001-389",
+            "question": "Notasi ilmiah dari 0,001?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "notasi ilmiah dari 0,001 =\u00a01 x 10 pangkat -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "notasi ilmiah dari 0,001 = 10^-3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-a-dan-b-masing-bermassa-4kg-dan-3kg-dihubungkan-d-572",
+            "question": "dua buah benda A dan B masing\" bermassa 4kg dan 3kg dihubungkan dengan tali (massa tali diabaikan) melalui sebuah katrol bermassa 2kg dan berjari-jari 20cm. jika benda berputar dengan tali, percepatan setiap benda adalah... (g=10m/s\"kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mA : 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0mB : 3 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 g \u00a0 : 10 m/s^2<br>dit : a ??<br><br>penyy : (mA-mB)/(mA+mB).g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 1/7.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0: 1,42 = 1,5 \u00a0m/s^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bermassa-20-kg-massa-jenis-4000-kgm3-diikat-dengan-490",
+            "question": "Suatu benda bermassa 20 kg, massa jenis 4000 kg/m3, diikat dengan tali dan dimasukkan ke dalam bak yang berisi minyak (massa jenis minyak 800 kg/m3) hingga benda dalam keadaan tergantung (g=10m/s2). maka tegangan tali pada sistem ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D1 : massa jenis benda= 4000 kg.m^3 \u00a0 \u00a0 \u00a0 \u00a0 m = 20kg<br>\u00a0 \u00a0 \u00a0 \u00a0massa jenis fluida= 800 kg/m^3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s^2<br>D2 : T=..?<br>D3 : <br>V benda = m benda/massa jenis benda<br>V benda = 20/4000<br>V benda = 1/200 m^3<br>sigma F = 0<br>T + Fa = W<br>T + massa jenis fluida.volume benda.g = massa benda.g<br>T + 800.1/200.10 = 20.10<br>T + 40 = 200<br>T = 200-40<br>T = 160 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "luas permukaan sebuah kaleng tanpa tutup tetapi mempunyai alas dengan diameter alas 20 cm dan tingginya 35 cm adalah ..\u00a0 \u00a0 (\u03c0=3,14)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "luas alas : <span>3,14 x 10 x 10 = 314<br>luas selimut : 3,14 x 20 x 35 = 2198<br>luas tabung tanpa tutup 314 + 2198 = 2512<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-tg-x-p-maka-nilai-2-sin-xcos-x-adalah-293",
+            "question": "Jika tg x =p , maka nilai 2 sin x.cos x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x =p/1=de/sa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi2 = de2 + sa2=p2 + 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi = akar (p2+1)<br>sin x =de/mi=p/akar(p2+1)<br>cos x = sa/mi=1/akar(p2+1)<br>2 sin x.cos x= 2. p/akar(p2+1) . 1/akar(p2+1)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2p/(p2+1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan x=p<br>[tex] \\frac{sinx}{cosx} = \\frac{p}{1} [/tex]<br>cari sisi miringya dulu<br>miring=[tex] \\sqrt{p^2+1} [/tex]<br><br>sin x=\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex]<br>cos x=\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br><br>2 sin x cos x= 2.\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex] .\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02.\u00a0[tex] \\frac{p}{p^2+1} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-derajat-lt-x-lt-90-derajat-hitunglah-ni-671",
+            "question": "Jika sin x = 2/3 (0 derajat &lt; x &lt; 90 derajat), hitunglah nilai cotan (90 derajat-alfa)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin x = 2/3. depan = 2, miring = 3. berarti samping = \u221a5. cotan x = samping/depan. cotan x = \u221a5/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suku-ke-7-suatu-barisan-aritmatika-adalah-22-dan-suku-ke-628",
+            "question": "1.jika suku ke - 7 suatu barisan aritmatika adalah 22 dan suku ke - 12 adalah 37.tentukan suku ke - 14 barisan tsb    2.tentukan rumus suku ke (n) dari barisan aritmatika 13,10,7,4 adalah\r\n\r\n3.diketahui suku pertama suatu barisan geometri adalah 16 dan suku ketiga 36 tentukan suku ke - 5 barisan tersebut\r\n\r\n4.diketahui deret geometri dengan suku pertama 4 dan suku ke 5 = 324,hitung jumlah delapan suku pertama deret tersebut\r\n\r\n5.deret aritmatika jumlah suku kedua dan keenam adl 26 dan jumlah suku keempat dan kedelapan adalah\u00a0 38 tentukanlah :\r\n\r\na.suku pertama dan bedanya \r\nb.jumlah sepuluh suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)<br>U7 = a+6b =\u00a022<br>U12 = a+11b =\u00a037<br>U14 = ?<br><br>a+6b = 22<br>a+11b = 37<br>__________-<br>-5b = -15<br>b\u00a0=\u00a03<br><br>Cari a , b=3<br>a+6b = 22<br>a+18 = 22<br>a = 4<br><br>U14 = a+13b<br>U14 = 4+13(3)<br>U14 = 4+39<br>U14 =\u00a043<br><br>2)<br>U1 = 13<br>U2 = 10<br>U3 = 7<br>U4 = 4<br>b = U4 - U3 = 4 - 7<br>b = -3<br>Un = a+(n-1)b<br>U4 = a+(4-1)b<br>U4 = a+3b<br><br>3)<br>U1 = a = 16<br>U3 = ar^2 =\u00a036<br>U5 = ?<br>cari r<br>U1/U3 = 16/36<br>a/ar^2 = 16/36<br>1/r^2 = 4/9<br>r^2 = 9/4<br>r = 3/2<br>U5 = ar^4<br>U5 = 16(3/2)^4<br>U5 = 16(81/16)<br>U5 = 81<br><br>CMIIW<br><br>Maaf, No 4 dan 5 saya masih dalam pembelajaran hehe",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. u7 = a + 6b = 22<br>\u00a0 \u00a0<u>u22= a + 12b = 37 +<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -15b = -15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 1<br>a + 6 (1) = 22<br>a + 6 \u00a0 \u00a0 \u00a0\u00a0= 22<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 22 - 6<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 16<br><br>u14 = a + 13b<br>\u00a0 \u00a0 \u00a0 = 16 + 13.1<br>\u00a0 \u00a0 \u00a0\u00a0= 29<br>2. un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 + ( n-1)-3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 - 3n + 3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16 - 3n<br><br>yang nomer selanjutnya ntar dulu yach, mo shalat dulu.. hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-rusuk-6cm-jarak-titik-a-938",
+            "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-diwajibkan-mengerjakan-10-dari-12-soal-yang-tersedi-364",
+            "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmetika-berikut-a-50-46-42-807",
+            "question": "Tentukan jumlah deret aritmetika berikut:     a.) 50\u00a0+\u00a046\u00a0+\u00a042\u00a0+\u00a038\u00a0+\u00a0... sampai dengan 10 suku.\r\nb.) -\u00a022\u00a0-\u00a016\u00a0-\u00a010\u00a0-\u00a04\u00a0-\u00a0... sampai dengan 20 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. S10\u00a0= 10/2 (2.50+(10-1) .\u00a0-4)<br>S10= 5 (100-36) =320<br>b. S20 = 20/2 (2. -22+(20-1)4)<br>S20 = 10(-44+76) = 320",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2(2a+(n-1)b)<br>s10=5(100+9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0  =5(100-36)<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =5(64)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =320<br>s20=10(2.-22+19.6)<br>\u00a0\u00a0 \u00a0 \u00a0  =10(-44+114)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =10(70)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =700<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866",
+            "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

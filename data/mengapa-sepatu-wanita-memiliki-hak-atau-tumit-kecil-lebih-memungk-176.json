@@ -1,0 +1,136 @@
+{
+    "question": "mengapa sepatu wanita memiliki hak atau tumit kecil lebih memungkinkan merusak lantai kayu daripada sepatu yang memiliki hak atau tumit besar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karena semakin kecil luas permukaan suatu benda maka tekanan yang diberikan semakin besar tetapi semakin besar luas permukaan benda maka tekanan yang diberikan semakin kecil sehingga diperoleh rumus P = F/A<br>jadi luas permukaan lebih sempit dapat menghasilkan kerusakan lebih besar dibanding luas permukaan benda yang lebih besar.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pejalan-kaki-melakukan-usaha-25-x-105-j-dalam-suatu-lat-302",
+            "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229",
+            "question": "Jika bermassa m digantungkan pada pegas yang memiliki tetapan k, maka pegas akan bertambah panjang 1,5 cm. Tentukan pertambahan panjang pegas jika pegasi disusun seperti gambar berikut ini.",
+            "attachments": [
+                "question-attachments/jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lm = 5 kg<br>\u00a0 \u00a0 \u00a0 k = 8 k<br>\u00a0 \u00a0 \u00a0 l = 1,5 cm = 0,015<br>\u00a0 \u00a0 \u00a0 g = 10 m/s<br>Dit \u0394l ?<br><br>F = k.l<br>m.g = 8k .\u0394l<br>5.10 = 8k .\u00a0\u0394l<br><br>\u0394l = 50 / 8k<br>\u00a0 \u00a0 = 6,25 m<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-oleh-p-650",
+            "question": "batang panjangnya 1 m bergerak dengan kecepatan v. diamati oleh pengamat yang diam panjang batang menjadi 80 cm. bila c=kecepatan cahaya, maka kecepatan batang itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=80 cm&gt; 0.8 m<br>Lo = 1 m<br>L = Lo/y &gt; y= Lo/L &gt; y= 1/0.8 &gt; y= 5/4<br>dengan menggunakan rumus pitagoras maka V = 3/5c (0.6c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "notasi-ilmiah-dari-0001-389",
+            "question": "Notasi ilmiah dari 0,001?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "notasi ilmiah dari 0,001 =\u00a01 x 10 pangkat -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "notasi ilmiah dari 0,001 = 10^-3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "momen-inersia-untuk-bola-berongga-dengan-jari-jari-r-adalah-499",
+            "question": "Momen inersia untuk bola berongga dengan jari-jari r adalah......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "setau saya bola tipis berongga<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0I = 2/3 mrkuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "I = 2/3 mR\u00b2 menurut yang saya pelajari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seutas-kawat-piano-yang-terbuat-dari-baja-mempunyai-panjang-1-886",
+            "question": "1. seutas kawat piano yang terbuat dari baja, mempunyai panjang 1,6 m dengan garis tengah 0,2 cm. berapa besar tegangan kawat jika kawat tersebut mengalami perubahan panjang sebesar 0,3 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik lo =1,6 m \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 0,3 cm = 0,003 m<br>\u00a0 \u00a0\u00a0 d = 0,2 cm = 0,002 m<br>Dit tegangan ?<br>jawab.<br>LO=\u03c0r^2 = 3,14 x 0,001^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x10^-6 m<br>E = tegangan / regangan<br>\u00a0 \u00a0= F.l / A.\u0394l<br><br><br>tegangan = F.l0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,6 F",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-kohesi-dan-adhesi-400",
+            "question": "Apa yang dimaksud dengan kohesi dan adhesi \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kohesi adalah gaya tarik menarik antara partikel partikel yang sejenis. Kohesi dipengaruhi oleh kerapatan dan jarak antarpartikel dalam zat sedangkan adhesi adalah <span></span>gaya \ntarik menarik antara partikel partikel yang tidak sejenis, gaya adhesi \nakan mengakibatkan dua zat akan saling melekat bila dicampurkan.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kohesi adalah gaya tarik\u00a0antara<span>\u00a0molekul molekul zat yg sejenis.</span><br><span>contoh: gaya tarik antara molekul molekul\u00a0</span>air.<br><span>Adhesi adalah\u00a0gaya tarik menarik antara molekul molekul zat yg tidak sejenis\u00a0.</span><br><span>contoh:\u00a0 gaya tarik menarik antara molekul papan tulis dan molekul kapur dan gaya tarik menarik molekul\u00a0</span>pena<span>\u00a0dan molekul kertas</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-kayu-memiliki-rapat-massa-800-kgm3-dan-berukuran-3-502",
+            "question": "Sebuah balok kayu memiliki rapat massa 800 kg/m3 dan berukuran (30 cm x 40 cm x 50 cm . tekanan maksimum yang dapat diberikan balok pada permukaan tempat balok berdiri adalah..    jwab please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V= 30*40*50<br>= 60.000cm^3<br>=0,06m^3<br><br>massa =\u00a0\u03c1*V<br>= 800*0,06<br>=48kg<br><br>g=10m/s^2<br>F= W=m*g<br>=48*10<br>=480N<br><br>tekanan terbesar, jadi luasnya harus yang terkecil<br>A terkecil = 30*40<br>=1200cm^2<br>=0,12m^2<br>P=F/A<br>=480/0,12<br>=\u00a04000Pa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-tipis-dengan-panjang-l-dan-massa-m-dapat-berputar-pa-267",
+            "question": "suatu batang tipis dengan panjang L dan massa m dapat berputar pada sumbu yang terletak di ujung batang. pada awalnya batang berada pada posisi horizontal dan kemudian di lepas. pada saat batang membuat sudut \u0424 (tetha) dengan arah vertikal, percepatan sudut rotasi batang adalah???? GPL (GAK PAKE LAMA)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyelesaian :<br>letak titik pusat massa batang L/2 dari sumbu rotasi<br>I batang terhadap ujung = 1/3 mL\u00b2<span><br>Maka persamaannya :<br>\u03a3T = I \u03b1\u00a0, atau :</span><br>mg sin \u03b8\u00a0\u00d7<span>\u00a0L/2 = 1/3 m L\u00b2 \u03b1\u00a0\u00a0(hilangkan massanya (m))</span><br>maka menjadi :<br><br>[tex]g.sin\\theta* \\frac{L}{2}  =  \\frac{1}{3}  L^{2}  \\alpha [/tex]<br><br>[tex] \\frac{g.sin\\theta}{1/3} =  \\frac{L^{2} \\alpha }{L/2}  [/tex]<br><br>[tex]  \\alpha = \\frac{3.g.Sin\\theta}{2L} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "question": "Pernyataan yang setara dengan pernyataan \"jika hewan itu elang maka hewan itu dapat terbang\" adalah ....    tolong jawabannya dan pembahasan nya ... terima kasih...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "p-&gt;q setara dengan ~q=&gt;~p<br><span>jika hewan itu elang maka hewan itu dapat terbang setara dengan jika hewan itu tidak bisa terbang maka hewan itu bukan elang<br></span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "p =&gt; q \u2261\u00a0 -p \u2228 q \u2261 -q =&gt; -p <br>Pernyataan : <br>Jika hewan itu elang maka hewan itu dapat terbang <br>setara dengan : <br>* Hewan itu bukan elang atau hewan itu dapat terbang<br>* Jika hewan itu dapat terbang maka hewan itu elang <br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-sebuah-deret-aritmatika-diketahui-a5-un29-dan-sn357-te-612",
+            "question": "Dari sebuah deret aritmatika, diketahui a=5, Un=29 dan Sn=357. Tentukan b dan n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn=n/2(a+un). 357=n/2(5+29). 357=n/2*34. 357=17n. n=21. Un=a+(n-1)b. 29=5+(21-1)b. 24=20b. b=6/5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>Un=a + (n-1) b<br>\u00a029 \u00a0= 5 + (29-1) b<br>29= 5 +28b<br>28b=24<br>b=24/28=6/7<br><br>29=5+(n-1)6/7<br>29=5+6/7n-6/7<br>29-5+6/7=6/7n<br>24+6/7=6/7n<br>168/7+6/7=6/7n<br>234/7=6/7n<br>n=234/7:6/7=234/7 x 7/6=39<br>\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-dong-bantuin-ngerjain-soal-mtk-v-bersert-678",
+            "question": "Tolong bantu saya dong bantuin ngerjain soal mtk.... :) v berserta penjelasan n cra kerja.a yah.... :) 1. Tentukan jumlah deret aritmatika berikut ! a. 3+6+9+12+ .... Sampai dengan 18 suku b. 2+8+14+30+ .... Sampai dengan 10 suku c. 1+6+11+16+ ..... Sampai dengan 14 suku d. 50+46+42+38+ .... Sampai dengan 10 suku e. -22-16-10-4- .... Sampai dengan 20 suku 2. Tentukan banyak suku dan jumlah deret aritmatika berikut ! a. 4+9+14+19+ .... +104 b. 72+66+60+54+ ..... +12 c. -12-8-4-0- ..... -128 d. -3-7-11-15 ....-107 3. Tentukan banyak suku dari deret berikut ! a. 6+9+12+15+ .... = 756 b. 56+51+46+41+ .... = -36 c. 10+14+18+22+ .... = 640 4. Diketahui deret aritmatika dengan suku ke-7 dan duku ke-10 berturut-turut adalah 25 dan 37. Tentukanlah jumlah 20 suku pertama ! 5. Bila a,b,c merupakan suku berurutan yang membentuk barisan aritmatika, buktikan bahwa ketiga suku berurutan berikut ini juga membentuk barisan aritmatika 1/bc, 1/ca, 1/ab 6. Tentukan banyak bilangan asli yang kurang dari 999 yang tidak hbis d bgi 3 atau 5. 7. Diketahui barisan yang di bentuk oleh semua bilangan asli 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 .... Angka berapakah yang terletak pad bilangan k 2004 ? (bilangan ke-12 adalah angka 1 dan bilangan dan bilangan ke-15 adalah angka 2) 8. Gunakan induksi mtk untuk membuktikan persamaan berikut ini benar! a. 1.2+2.3+3.4+ ... + n(n+1) = n(n+1) (n+2) / 3 b. 1 pangkat 3 + 2 pangkat 3 + 3 pangkat 3 + ..... + n pangkat 3 = [ n(n+1)/2 ] pankat 2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a : suku ke 18 sama dengan 53",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 a: sn=n/2(2a+(n-1)b)<br>\u00a0\u00a0 \u00a0 \u00a0 s18= 18/2(2(3)+17.3)<br>s18= 9.57<br>s18=513<br><br>b. sn=n/2(2a+(n-1)b)<br>\u00a0s10= 10/2(2(2)+(10-1)6)<br>s10= 5.58<br>s10= 290<br><br>c s14= 14/2 (2.1 + ( 14-1) 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a07(3+65) = 476<br><br>d. s10= 10/2 ( 2.50 + 9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 5 .64 = 320<br><br>sampai ini dulu ya, yg bisa 1-4 doang, induksi mtk itu panjang banget ribet .. ini soal sama kaya punya saya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-tinggal-landas-membentuk-sudut-30-dengan-landa-816",
+            "question": "Sebuah Pesawat tinggal landas membentuk sudut 30\u00b0\u00a0 dengan landasan. Jika pesawat telah menempuh jarak 6km dari tinggal landas, berapa ketinggian Pesawat sekarang! Pliss yang tau coret\" di bawah :v",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggi pesawat artinya, didepan sudut 30\u00b0<br>nah, kalo gitu pake yang sin<br>sin = depan/miring<br>sin 30 = tinggi/6<br>0,5 = tinggi/6<br>tinggi = 0,5/6<br>tinggi = 5/60<br>tinggi = 1/12 km<br><br><br>setau aku sih gitu ya\u00a0:)<br>kalo salah maap ye",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-a-16-putaran-b-25-putaran-935",
+            "question": "Ubahlah ke bentuk satuan derajat dan a. 1/6 putaran b 2/5 putaran c 3/10 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/6 x 360=60 ,;b.2/5 x 360 = 72; c.3/10 x 360=108....\nmaaf bila salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pabrik-memproduksi-mobil-banyaknya-produksi-per-bulan-me-359",
+            "question": "Sebuah pabrik memproduksi mobil , banyaknya produksi per bulan merupakan deret aritmatika , produksi pada bulan ke 3 adalah 150 unit dan produksi pada bulan ke 6 adalah 225 unit tentukan    a. banyaknya produjsi pada bulan pertama \r\nb. pertambahan produksi pada tiap bulan\r\nc. jumlah produksi pada tahun pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] U_{3} = a + 2b = 150  \\\\  U_{6} = a + 5b = 225 [/tex]\u00a0\u21d2\u00a0[tex]a = 225 - 5b \\\\  U_{3} = 225 - 5b +2b \\\\ 150 = 225 - 3b \\\\ 3b = 75 \\\\ b = 25[/tex]<br><br>a)\u00a0[tex] U_{3} = a +2b \\\\ 150 = a + 2(25) \\\\ a = 100[/tex]<br><br>b) beda\u00a0= 25\u00a0<br><br>c)\u00a0[tex] S_{12} = 6 ( 2(100)+11(25) = 2850[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-tan-660-derajat-sin-900-derajatcos-390-derajat-ada-324",
+            "question": "Hasil dari tan 660 derajat-Sin 900 derajat+cos (-390 derajat) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 660-sin 900+ cos (-390)=tan 60 - sin 80 + (cos -30)<br>=akar 3 - sin 80 + (-1/2 akar 3)<br>=5/2 akar 3 - sin 80",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan 660 - sin 900 + cos (-390)<br>tan 660 - sin 900 + cos 390<br>tan (1.360 + 300) - sin(2.360 + 180) + cos(1.360 + 30)<br>tan 300 - sin 180 + cos 30<br>tan (360 - 60) - 0 + [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>- [tex] \\sqrt{3}[/tex] + [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>[tex]  - \\frac{3 \\sqrt{3} }{2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

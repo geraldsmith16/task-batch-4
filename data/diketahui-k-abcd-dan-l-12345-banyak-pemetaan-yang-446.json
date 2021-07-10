@@ -1,0 +1,154 @@
+{
+    "question": "Diketahui K = {a,b,c,d} dan L = {1,2,3,4,5}. banyak pemetaan yang mungkin dari K ke L adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "banyak pemetaan<br>[tex] l^{k} [/tex]=[tex] 5^{4} [/tex]=625<br>semoga membantu :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-rumus-fungsi-fx-8-3x-nilai-f-5-please-bant-806",
+            "question": "Diketahui rumus fungsi f(x) = 8 - 3x. Nilai f(-5)=... \r\nPlease bantuu yaa :)\u00a0 ^_^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x)=8 - 3x<br>maka nilai f(-5)=8 - 3(-5)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =8+15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =23",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 8 - 3x <br> x diganti sama -5 <br> 8 - 3.-5 = .. <br> 8 - -15 = ... <br> f(x) = 23",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x1-2x-2-2x-3-173",
+            "question": "Tentukan nilai x, jika (2x+1) + (2x + 2) + (2x + 3) + ....... + (2x + 50) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x+1)+(2x+2)+(2x+3)+......+(2x+50) = 4275<br>50(2x) + 1+50 . 25 =\u00a04275<br>100x + 1275 = 4275<br>x = 4275 - 1275 / 100<br>x = 3000 / 100<br>x = 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "a=U1=2x+1<br>U2=2x+2<br>b=U2-U1=2x+2-(2x+1)=1<br>Un=a+(n-1)b<br>=2x+1+(n-1)1=2x+50<br>2x+n=2x+50<br>n=50<br>Sn=n/2(a+Un)<br>=50/2(2x+1+(2x+50))=4275<br>=25(4x+51)=4275<br>=100x+1275=4275<br>=100x=3000<br>x=30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-aritmatika-diketahui-suku-ke-3-14-dan-suku-ke-7-2-629",
+            "question": "Dari barisan aritmatika diketahui suku ke-3 =14 dan suku ke-7 = 26. jumlah 18 suku pertama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : 12<span><br>\nMapel : Matematika<br>\nKategori : Bab 7 - Barisan dan Deret<br>\nKata Kunci : barisan. deret, aritmetika<br>\nKode : 12.2.7 [Kelas 12 Matematika Bab 7 -\nBarisan dan Deret]</span></p>\n\n<p>\u00a0</p>\n\n<p>Pembahasan :</p>\n\n<p><span>Barisan\naritmetika adalah suatu barisan dengan beda atau selisih antara dua suku\nberurutan selalu tetap atau konstan.<br><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083,\n..., Un atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un = a + (n - 1)b.<br><br>\nBeda atau selisih antara dua suku berurutan, yaitu :\u00a0<br>\nb = Un - U(n - 1).<br><br>\nDeret aritmetika adalah jumlah suku-suku barisan\naritmetika.<br><br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1) + Un<span><br></span>\u21d4 Sn = a + a + b + a +\n2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](2a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1)<span><br>\nSn - S(n - 1) = Un.</span></p><p><br></p><p>Mari kita lihat soal tersebut.</p><span>Jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah...<br><br>Jawab :<br>Diketahui suku ke-3 adalah 14, sehingga<br>U</span>\u2083 = 14<br>\u21d4 U\u2083 = a + (3 - 1)b<br>\u21d4 U\u2083 = a + 2b<br>\u21d4 14 = a + 2b ... (1)<br><br>dan suku ke-7 adalah 26, sehingga<br>U\u2087 = 26<br>\u21d4 U\u2087 = a + (7 - 1)b<br>\u21d4 U\u2087 = a + 6b<br>\u21d4 26 = a + 6b ... (2)<br><br>Persamaan (1) dan (2) membentuk sistem persamaan linear dan kita dapat menentukan nilai a dan b menggunakan metode eliminasi dan substitusi.<br>Pertama, kita eliminasi a, sehingga<br>14 = a + 2b<br>26 = a + 6b<br>__________-<br>\u21d4 -12 = -4b<br>\u21d4 b =\u00a0[tex] \\frac{-12}{-4} [/tex]<br>\u21d4 b = 3<br><br>Kemudian, nilai b = 3 kita substitusikan ke persamaan (1), diperoleh<br>a + 2b = 14<br>\u21d4 a + 2(3) = 14<br>\u21d4 a + 6 = 14<br>\u21d4 a = 14 - 6<br>\u21d4 a = 8<br><br>Selanjutnya, kita menentukan jumlah 18 suku pertama, diperoleh<br>S\u2081\u2088 =\u00a0[tex] \\frac{18}{2} [/tex](2(8) + (18 - 1) x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 17 x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 51)<br>\u21d4 S\u2081\u2088 = 9(67)<br>\u21d4 S\u2081\u2088 = 603<br><br>Jadi, jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah 603.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/1812844<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-7x-5-dan-b-2x-3-nilai-a-b-adalah-mohon-bantu-103",
+            "question": "Diketahui A= -7x + 5 dan B= 2x-3. Nilai A - B adalah? mohon bantuannya m(._.)m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A - B<br>= -7x+5 -\u00a0(2x-3)<br>= -7x+5 -2x+3<br>= -7x-2x +5+3<br>= -9x + 8<br><br>itu bukan???<br>kalo bukan maap ye",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>A-B =\u00a0(-7x + 5) - (2x-3)<br>\u00a0 \u00a0 \u00a0 \u00a0=\u00a0</span><span>-7x + 5 -\u00a02x +\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0= -7x -2x +5 +3<br>\u00a0 \u00a0 \u00a0 \u00a0= -\u00a09x + 8</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-pensil-per-lusin-dengan-harga-rp15000-738",
+            "question": "seorang pedagang menjual pensil per lusin dengan harga rp.15.000 ternyata ia mengalami \u00a0rugi rp.500 per batangnya. harga pensil per batangnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1\u00a0lusin\u00a0=\u00a012\u00a0buah<br>harga\u00a0pensil yg dijual pedagang :<u></u>\u00a015000/12 =\u00a01250<br>karena\u00a0ia\u00a0rugi\u00a0500\u00a0per batang, maka harga pensil\u00a0itu\u00a0(sebenarnya) 1250\u00a0+\u00a0500\u00a0= 1750",
+                    "attachments": []
+                },
+                {
+                    "answer": "15.000/12 : 1250.<br>karna dia merasa rugi Rp.500,jadi\u00a0<br>1250+500=1750..,jadi harga pensil 1750/<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-km-12-hm-2-m-m-470",
+            "question": "\u00a01 km + 12 hm + 2 m = ........ m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1000 m + 1200 m + 2 m = 2202 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(1 km x 1000) + (12 hm x 100 ) + 2 m\u00a0<br>=\u00a01000 + 100 + 2 = 1102 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167",
+            "question": "keliling sebuah belahketupat 100cm dan panjang salah satu diagonalnya 48cm. luas belahketupat tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Keliling sebuah belahketupat 100 cm dan panjang salah satu diagonalnya 48 cm. Luas belahketupat tersebut adalah [tex]\\displaystyle\\boxed{\\sf 336~cm^2} [/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Segi empat</strong> adalah bangun datar yang memiliki empat sisi dan empat sudut. Contoh bangun datar yang dikatakan segi empat, antara lain: persegi, persegi panjang, jajar genjang, belah ketupat, layang-layang, dan trapesium.</p><p>Adapun sifat-sifat <strong>belah ketupat</strong>, antara lain :</p><ul><li>Keempat sisinya sama panjang;</li><li>Sudut-sudut yang berhadapan sama besar;</li><li>Kedua diagonalnya saling tegak lurus dan saling membagi dua sama panjang;</li><li>Memiliki 2 simetri lipat dan 2 simetri putar.</li></ul><p>Untuk menyelesaikan soal ini kita akan menggunakan <strong>rumus</strong> berikut, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Keliling} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf K = 4 \\times s}} [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Luas} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf L = \\dfrac{1}{2} \\times d_1 \\times d_2}} [/tex]</p><p>dimana :</p><p>\u25cb L = luas belah ketupat</p><p>\u25cb K = keliling belah ketupat</p><p>\u25cb s = panjang sisi belah ketupat</p><p>\u25cb d\u2081 = diagonal belah ketupat</p><p>\u25cb d\u2082 = diagonal belah ketupat </p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>[tex]\\displaystyle\\sf K = 100~cm [/tex]</li><li>[tex]\\displaystyle\\sf d_1 = 48~cm [/tex]</li></ul><p><strong>Ditanya : </strong>Luas (L) = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan panjang sisi belah ketupat (s)</strong></p><p>[tex]\\displaystyle\\sf 4 \\times s = K [/tex]</p><p>[tex]\\displaystyle\\sf 4 \\times s = 100 [/tex]</p><p>[tex]\\displaystyle\\sf s = \\frac{100}{4} [/tex]</p><p>[tex]\\displaystyle\\sf s = 25~cm [/tex]</p><p>diperoleh: s = 25 cm</p><p>\u2756 <strong>Menentukan panjang diagonal salah satunya (d\u2082)</strong></p><p>Perhatikan segitiga siku-siku yang diarsir pada lampiran, kita akan mencari x dengan menggunakan teorema Pythagoras.</p><p>[tex]\\displaystyle\\sf x = \\sqrt{25^2 - 24^2} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{625 - 576} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{49} [/tex]</p><p>[tex]\\displaystyle\\sf x = 7~cm [/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\sf d_2 = 2x [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 2 \\times 7 [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 14~cm [/tex]</p><p>diperoleh: d\u2082 = 14 cm</p><p>\u2756 Sehingga, <strong>luas belah ketupat </strong>tersebut</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times d_1 \\times d_2 [/tex]</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times 48 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\sf L = 24 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\boxed{\\sf L = 336~cm^2} [/tex]</p><p>\u2234 <strong>Kesimpulan : </strong>Jadi, luas belah ketupat tersebut adalah 336 cm\u00b2.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>segiempat dan segitiga</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Sebuah taman berbentuk persegi panjang berukuran 30 m \u00d7 18 m. Disekeliling taman dipasang tiang lampu dengan jarak antar lampu 6 meter. Jika harga tiap tiang lampu Rp200.000,00 per tiang, maka biaya yang diperlukan seluruhnya adalah <strong><em>brainly.co.id/tugas/5481048</em></strong></li><li>Jika pada jajar genjang ABCD, besar \u2220A = (3x + 2)\u00b0 dan \u2220D = (2x + 18\u00b0) maka nilai x adalah <strong><em>brainly.co.id/tugas/14772998</em></strong></li><li>Diketahui jajaran genjang PQRS dengan \u2220Q = (5x \u2013 4)\u00b0. Jika besar \u2220P = 7/8 \u2220Q, maka nilai x adalah <strong><em>brainly.co.id/tugas/130684</em></strong></li></ul><h3>____________________________</h3><h3>DETAIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 4 - Segiempat dan Segitiga</p><p><strong>Kode :\u00a0</strong>7.2.4</p><p><strong>Kata kunci : </strong>segiempat, belah ketupat, luas, keliling, diagonal, panjang sisi, segitiga siku-siku, teorema pythagoras</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": [
+                        "answer-attachments/keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-kalimat-kalimat-berikut-177",
+            "question": "perhatikan kalimat-kalimat berikut.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.samarindah adalah ibu kota provinsi kalimantan timur.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b.2+3=6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c.2 adalah bilangan prima terkecil dan merupakan bilangan genap\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d.4b-9=4b-9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 manakah diantara kalimat tersebut yang merupakan kalimat tertutup dan kalimat terbuka",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi jawaban dari dari pertnyaan ini adalah c<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>kalimat terbuka:<br>\u00a0b.\u00a02+3=6\u00a0<br>kalimat tertutup:<br>a.\u00a0samarinda adalah ibukota kalimantan timur</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-besar-sudut-penyiku-dari-10-derajat-188",
+            "question": "Menentukan besar sudut penyiku dari 10 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut penyikunya = sudut siku-siku - 10&#039; = 90&#039; - 10&#039; = 80&#039;<br>maka sudut penyikunya adalah 80 derajat<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "90 derajat - 10 derajat = 80 derajat.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704",
+            "question": "Pada suatu lingkaran dengan pusat O diketahui titik A,B,C dan D pada keliling lingkaran , sehingga sudut AOB = 35\u00b0 dan sudut COD 140\u00b0 . Jika panjang busur AB = 14 cm , hitunglah panjang busur CD .",
+            "attachments": [
+                "question-attachments/pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Besar &lt;AOB /Besar &lt;COD =Panjang busur AB / Panjang busur CD<br>35/140 = 14/ panjang busur CD<br>\u00a0\u00a0 \u00a0 \u00a0 (dikali silang)<br>35*panjang busur CD = 140*14<br>35*panjang busur CD =1960<br>\u00a0\u00a0 \u00a0 panjang busur CD =1960/35<br>\u00a0\u00a0 \u00a0 panjang busur CD =56\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

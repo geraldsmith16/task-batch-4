@@ -1,0 +1,146 @@
+{
+    "question": "1) Persamaan kuadrat x\u00b2 - 2px - p + 2 = mempunyai 2 akar yang sama. Tentukan nilai P \u00a0 2) Tentukan persamaan parabola yang grafiknya mempunyai koordinat titik balik (1,4) dan melalui titik (0,3) (lihat gambar) \u00a0",
+    "attachments": [
+        "question-attachments/1-persamaan-kuadrat-x2-2px-p-2-mempunyai-2-akar-yang-sa-911-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "1. D=0<br>b2-4ac=0<br>(-2p)2-4.1.(-p+4) = 0<br>4p2 + 4p - 16 = 0 :4<br>p2 +p - 4 = 0<br>rumus abc <br><br>2. y=a(x-xp)2 +yp<br>3= a(0- 1)2 + 4<br>=a+1<br>a=-1<br>-1(x-1)2 +4<br>=<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-kelipatan-3-antara-400-dan-500-adalah-503",
+            "question": "Jumlah bilangan kelipatan 3 antara 400 dan 500 adalah .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bilangan itu adalah : 402, 405, 408, ....., 498 <br>\na = 402, b = 3 <br><br>\nUn = a + (n - 1)b <br>\n498 = 402 + (n - 1)3 <br>\n498 = 402 + 3n - 3 <br>\n498 = 399 + 3n <br>\n3n = 498 - 399 <br>\n3n = 99 <br>\nn= 33 <br><br>\nSn = 1/2 n (a + Un) <br>\n.....= 1/2 x 33 x (402 + 498) <br>\n.....= 16,5 x 900 <br>\nSn = 14.850\u00a0<br><br>seoga membantu ya :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-11-dari-barisan-25612864-adalah-431",
+            "question": "Suku ke 11 dari barisan 256,128,64...\r\nadalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=256<br>r=1/2<br><br>U11= ar^10<br>= 256(1/2)^10<br>= 256:1024 <br>= 1/4 = 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2 . (2a+n-1)b<br>11=11/2.(2.256+11-1).2<br>276<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "budi-membuat-sebuah-parasut-berbentuk-belahan-bola-dari-katun-den-369",
+            "question": "budi membuat sebuah parasut berbentuk belahan bola dari katun dengan panjang diameter 7m.\u00a0 jika harga katun rp.30,000,00 setiap m ,\u00a0 maka biyaya yang diperlukan untuk membuat parasut itu adalah ..? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k lingkaran =\u00a0[tex] \\pi [/tex] . d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] . 7 cm . 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44 cm<br>biaya = Rp 30.000 . keliling lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 30.000 . 44 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 132.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "v\u00a0= 4/3\u00a0\u00d7 22/7\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 1/2 = 4/3\u00a0\u00d7 22/7\u00a0\u00d7 3,5\u00a0\u00d7 3,5\u00a0\u00d73,5\u00a0\u00d7 1/2 = 3773/42\u00a0= 89,83 m\u00b3<br>kayak gitu itu kalo betul sih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-kearah-timur-seauh-30-mil-kemudian-kapal-m-401",
+            "question": "sebuah kapal berlayar kearah timur seauh 30 mil. kemudian kapal melanjutkan perjalanan dengan arah 030 derjat sejauh 60 mil. jarak kapal terhadap posisi saat kapal berangkat adalah...mil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "...................................................................................................................................................................................................................................................................<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau yang ditanya jarak, berarti tinggal \u00a030mil+60miltapi kalau yang ditanya perpindahan baru nyari jarak terdekat dari titik awl ke titik akhir.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187",
+            "question": "selisih panjang dan lebar suatu persegipanjang adalah 8 cm, dan keliling persegi panjang tersebut 44 cm. luas persegi panjang adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : persegi panjang, panjang, lebar, keliling, luas<br>Pembahasan :<br>Perhatikan gambar terlampir.<br><p>Persegi panjang adalah bangun datar\nsegi empat yang memiliki dua pasang sisi sejajar dan empat buah sudut\nsiku-siku.<br></p>\n\n<p>Sifat-sifat persegi panjang, yaitu :<span><br>\n1. sisi-sisi yang berhadapan </span>pada persegi panjang adalah sama panjang dan\nsejajar<span><br>\nAB = C</span>D, AB//CD dan AD = BC, AD//BC;<span><br>\n2. setiap sudut pada persegi panjang sama besar\ndan merupakan sudut siku-siku</span>\n(atau memiliki sudut 90\u00b0)<span><br></span>\u2220BAD = \u2220ABC= \u2220BCD\n= \u2220ADC = 90\u00b0;<span><br>\n3. diagonal-diagonal pada persegi panjang </span>adalah sama panjang<span><br>\nAC = BD;<br>\n4. diagonal-diagonal </span>pada persegi panjang\nberpotongan dan saling membagi dua sama panjang<span><br>\nOA = OC dan OB = OD</span>. Karena AC = BD, maka OA = OB = OC =\nOD;<span><br>\n5. </span>persegi panjang memiliki dua buah simetri\nlipat atau sumbu simetri;<span><br>\n6. </span>persegi panjang memiliki dua buah simetri putar;<span><br>\n7. Menempati bingkainya dengan empat cara.<br></span>Keliling persegi\npanjang adalah </p>\n\n<p>K = 2 . p\n+ 2 . l </p>\n\n<p>= 2 . (p\n+ l)</p>\n\n<p>dengan p merupakan\npanjang dan l merupakan lebar.<span><br></span>Luas persegi panjang\nadalah </p>\n\n<p>L = p . l</p>\n\n<span>dengan\np merupakan panjang dan l merupakan lebar.<br><br>Mari kita lihat soal tersebut.<br>Diketahui selisih panjang dan lebar suatu persegi panjang adalah 8 cm.<br>Kelilingnya adalah 44 cm.\u00a0<br>Misalkan panjang = p, lebar = l, keliling = K, dan luas = L,<br>diperoleh<br>p - l = 8<br></span>\u21d4 p = 8 + l<br><span>Kemudian, <br>K = 44 cm<br>K = 2(p + l)<br></span>\u21d4 K = 2(8 + l + l)<br>\u21d4 K = 2(8 + 2l)<br>\u21d4 K = 16 + 4l<br>\u21d4 44 = 16 + 4l<br>\u21d4 28 = 4l<br>\u21d4 l =\u00a0[tex] \\frac{28}{4} [/tex]<br>\u21d4 l = 7<br><span>Sehingga l = 7 kita substitusikan ke persamaan<br>p = 8 + l<br></span>\u21d4 p = 8 + 7<br>\u21d4 p = 15<br><span>Selanjutnya,\u00a0<br>L = p x l<br></span>\u21d4 L = 15 x 7<br>\u21d4 L = 105<br><span>Jadi, luas persegi panjang tersebut adalah 105 cm</span>\u00b2.<br><span><br>Semangat!<br><br></span>",
+                    "attachments": [
+                        "answer-attachments/selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

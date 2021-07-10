@@ -1,0 +1,132 @@
+{
+    "question": "Dua balok A dan B di atas bidang datar licin, dihubungkan dengan tali dan ditarik dengan gaya mendatar F=100 N hingga mengalami percepatan tetap a . Jika massa balok A=30 kg dan massa balok B=20 kg, maka gaya tegangan tali T dan a adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik F =100 \u00a0N<br>\u00a0 \u00a0 \u00a0ma = 30 kg dan mb = 20 kg<br>Dit T ?<br><br>T =\u00a0[tex] \\frac{ma}{ma+mb}. F [/tex]<br><br>T =\u00a0[tex] \\frac{30}{30 + 20} . 100 N  [/tex] = 3000 / 50 = 60 N",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920",
+            "question": "berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><br><h2>GAYA PADA FLUIDA STATIS</h2><p><u><strong>HUKUM ARCHIMEDES</strong></u></p><p>Menurut Archimedes, benda yang dicelupkan sebagian atau seluruhnya ke dalam fluida, akan mengalami gaya ke atas.</p><p>Besar gaya ke atas tersebut sama dengan berat fluida yang dipindahkan oleh benda.</p><p>Secara matematis dituliskan sebagai :</p><h2>Fa = \u03c1. g . Vtc</h2><br><p>Dimana :</p><p>Fa = gaya Archimedes apung ke atas (N)</p><p>\u03c1 = massa jenis fluida (kg/m\u00b3)</p><p>g = percepatan gravitasi bumi (m/s\u00b2)</p><p>Vtc = Volume benda tercelup di fluida (m\u00b3)</p><br><h2>TIGA KEMUNGKINAN BENDA DI DALAM FLUIDA</h2><h2>1. TERAPUNG</h2><p><strong><em>Benda-benda akan terapung</em></strong> di atas permukaan fluida, jika massa jenis benda <em><strong>lebih kecil</strong></em> dibandingkan massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p>\u21d2 <strong>\u03c1 benda &lt; \u03c1 fluida </strong>dan </p><p>\u21d2 <strong>w = Fa </strong></p><p><strong>m.g = \u03c1. g. Vtc</strong></p><p><strong>(\u03c1b.Vb).g = \u03c1. g. Vtc</strong></p><p><strong>\u03c1b.Vb = \u03c1. Vtc</strong></p><p>maka :</p><p><strong>Vtc = (\u03c1b/\u03c1).Vb</strong></p><p>Dimana :</p><p>Vtc = Volume benda tercelup</p><p>\u03c1b = massa jenis benda</p><p>\u03c1 = massa jenis fluida</p><p>Vb = Volume benda</p><br><h2>2. MELAYANG</h2><p><strong><em>Benda-benda akan melayang</em></strong> di dalam fluida, jika massa jenis benda <em><strong>sama dengan</strong></em> massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p><strong> \u21d2 \u03c1 benda = \u03c1 fluida</strong></p><p>dan </p><p>\u21d2 <strong>w = Fa</strong></p><br><h2>3. TENGGELAM</h2><p><strong><em>Benda-benda akan tenggelam</em></strong> di dalam fluida, jika massa jenis benda <em><strong>lebih besar </strong></em>daripada massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda lebih kecil atau lebih ringan dari pada berat benda di udara. Nah selisih berat benda di <em><strong>udara (Berat Real)</strong></em> ini dengan berat benda di <em><strong>fluida (berat semu) </strong></em>ini sama dengan gaya Archimedesnya, sehingga berlaku persamaan :</p><p><strong>\u21d2 \u03c1 benda &gt; \u03c1 fluida</strong></p><p>dan</p><p><strong>\u21d2 W udara - W fluida = Fa</strong></p><p>dan akhirnya diperoleh rumus :</p><h2><strong>W fluida = [1 - (\u03c1/\u03c1b)].W udara </strong></h2><p>dimana :</p><p>W fluida = berat benda di fluida</p><p>W udara = berat benda di udara</p><p>\u03c1 = massa jenis fluida</p><p>\u03c1b = massa jenis benda</p><br><p>Nah setelah memahami konsep di atas mari kita kerjakan soal berikut ini :</p><br><h2>SOAL</h2><p><em>Berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..</em></p><p><u><strong>PENYELESAIAN</strong></u></p><p><strong>Diketahui :</strong></p><p>berat benda di udara, W udara = 40 N</p><p>berat benda di fluida, W air = 36 N</p><p>massa jenis air, \u03c1 = 1 gr/cm\u00b3 = 1000 kg/m\u00b3</p><p><strong>Tanya :</strong></p><p>massa jenis benda, \u03c1b = __?</p><p><strong>Jawab :</strong></p><p><strong><u>Step 1</u></strong></p><p> Cari dulu gaya Archimedes, Fa = __?</p><p>Gunakan rumus : </p><p>Fa = W udara - W air</p><p>Fa = 40 - 36</p><p>Fa = 4 N</p><br><p><u><strong>Step 2</strong></u></p><p>cari massa benda di udara, m = __?</p><p>Gunakan rumus :</p><p>W udara = m.g</p><p>40 = m. 10</p><p>m = 4 kg</p><br><p><strong><u>Step 3</u></strong></p><p>Cari Volume benda, Vb = __?</p><p>Gunakan rumus :</p><p>Fa = \u03c1.g.Vb</p><p>4 = 1000. 10. Vb</p><p>Vb = 4 x 10\u207b\u2074 m\u00b3</p><br><p><u><strong>Step 4</strong></u></p><p>cari massa jenis benda, \u03c1b = __?</p><p>Gunakan rumus :</p><p>\u03c1b = m/Vb</p><p>\u03c1b = 4 / (4 x 10\u207b\u2074)</p><p>\u03c1b = 10\u2074 </p><p>\u03c1b = 10000 kg/m\u00b3</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>RUMUS TRIK</h2><p><strong>W air = [1 - (\u03c1/\u03c1b)].W udara </strong></p><p>36 = [1 - (1/\u03c1b)].40</p><p>36 / 40 = [1 - (1/\u03c1b)]</p><p>0,9 = 1 - (1/\u03c1b)</p><p>(1/\u03c1b) = 1 - 0,9</p><p>(1/\u03c1b) = 0,1</p><p>\u03c1b = 1/0,1</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>KESIMPULAN</h2><p><strong>Jadi besar massa jenis benda tersebut adalah 10 gram/cm\u00b3</strong></p><br><p>==========================================================</p><p>Simak soal tentang :</p><p>* <strong>Menghitung massa jenis benda dengan tabung gelas ukur</strong></p><p>https://brainly.co.id/tugas/15297318</p><p><strong>** Cara konversi satuan massa jenis dari gr/cm\u00b3 ke Kg/m\u00b3</strong></p><p>https://brainly.co.id/tugas/3028917</p><p>==========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : Fisika</strong></p><p><strong>Kategori : Fluida Statis</strong></p><p><strong>Kata Kunci : berat benda di udara, berat benda di air, massa jenis benda, \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>fluida statis, gaya archimedes ke atas</strong></p><p><strong>Kode : 11.6.3 [Kelas 11 SMA Fisika Bab 3 - Fluida Statis]</strong></p>",
+                    "attachments": [
+                        "answer-attachments/berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apakah-persamaan-dan-perbedaan-multimeter-dengan-basicmeter-988",
+            "question": "Apakah persamaan dan perbedaan Multimeter\r\n dengan Basicmeter?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Multimeter atau multitester adalah alat pengukur listrik yang sering dikenal sebagai VOM (Volt-Ohm meter) yang dapat mengukur tegangan (voltmeter), hambatan (ohm-meter), maupun arus (amperemeter).<br><span>Alat Lab Meter Dasar/ Basic Meter ini digunakan sebagai alat ukur arus dan\ntegangan DC dengan shunt dan pengganda terpasang pada alat.\u00a0<span>Dilengkapi dengan\ntutup geser untuk mengubah fungsi sebagai amperemeter atau voltmeter.</span></span><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bergerak-dengan-kecepatan-60-kmjam-dalam-si-kecepa-154",
+            "question": "Sebuah mobil bergerak dengan kecepatan 60 km/jam. dalam SI kecepatan mobil itu adalah ... m/detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "60km=60.000m, 1jam=3600detik, sehinnga 60.000/3600=16,7m/detik",
+                    "attachments": []
+                },
+                {
+                    "answer": "60 km/jam = ..... m/s\n60000 m/3600 s= 16,67 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-silinder-mengandung-19-kg-udara-pada-tekanan-95-at-227",
+            "question": "sebuah tangki silinder mengandung 19 kg udara pada tekanan 9,5 atm disimpan pada suhu 7oC. ketika dipindahkan ke\u00a0 bengkel dengan suhu 27oC, katup pengaman pada tangki bekerja dan meloloskan sejumlah udara. Jika katup meloloskan udara ketika tekanannya melebihi 10 kali tekanan atmosfir, brapa massa udara yg lolos?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: m1: 19 kg<br>\u00a0 \u00a0 \u00a0 P1: 9,5 atm<br>\u00a0 \u00a0 \u00a0 T1: 7oC<br>\u00a0 \u00a0 \u00a0 \u00a0P2: 9,5 x 10 atm<br>\u00a0 \u00a0 \u00a0 \u00a0T2: 27oC<br>Dit: m2?<br>Jawab: m1 x\u00a0P1 x\u00a0T1 = m2 x\u00a0P2 x\u00a0T2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a019 x\u00a09,5 x\u00a07 = m2 x\u00a095 x\u00a027<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1263,5 \u00a0 \u00a0 \u00a0 \u00a0= m2 x 2565<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 = 1263,5 : 2565<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 = 0,493<br><br>Maaf Kalau salah aku bantu sebisa mungkin<br><strong>Semoga Bermanfaat ;)</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-kapiler-dimasukkan-ke-dalam-bejana-yang-berisi-zat-ca-651",
+            "question": "Sebuah pipa kapiler dimasukkan ke    dalam bejana yang berisi zat cair.\r\n Kenaikan zat cair di dalam pipa\r\n kapiler tidak tergantung pada ....\r\n A. sudut kontak\r\n B. Tegangan permukaan\r\n C. Massa jenis zat cair\r\n D. Diameter pipa kapiler\r\n E. Tekanan udara luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C. masa jenis zat cair karena massa jenis yatcair konstan 1000 kg/m^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-dengan-konstanta-pegas-5000-nm-dalam-posisi-mendata-298",
+            "question": "sebuah pegas dengan konstanta pegas 5000 N/m dalam posisi mendatar di atas bidang licin. Salah satu ujung pegas ditahan dengan dinding sedangkan ujung lain yang bebas dilempar dengan benda bermassa 500 gram tegak pada penampang pegas. Jika kecepatan benda 10 m/s, berapa cm pegas itu akan tertekan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui :<br>K=5000\u00a0 N/m<br>m=500 g = 0.5 kg<br>grafitasi = 10 m/s<br>f = m.grafitasi<br>\u00a0 = 0.5 \u00d7 10<br>\u00a0 = 5 N<br><br>\u0394L = f<strong> / </strong>K<br>\u00a0\u00a0 \u00a0 =5 <strong>/</strong> 5000<br>\u00a0\u00a0 \u00a0 =<u>0,001</u> m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-mempengaruhi-besar-kecilnya-tekanan-hidrostatis-680",
+            "question": "Apa faktor yang mempengaruhi besar kecilnya tekanan hidrostatis? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas penampang dan besarnya gaya",
+                    "attachments": []
+                },
+                {
+                    "answer": "- massa jenis fluida<br>- tinggi atau kedalaman fluida dari bidang tekan (diukur dari permukaan fluida)<br>- gaya gravitasi bumi<br><br>semoga bermanfaat... :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "letak-kutub-kutub-magnet-bumi-tidak-berimpit-dengan-kutub-geograf-486",
+            "question": "Letak kutub-kutub magnet bumi tidak berimpit dengan kutub geografis bumi\u00a0karena ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bumi memiliki 2 sumbu, dengan searah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-bagaimana-proses-air-mendidih-dan-hukum-apa-yang-digunak-715",
+            "question": "Jelaskan bagaimana proses air mendidih dan hukum apa yang digunakan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Air terdiri dari beberapa molekul yang saling terikat atau tarik menarik. Nah ketika air dipanaskan air akan mengambil energi panas tersebut dengan memperlihatkan gerakan molekul-molekul air. Ketika suhu air semakin panas maka gerakan molekul-molekulnya pun akan semakin cepat yang akan menyebabkan terbebasnya atau terlepasnya ikatan molekul-molekul tersebut. Molekul yang terbebaskan akan berubah menjadi gas (menguap). Titik didih air berada pada 100 C tetapi kondisi ini jika air tidak mengandung bahan-bahan atau zat-zat yang lainnya. Sebagai contoh ketika air mendidih dalam suhu 100 C kemudian Anda memasukan garam kedalam air tersebut maka titik didih air akan lebih tinggi dari 100 C. hal ini dikarenan garam memberikan ikatan kembali kepada molekul-molekul air sehingga dibutuhkan energi panas yang lebih untuk membebaskan air dari ikatan-ikatan tersebut.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-5kg-dilempar-vertikal-ke-atas-dengan-kecepatan-a-344",
+            "question": "benda bermassa 5kg dilempar vertikal ke atas\u00a0 dengan kecepatan awal 10 m/s.kecepatan benda pada ketinggian 2,5 m di atas posisi saat melempar adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Em1=Em2<br>\u21d4Ek1+Ep1=Ek2+Ep2<br>\u21d40.5.m.10\u00b2+m.g.0=0.5.m.v\u00b2+m.g.2.5,semua ruas ada nilai m maka bisa dihilangkan,dan nilai dr Ep1=0.dan kalikan 0.5 agar setara tidak ada bil pecahan\u00a0sehingga didpt persamaan..<br>100=v\u00b2+50\u21d2v=5\u221a2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

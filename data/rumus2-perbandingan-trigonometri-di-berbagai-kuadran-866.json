@@ -1,0 +1,132 @@
+{
+    "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-23456-dan-8-akan-dibentuk-bilangan-terdiri-dari-tiga-ang-202",
+            "question": "dari 2,3,4,5,6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. <strong>Banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut</strong> adalah 80 bilangan. Hasil tersebut diperoleh dengan menggunakan kaidah pengisian tempat (filling slot).\n</p><p></p><h3>Pembahasan\n</h3><p></p><p>Untuk menentukan banyaknya bilangan antara 300 dan 700 adalah tergantung dari angka ratusan yang dipilih yaitu 300-an, 400-an, 500-an, 600-an. \u00a0</p><p></p><p>Angka yang menempati posisi \u00a0</p><ul><li>Ratusan = 4 pilihan yaitu <strong>3</strong>, 4, 5, 6 (misal yang dipilih angka 3)\n</li><li>Puluhan = 5 pilihan yaitu <strong>2</strong>, 4, 5, 6, 8 (misal yang dipilih angka 2)\n</li><li>Satuan = 4 pilihan yaitu 4, 5, 6, 8\n</li></ul><p></p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= ratusan \u00d7 puluhan \u00d7 satuan\n</p><p>= (4 \u00d7 5 \u00d7 4) bilangan\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><p></p><p></p><h3>Jika menggunakan rumus permutasi yaitu\n</h3><p>Ada 6 pilihan angka yaitu 2, 3, 4, 5, 6 dan 8\n</p><p><strong>Memilih 1 angka sebagai ratusan dari 4 pilihan (3, 4, 5, 6)\n</strong></p><p>= \u2084P\u2081\n</p><p>= [tex]\\frac{4!}{(4 - 1)!}[/tex]\n</p><p>= [tex]\\frac{4 \\times 3!}{3!}[/tex]\n</p><p>= 4\n</p><p><strong>Memilih 2 angka (sebagai puluhan dan satuan) dari 5 pilihan angka yang tersisa \u00a0</strong></p><p>= \u2085P\u2082\n</p><p>= [tex]\\frac{5!}{(5 - 2)!}[/tex]\n</p><p>= [tex]\\frac{5 \\times 4 \\times 3!}{3!}[/tex]\n</p><p>= 5 \u00d7 4\n</p><p>= 20\n</p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= 4 \u00d7 20\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang banyak ratusan yang dapat terbentuk\n</p><p>https://brainly.co.id/tugas/15150946\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0</h3><p></p><p><strong>Kelas</strong> : 12\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Kaidah Pencacahan\n</p><p><strong>Kode</strong> : 12.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-maksimum-fxax24xa-adalah-3-hitunglah-nilai-a-tolong-693",
+            "question": "Nilai maksimum f(x)=ax\u00b2+4x+a adalah 3. hitunglah nilai a!    Tolong di jawab dangan pnjelasannya yahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 3<br>y = [tex] \\frac{-D}{4a} [/tex]<br>y = [tex] \\frac{-(b^{2} - 4ac)}{4a} [/tex]<br>3 = [tex] \\frac{-(4^{2} - 4a.a)}{4a} [/tex]<br>12a = -(16 - 4a\u00b2)<br>12a = -16 + 4a\u00b2<br>4a\u00b2 - 12a - 16 = 0<br>a\u00b2 - 3a - 4 = 0<br>(a - 4)(a + 1) = 0<br>a = 4 atau a = -1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-6-dan-suku-ke-empat-663",
+            "question": "diketahui deret geometri dengan suku pertama 6 dan suku ke empat adalah 48, jumlah enam suku pertama deret tsb adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] u_{1} = a= 6[/tex]<br><br>[tex] u_{4} =[/tex]ar\u00b3 = 48<br><br>ar\u00b3 = 48<br>6r\u00b3=48<br>r\u00b3 = 48/6<br>r\u00b3=8<br>r =\u00a0\u221b8=2<br><br>[tex] s_{6}  =  \\frac{a( r^{n} -1)}{r-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 2^{6} -1)}{2-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 64 -1)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 63)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{378} [/tex]<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-deret-geometri-dibawah-ini-a-1-2-4-766",
+            "question": "Tentukan nilai dari deret geometri dibawah ini :    a.) 1 + 2 + 4 + 8 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ( sampai 10 suku)\r\nb.) 54 + 18 + 6 + 2 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 (sampai 9 suku)\r\nc.) 81 + 27 + 9 + ... + 1/27 = ...\u00a0 \u00a0 \u00a0 \r\nd.) 5 - 15 + 45 - 135 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (sampai 8 suku)\r\ne.) 3 - 6 + 12 - 24 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 (sampai 10 suku)\r\nf.) 1 - 1 + 1 - 1 + 1 - 1 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(sampai 100 suku)\r\ng.) 1 + 1 + 3 + 2 + 9 + 4 + 27 + 8 +... (sampai 19 suku)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Un = ar^n-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1.\u00a02^10-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 512",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 1,2,4,8,16,32,64,128,256,512<br>b. 54,18,6,2,2/3,2/9,2/27,2/81,2/243<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-fx-jika-dibagi-x-1-sisanya-8-dan-491",
+            "question": "diketahui suku banyak f(X) jika dibagi\u00a0 ( x+ 1) sisanya 8 dan ( x-3 ) sisanya 4 suku banyak g(x) jika dibagi dengan (x+1) bersisa -9 dan jika dibagi (x-3) sisanya 15 jika h(x) = F(X) . G(X), maka sisa pembagian H(X) oleh \u00d7\u00b2 - 2\u00d7 - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 11<br>Mapel : Matematika<br>Kategori : Suku Banyak<br>Kata Kunci : suku banyak, pembagi, hasil bagi, sisa<br>Kode : 11.2.5 [Kelas 11 Matematika KTSP Bab 5 - Sukubanyak]<br><br>Pembahasan :<br>Suku banyak atau polinomial p dalam k berderajat n memiliki bentuk umum :<br>[tex]a_n[/tex]x\u207f +\u00a0[tex]a_{n-1}[/tex]x\u207f\u207b\u00b9 + ... + [tex]a_2[/tex]x\u00b2 + [tex]a_1[/tex]x\u00b9 +\u00a0[tex]a_0[/tex]<br><span><br>dengan\u00a0</span>[tex]a_n[/tex], [tex]a_{n-1}[/tex], ..., [tex]a_2[/tex], [tex]a_1[/tex], [tex]a_0[/tex]\u00a0merupakan konstanta-konstanta real;<br><br>[tex]a_n[/tex] koefisien x\u207f, [tex]a_{n-1}[/tex]\u00a0koefisien x\u207f\u207b\u00b9, dan seterusnya;<br><br>[tex]a_0[/tex]\u00a0merupakan suku tetap;<br><span><br>n merupakan bilangan cacah yang menyatakan derajat suku banyak.<br><br>Misalnya suku banyak f(x) dibagi dengan P(x) memberikan hasil bagi H(x) dan sisanya S(x) maka diperoleh hubungan<br>f(x) = P(x) . H(x) + S(x)<br><br>Jika f(x) merupakan suku banyak berderajat n dan P(x) merupakan pembagi berderajat m dengan m\u00a0\u2264 n maka<br>1. H(x) adalah hasil bagi berderajat n - m<br>2. S(x) adalah sisa pembagian berderajat maksimum (m - 1).<br><br>Penerapan teorema sisa dapat dikembangkan untuk menentukan sisa pada pembagian suku banyak dengan suku banyak berderajat dua atau lebih yang dapat difaktorkan menjadi faktor-faktor linear.<br><br>Mari kita lihat soal tersebut.<br></span><span>Suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4. Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15. Jika suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah...<br><br>Jawab :<br>Diketahui s</span>uku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4.<br><br>Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15.<br><br>Suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3 = (x - 3)(x + 1).<br><br>Oleh karena pembagi (x - 3)(x + 1) berderajat dua, maka sisanya maksimum berderajat satu.<br><br>Misalkan pembagi P(x) = (x - 3)(x + 1), sisa S(x) = ax + b dan hasil bagi H(x), maka<br>h(x) = P(x) . H(x) + S(x)<br>h(x) = (x - 3)(x + 1) . H(x) + ax + b<br>f(x) . g(x) = (x - 3)(x + 1) . H(x) + ax + b<br><br>Kita substitusikan x = 3 dan sisa S(3) = 4 . 15 = 60<br>h(3) = f(3) . g(3) = 3a + b = 60 ... (1)<br><br>Kita substitusikan x = -1 dan sisa S(-1) = 8 . (-9) = -72<br>h(-1) = f(-1) . g(-1) = -a + b = -72 ... (2)<br><br>Kedua persamaan kita selesaikan dengan metode eliminasi dan substitusi, diperoleh<br>3a + b = 60<br>-a + b = -72<br>__________-<br>\u21d4 4a = 132<br>\u21d4 a =\u00a0[tex] \\frac{132}{4} [/tex]<br>\u21d4 a = 33<br><br>Kita substitusikan a = 33 ke persamaan (2), diperoleh<br>-a + b = -72<br>\u21d4 -33 + b = -72<br>\u21d4 b = -72 + 33<br>\u21d4 b = -39<br><br>S(x) = 33x - 39<br><br>Jadi, jika suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4, suku banyak g(x) dibagi x + 1 sisanya -9dan dibagi x - 3 sisanya 15, dan suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah 33x - 39.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5171052<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-11-dari-barisan-25612864-adalah-431",
+            "question": "Suku ke 11 dari barisan 256,128,64...\r\nadalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=256<br>r=1/2<br><br>U11= ar^10<br>= 256(1/2)^10<br>= 256:1024 <br>= 1/4 = 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2 . (2a+n-1)b<br>11=11/2.(2.256+11-1).2<br>276<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

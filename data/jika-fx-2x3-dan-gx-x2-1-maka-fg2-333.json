@@ -1,0 +1,136 @@
+{
+    "question": "Jika f(x) = 2x+3 dan g(x) =x2-1, maka (f.g)(2) =...\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(f.g(2))= 2(x2-1)+3\n            =2x2-2+1 = 2x2+1\n=2(2)2 +1 = 2(4)+1= 8+1=9",
+            "attachments": []
+        },
+        {
+            "answer": "(f.g)(x) = (2x + 3) (x2-1)<br>(f.g)(2) = (2(2) + 3) ((2)2-1)<br>(f.g)(2) = (4+3) (4-1)<br>(f.g)(2) = 7 . 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 21<br>kalo ga salah gitu",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derajat-suku-banyak-5x2-x2-3x34x-2-adalah-872",
+            "question": "Derajat suku banyak (5x\u00b2-x)\u00b2\u00a0 (3x\u00b3+4x-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(5x^2 - x)^2 (3x63 + 4x - 2) = (25x^4 -10x^3\u00a0+ x^2) (3x^3 + 4x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75x^7 + 100x^5 - 50x^4 - 30x^6 - 40x^4 + 20x^3 + 3x^5 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04x^3 - 2x^2<br><br>Karena pangkatnya yang paling besar adalah 7 maka persamaan di atas berderajat tujuh.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-5x-7-gt-7x5-maka-840",
+            "question": "Jika 5/x-7 &gt; 7/x+5, maka...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/ x-7 &gt; 7/x+5\u00a0<br>5x+25/(x-7)(x+5) &gt; 7x-49/(x-7)(x+5)\u00a0<br>5x+25 &gt; 7x-49\u00a0<br>25+49 &gt; 7x - 5x\u00a0<br>74 &gt; 2x\u00a0<br>37 &gt; x\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-irisan-sebuah-pipa-mendatar-dengan-garis-t-647",
+            "question": "Tolong bantu saya ..    \u00a0irisan sebuah pipa mendatar dengan garis tengah 1 m berituk:\r\n\r\nlebar pipa 1 m panjang pipa 10 cm\r\n\r\ndidalam pipa tersebut terdapat air yang dalamnya 10 cm ditengah-tengah penampang. lebar permukaan air adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 x 1000 cm....<br>trus di tambah 1..;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amoeba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-929",
+            "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+                    "attachments": []
+                },
+                {
+                    "answer": "(2*60)/15*30=240 amoeba",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-nilai-kpk-dari-30-dan-48-198",
+            "question": "Berapa nilai kpk dari 30 dan 48?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br>KPK= 2 x 2 x 2 x 2 x 3 x 5 = 240<br>FPB = 2 x 3 = 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br><br><br>kpk= 2 x 2 x 2 x 2 x 3 x 5 = 240<br><span><br>fpb = 2 x 3 = 6</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-grafik-y-2-sin-3x-271",
+            "question": "Gambarkan grafik : y = 2 sin 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar grafik y = 2 sin3x<br><br>Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/gambarkan-grafik-y-2-sin-3x-271-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+            "attachments": [
+                "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-barisan-deret-aritmatika-dengan-un-adalah-suku-ke-n-ji-683",
+            "question": "diketahui barisan deret aritmatika dengan Un adalah suku ke-n. jika U2 + U15 + U40 = 165 makan U19 =.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan deret aritmatika dengan Un adalah suku ke-n. Jika U2 + U15 + U40 = 165 maka U19 = <strong>55</strong>.</p><p></p><h3><strong>P</strong>embahasan</h3><p><u>Diketahui</u>:</p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = 165</p><p></p><p><u>Ditanya</u>:</p><p>U\u2081\u2089 = .....?</p><p></p><p><u>Jawab</u>:</p><p>Dalam mencari suku ke-n pada deret aritmatika dengan suku pertama a dan beda b berlaku persamaan berikut:</p><h3> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2099 = a + (n - 1) b</h3><h3></h3><p>maka dari soal di atas, suku-suku yang telah diketahui dapat diuraikan sebagai berikut:</p><p>U\u2082 \u21d2 n = 2 \u21d2 U\u2082 = a + (2 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2082 = a + b</p><p>U\u2081\u2085 \u21d2 n = 15 \u21d2 U\u2081\u2085 = a + (15 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2085 = a + 14b</p><p>U\u2084\u2080 \u21d2 n = 40 \u21d2 U\u2084\u2080 = a + (40 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2084\u2080 = a + 39b</p><p></p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = (a + b) + (a + 14b) + (a + 39b)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 165 = 3a + 54b \u00a0</p><p>disederhanakan dengan membagi kedua ruas dengan tiga</p><p>{ 3a + 54b = 165 } : 3</p><p>a + 18b = 55</p><p></p><p>U\u2081\u2089 \u21d2 n = 19 \u21d2 U\u2081\u2089 = a + (19 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2089 = a + 18b</p><p>Sehingga nilai U\u2081\u2089 = 55.</p><p></p><p>Semoga dapat membantu. Selamat belajar!</p><p></p><h3>Pelajari lebih lanjut</h3><p>1. Materi tentang Deret Aritmatika https://brainly.co.id/tugas/9607287</p><p>2. Materi tentang Contoh Soal Deret Aritmatika https://brainly.co.id/tugas/23271525, https://brainly.co.id/tugas/15798077</p><p>----------------------------</p><h3>Detil Jawaban</h3><p>Kelas : IX SMP</p><p>Mapel : Matematika</p><p>Bab : Barisan dan Deret Bilangan</p><p>Kode kategori : 9.2.2\t</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fungsi-gx-2x-1-dan-fogx-4x26x-2-rumus-fungsi-359",
+            "question": "Diketahui fungsi g(x) =2x-1 dan (fog)(x) =4x\u00b2+6x-2. rumus fungsi f(x) +=...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> g(x) = 2x-1 dan (fog)(x) = 4x\u00b2+6x-2<br>misal g(x) = y<br>y = 2x - 1<br>2x = y + 1<br>x = [tex] \\frac{1}{2} [/tex](y + 1)<br>f(g(x)) =</span>4x\u00b2+6x-2<br>f(y) = 4[tex] ( \\frac{y + 1}{2} )^{2} [/tex]\u00a0 + 6[tex] (\\frac{y + 1}{2} )[/tex] - 2<br>f(y) = 4[tex] ( \\frac{y^{2} + 2y + 1}{4} ) [/tex]\u00a0 + 6[tex] (\\frac{y + 1}{2} )[/tex] - 2<br>f(y) = [tex] y^{2} [/tex] + 2y + 1 + 3(y + 1) - 2<br>f(y) = [tex] y^{2} [/tex] + 2y + 1 + 3y + 3 - 2<br>f(y) = [tex] y^{2} [/tex] + 5y + 2<br>f(x) = [tex] x^{2} [/tex] + 5x + 2<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-kecepatan-80kmjam-memerlukan-waktu-2-jam-15-774",
+            "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-dari-13-sudut-lurus-682",
+            "question": "Tentukan besar sudut dari 1/3 sudut lurus\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/3 dikali 180 (sudut lurus) = 60 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60 derajat<br>maaf kalau salah ..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pabrik-memproduksi-mobil-banyaknya-produksi-per-bulan-me-359",
+            "question": "Sebuah pabrik memproduksi mobil , banyaknya produksi per bulan merupakan deret aritmatika , produksi pada bulan ke 3 adalah 150 unit dan produksi pada bulan ke 6 adalah 225 unit tentukan    a. banyaknya produjsi pada bulan pertama \r\nb. pertambahan produksi pada tiap bulan\r\nc. jumlah produksi pada tahun pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] U_{3} = a + 2b = 150  \\\\  U_{6} = a + 5b = 225 [/tex]\u00a0\u21d2\u00a0[tex]a = 225 - 5b \\\\  U_{3} = 225 - 5b +2b \\\\ 150 = 225 - 3b \\\\ 3b = 75 \\\\ b = 25[/tex]<br><br>a)\u00a0[tex] U_{3} = a +2b \\\\ 150 = a + 2(25) \\\\ a = 100[/tex]<br><br>b) beda\u00a0= 25\u00a0<br><br>c)\u00a0[tex] S_{12} = 6 ( 2(100)+11(25) = 2850[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ditembakan-vertikal-ke-atas-mencapai-tinggi-h-met-626",
+            "question": "sebuah\u00a0roket ditembakan vertikal\u00a0ke atas\u00a0mencapai tinggi h meter setelah t detik dirumuskan dengan h(t)=\u00a0400t-5t\u00b2 tinggi maximum roket adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk mencari nilai tinggi maximum nya, yaitu dengan mencari nilai t pada\u00a0turunan pertamanya<br>h(t) = 400t-5t<span>\u00b2<br>h(t) = 400 - 10t<br><br>0 = 400 - 10t // pindah ruas<br>10t = 400<br>t = 400/10 = 40 \u00a0&lt;-- maka tinggi maksimu terjadi saat t=40<br><br>dan nilai ketinggian maksimunya adalah<br>h(t) = 400t - 5t</span><span>\u00b2<br>h(t) = 400 (40) - 5 (40</span><span>\u00b2)<br></span><span>\u00a0 \u00a0 \u00a0\u00a0= 16000 - 8000 = 8000 meter<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-20-suku-pertama-pada-deret-aritmatika-berikut-ini-460",
+            "question": "Tentukan jumlah 20 suku pertama pada deret aritmatika berikut ini.\r\na. 1+4+7+...\r\nb.40+37+34+...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a =1 b = 4-1=3<br>Sn = 20/2 (2(1)+(20-1)3)<br>\u00a0 \u00a0 \u00a0= 10 (2 + 57)<br>\u00a0 \u00a0 \u00a0= 590<br><br>2. a = 40 \u00a0b = 37-40 = -3<br>Sn = 20/2 (2(40) + (20-1) -3)<br>\u00a0 \u00a0 \u00a0= 10 (80 + (- 57))<br>\u00a0 \u00a0 \u00a0= \u00a0230",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

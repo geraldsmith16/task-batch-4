@@ -1,0 +1,142 @@
+{
+    "question": "Tolong bantu saya dong bantuin ngerjain soal mtk.... :) v berserta penjelasan n cra kerja.a yah.... :) 1. Tentukan jumlah deret aritmatika berikut ! a. 3+6+9+12+ .... Sampai dengan 18 suku b. 2+8+14+30+ .... Sampai dengan 10 suku c. 1+6+11+16+ ..... Sampai dengan 14 suku d. 50+46+42+38+ .... Sampai dengan 10 suku e. -22-16-10-4- .... Sampai dengan 20 suku 2. Tentukan banyak suku dan jumlah deret aritmatika berikut ! a. 4+9+14+19+ .... +104 b. 72+66+60+54+ ..... +12 c. -12-8-4-0- ..... -128 d. -3-7-11-15 ....-107 3. Tentukan banyak suku dari deret berikut ! a. 6+9+12+15+ .... = 756 b. 56+51+46+41+ .... = -36 c. 10+14+18+22+ .... = 640 4. Diketahui deret aritmatika dengan suku ke-7 dan duku ke-10 berturut-turut adalah 25 dan 37. Tentukanlah jumlah 20 suku pertama ! 5. Bila a,b,c merupakan suku berurutan yang membentuk barisan aritmatika, buktikan bahwa ketiga suku berurutan berikut ini juga membentuk barisan aritmatika 1/bc, 1/ca, 1/ab 6. Tentukan banyak bilangan asli yang kurang dari 999 yang tidak hbis d bgi 3 atau 5. 7. Diketahui barisan yang di bentuk oleh semua bilangan asli 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 .... Angka berapakah yang terletak pad bilangan k 2004 ? (bilangan ke-12 adalah angka 1 dan bilangan dan bilangan ke-15 adalah angka 2) 8. Gunakan induksi mtk untuk membuktikan persamaan berikut ini benar! a. 1.2+2.3+3.4+ ... + n(n+1) = n(n+1) (n+2) / 3 b. 1 pangkat 3 + 2 pangkat 3 + 3 pangkat 3 + ..... + n pangkat 3 = [ n(n+1)/2 ] pankat 2",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a : suku ke 18 sama dengan 53",
+            "attachments": []
+        },
+        {
+            "answer": "1 a: sn=n/2(2a+(n-1)b)<br>\u00a0\u00a0 \u00a0 \u00a0 s18= 18/2(2(3)+17.3)<br>s18= 9.57<br>s18=513<br><br>b. sn=n/2(2a+(n-1)b)<br>\u00a0s10= 10/2(2(2)+(10-1)6)<br>s10= 5.58<br>s10= 290<br><br>c s14= 14/2 (2.1 + ( 14-1) 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a07(3+65) = 476<br><br>d. s10= 10/2 ( 2.50 + 9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 5 .64 = 320<br><br>sampai ini dulu ya, yg bisa 1-4 doang, induksi mtk itu panjang banget ribet .. ini soal sama kaya punya saya",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-fungsifx-5x-3-2x-1-x-528",
+            "question": "Jika diketahui fungsi\u00a0f(x) = ( 5x + 3 ) / (2x \u2013 1 ) ,\u00a0x\u00a0\u2260\u00a0 \u00bd\u00a0 dan\u00a0g(x) = 3x\u00a0+ 2 maka (f\u20131\u00a0o\u00a0g)(x) adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x - 1<br><br>y =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 2x - 1<br>y(2x-1) = 5x + 3<br>2xy - y = 5x +3<br>2xy\u00a0-\u00a05x = 3 + y<br>x(2y - 5) = 3 + y<br><br>x =<u> 3 + y\u00a0</u><br>\u00a0 \u00a0 \u00a02y - 5<br><br>f-1 =<u> 3 + x\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a02x - 5<br><br>(f-1 o g) = \u00a0<u> \u00a03 + 3x +\u00a02\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02(3x + 2) - 5<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u> \u00a03x + 5 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6x + 4 - 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u> 3x +\u00a05\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a06x - 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-diketahui-rx-x3-4-maka-invers-dari-r-adal-419",
+            "question": "1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0    Diketahui R(x) = x3\r\n \u2013 4. Maka invers dari R adalah\u00a0\r\n\r\n\r\n2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\nA = {x \u2208 R; x &gt; 0} dan f,g adalah fungsi fungsi pada A yang ditentukan oleh f(x) = x2 \u2013 1 dan g(x) = 4x + 3. Jika f-1(a) = 11 dan g-1(b)\r\n = 25, cari nilai a dan b",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0R\u00a0infernya r = x^3 - 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r + 4 = x^3<br>\u00a0 \u00a0 karena nilai r = x maka<br>\u00a0 \u00a0 x = \u00a0r + 4 dibagi x^3<br>\u00a0 \u00a0 x = 1/1^3 r\u00a0+ 4/1<br>\u00a0 \u00a0 \u00a0 \u00a0= r + 4<br>karena x = R<br>maka infers R = x^3 + 4 atau r + 4<br><br>2. f-1 =\u00a0[tex] \\frac{1}{x^2} +  \\frac{1}{x^2} = 11[/tex]<br><br>\u00a0 \u00a0 g-1 =\u00a0[tex] \\frac{1}{4} x -  \\frac{3}{4} = 25 [/tex]<br><br>b = 25 + 3/4 ; 1/4 = 412",
+                    "attachments": []
+                },
+                {
+                    "answer": "R(x) = x\u00b3 - 4<br>misal R(x) = y<br>y = x\u00b3 - 4<br>x\u00b3 = y + 4<br>x = [tex] \\sqrt[3]{y + 4} [/tex]<br>[tex] R^{-1}(x) [/tex] = [tex] \\sqrt[3]{x + 4} [/tex]<br><br><br>f(x) = x\u00b2 - 1<br>y = x\u00b2 - 1<br>x\u00b2 = y + 1<br>x = [tex] \\frac{+}{} [/tex][tex] \\sqrt{y + 1} [/tex]<br>[tex] f^{-1}(x) [/tex] = [tex] \\frac{+}{} [/tex][tex] \\sqrt{x + 1} [/tex]<br>[tex] f^{-1}(a) [/tex] = 11<br>11 = [tex] \\frac{+}{} [/tex][tex] \\sqrt{a + 1} [/tex]<br>121 = a + 1<br>a = 120<br><br>lebihnya cari ndiri ya gan...:)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-25-x-1-28-x-67-955",
+            "question": "2 2/5 x 1 2/8 x 6/7 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pecahan campurannya dijadikan pecahan biasa.<br>12/5 x 10/8 x 6/7 = 720/280 = 72/28= 2 16/28 = 2 4/7",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 2/5=12/5<br>1 2/8=10/8=5/4<br><br>12/5 x 10/8 x 6/7 =18/7 =2 4/7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-kuadrat-dari-akar-akar-persamaan-suku-banyak-x3-767",
+            "question": "Tentukan jumlah kuadrat dari akar-akar persamaan suku banyak x\u00b3-2\u00d7\u00b2-23+k=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1\u00a0+\u00a0x2 = 2<br>x1.x2 =\u00a0-23+k<br><br>x1\u00b2 + x2\u00b2 = (x1+x2) - 2.x1.x2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0- 2(-23+k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2 - (-46+2k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0+ 46 - 2k<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = -2k +48<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

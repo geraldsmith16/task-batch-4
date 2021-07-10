@@ -1,0 +1,140 @@
+{
+    "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-kecepatan-80kmjam-memerlukan-waktu-2-jam-15-774",
+            "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-bilangan-14-dan-224-disisipkan-3-bilangan-sehingga-terb-514",
+            "question": "Di antara bilangan 14 dan 224 disisipkan 3 bilangan sehingga terbentuk barisan geometri. Tentukanlah rasio dan jumlah deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  r_{baru} = \\sqrt[3+1]{224/14}  =  \\sqrt[4]{16} = 2[/tex]<br><br>[tex] S_{5} =  \\frac{14( 2^{5} - 1)}{2-1} = 448[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derajat-suku-banyak-5x2-x2-3x34x-2-adalah-872",
+            "question": "Derajat suku banyak (5x\u00b2-x)\u00b2\u00a0 (3x\u00b3+4x-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(5x^2 - x)^2 (3x63 + 4x - 2) = (25x^4 -10x^3\u00a0+ x^2) (3x^3 + 4x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75x^7 + 100x^5 - 50x^4 - 30x^6 - 40x^4 + 20x^3 + 3x^5 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04x^3 - 2x^2<br><br>Karena pangkatnya yang paling besar adalah 7 maka persamaan di atas berderajat tujuh.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-823",
+            "question": "Pak daniel seorang karyawan\u00a0 perusahaan. Ia membeli sebuah mobil bekas seharga Rp 90.000.000,00. dan dikenakan pajak penjualan sebesar 5%.Berapa rupiah uang yang harus dibayar Pak Daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: IX</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Matematika perdagangan</p>\n\n<p>Kata kunci: pembelian, pajak, penjualan</p>\n\n<p>\u00a0</p>\n\n<p>Pak Daniel membeli sebuah mobil seharga Rp. 90.000.000,- </p>\n\n<p>Pak daniel juga harus membayar pajak sebesar 5% dari besar harga\npembelian mobil itu.</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>\u00a0</p>\n\n<p>Kita hitung dulu harga pajak yang harus dibayarkan:</p>\n\n<p>5/100 x 90.000.000 = Rp. 4500.000,-</p>\n\n<p>\u00a0</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>90.000.000 + 4.500.000 = Rp. 94.500.000,-</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

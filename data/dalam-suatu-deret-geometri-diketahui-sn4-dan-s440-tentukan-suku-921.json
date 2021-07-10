@@ -1,0 +1,134 @@
+{
+    "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rp-2650000-untuk-2-hari-senilai-dgn-untuk-5-hari-723",
+            "question": "Rp 26.500.00 untuk 2 hari senilai dgn ........... untuk 5 hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "26,500 : 2 = 13,250\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 13,250 x 5 = 66,250 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Jadi untuk 5 hari = Rp 66,250.00<br>\u00a0 \u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-keranjang-berisi-25-salak-dan-2-diantaranya-busuk-jika-dia-768",
+            "question": "suatu keranjang berisi 25 salak dan 2 diantaranya busuk, jika diambil 3 salak sekaligus, maka peluang terambilnya salak yang baik semua adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iket: <br>\nn(S) = 25 <br>\nA = busuk  <br>\nn(A) = 2 \u2192 n(A\u2019) = 25 \u2013 2 = 23 <br><br>\nkejadian terambil 3 salak sekaligus, <br>\npeluang salak baik semua: <br>\n= 23C\u2083/25C\u2083 <br>\n= 1771 . /2300 <br>\n= 77/100 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "proyeksi-vektor-a-300-pada-vektor-yang-sejajar-tetapi-berl-820",
+            "question": "Proyeksi vektor a = (-3,0,0) pada vektor yang sejajar tetapi berlawanan arah dengan vektor b = (1,-2,-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor yg berlawanan b&#039; = (-1,2,2)<br>proyeksi vektor\u00a0[tex]c =  \\frac{a.b&#039;}{|b&#039;|^{2} }b&#039; [/tex]<br>[tex]a.b&#039;=3+0+0[/tex]<br>[tex]a.b&#039;=3[/tex]<br>[tex] |b&#039;|^{2} = 1+4+4 [/tex]<br>[tex] |b&#039;|^{2} = 9[/tex]<br>sehingga<br>[tex]c= \\frac{3}{9} (-1,2,2)[/tex]<br>[tex]c= \\frac{1}{3} (-1,2,2)[/tex]<br>[tex]c=(- \\frac{1}{3} , \\frac{2}{3} , \\frac{2}{3} )[/tex]<br><br>CMIIW :3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-20-dari-barisan-420-2-adalah-824",
+            "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-persamaan-berikut-ini-a-3-kal-609",
+            "question": "Tentukan nilai x yang memenuhi persamaan berikut ini !\u00a0    a. 3 kali x pangkat 0,4 = 9 kali (1/3) pangkat 0,6\r\nb. 3 pangkat 5x-1 = 27 pangkat x+3\r\nc. akar 4 pangkat x+4 = (1/16) pangkat 5-x\r\nd. 3 akar 27 pangkat 2x-1 = (3 akar 1/243) pangkat 3x\r\n\r\n~Selamat menjawab~ tolong bantu saya :)\r\n# jangan jawab asal asalan yah.. poinnya tinggi loh.. ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x^{0.4} = 9(\\frac{1}{3})^{0.6} \\\\ 3x^{(\\frac{2}{5})} = 3^3 3^{-(\\frac{3}{5})} \\\\ 3x^{(\\frac{2}{5})} = 3^{3 - (\\frac{3}{5})} \\\\ x^{(\\frac{2}{5})} = 3^{(\\frac{7}{5})} \\\\ x^{(\\frac{2}{5})} = (3^{(\\frac{7}{2})})^{(\\frac{2}{5})} \\\\ x = 3^{(\\frac{7}{2})}[/tex]<br>Sesak gua jawabnya -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-lt-x-lt-90-hitunglah-nilai-cotan-90-973",
+            "question": "Jika sin x = 2\\3 ( 0 &lt; x &lt; 90 ), hitunglah nilai cotan ( 90 - x ).\r\nlampirkan penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin = depan per miring\u00a0<br>sin x = 2 per 3<br><br>samping = akar 5<br><br>cotg = depan per samping<br>cotg = 2 per akar 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Batang Panjangnya 1 m bergerak dengan kecepatan v, diamati olehBatang Panjangnya 1 m bergerak dengan kecepatan v, diamati oleh pengamat yang diam panjang batang menjadi 80 cm. Bila c = kecepatan cahaya, maka kecepatan batang itu adalah ....    a. 1/5 c\r\nb. 2/5 c\r\nc. 3/5 c\r\nd. 4/5 c",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "L =\u00a0[tex] L_{0} [/tex][tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex]<br>0,8 = 1\u00a0[tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex] ... (kali kuadrat)<br>0,64 = 1 ( 1-[tex] \\frac{ v^{2} }{ c^{2} } [/tex] )<br>0,64 = 1 -\u00a0[tex] \\frac{ v^{2} }{ c^{2} } [/tex]<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 1 - 0,64<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 0,36<br>v\u00b2 = 0,36 c\u00b2<br>v =\u00a0[tex] \\sqrt{0,36 .  c^{2} } [/tex]<br>v = 0,6 c atau\u00a0[tex] \\frac{3}{5} [/tex] c<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-bermassa-25-kg-dijatuhkan-tanpa-kecepatan-awal-dari-216",
+            "question": "sebuah bola bermassa 2,5 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas dan B dilantai bawah dengan perbedaan tinggui 4,0 meter. besar usaha oleh gaya berat untuk proses perpindahan bola dari A ke B adalah ... (g=10 ms)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : Vo = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 m = 2,5 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 h = 4\u00a0m<br>\u00a0 \u00a0 \u00a0 \u00a0 g = 10 m/s\u00b2<br>Dit : W?<br>Jwb : W =\u00a0\u0394Ep<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0W = m x\u00a0g x h<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0W = 2,5 x 10 x 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0W = 100 Joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-02-m-x-01-m-x-03-m-digantung-vertik-741",
+            "question": "Sebuah balok dengan ukuran 0,2 m x 0,1 m x 0,3 m digantung vertikal dari seutas kawat ringan. tentukan gaya apung pada balok itu :    a. di celupkan seluruhnya dalam minyak \r\n\r\n ( \u03c1 = 800 kg/m3)\r\nb. dicelupkan 3/4 bagian dalam air (\u03c1 = 1000 kg/m3)\r\nc. dicelupkan 1/3 bagian dalam raksa (\u03c1 = 13600 kg/m3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V balok seluruhnya = 0,2m. 0,1m. 0,3m = 0.006 m\u00b3<br>3/4 V balok = 3. 0.006 /4 = 0.0045 m\u00b3<br>1/3 V balok = 0.06 / 3 = 0.002 m\u00b3<br>a. p minyak = 800kg/m\u00b3<br>\u00a0\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 800. 10. 0.006<br>\u00a0\u00a0 \u00a0 =\u00a0 48 N<br><br>b. p air = 1000 kg/m\u00b3 <br>\u00a0\u00a0  F= p. g. V<br>\u00a0\u00a0 \u00a0 = 1000. 10. 0.0045<br>\u00a0\u00a0 \u00a0 = 45 N<br><br>c. p raksa =13600kg/m\u00b3<br>\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 13600. 10. 0.002<br>\u00a0\u00a0 \u00a0 = 272 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-memasak-air-di-daerah-pegunungan-maka-air-akan-mendidih-447",
+            "question": "jika kita memasak air di daerah pegunungan maka air akan mendidih di bawah suhu 100 derajat celcius. jelaskan!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air mendidih pada suhu 100 derajat Celcius. Itu benar, tetapi hanya berlaku untu tekanan 1 Atmosfer (Atm). \u00a0Jika tekanannya lebih rendah dari 1 Atm, maka air mendidih pada suhu di bawah 100 derajat Celcius. Ketika tangkai tabung ditarik, sementara ujung tabung ditutup, maka volume tabung meningkat dan mengakibatkan tekanan di dalam tabung berkurang. Turunnya tekanan di dalam tabung membuat air hangat di dalamnya mendidih.<span>Jika kita memasak air di\u00a0puncak\u00a0gunung yang tinggi, maka air akan mendidih di bawah suhu 100 derajat Celcius. Semakin tinggi letak suatu tempat dari permukaan Bumi semakin rendah tekanan udaranya.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "langsung-aja-deh-gansoalnya-begini-benda-a-ma-20kg-dan-774",
+            "question": "Langsung aja deh gan,soalnya begini...\u00a0    Benda A (mA = 20kg) dan benda B (mB = 10kg), semula diam di atas lantai. Kemudian, kedua benda ditarik keatas melalui sebuah katrol dengan gaya F = 788 N seperti pada gambar. Dengan menganggap katrol sangat ringan dan licin, percepatan benda A dan B adalah....\u00a0\r\n(g = 10 m/s)\u00a0\r\n\r\ntolong di bantu gan^^ kalo kurang jelas,soalnya ada di sini http://atophysics.files.wordpress.com/2008/11/evaluasi-4.pdf nomer 32\u00a0\r\n\r\nsekian,terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = Ma - Mb . g dibagi Ma + Mb<br>\u00a0 \u00a0= 20 - 10 . 10 dibagi 20 +10<br>\u00a0 \u00a0= 100 / 30 = 3,33 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-kalor-berdasarkan-pengertian-konvensional-dan-berdasar-593",
+            "question": "Pengertian kalor berdasarkan pengertian konvensional dan berdasarkan teori kinetik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor adalah energi panas yang berpindah sari benda yang bersuhu lebih tinggi ke benda yang bersuhu lebih randah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Konvensional : Energi yang muncul akibat perubahan suhu<br>Teori kinetik Zat :Energi yang muncul akibat adanya perubahan Tekanan dan Volume suatu zat pada massa dan Suhu tertentu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-dimaksud-suhu-nol-mutlak-adalah-931",
+            "question": "Yang dimaksud suhu nol mutlak adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Suhu Nol Mutlak adalah Suhu 0 Kelvin pada suhu ini partikel Tidak bisa bergerak</strong><br><br><strong>\"Semoga Berguna\"</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Suhu nol mutlak adalah suhu yang ditetapkan secara internasional pada tingkat 0 Kelvin dimana praktis partikel tidak bisa bergerak",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-5kg-dilempar-vertikal-ke-atas-dengan-kecepatan-a-344",
+            "question": "benda bermassa 5kg dilempar vertikal ke atas\u00a0 dengan kecepatan awal 10 m/s.kecepatan benda pada ketinggian 2,5 m di atas posisi saat melempar adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Em1=Em2<br>\u21d4Ek1+Ep1=Ek2+Ep2<br>\u21d40.5.m.10\u00b2+m.g.0=0.5.m.v\u00b2+m.g.2.5,semua ruas ada nilai m maka bisa dihilangkan,dan nilai dr Ep1=0.dan kalikan 0.5 agar setara tidak ada bil pecahan\u00a0sehingga didpt persamaan..<br>100=v\u00b2+50\u21d2v=5\u221a2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "balok-bermassa-10-kg-terletak-di-atas-permukaan-kasar-dengan-miu-296",
+            "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "N= w<br>N= 10x10 &gt; 100N<br>\u03a3F= m.a<br>F-f=m.a<br>100-(100x0,4)=10a<br>100-40=10a<br>a=60/10<br>a=6 m/s2<br>mencari kecepatan menggunakan rumus kecepatan dan jarak:<br>Vt\u00b2=Vo\u00b2+2as<br>Vt\u00b2=0\u00b2+2.6.3 (kecepatan awal 0 m/s)<br>Vt\u00b2= 36<br>Vt= \u221a36 &gt; 6 m/s.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-05-kg-jatuh-dari-ketinggian-4-m-hitungla-152",
+            "question": "Sebuah benda bermassa 0,5 kg, jatuh dari ketinggian 4 m. Hitunglah besar energi potensial gravitasi benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EP = m x G x h<br>EP = 0.5 x 10 x 4<br>EP = 20 J",
+                    "attachments": []
+                },
+                {
+                    "answer": "potensial=m.g.h<br>h/m<br>4/0,5<br>=8 m/s<br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

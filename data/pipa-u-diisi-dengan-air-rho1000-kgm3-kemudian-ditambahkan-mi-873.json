@@ -1,0 +1,138 @@
+{
+    "question": "Pipa U diisi dengan air (rho=1000 kg/m\u00b3) kemudian ditambahkan minyak setinggi 20 cm. Jika selisih permukaan air pada kedua kaki 16 cm berat maja jenis minyak?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rho minyak \u00d7 tinggi minyak = rho air \u00d7 tinggi air <br>rho minyak = 1000 \u00d7 4 \u00f7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4000 \u00f7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 Kg / m\u00b3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842",
+            "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+            "attachments": [
+                "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "intensitas-bunyi-di-titik-a-yang-berjarak-1-meter-dari-sumber-bun-436",
+            "question": "Intensitas bunyi di titik A yang berjarak 1 meter dari sumber bunyi adalah 10 pangkat -7 W/m^2. Titik B berjarak 100 m dari sumber bunyi. Jika intesitas ambang 10^12 W /m^2, perbandingan taraf intensitas di A dan B adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(intensitas dan taraf intensitas bunyi)\u00a0<br>apabila I =\u00a0[tex]10^{-n} \\frac{W}{m^{2}} [/tex]<br>maka untuk merubah ke TI adalah\u00a0<br><br>TI = 10 * (12 - n)\u00a0<br>jadi,\u00a0<br>[tex]I_A = 10^{-7} \\frac{W}{m^{2}} =&gt; TI_A = 50 dB[/tex]<br><br>Apabila menjauh 10^n kali, maka TI berkurang 20dB<br>Bertambah 10^n kali, maka TI bertambah 10 dB<br><br>Jadi karena menjauh\u00a0[tex]10^2 \n[/tex]\u00a0kali, maka TI berkurang 20*2 = 40dB\u00a0<br>[tex]TI_B = 50-40 = 10dB[/tex]<br>Jadi perbandingan TIA : TIB = 50:10 = 5:1\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-wadah-berisi-dua-macam-zat-cair-yaitu-minyak-dengan-massa-230",
+            "question": "sebuah wadah berisi dua macam zat cair, yaitu minyak dengan massa jenis 0,8 g/cm3 setinggi 10 cm dan air dengan massa jenis 1 g/cm3 setinggi 50 cm. tekanan udara di permukaan minyak adalah 1 atm. besar tekanan di dasar wadah adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pair =\u00a0\u03c1air*g*h<br>=1000*10*0,5<br>=5000Pa<br><br>Pminyak = 800*10*0,1<br>=800Pa<br><br>1atm=1*10^5 Pa<br><br>total tekanan<br>= 100.000+5.000+800<br>=105.800Pa\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-10-contoh-fluida-dalam-kehidupan-sehari-hari-648",
+            "question": "Berikan 10 contoh fluida dalam kehidupan sehari-hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air, minyak, oli, minyak tanah, bensin, solarr, susu,, cairan pembersih piring, detergen cair",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>contoh-contoh fluida diabtaranya adalah : Minyak peluma, Susu dan air, Udara, Gas, Cairan.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-reaksi-fusi-berikut-1h11h11d21ee-diketahui-mas-798",
+            "question": "Perhatikan reaksi fusi berikut!    1H1+1H1\u21d21d2+1e+E\r\ndiketahui: massa 1H1 =1,0078 sma\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 massa 1d2 =2,01410 sma\r\nmassa 1e=0,00055 sma\r\n1 sma=931 MeV\u00a0\r\nnilai E (energi yang di hasilkan)pada reaksi fusi adlh...MeV\r\na.0,44\r\nb.0,88\r\nc.0,98\r\nd.1,02\r\ne.1,47",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa sebelum reaksi 2* massa 1H1=2,0156<br>massa sesudah reaksi=2,01410+0,00055=2,01465<br>E=(massa sebelum-massa sesudah)*931 Mev<br>E=0,00095*931<br>E=0,88445 Mev jadi jawabannya b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-700-kg-bergerak-dengan-kecepatan-72-kmjam-768",
+            "question": "sebuah mobil bermassa 700 kg bergerak dengan kecepatan 72 km/jam. maka besar momentum mobil tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Massa = 700 kg<br>Kecepatan (V) = 72 km/jam =<u> 72 x 1000 </u>= 20 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03600<br><br>Momentum\u00a0(P) = ?<br><br>P = M x V<br>\u00a0 \u00a0= 700 x 20<br>\u00a0 \u00a0= 14000 kg m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-bisa-menjelaskan-sifat-sifat-rangkaian-rlc-siapa-316",
+            "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-menurunkan-tegangan-listrik-bolak-balik-dari-861",
+            "question": "sebuah transformator menurunkan tegangan listrik bolak-balik dari 220 volt menjadi 10 volt. efisiensi transformator 60%. bila kuat arus pada kumparan sekunder 6,6 ampere, maka kuat arus pada kumparan primernya adalah... A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Efisiensi = [tex] \\frac{P s}{P p} [/tex]<br>P = V . I<br><br>Jadi, Efisiensi = [tex] \\frac{Vs . Is}{Vp . Ip} [/tex]<br>60 % = [tex] \\frac{10.6,6}{220.x} [/tex]<br>x = [tex] \\frac{6600}{13200} [/tex]<br>x = 0,5 A<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "efisiensi=[tex] \\frac{Pkeluaran}{Ptotal} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = [tex] \\frac{Vs.Is}{Vp.Ip} [/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 60%\u00a0 =\u00a0  [tex] \\frac{10x6,6}{220xIp} [/tex] <br>\u00a0\u00a0 Ip\u00a0 \u00a0 \u00a0\u00a0 =\u00a0   [tex] \\frac{10x6,6}{220x60%} [/tex]\u00a0 = 0,5 A <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998",
+            "question": "Diagram berikut menggambarkan percobaang Young, d adalah jarak antar celah, P2 adalah garis terang orde 2. Jika panjang gelombang yang digunakan adlaah 400 Nm (1nm = 10^-9 m) maka jarak antar celah adalah\u00a0",
+            "attachments": [
+                "question-attachments/diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lamda = 400 Nm = 4x10^-9 m<br>\u00a0 \u00a0 \u00a0 \u00a0m \u00a0 \u00a0 \u00a0 = 2<br>Dit d ?\u00a0<br>jawab.<br>\u00a0d sin 0 = m\u00a0.\u00a0lamda<br>d sin 30 = m . lamd<br>d =\u00a0[tex] \\frac{2 . 4x10^-9}{0,5} [/tex] = 16 x 10^-9 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permukaan-air-p-air-1-gcm3-di-dalam-pipa-kapiler-berdiameter-802",
+            "question": "permukaan air (p. air= 1 g/cm3) di dalam pipa kapiler berdiameter dalam 1 mm adalah 4 cm di atas permukaan air di luar pipa itu. jika sudut kontak air dalam pipa kapiler 60derajat, besar tegangan permukaan air adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Rumus<br>y =2.\u03b3.cos \u03b8\u00a0/\u03c1.g.r,\u00a0<br>Tegangan permukaan :\u00a0<br>\u03b3= y.\u03c1.g.r/2. cos\u03b8\u00a0<br>= 0,04 x 1000 x 10 x 5 x\u00a0[tex] 10^{-4} [/tex]/ 2 x cos 60 ( r = 5 x\u00a0[tex] 10^{4} [/tex]\u00a0m)\u00a0<br>= 0,2\u00a0/1\u00a0<br>= 0,2 N/m</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

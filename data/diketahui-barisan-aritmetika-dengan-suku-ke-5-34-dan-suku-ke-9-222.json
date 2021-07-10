@@ -1,0 +1,142 @@
+{
+    "question": "diketahui barisan aritmetika dengan suku ke-5 =34 dan suku ke -9 = 18. suku ke 25 barisan itu adalah A.-46 \u00a0 \u00a0 \u00a0B.-36 C.-42 \u00a0 \u00a0 \u00a0C.-16",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik: u5= 34<br>\u00a0 \u00a0 \u00a0 u9 = 18<br><br>u5=a+4b=34<br>u9=a+8b=18<br>\u00a0 \u00a0 dikurangkan menjadi -4b=16\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=16/-4=-4<br>u5= a+4b=34<br>\u00a0 \u00a0 = a+4.(-4)=34<br>\u00a0 \u00a0 = a+(-16)=34<br>\u00a0 \u00a0 = a= 34-(-16)= 50<br>u25=a+(n-1)b<br>\u00a0 \u00a0 \u00a0 = 50+(24)-4<br>\u00a0 \u00a0 \u00a0 \u00a0=50+(-96)=-46<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-segitiga-poq-adalah-segitiga-sama-sisimaka-besar-sudut-prq-123",
+            "question": "Jika segitiga POQ adalah segitiga sama sisi,maka besar sudut PRQ adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Segitiga\nmemiliki 3 titik sudut yang bila dijumlahkan hasilnya adalah 180 derajat<br></span><span>Karena PQR\nmerupakan segitiga sama sisi maka besar tiap sudutnya sama, yaitu 180 derajat\n: 3 = 60 derajat<br></span><span>Besar sudut\nPRQ adalah 60 derajat</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-yg-berpusat-di-titik-p-berjari-jari-28-365",
+            "question": "Diketahui sebuah lingkaran yg berpusat di titik p berjari jari 28 cm. Jika titik A dan B terletak pada lingkaran sehingga APB= 180 derajat. Hitunglah luas juring APB ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus luas x sudut juring : 360<br>luas = pi r^2<br>l= 3.14 x 28 x 28<br>juring\u00a0= 2461.76 x 180 : 360<br>juring = 1230.88 :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/4.22/7.28=66,jadi luas lingkaran 66 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-model-pesawat-terbang-panjang-sayap-30-cm-dan-panjang-bad-492",
+            "question": "Sebuah model pesawat terbang, panjang sayap 30 cm dan panjang badan 40 cm. Jika panjang sayap sebenarnya 7,5 m ; maka panjang badan pesawat sebenarnya adalah...? BESERTA PENYELESAIANNYA YAA, BIAR GUE NGERTI",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "psm/pss x pbm/pbs <br>30cm/7.5m x 40cm/x <br>pbs sama dengan 10 meter <br>paham ?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-trapesium-abcd-siku-siku-di-b-dengan-panjang-ab-21cm-258",
+            "question": "Diketahui trapesium ABCD siku-siku di B dengan panjang AB = 21cm , CD = 6cm dan luasnya108cm keliling trapesium ABCD adalah..    ket : pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15t+12t=216<br>27t=216<br>t=8<br><br>AD = \u221a15\u00b2+8\u00b2=\u221a289 = 17<br>kll = 21+6+8+17 = 52 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-17-3-m-8-adalah-782",
+            "question": "Hasil dari 17 \u2212 (3 m (\u22128)) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "17 - (3m(-8)) =<br>17 - (-24m) =<br>17 + 24m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-jika-diameternya-18-cm-adalah-tolong-di-bantu-den-675",
+            "question": "Luas lingkaran jika diameternya 18 cm adalah? Tolong di bantu denga caranya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L lingkaran =\u00a0\u03c0 r\u00b2<br>\u21d2 3,14\u00a0\u00d7 9\u00b2<br>\u21d2 3,14\u00a0\u00d7 81<br>= 254,34 cm\u00b2 *bener ngga?",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran : phi x jari-jari pangkat 2<br>Jika diameter lingkaran tersebut adalah 18, maka jari-jarinya adalah 9 cm, karena jari-jari merupakan setengah dari diameter.<br>Luas : 3,14 x 9 x 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0: 3,14 x 81<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0254,34 cm2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-lingkaran-a-dan-lingkaran-b-dengan-jari-jari-bertu-525",
+            "question": "jika diketahui lingkaran A dan lingkaran B dengan jari jari berturut turut 5cm dan 6cm,maka tentukan selisih luas dari lingkaran A dan lingkaran B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas A = 113,04<br>Luas B = 78,5<br>selisih = 34,54",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas A =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 5 cm x 5 cm\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 78,5 cm\u00b2<br>Luas B =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 6 cm x 6 xm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 113,04 cm\u00b2<br><br>selisih = Luas B - Luas A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 113,04 cm\u00b2 - 78,5 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 34,54 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982",
+            "question": "pada gambar diatas diketahui besar &lt;ACD = 20 derajat. hitunglah besar = &lt;BOC, &lt;AOC, &lt;BOD. tolong dibantu.. terimakasih ^^",
+            "attachments": [
+                "question-attachments/pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u2220OAC = \u2220OCA = 20\u00b0 (karena segitiga OCA adalah segitiga sama kaki) <br><br>sehingga<br>a. \u2220BOC = 2.\u2220OAC\u00a0 (sudut pusat dan sudut keliling yang menghadap busur yang sama)<br>\u2220BOC = 2.20\u00b0 = 40\u00b0<br><br>b. \u2220AOC = 180\u00b0 - \u2220OCA - \u2220OAC = 180\u00b0 - 20\u00b0 - 20\u00b0 = 140\u00b0<br><br>c. \u2220BOD = \u2220AOC\u00a0 (saling bertolak belakang)<br>\u00a0\u2220BOD = 140\u00b0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-suatu-persegi-memiliki-luas-144-cm2berapakah-panjang-sisiny-867",
+            "question": "Jika suatu persegi memiliki luas 144 cm2,berapakah panjang sisinya? (dalam satuan mm).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Panjang sisinya dalam satuan mm yaitu 120 mm. Simak cara perhitungannya dalam pembahasan. </p><p></p><p><strong><u>Pembahasan</u></strong></p><p>Masih ingat rumus luas persegi? Ya, rumus umum persegi adalah : sisi \u00d7 sisi atau s \u00d7 s \u00a0atau s\u00b2.</p><p>Diketahui luas persegi 144 cm\u00b2, dengan menggunakan rumus luas persegi, maka panjang sisi-sisinya :</p><p>Luas persegi = s\u00b2</p><p>144 cm\u00b2 = s\u00b2</p><p>\u221a144 = s \u27a1 s = 12 cm</p><p>Perlu diingat lagi dalam tangga konversi satuan panjang (bisa dilihat dalam lampiran) dari cm ke mm turun satu tangga, maka :</p><p>12 cm \u00d7 10 = 120 mm. </p><p></p><p><strong><u>Pelajari lebih lanjut</u></strong></p><p>1. Materi tentang luas persegi lainnya https://brainly.co.id/tugas/15766194</p><p>2. Contoh soal lainnya https://brainly.co.id/tugas/1797155</p><p>3. Contoh soal lainnya \u00a0https://brainly.co.id/tugas/6078882</p><p>-----------------------------</p><p></p><p><strong><u>Detil jawaban</u></strong></p><p><strong>Kelas</strong>: 3</p><p><strong>Mapel</strong>: Matematika</p><p><strong>Bab</strong>: 10 - Keliling dan luas persegi dan persegi panjang</p><p><strong>Kode</strong>: 3.2.10</p><p></p><p>#JadiRangkingSatu</p>",
+                    "attachments": [
+                        "answer-attachments/jika-suatu-persegi-memiliki-luas-144-cm2berapakah-panjang-sisiny-867-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-roda-berdiameter-63cm-berputar-menempuh-jarak-198m-roda-te-436",
+            "question": "Suatu roda berdiameter 63cm berputar menempuh jarak 198m. Roda tersebut berputar sebanyak......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 63 cm = 0,63 m<br>\u00a0 \u00a0 \u00a0 s = 198 m<br>Dit banyak putaran ?<br>jawab.<br>K O =\u00a0\u03c0d<br><br>\u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} x 0,63 = 1,98 m [/tex]<br><br>banyak putaran =\u00a0[tex] \\frac{S}{k O} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u00a0[tex] \\frac{198}{1,98} = 100 kali [/tex]<br><br><br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket,diameter\u00a0lingkaran 63cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 jarak\u00a0= 198 m\u00a0= 19800 cm<br>maka,\u00a0Keliling  = \u03c0 x d<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u></u><u>22</u> x 63<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0<u>1386</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>maka,\u00a0roda\u00a0berputar sebanyak = 19800:198\u00a0= 100\u00a0<br>Kasik\u00a0bintangnya\u00a0yoo :)<u></u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

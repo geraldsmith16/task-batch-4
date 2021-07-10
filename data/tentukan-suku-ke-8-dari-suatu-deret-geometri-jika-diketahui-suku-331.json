@@ -1,0 +1,150 @@
+{
+    "question": "Tentukan suku ke-8 dari suatu deret geometri jika diketahui suku ke-3 = 1.250 dan suku-6 = 156.250\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U6 = a X r pangkat 5\u00a0= 1562<span>0<br></span><span>\u00a0\u00a0 \u00a0 \u00a0 ---------------dibagi----------------<br>U3 = \u00a0a X r</span><span>\u00a0\u00b2 = 125</span><span>0<br></span><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r pangkat 3 \u00a0= 125<br>jadi r = 5<br><br>a X 5</span>\u00a0\u00b2 = 125<span>0<br></span>a X 25 =125<span>0<br></span>a\u00a0=1250/25<br>a\u00a0=\u00a050<br><br>U8 = a X r pangkat 7<br>U8 = 50\u00a0X 5 pangkat 7<br>U8 = 50\u00a0X 78125<br>U8 = 3906250<br><br>jadi suku ke-8 nya adalah 3906250",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-sebidang-tanah-yang-berbentuk-persegi-panjang-adalah-14-25-678",
+            "question": "luas sebidang tanah yang berbentuk persegi panjang adalah 14 2/5 meter persegi lebar tanah tersebut adalah2 1/4 meter persegi berapa meter panjang tanah tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lpersegi panjang = (p x l) <br>14 2/5 = 2 1/4 x l<br>72/5 = 9/4 x l<br>l = 72/5 : 9/4 <br>l = 72/5 x 4/9<br>l= 288/45 <br>l= 32/5 = 6 2/5 m<br>Jadi l = 6 2/5m<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "14 2/5 : 2 1/4<br>=72/5 : 9/4<br>=72/5x4/9<br>=288/45<br>=6 18/45<br>=6 2/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-uang-rahma-dan-yudi-25-uang-yudi-dan-lia-34-jika-483",
+            "question": "perbandingan uang rahma dan yudi 2;5 uang yudi dan lia 3;4, jika selisih uang rahma dan lia Rp.42000 ,maka berapakah jumlah uang rahma dan yudi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rahma : yudi : lia = 6 : 15 : 20<br><br>21/14 X 42.000 = 63.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "itu yang selisih , selisih uang lia sm rahma ya.. perbandingannya sm yudi kan lebih banyak lia..<br><br>klo gitu berarti<br>\u00a0uang lia itu : 60000<br>uang rahma : 18000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-akar-pangkat-dua-adalah-710",
+            "question": "Cara mencari akar pangkat dua adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Langkah ini akan menghasilkan daftar seperti ini :<br> 1^2 = 1 (simbol 1^2 dibaca 1 kuadrat ya, atau 1 pangkat 2 atau 1\u00d71  <br> 2^2 = 4<br> 3^2 = 9<br> 4^2 = 6 (ingat satuannya saja ya\u2026)<br> 5^2 = 5<br> 6^2 = 6<br> 7^2 = 9<br> 8^2 = 4<br> 9^2 = 1<br> (Perhatikan ada hasil yang memberikan nilai satuan yang sama. Hati-hati!)<br> 2. Langkah berikutnya adalah menentukan perpangkatan bilangan puluhan.<br> 10^2 = 100<br> 20^2 = 400<br> 30^2 = 900<br> 40^2 = 1600 dan seterusnya.<br> Penerapan di soal menentukan akar pangkat 2 dari sebuah bilangan :<br> a. Tentukan akar pangkat 2 dari 289.<br>\n Jika melihat dari langkah kedua makan bilangan 289 terletak antara 100 \ndan 400. Itu artinya bilangan tersebut akan memberikan hasil puluhan 1. \nLangkah berikutnya adalah menentukan satuannya dengan cara melihat \nsatuan 289. Satuan 9 hanya dihasilkan dari 3 kuadrat atau 7 kuadrat. \nNamun secara logika bilangan 289 lebih dekat ke 400 maka kemungkinan \nakar pangkat 2 dari 289 adalah 17.<br> b. Tentukan akar pangkat 2 dari 1225.<br>\n Bilangan 1225 berada antara 30 kuadrat dan 40 kuadrat karena itu bisa \ndipastikan angka puluhannya adalah 3. Dengan angka satuan 5 hanya ada \nsatu kemungkinan angka satuan hasilnya yaitu 5. Jadi aka pangkat 2 dari \n1225 adalah 35.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh :<br>1. cari \u221a484 = ....<br><br>jawab:<br>484 terdiri dari tiga angka, ambil dua angka terakhir dan sisanya , didapat 4 dan 84. Cari \u221a4 atau yang mendekati, kebetulan \u221a4 = 2 \uf0e0 ambil nilai 2<br>Kurangkan dan tersisa 84 \uf0e0 4n x n = 84 ( 4 didapat dari 2 + 2)<br>84 \uf0e0 angka terakhir 4, ada 2 angka yang mungkin untuk n<br>yaitu 2 dan 8, 2 yang memenuhi<br>sehingga hasilnya adalah 22<br>22<br>\u221a484<br>2 x 2 4 - 84<br>4n x n 84 - 0<br>4 = 2 + 2 4 n x n = 84 \uf0e0 42 x 2 = 84<br>84 \uf0e0 angka terakhir 4, ada 2 angka yang mungkin untuk n<br>yaitu 2 dan 8, 2 yang memenuhi<br>Jadi \u221a484 = 22<br><br>2. Cari \u221a10609 = ....<br><br>jawab:<br>10609 terdiri dari lima angka, ambil dua angka terakhir dan sisanya, didapat 106 dan 09.<br>Cari \u221a106 atau yang mendekati, didapat yang mendekati yaitu 10<br>Kurangkan dan tersisa 609 \uf0e0 20n x n<br>= 609 (20 didapat dari 10 + 10)<br>609 \uf0e0 angka terakhir 9, ada 2 angka yang mungkin untuk n yaitu 3 dan 7, 3 yang memenuhi<br>sehingga hasilnya adalah 103<br><br>103<br>\u221a10609<br>10\u00a0 x 10 100 -<br>609<br>20n x n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<br>609 - 0<br>20 = 10 + 10\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<br>20 n x n = 609 \uf0e0 203 x 3 = 609<br>609 \uf0e0 angka terakhir 9, ada 2 angka yang mungkin untuk n yaitu 3 dan 7, 3 yang memenuhi<br><span>Jadi \u221a10609 = 103</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "voli-15-basket-20-sepak-bola-bulu-tangkis-30-pertan-976",
+            "question": "Voli = 15%    basket = 20%\r\nsepak bola = ?\r\nbulu tangkis = 30 %\r\n\r\npertanyaan : jika siswa yang gemar bulu tangkis 24 orang banyak siswa yang gemar sepak bola adalah ?\r\n\r\nteromakasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah siswa = 80 orang<br>maka yang gemar sepakbola = 35% x 80 = 28 orang<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau 15% = 12 orang<br>kalau 20% = 16 orang<br>kalau 35% = <br>kalau 30% = 24 orang<br><br>jadi yang 35% = 28 orang.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "a-45-x-2-16-x-3-25-b-46-x-3-16-x-2-23-228",
+            "question": "A) 4/5 x 2 1/6 x 3 2/5 = ........    b) 4/6 x 3 1/6 x 2 2/3 = .........\r\nc) 5/12 x 3 2/8 x 1 1/3 = .......\r\n\r\ntolong bantuannya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) 4/5 x 2/6 x 6/5 = 8/30 x 6/5 = 48/150 = 24/75",
+                    "attachments": []
+                },
+                {
+                    "answer": "A) 4/5 x 2 1/6 x 3 2/5 = 4/5 x 13/6 x 17/5 = (4 x 13 x 17)/(5 x 6 x 5) = 884/150 = 5 134/150 \n\nB)4/6 x 3 1/6 x 2 2/3 = 2/3 x 19/6 x 8/3 = (2 x 19 x 8)/(3 x 6 x 3) = 304/54 = 5 34/54 = 5 17/27\n\nC)5/12 x 3 2/8 x 1 1/3 = 5/12 x 26/8 x 4/3 = 5/12 x 13/4 x 4/3 = (5 x 13 x 4)/(12 x 4 x 3) = 260/144 = 1 116/260 = 1 29/65",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-anitaumur-budi23umurbudiumur-cecep21jika-umur-cecep-998",
+            "question": "umur anita:umur budi=2:3.umurbudi:umur cecep=2:1.jika umur cecep 15 tahun berapa tahunkah selisih umur anita dan cecep",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 tahun<br>cara : 1/3 x 15 = 5 tahun<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-tolong-dong-untuk-ngerjain-soal2-ini-jawabnya-beserta-car-577",
+            "question": "Minta tolong dong untuk ngerjain soal2 ini :)jawabnya beserta caranya yaa !! Thanks ! \u00a0 1.seorang anggota pramuka memiliki tali sepanjang 5,6 m dan 0,47 dam.Kemudian tali itu digunakan untuk mengikat tongkat sepanjang 73 dm.Sisa tali tersebut adalah \u00a0 2.sebuah kran mampu mengalirkan air 150 cm3/detik.Kran tersebut digunakan untuk mengisi bak mandi yg berbentuk balok yang panjang dan lebarnya adalah 60 cm dan 40 cm.Jika waktu yg dibutuhkan untuk mengisi bak mandi tersebut sampai penuh adalah 800 detik, maka tinggi bak mandi tersebut........ cm. \u00a0 3.Gabah kering pak Toni setelah diproses menghasilkan beras 1,8 ton. Berat seluruh kulitnya 3,4 kuintal dan kotorannya 125 kg. Berat gabah kering tersebut sebelum diproses adalah .... ton. \u00a0 4.Pak Doni mengendarai motor dengan kecepatan rata-rata 60km/jam. Jika dia berangkat dari kota A pukul 07.00 WIB dan sampai dikota B pada pukul 09.45 WIB dengan istirahat satu kali selama 15 menit. Maka jarak kota A dan kota B adalah .... km. \u00a0 5. 2 3/4 : 6/8 X 1 3/7 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5. 2 3/4 : 6/8 x 1 3/7 =<br>11/4 : 8/6 x 10/7 =<br>11/4 x 8/6 = 22/6<br>22/6 x 10/7 = 110/21 = 5 5/21<br>(kira-kira itu jawabannya)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-semua-garis-yang-merupakan-jari-jari-apotema-diameter-678",
+            "question": "Sebutkan semua garis yang merupakan\u00a0 Jari-jari Apotema Diameter Tali busur #soalnya ada di profil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jari jari\napotema\ndiameter tali busur",
+                    "attachments": []
+                },
+                {
+                    "answer": "pelajaran apa ini yah?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-tanah-berukuran-15m24mtanah-tersebut-digambarkan-pada-se-136",
+            "question": "suatu tanah berukuran 15m\u00d724m.tanah tersebut digambarkan pada sebuah denah.skala denah tersebut adalah 1:500.berapa ukuran tanah tersebut pada denah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 cm semoga bener ya!!!!\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"<br>(maaf kalau salah)<br><br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "15 m = 1500 cm<br>24 m = 2400 cm<br><br>ukuran di peta = 1500:500 &amp; 2400:500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a03cm dan 4,8cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "13-4528-pakek-cara-398",
+            "question": "13-45+28 =pakek cara!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "13-45+28 =<br>-32+28 =<br>-4",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

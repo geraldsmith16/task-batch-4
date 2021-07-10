@@ -1,0 +1,132 @@
+{
+    "question": "Jika diketahui 2x\u00b2-x+12 dibagi (x-a) sisanya 15, maka nilai a?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x + 2a - 1<br>\u00a0 \u00a0 \u00a0 \u00a0____________<br>x-a /2x^2 -\u00a0x + 12<br>\u00a0 \u00a0 \u00a0 2x^2 - 2ax<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 2ax\u00a0- x + 12<br>\u00a0 \u00a0 \u00a0 2ax - 2a^2<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 -\u00a0x + 2a^2 +12<br>\u00a0 \u00a0 \u00a0 - x + a<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a +12 = 15<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 + a +12 - 15 = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a - 3 = 0<br>\u00a0 \u00a0 (2a + 3) (a - 1)<br><br>\u00a0 \u00a0a = -3/2 atau a\u00a0= 1",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-keliling-suatu-jajargenjang-adalah-56cm2buatlah-ukuran-587",
+            "question": "Diketahui keliling suatu jajargenjang adalah 56cm2.Buatlah ukuran jajargenjang tersebut (yang memungkinkan)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(a+b) = 2(12+16)<br>Jadi keliling jajar genjang 56 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-dari-lim-h-gt0-fxh-fx-h-a-fx-4-381",
+            "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-mempunyai-sepasang-akar-berkebalikan-nilai-p-905",
+            "question": "Persamaan\u00a0 mempunyai sepasang akar berkebalikan.    Nilai p\u00a0= .......\r\na. 18\r\nb. 6\r\nc. 3\r\nd. -6\r\ne. -18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mempunyai sepasang akar berkebalikan artinya : x\u2081 . x\u2082 = 1<br>x\u2081 . x\u2082 . x\u2083 = -d/a<br>x\u2083 = -8/2 = -4 <br>masukkan x = -4 ke persamaan : 2x\u00b3 + 3x\u00b2 + px + 8 = 0<br>akan didapat : <br>2(-64) + 3(16) - 4p + 8 = 0<br>-128 + 48 + 8 = 4p<br>p = - 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suku-ke-7-suatu-barisan-aritmatika-adalah-22-dan-suku-ke-628",
+            "question": "1.jika suku ke - 7 suatu barisan aritmatika adalah 22 dan suku ke - 12 adalah 37.tentukan suku ke - 14 barisan tsb    2.tentukan rumus suku ke (n) dari barisan aritmatika 13,10,7,4 adalah\r\n\r\n3.diketahui suku pertama suatu barisan geometri adalah 16 dan suku ketiga 36 tentukan suku ke - 5 barisan tersebut\r\n\r\n4.diketahui deret geometri dengan suku pertama 4 dan suku ke 5 = 324,hitung jumlah delapan suku pertama deret tersebut\r\n\r\n5.deret aritmatika jumlah suku kedua dan keenam adl 26 dan jumlah suku keempat dan kedelapan adalah\u00a0 38 tentukanlah :\r\n\r\na.suku pertama dan bedanya \r\nb.jumlah sepuluh suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)<br>U7 = a+6b =\u00a022<br>U12 = a+11b =\u00a037<br>U14 = ?<br><br>a+6b = 22<br>a+11b = 37<br>__________-<br>-5b = -15<br>b\u00a0=\u00a03<br><br>Cari a , b=3<br>a+6b = 22<br>a+18 = 22<br>a = 4<br><br>U14 = a+13b<br>U14 = 4+13(3)<br>U14 = 4+39<br>U14 =\u00a043<br><br>2)<br>U1 = 13<br>U2 = 10<br>U3 = 7<br>U4 = 4<br>b = U4 - U3 = 4 - 7<br>b = -3<br>Un = a+(n-1)b<br>U4 = a+(4-1)b<br>U4 = a+3b<br><br>3)<br>U1 = a = 16<br>U3 = ar^2 =\u00a036<br>U5 = ?<br>cari r<br>U1/U3 = 16/36<br>a/ar^2 = 16/36<br>1/r^2 = 4/9<br>r^2 = 9/4<br>r = 3/2<br>U5 = ar^4<br>U5 = 16(3/2)^4<br>U5 = 16(81/16)<br>U5 = 81<br><br>CMIIW<br><br>Maaf, No 4 dan 5 saya masih dalam pembelajaran hehe",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. u7 = a + 6b = 22<br>\u00a0 \u00a0<u>u22= a + 12b = 37 +<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -15b = -15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 1<br>a + 6 (1) = 22<br>a + 6 \u00a0 \u00a0 \u00a0\u00a0= 22<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 22 - 6<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 16<br><br>u14 = a + 13b<br>\u00a0 \u00a0 \u00a0 = 16 + 13.1<br>\u00a0 \u00a0 \u00a0\u00a0= 29<br>2. un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 + ( n-1)-3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 - 3n + 3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16 - 3n<br><br>yang nomer selanjutnya ntar dulu yach, mo shalat dulu.. hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x-1-sisanya-6-dan-dibagi-x-691",
+            "question": "suatu suku banyak f(x) jika dibagi (x-1) sisanya 6 dan dibagi (x+3) sisanya -2' tentukan sisanya jika f(x) dibagi oleh (x^2+2x-3).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 1) sisa 6<br>f(x) : (x + 3) sisa -2<br><br>f(x) = (x\u00b2 + 2x - 3).H(x) + S(x)<br>f(x) = (x - 1)(x + 3).H(x) + S(x)<br><br>f(1) = a + b<br>6 = a + b ....1 <br>f(-3) = -3a + b<br>-2 = -3a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 4 <br>S(x) = ax + b ==&gt; 2x + 4 ....ok?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-lt-x-lt-90-hitunglah-nilai-cotan-90-973",
+            "question": "Jika sin x = 2\\3 ( 0 &lt; x &lt; 90 ), hitunglah nilai cotan ( 90 - x ).\r\nlampirkan penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin = depan per miring\u00a0<br>sin x = 2 per 3<br><br>samping = akar 5<br><br>cotg = depan per samping<br>cotg = 2 per akar 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

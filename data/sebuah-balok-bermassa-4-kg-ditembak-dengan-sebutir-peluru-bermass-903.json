@@ -1,0 +1,138 @@
+{
+    "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "langsung-aja-deh-gansoalnya-begini-benda-a-ma-20kg-dan-774",
+            "question": "Langsung aja deh gan,soalnya begini...\u00a0    Benda A (mA = 20kg) dan benda B (mB = 10kg), semula diam di atas lantai. Kemudian, kedua benda ditarik keatas melalui sebuah katrol dengan gaya F = 788 N seperti pada gambar. Dengan menganggap katrol sangat ringan dan licin, percepatan benda A dan B adalah....\u00a0\r\n(g = 10 m/s)\u00a0\r\n\r\ntolong di bantu gan^^ kalo kurang jelas,soalnya ada di sini http://atophysics.files.wordpress.com/2008/11/evaluasi-4.pdf nomer 32\u00a0\r\n\r\nsekian,terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = Ma - Mb . g dibagi Ma + Mb<br>\u00a0 \u00a0= 20 - 10 . 10 dibagi 20 +10<br>\u00a0 \u00a0= 100 / 30 = 3,33 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-dalam-sebuah-tabung-gelas-terdapat-zat-cair-setinggi-10-cm-948",
+            "question": "1. Di dalam sebuah tabung gelas terdapat zat cair setinggi 10 cm. Tekanan air pada dasar tabung adalah 1200 N/m2. Jika g = 10 m/s2. Abaikan tekanan udara. Berapa massa jenis zat cair ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketinggian zat cair (h) = 10 cm = 0,1 meter<br>Tekanan (P) air pada dasar tabung = 1200 N/m2 <br>Percepatan Gravitasi (g) = 10 m/s2<br>\nDitanya :<br>Massa Jenis zat cair ?<br>\nJawab :<br>P =\u00a0 rho . g .h<br>1200N/m\u00b2= rho (10m/s\u00b2) (0,1m)<br>1200N/m\u00b2= rho (1m\u00b2/s\u00b2)<br>rho = 1200 : 1 = 1200 kg/m\u00b3<br>\u00a0Massa Jenis zat cair adalah 1200 kg/m3.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-penerus-dari-mesin-bubut-memeiliki-diameter-10-cm-dan-ma-400",
+            "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-bermassa-5-ton-bergerak-dengan-kecepatan-tetap-10-ms-285",
+            "question": "Sebuah bus bermassa 5 ton bergerak dengan kecepatan tetap 10 m/s. Berapa\u00a0momentum\u00a0yang dimiliki bus tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p=mv<br>p=5000kg x 10 m/s .......... (5 ton = 5000 kg)<br>p=50.000 kg m/s................(50ribu)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 ton :1000 kg<br>10 m/s:?<br>1000/10:100<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pertanyaan-yang-tepat-mengenai-materi-momen-gaya-torsi-438",
+            "question": "Apa pertanyaan yang tepat mengenai materi Momen Gaya (Torsi) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen gaya torsi timbul akibat gaya yang bekerja pada benda tidak tepat pada pusat masa.<br>T = F . d<br><br>pertanyaan : mengapa gaya torsi tidak bekerja pada pusat massa dan apasaja fakror yang mempengaruhi gaya torsi serta arah momengaya torsi ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-ketika-di-udara-beratnya-800-n-kemudian-balok-terse-143",
+            "question": "sebuah balok ketika di udara, beratnya 800 N kemudian balok tersebut di celubkan dalam zat cair ternyata beratnya menjadi 400 N . hitunglah massa jenis zat jikavolume benda 2000 m\u00b3. dan percepatan gravitasi 10 m/s\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fa = W&#039; - W<br>\u00a0 \u00a0 \u00a0= 800 - 400<br>\u00a0 \u00a0 \u00a0= 400 N<br><br>Fa = p g v<br>400 = p . 10. 2000<br><br>p = 400 : 20 000<br>\u00a0 \u00a0= 0,002 kg/m^3<br>\u00a0 \u00a0= 2 x 10^-3 kg/m^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-massa-800-kg-menabrak-pohon-yang-ada-dipinggi-192",
+            "question": "sebuah mobil dengan massa 800 kg menabrak pohon yang ada dipinggir jalan dengan kecepatan 72 km/jam hingga berhenti. hitung besarnya impuls yang terjadi !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Impuls = perubahan momentum<br>I = perubahan (m.v)<br>I = m2v2 - m1v1<br>I = 800 x 0 - 800 x 20<br>I = 0 - 16.000<br>I = -16.000\u00a0Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "Besarnya impuls yang terjadi adalah -16000 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gerhana-matahari-terjadi-karena-497",
+            "question": "Gerhana matahari terjadi karena...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Posisi matahari, bulan, dan bumi yang berada dalam satu garis lurus<br><br>Posisinya, matahari - bulan - bumi, sehingga bulan menutupi matahari dan terjadilah gerhana matahari",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>karena posisi matahari, bulan, dan bumi yang berada dalam satu garis lurus, posisinya, matahari - bulan - bumi, sehingga bulan menutupi matahari dan terjadilah gerhana matahari</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "notasi-ilmiah-dari-0001-389",
+            "question": "Notasi ilmiah dari 0,001?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "notasi ilmiah dari 0,001 =\u00a01 x 10 pangkat -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "notasi ilmiah dari 0,001 = 10^-3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

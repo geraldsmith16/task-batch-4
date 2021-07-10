@@ -1,0 +1,143 @@
+{
+    "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+            "attachments": []
+        },
+        {
+            "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578",
+            "question": "benda x berada di depan cermin cekung dengan jari-jari kelengkungan 0,2m. jika bayangan terbentuk pada jarak 0,6m di depan cermin hitung jarak benda x di depan cermin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>PEMBAHASAN</h3><p><em>Marilah kita ingat kembali rumus yang berlaku di cermin sebagai berikut ini:</em></p><p>[tex]\\boxed{\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}}[/tex]</p><p><em>dimana :</em></p><p><em>S = jarak benda ( meter )</em></p><p><em>S&#039; = jarak bayangan ( meter )</em></p><p><em>f = fokus cermin ( meter )</em></p><p>[tex]\\texttt{ }[/tex]</p><p><u>Diketahui:</u></p><p>jarak bayangan = S&#039; = 0,6 m</p><p>jari-jari kelengkungan cermin = R = 0,2 m</p><p>jarak fokus cermin = f = R/2 = 0,2/2 = 0,1 m</p><p><u>Ditanyakan:</u></p><p>jarak benda = S = ?</p><p><u>Penyelesaian:</u></p><p><em>Kita akan mencari jarak benda dengan cara sebagai berikut ini:</em></p><p>[tex]\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{1}{f} - \\frac{1}{S&#039;}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{S&#039; - f}{S&#039; \\times f}[/tex]</p><p>[tex]S = \\frac{S&#039; \\times f}{S&#039; - f}[/tex]</p><p>[tex]S = \\frac{0,6 \\times 0,1}{0,6 - 0,1}[/tex]</p><p>[tex]S = \\frac{0,06}{0,5}[/tex]</p><p>[tex]\\boxed{S = 0,12 \\texttt{ m}}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Kesimpulan :</h3><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut:</h3><p><strong>Lensa Cembung</strong> : https://brainly.co.id/tugas/20987845</p><p><strong>Cermin Cembung</strong> : https://brainly.co.id/tugas/21150959</p><p>[tex]\\texttt{ }[/tex]</p><p>-----------------------------</p><h3>Detil Jawaban:</h3><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : Fisika</p><p><strong>Bab</strong> : Alat-Alat Optik</p><p><strong>Kode</strong> : 11.6.11</p><p>#AyoBelajar</p>",
+                    "attachments": [
+                        "answer-attachments/benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285",
+            "question": "1. air laut termasuk senyawa atau tidak?jelaskan    2. darah manusia senyawa atau campuran?jelaskan\r\n3. mengapa obat sirup dikocok dulu sebelum diminum,jelaskan?\r\n4. jell termasuk zat padat,cair atau gas?jelaskan\r\n5. pada kutub utara mengapa ikan dan tumbuhan masih bisa hidup,jelaskan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lihat dalam tabel<br><br>Semoga membantu :)\u00a0D",
+                    "attachments": [
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-1.png",
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-2.png"
+                    ]
+                },
+                {
+                    "answer": "1.air laut merupakan campuran karna terdapat dil dalam laut ema,minyak bumi,hasil tambang alainnya yang membuat air laut merupakan campuran.<br><br>2.darah merupakan senyawa karna di dalam darah juga terkandung senyawa yang di kenal dengan oksigen atau o2.<br><br>3.sirup dikocok dahulu sebelum di minum karna sirup meerupakan campuran yang harus tercampur.<br>melalui proses percampuran.<br><br>4.jel pada sudah di bekukan adalah zat padat tapi saat di lelehkan merupakan zat cair.<br><br>5.karna adanya daerah nya yang memungkinkan makhluk hidup tinggal dan hidup dan terdiri dari air yang menjadi es di kutub utara<br><br><br><br>semoga membantu dan bermanfaat :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-kesetimbangan-benda-tegar-696",
+            "question": "Apa itu kesetimbangan benda tegar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesetimbangan adalah keadaan yg terjadi apabila semua gaya dan kecendrungan yang ada tepat diimbangi atau dinetralkan oleh gaya dan kecendrungan yg sama, tetapi berlawanan<br>benda tegar adalah benda yg tidak berubah bentuknya apa bila diberi gaya luar<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\nKesetimbangan terbagi dua yaitu :</span>\n  <span>\n<span><span>1.       </span>Statik ( \u2211F = 0 ; a =  o )</span></span>\n  <span>\n<span><span>2.       </span>Dinamik ( a = o ; v = konstan )</span></span>\n  <span>\n </span>\n  <span>\n<span>Benda tegar dikatakan  berada\n dalam kesetimbangan statik jika jumlah gaya yang bekerja pada benda itu\n sama dengan nol dan jumlah torsi terhatad sembarang titik pada benda \ntegar itu sama dengan nol .</span></span>\n<span>\n\n</span>\n  <span>\n </span>\n  <span>\nKesetimbangan\n statik dapat dibedakan menjadi tiga, yaitu kesetimbangan stabil, \nkesetimbangan labil, dan kesetimbangan indiferen ( netral ).</span>\n  <span>\n<span><span>1.       </span>Kesetimbangan Stabil</span></span>\n  <span>\n<span>Sebuah kelereng mempunyai titik berat pada pusat bola. Jika kelereng diletakkan pada sebuah wadah yang berbentuk setengah bola  (\n cekung , kelereng akan diam ( setimbang) pada bagian bawah wadah. \nApabila kelereng itu diberi gangguan dengan mendorongnya, titik berat  kelereng\n akan naik. Hal itu ditandai dengan naiknya kedudukan kelereng. Apabila \ngangguan itu dihilangkan, kelereng akan kembali setimbang pada kedudukan\n semula. Kesetimbangan seperti itu disebut Kesetimbangan Stabil .Contoh \nbenda yang memiliki kesetimbangan stabil adalah kursi malas.</span></span>\n  <span>\n </span>\n  <span>\n<span><span>2.       </span>Kesetimbangan Labil</span></span>\n  <span>\nKesetimbangan\n Labil ditandai dengan turunnya letak titik berat benda jika diberi gaya\n pengganggu. Biasanya, setelah gaya pengganggunya dihilangkan benda \ntidak kembali lagi pada posisi semula. Sebuah batang kayu yang berdiri \ntegak adalah contoh keadaan kesetimbangan labil.</span>\n  <span>\n </span>\n  <span>\n<span><span>3.       </span>Kesetimbangan Indiferen (netral )</span></span>\n  <span>\n<span>Kesetimbangan\n netral ditandai dengan tidak berubahnya posisi titik berat sebelum dan \nsesudah diberi gaya pengganggu. Contoh kesetimbangan netral adalah \nsebuah silinder yang diletakkan di lantai datar.\n</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-seberkas-cahaya-monokromatis-diarahkan-pada-sebuah-kisi-yang-915",
+            "question": "Jika seberkas cahaya monokromatis diarahkan pada sebuah kisi yang mempunyai 10^4 garis/cm, garis terang pertama terjadi pada sudut deviasi 30 derajat\u00a0, maka panjang gelombang cahaya yang dipakai adalah \u2026\u2026\u2026\u2026 \u00c5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 n = 10^4 garis/cm<br>\u00a0sin\u00a0\u03b8 = 30 = 0,5<br>Dit\u00a0\u03bb ?<br>jawab.<br>d =\u00a0[tex] \\frac{1}{n} [/tex]<br><br>sehingga diperoleh rumus<br><br>d sin\u00a0\u03b8 = m .\u00a0\u03bb<br><br>\u03bb\u00a0=\u00a0[tex] \\frac{sin 0 }{n.m} [/tex]\u00a0<br><br>\u03bb =\u00a0[tex] \\frac{sin30}{10^4 . 1} [/tex]<br><br>\u03bb =\u00a0[tex] \\frac{0,5}{10^4}  = [/tex] = 5 x 10^-5 garis/cm = <strong>5 .000 \u00c0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508",
+            "question": "teh panas yang massanya 20 gram pada suhu t dituang kedalam cangkir bermassa 190 gram dan bersuhu 20 derajat celcius. jika suhu kesetimbangan termal 36 derajat celcius dan panas jenis air teh = 8 kali panas jenis cangkir, tentukan suhu mula-mula teh? gimana caranya y? terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran: fisika <br>Kelas: 10 SMA <br>Kategori: suhu dan kalor <br>Kata kunci: suhu campuran <br>Pembahasan:<br><br>Berikut terlampir pembahasan soal.",
+                    "attachments": [
+                        "answer-attachments/teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-pembentukan-bayangan-gambar-pa-712",
+            "question": "buatlah masing-masing 3 contoh pembentukan bayangan ( gambar ) pada lensa cembung dan cermin cembung beserta sifatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk cermin cekung dan lensa cembung itu pembentukan bayangan dan sifatnya sama, yaitu<br>bila benda di ruang 1 maka bayangan di ruang 4, sifatnya maya, diperbesar, tegak<br>bila benda di ruang 2 maka bayangan di ruang 3, sifatnya nyata, terbalik diperbesar<br>bila benda di ruang 3 maka bayangan di ruang 2, sifatnya nyata, terbalik, diperkecil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-penyebab-terjadinya-bunyi-791",
+            "question": "Apa penyebab terjadinya bunyi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyebab terjadinya bunyi :<br>1. Ada sumber bunyi yg menghasilkan getaran<br>2. Ada medium perambatan bunyi<br>3. Ada pendengar / yg menangkap sumber bunyi<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-pemanfaatan-radio-isotop-409",
+            "question": "Sebutkan\u00a0pemanfaatan radio\u00a0isotop?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pemanfaat radioisotop adalah untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><h2><strong>Pembahasan</strong></h2><p><strong></strong></p><p><strong>RADIOISOTOP</strong></p><p><strong></strong></p><p>Radioisotop atau isotop radioaktif memiliki sifat</p><p>1. Bersifat tidak stabil dan terus menerus meluruh menjadi isotop lain dengan memancarkan sinar radioaktif. Karena sifat ini, maka atom radioaktif digunakan sebagai perunut atau penelusur mekanisme suatu reaksi.</p><p>2. Memancarkan sinar radiasi yang dapat mengubah sifat benda. </p><p>Karena kedua hal inilah maka radioisotop banyak dimanfaatkan untuk berbagai bidang, seperti:</p><p>1. Bidang kesehatan</p><p>Sifat perunut yang dipergunakan untuk mendeteksi kerusakan organ tubuh dan sifat radiasi untuk membunuh sel - sel kanker tanpa perlu tindakan pengangkatan jaringan.</p><ul><li>Iodium - 131 untuk mendeteksi kerusakan jaringan kelenjar gondok dan mendeteksi sel kanker pada otak.</li><li>Kobalt - 60 untuk kemoterapi leukimia.</li><li>Taksenium - 99 untuk membunuh sel kanker dan mendeteksi lokasi tumor dalam tubuh.</li><li>Talium - 201 untuk mendeteksi penyakit jantung dan pembuluh darah.</li><li>Besi - 58 untuk mempelajari proses pembentukan sel darah merah.</li><li>Fosforus - 32 untuk mempelajari fungsi ATPdan penyembuhan penyakit pembentukan sel darah merah yang berlebihan.</li><li>Sinar gamma untuk sterilisasi peralatan kedokteran.</li></ul><p>2. Bidang industri pengawetan makanan.</p><p>Digunakan sinar gamma untuk</p><ul><li>Membasmi mikroorganisme seperti pengawetan merica, ketumbat dan kemiri.</li><li>Menghambat pertunasan untuk pengawetan tanaman yang berkembang biak dengan tunas seperti jahe, bawang dan kentang.</li></ul><p>3. Bidang konstruksi</p><p>Di bidang ini, radioisotop digunakan untuk mendeteksi kebocoran pada pipa bawah tanah dengan alat pencacah radioaktif Geiger Counter. Isotop yang digunakan adalah Natrium - 24.</p><p>Bahkan bisa dipergunakan untuk menguji kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</p><p>4. Bidang pertanian</p><p>Nitrogen - 15 dipergunakan untuk memantau penyerapan pupuk pada tanaman.</p><p>Radioisotop juga bisa digunakan untuk memberantas hama.</p><p>5. Bidang hidrologi.</p><p>Natrium - 24 digunakan untuk menguji kecepatan aliran sungai atau aliran lumpur hal ini dipergunakan untuk mempelajari debit sungai.</p><p>6. Bidang biologi.</p><p>Karbon - 14 atau Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi fotosintesis.</p><p>7. Bidang kimia</p><p>Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi esterifikasi.</p><p>8. Bidang listrik.</p><p>Reaksi inti menghasilkan energi yang sangat besar yang mampu menggerakan generator yang menghasilkan energi listrik.</p><p>9. Bidang penanggalan karbon.</p><p>Karbon - 14 dipergunakan untuk menentukan umur fosil, barang purbakala dan barang seni.</p><p></p><p>Radioisotop juga memiliki dampak yang berbahaya jarena merusak sel, menyebabkan kelainan sel, bahkan mematikan sel pada makhluk hidup.</p><p><strong>Ditanyakan:</strong></p><p>Pemanfaatan radioisotop ?</p><p><strong>Penjelasan:</strong></p><p>Radioisotop banyak dimanfaatkan untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>Pelajari lebih lanjut</strong></p><p>Radioisotop Bidang Kesehatan https://brainly.co.id/tugas/7927308</p><p>Radioisotop Di Bidang Hidrologi https://brainly.co.id/tugas/21698259</p><p>Pemanfaatan Sinar Gamma https://brainly.co.id/tugas/23032773</p><p><strong></strong></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas : </strong>XII</p><p><strong>Mapel : </strong>Kimia</p><p><strong>Bab : </strong>Kimia Unsur </p><p><strong>Kode : </strong>12.7.3.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kenaikan-alkohol-dalam-sebuah-pipa-kapiler-berdiameter-258",
+            "question": "berapakah kenaikan alkohol dalam sebuah pipa kapiler berdiameter 0,07 cm jika tegangan permukaan sama dengan 0,023 n/m dan massa 0,8 g/cm3. asumsikan bahwa sudut kontaknya sama dengan nol !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>\u03b3 = 0,023 N/m\u00a0<br>\u03b8 = 0\u00ba\u00a0<br>\u03c1 = 0,8 g/cm\u00b3\u00a0\u21d2\u00a0800 N/m\u00b3\u00a0<br>r =\u00a0[tex] \\frac{0,07}{2} [/tex] =\u00a00,035 cm\u00a0\u21d2 0,00035 m<br>Ditanyakan :\u00a0h = .. ?\u00a0<br>Penyelesaian :<br><br>[tex]h= \\frac{\\gamma.Cos \\theta}{\\rho.g.r} [/tex]<br><br>[tex]h= \\frac{0,023*Cos 0}{800*10*0,00035} [/tex]<br><br>[tex]h= \\frac{0,023*1}{2,8} [/tex]<br><br>[tex]h= 8,2 . 10^{-3} [/tex] m \u00a0 ,\u00a0atau<br><br>h\u00a0=\u00a0<strong>0,82 cm</strong>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya 2cm di bawah bidang batas minyak-air, seperti pada gambar. Ketinggian kolom minyak dan air masing - masing adalah 10cm. Massa jenis minyak adalah 0,8 g/cm^3. Tekanan hidrostatis yang bekerja pada sisi paling bawah balok adalah..    A. 800 Pa\r\nB. 840 Pa\r\nC. 900 Pa\r\nD. 1020 Pa\r\nE. 9600 Pa",
+            "attachments": [
+                "question-attachments/sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<span>gram ke KG = 1/1000<br>cm^3 ke m^3 = 1/1000000<br>jadi,<br>=0,8/1000/1/1000000<br>=8/10000/1/1000000<br>=8/10000 * 1000000/1<br>=800 Pa</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

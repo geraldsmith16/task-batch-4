@@ -1,0 +1,144 @@
+{
+    "question": "dari 2,3,4,5,6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. <strong>Banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut</strong> adalah 80 bilangan. Hasil tersebut diperoleh dengan menggunakan kaidah pengisian tempat (filling slot).\n</p><p></p><h3>Pembahasan\n</h3><p></p><p>Untuk menentukan banyaknya bilangan antara 300 dan 700 adalah tergantung dari angka ratusan yang dipilih yaitu 300-an, 400-an, 500-an, 600-an. \u00a0</p><p></p><p>Angka yang menempati posisi \u00a0</p><ul><li>Ratusan = 4 pilihan yaitu <strong>3</strong>, 4, 5, 6 (misal yang dipilih angka 3)\n</li><li>Puluhan = 5 pilihan yaitu <strong>2</strong>, 4, 5, 6, 8 (misal yang dipilih angka 2)\n</li><li>Satuan = 4 pilihan yaitu 4, 5, 6, 8\n</li></ul><p></p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= ratusan \u00d7 puluhan \u00d7 satuan\n</p><p>= (4 \u00d7 5 \u00d7 4) bilangan\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><p></p><p></p><h3>Jika menggunakan rumus permutasi yaitu\n</h3><p>Ada 6 pilihan angka yaitu 2, 3, 4, 5, 6 dan 8\n</p><p><strong>Memilih 1 angka sebagai ratusan dari 4 pilihan (3, 4, 5, 6)\n</strong></p><p>= \u2084P\u2081\n</p><p>= [tex]\\frac{4!}{(4 - 1)!}[/tex]\n</p><p>= [tex]\\frac{4 \\times 3!}{3!}[/tex]\n</p><p>= 4\n</p><p><strong>Memilih 2 angka (sebagai puluhan dan satuan) dari 5 pilihan angka yang tersisa \u00a0</strong></p><p>= \u2085P\u2082\n</p><p>= [tex]\\frac{5!}{(5 - 2)!}[/tex]\n</p><p>= [tex]\\frac{5 \\times 4 \\times 3!}{3!}[/tex]\n</p><p>= 5 \u00d7 4\n</p><p>= 20\n</p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= 4 \u00d7 20\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang banyak ratusan yang dapat terbentuk\n</p><p>https://brainly.co.id/tugas/15150946\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0</h3><p></p><p><strong>Kelas</strong> : 12\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Kaidah Pencacahan\n</p><p><strong>Kode</strong> : 12.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan\n</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866",
+            "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-buah-buku-dan-2-buah-pensil-rp880000-jika-harga-sebua-328",
+            "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-contoh-aplikasi-soal-trigonometri-dalam-bidang-fisika-beserta-154",
+            "question": "Apa contoh aplikasi soal trigonometri dalam bidang fisika beserta pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gerak parabola : kan ada sudutnya. kalau diuraikan pada sumbu x, cos sudut. kalau diuraikan diuraikan pada SB y sin sudut<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-ekstrim-z-dari-fungsi-z2xy-dengan-syarat-10x5y6-393",
+            "question": "Tentukan nilai ekstrim Z dari fungsi Z=2XY dengan syarat 10x+5y=600",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>10x + 5y = 600<br>2x + y = 120<br>y = 120 - 2x<br><br>z= 2xy<br>z= 2x(120-2x)<br>z= 240x-4x2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-umum-suku-ke-n-dari-barisan-bilangan-372113-933",
+            "question": "Tentukan rumus umum suku ke-n dari barisan bilangan ; 3,7/2,11/3,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus umumnya menurut saya Un=ar^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-seorang-ayah-empat-kali-umur-anaknya-dan-lima-tahun-yang-lal-834",
+            "question": "umur seorang ayah empat kali umur anaknya dan lima tahun yang lalu hasil kali umur mereka adalah 175. nyatakan umur ayah sekarang dalam persamaan kuadrat!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "umur ayah : x, umur anak : y<br>x = 4y<br>(x - 5)(y - 5) = 175<br>(4y - 5)(y - 5) = 175<br>4y\u00b2 - 25y + 25 = 175<br>4y\u00b2 - 25 - 150 = 0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perbandingan umur ayah dan umur anak adalah 1 : 4<br>umur anaknya 10 tahun dan umur ayahnya 40 tahun<br>5 tahun yang lalu umur anaknya 5 tahun dan ayahnya 35 tahun, jika dikalikan mendapatkan hasil 175<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-dengan-skala-1-200000-jarak-kota-r-dan-s-pada-peta-573",
+            "question": "Pada peta dengan skala 1 : 200,000, jarak kota R dan S pada peta adalah 5 cm. Berapakah jarak yang sebenarnya antara kedua peta tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumusnya ini : JP = JS : S<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1000000cm = 10 kilometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-beta-12-dan-sudut-beta-di-kuadran-iimaka-tan-beta-ad-846",
+            "question": "Jika sin beta = 1/2 dan sudut beta di kuadran II,maka tan beta adalah?\r\n thanx before",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sin beta = 1/2 = y/r\u00a0<br>maka, y ( sisi tegak lurus) = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0(sisi miring) = 2<br>Yang dicari x (sisi vertikalnya)<br>Pakai rumus teorema phytagoras--&gt; x\u00b2 = r\u00b2 - y\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a2\u00b2- 1\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a4-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0\u221a3<br><br>Nah, rumus tan beta = y / x<br>Karena di kuadran 2, dimana x bernilai negatif (-), y bernilai positif (+) dan r bernilai positif (+)<br>maka, Tan beta = (+)y / (-)x = 1/-\u221a3 Karena penyebutnya akar, maka harus dirasionalkan dulu,\u00a0<br><br>---&gt; 1 / -\u221a3\u00a0\u00d7 (-\u221a3)/ (-\u221a3) = -\u221a3 / 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahiranya-apakah-relasi-460",
+            "question": "jika siswa direlasikan dengan tanggal kelahiranya. apakah relasi tersebut merupakan fungsi?berikan enjelasanmu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya. karena masing-masing himpunan mendapatkan pasangannya sendiri.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya,karena setiap siswa hanya akan memiliki 1 tanggal lahir,tidak kurang-tidak lebih<br>dan kemungkinan akan ada beberapa\u00a0siswa yang memiliki tanggal lahir yang sama tapi tetap 1 tanggal lahir,itu juga disebut fungsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-bilangan-bulat-positif-pertama-sama-dengan-143",
+            "question": "Jumlah n bilangan bulat positif pertama sama dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dimaksu n adalah bilangan positif 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "contohnya aja ambil 2,4,6,8<br>nah ters kita anggap kalau 2 itu n<br>jadi kalau 4=n+2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06=n+4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>kalau mau dimasukin rumus juga bisa,kan rumusnya :<br>Un=a+(n-1)b<br>Un=2+(n-1)2<br><br>atau ada juga rumus yg gampang,yaitu Un=2n<br>kalau mau gampang sih mending pake yg Un=2n aja :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

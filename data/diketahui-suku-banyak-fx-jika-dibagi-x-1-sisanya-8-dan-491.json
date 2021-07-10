@@ -1,0 +1,126 @@
+{
+    "question": "diketahui suku banyak f(X) jika dibagi\u00a0 ( x+ 1) sisanya 8 dan ( x-3 ) sisanya 4 suku banyak g(x) jika dibagi dengan (x+1) bersisa -9 dan jika dibagi (x-3) sisanya 15 jika h(x) = F(X) . G(X), maka sisa pembagian H(X) oleh \u00d7\u00b2 - 2\u00d7 - 3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : 11<br>Mapel : Matematika<br>Kategori : Suku Banyak<br>Kata Kunci : suku banyak, pembagi, hasil bagi, sisa<br>Kode : 11.2.5 [Kelas 11 Matematika KTSP Bab 5 - Sukubanyak]<br><br>Pembahasan :<br>Suku banyak atau polinomial p dalam k berderajat n memiliki bentuk umum :<br>[tex]a_n[/tex]x\u207f +\u00a0[tex]a_{n-1}[/tex]x\u207f\u207b\u00b9 + ... + [tex]a_2[/tex]x\u00b2 + [tex]a_1[/tex]x\u00b9 +\u00a0[tex]a_0[/tex]<br><span><br>dengan\u00a0</span>[tex]a_n[/tex], [tex]a_{n-1}[/tex], ..., [tex]a_2[/tex], [tex]a_1[/tex], [tex]a_0[/tex]\u00a0merupakan konstanta-konstanta real;<br><br>[tex]a_n[/tex] koefisien x\u207f, [tex]a_{n-1}[/tex]\u00a0koefisien x\u207f\u207b\u00b9, dan seterusnya;<br><br>[tex]a_0[/tex]\u00a0merupakan suku tetap;<br><span><br>n merupakan bilangan cacah yang menyatakan derajat suku banyak.<br><br>Misalnya suku banyak f(x) dibagi dengan P(x) memberikan hasil bagi H(x) dan sisanya S(x) maka diperoleh hubungan<br>f(x) = P(x) . H(x) + S(x)<br><br>Jika f(x) merupakan suku banyak berderajat n dan P(x) merupakan pembagi berderajat m dengan m\u00a0\u2264 n maka<br>1. H(x) adalah hasil bagi berderajat n - m<br>2. S(x) adalah sisa pembagian berderajat maksimum (m - 1).<br><br>Penerapan teorema sisa dapat dikembangkan untuk menentukan sisa pada pembagian suku banyak dengan suku banyak berderajat dua atau lebih yang dapat difaktorkan menjadi faktor-faktor linear.<br><br>Mari kita lihat soal tersebut.<br></span><span>Suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4. Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15. Jika suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah...<br><br>Jawab :<br>Diketahui s</span>uku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4.<br><br>Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15.<br><br>Suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3 = (x - 3)(x + 1).<br><br>Oleh karena pembagi (x - 3)(x + 1) berderajat dua, maka sisanya maksimum berderajat satu.<br><br>Misalkan pembagi P(x) = (x - 3)(x + 1), sisa S(x) = ax + b dan hasil bagi H(x), maka<br>h(x) = P(x) . H(x) + S(x)<br>h(x) = (x - 3)(x + 1) . H(x) + ax + b<br>f(x) . g(x) = (x - 3)(x + 1) . H(x) + ax + b<br><br>Kita substitusikan x = 3 dan sisa S(3) = 4 . 15 = 60<br>h(3) = f(3) . g(3) = 3a + b = 60 ... (1)<br><br>Kita substitusikan x = -1 dan sisa S(-1) = 8 . (-9) = -72<br>h(-1) = f(-1) . g(-1) = -a + b = -72 ... (2)<br><br>Kedua persamaan kita selesaikan dengan metode eliminasi dan substitusi, diperoleh<br>3a + b = 60<br>-a + b = -72<br>__________-<br>\u21d4 4a = 132<br>\u21d4 a =\u00a0[tex] \\frac{132}{4} [/tex]<br>\u21d4 a = 33<br><br>Kita substitusikan a = 33 ke persamaan (2), diperoleh<br>-a + b = -72<br>\u21d4 -33 + b = -72<br>\u21d4 b = -72 + 33<br>\u21d4 b = -39<br><br>S(x) = 33x - 39<br><br>Jadi, jika suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4, suku banyak g(x) dibagi x + 1 sisanya -9dan dibagi x - 3 sisanya 15, dan suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah 33x - 39.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5171052<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-suatu-barisan-geometri-diketahui-u24-dan-u38tentukan-u10-821",
+            "question": "Dari suatu barisan geometri diketahui U2=4 dan U3=8.Tentukan U10!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui\u00a0 barisan geometri</span>\n\n<span>U2=4\u00a0\u00a0 U3=8</span>\n\nMaka U10=? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jawab:\n\nU3/U2=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na.r pangkat 2\u00a0/\u00a0a.r=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r=2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0a.r=4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.2=4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a=4/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na=2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U10= a.r pangkat n-1<br>\n\nU10= 2 . 2 pangkat 10-1\n<br>\nU10=2 . 2 pangkat 9<br>\n\nU10= 2.512<br>\n\nU10=1024\n<br>\nKet: titik = kali\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a : bilangan\npertama</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0r : rasio<br>(maaf klw salah)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-y-banyaknya-susunan-huruf-yg-berbeda-yang-dapat-dib-420",
+            "question": "Tolong y,,,, :)    Banyaknya susunan huruf yg berbeda yang dapat dibentuk dari kata \"MATEMATIKA\" Adalah ....\r\n\r\na. 151.200\r\nb. 100.800\r\nc. 75.600\r\nd. 60.480\r\ne. 50.400",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Permutasi adalah penyusunan kembali suatu komponen objek dalam urutan yang berbeda dari urutan semula</p><p>Rumus : [tex]P^{n} _{r}=\\frac{n!}{(n-r)!}[/tex]</p><p>Kombinasi adalah menggabungkan beberapa objek dari suatu grup tanpa memperhatikan urutan</p><p>Rumus : \u00a0[tex]C^{n}_ {r}=\\frac{n!}{r!(n-r)!}[/tex]</p><p>2 = huruf T</p><p>3 = huruf A</p><p>2 = huruf M</p><p>10 = huruf matematika </p><p>P=10!/2!3!2!</p><p>P=10.9.8.7.6.5.4.3/3!.2.2</p><p>P=10.9.8.7.2.5.3</p><p>P=151200 (A)</p><p>Materi yang serupa : </p><p>https://brainly.co.id/tugas/16127092</p><p>Semoga Membantu</p><p>Mapel: \u00a0Matematika </p><p>Kelas: \u00a011</p><p>Materi: \u00a0Permutasi dan Kombinasi </p><p>Kata Kunci: \u00a0Permutasi </p><p>Kode soal: \u00a02</p><p>Kode Kategorisasi : 11.2.2 </p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-dari-lim-h-gt0-fxh-fx-h-a-fx-4-381",
+            "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-dari-pelabuhan-a-dengan-arah-044-derajat-se-209",
+            "question": "Sebuah kapal berlayar dari pelabuhan A dengan arah 044 derajat sejauh 50km .kemudian berlayar lagi dengan arah 104 derajat sejauh 40 km ke pelabuhan C. Jarak pelabuhan A ke C adalah...\u00a0    minta tolong dong , gmna caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pilih sebagai solusi terbaik ya<br>B=180-(44+104) <br>\n=180-60=120 derajat <br>\na=40km <br>\nc=50km  <br>\nditanya,,,b? <br>\nb^2=a^2+c^2-2ac cosB <br>\n=40^2+50^2-2.40.50 cos 120 derajat <br>\n=1600+2500-4000.-1/2 <br>\n=4100+2000 <br>\n=6100 <br>\nb=akar dari 6100=10 akar 61 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaaa-a-x-02-548",
+            "question": "Tolong bantu yaaa \r\na x 0^2 = ....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00a0x 0^2 = a x (0 x 0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a x 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-asin-45-derajat-cos-45-derajat-b-cos-pan-803",
+            "question": "Tentukan nilai dari\u00a0    a.sin 45 derajat + cos 45 derajat\r\nb cos pangkat 2 60 derajat + sin 2 30 derajat\r\nc sin 60 derajat cos 30 derajat + cos 60 derajat sin 30 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui sin 30\u00b0 = 1/2, <br>cos 30\u00b0 = 1/2 \u221a3, <br>sin 45\u00b0 = 1/2 \u221a2, <br>cos 45\u00b0 = 1/2 \u221a2, <br>sin 60\u00b0 = 1/2\u00a0\u221a3, <br>cos 60\u00b0 = 1/2<br>Mari kita lihat soal tersebut.<br><span>a. sin 45</span>\u00b0 +\u00a0<span>cos 45</span>\u00b0 <br>= 1/2\u00a0\u221a2 + 1/2\u00a0\u221a2 <br>=\u00a0\u221a2.<br><span><br>b. cos</span>\u00b2\u00a0<span>60</span>\u00b0<span>\u00a0+ sin</span>\u00b2<span>\u00a030</span>\u00b0 <br>= (1/2)\u00b2 + (1/2)\u00b2 <br>= 1/4 + 1/4 <br>= 2/4 <br>= 1/2.<br><span><br>c sin 60</span>\u00b0 x\u00a0<span>cos 30</span>\u00b0<span>\u00a0+ cos 60</span>\u00b0 x\u00a0<span>sin 30</span>\u00b0 <br>= (1/2\u00a0\u221a3 x 1/2\u221a3) + (1/2 x 1/2) <br>= 1/4 x \u221a9 + 1/4 <br>= 1/4 x 3 + 1/4 <br>= 3/4 + 1/4 = 4/4 <br>= 1.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-mempunyai-luas-1200cm2-selain-it-774",
+            "question": "Diketahui layang-layang \u00a0ABCD mempunyai luas 1.200cm2. Selain itu, ada layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal-diagonal layang-layang ABCD. Tentukan luas layang-layang \u00a0PQRS !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : layang-layang, luas, panjang diagonal, dua kali<br><br>Pembahasan :<br>Layang-layang\u00a0adalah segi empat yang dibentuk dari gabungan dua buah segitiga sama kaki yang alasnya sama panjang dan berhimpit.<br>Sifat-sifat layang-layang, yaitu :<br>1. masing-masing sepasang sisinya sama panjang;<br>2. sepasang sudut yang berhadapan sama besar;<br>3. salah satu diagonalnya merupakan sumbu simetri;<br>4. salah satu diagonalnya membagi diagonal lainnya menjadi dua bagian sama panjang dan kedua diagonal tersebut salah tegak lurus.<br><br>Kelilingnya dengan panjang sisi pendek b dan panjang sisi panjang a adalah <br>K = 2(a + b)<br><br>Luasnya dengan diagonal masing-masing d\u2081 dan d\u2082 adalah <br>L = 1/2(d\u2081 .d\u2082).<br><br>Mari kita lihat soal tersebut.<br>Diketahui luas layang-layang ABCD adalah 1200 cm\u00b2. Artinya<br>luas layang-layang ABCD adalah<br>L = 1/2(d\u2081 . d\u2082)<br>\u21d4 1200 = 1/2(d\u2081 . d\u2082)<br>\u21d4 2400 = d\u2081 . d\u2082<br>Selain itu, suatu layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal layang-layang ABCD. Artinya,<br>masing-masing panjang diagonal PQRS adalah<br>d\u2083 = 2 . d\u2081<br>d\u2084 = 2 . d\u2082<br>Luas layang-layang PQRS adalah<br>L = 1/2(d\u2083 . d\u2084)<br>\u21d4 L = 1/2(2d\u2081 . 2d\u2082)<br>\u21d4 L = 1/2(4 . d\u2081 . d\u2082)<br>\u21d4 L = 2(d\u2081 . d\u2082)<br>\u21d4 L = 2. 2400<br>\u21d4 L = 4800<br><br>Jadi, jika luas layang-layang ABCD adalah 1200 cm\u00b2, maka luas layang-layang PQRS adalah 4800 cm\u00b2.<br><br>Semangat Belajar!<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

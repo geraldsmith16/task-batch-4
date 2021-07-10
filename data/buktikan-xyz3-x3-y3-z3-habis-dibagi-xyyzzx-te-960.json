@@ -1,0 +1,144 @@
+{
+    "question": "Buktikan (x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x). Tentukan juga hasil baginya !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Terbukti bahwa</strong> [tex]\\rm (x+y+z)^3 - x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm(x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p></p><h2><u>Pendahuluan</u> </h2><p><strong><u>Aljabar</u></strong> merupakan konsep operasi bilangan yang memisalkan dalam sebuah variabel.</p><p><strong><u>\u00bb Beberapa sifat Manipulasi Aljabar</u></strong></p><p>[tex]\\footnotesize\\rm\\to x^2 - y^2 = (x + y)(x - y)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm \\to x^2 + y^2 &amp;=\\rm (x + y)^2 - 2xy\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x - y)\u00b2 + 2xy\\rm{\\blue{...Persamaan~2}}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3-y^3=(x-y)(x^2+xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3+y^3=(x+y)(x^2-xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^2+y^2+z^2 &amp;=\\rm(x+y+z)^2-2(xy+xz+yz)\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x-y-z)^2+2(xy+xz-yz)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^3+y^3+z^3 &amp;=\\rm (x+y+z)^3-3(x+y+z)(xy+xz+yz)+3xyz\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x^2+y^2+z^2)(x+y+z)-(x+y+z)(xy+xz-yz)+3xyz\\blue{...Persamaan~2}\\\\ &amp;=\\rm (x+y+z)\\left[(x^2+y^2+z^2)-(xy+xz+yz)\\right]+3xyz\\blue{...Persamaan~3}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^4+y^4+z^4 &amp;=\\rm (x^2+y^2+z^2)^2-2(xy+xz+yz)^2+4xyz(x+y+z)\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x^3+y^3+z^3)(x+y+z)-(x^2+y^2+z^2)(xy+xz+yz)+xyz(x+y+z)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p></p><h2><u>Pembahasan</u></h2><h3>\u261e Diketahui pernyataan :</h3><p>(x+y+z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 habis dibagi (x + y)(y + z)(x + z)</p><p></p><h3>\u261e Ditanya :</h3><p>Buktikan bahwa pernyataan tersebut benar atau salah, Jika benar tentukan hasil baginya!</p><p></p><h3>\u261e Jawab :</h3><p><strong><u>\u00bb Untuk (x + y)(y + z)(x + z) ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize\\begin{aligned}\\rm (x+y)(y+z)(x+z)&amp;=\\rm x^{2}y+xyz+x^{2}z+xz^{2}+xy^{2}+y^{2}z+xyz+yz^{2}\\\\&amp;=\\bf x^{2}y+x^{2}z+xz^{2}+xy^{2}+y^{2}z+yz^{2}+2xyz\\end{aligned}[/tex]</p><p></p><p><strong><u>\u00bb Untuk (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize=\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}[/tex]</p><p>[tex]\\footnotesize=\\rm (x+y+z)(x+y+z)(x+y+z)\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm x^3+x^2 y+x^2 z+x^2 y+xy^2+xyz+x^2 z+xyz+xz^2+x^2 y+xy^2+xyz+xy^2+y^3+y^2 z+xyz+y^2 z+yz^2+x^2 z+xyz+xz^2+xyz+y^2 z+yz^2+xz^2+yz^2+z^3\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm\\cancel{x^3+y^3+z^3}+3x^2 y+3x^2 z+3xz^2+3xy^2+3y^2 z+3yz^2+6xyz\\cancel{\\blue{-x^{3}-y^{3}-z^{3}}}[/tex]</p><p>[tex]\\footnotesize=\\bf 3(x^2y+x^2z+xz^2+xy^2+y^2z+yz^2+2xyz)[/tex]</p><p><strong><u>\u00bb Perhatikan bahwa</u></strong></p><p>[tex]\\footnotesize\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}=3(x+y)(y+z)(x+z)[/tex]</p><p><u><strong>\u00bb</strong><strong> </strong><strong>Dari sini dapat kita simpulkan bahwa pernyataan tersebut benar karena</strong></u></p><p>3(x + y)(y + z)(x + z) <strong>habis dibagi</strong> (x + y)(y + z)(x + z) <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Kesimpulan</u></h2><p></p><p><strong>\u2234 Jadi pernyataan tersebut benar bahwa</strong><strong> </strong>[tex]\\rm (x+y+z)^3-x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm (x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Pelajari Lebih Lanjut :</u></h2><p></p><ol><li>Operasi bentuk Aljabar (Penjumlahan, Pengurangan, Menyederhanakan, Perkalian): https://brainly.co.id/tugas/25699535</li><li>Operasi bentuk Aljabar (Bentuk Fraksi) : https://brainly.co.id/tugas/3542338</li><li>Operasi Bentuk Aljabar (Pengurangan dan Penyederhanaan) : https://brainly.co.id/tugas/25699589</li></ol><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Detail Jawaban</u></h2><p></p><p>Mapel : Matematika</p><p>Kelas : VIII</p><p>Materi : Operasi Bentuk Aljabar - Bab 1</p><p>Kode Kategorisasi : 8.2.1 (Kelas 8)</p><p>Kode Mapel : 2</p><p>Kata Kunci : Pembuktian Langsung, Manipulasi Aljabar, Habis bagi</p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p>",
+            "attachments": []
+        },
+        {
+            "answer": "<p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h3>\u27a1\ufe0f Pendahuluan </h3><p>Perkalian aljabar dengan dua suku maka</p><p>(a +  b) (c + d) = a(c + d) + b(c + d)</p><p>Pemfaktoran</p><p>Aljabar ax\u00b2 + bx + c maka kita cari angka jika dikalin c dan jika ditambah b</p><p>Caranyaubah bentuk aljabar dengan perkalian a(c + d) terlebih dahulu setelah itu di sederhanakan</p><p>Kemudian kita cari angka yang bisa di faktorkan sehingga bisa ubah persamaan tersebut.</p><p>Yang ketiga hilangkan salah satu variabel untuk mencari variabel pertama setelah itu di substitusi kan</p><p>Dalam perkalian aljabar maka kita kalikan satu persatu setelah kita sederhanakan, dankita cari nilai dari pemangkatan aljabar tersebut setelah itu kita sederhanakan.</p><p></p><h3>\u27a1\ufe0fPenyelesaian soal </h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p>Buktikan : (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis..</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><ul><li>Pembuktian x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis </li></ul><p></p><p><strong> </strong><strong>Jawab</strong><strong> </strong><strong>:</strong></p><ul><li>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</li></ul><p></p><h3><strong>\u27a1\ufe0f</strong><strong> </strong><strong>P</strong><strong>embahasan</strong><strong> </strong></h3><p><strong># (x + y + z)\u00b3</strong></p><p>= (x + y + z)(x + y + z)(x + y + z)</p><p>=(x\u00b2 + xy + xz + xy + y\u00b2 + yz + xz + yz + z\u00b2)(x + y + z)</p><p>=(x\u00b2 + y\u00b2 + z\u00b2 +2xy + 2xz + 2yz)(x + y + z)</p><p>=x\u00b3 + x\u00b2y + x\u00b2z + xy\u00b2 + y\u00b3 + y\u00b2z + xz\u00b2 + yz\u00b2 + z\u00b3 + 2x\u00b2y + 2xy\u00b2 + 2xyz + 2x\u00b2z + 2xyz + 2xz\u00b2 + 2xyz + 2y\u00b2z + 2yz\u00b2</p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz</p><p><strong>#(x + y) (y + z) (z + x) =</strong></p><p>(xy + xz + y\u00b2 + yz) (z + x )</p><p>= xyz + x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + xyz</p><p>= x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p><strong>Maka </strong></p><p>= (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) </p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x)</p><p>= 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= 3(x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz) \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= <strong>3</strong></p><p></p><h3><strong>Kesimpulan</strong><strong> </strong><strong>:</strong></h3><p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h2>__________________</h2><h3>Pelajari lebih lanjut :</h3><ul><li>Rumus-Rumus Turunan Fungsi Aljabar https://brainly.co.id/tugas/22162107</li><li>Jelaskan pengertian yg paling mendasar dari Aljabar! https://brainly.co.id/tugas/23563280</li><li>Unsur unsur aljabar dan macam macam suku aljabar https://brainly.co.id/tugas/3725097</li></ul><p></p><h3>Detail Jawaban :</h3><p>Mapel       : Matematika </p><p>Materi       : 8 SMP </p><p>Bab            : Operasi Bentuk Aljabar </p><p>Kode Kategorisasi : 8.2.1</p><p>Kata Kunci : Manipulasi Bentuk Dari Aljabar.</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-banyak-suku-dari-deret-berikut-a691215756-b-978",
+            "question": "Tentukan banyak suku dari deret berikut    a.6\u00b19+12+15+.....=756\r\n b.56+51+46+41+.....=-36\r\n c.10+14+18+22+.....=640",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) Sn = n/2(2a +(n-1)b)<br>\u00a0 \u00a0 756=n/2(2.6 + (n-1)3)<br>\u00a0 \u00a0 \u00a0756x2 = n(12+ 3n-3)<br>\u00a0 \u00a0 \u00a01512=12n+3n2-3n<br>\u00a0 \u00a0 \u00a01512=3n2+9n<br>\u00a0 \u00a0 \u00a0 3n2+9n-1512=0<br>\u00a0 \u00a0 \u00a0 n2+3n-504=0<br>\u00a0 \u00a0 \u00a0 (n+24) (n-21)=0<br>\u00a0 \u00a0 \u00a0 \u00a0n+24=0 atau n-21=0<br>\u00a0 \u00a0 \u00a0 \u00a0 n=-24 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n=21(benar karena paositif)<br>b)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0-36=n/2(2.56+(n-1)-5<br>\u00a0 \u00a0-36x2=n(112-5n+5)<br>\u00a0 \u00a0 -72 = n(117-5n)<br>\u00a0 \u00a0 -72 = 117n-5n2<br>\u00a0 \u00a0 5n2-117n-72=0<br>\u00a0 \u00a0 (n-120/5)5(n+3/5)=0<br>\u00a0 \u00a0 \u00a0n-24 =0 atau 5n+3=0<br>\u00a0 \u00a0 \u00a0n=24(benar) \u00a05n=-3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n= -3/5<br>c)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0 640=n/2(2.10+(n-1)4<br>\u00a0 \u00a0 640=n/2(20+4n-4)<br>\u00a0 \u00a0 640=10n+2n2-2n<br>\u00a0 \u00a0 640=2n2+8n<br>\u00a0 \u00a0 2n2+8n-640=0<br>\u00a0 \u00a0 \u00a0n2+4n-320=0<br>\u00a0 \u00a0 (n+20)(n-16)=0<br>\u00a0 \u00a0 \u00a0n+20=0 atau n-16=0<br>\u00a0 \u00a0 \u00a0n=-20 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n=16(benar)<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-magga-dan-apel-75-buah-jika-perbandingan-78-banyak-buah-a-560",
+            "question": "Jumlah Magga dan Apel 75 Buah jika perbandingan 7:8 Banyak Buah Apel adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya mangga=35<br>apel=40<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mangga = m<br>Apel = a<br>\u00a0<br>m + a = 75<br>\u00a0m : a\u00a0= 7 : 8\u00a0<br>\u00a0Apel = 8/7 x \u00a075\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= \u00a085 , 71 \u00a0 ( dibulatkan )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 86\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-mempunyai-luas-1200cm2-selain-it-774",
+            "question": "Diketahui layang-layang \u00a0ABCD mempunyai luas 1.200cm2. Selain itu, ada layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal-diagonal layang-layang ABCD. Tentukan luas layang-layang \u00a0PQRS !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : layang-layang, luas, panjang diagonal, dua kali<br><br>Pembahasan :<br>Layang-layang\u00a0adalah segi empat yang dibentuk dari gabungan dua buah segitiga sama kaki yang alasnya sama panjang dan berhimpit.<br>Sifat-sifat layang-layang, yaitu :<br>1. masing-masing sepasang sisinya sama panjang;<br>2. sepasang sudut yang berhadapan sama besar;<br>3. salah satu diagonalnya merupakan sumbu simetri;<br>4. salah satu diagonalnya membagi diagonal lainnya menjadi dua bagian sama panjang dan kedua diagonal tersebut salah tegak lurus.<br><br>Kelilingnya dengan panjang sisi pendek b dan panjang sisi panjang a adalah <br>K = 2(a + b)<br><br>Luasnya dengan diagonal masing-masing d\u2081 dan d\u2082 adalah <br>L = 1/2(d\u2081 .d\u2082).<br><br>Mari kita lihat soal tersebut.<br>Diketahui luas layang-layang ABCD adalah 1200 cm\u00b2. Artinya<br>luas layang-layang ABCD adalah<br>L = 1/2(d\u2081 . d\u2082)<br>\u21d4 1200 = 1/2(d\u2081 . d\u2082)<br>\u21d4 2400 = d\u2081 . d\u2082<br>Selain itu, suatu layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal layang-layang ABCD. Artinya,<br>masing-masing panjang diagonal PQRS adalah<br>d\u2083 = 2 . d\u2081<br>d\u2084 = 2 . d\u2082<br>Luas layang-layang PQRS adalah<br>L = 1/2(d\u2083 . d\u2084)<br>\u21d4 L = 1/2(2d\u2081 . 2d\u2082)<br>\u21d4 L = 1/2(4 . d\u2081 . d\u2082)<br>\u21d4 L = 2(d\u2081 . d\u2082)<br>\u21d4 L = 2. 2400<br>\u21d4 L = 4800<br><br>Jadi, jika luas layang-layang ABCD adalah 1200 cm\u00b2, maka luas layang-layang PQRS adalah 4800 cm\u00b2.<br><br>Semangat Belajar!<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pabrik-memproduksi-mobil-banyaknya-produksi-per-bulan-me-359",
+            "question": "Sebuah pabrik memproduksi mobil , banyaknya produksi per bulan merupakan deret aritmatika , produksi pada bulan ke 3 adalah 150 unit dan produksi pada bulan ke 6 adalah 225 unit tentukan    a. banyaknya produjsi pada bulan pertama \r\nb. pertambahan produksi pada tiap bulan\r\nc. jumlah produksi pada tahun pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] U_{3} = a + 2b = 150  \\\\  U_{6} = a + 5b = 225 [/tex]\u00a0\u21d2\u00a0[tex]a = 225 - 5b \\\\  U_{3} = 225 - 5b +2b \\\\ 150 = 225 - 3b \\\\ 3b = 75 \\\\ b = 25[/tex]<br><br>a)\u00a0[tex] U_{3} = a +2b \\\\ 150 = a + 2(25) \\\\ a = 100[/tex]<br><br>b) beda\u00a0= 25\u00a0<br><br>c)\u00a0[tex] S_{12} = 6 ( 2(100)+11(25) = 2850[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-a-merupakan-alas-jajargenjang-pqrs-dengan-t-merupakan-ti-440",
+            "question": "Misalkan a merupakan alas jajargenjang PQRS dengan t merupakan tingginya. Jika 2t \u00a0= 3a, tentukan:    a.panjang t\u00a0dalam a\r\nb.panjang alas dan tingginya jika luas jajargenjang tersebut 864 cm2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0 2t=3a<br>\u00a0\u00a0 \u00a0 \u00a0 t=3a/2<br><br>b.\u00a0 a.t= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a. 3a/2= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a\u00b2 = 864. 2/3<br>\u00a0\u00a0 \u00a0 a = 576<br>\u00a0\u00a0 \u00a0 a = \u221a576<br>\u00a0\u00a0 \u00a0 a =\u00a0 24 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. <br>a) 2t = 3a<br>t = 3a/2<br><br>b) L = alas x tinggi<br>864 = a x t subtitusikan t = 3a/2<br>864 = a x 3a/2<br>864 = 3a^2/2<br>1728 = 3a^2<br>a^2 = 1728/3<br>a^2 = 576<br>a = akar(576)<br>a = 24 cm<br><br>t = 3a/2 = 3x24/2 = 36 cm<br><br>keterangan ^ : pangkat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tumpukan-beberapa-lembar-kertas-dipotong-menjadi-2-bagian-yang-sa-340",
+            "question": "tumpukan beberapa lembar kertas dipotong menjadi 2 bagian yang sama. kemudian, kertas tersebut ditumpuk dan dipotong lagi menjadi 2 bagian, begitu seterusnya. pada potongan yang ketiga jumlah kertas menjadi 160 lembar. banyak kertas pada potongan yang ketujuh adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Barisan dan Deret<br>Kelas : 2 SMA/XI SMA<br><br>Pembahasan :<br><br>Misalkan ada n tumpukan kertas.<br>Potongan 1 = 2n<br>Potongan 2 = 4n<br>Potongan 3 = 8n<br><br>Sehingga:<br>8n = 160<br>n = 160/8 <br>\u00a0 \u00a0=\u00a020<br><br>Maka, potongan ketujuh adalah :<br><span>U\u2087 =\u00a02\u2077.n <br>\u00a0 \u00a0 \u00a0\u00a0= 128\u00a0.\u00a020 <br>\u00a0 \u00a0 \u00a0\u00a0= 2.560 lembar</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

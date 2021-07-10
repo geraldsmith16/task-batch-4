@@ -1,0 +1,132 @@
+{
+    "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika maasa jenis air 1.000 kg/, maka hitunglah massa jenis minyak.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u03c1 = Rho<br><br>Diketahui : \u03c11 = 1000 kg/[tex] M^{3} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 h1 = 10 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  h2 = 20 cm<br>Ditanyai : \u03c12\u00a0 ?<br><br>Penyelesaian<br><br>\u03c11 . h1 = \u03c12 . h2<br>1000 . 10 = \u03c12 . 20<br>\u03c12 = <u>1000 . 10</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u03c12 = <u>10000</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  20<br>\u03c12 = 500 kg/[tex] M^{3} [/tex]<br><br><br><br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "massa jenis minyak = 0,5 g/cm^3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-02-m-x-01-m-x-03-m-digantung-vertik-741",
+            "question": "Sebuah balok dengan ukuran 0,2 m x 0,1 m x 0,3 m digantung vertikal dari seutas kawat ringan. tentukan gaya apung pada balok itu :    a. di celupkan seluruhnya dalam minyak \r\n\r\n ( \u03c1 = 800 kg/m3)\r\nb. dicelupkan 3/4 bagian dalam air (\u03c1 = 1000 kg/m3)\r\nc. dicelupkan 1/3 bagian dalam raksa (\u03c1 = 13600 kg/m3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V balok seluruhnya = 0,2m. 0,1m. 0,3m = 0.006 m\u00b3<br>3/4 V balok = 3. 0.006 /4 = 0.0045 m\u00b3<br>1/3 V balok = 0.06 / 3 = 0.002 m\u00b3<br>a. p minyak = 800kg/m\u00b3<br>\u00a0\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 800. 10. 0.006<br>\u00a0\u00a0 \u00a0 =\u00a0 48 N<br><br>b. p air = 1000 kg/m\u00b3 <br>\u00a0\u00a0  F= p. g. V<br>\u00a0\u00a0 \u00a0 = 1000. 10. 0.0045<br>\u00a0\u00a0 \u00a0 = 45 N<br><br>c. p raksa =13600kg/m\u00b3<br>\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 13600. 10. 0.002<br>\u00a0\u00a0 \u00a0 = 272 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633",
+            "question": "seutas tali dengan panjang 0,80 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,50 kg dalam suatu lingkaran horizontal. tentukan periode minimum agar benda dapat diayunkan tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab gerak Melingkar\u00a0<br>Kelas: XI SMA IPA\u00a0<br><br><span>Pembahasan:<br><br></span><span>Periode minimum agar benda dapat diayun sehingga tali tidak putus adalah\u00a0<strong>1,98 detik.</strong><br></span><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantujembatan-ponton-dibuat-dari-drum-yang-terapung-843",
+            "question": "Tolong dibantu....Jembatan ponton dibuat dari drum yang terapung diatas permukaan air. Setiap drum terisi udara sehingga terapung diatas permukaan air. Setiap drum terisi udara sehingga secara keseluruhan bermassa 20kg dan volume rata-rata 2m\u00b3. Tentukan berat beban maksimum yang dapat ditahan oleh drum tersebut...    a. 2x10\u2077 N\r\nb. 2x10\u2076 N\r\nc. 2x10\u2075 N\r\nd. 2x10\u2074 N\r\ne. 2x10\u00b3 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. m = 20 kg<br>\u00a0\u00a0 \u00a0 \u00a0 V = 2 [tex] m^{3} [/tex] = 2000 liter<br>Fa = V . g<br>\u00a0\u00a0 \u00a0 = 2.000 x 10<br>\u00a0\u00a0 \u00a0  = 2 x [tex] 10^{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-olehba-682",
+            "question": "Batang Panjangnya 1 m bergerak dengan kecepatan v, diamati olehBatang Panjangnya 1 m bergerak dengan kecepatan v, diamati oleh pengamat yang diam panjang batang menjadi 80 cm. Bila c = kecepatan cahaya, maka kecepatan batang itu adalah ....    a. 1/5 c\r\nb. 2/5 c\r\nc. 3/5 c\r\nd. 4/5 c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0[tex] L_{0} [/tex][tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex]<br>0,8 = 1\u00a0[tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex] ... (kali kuadrat)<br>0,64 = 1 ( 1-[tex] \\frac{ v^{2} }{ c^{2} } [/tex] )<br>0,64 = 1 -\u00a0[tex] \\frac{ v^{2} }{ c^{2} } [/tex]<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 1 - 0,64<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 0,36<br>v\u00b2 = 0,36 c\u00b2<br>v =\u00a0[tex] \\sqrt{0,36 .  c^{2} } [/tex]<br>v = 0,6 c atau\u00a0[tex] \\frac{3}{5} [/tex] c<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-koefisin-restitusi-pada-a-tumbukan-lentingelas-398",
+            "question": "Tuliskan rumus koefisin restitusi pada :     a. tumbukan lenting(elastis) sempurna\r\nb. tumbukan lenting(elastis) sebagian\r\nc. tumbukan lbola dengan lantai",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus koefisien restitusi untuk tumbukan di bidang mendatar adalah <br><br>[tex]e=- \\frac{v&#039;_{2}-v&#039;_{1}}{v_{2}-v_{1}} [/tex] <br><br>(a). Untuk <span>tumbukan lenting (elastis) sempurna<br>\u00a0\u00a0 \u00a0 \u00a0  e = 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga v&#039;\u2082 - v&#039;\u2081 = v\u2081 - v\u2082<br><br>(b). </span><span>tumbukan lenting (elastis) sebagian</span><span><br>\u00a0\u00a0 \u00a0 \u00a0 0 &lt; e&lt; 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga rumus koefisien restitusi di atas akan memiliki nilai sesuai nilai e\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 di soal\u00a0 \u00a0 \u00a0 <br><br>(c). tumbukan bola dengan lantai<br>\u00a0\u00a0 \u00a0 \u00a0 rumus koefisien restitusinya adalah <br>\u00a0\u00a0 \u00a0 \u00a0  [tex]e= \\sqrt{ \\frac{h&#039;}{h} } [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0 dengan h = ketinggian sebelum memantul (mengarah ke bawah)<br>\u00a0\u00a0 \u00a0 \u00a0 dan h&#039; = ketinggian sesudah pantulan</span> <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kumparan-terdiri-atas-200-lilitan-berbentuk-persegi-panjan-814",
+            "question": "sebuah kumparan terdiri atas 200 lilitan berbentuk persegi panjang dengan panjang 10 cm dan lebar 5 cm. kumparan itu diputar dalam medan maget 0,5 T dan kecepatan sudut 60 rad/s. pada ujung ujung kumparan akan timbul ggl AC maksimum sebesar...V",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>N=200 <br>A=0,1 x 0,05 = 0,005 m\u00b2<br>B=0,5 T<br>\u03c9=60 rad/s<br>Dit :<br>\u03b5=...?<br><br>Peny :<br>\u03b5 =N B A \u03c9<br>\u00a0\u00a0 =200 x 0,5 x 0,005 x 60<br>\u00a0\u00a0 =30 Volt <br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-definisi-standard-resistor-672",
+            "question": "Apa definisi standard resistor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "komponen elektronika dua saluran yg didesain untuk menahn arus listrik dg<br>memproduksi penurunn tegangn diantra kedua salurannya sesuai dg arus yg mengalirnya, berdasarkn hukum ohm<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "seorang pedagang perabot rumah tangga sepasang sofa seharga Rp 12.000.000,00 dari penjual tersebut,dia mendapat untung 20% dari modalnya. Dia berencana akan menggantikan sofa yg telah laku tersebut untuk dijual kembali,tetapi ternyata harga sofa sudah naik 10%.berapakah sofa itu dijual agar keuntunganya sama dengan penjualan sofa yg pertama?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "harga beli awal = [tex] \\frac{100}{120} [/tex] x 12.000.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 10.000.000<br>karena harga sofa naik 10% maka<br>[tex] \\frac{10}{100} [/tex] x 10.000.000 = 1.000.000<br>harga sofa sekarang:<br>10.000.000 + 1.000.000 = 11.000.000<br>agar mendapat untung 20% maka:<br>[tex] \\frac{20}{100} [/tex] x 11.000.000 = 2.200.000<br>Harga jual:<br>11.000.000 + 2.200.000 = 13.200.000<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-5-dari-barisan-geometri-adalah-243hasil-bagi-suku-ke-9-d-353",
+            "question": "suku ke 5 dari barisan geometri adalah 243,hasil bagi suku ke 9 dengan suku ke 6 adalah 27,suku ke 2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XII</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Barisan dan Deret</strong><br><strong>Kata Kunci : geometri, rasio, suku</strong><br><br><strong>Kode : 12.2.7 [</strong><span><strong>Kelas 12 Matematika BAB 7 - Baris dan Deret]</strong><br><br>Diketahui<br>Barisan geometri<br>Suku ke-5 atau U</span>\u2085 = 243<br>Hasil bagi suku ke-9 dengan suku ke-6 adalah 27<br><br>Ditanya<br>Suku ke-2 (U\u2082)<br><br>Penyelesaian<br><br>Gunakan rumus-rumus berikut ini untuk barisan geometri.<br><br>Rumus suku ke-n\u00a0\u21d2\u00a0[tex]U_n=a.r^{n-1}[/tex]<br>Keterangan<br>a = U\u2081 = suku pertama<br>r = rasio<br><br><strong>Step-1</strong><br><strong>Siapkan suku ke-5</strong><br><br>\u21d4 U\u2085 = 243<br>\u21d4\u00a0[tex]a.r^4=243[/tex]<br><br><strong>Step-2</strong><br><strong>Hubungan antara suku ke-9 dengan suku ke-6 untuk mendapatkan rasio</strong><br><br>\u21d4\u00a0[tex] \\frac{U_9}{U_6}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{a.r^8}{a.r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{r^8}{r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex]r^3=27[/tex]<br><br>DIperoleh rasio sebesar r = 3.<br><br><strong>Step-3</strong><br><strong>Menentukan suku pertama</strong><br><br>Substitusikan rasio ke dalam suku ke-5.<br><br>\u21d4\u00a0[tex]a.(3)^4=243[/tex]<br>\u21d4\u00a0[tex]a.81=243[/tex]<br>Diperoleh suku pertama yaitu a = 3.<br><br><strong>Final step</strong><br><strong>Hitung ke-2</strong><br><br>\u21d4\u00a0[tex]U_2=a.r[/tex]<br>\u21d4\u00a0[tex]U_2=(3)(3)[/tex]<br><br><strong>Diperoleh suku kedua yaitu U\u2082 = 9.</strong><br><br>__________________________<br><br>Simak soal notasi sigma\u00a0<br>brainly.co.id/tugas/13193195<br>Soal mengenai pembuktian dengan induksi matematika<br>https://brainly.co.id/tugas/13567638<br>Serta soal terkait deret aritmatika<br>brainly.co.id/tugas/1124372<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-bahwa-1-2-2-22-sampai-12-suku-adalah-441",
+            "question": "Tunjukkan bahwa 1 +\u00a0\u221a2 + 2 + 2\u221a2 + ... sampai 12 suku adalah 63(\u221a2 + 1).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "deret tersebut adalah deret geometri dengan r = u2/u1 = <span>\u221a2 <br>karena r &gt; 1, maka merupakan deret geometri konvergen<br>rumus jumlah 12 suku awal deret geometri konvergen<br><br>[tex]\\frac{a(r^{n}-1)}{r-1}  \\\\  \\frac{1( (\\sqrt{2})^{12}-1)}{ \\sqrt{2}-1}  \\\\  \\frac{2^{6}-1}{ \\sqrt{2}-1} [/tex]<br><br>= 63 /</span><span> (\u221a2 - 1) <br>rasionalkan<br>= 63 (</span><span>\u221a2 + 1</span>)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumys-triogonometri-sudut-negatif-548",
+            "question": "Rumys triogonometri sudut negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Kuadran IV : sudut dalam derajat 270\u00b0 &lt;\u00a0\u03b1 &lt; 360\u00b0 atau <br>sudut dalam radian 3\u03c0/2 &lt;\u00a0\u03b1 &lt; 2\u03c0<span><br>sin (360\u00b0 -\u00a0\u03b1) = sin (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sin (-\u03b1) = -sin \u03b1<br>cos (360\u00b0 -\u00a0\u03b1) = cos (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cos (-\u03b1) = cos \u03b1<br>tan (360\u00b0 -\u00a0\u03b1) = tan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>tan (-\u03b1) = -tan\u00a0\u03b1<br>cotan (360\u00b0 -\u00a0\u03b1) = cotan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cotan (-\u03b1) = -cotan\u00a0\u03b1<br>secan (360\u00b0 -\u00a0\u03b1) = secan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>secan (-\u03b1) = -secan \u03b1<br>sec (360\u00b0 -\u00a0\u03b1) = sec (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sec (-\u03b1) = sec\u00a0\u03b1<br><br>Contoh :\u00a0<br></span><span>sin (-35)</span>\u00b0 = -sin 35\u00b0<br><span>cos (-26)</span>\u00b0 = cos 26\u00b0<br><span>tan (-</span>\u03c0/5) = -tan\u00a0\u03c0/5<br><span><br>Semangat!<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-hitung-nilai-p-sukubanyak-fx-x5p-2-566",
+            "question": "tolong beri jawabannya, hitung nilai p ,sukubanyak f(x)= x^5+(p-2)x pngt4+3px pngt3-x pngt2+2x+4 dibagi dgn x+1 menghasilkan sisa -10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = x^5 + (p-2)x^4 + 3px^3 - x^2 + 2x + 4 dibagi dengan (x+1) menghasilkan sisa -10. Nilai p ?<br><br>(x+1) artinya nilai x = -1<br><br>x = -1 , (nilai x dimasukkan kedalam persamaan y)<br>(-1)^5 + (p-2)(-1)^4 + 3(-1)^3 - (-1)^2 + 2(-1) + 4 = 0<br>-1 + (p-2)(1) + 3(-1) - 1 - 2 + 4 = 0<br>-1 + p - 2 - 3 +\u00a01 = 0<br>p - 5 = 0<br>p = 5<br><br>y = x^5 + 3x^4 + 15x^3 - x^2 + 2x + 4 dibagi (x+1) sisa -10<br><br>untuk percobaan agar menghasilkan sisa -10, silahkan dibagikan dengan x=-1 :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x) =  x^{5} + (p-2)  x^{4}  + 3p x^{3} -  x^{2} +2x +4[/tex]<br><br>karena dibagi (x+1) = -10 maka<br><br>[tex]f(-1) = -10 \\\\ -10 = (-1)^{5} + (p-2)(-1)^{4} + 3p(-1)^{3} - (-1)^{2} + 2(-1) + 4 \\\\ -10 = -1 +(p-2) - 3p -1 -2 +4 \\\\ -8 = -2p \\\\ p = 4[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-contoh-aplikasi-soal-trigonometri-dalam-bidang-fisika-beserta-154",
+            "question": "Apa contoh aplikasi soal trigonometri dalam bidang fisika beserta pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gerak parabola : kan ada sudutnya. kalau diuraikan pada sumbu x, cos sudut. kalau diuraikan diuraikan pada SB y sin sudut<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-simbol-tak-terdefinisi-dan-tak-terhingga-itu-sama-dan-252",
+            "question": "apakah simbol \"tak terdefinisi\" dan \"tak terhingga\" itu sama? dan bagaimanakah bentuk lambang \"tak terdefinisi\"? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "engga , gak sama ..\nkalo tak terdefini tuh kayak ~/~ hasilnya pasti kita gak ketahui ~ \ntapi kalo tak terhingga tuh kayak 0/0 = 0 kalo kita mau tulis 1 juga bisa , mau tulis 2 juga dst",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-kegunaan-sin-cos-dan-tan-dalam-matematika-dan-dalam-kehidupan-728",
+            "question": "Apa kegunaan sin cos dan tan dalam matematika dan dalam kehidupan sehari hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n    Ada banyak manfaat belajar Trigonometri. <br><br>\nManfaat trigoneometri utk kehidupan, antara lain: <br>\n1. utk menghitung sudut serang (angle of attack) yg paling optimal dari \nsuatu peluncur senjata, agar mampu melontarkan projektil sejauh mungkin,\n <br>\n2. menentukan berapa gradient tertinggi dari suatu tanjakan di jalan \numum di pegunungan, agar semua kendaraan (terutama sedan, dgn panjang \nsumbu badan yg tinggi, tetapi, ketinggian as roda rendah), dapat \nmelewatinya dgn selamat, <br>\n3. utk menghitung berapa \"lift force\" suatu sayap profil pesawat, dgn \nkecepatan tertentu, yg tidak boleh dilewati. Bila nilai ini dilewati, \nmaka pesawat akan mengalami stall (jatuh karena tidak memiliki daya \nangkat), khususnya perhitungan ini diperlukan pada pesawat pemburu. <br>\n4. pada olah gerak teknis kapal selam di bawah air, dgn mengetahui sudut\n hidroplane depan dan belakang, menginterpolarisasikannya dgn kecepatan \nkapal, kita lalu dapat memperkirakan, berapa kita harus mengisi \ncompensating tank, agar kapal welltrimm pada kecepatan tersebut. <br>\n5. pada pengukuran ketinggian/kontur tanah, dgn mengetahui jarak tiang \npengukur yg satu terhadap yg lain, dan beda ketinggian antara dua tempat\n tiang pengukur, maka kita akan dapat mengetahui, berapa gradien \nkenaikan tanah yg kita ukur. <br>\n6. contoh sederhana dalam kejadian sehari-hari, saat kamu menaiki tangga\n tentunya kamu tidak ingin membuat sudut bidang miringnya terlalu besar \nkarena tangga akan terlalu mendongak, atau sudutnya terlalu kecil karena\n daya jangkaunya hanya rendah.  </span>\n    <span><br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. mengukur tinggi pohon atau gedung atau menara <br>\n2. menentukan posisi kapal atau perahu dengan bantuan jurusan tiga angka <br>\n3. mengukur luas segitiga atau bangun segiempat  <br>\n4. menghitung luas segi banyak <br>\n5. digunakan dalam ilmu fisika dan teknik <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

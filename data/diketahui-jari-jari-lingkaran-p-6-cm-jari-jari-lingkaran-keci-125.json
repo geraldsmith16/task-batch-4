@@ -1,0 +1,148 @@
+{
+    "question": "diketahui jari-jari lingkaran P = 6 cm , jari-jari lingkaran kecil Q = 3 cm , dan panjang garis singgung persekutuan dalam kedua lingkaran 12 cm . jarak titik pusat lingkaran P dan Q adalah ..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>s2=(r1+r2)2+gd2</span>\n\n<span>s2=(6+3)2+122</span>\n\n<span>s2=92+122</span>\n\n<span>s2=81+144</span>\n\n<span>s2=225</span>\n\ns=15 cm.\n\n<span>Jadi jarak pusat kedua lingkaran adalah 15 cm. (angka 2\nartinya kuadrat yah.. J)</span>\n\n<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-b-896",
+            "question": "Pada hari raya, supermarket menjual pakaian dengan diskon besar-besaran. Ibu membeli kemeja adik dengan harga Rp 150.000 setelah di diskon sebesar 30% (+15%), artinya akan terjadi diskon harga lagi sebesar 15% dari total harga setelah di diskon 30%. Berapakah harga kemeja tersebut jika tidak ada diskon ????\u00a0 Terima kasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf, tapi sebelumnya sudah ada pertanyaan yg seperti ini, tapi akan saya jawab.\n\u300b(cara cepat)\n\u300b150.000 x 100/85 = 176.470\n\u300b176.470 x 100/70 = 252.100\n\u300b jadi, harga kemeja sebelum semua diskon adalah Rp. 252.100",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-barisan-aritmatika-suku-ke-8-22-dan-suku-ke-12-34-jumlah-545",
+            "question": "Suatu barisan Aritmatika suku ke-8 =22 dan suku ke-12 =34. Jumlah 24 suku pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U8 \u00a0\u00a0= a\u00a0+\u00a07b \u00a0\u00a0= 22<br>U12 = <u>a + 11b\u00a0= \u00a034</u> -<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04b = 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b\u00a0 = 12/4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b \u00a0= 3<br><br>a\u00a0+ 7b \u00a0= 22<br>a + 7.3 = 22<br>a + 21 \u00a0= 22<br>\u00a0 \u00a0 \u00a0 \u00a0 a \u00a0= 22 - 21<br>\u00a0 \u00a0 \u00a0 \u00a0 a \u00a0= 1<br><br>Sn \u00a0\u00a0= n/2 (2a + (n-1)b)<br>S24 = 24/2 (2.1 + (24-1)3)<br>\u00a0 \u00a0 \u00a0 \u00a0= 12\u00a0(2 + (23)3)<br>\u00a0 \u00a0 \u00a0 \u00a0= 12 (2 + 69)<br>\u00a0 \u00a0 \u00a0 \u00a0= 12 (71)<br>\u00a0 \u00a0 \u00a0 \u00a0= 852<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u 8 = 22 .. u 12 = 34<br>u8\u00a0 =\u00a0 a + 7b \u00a0 = 22<br><u>u12 = a + 11 b = 34</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  - 4b\u00a0 = -12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 3 ( min di bagi min hasilnya tiga plus <u>-12</u> = 3 \u00a0 ) maka nilai b = 3<br><u></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 - 4<br><br>setelah kita menggunakan metode eliminasi selanjutnya kita pergunakan juga dengan menggunakan metode subsitusi yaitu ; pengambilan suku yang akan kita pergunakan untuk metode eliminasi ini terserah lbh enak menggunakan yg mana ...sebagai contoh saya menggunakan u8<br><br>sub : a + 7b = 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 a + 7(3) = 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  a + 21 = 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  a\u00a0  = 22- 21 = 1<br><br>jumlah suku ke 24 = <u>1</u>. 24 (2.1 +( 24-1 ) 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12 ( 2 + 23.3 )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12 ( 2+ 69 )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12. 71<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 852<br><br><br># rumus jumlah suku = 1/2 n (2.a + (n-1 ) . b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-hubungan-antar-sudut-514",
+            "question": "Apa yang dimaksud hubungan antar sudut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>HUBUNGAN ANTARA SUDUT DAN GARISSudut-sudut yang terjadi jika dua garis sejajar dipotong oleh garis lainDua garis yang sejajar mempunyai jarak yang tetap walaupun kedua garis tersebut diperpanjang.Sudut-sudut sehadap<span>Sudut yang\u00a0menghadap kearah yang sama, yaitu arah kanan atas. Sudut itu disebut\u00a0sudut sehadap.</span>Sudut-sudut berseberangan<span><span>1)\u00a0</span>Sudut-sudut dalam berseberangan</span><span>Sudut yang berada diantara (di dalam) dua garis sejajar dan berseberangan terhadap garis transversal. Sudut-sudut itu disebut\u00a0sudut dalam berseberangan.<br></span><span><span>2)\u00a0</span>Sudut-sudut luar berseberangan</span><span>Sudut yang berada di luar dua garis sejajar dan berseberangan terhadap garis transversal. Sudut itu disebut\u00a0sudut luar berseberangan.</span>sudut-sudut sepihak<span><span>1)\u00a0</span>Sudut-sudut dalam sepihak</span><span>Sudut yang berada di dalam dua garis sejajar dan keduanya terletak di sebelah kiri garis transversal. Sudut-sudut itu di sebut\u00a0sudut dalam sepihak.<br></span><span><span>2)\u00a0</span>sudut-sudut luar sepihak</span><span>Sudut yang berada diluar dua garis sejajar dan keduanya terletak di sebelah kiri garis transversal. Sudut-sudut ini disebut\u00a0sudut luar sepihak.</span>Hubungan sudut-sudut pada dua garis sejajar yang dipotong oleh garis lainJika dua garis sejajar dipotong oleh garis lain, berlaku:<br><span><span>a.\u00a0</span>Sudut-sudut yang sehadap sama besar<br>.</span><span><span>b.\u00a0</span>Sudut-sudut dalam berserangan sama besar.<br></span><span><span>c.\u00a0</span>Sudut-sudut luar berseberangan sama besar.<br></span><span><span>d.\u00a0</span>Sudut-sudut dalam sepihak berjumlah 180 derajat.<br></span><span><span>e.\u00a0</span>Sudut-sudut luar sepihak berjumlah 180 derajat</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996",
+            "question": "Mohon jawab no 8    tentukanlah nilai p,q,r,pada massing-masing gambar berikut ,L adalah titik pusat lingkaran\r\na,b,c saja agar saya yang mengerjakan d\r\nbuat caranya ,makasih :)",
+            "attachments": [
+                "question-attachments/mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "gambar a<br>p = 90\u00b0 karena sudut keliling menghadap diameter<br>q = 60 (saya ragu, cuman segitiga siku\" yang saya tau untuk kelas 8 cuman 2 model, antara yang bersudut 90,60,30 dan yang bersudut 90,45,45)<br>r = 180 - 60 - 90\u00a0 = 30\u00b0<br><br>gambar b<br>p =\u00a0 150 \u00f7 2 (karena sudut keliling = sudut pusat \u00f7 2)<br>\u00a0\u00a0 = 75\u00b0<br>q = sudut reflek \u00f7 2<br>\u00a0 = (360 - 150 ) \u00f7 2<br>\u00a0\u00a0 = 105\u00b0<br><br>gambar c<br>p = 60\u00b0 karena segitiga sama kaki<br>q = 60\u00b0 \u00d7 2<br>\u00a0\u00a0 = 120\u00b0<br>r = (180 - 120 ) \u00f7 2<br>\u00a0 = 60 \u00f7 2 = 30\u00b0 (dibagi 2 karena segitiga yg kecil adalah segitiga sama kaki)<br><br>gambar d<br>p = 180\u00b0 - 110\u00b0 ( karena sifat segi 4 tali bsur sudut berhadapan total 180\u00b0)<br>\u00a0\u00a0 = 70\u00b0<br>q = 180\u00b0 - 60\u00b0<br>\u00a0\u00a0 = 120\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>p= 90<br>q= 60<br>r= 30<br><br>b<br>p= 75<br>q= 105<br><br>c<br>p= 60<br>q= 120<br>r= 30<br><br>d.<br>p= 70<br>q= 120<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-trapesium-abcd-siku-siku-di-b-dengan-panjang-ab-21cm-258",
+            "question": "Diketahui trapesium ABCD siku-siku di B dengan panjang AB = 21cm , CD = 6cm dan luasnya108cm keliling trapesium ABCD adalah..    ket : pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15t+12t=216<br>27t=216<br>t=8<br><br>AD = \u221a15\u00b2+8\u00b2=\u221a289 = 17<br>kll = 21+6+8+17 = 52 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lingkaran-luasnya-1256-cm2-jika-jari-jari-lingkaran-itu-d-133",
+            "question": "suatu lingkaran luasnya 1.256 cm2. jika jari jari lingkaran itu dikurangi 6 maka luas lingkaran sekarang adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "munkin klo di itung itung jasil nya 622 soalnta1256:2=628-6=622",
+                    "attachments": []
+                },
+                {
+                    "answer": "1256 : 3.14 = 400<span></span> .<br>Akar dari 400 = 20cm .<br>20-6 = 14 cm<br>22per7 dikali 14 dikali 14 = 616 cm persegi.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lantai-sebuah-rumah-berukuran-panjang-8-m-dan-lebar-6-m-lantai-it-672",
+            "question": "lantai sebuah rumah berukuran panjang 8 m dan lebar 6 m lantai itu akan ditutup dengan ubin berukuran 30cm x 30cm hitunglah bnyk ubin yg digunakan untuk menutup lantai tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><br>ukuran lantai = 8m x 8m = 800cm x 600cm = 480000</p><p>ukuran ubi = 30 x 30 = 900</p><p>banyak nya ubi 480000/900 = 533,33 hasilnya 533,33cm ( JADIKAN TERBAIK )</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas lantai= 480000cm<br>keliling ubin= 4xs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x30=120cm<br>banyak ubin= 480000/120<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4000 ubin<br><br>kalo gak salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajat-jika-34-putaran-619",
+            "question": "Berapa derajat jika 3/4 putaran?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 3/4*360=270\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "360 x 3/4 = 270 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekarung-beras-beratnya-100-kg-dibeli-dengan-harga-rp450000-ji-636",
+            "question": "Sekarung beras beratnya 100 kg. dibeli dengan harga Rp450.000. Jika tara-nya 1,5% dari beras tersebut dijual dengan hargha Rp6.000 tiap kg, maka hitunglah:    a)\u00a0harga beli beras tiap kg\r\nb)\u00a0besar untung atau ruginya\r\nc) % untung atau %\u00a0rugi dari harga pembelian",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>1. Berat 1 karung beras : 100 kg<br>2. Tara : 1,5 %<br>3.\u00a0Berat bersih : 100 kg - (100x1,5%)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 100 - 1,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 98,5 kg (dibeli dgn harga 450.000)<br><br>Ditanya :<br>a) Harga beli beras tiap kg : 450.000/98,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: <strong>4568,5</strong> (dijual 6000/kg)<br><br>b) Besar untung : 6000x98,5 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 591.000<br>\u00a0Jadi untungnya :\u00a0591.000 - 450.000 : <strong>141.000</strong><br><br>c) % untung : 141.000/450.000x100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: <strong>31,3 %</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-jajar-genjang-abcd-diketahui-sudut-a-5x-38-dan-sudu-544",
+            "question": "Pada jajar genjang ABCD, diketahui sudut A = ( 5x -38 )' dan sudut D = (2x + 15)' Besar Sudut B adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut A dan D dalam jajar genjang memenuhi sifat dalam sepihak sehingga apabila susut sudutnya dijumlahkan maka akan menghasilkan sudut 180 derajat.<br>5x-38 + 2x+15 =180<br>7x -23 = 180<br>7x = 203<br>x = 29<br><br>maka sudut B yng besarnya sama dengan sudut D adalah :<br>2x + 15 = 2(29) + 15 = 73 derajat<br><br>semoga membantu dan tidak salah... :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4 sudut jajar genjang = 360<br>2 sudut jajar genjang = 180<br>&lt;A + &lt;D= 180<br>5X-38+2X+15=180<br>7X=203<br>X=29<br><br>&lt;A = 107<br>&lt;A+&lt;B = 180<br>&lt;B=180-107=73<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

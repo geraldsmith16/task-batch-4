@@ -1,0 +1,136 @@
+{
+    "question": "Suatu perusahaan memproduksi x unit barang    dengan biaya ( 4x^2-8x+24) dalam ribu rupiah untuk tiap unit \r\n jika barang tersebut terjual habis dengan harga 40.000 tiap unit keuntungan maksimum nya yang diperoleh perusahaan tersebut adalah...\r\n mohon bantuannya ya..\r\n buatin caranya ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Suatu perusahaan memproduksi x unit barang dengan biaya (4x^2 \u2013 8x + 24) dalam ribu rupiah untuk tiap unit</strong>. Jika barang tersebut terjual habis dengan harga Rp40.000,00 tiap unit maka <strong>keuntungan maksimumnya yang diperoleh perusahaan tersebut </strong>adalah Rp32.000,00. Hasil tersebut diperoleh dengan mencari nilai stasioner. Nilai stasioner diperoleh jika f\u2019(x) = 0. Titik stasioner ada 3 jenis yaitu\n</p><ul><li>Titik balik maksimum diperoleh jika f\u201d(x\u2081) &lt; 0\n</li><li>Titik balik minimum diperoleh jika f\u201d(x\u2081) &gt; 0\n</li><li>Titik belok diperoleh jika f\u201d(x\u2081) = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Biaya per unit = (4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>maka\n</p><p><strong>Biaya untuk memproduksi x unit\n</strong></p><p>B(x) = x(4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>B(x) = (4x\u00b3 \u2013 8x\u00b2 + 24x) dalam ribu rupiah\n</p><p></p><p>Harga jual per unit = Rp40.000,00 = 40 ribu rupiah\n</p><p>maka\n</p><ul><li>harga jual untuk x unit = 40x ribu rupiah\n</li></ul><p></p><p>Sehingga<strong> keuntungan yang diperoleh perusahaan</strong> adalah\n</p><p>U = harga jual \u2013 biaya produsi\n</p><p>U = 40x \u2013 (4x\u00b3 \u2013 8x\u00b2 + 24x)\n</p><p>U = 40x \u2013 4x\u00b3 + 8x\u00b2 \u2013 24x\n</p><p>U = \u20134x\u00b3 + 8x\u00b2 + 16x\n</p><p>U\u2019 = \u201312x\u00b2 + 16x + 16\n</p><p></p><p><strong>Agar diperoleh keuntungan maksimum, maka U\u2019 = 0\n</strong></p><p>\u201312x\u00b2 + 16x + 16 = 0\n</p><p>\u20134(3x\u00b2 \u2013 4x \u2013 4) = 0\n</p><p>\u20134(x \u2013 2)(3x + 2) = 0\n</p><p>(x \u2013 2) = 0 atau (3x + 2) = 0\n</p><p> \u00a0 \u00a0 \u00a0 x = 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03x = \u20132\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = \u00a0[tex]-\\frac{2}{3}[/tex]\n</p><p>karena <strong>jumlah produksi tidak mungkin bernilai negatif</strong>, maka kita pilih <strong>x = 2\n</strong></p><p></p><p>Jadi <strong>keuntungan maksimum yang diperoleh perusahaan tersebut</strong> adalah\n</p><p>U = (\u20134x\u00b3 + 8x\u00b2 + 16x) ribu rupiah\n</p><p>U = (\u20134(2)\u00b3 + 8(2)\u00b2 + 16(2)) ribu rupiah\n</p><p>U = (\u20134(8) + 8(4) + 32) ribu rupiah\n</p><p>U = (\u201332 + 32 + 32) ribu rupiah\n</p><p>U = 32 ribu rupiah\n</p><p><strong>U = Rp32.000,00\n</strong></p><p></p><h3>Pelajari lebih lanjut\n</h3><p></p><p>Contoh soal lain tentang nilai stasioner\n</p><ul><li>Laba maksimum: brainly.co.id/tugas/10878909\n</li><li>Penjualan maksimum: brainly.co.id/tugas/13787566\n</li><li>Biaya minimum: brainly.co.id/tugas/252367\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 11\n</p><p><strong>Mapel</strong> : Matematika \u00a0\n</p><p><strong>Kategori</strong> : Turunan Fungsi Aljabar\n</p><p><strong>Kode</strong> : 11.2.9\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-luas-sebuah-lingkaran-adalah-200-cm2tentukan-besarnya-578",
+            "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2.tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut kerjakan dengan caranya.    a.10 cm\u00b2\r\nb.20 cm\u00b2\r\nc.40 cm\u00b2\r\nd.50 cm\u00b2\r\ne.100 cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring= luas derajat/360 kali luas lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-seper-berapa-putaran-penuhkah-sudut-sudut-berikut-a-3-202",
+            "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-kuadrat-dari-akar-akar-persamaan-suku-banyak-x3-767",
+            "question": "Tentukan jumlah kuadrat dari akar-akar persamaan suku banyak x\u00b3-2\u00d7\u00b2-23+k=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1\u00a0+\u00a0x2 = 2<br>x1.x2 =\u00a0-23+k<br><br>x1\u00b2 + x2\u00b2 = (x1+x2) - 2.x1.x2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0- 2(-23+k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2 - (-46+2k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0+ 46 - 2k<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = -2k +48<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-dari-pelabuhan-a-dengan-arah-044-derajat-se-209",
+            "question": "Sebuah kapal berlayar dari pelabuhan A dengan arah 044 derajat sejauh 50km .kemudian berlayar lagi dengan arah 104 derajat sejauh 40 km ke pelabuhan C. Jarak pelabuhan A ke C adalah...\u00a0    minta tolong dong , gmna caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pilih sebagai solusi terbaik ya<br>B=180-(44+104) <br>\n=180-60=120 derajat <br>\na=40km <br>\nc=50km  <br>\nditanya,,,b? <br>\nb^2=a^2+c^2-2ac cosB <br>\n=40^2+50^2-2.40.50 cos 120 derajat <br>\n=1600+2500-4000.-1/2 <br>\n=4100+2000 <br>\n=6100 <br>\nb=akar dari 6100=10 akar 61 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx2x5-dan-gx4-x-tentukan-a-fog-x-b-gof-780",
+            "question": "Diketahui = f(x)=2x+5 dan g(x)=4-x Tentukan = a. fog (x) b. gof (x) c. fog ( -2) d. gof (-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab :<br>a) fog (x) = f(g(x))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f(4-x)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2(4-x)+5 = 8-2x+5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =13-2x<br>b) gof (x) = g (f (x) )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (2x+5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1(2x+5)+4 = -2x-5 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = -2x-1<br>c)fog (-2) = f(g (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0\u00a0  f (4(2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2(8) + 5 = 21<br>d) gof (-2) = g (f (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g(5(-4))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1 (-20) +4 = 24<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kirimkan-cara-dan-jawaban-spm-matematika-paket-1-dan-2-unt-260",
+            "question": "tolong kirimkan cara dan jawaban SPM MATEMATIKA paket 1 dan 2 untuk smk kelompok paeiwisata.. secepatnya saya butuh plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Buka lik dibawah ini!<br>www.bukuerlangga.com/370-smk<br></span><span>www.bukuerlangga.com/<br><br>#Semoga menbantu<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

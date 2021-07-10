@@ -1,0 +1,136 @@
+{
+    "question": "Seseorang berdiri di pinggir jalan, sebuah mobil bergerak\u00a0menjauhi orang tadi dengan kecepatan 20 m/s sambil\u00a0membunyikan klakson yang berfrekuensi 400 Hz. Jika\u00a0cepat rambat bunyi di\u00a0udara pada saat itu 380 m/s. maka\u00a0frekuensi klakson yang didengar oleh orang tadi ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "fp = V + Vp/ V + Vs x fs \n     = 380 + 0 / 320 + 20 x400\n     =380/400x 400\n     = 380 Hz",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-penyebab-terjadinya-bunyi-791",
+            "question": "Apa penyebab terjadinya bunyi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyebab terjadinya bunyi :<br>1. Ada sumber bunyi yg menghasilkan getaran<br>2. Ada medium perambatan bunyi<br>3. Ada pendengar / yg menangkap sumber bunyi<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-02-m-x-01-m-x-03-m-digantung-vertik-741",
+            "question": "Sebuah balok dengan ukuran 0,2 m x 0,1 m x 0,3 m digantung vertikal dari seutas kawat ringan. tentukan gaya apung pada balok itu :    a. di celupkan seluruhnya dalam minyak \r\n\r\n ( \u03c1 = 800 kg/m3)\r\nb. dicelupkan 3/4 bagian dalam air (\u03c1 = 1000 kg/m3)\r\nc. dicelupkan 1/3 bagian dalam raksa (\u03c1 = 13600 kg/m3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V balok seluruhnya = 0,2m. 0,1m. 0,3m = 0.006 m\u00b3<br>3/4 V balok = 3. 0.006 /4 = 0.0045 m\u00b3<br>1/3 V balok = 0.06 / 3 = 0.002 m\u00b3<br>a. p minyak = 800kg/m\u00b3<br>\u00a0\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 800. 10. 0.006<br>\u00a0\u00a0 \u00a0 =\u00a0 48 N<br><br>b. p air = 1000 kg/m\u00b3 <br>\u00a0\u00a0  F= p. g. V<br>\u00a0\u00a0 \u00a0 = 1000. 10. 0.0045<br>\u00a0\u00a0 \u00a0 = 45 N<br><br>c. p raksa =13600kg/m\u00b3<br>\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 13600. 10. 0.002<br>\u00a0\u00a0 \u00a0 = 272 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "letak-kutub-kutub-magnet-bumi-tidak-berimpit-dengan-kutub-geograf-486",
+            "question": "Letak kutub-kutub magnet bumi tidak berimpit dengan kutub geografis bumi\u00a0karena ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bumi memiliki 2 sumbu, dengan searah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermasa-50-kg-ditarik-dengan-tali-ke-atas-bidang-mi-196",
+            "question": "Sebuah benda bermasa 5,0 kg ditarik dengan tali ke atas bidang miring yang kasar oleh sebuah gaya 71 N (g=10 m.s-2 ,sin 37=0,6 .cos37= 0,8). Jika koefesien gesekan antara benda dan bidang adalah 0,4 percepatan yang dialami benda adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(Uraikan dulu gaya-gayanya)<br><br>* Cari nilai Fg\u00a0(Gaya Gesek)<br>Fg = \u03bc\u00a0\u00d7 N \u00a0 \u00a0 \u00a0 \u00a0\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 N\u00a0= W.cos.\u03b8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ket ;\u00a0\u03bc = Koefisien gesek<br>\u00a0 \u00a0 \u00a0= 0,4\u00a0\u00d7 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0N = 5.10.0,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = Gaya Normal<br>\u00a0 \u00a0 \u00a0= 16N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0N = 40N<br>* Masukkan ke rumus<br>\u00a0<strong> a =\u00a0</strong><u><strong>\u03a3F</strong></u><strong> \u00a0 \u00a0 </strong><br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u03a3m</strong><br> \u00a0 \u00a0 = <u>F-\u00a0( W sin\u00a0\u03b8 + Fg )</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m<u><br></u> \u00a0 \u00a0 = <u>71- ( 5.10.0,6+16)</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05<br> \u00a0 \u00a0 =\u00a0<u>71- 46<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br> \u00a0 \u00a0 =\u00a0<u>25<br></u> \u00a0 \u00a0 \u00a0 \u00a0 5<br> \u00a0 \u00a0 = <strong>5 m/s\u00b2</strong><u><br></u>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-dimaksud-suhu-nol-mutlak-adalah-931",
+            "question": "Yang dimaksud suhu nol mutlak adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Suhu Nol Mutlak adalah Suhu 0 Kelvin pada suhu ini partikel Tidak bisa bergerak</strong><br><br><strong>\"Semoga Berguna\"</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Suhu nol mutlak adalah suhu yang ditetapkan secara internasional pada tingkat 0 Kelvin dimana praktis partikel tidak bisa bergerak",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-definisi-standard-resistor-672",
+            "question": "Apa definisi standard resistor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "komponen elektronika dua saluran yg didesain untuk menahn arus listrik dg<br>memproduksi penurunn tegangn diantra kedua salurannya sesuai dg arus yg mengalirnya, berdasarkn hukum ohm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293",
+            "question": "Dalam sebuah mesin pengangkat mobil hidrolik, jari-jari piston kecil sama dengan 1,20 cm, sedangkan jari-jari piston besar 15,0 cm (massa piston kecil bisa diabaikan, sedangkan massa piston besar 350 kg). Berapakah gaya F yang dibutuhkan untuk menahan mobil bermassa 1720 kg,    a) ketika kedua piston pada ketinggian yang sama\r\n b) ketika permukaan atas kedua piston seperti pada gambar\r\n Zat cair yang digunakan adalah minyak hidrolik dengan massa jenis = 864 kg/m3",
+            "attachments": [
+                "question-attachments/dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a) F\u2081\u00f7A\u2081=F\u2082\u00f7A\u2082 \u00a0 \u00a0F\u2082 merupakan berat mobil+berat piston<br>\u00a0 \u00a01\u00f7([tex] \\pi [/tex].1,2\u00b2) = (3500+17200)\u00f7([tex] \\pi [/tex].15\u00b2)<br>\u00a0 \u00a01\u00f74,5216\u00a0=\u00a020700\u00f7706,5<br>\u00a0 \u00a01 Pa = 132,48 Pa\u00a0merupakan perbandingan P\u2081 = P\u2082<br>\u00a0 \u00a0F\u2082\u00f7A\u2082 =\u00a020700\u00f7706,5 = 29,3 Pa<br>\u00a0 \u00a01 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)\u00a0= 132,48 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)<br>\u00a0 \u00a00,22 Pa= 29,3 Pa<br>\u00a0 \u00a0F\u2081 = P\u2081 \u00d7\u00a0A\u2081 = 0,22\u00a0\u00d7\u00a04,5216 = 0,99 N diberikan kepada F\u2081 bila ketinggian \u00a0 \u00a0 \u00a0\u00a0Piston1\u00a0dan Piston2 sama<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-dari-anomali-air-dan-mengapa-bisa-terjadi-anomali-ai-762",
+            "question": "Apa manfaat dari anomali air? dan mengapa bisa terjadi anomali air?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Manfaatnya :<br>Anomali air sangat penting bagi kehidupan\u00a0ikan dan tumbuhan di dalam air pada cuaca sangat dingin. </span><span>\u00a0sehingga ikan dan tumbuhan dalam danau mampu menghadapi musim dingin.<br><br>Anomali dapat terjadi :<br></span>Ketika air dingin di dalam danau mencapai suhu dibawah 4 derajat Celcius, pertambahan volume air karena karena pemuaian akan memperkecil massa jenis air yang lebih dingin.Air yang lebih dingin massa jenisnya lebih kecil akan bergerak ke permukaan danau, sedangkan air\u00a04 derajat Celcius\u00a0yang massa jenisnya lenih besar akan tenggelam ke dasar danau. Hasilnya, air di permukaan danau akan membeku terlebih dahulu, sebab air di permukaanlah yang mencapai suhu 0\u00a0derajat Celcius. Jadi, di permukaan air akan terbentuk lapisan es. Air di bawah lapisan es pada danau yang dalam tidak pernah membeku,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Anomali\n air sangat penting bagi kehidupan\u00a0ikan dan tumbuhan di dalam air pada \ncuaca sangat dingin. Ketika air dingin di dalam danau mencapai suhu \ndibawah 4 derajat Celcius, pertambahan volume air karena karena pemuaian\n akan memperkecil massa jenis air yang lebih dingin.<br><span>Air\n yang lebih dingin massa jenisnya lebih kecil akan bergerak ke permukaan\n danau, sedangkan air\u00a04 derajat Celcius\u00a0yang massa jenisnya lenih besar \nakan tenggelam ke dasar danau. Hasilnya, air di permukaan danau akan \nmembeku terlebih dahulu, sebab air di permukaanlah yang mencapai suhu \n0\u00a0derajat Celcius. Jadi, di permukaan air akan terbentuk lapisan es. Air\n di bawah lapisan es pada danau yang dalam tidak pernah membeku, \nsehingga ikan dan tumbuhan dalam danau mampu menghadapi musim dingin.</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Cara menghitung perbesaran mikroskop pada mata normal",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Pembesaran mikroskop adalah hasil kali pembesaran lensa objektif dan pembesaran lensa okuler, sehingga dirumuskan:<br><br><strong>M = Mob x Mok</strong><br><br>\u2192Pembesaran Mikroskop pada saat mata berakomodasi maksimum<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob ) x (Sn / fok ) + 1</strong><br><br><br>\u2192Pembesaran Mikroskop pada saat mata tidak berakomodasi<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob) x (Sn / fok)</strong><br><br>Keterangan:<br><strong>M= Perbesaran total</strong><br><strong>Mob = Perbesaran lensa objektif</strong><br><strong>Mok = Perbesaran lensa okuler</strong><br><strong>S&#039;ob = Jarak bayangan lensa objektif</strong><br><strong>Sob = Jarak benda dari lensa objektif</strong><br><strong>Sn = titik dekat mata (25cm)</strong><br><strong>fok = Fokus lensa okuler</strong><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mengapa-telur-dalm-air-dapat-melayang-saat-diberi-garam-137",
+            "question": "Mengapa telur dalm air dapat melayang saat diberi garam ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Telur dalam air dapat melayang saat diberi garam \u00a0\u2026 </strong>sebab massa jenis larutan garam dan air meningkat sehingga gaya angkat yang dialami telur dari berat air yang dipindahkan akan meningkat dan telur menjadi melayang</p><p><u><strong>Pembahasan</strong></u>:</p><p>Telur dapat mengapung pada air yang terlart garam, karena prinsip dari <strong>hukum Achimedes</strong>, yang menyatakan bahwa benda yang diletakkan di air akan memiliki gaya angkat ke atas sama besar dengan berat air yang dipindahkan. </p><p>Awalnya, bila telur di masukkan ke dalam air saja, maka telur akan tenggelam. Ini karena massa jenis telur lebih besar dari air, sehingga gaya angkat akibat berat air yang dipindahkan telur lebih kecil dari berat telur.</p><p>Namun, ketika dalam air dilarutkan garam, maka massa jenis air akan meningkat. Sehingga, gaya angkat yang diterima telur meningkat dan lebih besar dari berat telur.</p><p>Gaya ke atas ini bertindak sebagai gaya apung yang berlawanan dengan gaya gravitasi, dan membuat telur tidak tenggelam ke dalam air. </p><p><em>Pelajari lebih lanjut pernyataan Hukum Archimedes di: brainly.co.id/tugas/2014596</em></p><p><em>Pelajari lebih lanjut contoh soal massa jenis benda tersebut di: brainly.co.id/tugas/8998258</em></p><p><em>Pelajari lebih lanjut tentang cara mengukur volume batu tak beraturan dengan gelas ukur di brainly.co.id/tugas/6806086</em></p><p><strong>--------------------------------------------------------------------------- </strong></p><p><strong>Detail Jawaban:</strong></p><p><strong>Kode: 1.6.3 </strong></p><p><strong>Kelas: 11 </strong></p><p><strong>Mata Pelajaran: Fisika \u00a0 \u00a0 </strong></p><p><strong>Materi: Bab 3 - Fluida Statis</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-cepat-rambat-cahaya-di-air-186",
+            "question": "Rumus mencari cepat rambat cahaya di air",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = c/v\u00a0<br><span>===&gt;&gt;&gt; v = c/n\u00a0</span><br><span>dimana:\u00a0</span><br><br><span>n = indeks bias (udara=1) (air=1,33)\u00a0</span><br><span>c = kecepatan cahaya dalam ruang hampa (299,792,458 m/s ~ 2x10^8 m/s)\u00a0</span><br><span>v = cepat rambat cahaya pada suatu medium (udara, kaca, air, dst)\u00a0</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500",
+            "question": "seberkas cahaya jatuh tegak lurus pada kisi yang terdiri dari 5000 goresan tiap cm.sudut devasi orde kedua adalah 30\u22270. panjang gelombang cahaya yang digunakan adalah...(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Panjang gelombang cahaya yang digunakan adalah 5.000 angstrom atau 500 nm.</strong> Hasil perhitungan tersebut diperoleh ketika sebesar cahaya jatuh tegak lurus pada kisi yang terdiri dari 5.000 goresan tiap cm, dengan sudut deviasi orde kedua adalah 30\u00b0.</p><h3>Pembahasan</h3><p><strong>Kisi difraksi </strong>menghasilkan pola interferensi yang tajam berbentuk garis, sehingga dapat dimanfaatkan untuk mengukur panjang gelombang cahaya dengan teliti.</p><p>Kisi difraksi adalah peralatan yang mirip dengan celah ganda Young. Peralatan ini mengandung celah yang lebih banyak atau disebut kisi. Tetapan kisi N adalah tetapan yang menyatakan banyak garis (goresan) tiap satuan panjang, misalnya di soal ini yaitu 5.000 goresan/cm, berarti N = 5.000 goresan/cm. Lebar celah d adalah lebar satu garis atau satu goresan. Dengan demikian, lebar celah adalah kebalikan dari tetapan kisi.</p><p><em><u>Diketahui</u></em></p><p>Garis terang orde kedua atau n = 2</p><p>Sudut deviasi (penyimpangan) \u03b8 = 30\u00b0</p><p>Tetapan kisi N = 5.000 goresan/cm </p><p><em><u>Ditanya</u></em></p><p>Panjang gelombang \u03bb \u00a0</p><p><em><u>Penyelesaian</u></em></p><p>Rumus yang digunakan adalah</p><p>[tex]\\boxed{d~sin~\\theta = n~\\lambda} [/tex]</p><p>Keterangan</p><p>d = lebar celah atau lebar satu garis atau satu goresan, sehingga lebar celah adalah kebalikan dari tetapan kisi N, yaitu [tex]\\boxed{d = \\frac{1}{N} }[/tex], dengan N dalam satuan goresan/cm \u00a0untk soal ini</p><p>\u03b8 = sudut deviasi orde ke-n</p><p>n = orde garis terang (n = 0 \u2192 terang pusat, n = 1 \u2192 garis terang orde ke-2. dan seterusnya)</p><p>\u03bb = panjang gelombang cahaya</p><p><strong>Siapkan lebar celah (d) dalam satuan meter</strong></p><p>[tex]d=\\frac{1}{5.000/cm}[/tex]</p><p>[tex]d=\\frac{1}{\\frac{5.000}{0,01~m}}[/tex]</p><p>[tex]d=\\frac{0,01}{5.000}[/tex]</p><p>[tex]d=\\frac{1}{500.000}[/tex]</p><p>[tex]d=2\\times 10^{-6}~m[/tex]</p><p><strong>Hitung panjang gelombang (\u03bb) dalam meter</strong></p><p>[tex]\\boxed{~\\lambda=\\frac{d~sin~\\theta}{n}~}[/tex]</p><p>[tex]\\lambda=\\frac{2\\times 10^{-6}~sin~30^o}{2}[/tex]</p><p>[tex]\\lambda=1\\times 10^{-6}~0,5[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m[/tex]</p><p>Ingat konversi satuan, [tex]\\boxed{~1~\\AA=10^{-10}~m}[/tex] dan [tex]\\boxed{~1~nm=10^{-9}~m~}[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m=5.000 \\AA=500~nm[/tex]</p><p><strong>Diperoleh panjang gelombang sebesar </strong>[tex]\\boxed{~\\lambda=5.000 \\AA=500~nm~}[/tex]</p><h3>Pelajari lebih lanjut</h3><p>1. Pelajari kasus serupa brainly.co.id/tugas/4799492</p><p>2. Sebuah persoalan menentukan kisi difraksi https://brainly.co.id/tugas/5064394 </p><p>3. Menghitung besarnya panjang gelombang \u00a0brainly.co.id/tugas/11880424</p><p>------------------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0: </strong>XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 :</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : </strong> Gelombang Cahaya</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 : </strong>11.6.10</p><br><p><strong>Kata Kunci :</strong> percobaan, cahaya, jatuh tegak lurus, tetapan, kisi, difraksi, goresan, panjang gelombang, garis, terang, \u00a0orde, kedua, sudut, 30\u00b0, garis, normal, garis tiap cm</p>",
+                    "attachments": [
+                        "answer-attachments/seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-teropong-bintang-dapat-menghasilkan-perbesaran-bayangan-10-226",
+            "question": "sebuah teropong bintang dapat menghasilkan perbesaran bayangan 10kali. jika jarak fokus lensa obyektifnya 100cm, maka jarak antara lensa obyektif dan lensa okuler teropong itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=fob:fok<br>fok=fok:M<br>fok=100:10<br>fok=10<br>d=fob+fok<br>\u00a0 =100+10<br>\u00a0 =110 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kegunaan-dari-pompa-hidrolik-adalah-185",
+            "question": "Kegunaan dari pompa hidrolik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pompa hidrolik adalah komponen yang paling dominan. Fungsi daripada pompa adalah \nuntuk mengubah energi mekanik menjadi energi hidrolik dengan cara \nmenekan fIuida hidrolik ke dalam sistem.<br>Dalam sistem hidrolik, pompa\n merupakan suatu alat untuk menimbulkan atau membangkitkan aliran fluida\n (untuk memindahkan sejumlah volume fluida) dan untuk memberikan gaya \nsebagaimana diperlukan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pompa hidrolik berfungsi untuk mentransfer energi mekanik menjadi energi hidrolik.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "elektron-bergerak-dengan-kecepatan-08-c-momentum-relativitas-el-209",
+            "question": "Elektron bergerak dengan kecepatan 0,8 c. Momentum relativitas elektron tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mo ( massa diam elektron ) = [tex] 9 * 10^{-31} [/tex] kg<br>\u00a0\u00a0 \u00a0 \u00a0 v = 0,8 c<br>dit momentum relativitas (p)<br>peny<br><br>[tex]p =  \\frac{mo * v }{ \\sqrt{1-v^{2}/ c^{2}  } } [/tex]<br><br>[tex]p =  \\frac{9 * 10^{-31} * 0,8c }{ \\sqrt{1-(0,8c)^{2}/ c^{2}  } } [/tex]<br><br>[tex]p =  \\frac{7,2 * 10^{-31}c}{ \\sqrt{1-0.64} } [/tex]<br><br>[tex]p =  \\frac{7,2 *  10^{-31} }{ \\sqrt{0,36} } [/tex]<br><br>[tex]p =  \\frac{7,2 *  10^{-31}c }{0,6}  [/tex]<br><br>[tex]p = 12 * 10^{-31} c[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

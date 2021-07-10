@@ -1,0 +1,140 @@
+{
+    "question": "Sebuah prisma tegak berbentuk belah ketupat dengan panjang diagonal 12 cm dan 16 cm. jika luas seluruh permukaan prisma 392 cm^2, volume prisma adalah...    pakai caranya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "d1 = 12 cm<br>d2 = 16 cm<br>luas seluruh permukaan= 392 cm\u00b2<br>untuk sisi belah ketupat pakai rumus pythagoras kelipatan\u00a03, 4, 5<br>alas = 1/2\u00a0.12 = 6 = 3<br>tinggi = 1/2 . 16 = 8 = 4<br>sisi miring/sisi belah ketupat = 5=10 cm<br><br>luas seluruh permukaan = 2 luas alas + t.keliling belah ketupat<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 . 1/2 . d1 . d2 + t 4s<br>392 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0= 12 . 16 + 4 . t. 10<br>392 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0= 192 + 40t<br>40t \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0392\u00a0-\u00a0192<br>t \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = \u00a0200/40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0= 5 cm<br><br>volume = luas alas x\u00a0 tingi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/2 . d1 . d2 x t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 1/2 . 12 . 16 . 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 480 cm\u00b3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-2x-7-5x-11-maka-nilai-x-3-adalah-421",
+            "question": "Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><h3>Pembahasan</h3><p>Persamaan linear satu variabel atau PLSV merupakan kalimat terbuka yang memiliki satuvariabel dan menggunakan tanda sama dengan ( = ).</p><p>Bentuk umum persamaan linear satu variabel ax + b = 0.</p><p>a disebut koefisien dari variabel</p><p>x adalah variabel</p><p>b adalah konstanta</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Sederhanakanlah bentuk bentuk aljabar berikut \u00a012 + 2 (4x - 3y) = brainly.co.id/tugas/2898178</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><p> \u00a0 \u00a0 2x + 7 = 5x - 11 \u00a0Ruas kiri dan ruas kanan kita kurang 7</p><p>2x + 7 - 7 = 5x - 11 - 7</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 5x - 18 Ruas kiri dan ruas kanan kita kurang 5x</p><p> \u00a0 \u00a02x - 5x = 5x - 18 - 5x</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-3x = -18 Ruas kiri dan ruas kanan kita bagi -3</p><p> \u00a0 \u00a0-3x : -3 = -18 : -3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 6</p><p></p><p>Maka x + 3 = 6 + 3 = 9</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Apa yg dimaksud persamaan linier satu variabel? brainly.co.id/tugas/1909229</li><li>25 - 4y = 6y + 15 \u00a0[ tentukan himpunan penyelesaian dari persamaan linear ] brainly.co.id/tugas/2167585</li></ul><h3>==============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: PLSV</p><p><strong>Kode </strong>: 8.2.1</p><p></p><p><strong>Kata</strong> <strong>Kunci </strong>: Al-jabar, persamaan, linear, satu, variabel, koevisien, konstanta.</p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-sudut-keliling-sama-sudut-pusat-apa-119",
+            "question": "Pengertian Sudut Keliling sama Sudut Pusat apa ????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>Sudut pusat</u><span>\u00a0adalah daerah sudut yang dibatasi oleh dua jari-jari lingkaran yang titik sudutnya merupakan titik pusat lingkaran.<br></span><u>Sudut keliling</u><span>\u00a0adalah daerah sudut yang dibatasi oleh dua\u00a0</span><u>talibusur</u><span>\u00a0yang berpotongan di satu titik pada lingkaran dan titik sudutnya teletak pada keliling lingkaran.<br></span>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>Sudut Pusat</u>\u00a0adalah daerah sudut yang dibatasi oleh dua jari-jari lingkaran yang titik sudutnya merupakan titik pusat lingkaran.<br><br><u>Sudut Keliling\u00a0</u>\u00a0adalah daerah sudut yang dibatasi oleh dua\u00a0talibusur\u00a0<span>yang berpotongan di satu titik pada lingkaran dan titik sudutnya teletak pada keliling lingkaran.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-sebuah-kerucut-yg-berdiameter-28-cm-dengan-panjang-garis-p-368",
+            "question": "Volume sebuah kerucut yg berdiameter 28 cm dengan panjang garis pelukis 50 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d = 28 r = 14<br>s = 50\u00a0<br>t = 50\u00b2 - 14\u00b2<br>\u00a0 = 2500 - 196 = 2304<br>\u00a0 =\u00a0[tex] \\sqrt{2304} = 48[/tex]<br><br>Vkerucut = 1/3\u00a0\u03c0 r\u00b2 . t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/3 . 22/7. 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9856 cm\u00b3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : D = 28 cm, r = 14 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s = 50 cm<br>Ditanya : V = ....?<br>Jawab: a)\u00a0[tex] t^{2} =  s^{2} -  r^{2} \n[/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =  \\sqrt{ s^{2} -  r^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =   \\sqrt{ 50^{2} -  7^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 =\u00a0[tex] \\sqrt{2304} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 = 48\u00a0cm<br>\u00a0 \u00a0 \u00a0 \u00a0b) \u00a0V =\u00a0[tex] \\frac{1}{3} [/tex] . \\pi [/tex]\u00a0. r .r .t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V =\u00a0[tex] \\frac{1}{3} .  \\frac{22}{7} [/tex] . 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = 22 . 14 . 16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V = 4928\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban di atas, silahkan ditanyakan ^_^,,,<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-suatu-barang-dengan-harga-rp-210000-da-479",
+            "question": "Seorang pedagang menjual suatu barang dengan harga Rp. 210.000 dan mendapat untung 5% dari hara beli. Harga beli tersebit adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/100X210000=5X2100=10500<br>210000-10500=199500<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-pelurus-sudut-p-tiga-kali-penyiku-sudut-pberapa-besar-550",
+            "question": "Diketahui pelurus sudut p tiga kali penyiku sudut p,berapa besar sudut p?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "180 - p = 3 (90 -p)<br>180 - p = 270 - 3p<br>2p = 270 - 180 = 90<br>p = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60x3=180 kan 1, sudut di segitiga besarnya 90 drajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-rapat-setiap-peserta-diminta-berjabat-tangan-satu-kal-548",
+            "question": "Dalam suatu rapat setiap peserta diminta berjabat tangan satu kali dengan peserta lain berapa kalikah jabatan tangan yang terjadi jika peserta yang datang sebanyak .:    a. 5 orang\r\nb 8 orang\u00a0\r\nc. 15 orang\r\nd. 20 orang\u00a0\r\n\r\nPelajaran ini membahas tentang BARISAN DAN DERET BILANGAN\u00a0mOhonn di bantu yah guysss.. :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika <br>Materi: Barisan <br>Kelas: IX SMP <br><br><br>Perhitungan Terlampir",
+                    "attachments": [
+                        "answer-attachments/dalam-suatu-rapat-setiap-peserta-diminta-berjabat-tangan-satu-kal-548-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menghitung-diagram-venn-341",
+            "question": "Bagaimana cara menghitung diagram venn ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung diagram\u00a0venn&#039;a kayak apa dulu..\u00a0<br>klo ada 2 himpunan ya dibuat 2 lingkaran..<br>kalo ada anggota yang sama di taruh di tengah2 lingkaran itu..<br>kalo cara menghitungnya ya hampir sama kaya gitu lahh..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-soal-perbandingan-dalam-kehidupan-sehari-hari-531",
+            "question": "Contoh soal perbandingan dalam kehidupan sehari-hari.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perbandingan umur kakak dan adik adalah 2 : 7. Jika selisih umur mereka adalah 15 tahun, berapakah umur mereka masing - masing...<br><br><br>semoga bisa membantu ^_^,,,<br>jika ada yang kurang dimengerti, silahkan ditanyakan ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-nyoman-membeli-sebuah-mesin-cuci-dengan-harga-1750000-dan-d-987",
+            "question": "pak nyoman membeli sebuah mesin cuci dengan harga 1.750.000 dan dikenakan pajak pertambahan nilai sebesar 12%, tetapi mendapat diskon 5% karena membayar dengan tunai. berapakah uang yang harus dibayar oleh pak nyoman",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.750.000 x 12/100<br>= 17.500 x 12<br>=210.000<br>pajak 210.000<br>1.750.000 - 210.000 = 1.540.000<br><br>uang sejumlah 1.540.000 adalah harga mesin cuci<br>diskon 5%<br>1.540.000 x 5/100<br>15.400 x 5<br>77000<br><br>1.540.000 - 77.000 = 1.463.000<br>jadi, uang yang harus dibayar adalah 1.463.000<br><br>#CMIIW",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurutku sih gini, harga mesin cuci itu kan 1.750.000 kena pajak pertambahan 12% terus di diskon 5%.<br>1.750.000*12/100=210.000<br>1.750.000+210.000= 1.960.000 (Soalnya pajak pertambahan kan harus ditambahkan ke harga sebelumnya)<br>1.960.000*5/100=98.000 (ini baru di diskon)<br>Terus 1.960.000-98.000=1.862.000<br>Jadi, harga mesin cuci itu adalah 1.862.000<br>Semoga bermanfaat :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-sudut-368",
+            "question": "Cara menghitung sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hitung saja pakai busur",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

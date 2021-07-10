@@ -1,0 +1,137 @@
+{
+    "question": "50ml larutan 0,2 M HCL dicampurkan dengan 50 ml larutan 0,4 M KOH . Hitunglah pH larutan masing masing sebelum dicampurkan dan pH larutan setelah dicampurkan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "50 ml larutan 0,2 M HCl + 50 ml larutan 0,4 M KOH -&gt; KCl +H2O<br>[H+](HCl) = M x n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,2 x 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 x 10^-1<br>pH HCl = 1-log2<br>[OH-](KOH) = M x n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,4 x 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4 x 10^-1<br>pOH HCl = 1-log 4<br>pH HCl = 14-(1-log4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 14 - 1 + log4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 + log 4<br>sesudah<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a050 ml larutan 0,2 M HCl + 50 ml larutan 0,4 M KOH -&gt; KCl +H2O<br>mula2 \u00a0 \u00a0: 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20 mmol<br>bereaksi : 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010 mmol<br>sisa \u00a0 \u00a0 \u00a0 : - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a010 mmol<br><br>[OH-]= M x n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= (10 mmol/50ml+50ml) x 1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 10^-1<br>pOH = 1<br>pH =13<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-25-ml-larutan-hcl-01m-dititrasi-dengan-larutan-koh-01m-952",
+            "question": "Sebanyak 25 mL larutan HCL 0,1M dititrasi dengan larutan KOH 0,1M. Hitunglah pH larutan :    a. Sebelum ditambah KOH\r\nb. Setelah ditambah KOH sebanyak 5mL",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH sebelum<br>-log 0,1 = 1<br><br>pH sesudah<br><br>HCl \u00a0 \u00a0 \u00a0 \u00a0\u00a0+ \u00a0 KOH ---&gt; \u00a0\u00a0KCl + H2O<br>2,5mmol \u00a0 \u00a0 \u00a0 5mmol<br>2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a02,5<br>-------------------------------------------------------------------<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5<br><br><br>2,5 x 10^-3 mol dalam 30 mL<br>0,83 x 10^-3 mol dalam 10 mL<br>0,83 x 10^-1 M<br><br><br>pOH larutan<br>-log 0,083 = 1,08<br><br><br>pH = 14 -1.08 = 12,92",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-1-gram-naoh-mr-40-gmol-akan-dihasilkan-larutan-naoh-02-905",
+            "question": "Dari 1 gram NaOH (Mr = 40 g/mol) akan dihasilkan larutan NaOH 0,25 M sebanyak . ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>Dari 1 gram NaOH (Mr = 40 g/mol) akan dihasilkan larutan NaOH 0,25 M sebanyak <strong>100 mL.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : massa NaOH = 1 gram</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [NaOH] = 0,25 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Mr NaOH = 40 g/mol</p><p>Ditanya : Volume NaOH ?</p><p>Jawab :</p><ul><li>Hitung mol NaOH dengan cara :</li></ul><p>n NaOH = massa/ Mr</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 gram/ 40 g/mol</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,025 mol</p><ul><li>Hitung Volume NaOH dengan cara :</li></ul><p>M = n/V</p><p>V = n/M</p><p> \u00a0 = 0,025 mol/ 0,25 M</p><p> \u00a0 = 0,1 L = 100 mL</p><p><strong>\u2234 Kesimpulan Volume NaOH yang dihasilkan adalah sebanyak 100 mL.</strong></p><p><strong>Pembahasan :\n</strong></p><p>larutan adalah campuran homogen dari dua zat - zat terlarut dan zat pelarut untuk melarutkannya. Konsentrasi adalah pengukuran jumlah zat terlarut yang larut dalam zat pelarut. Ada banyak alasan untuk menghitung konsentrasi suatu larutan, walaupun demikian, dasar perhitungan kimia yang digunakan sama saja, baik saat Anda menguji tingkat klorin di bak air panas atau melakukan analisis penting pada sampel darah.\n</p><p><strong>Pengertian Molaritas (M)\n</strong></p><p>Konsentrasi merupakan jumlah zat terlarut yang ada terhadap jumlah pelarut tertentu atau terhadap jumlah larutan tertentu. (diasumsikan zat terlarut berwujud cair atau padat, sedangkan pelarutnya berwujud cair) Konsentrasi dapat diungkapkan dengan beragam cara, salah satunya yang paling sering dipakai, dan memang akan kita gunakan sekarang ini adalah Molaritas (M), atau konsentrasi molar. Molaritas adalah jumlah mol terlarut setiap liter larutan. Atau bias diungkapkan dengan rumus:\n</p><p><strong>M = n/V\n</strong></p><p>Keterangan : M = konsentrasi zat\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n = mol zat terlarut\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = volume larutan (L)\n</p><p><strong>Pengenceran</strong>\n</p><p>Proses pengenceran adalah proses yang dilakukan dengan mencampurkan pelarut yang lebih ukurannya dari suatu zat yang dilarutkannya. engenceran pada prinsipnya hanya menambahkan pelarut saja, sehingga jumlah mol zat terlarut sebelum pengenceran sama dengan jumlah mol zat terlarut sesudah pengenceran. Dengan kata lain jumlah mmol zat terlarut sebelum pengenceran sama dengan jumlah mmol zat terlarut sesudah penegenceran atau jumlah massa zat terlarut sebelum pengenceran sama dengan jumlah massa zat terlarut sesudah pengenceran.\n</p><p>Rumus : \u00a0</p><p><strong>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082\n</strong></p><p>Keterangan :\n</p><p>M\u2081 = Molaritas larutan sebelum pelarutan/pengenceran\n</p><p>V\u2081 = Volume larutan sebelum pelarutan/pengenceran\n</p><p>M\u2082 = Molaritas larutan sesudah pelarutan/pengenceran\n</p><p>V\u2082 = Volume Molaritas larutan sesudah pelarutan/pengenceran\n</p><p><strong>Molaritas Untuk Massa dalam Persen\n</strong></p><p>Rumus lain yang kalian bisa gunakan untuk mencari molaritas suatu larutan bila yang kalian tahu bukanlah massa zat terlarut berbentuk larutan juga maka kalian bisa gunakan rumus molaritas dibawah ini, yaitu sebagai berikut :\n</p><p><strong>M = (massa jenis x % massa x 10) / Mr\n</strong></p><p><strong>Molalitas (m)\n</strong></p><p>Molalitas berbeda dengan molaritas, molalitas sendiri adalah jumlah dari mol zat terlarut tiap seribu gram pelarut. Untuk menentukan molalitas suatu zat diperlukan rumus :\n</p><p><strong>molalitas (m) = [tex]\\frac{mol zat terlarut}{Kg pelarut}[/tex]\n</strong></p><p><strong>Normalitas Larutan (N)\n</strong></p><p>Normalitas adalah besaran yang menyatakan jumlah mol ekivalen zat terlarut dalam tiap satuan volume larutan. Satuan normalitas adalah normal (N) yang sama dengan mol ekivalen/liter. Rumus normalitas larutan adalah sebagai berikut :\n</p><p><strong>N = (n/V) \u00d7 e\n</strong></p><p>Ket : N = normalitas\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0n = mol\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0e = ekivalen\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0V = volume (Liter)\n</p><p>Untuk asam, 1 mol ekivalen sebanding dengan 1 mol ion H\u207a\n</p><p>Untuk basa, 1 mol ekivalen sebanding dengan 1 mol ion OH\u207b\n</p><p><strong>Pelajari lebih lanjut :\n</strong></p><p>Materi tentang molaritas dalam persen https://brainly.co.id/tugas/20898282\n</p><p>Materi tentang molaritas brainly.co.id/tugas/17676574\n</p><p>Materi tentang normalitas brainly.co.id/tugas/20861380\n</p><p>Materi tentang molaritas https://brainly.co.id/tugas/20998786\n</p><p>-----------------------------------------------------------------------------------------------------------\n</p><p><strong>Detail Jawaban :\n</strong></p><p>Kelas : 10\n</p><p>Mapel : kimia\n</p><p>Bab : 7\n</p><p>Kode : 10.7.9\n</p><p>Kata Kunci : molaritas, kerapatan, konsentrasi, pengenceran\n</p>",
+                    "attachments": [
+                        "answer-attachments/dari-1-gram-naoh-mr-40-gmol-akan-dihasilkan-larutan-naoh-02-905-1.jpg",
+                        "answer-attachments/dari-1-gram-naoh-mr-40-gmol-akan-dihasilkan-larutan-naoh-02-905-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "isomer-aldehid-yang-rumus-molekulnya-c6h12o-tuliskan-nama-masin-594",
+            "question": "Isomer aldehid yang rumus molekulnya\u00a0C6H12O. tuliskan nama masing-masing senyawa isomer ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><span>Kelas: XII</span></p>\n\n<p>Mata Pelajaran: Kimia </p>\n\n<p>Materi: Senyawa Organik</p>\n\n<p>Kata Kunci: Aldehid</p>\n\n<p>\u00a0</p>\n\n<p><strong>Pembahasan</strong>:</p>\n\n<p>\u00a0</p>\n\n<p>Aldehid adalah senyawa organik yang memiliki gugus fungsional \u2013CHO.\n</p>\n\n<p>\u00a0</p>\n\n<p>Pada senyawa dengan rumus senyawa C\u2086H\u2081\u2082O, terdapat 6 atom\nkarbon dan salah satunya merupakan gugus fungsional \u2013CHO ini. Sehingga\nisomernya adalah:</p>\n\n<p>\u00a0</p>\n\n<p><strong>1.\n1-Heksanal</strong></p>\n\n<p>\u00a0</p>\n\n<p>Isomer ini adalah isomer paling sederhana berupa heksana\nberrantai lurus dan gugus \u2013CHO pada atom karbon ujung. </p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083(CH\u2082)\u2085CHO</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0O</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0||</p>\n\n<p>CH\u2083 - CH\u2082 - CH\u2082 - CH\u2082\n- \u00a0CH\u2082 - C-H</p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>2. 2-metil\npentanal</strong></p>\n\n<p><strong>\u00a0</strong></p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di senyawa pentana\nyang juga terikat dengan dua gugus metil (-CH\u2083), yang terletak pada\natom karbon ke 2.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083CHO(CH\u2082)\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p>\u00a0</p>\n\n<p>O</p>\n\n<p><span>||\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></p>\n\n<p>CH - CH - CH\u2082 - CH\u2082 - CH\u2083 </p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 CH</span>\u2083</p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>3. 2-etil\nbutanal</strong></p>\n\n<p><strong>\u00a0</strong></p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di\nsenyawa butana yang juga terikat dengan dua gugus etil (-C\u2082H\u2085),\nyang terletak pada atom karbon ke 2.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083CH\u2082CHOCH\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></p>\n\n<p>O</p>\n\n<p>||\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</p>\n\n<p>CH - CH - CH\u2082 - CH\u2083 </p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 |</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0CH\u2082 - CH\u2083 </p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>4. 2,2-dimetil\nbutanal</strong></p>\n\n<p><strong>\u00a0</strong></p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di\nsenyawa butana yang juga terikat dengan dua gugus metil (-CH\u2083),\nyang keduanya terletak pada atom karbon ke 2.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083C(CH\u2083)(CHO)CH\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0O</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0||\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0C-H</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0|</span></p>\n\n<p>CH\u2083 - C - CH\u2082 - CH\u2083 </p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0|</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 CH\u2083</span></p>\n\n<p>\u00a0</p>\n\n<p><strong>5. 2,3-dimetil\nbutanal</strong></p>\n\n<p>\u00a0</p>\n\n<p>Pada isomer ini, gugus fungsi aldehid (-CHO) berada di senyawa\nbutana yang juga terikat dengan dua gugus metil (-CH\u2083) pada atom karbon\nke 2 dan ke 3.</p>\n\n<p>\u00a0</p>\n\n<p>Rumus senyawa:</p>\n\n<p>\u00a0</p>\n\n<p>CH\u2083C(CH\u2083)(CHO)CH\u2082CH\u2083</p>\n\n<p>\u00a0</p>\n\n<p>Rumus strukturnya:</p>\n\n<p>\u00a0</p>\n\n<p>O</p>\n\n<p><span>||\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </span></p>\n\n<p>CH - CH - CH - CH\u2083 </p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0|\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0|</span></p>\n\n<p><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0CH\u2083 \u00a0\u00a0\u00a0\u00a0\u00a0CH\u2083</span></p>\n\n<p>\u00a0</p>\n\n<p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </p>\n\n<p>\u00a0</p>\n\n<p>\u00a0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ke-dalam-2-liter-larutan-asam-asetat-02-m-ka-10-5-ditambahka-108",
+            "question": "ke dalam 2 liter larutan asam asetat 0,2 M (ka= 10^-5) ditambahkan 8\u00a0gram NaOH .hitunglah ph larutan yang terjadi!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 gram:2liter=4 ph larutan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maaf saya mengopi soal kamu, biar gampang bacanya :D<br><span>ke dalam 2 liter larutan asam asetat 0,2 M (ka= 10^-5) ditambahkan 8\u00a0gram NaOH .hitunglah ph larutan yang terjadi<br>\u00a0<br>cari <br>mol NaOH <br>= gram / Mr\u00a0 = 8/40 = 0,2 mol<br>mol as. aseta<br>= V x M = 0,2 x 2 = 0,4 mol<br>buat reaksi pembatas<br>\u00a0\u00a0 \u00a0  CH3COOH\u00a0 +\u00a0 NaOH --&gt; CH3COONa + H2O<br>M\u00a0 \u00a0 \u00a0 \u00a0 0,4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,2<br>R\u00a0 \u00a0 \u00a0 \u00a0\u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2<br>S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,2<br><br>sisa merupakan asam lemah, maka dari soal dapat disimpulkan bahwa larutan yang terbentyuk merupakan larutan penyangga asam.<br>valensi garam asam lemah (CH3COONa) = 1<br>cari konsentrasi ion hidorgen<br>H+ = Ka x (mol asam lemah sisa / (mol garam x valensi))<br></span>= 10^-5 x (0,2/0,2x1)<br>= 10^-5<br><br>maka <br>pH = - log H+ = - loh 10^-5 = 5<br><br><br>semoga bisa membantu :)<br>beri labelterbai jika perlu he he he<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-asam-monoprotik-basa-monohidroksi-426",
+            "question": "Reaksi Asam monoprotik - Basa monohidroksi???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebelum kita menuju reaksinya, kita ketahui dulu<br>asam monoprootik adalah senyawa asam yang mengandung 1 buah atom/ ion hidrogen<br>contoh :<br>HCl, HNO3, HClO4, HClO3, HI, HBr<br>basa monohidroksi adalah senyawa basa yang mengandung 1 buah ion hidroksida<br>contoh :<br>LiOH, NaOH, KOH, RbOH,CsOH<br><br>reaksi antara asam monoprotik dan basa monohidroksi<br>bisa juga menggunakan rumus dibawah ini :<br>y HxA + x L(OH)y\u00a0 ----&gt; LxAy + x.y H2O ..................\u00a0 \u00a0 x.y = x kali y<br>contoh reaksinya :<br>HCl + NaOH ---&gt; NaCl + H2O<br>HNO3 + LiOH\u00a0 ---&gt; LiNO3 + H2O<br>HClO4 + KOH --&gt; KClO4 + H2O<br>HI + RbOH\u00a0 ---&gt; RbI + H2O<br><br><br><br>semoga bisa membantu ya :)<br>beri label terbaik ya :D <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-senyawa-yang-dapat-dibentuk-oleh-ion-na-dan-ion-c-650",
+            "question": "Tuliskan rumus senyawa yang dapat dibentuk oleh ion Na+ dan ion CO3\u00a02-?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakai rumus ini lebih mudah<br>A^x+\u00a0 \u00a0 +\u00a0 \u00a0  B^y-\u00a0 ---&gt;\u00a0  AyBx<br>jika B merupakan ion poliatom (lebihd ari 1 atom peyusun) maka perlu dikasih tanda kurung :)<br><br>Na+\u00a0 \u00a0  +\u00a0 \u00a0  CO3 2- --&gt;\u00a0 Na2CO3<br><br>semoga membantu :)<br>berika label terbaikya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-tujuan-vulkanisasi-pada-proses-pembuatan-ban-mohon-bantuanny-183",
+            "question": "Apa tujuan vulkanisasi pada proses pembuatan ban?\r\n\r\nmohon bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Tujuan vulkanisasi pada proses pembuatan ban adalah untuk meningkatkan <strong>ketahanan mekanis (memberi sifat keras) dan ketahanan suhu</strong>.</p><h3><strong>Penjelasan:</strong></h3><p>Ban dibuat dari bahan dasar karet. Seperti yang kita ketahui, karet memiliki sifat yang plastis dan kenyal. Namun, tentu saja setiap kendaraan membutuhkan spesifikasi ban yang berbeda, sesuai dengan medan yang biasa ditempuh. Karenanya, ban tidak dibuat hanya dari karet saja, melainkan dicampur dengan beberapa bahan lain untuk memberikan sifat yang berbeda. </p><p>Proses pengolahan karet dengan cara menambahkan bahan sulfur (belerang) disebut vulkanisasi. Vulkanisasi bertujuan untuk menambah sifat ketahanan fisik ban (membuatnya lebih keras) juga meningkatkan ketahanan suhu. Proses vulkanisasi merubah struktur molekul karet yang semula tidak berarturan menjadi berikatan, membentuk rantai panjang sehingga menghasilkan sifat fisik yang lebih keras. Semakin banyak belerang yang dicampurkan, akan semakin tinggi tingkat kekerasan ban yang dihasilkan.</p><h3>Pelajari lebih lanjut:</h3><p>Polimer : https://brainly.co.id/tugas/5003101</p><h3>Detil jawaban :\n</h3><p>Kelas : 12\n</p><p>\nMapel : Kimia\n</p><p>\nBab : Polimer\n</p><p>\nKode : 12.7.9</p><p></p><p><strong>kata kunci : vulkanisasi, ban</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-bagaimana-cara-membedakan-komponen-larutan-yang-terdiri-295",
+            "question": "Jelaskan bagaimana cara membedakan komponen larutan yang terdiri dari pelarut dan zat terlarut.. tolong yang bisa bantuin akika yaa ^^ thx b4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mrlakukan uji coba....<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "zat pelarut biasanya berupa zat cair\u00a0contohnya air sedangkan zat terlarut biasanya berupa zat padat\u00a0contohnya gula, garam dapur padat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-garam-yang-dapat-mengubah-warna-indikator-fenoftalein-pp-741",
+            "question": "Larutan garam yang dapat mengubah warna indikator fenoftalein (pp)menjadi merah ...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Larutan garam yang dapat mengubah warna indikator fenolftalein (pp)\u00a0menjadi merah</span>\u00a0 adalah\u00a0Na2SO4",
+                    "attachments": []
+                },
+                {
+                    "answer": "CH\u2083COONa, krna larutan tersebut bersifat asam<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-terjadinya-hantaran-arus-listrik-pada-senyawa-elektrolit-542",
+            "question": "Jelaskan terjadinya hantaran arus listrik pada senyawa elektrolit!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika elektrolit kuat : lampu menyala terang , banyak gelembung.<br>jika elektrolit lemat : lampu tidak menyala , tetapi banyak gelembung atau lampu menyala redup , sedikit gelembung.<br>jika non elektrolit : lampu tidak menyala, dan tidak ada gelembung",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-lingkaran-yang-berpusat-di-titik-1-3-dan-berdiamete-694",
+            "question": "Persamaan lingkaran yang berpusat di titik (-1, 3) dan berdiameter akar 40 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pusat (-1,3)<br>d = V40<br>r = (V40)/2<br>\u00a0 = (2V10)/2<br>\u00a0 = V10<br><br>(x+1)^2 + (y-3)^2 = (V10)^2<br>x^2 + 2x + 1 + y^2 - 6y + 9 = 10<br>x^2 + y^2 + 2x - 6y + 10 - 10 = 0<br>x^2 + y^2 + 2x - 6y = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x2 - 8x +\r\n 3\u00a0 dari grafik fungsi kudrat \u00a0g(x) = 4x2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f\u00a00\u00a0g =\u00a04(4x^2)^2 - 8(<span>4x^2)</span>\u00a0+3 = 64x (4x^2-1)",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-bilangan-kuadrat-jika-dibagi-3-maka-kemunkinan-sisanya-bera-782",
+            "question": "Suatu bilangan kuadrat jika dibagi 3 maka kemunkinan sisanya berapa..???    tolong di jelaskan se detail mungkin... oke friend...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> jumlah dua bilangan berpangkat sama ganjil, habis dibagi jumlah bilangan yang dipangkatkan 3</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu bia<br>langan kuadrat dibagi 3 maka kemungkinan sisanya adalah <br>1 atau 0 <br>dibuat tabel aja <br><u>bil kuadrat</u>\u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0<u> sisa setelah dibagi 3 </u><br>4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>16\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 <br>25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>36\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>49\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>64\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>81\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>dst<br>jadi sisa pembagian bil kuadrat oleh 3 secara berurutan adalah <br>1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, ...<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-lingkaran-yang-diameternya-56cm-tolong-di-jawab-801",
+            "question": "Hitunglah luas lingkaran yang diameternya 56cm ?\r\ntolong di jawab ya.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bila d = 56 maka r nya adalah 28 \ndan luasnya \nTT r r = 22/7 * 28 *28\n= 22* 112 =     2664",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-beta-12-dan-sudut-beta-di-kuadran-iimaka-tan-beta-ad-846",
+            "question": "Jika sin beta = 1/2 dan sudut beta di kuadran II,maka tan beta adalah?\r\n thanx before",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sin beta = 1/2 = y/r\u00a0<br>maka, y ( sisi tegak lurus) = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0(sisi miring) = 2<br>Yang dicari x (sisi vertikalnya)<br>Pakai rumus teorema phytagoras--&gt; x\u00b2 = r\u00b2 - y\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a2\u00b2- 1\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a4-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0\u221a3<br><br>Nah, rumus tan beta = y / x<br>Karena di kuadran 2, dimana x bernilai negatif (-), y bernilai positif (+) dan r bernilai positif (+)<br>maka, Tan beta = (+)y / (-)x = 1/-\u221a3 Karena penyebutnya akar, maka harus dirasionalkan dulu,\u00a0<br><br>---&gt; 1 / -\u221a3\u00a0\u00d7 (-\u221a3)/ (-\u221a3) = -\u221a3 / 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-tan-660-sin-900-cos-390-532",
+            "question": "Hasil tan 660 - sin 900 + cos (-390)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 660 = tan (660-360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= tan 300 \u00a0berada di kuadran 4 berarti negatif<br>tan 300 = tan (360-60)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= -tan 60<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - V3<br><br>sin 900 = sin (2x360 + 180)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= sin 180<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0<br><br>cos (-390) = cos (-390 + 360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= cos (-30) berada dikuadran 4 cos positif<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/2V3<br><br>-V3 + 0 + 1/2V3 = - 1/2 V3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "periksalah-sah-atau-tidak-argumen-berikut-pq-580",
+            "question": "Periksalah sah atau tidak argumen berikut!    \u00a0 \u00a0\r\n\u00a0~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0q\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 konsklusi r\r\n\u00a0\r\n~p\u21d2q\r\n~r\u21d2q\r\nkonsklusi\u00a0~p\u21d2r\r\n\r\n2. tuliskan kesimpulan yang sah dari premis premis berikut!\r\n\r\np1 : q\u21d2 ~r\r\np2 : s\u21d2r\r\nkesimpulan .......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "q =&gt; ~r<br>s =&gt;r<br>kesimpulannya, :<br><br>q=&gt;~s<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <u>q\u21d2r \u00a0\u00a0<br></u>\u00a0</span>~r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (sah)<br><br>~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0~p\u21d2q<br>~r\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sehingga \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0~q\u21d2r<br>konsklusi\u00a0~p\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0konsklusi\u00a0~p\u21d2r \u00a0 \u00a0(sah )<br><br>NB :\u00a0~r\u21d2q dirubah menjadi\u00a0~q\u21d2r<br><br>2)\u00a0p1 : q\u21d2\u00a0~r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0p1 : q\u21d2\u00a0~r<span>\u00a0\u00a0<br>\u00a0 \u00a0\u00a0p2 : s</span>\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jadi menjadi \u00a0 \u00a0 \u00a0 \u00a0 \u00a0p2 :\u00a0~r\u21d2\u00a0s<span><br>\u00a0 \u00a0 k \u00a0 : \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k :\u00a0</span>q\u00a0\u21d2\u00a0s<span><br><br><br>NB :\u00a0</span>\u00a0p2 : s\u21d2r kita rubah menjadi \u00a0:\u00a0~r\u21d2\u00a0s",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Contoh soal Refleksi beserta jawabannya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><u><strong>Contoh soal pertama</strong></u></p><p>Tentukan bayangan titik M(2, - 5) oleh pencerminan terhadap garis y = - x.</p><p><strong>Penyelesaian:</strong></p><p><strong>A. Cara bukan matriks</strong></p><p>Titik [tex]\\boxed{ \\ (a, b) \\ menjadi \\ (- b, - a) \\ }[/tex] oleh pencerminan terhadap garis [tex]\\boxed{ \\ y = - x \\ }.[/tex]</p><p><strong>Jawab: </strong></p><p>Bayangan titik M(2, - 5) oleh pencerminan terhadap garis y = - x adalah M&#039;(5, -2)</p><p><strong>B. Cara matriks</strong></p><p><strong>Jawab:</strong></p><p>[tex] \u00a0\\left[\\begin{array}{ccc}x&#039;\\\\y&#039;\\\\\\end{array}\\right] = \u00a0\\left[\\begin{array}{ccc}0&amp;-1\\\\-1&amp;0\\\\\\end{array}\\right] \u00a0 \\left[\\begin{array}{ccc}x\\\\y\\\\\\end{array}\\right] [/tex]</p><p>[tex] \u00a0\\left[\\begin{array}{ccc}x&#039;\\\\y&#039;\\\\\\end{array}\\right] = \u00a0\\left[\\begin{array}{ccc}0&amp;-1\\\\-1&amp;0\\\\\\end{array}\\right] \u00a0 \\left[\\begin{array}{ccc}2\\\\-5\\\\\\end{array}\\right] [/tex]</p><p>[tex] \u00a0\\left[\\begin{array}{ccc}x&#039;\\\\y&#039;\\\\\\end{array}\\right] = \u00a0 \u00a0\\left[\\begin{array}{ccc}-5\\\\2\\\\\\end{array}\\right][/tex]</p><p>Jadi, bayangannya adalah [tex]\\boxed{\\boxed{ \\ M&#039;(5, -2) \\ }}[/tex]</p><p><u><strong>Contoh soal kedua</strong></u></p><p>Tentukan bayangan kurva y = 2x\u00b2 - 3 oleh pencerminan terhadap sumbu X.</p><p><strong>Jawab:</strong></p><p>Digunakan matriks yang khusus untuk pencerminan terhadap sumbu X.</p><p>[tex] \u00a0\\left[\\begin{array}{ccc}x&#039;\\\\y&#039;\\\\\\end{array}\\right] = \u00a0\\left[\\begin{array}{ccc}1&amp;0\\\\0&amp;-1\\\\\\end{array}\\right] \u00a0 \\left[\\begin{array}{ccc}x\\\\y\\\\\\end{array}\\right] [/tex]</p><p>[tex] \u00a0\\left[\\begin{array}{ccc}x&#039;\\\\y&#039;\\\\\\end{array}\\right] = \u00a0\\left[\\begin{array}{ccc}x\\\\-y\\\\\\end{array}\\right] [/tex]</p><p>Diperoleh:</p><ul><li>x&#039; = x \u00a0 \u21d2 x = x&#039;</li><li>y&#039; = - y \u21d2 y = - y&#039;</li></ul><p>Substitusikan ke y = 2x\u00b2 - 3</p><p>[tex]\\boxed{ \\ - y&#039; = 2(x&#039;)^2 - 3 \\ }[/tex]</p><p>Selanjutnya menjadi [tex]\\boxed{ \\ y = - 2x^2 + 3 \\ }[/tex] </p><p>Lambang aksen dihilangkan karena bersifat sementara.</p><p><strong>Jadi, bayangan kurva y = 2x\u00b2 - 3 oleh pencerminan terhadap sumbu X adalah</strong> [tex]\\boxed{\\boxed{ \\ - y = 2x^2 - 3 \\ }}[/tex]</p><h3>Pembahasan</h3><ul><li>Refleksi atau pencerminan adalah transformasi geometri yang memindahkan titik-titik menggunakan sifat bayangan oleh suatu cermin. </li><li>Pada contoh soal pertama di atas merupakan pencerminan titik, sedangkan contoh soal kedua adalah pencerminan sebuah fungsi.</li></ul><p>Bila kita tidak menggunakan matriks, bayangan refleksi titik (x, y) terhadap:</p><ul><li>garis sumbu X (y = 0) menghasilkan (x, -y)</li><li>garis sumbu y (x = 0) menghasilkan (-x, y)</li><li>titik asal O(0, 0) menghasilkan (-x, -y)</li><li>suatu titik koordinat (a, b) menghasilkan (2a - x, 2b - y)</li><li>garis y = x menghasilkan (y, x) </li><li>garis y = -x menghasilkan (-y, -x)</li><li>garis x = h menghasilkan (2h - x, y)</li><li>garis y = k menghasilkan (x, 2k - y)</li></ul><h3>Pelajari lebih lanjut</h3><ol><li>Menentukan persamaan bayangan garis 2x + y - 4 = 0 oleh pencerminan terhadap garis y = 2 kemudian dilanjutkan dengan rotasi -90\u00b0 dengan pusat O (0, 0) https://brainly.co.id/tugas/273536</li><li>Komposisi transformasi brainly.co.id/tugas/13222211</li></ol><h3>Detil jawaban</h3><p><strong>Kelas:</strong> XI</p><p><strong>Mapel:</strong> Matematika</p><p><strong>Bab:</strong> Transformasi Geometri</p><p><strong>Kode:</strong> 11.2.1.1</p><p></p><p><strong>Kata Kunci:</strong> contoh soal refleksi, pencerminan titik, garis, matriks, substitusikan, garis, sumbu, titik asal</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-tinggi-badan-ari-dan-santi34-jika-tinggi-badan-sant-812",
+            "question": "perbandingan tinggi badan ari dan santi3:4 jika tinggi badan santi 160 cm,maka selisih tinggi badan santi dan ari adalah?berapa cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ari=3/4*160=120<br><br>Selisih=160-120=40 Cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "santi =160 cm\nari. = 3/4 X 160= 120 cm\nselisih =160-120=40 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sudut-a-25-sudut-b-hitunglah-a-sudut-a-dan-sudut-b-ji-965",
+            "question": "jika sudut a= 2/5 sudut b\u00a0 hitunglah\u00a0 a. sudut a dan sudut b jika keduanya saling berpelurus b. selisih sudut a dan b jika kedua sudutnya saling berpenyiku \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika sudut A = 2/5 sudut B. Hitunglah</p><ul><li>a. \u00a0m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika keduanya saling berpelurus!\u00a0</li><li>b. \u00a0Selisih m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika kedua\u00a0sudut saling berpenyiku </li></ul><h3>Pendahuluan </h3><ul><li>Sudut berpelurus (suplemen) \u21d2 Dua sudut dikatakan berpelurus jika jumlah besar sudut keduanya 180\u00b0 yaitu \u2220 A +\u00a0\u2220 B = 180\u00b0</li><li>Sudut berpenyiku (komplemen) \u21d2 Dua sudut dikatakan berpenyiku jika jumlah besar sudut keduanya 90\u00b0 yaitu \u2220 A +\u00a0\u2220 B = 90\u00b0</li></ul><h2>\nPembahasan :\u00a0</h2><p>\u2220 A = 2/5\u00a0\u2220 B</p><p></p><p><strong>a. \u00a0m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika keduanya saling berpelurus </strong></p><ul><li><strong>Menentukan besar \u2220 B</strong></li></ul><p>\u2220 A +\u00a0\u2220 B = 180\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B + B = 180\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B\u00a0+ [tex] \\frac{5}{5} [/tex]\u00a0B = 180\u00b0</p><p>[tex] \\frac{7}{5} [/tex]\u00a0B = 180\u00b0</p><p> \u00a0 B = 180\u00b0 : [tex] \\frac{7}{5} [/tex]</p><p> \u00a0 B = 180\u00b0\u00a0\u00d7 [tex] \\frac{5}{7} [/tex]</p><p> \u00a0 B = 128,57\u00b0</p><p>Jadi besar \u2220 B adalah 128,57\u00b0</p><ul><li><strong>Menentukan besar \u2220 A</strong></li></ul><p>\u2220 A +\u00a0\u2220 B = 180\u00b0</p><p>A \u00a0+ 128,57\u00b0 = 180\u00b0</p><p>A = 180\u00b0 - 128,57\u00b0 </p><p>A = 51,43\u00b0</p><p>Jadi besar \u2220 A adalah 51,43\u00b0</p><p></p><p><strong>b. \u00a0Selisih m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika kedua\u00a0sudut saling berpenyiku </strong></p><ul><li><strong>Menentukan besar \u2220 B</strong></li></ul><p>\u2220A +\u00a0\u2220 B = 90\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B\u00a0+ B = 90\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B\u00a0+ [tex] \\frac{5}{5} [/tex] B = 90\u00b0</p><p>[tex] \\frac{7}{5} [/tex] B = 90\u00b0</p><p>B = 90\u00b0 : [tex]\\frac{7}{5} [/tex] </p><p>B = 90\u00b0\u00a0\u00d7 [tex] \\frac{5}{7} [/tex]</p><p>B = 64,28\u00b0</p><p>Jadi besar \u2220 B adalah 64,28\u00b0</p><ul><li><strong>Menentukan besar \u2220 A</strong></li></ul><p>\u2220A +\u00a0\u2220 B = 90\u00b0</p><p>A + 64,28\u00b0 = 90\u00b0 </p><p>A = 90\u00b0 - 64,28\u00b0</p><p>A = 25,72\u00b0</p><p>Jadi besar \u2220 A adalah 25,72\u00b0</p><p>Selisih kedua sudut =\u00a0\u2220 B -\u00a0\u2220 A</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 64,28\u00b0 - 25,72\u00b0 </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 38,56\u00b0</p><p></p><p>--------------------------------------------------------------------</p><h3>Pelajari Lebih Lanjut tentang Sudut</h3><ol><li>Menyebutkan pasangan Sudut-sudut sehadap , Sudut-sudut sepihak (dalam dan luar) \u00a0dan Sudut-sudut berseberangan (dalam dan luar) \u2192 brainly.co.id/tugas/14626027</li><li>Tentukanlah nilai a pada setiap gambar berpenyiku dan berpelurus \u2192 brainly.co.id/tugas/9983992</li><li>Menentukan besar sudut sehadap dan bertolak belakang \u2192 brainly.co.id/tugas/14732988</li><li>Besar pelurus sudut AOC \u2192 brainly.co.id/tugas/6300257</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 7 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Materi \u00a0 \u00a0 \u00a0 : Bab 3 - Garis dan Sudut</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 7.2.3</li></ul><p></p><p>Semoga Bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-bilangan-genap-berurutan-berjumlah-78jumlah-bilangan-terbes-570",
+            "question": "Tiga bilangan genap berurutan berjumlah 78.Jumlah bilangan terbesar dan terkecil adalah....    A.26\r\nB.34\r\nC.52\r\nD.54",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal bil genap br urutan tsb adl a, (a+2), (a+4)<br>jml 3 bil gnap brurutan adl 78<br>a+(a+2)+(a+4)=78<br>a+a+a+2+4=78<br>3a+6=78<br>3a=78-6<br>3a=72<br>a=24<br>jml 3 bil gnap berurutan= 24,26,28<br>bil terbsar trkecil= 24+28=52<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-lingkaran-6-cm-dan-panjang-garis-singgung-ab-8-cmtentu-498",
+            "question": "Jari jari lingkaran 6 cm dan panjang garis singgung AB 8 cm.tentukan jarak titik pusat O ke titik B",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung luar pada satu lingkaran<br><br>OB\u00b2 = AB^2 + r^2<br>OB^2 = 8^2 + 6^2<br>OB^2 = 64 + 36<br>OB^2 = 100<br>OB = \u221a100<br>OB = 10 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-tumpukan-dua-buah-kursi-92-cm-dan-tinggi-tumpukan-empat-160",
+            "question": "tinggi tumpukan dua buah kursi 92 cm , dan tinggi tumpukan empat buah kursi 108 cm . jika ada 15 kursi sejenis ditumpuk , maka tingginya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Tinggi tumpukan dua buah kursi</strong> 92 cm, tinggi tumpukan empat buah kursi 108 cm, jika ada 15 kursi sejenis ditumpuk, maka tingginya adalah 196 cm. Soal ini merupakan penerapan materi barisan dan deret aritmatika. <strong>Barisan aritmatika</strong> adalah barisan yang antar dua suku berdekatannya memiliki selisih yang tetap. Untuk menentukan <strong>suku ke n pada barisan aritmatika</strong> adalah\n</p><p>Un = a + (n \u2013 1)b\n</p><p><strong>Rumus jumlah n suku pertama\n</strong></p><p>Sn = n/2 (2a + (n \u2013 1)b)\n</p><p>Sn = n/2 (a + Un)\n</p><p><u>Keterangan</u>\n</p><p>a = suku pertama\n</p><p>b = beda \u21d2 b = U\u2082 \u2013 U\u2081 = U\u2083 \u2013 U\u2082 = ....\n</p><br><h3>Pembahasan\n</h3><br><p><strong>Diketahui\n</strong></p><p>Tinggi tumpukan dua buah kursi 92 cm \u21d2 U\u2082 = 92\n</p><p>Tinggi tumpukan empat buah kursi 108 cm \u21d2 U\u2084 = 108\n</p><br><p><strong>Ditanyakan\n</strong></p><p>tinggi tumpukan 15 kursi (U\u2081\u2085)\n</p><br><p><strong>Jawab\n</strong></p><p>U\u2084 = 108 \u21d2 a + 3b = 108\n</p><p>U\u2082 = 92 \u21d2 \u00a0 <u>a + b = 92 \u00a0 \u00a0 \u00a0</u>\u2013\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2b = 16\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>b = 8\n</strong></p><p><strong>Substitusikan b = 8 ke U\u2082 = 92</strong>\n</p><p>a + b = 92\n</p><p>a + 8 = 92\n</p><p>a = 92 \u2013 8\n</p><p><strong>a = 84\n</strong></p><br><p><u>tinggi tumpukan 15 kursi\n</u></p><p>U\u2081\u2085 = a + 14b\n</p><p>U\u2081\u2085 = 84 + 14(8)\n</p><p>U\u2081\u2085 = 84 + 112\n</p><p><strong>U\u2081\u2085 = = 196\n</strong></p><p>Jadi <strong>tinggi tumpukan 15 kursi adalah 196 cm\n</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang barisan aritmatika\n</p><p>https://brainly.co.id/tugas/1779659\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><br><p><strong>Kata Kunci</strong> : tinggi tumpukan kursi\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3x210x-8-adalah-164",
+            "question": "Bentuk sederhana dari 3x\u00b2+10x-8\u00a0 adalah..\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 9x\u00b2-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3 x^{2} +10x -8}{9 x^{2} -4}\n= \\frac{(3x-2)(x+4}{(3x-2)(3x+2)}\n= \\frac{x+4}{3x+2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-uang-siti-rp-3600000-dan-besar-uang-nia-rp-2400000perb-838",
+            "question": "Besar uang siti RP 36.000,00 dan besar uang nia RP 24.000,00.perbandingan uang keduanya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "perbandingan besar uang siti : \u00a0nia =\u00a0<br>36000\u00a0:\u00a024000=3:2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-625-125-25-5-tentukan-rasio-dan-u7-806",
+            "question": "Diketahui deret 625-125-25-5+\r\nTentukan Rasio dan U7 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu serius kurang-kurangan? kok akhirnya jadi tambah?<br>r = 625/-125 =-5<br>U7 = 625.(-5)^5 = -1953125<br>maaf kalau salah, saya kurang memahami soal<br>\u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jari-jari-lingkaran-yang-memiliki-a-keliling-22cm-b-k-810",
+            "question": "Hitunglah jari jari lingkaran yang memiliki    a. keliling 22cm\r\n b. keliling 31.4cm\r\n c. luas 154cm2\r\n d.luas 346.5 cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.kelO=2.22/7.r<br>\u00a0 \u00a0r=22.7/44<br>\u00a0 \u00a0 \u00a0=3.5<br>b. r=31,4/2.3,14<br>\u00a0 \u00a0 \u00a0=31,4/6,28<br>\u00a0 \u00a0 \u00a0=5<br>c.luasO=22/7.rkuadrat<br>rkuadrat=154/22/7<br>\u00a0 \u00a0=154.7/22<br>\u00a0 \u00a0 =49<br>\u00a0 r=akar49<br>\u00a0 \u00a0=7<br>d. rkuadrat=346,5/3,14<br>\u00a0 \u00a0 \u00a0=110,25<br>\u00a0 \u00a0 \u00a0 r=akar110,25<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=10,5<br>\u00a0 \u00a0 \u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kolo gak salah<br>r =138,16 cm<br>r = 5 cm<br>r = 7 cm<br>r=10,5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-segitiga-dalam-kehidupan-sehari-hari-675",
+            "question": "Apa manfaat segitiga dalam kehidupan sehari-hari ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. berguna dalam probabilitas dan statistik. <br>\nb. binomium newton <br>\nc. penyusunan matriks asal - tujuan dalam rekayasa transportasi (transportation engineering)  <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>a. berguna dalam probabilitas dan statistik. <br>\nb. binomium newton <br>\nc. penyusunan matriks asal - tujuan dalam rekayasa transportasi (transportation engineering)  </span><br><br>maaf kalo salah ya :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Derajat suku banyak (5x\u00b2-x)\u00b2\u00a0 (3x\u00b3+4x-2) adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(5x^2 - x)^2 (3x63 + 4x - 2) = (25x^4 -10x^3\u00a0+ x^2) (3x^3 + 4x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75x^7 + 100x^5 - 50x^4 - 30x^6 - 40x^4 + 20x^3 + 3x^5 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04x^3 - 2x^2<br><br>Karena pangkatnya yang paling besar adalah 7 maka persamaan di atas berderajat tujuh.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-ingkaran-dari-kalimat-jika-kamu-tidak-jadi-berangkat-ke-kota-788",
+            "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-u1-2-dan-s10-33s5-nilai-u6-304",
+            "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-balokkubusdan-piramid-pada-bangun-ruang-819",
+            "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus bangun ruang <br>smoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-pembilang-dan-penyebut-sebuah-pecahan-adalah-38-jika-pemb-665",
+            "question": "Jumlah pembilang dan penyebut sebuah pecahan adalah 38, jika pembilang dan penyebutnya masing-masing dikurangi 4, maka nilai pecahan itu menjadi 3/7.    Tentukan pecahan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal pembilang = x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0penyebut = y<br><br>x+y = 38 \u00a0persamaan 1<br><br><u>x-4</u> \u00a0=<u>3</u> \u00a0 persamaan 2<u><br></u>y-4 \u00a0 \u00a0<u>7<br></u><br>7(x-4) = 3(y-4)<br>7x-28 = 3y-12<br>7x-3y=-12+28<br><br>7x-3y=16 persamaan 3<br><br>\u00a0Persamaan 1 - persamaan 3<br><br>kalikan persamaan 1 dengan 7<br><br>7(x+y) = 38 x 7<br>7x+7y=266 \u00a0<br><br>eiminasi dengan persamaan 3<br><br>7x + 7y = 266<br><u>7x - 3y= 16 -<br></u>10y=250<br>y=25<br>sub y=25 ke persaamaan 1\u00a0<br><br>x+25 =38<br>\u00a0x=13<br><br>jadi,pembilangnya 13,penyebutnya 25<br><br>JADI PERSAMAANNYA ADALAH 13/25<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-keliling-suatu-jajargenjang-adalah-56cm2buatlah-ukuran-587",
+            "question": "Diketahui keliling suatu jajargenjang adalah 56cm2.Buatlah ukuran jajargenjang tersebut (yang memungkinkan)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(a+b) = 2(12+16)<br>Jadi keliling jajar genjang 56 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-urine-yang-dikeluarkan-dari-tubuh-dipengaruhi-oleh-ab-617",
+            "question": "Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh ...    A.banyaknya makanan yang dimakan\r\nB.faktor emosional\r\nC.banyaknya cairan yang diminum\r\nD.jumlah glukosa yang harus dikeluarkan dari darah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas \u00a0 \u00a0 \u00a0 \u00a0 : X SMA<br>Pelajaran \u00a0 : Biologi<br>Kategori \u00a0 \u00a0 : Sistem Ekskresi<br>Kata kunci : jumlah urine, pengaruh<br><br>Pembahasan :<br><br>Faktor yang mempengaruhi jumlah urine yang dikeluarkan dari tubuh :<br><br>1.\u00a0<span>Hormon Antidiuretik (ADH)<br>\u00a0 \u00a0\u00a0</span><span>Jika darah yang akan disaring banyak mengandung air,\u00a0</span>\u00a0<span>maka hormon ADH yang disekresekikan ke dalam ginjal semakin sedikit, penyerapan air akan sedikit pula.<br><br>2.\u00a0</span><span>Hormon insulin<br>\u00a0 \u00a0\u00a0</span>Kadar hormon insulin yang rendah menyebabkan produksi urine meningkat sehingga penderita<span>\u00a0\u00a0</span><span>sering mengeluarkan urine.<br><br>3.\u00a0</span><span>Kondisi psikologis (gejolak emosi dan stress)<br>\u00a0 \u00a0\u00a0</span><span>Gangguan psikologis stress yang berpengaruh terhadap kontraksi dan tekanan pada katup kantung kemih.<br><br>4.\u00a0</span><span>Suhu lingkungan<br>\u00a0 \u00a0\u00a0</span><span>Saat cuaca dingin orang lebih sering untuk ingin mengeluarkan urine.<br><br>5.\u00a0</span><span>Konsumsi garam<br>\u00a0 \u00a0\u00a0</span><span>Kadar garam yang tinggi dalam darah menyebabkan ginjal memproduksi garam mineral yang lebih banyak sehingga produksi urine meningkat.<br><br>6.\u00a0</span><span>Jumlah air yang diminum<br>\u00a0 \u00a0\u00a0</span><span>Banyak minum akan menyebabkan urine yang dikeluarkan lebih banyak dari dalam tubuh.<br><br>7.\u00a0</span><span>Konsumsi alkohol dan kafein<br>\u00a0 \u00a0\u00a0<br><br>Jadi\u00a0</span>Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh \u00a0<span><strong>banyaknya cairan yang diminum (C)</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-salmah-menabung-uang-rp-2000000-di-koperasi-sentosa-selama-1-236",
+            "question": "Bu Salmah menabung uang RP 2.000.000 di koperasi SENTOSA selama 10 bulan. Jika bunga koperasi itu sebesar 12% per tahun, jumlah tabungan Bu Salmah adalah...    *tolong kasih tau caranya juga yaa, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga = 12% : 12 (12 bln) = 1 %. 10 bln = 10%, 10 % \u00d7 2000.000 = 200.000,,,, tabungan = 2200.000... maaf kalau salah",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kapal-berlayar-kearah-timur-seauh-30-mil-kemudian-kapal-m-401",
+            "question": "sebuah kapal berlayar kearah timur seauh 30 mil. kemudian kapal melanjutkan perjalanan dengan arah 030 derjat sejauh 60 mil. jarak kapal terhadap posisi saat kapal berangkat adalah...mil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "...................................................................................................................................................................................................................................................................<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau yang ditanya jarak, berarti tinggal \u00a030mil+60miltapi kalau yang ditanya perpindahan baru nyari jarak terdekat dari titik awl ke titik akhir.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-perusahaan-memproduksi-x-unit-barang-dengan-biaya-4x2-8x-540",
+            "question": "Suatu perusahaan memproduksi x unit barang    dengan biaya ( 4x^2-8x+24) dalam ribu rupiah untuk tiap unit \r\n jika barang tersebut terjual habis dengan harga 40.000 tiap unit keuntungan maksimum nya yang diperoleh perusahaan tersebut adalah...\r\n mohon bantuannya ya..\r\n buatin caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suatu perusahaan memproduksi x unit barang dengan biaya (4x^2 \u2013 8x + 24) dalam ribu rupiah untuk tiap unit</strong>. Jika barang tersebut terjual habis dengan harga Rp40.000,00 tiap unit maka <strong>keuntungan maksimumnya yang diperoleh perusahaan tersebut </strong>adalah Rp32.000,00. Hasil tersebut diperoleh dengan mencari nilai stasioner. Nilai stasioner diperoleh jika f\u2019(x) = 0. Titik stasioner ada 3 jenis yaitu\n</p><ul><li>Titik balik maksimum diperoleh jika f\u201d(x\u2081) &lt; 0\n</li><li>Titik balik minimum diperoleh jika f\u201d(x\u2081) &gt; 0\n</li><li>Titik belok diperoleh jika f\u201d(x\u2081) = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Biaya per unit = (4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>maka\n</p><p><strong>Biaya untuk memproduksi x unit\n</strong></p><p>B(x) = x(4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>B(x) = (4x\u00b3 \u2013 8x\u00b2 + 24x) dalam ribu rupiah\n</p><p></p><p>Harga jual per unit = Rp40.000,00 = 40 ribu rupiah\n</p><p>maka\n</p><ul><li>harga jual untuk x unit = 40x ribu rupiah\n</li></ul><p></p><p>Sehingga<strong> keuntungan yang diperoleh perusahaan</strong> adalah\n</p><p>U = harga jual \u2013 biaya produsi\n</p><p>U = 40x \u2013 (4x\u00b3 \u2013 8x\u00b2 + 24x)\n</p><p>U = 40x \u2013 4x\u00b3 + 8x\u00b2 \u2013 24x\n</p><p>U = \u20134x\u00b3 + 8x\u00b2 + 16x\n</p><p>U\u2019 = \u201312x\u00b2 + 16x + 16\n</p><p></p><p><strong>Agar diperoleh keuntungan maksimum, maka U\u2019 = 0\n</strong></p><p>\u201312x\u00b2 + 16x + 16 = 0\n</p><p>\u20134(3x\u00b2 \u2013 4x \u2013 4) = 0\n</p><p>\u20134(x \u2013 2)(3x + 2) = 0\n</p><p>(x \u2013 2) = 0 atau (3x + 2) = 0\n</p><p> \u00a0 \u00a0 \u00a0 x = 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03x = \u20132\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = \u00a0[tex]-\\frac{2}{3}[/tex]\n</p><p>karena <strong>jumlah produksi tidak mungkin bernilai negatif</strong>, maka kita pilih <strong>x = 2\n</strong></p><p></p><p>Jadi <strong>keuntungan maksimum yang diperoleh perusahaan tersebut</strong> adalah\n</p><p>U = (\u20134x\u00b3 + 8x\u00b2 + 16x) ribu rupiah\n</p><p>U = (\u20134(2)\u00b3 + 8(2)\u00b2 + 16(2)) ribu rupiah\n</p><p>U = (\u20134(8) + 8(4) + 32) ribu rupiah\n</p><p>U = (\u201332 + 32 + 32) ribu rupiah\n</p><p>U = 32 ribu rupiah\n</p><p><strong>U = Rp32.000,00\n</strong></p><p></p><h3>Pelajari lebih lanjut\n</h3><p></p><p>Contoh soal lain tentang nilai stasioner\n</p><ul><li>Laba maksimum: brainly.co.id/tugas/10878909\n</li><li>Penjualan maksimum: brainly.co.id/tugas/13787566\n</li><li>Biaya minimum: brainly.co.id/tugas/252367\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 11\n</p><p><strong>Mapel</strong> : Matematika \u00a0\n</p><p><strong>Kategori</strong> : Turunan Fungsi Aljabar\n</p><p><strong>Kode</strong> : 11.2.9\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tumpukan-beberapa-lembar-kertas-dipotong-menjadi-2-bagian-yang-sa-340",
+            "question": "tumpukan beberapa lembar kertas dipotong menjadi 2 bagian yang sama. kemudian, kertas tersebut ditumpuk dan dipotong lagi menjadi 2 bagian, begitu seterusnya. pada potongan yang ketiga jumlah kertas menjadi 160 lembar. banyak kertas pada potongan yang ketujuh adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Barisan dan Deret<br>Kelas : 2 SMA/XI SMA<br><br>Pembahasan :<br><br>Misalkan ada n tumpukan kertas.<br>Potongan 1 = 2n<br>Potongan 2 = 4n<br>Potongan 3 = 8n<br><br>Sehingga:<br>8n = 160<br>n = 160/8 <br>\u00a0 \u00a0=\u00a020<br><br>Maka, potongan ketujuh adalah :<br><span>U\u2087 =\u00a02\u2077.n <br>\u00a0 \u00a0 \u00a0\u00a0= 128\u00a0.\u00a020 <br>\u00a0 \u00a0 \u00a0\u00a0= 2.560 lembar</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

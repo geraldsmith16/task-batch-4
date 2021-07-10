@@ -1,0 +1,148 @@
+{
+    "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+            "attachments": []
+        },
+        {
+            "answer": "(2*60)/15*30=240 amoeba",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-setiap-bentuk-berikut-cos-90-a-sin-90-a-202",
+            "question": "Sederhanakan setiap bentuk berikut\r\ncos (90\u00b0-\u03b1\u00b0)\r\nsin (90\u00b0-\u03b1\u00b0)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos (90 - a) = cos 90 cos a + sin 90 sin a \n=&gt; 0.cos a + 1.sin a = sin a\nsin (90 - a) =  sin 90 cos a - cos 90 sin a \n=&gt; 1.cos a - 0.sin a = cos a\n\ncos (90 - a)\n----------------\nsin (90 - a)\n\nsin a\n-----------\ncos a\n\ntan a",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-2x3-dan-gx-x2-1-maka-fg2-333",
+            "question": "Jika f(x) = 2x+3 dan g(x) =x2-1, maka (f.g)(2) =...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f.g(2))= 2(x2-1)+3\n            =2x2-2+1 = 2x2+1\n=2(2)2 +1 = 2(4)+1= 8+1=9",
+                    "attachments": []
+                },
+                {
+                    "answer": "(f.g)(x) = (2x + 3) (x2-1)<br>(f.g)(2) = (2(2) + 3) ((2)2-1)<br>(f.g)(2) = (4+3) (4-1)<br>(f.g)(2) = 7 . 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 21<br>kalo ga salah gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-5x-7-gt-7x5-maka-840",
+            "question": "Jika 5/x-7 &gt; 7/x+5, maka...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/ x-7 &gt; 7/x+5\u00a0<br>5x+25/(x-7)(x+5) &gt; 7x-49/(x-7)(x+5)\u00a0<br>5x+25 &gt; 7x-49\u00a0<br>25+49 &gt; 7x - 5x\u00a0<br>74 &gt; 2x\u00a0<br>37 &gt; x\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sinta-mempunyai-uang-sebesar-rp6000000-besar-uang-adik-23-da-197",
+            "question": "Sinta mempunyai uang sebesar Rp.60.000,00. Besar uang adik 2/3 dari uang Sinta. Berapa rupiah besar uang Sinta dan adik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Uang Adik : Uang Sinta<br>2 : 3<br>maka jumlah uang mereka adalah<br>= [tex] \\frac{5}{3} x 60.000[/tex]<br><br>= 5 x 20.000<br>= 100.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60.000 + 40.000 = 100.000 rupiah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-mean-suatu-data-7-4-6-7-8-7-x-8-5-8-7-6-9-adalah-709",
+            "question": "jika mean suatu data 7, 4, 6, 7, 8, 7, x. 8, 5, 8, 7, 6, 9 adalah 7, maka nilai x yg memenuhi adalah,,?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>7+ 4+ 6+ 7+ 8+ 7+ x+ 8 + 5 +\u00a0 8 +\u00a0 7 +\u00a0 6 + 9</span> per 13 = 7<br>82 + x per 13 = 7<br>82 + x = 7*13<br>82 + x = 91<br>x = 91-82<br>\u00a0\u00a0 = 9<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(7<span>+</span>4+6+7+8+7+x+8+5+8+7<span>+6+9</span>):13=7<br>(82+x):13=7<br>82+x=91<br>x=91-82<br>x=9<br><br>poinnya banyak dikit donk.. jadikan jawaban terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-2x-3-0-mempunyai-akar-x1-dan-x2-tentu-867",
+            "question": "persamaan kuadrat x\u00b2 - 2x - 3 = 0 mempunyai akar x1 dan x2 tentukan persamaan kuadrat yang akar-akarnya 4x1 dan 4x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pk. lama:<br><span> x\u00b2 - 2x - 3 = 0<br>a = 1<br>b = -2<br>c = -3<br>x1 + x2 = -b/a = -(-2)/1 = 2<br>x1 x x2 = c/a = -3/1 = -3<br><br>Pk. baru<br></span>\n\n<span>x\u00b2- (\u03b1 + \u03b2)x + (\u03b1 . \u03b2) = 0</span>\n<br><br>\n\u03b1 = 4x1\n<br>\n\u03b2 = 4x2\n<br><br>\n(\u03b1 + \u03b2) = 4x1 + 4x2 = 4 (x1 + x2) = 4 (2) = 8\n<br>\n(\u03b1 . \u03b2) = 4x1 . 4x2 = 4 (x1.x2) = 4 (-3) =\n-12\n<br><br>Pk. Baru =&gt;<span>x\u00b2</span> \u2013 8x \u2013 12 = 0\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] x^{2} [/tex] -2x - 3 = 0<br>(x - 3) (x\u00a0+ 1) = 0<br>[tex] x_{1} [/tex] = 3<br>[tex] x_{2} [/tex] = -1<br><br>menyusun persamaan kuadrat baru jika:<br>[tex] x_{1} [/tex] = 4[tex] x_{1} [/tex] = 4x3 = 12<br>[tex] x_{2} [/tex] = 4[tex] x_{2} [/tex] = 4x-1 = -4<br><br>(x-12) (x+4)<br>= [tex] x^{2} [/tex] + 4x - 12x - 48<br>= [tex] x^{2} [/tex] - 8x -48<br><br>menurut saya ini jawabannya",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

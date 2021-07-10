@@ -1,0 +1,132 @@
+{
+    "question": "Apa yang di maksud dengan cepat rambat bunyi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "hasil bagi jarak antara sumber bunyi dan pendengar dengan selang waktu yang diperlukan bunyi untuk merambat",
+            "attachments": []
+        },
+        {
+            "answer": "getaran yg dpt ditransmisikan oleh air atau meterial lain sbgai medium (perantara)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "energi-dari-sebuah-partikel-yang-massa-diamnya-55x10-27-kg-se-678",
+            "question": "Energi dari sebuah partikel yang massa diamnya 5,5x10^{-27} kg setara dengan ... ( c = 3 x 10^{8} )\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "En= h (c/Lamda) \u00a0 (simbol lamda nya gk ad jadi pke tulis ja nama nya)<br><br>h itu=6,63x10^-34 Joule/Second<br><br>tingal masukan ja,, tapi lamda gk diketahui jadi gk bs dicari<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578",
+            "question": "benda x berada di depan cermin cekung dengan jari-jari kelengkungan 0,2m. jika bayangan terbentuk pada jarak 0,6m di depan cermin hitung jarak benda x di depan cermin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>PEMBAHASAN</h3><p><em>Marilah kita ingat kembali rumus yang berlaku di cermin sebagai berikut ini:</em></p><p>[tex]\\boxed{\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}}[/tex]</p><p><em>dimana :</em></p><p><em>S = jarak benda ( meter )</em></p><p><em>S&#039; = jarak bayangan ( meter )</em></p><p><em>f = fokus cermin ( meter )</em></p><p>[tex]\\texttt{ }[/tex]</p><p><u>Diketahui:</u></p><p>jarak bayangan = S&#039; = 0,6 m</p><p>jari-jari kelengkungan cermin = R = 0,2 m</p><p>jarak fokus cermin = f = R/2 = 0,2/2 = 0,1 m</p><p><u>Ditanyakan:</u></p><p>jarak benda = S = ?</p><p><u>Penyelesaian:</u></p><p><em>Kita akan mencari jarak benda dengan cara sebagai berikut ini:</em></p><p>[tex]\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{1}{f} - \\frac{1}{S&#039;}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{S&#039; - f}{S&#039; \\times f}[/tex]</p><p>[tex]S = \\frac{S&#039; \\times f}{S&#039; - f}[/tex]</p><p>[tex]S = \\frac{0,6 \\times 0,1}{0,6 - 0,1}[/tex]</p><p>[tex]S = \\frac{0,06}{0,5}[/tex]</p><p>[tex]\\boxed{S = 0,12 \\texttt{ m}}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Kesimpulan :</h3><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut:</h3><p><strong>Lensa Cembung</strong> : https://brainly.co.id/tugas/20987845</p><p><strong>Cermin Cembung</strong> : https://brainly.co.id/tugas/21150959</p><p>[tex]\\texttt{ }[/tex]</p><p>-----------------------------</p><h3>Detil Jawaban:</h3><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : Fisika</p><p><strong>Bab</strong> : Alat-Alat Optik</p><p><strong>Kode</strong> : 11.6.11</p><p>#AyoBelajar</p>",
+                    "attachments": [
+                        "answer-attachments/benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-tipis-dengan-panjang-l-dan-massa-m-dapat-berputar-pa-267",
+            "question": "suatu batang tipis dengan panjang L dan massa m dapat berputar pada sumbu yang terletak di ujung batang. pada awalnya batang berada pada posisi horizontal dan kemudian di lepas. pada saat batang membuat sudut \u0424 (tetha) dengan arah vertikal, percepatan sudut rotasi batang adalah???? GPL (GAK PAKE LAMA)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyelesaian :<br>letak titik pusat massa batang L/2 dari sumbu rotasi<br>I batang terhadap ujung = 1/3 mL\u00b2<span><br>Maka persamaannya :<br>\u03a3T = I \u03b1\u00a0, atau :</span><br>mg sin \u03b8\u00a0\u00d7<span>\u00a0L/2 = 1/3 m L\u00b2 \u03b1\u00a0\u00a0(hilangkan massanya (m))</span><br>maka menjadi :<br><br>[tex]g.sin\\theta* \\frac{L}{2}  =  \\frac{1}{3}  L^{2}  \\alpha [/tex]<br><br>[tex] \\frac{g.sin\\theta}{1/3} =  \\frac{L^{2} \\alpha }{L/2}  [/tex]<br><br>[tex]  \\alpha = \\frac{3.g.Sin\\theta}{2L} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593",
+            "question": "batang AB homogen panjang 12m berat 200 N bersandar pada dinding vertikal yg licin di B &amp; bertumpu pada lantai horizontal di A yg kasar. Batang AB membentuk sudut 60' dg bidang horizontal. Jika batang tepat akan menggeser maka besar koefisien di A adl... tolongin ya pake crnya jg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><u>Kesetimbangan Benda Tegar</u></h2><h3>UAN 2003</h3><p>Jawaban berupa Lampiran</p><p>Kelas : XI</p><p>Bab Dinamika Rotasi dan Keseimbangan Benda Tegar</p><br>",
+                    "attachments": [
+                        "answer-attachments/batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bandul-yabg-di-ikat-seutas-tali-1-m-di-putar-secara-horizo-570",
+            "question": "sebuah bandul yabg di ikat seutas tali 1 m di putar secara horizontal dan memiliki kecepatan sudut putaran bandul 20 rad/s . kecepatan sudut ketika tali diperpendek menjadi 0,5 meter yaitu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik :<br></span>R\u2081 = 1 m<br>w\u2081 = 20 rad/s<br>R\u2082 = 0,5<br>Dit :\u00a0w\u2082<br><span>Penyelesaian :\u00a0<br>L</span>\u2081\u00a0<span>=\u00a0L</span>\u2082<br>Iw\u2081=Iw\u2082<br>mR\u2081\u00b2\u00a0\u00b7\u00a0w\u2081=mR\u2082\u00b2\u00a0\u00b7\u00a0W\u2082<br><br>[tex] W_{2}= \\frac{W_{1}.R_{1}^{2}}{R_{2}^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20.1^{2}}{(0,5)^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20}{0,25}  [/tex]<br><br>[tex] W_{2}= 80  [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-kapiler-dimasukkan-ke-dalam-bejana-yang-berisi-zat-ca-651",
+            "question": "Sebuah pipa kapiler dimasukkan ke    dalam bejana yang berisi zat cair.\r\n Kenaikan zat cair di dalam pipa\r\n kapiler tidak tergantung pada ....\r\n A. sudut kontak\r\n B. Tegangan permukaan\r\n C. Massa jenis zat cair\r\n D. Diameter pipa kapiler\r\n E. Tekanan udara luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C. masa jenis zat cair karena massa jenis yatcair konstan 1000 kg/m^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kipas-berputar-sebanyak-20-putaran-per-menit-jika-ujung-k-900",
+            "question": "Sebuah kipas berputar sebanyak 20 putaran per menit. Jika ujung kipas berada 20 cm dari sumbu putranya, kecepatan tangensial ujung kipas adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Step-1 konversi satuan putaran/menit menjadi rad/s</strong><br><br><strong>1 putaran\u00a0= 2\u03c0 radian</strong><br><br>\u21d4 \u03c9 = 20 putaran/menit<br>\u21d4 \u03c9 = 20 x 2\u03c0/60 rad/s<br>\u21d4 \u03c9 = 2\u03c0/3 rad/s<br><br><strong>Step-2 menghitung kecepatan tangensial</strong><br><br>jari-jari r = 20 cm = 0,2 m<br><br><strong>\u21d4 v = \u03c9 x r</strong><br>\u21d4 v = [2\u03c0/3] x [0,2]<br>\u21d4 v = 2\u03c0/15 m/s<br><br><strong>\u2234 kecepatan tangensial adalah 2\u03c0/15 m/s</strong><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293",
+            "question": "Dalam sebuah mesin pengangkat mobil hidrolik, jari-jari piston kecil sama dengan 1,20 cm, sedangkan jari-jari piston besar 15,0 cm (massa piston kecil bisa diabaikan, sedangkan massa piston besar 350 kg). Berapakah gaya F yang dibutuhkan untuk menahan mobil bermassa 1720 kg,    a) ketika kedua piston pada ketinggian yang sama\r\n b) ketika permukaan atas kedua piston seperti pada gambar\r\n Zat cair yang digunakan adalah minyak hidrolik dengan massa jenis = 864 kg/m3",
+            "attachments": [
+                "question-attachments/dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a) F\u2081\u00f7A\u2081=F\u2082\u00f7A\u2082 \u00a0 \u00a0F\u2082 merupakan berat mobil+berat piston<br>\u00a0 \u00a01\u00f7([tex] \\pi [/tex].1,2\u00b2) = (3500+17200)\u00f7([tex] \\pi [/tex].15\u00b2)<br>\u00a0 \u00a01\u00f74,5216\u00a0=\u00a020700\u00f7706,5<br>\u00a0 \u00a01 Pa = 132,48 Pa\u00a0merupakan perbandingan P\u2081 = P\u2082<br>\u00a0 \u00a0F\u2082\u00f7A\u2082 =\u00a020700\u00f7706,5 = 29,3 Pa<br>\u00a0 \u00a01 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)\u00a0= 132,48 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)<br>\u00a0 \u00a00,22 Pa= 29,3 Pa<br>\u00a0 \u00a0F\u2081 = P\u2081 \u00d7\u00a0A\u2081 = 0,22\u00a0\u00d7\u00a04,5216 = 0,99 N diberikan kepada F\u2081 bila ketinggian \u00a0 \u00a0 \u00a0\u00a0Piston1\u00a0dan Piston2 sama<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengaruh-suhu-fluida-terhadap-tegangan-permukaannya-jelaskan-971",
+            "question": "Pengaruh suhu fluida terhadap tegangan permukaannya, jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor yang mempengaruhi tegangan permukaan yaitu :<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Suhu<br>Tegangan permukaan menurun dengan meningkatnya suhu, karena meningkatnya energi kinetik molekul.\u00a0</span></span><span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span>Zat terlarut (solute)</span>Keberadaan zat terlarut dalam suatu cairan akan mempengaruhi tegangan permukaan. Penambahan zat terlarut akan meningkatkan viskositas larutan, sehingga tegangan permukaan akan bertambah besar. Tetapi apabila zat yang berada dipermukaan caiaran membentuk lapisan monomolekular, maka akan menurunkan tegangan permukaan. Zat tersebut biasa disebut dengan surfaktan.<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Surfaktan<br>Surfaktan (surface active agents), zat yang dapat mengaktifkan permukaan, karena cenderung untuk terkonsentrasi pada permukaan atau antar muka. Surfaktan mempunyai orientasi yang jelas sehingga cenderung pada rantai lurus. Sabun merupakan salah satu contoh dari surfaktan.</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seutas-kawat-piano-yang-terbuat-dari-baja-mempunyai-panjang-1-886",
+            "question": "1. seutas kawat piano yang terbuat dari baja, mempunyai panjang 1,6 m dengan garis tengah 0,2 cm. berapa besar tegangan kawat jika kawat tersebut mengalami perubahan panjang sebesar 0,3 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik lo =1,6 m \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 0,3 cm = 0,003 m<br>\u00a0 \u00a0\u00a0 d = 0,2 cm = 0,002 m<br>Dit tegangan ?<br>jawab.<br>LO=\u03c0r^2 = 3,14 x 0,001^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x10^-6 m<br>E = tegangan / regangan<br>\u00a0 \u00a0= F.l / A.\u0394l<br><br><br>tegangan = F.l0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,6 F",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

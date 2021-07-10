@@ -1,0 +1,152 @@
+{
+    "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+            "attachments": []
+        },
+        {
+            "answer": "rumus bangun ruang <br>smoga membantu<br>",
+            "attachments": [
+                "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-kuadrat-dari-akar-akar-persamaan-suku-banyak-x3-767",
+            "question": "Tentukan jumlah kuadrat dari akar-akar persamaan suku banyak x\u00b3-2\u00d7\u00b2-23+k=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1\u00a0+\u00a0x2 = 2<br>x1.x2 =\u00a0-23+k<br><br>x1\u00b2 + x2\u00b2 = (x1+x2) - 2.x1.x2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0- 2(-23+k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2 - (-46+2k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0+ 46 - 2k<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = -2k +48<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-yang-berpusat-di-titik-1-3-dan-berdiamete-694",
+            "question": "Persamaan lingkaran yang berpusat di titik (-1, 3) dan berdiameter akar 40 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pusat (-1,3)<br>d = V40<br>r = (V40)/2<br>\u00a0 = (2V10)/2<br>\u00a0 = V10<br><br>(x+1)^2 + (y-3)^2 = (V10)^2<br>x^2 + 2x + 1 + y^2 - 6y + 9 = 10<br>x^2 + y^2 + 2x - 6y + 10 - 10 = 0<br>x^2 + y^2 + 2x - 6y = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fxx2-1-gx-2x-1-jika-hx-fxgx-maka-domain-h-901",
+            "question": "F(x)=\u221ax\u00b2-1 g(x)=\u00a0\u221a2x-1. jika h(x)= f(x).g(x) maka domain h(x) yang memenuhi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]h(x)= f(x).g(x) \\\\ h(x) = \\sqrt{ x^{2} -1} .  \\sqrt{2x-1}  \\\\ h(x) =  \\sqrt{ 2x^{3} -  x^{2} -2x+1 } [/tex]<br><br>Ingat di dalam akar tidak boleh\u00a0negatif..<br><br>[tex]2x^{3} -  x^{2} -2x+1 \\geq 0  \\\\  (x-1)(2x-1)(x+1)  \\geq 0[/tex]<br><br>buat garis bilangan sehingga diperoleh<br>[tex]-1 \\leq x \\leq \\frac{1}{2} ; x \\geq 1[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "{ ( x^2 - 1 ) . ( 2x - 1) }^1/2<br>( 2x^3 - x^2 - 2x +1 )^1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-deret-geometri-x-1x1x-1x-x-1-jumlahnya-mempunyai-434",
+            "question": "Agar deret geometri x-1/x,1/x, 1/x (x-1),... jumlahnya mempunyai limit, nilai x harus memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "|r|&lt;1\u00a0<br><br><span>[1/(x-1)]^2&lt;1\u00a0</span><br><br><span>x&gt;2 atau x&lt;0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmetika-berikut-a-50-46-42-807",
+            "question": "Tentukan jumlah deret aritmetika berikut:     a.) 50\u00a0+\u00a046\u00a0+\u00a042\u00a0+\u00a038\u00a0+\u00a0... sampai dengan 10 suku.\r\nb.) -\u00a022\u00a0-\u00a016\u00a0-\u00a010\u00a0-\u00a04\u00a0-\u00a0... sampai dengan 20 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. S10\u00a0= 10/2 (2.50+(10-1) .\u00a0-4)<br>S10= 5 (100-36) =320<br>b. S20 = 20/2 (2. -22+(20-1)4)<br>S20 = 10(-44+76) = 320",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2(2a+(n-1)b)<br>s10=5(100+9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0  =5(100-36)<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =5(64)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =320<br>s20=10(2.-22+19.6)<br>\u00a0\u00a0 \u00a0 \u00a0  =10(-44+114)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =10(70)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =700<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-terdiri-dari-4-angka-disusun-dari-angka-angka-12345-254",
+            "question": "Bilangan terdiri dari 4 angka disusun dari angka-angka 1,2,3,4,5,6 dan 7. Banyak susunan bilangan dengan angka-angka yang berlainan (angka-angkanya tidak boleh berulang) adalah.... \u00a0 A. 20 B. 40 C. 80 D. 120. E. 360 \u00a0 Mohon bantuan +caranya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika benar itu terdiri dari angka 1 sampai 7 , maka jawabannya :<br><br>7 x 6 x 5 x 4 = 840\u00a0<br>jawabannya tdk ada di opsinya<br><br>tp jika terdiri dari angka 1 sampai 6 , maka jawabannya :<br><br>6 x 5 x 4 x 3 = 360\u00a0<br>jawaban E\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 sampai 7 <br>7 x 6 x 5 x 4 =840<br><br>1 sampai 6 <br>6 x 5 x 4 x 3 = 360<br><br>1 sampai 5<br>5 x 4 x 3 x 2 = 120<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

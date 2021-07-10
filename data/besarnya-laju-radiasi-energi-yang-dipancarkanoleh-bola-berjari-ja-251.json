@@ -1,0 +1,137 @@
+{
+    "question": "Besarnya laju radiasi energi yang dipancarkanoleh bola berjari jari 2 cm pada suhu 2000 K dengan emisivitas 0,1 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<u>Keterangan</u><span>\u00a0:</span><br>P = daya radiasi (laju radiasi) (watt = joule/s)<br><span>e = emisivitas benda\u00a0</span><br>e = 1 \u2192 benda hitam sempurna<br>A = luas permukaan benda (m2)<br>T = suhu (Kelvin)<br>\u03c3 = Konstanta Stefan-Boltzman = 5,67 x 10\u22128<span>\u00a0W/mK</span>4<span>\u00a0<br><br>luas bola = </span>\u03c0r^2 = 0,02^2 .\u03c0\u00a0= 4x10^-4\u03c0<span><br><br>P = eQT4A<br>P = 0,1 . 5,67 x 10^-8. (2000)^4.4x10^-4</span>\u03c0<br>\u00a0\u00a0 = \u00a04 536x10^-8\u03c0<br>\u00a0 \u00a0= 4,536x10^-5\u00a0\u03c0 j/s",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tingkat-intensitas-sebuah-pesawat-jet-pada-jarak-30-m-adalah-1-708",
+            "question": "1. Tingkat intensitas sebuah pesawat jet pada jarak 30 m adalah 140 1.\u00a0Tingkat\r\n intensitas sebuah pesawat jet pada jarak 30 m adalah 140 dB. Berapakah tingkat\r\n intensitasnya pada jarak 300 m?\r\n2.\u00a0Cepat rambat gelombang\r\n seismik pada pada lapisan batuan tertentu adalah2000 m/s. Untuk mengetahui ketebalan lapisan tersebut dinamit diledakkan di\r\n suatu titik di bagian atas lapisan tersebut kemudian sinyal pantul ditangkap di\r\n titik yang lain. Jika jarak antara titik peledakan dan titik tempat sinyal\r\n ditangkap adalah 400 m dan selangwaktu antara peledakan dinamit dan penangkapan\r\n sinyal adalah 0,25 s, tentukan ketebalan lapisan batuan tersebut.\r\n3.\u00a0Sebuah\r\n mobil polisi membunyikan sirene dengan frekuensi fO. Kelajuan\r\n bunyi di udara diam adalah vo, sehingga panjang\r\n gelombangnya jika tidak ada gerak adalah \u03bbo. Jika mobil polisi\r\n tersebut diam sedangkan pengamat bergerak terhadap pengamat besaran apa saja\r\n yang berubah dan apa yang tetap? Jelaskan! Jika mobil polisi yang bergerak\r\n terhadap pengamat sedangkan pengamat diam, besaran apa saja yang berubah dan\r\n apa saja yang tetap? Jelaskan!\r\n4.\u00a0Jika\r\n dia mengayuh papan selancarnya sehingga bergerak dengan kecepatan 2 m/s searah\r\n dengan gelombang laut dia merasakan gelombang laut melaluinya setiap\r\n\r\n12 sekon. Tentukan frekuensi, panjang gelombang dan\r\n kecepatan gelombang laut tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nomer 1 keanya 120 dB<br>TIb = TIa + 10 log n ( r1/r2 )^2<br>TIb = 140 + 10 log ( 30/300 )^2<br>TIb = 140 + 10 (-2)<br>TIb = 120 dB<br><br>kalo nomer 4 keanya <br>untuk melakukan 1 gelombang dibutuhkan waktu 12s<br>berarti f = 1/12 = 0,083<br>panjang gelombang berarti 2m/s . 12 = 24 m<br>v = lamda . f = 24 . 0,083 = 1,992 m/s <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-contoh-tegangan-permukaan-dalam-kehidupan-sehari-hari-182",
+            "question": "Contoh-contoh tegangan permukaan dalam kehidupan sehari-hari !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan permukaan cth:<br>tegangan permukaan pada rel kereta api(pemuaian)<br>pada tali jemuran jika memuai terkena panas<br>tegangan permukaan saat tarik tambang yang daerah gayanya merata<br><br><br><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-aluminium-dengan-panjang-rusuk-10-cm-dipanaskan-seh-518",
+            "question": "Sebuah kubus aluminium dengan panjang rusuk 10 cm dipanaskan, sehingga sehunya naik 10 derajat celsius menjadi 30 derajat celcius dan koefisien muai panjang 24 x 10^-6 ( dua puluh empat dikali sepuluh pangkat negatif enam) hitunglah    a. pertambahan volume kubs\r\nb. perubahan massa jenis dinyatakan dalam persan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal: fisika-pemuaian<br><span>Kelas:\u00a0<br></span><br>Pembahasan:<br><br>Mencari:<br>A. Pertambahan volume kubus setelah dipanaskan<br>B. Mencari perubahan massa jenis dalam bentuk %<br><br><span>Jawaban rinci ada dalam foto.</span>",
+                    "attachments": [
+                        "answer-attachments/sebuah-kubus-aluminium-dengan-panjang-rusuk-10-cm-dipanaskan-seh-518-1.jpg",
+                        "answer-attachments/sebuah-kubus-aluminium-dengan-panjang-rusuk-10-cm-dipanaskan-seh-518-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-massanya-8kg-terletak-pada-lantai-mendatar-yang-lici-457",
+            "question": "sebuah benda massanya 8kg terletak pada lantai mendatar yang licin. benda dipengaruhi gaya mendatar ke\u00a0kanan F1\u00a0= 150 N, dan ke kiri F2 = 80 N. setelah bergerak 8 sekon, gaya F1 dihilangkan. kapan dan dimana gerak benda akan membalik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Gaya<br><span>Kelas: X SMA\u00a0</span><br><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/sebuah-benda-massanya-8kg-terletak-pada-lantai-mendatar-yang-lici-457-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pengaruh-suhu-fluida-terhadap-tegangan-permukaannya-jelaskan-971",
+            "question": "Pengaruh suhu fluida terhadap tegangan permukaannya, jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor yang mempengaruhi tegangan permukaan yaitu :<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Suhu<br>Tegangan permukaan menurun dengan meningkatnya suhu, karena meningkatnya energi kinetik molekul.\u00a0</span></span><span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span>Zat terlarut (solute)</span>Keberadaan zat terlarut dalam suatu cairan akan mempengaruhi tegangan permukaan. Penambahan zat terlarut akan meningkatkan viskositas larutan, sehingga tegangan permukaan akan bertambah besar. Tetapi apabila zat yang berada dipermukaan caiaran membentuk lapisan monomolekular, maka akan menurunkan tegangan permukaan. Zat tersebut biasa disebut dengan surfaktan.<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Surfaktan<br>Surfaktan (surface active agents), zat yang dapat mengaktifkan permukaan, karena cenderung untuk terkonsentrasi pada permukaan atau antar muka. Surfaktan mempunyai orientasi yang jelas sehingga cenderung pada rantai lurus. Sabun merupakan salah satu contoh dari surfaktan.</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-koefisin-restitusi-pada-a-tumbukan-lentingelas-398",
+            "question": "Tuliskan rumus koefisin restitusi pada :     a. tumbukan lenting(elastis) sempurna\r\nb. tumbukan lenting(elastis) sebagian\r\nc. tumbukan lbola dengan lantai",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus koefisien restitusi untuk tumbukan di bidang mendatar adalah <br><br>[tex]e=- \\frac{v&#039;_{2}-v&#039;_{1}}{v_{2}-v_{1}} [/tex] <br><br>(a). Untuk <span>tumbukan lenting (elastis) sempurna<br>\u00a0\u00a0 \u00a0 \u00a0  e = 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga v&#039;\u2082 - v&#039;\u2081 = v\u2081 - v\u2082<br><br>(b). </span><span>tumbukan lenting (elastis) sebagian</span><span><br>\u00a0\u00a0 \u00a0 \u00a0 0 &lt; e&lt; 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga rumus koefisien restitusi di atas akan memiliki nilai sesuai nilai e\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 di soal\u00a0 \u00a0 \u00a0 <br><br>(c). tumbukan bola dengan lantai<br>\u00a0\u00a0 \u00a0 \u00a0 rumus koefisien restitusinya adalah <br>\u00a0\u00a0 \u00a0 \u00a0  [tex]e= \\sqrt{ \\frac{h&#039;}{h} } [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0 dengan h = ketinggian sebelum memantul (mengarah ke bawah)<br>\u00a0\u00a0 \u00a0 \u00a0 dan h&#039; = ketinggian sesudah pantulan</span> <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310",
+            "question": "dua buah benda digantung seperti pada gambar dan sistem dalam keadaan setimbang.Massa katrol M=2 kg dan jari-jarinya R= 10 cm serta sumbu putar katrol tanpa gesekan. Tentukan massa beban m1,jika massa beban m2=20 kg dan percepatan gravitasi di tempat itu g=10 m/s\u00b2!",
+            "attachments": [
+                "question-attachments/dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<strong>mungkin jawabannya 5</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-kegunaan-gelombang-dan-bunyi-pada-kehidupan-sehari-hari-369",
+            "question": "Sebutkan kegunaan gelombang dan bunyi pada kehidupan sehari-hari manusia!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)\u00a0\u00a0 Aplikasi Ultrasonik. Gelombang ultrasonik dapat dimanfaatkan untuk berbagai macam keperluan antara lain:\n\n\n\n\n<span>a)\u00a0\u00a0\u00a0\u00a0\u00a0 kacamata tunanetra, dilengkapi \ndengan alat pengirim dan penerima ultrasonik memanfaatkan pengiriman dan\n penerimaan ultrasonik. Perhatikan bentuk kaca tuna netra pada gambar berikut.</span>\n\nb)\u00a0\u00a0\u00a0\u00a0\u00a0 mengukur kedalaman laut, untuk \nmenentukan kedalaman laut (d) jika diketahui cepat rambat bunyi (v) dan \nselang waktu (t), pengiriman dan penerimaan pulsa adalah :\n<span>c)\u00a0\u00a0\u00a0\u00a0\u00a0 alat kedokteran, misalnya pada pemeriksaan USG (ultrasonografi). Sebagai contoh, scaning ultrasonic dilakukan dengan menggerak-gerakan probe di sekitar kulit perut ibu yang hamil akan menampilkan gambar sebuah janin di layar monitor.\n Dengan mengamati gambar janin, dokter dapat memonitor pertumbuhan, \nperkembangan, dan kesehatan janin. Tidak seperti pemeriksaan dengan \nsinar X, pemeriksaan ultrasonik adalah aman (tak berisiko), baik bagi \nibu maupun janinnya karena pemerikasaan atau pengujian dengan ultrasonic\n tidak merusak material yang dilewati, maka disebutlah pengujian \nultrasonic adalah pengujian tak merusak (<span>non destructive testing</span>, disingkat NDT). Tehnik scanning ultrasonic juga digunakan untuk memeriksa hati (apakah ada indikasi kanker hati atau tidak) dan otak. Pembuatan perangkat ultrasound\n untuk menghilangkan jaringan otak yang rusak tanpa harus melakukan \noperasi bedah otak. \u201cDengan cara ini, pasien tidak perlu menjalani \npembedahan otak yang berisiko tinggi. Penghilangan jaringan otak yang \nrusak bisa dilakukan tanpa harus memotong dan menjahit kulit kepala atau\n sampai melubangi tengkorak kepala.</span>\n\u00a0\n(2)\u00a0\u00a0 Manfaat cepat rambat bunyi dalam kehidupan sehari-hari yaitu:\na)\u00a0\u00a0\u00a0\u00a0\u00a0 Cepat rambat gelombang bunyi juga dimanfaatkan oleh para nelayan untuk mengetahui siang dan malam.\nb)\u00a0\u00a0\u00a0\u00a0\u00a0 Pada malam hari kita mendengar \nsuara lebih jelas daripada siang hari karena kerapatan udara pada malam \nhari lebih rapat dibandingkan dengan siang hari.\n\u00a0\n(3)\u00a0\u00a0 Resonansi sangat bermanfaat dalam kehidupan sehari-hari.\na)\u00a0\u00a0\u00a0\u00a0\u00a0 Pemanfaatan resonansi pada alat musik seperti seruling, kendang, beduk dan lainnya.\n(4)\u00a0\u00a0 Manfaat pemantulan bunyi dalam kehidupan sehari-hari, antara lain:\na)\u00a0\u00a0\u00a0\u00a0\u00a0 menentukan kedalaman laut\nPada dinding kapal bagian bawah dipasang\n sebuah sumber getaran (osilator). Di dekat osilator dipasang alat \npenerima getaran (hidrofon). Jika waktu getaran (bunyi) merambat (t) \nsekonuntuk menempuh jarak bolak-balik yaiu 2 L meter, maka cepat rambat \ndapat dihitung sebagai berikut.\n\nDi mana:\nv = cepat rambat bunyi (m/s)\nL = dalamnya laut (m)\nt = waktu (t)\nb)\u00a0\u00a0\u00a0\u00a0\u00a0 melakukan survei geofisika\nmendeteksi, menentukan lokasi dan \nmengklasifikasikan gangguan di bumi atau untuk menginformasikan struktur\n bumi, mendeteksi lapisan batuan yang mengandung endapan minyak\n<span>c)\u00a0\u00a0\u00a0\u00a0\u00a0 prinsip pemantulan ultrasonik dapat digunakan untuk mengukur ketebalan pelat logam, pipa dan pembungkus logam yang mudah korosi (karat).</span>\nd)\u00a0\u00a0\u00a0\u00a0 Mendeteksi retak-retak pada struktur logam\n<span>Untuk mendeteksi retak dalam struktur logam atau beton digunakan scanning ultrasonic\n inilah yang digunakan untuk memeriksa retak-retak tersembunyi pada \nbagian-bagian pesawat terbang, yang nanti bisa membahayakan penerbangan \npesawat. Dalam pemerikasaan rutin, bagian-bagian penting dari pesawat \ndi-scaning secara ultrasonic. Jika ada retakan dalam logam, \npantulan ultrasonic dari retakan akan dapat dideteksi. Retakan ini \nkemudian diperiksa dan segera diatasi sebelum pesawat diperkenankan \nterbang.</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Manfaat gelombang : Untuk mengukur kedalaman perairan atau suatu jurang<br>Manfaat bunyi : Agar bisa didengar (bila tidak ada yang namanya bunyi/suara, apa yang bisa kita dengar).<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-dalam-sebuah-tabung-gelas-terdapat-zat-cair-setinggi-10-cm-948",
+            "question": "1. Di dalam sebuah tabung gelas terdapat zat cair setinggi 10 cm. Tekanan air pada dasar tabung adalah 1200 N/m2. Jika g = 10 m/s2. Abaikan tekanan udara. Berapa massa jenis zat cair ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketinggian zat cair (h) = 10 cm = 0,1 meter<br>Tekanan (P) air pada dasar tabung = 1200 N/m2 <br>Percepatan Gravitasi (g) = 10 m/s2<br>\nDitanya :<br>Massa Jenis zat cair ?<br>\nJawab :<br>P =\u00a0 rho . g .h<br>1200N/m\u00b2= rho (10m/s\u00b2) (0,1m)<br>1200N/m\u00b2= rho (1m\u00b2/s\u00b2)<br>rho = 1200 : 1 = 1200 kg/m\u00b3<br>\u00a0Massa Jenis zat cair adalah 1200 kg/m3.<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

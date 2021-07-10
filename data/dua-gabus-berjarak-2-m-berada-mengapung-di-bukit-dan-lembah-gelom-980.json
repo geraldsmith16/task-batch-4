@@ -1,0 +1,144 @@
+{
+    "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "di-depan-cermin-cekung-yang-titik-fokusnya-10-cm-diletakkan-sebua-739",
+            "question": "di depan cermin cekung yang titik fokusnya 10 cm diletakkan sebuah benda x, agar bayangan benda x berukuran 2 kali lebih besar dari nyata, benda harus diletakkan ..... dari cermin.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : f = 10 cm\u00a0  ; s&#039; = 2s <br>Dit : s = ...<br>Jawab : <br>1/s = 1/f - 1/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-pegas-tergantung-beban-yaang-massanya-1kg-pegas-ters-566",
+            "question": "pada sebuah pegas tergantung beban yaang massanya 1kg, pegas tersebut bertambah panjang 5cm. hitunglah energi potensial pegas! berpa energi potensial pegas jika bebannya menjadi 2,5 kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6.5 semoga betul jangan lupa di terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui : <br>m = 1 kg<br>g = 10m/s\u00b2<br>\u0394x = 5cm = 5\u00d7[tex] 10^{-2} [/tex] m<br>ditanya : Ep<br><br>F = k . \u0394x<br>m . g = k . \u0394x<br>1 . 10 = k . 5\u00d7[tex] 10^{-2} [/tex]<br>k = 10/5\u00d7[tex] 10^{-2} [/tex]<br>k = 200 N/m<br><br>Ep = <u>1\u00a0</u> <u> </u>\u00d7 k \u00d7 \u0394x\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>Ep = 1/2 \u00d7 200 \u00d725 \u00d7[tex] 10^{-4} [/tex]<br>Ep = 2500 x [tex] 10^{-4} [/tex]<br>Ep = 0,25 joule<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-4-kg-ditembak-dengan-sebutir-peluru-bermass-903",
+            "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-berjalan-lurus-2-m-kebarat-kemudian-belok-ke-selata-114",
+            "question": "seorang anak berjalan lurus 2 m kebarat, kemudian belok ke selatan sejauh 6 m, dan belok lagi ketimur sejauh 10 m. perpindahan yang dilakukan anak tersebut dari posisi awal adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 barat = 2 meter<br>selatan\u00a0 =\u00a0 6 meter<br>timur = 10 meter<br><br>\u00a0\u00a0 \u00a0 .\u00a0 \u00a0 \u00a0 \u00a0 &lt;= 2meter\u00a0 \u00a0\u00a0 .(titik awal)<br>\u00a0\u00a0 \u00a0 <br><br>\u00a0<br>\u00a0\u00a0 selatan<br>\u00a0\u00a0  6 meter<br><br><br><br>\u00a0\u00a0 \u00a0\u00a0 .\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  10 meter  =&gt;\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  .(titik akhir)<br><br>hubungkan titik awal dengan titik akhir, lalu cari dengan phytagoras...<br>a\u00b2 + b\u00b2 = c\u00b2<br>6\u00b2 + 8\u00b2 = c\u00b2<br>36 + 64 = c\u00b2<br>c = \u221a100 = 10<br><br>semoga membantu~ <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b 2m &lt;-- a<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 |\u00a0 \u00a0\u00a0 |<strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 | <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 |\u00a0 6m <strong>\\</strong>\u00a0 \u00a0 Perpindahan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 |\u00a0\u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  |\u00a0 \u00a0\u00a0 | \u00a0\u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 | \u00a0 \u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0  c\u00a0 \u00a0 ---------&gt; 10 m d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -8 m-<br>Maka, perpindahannya.. \u221a6\u00b2 + 8\u00b2<br>= \u221a100<br>= 10 m<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-sumber-bunyi-dengan-frekuensi-640-hz-bergerak-mendekati-se-839",
+            "question": "Sebuah sumber bunyi dengan frekuensi 640 Hz bergerak mendekati seorang pengamat dengan kecepatan 20 m/s. Jika cepat rambat bunyi di urdara sebesar 340 m/s dan pengamat bergerak menjauhi searah sumber bunyi dengan kecepatan 10 m/s, maka frekuensi bunyi yang didengar oleh pangamat adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: fs=640 Hz\nvs (sumber bunyi mendekati pengamat jadi (-))=-20m/s\nv=340 m/s\nvp (pengamat menjauhi sumber bunyi (-))=-10 m/s\nDit: fp=.......?\nrumus: fp= (v-vp) / (v-vs) \u00d7fs\nfp= (340m/s -10m/s) / (340m/s -20m/s) \u00d7 640 Hz\nfp= 330m/s / 320m/s \u00d7 640 Hz\nfp= 211200m/s.Hz / 320 m/s\nfp= 660 Hz",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ini merupakan pertanyaan dari efek Doppler\u00a0<br>Efek doppler sebenarnya adalah perbandingan antara frekuensi dan kecepatan. Tidak usah mengafalkan syarata vp dan vs, cukup gambarkan kondisi soal, dengan ctatan pendengar harus disebelah kiri. Lalu lihat arah pergerannya, ke kanan berarti positif. (Anang, 2012)<br><br>Kondisi nya adalah\u00a0<br><br>&lt;-- P \u00a0 \u00a0&lt;--- S\u00a0<br>Perhatikan arah gerak pengamat dan sumber bunyi ke kiri, maka nilai kecepatan pengamat dan sumber bunyi kita tulis dengan tanda negatif\u00a0<br><br>[tex]f_p =  \\frac{v-v_p}{v-v_s}f_s [/tex]<br>[tex]f_p = (\\frac{340-10}{340-20})*640 = 660Hz[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293",
+            "question": "Dalam sebuah mesin pengangkat mobil hidrolik, jari-jari piston kecil sama dengan 1,20 cm, sedangkan jari-jari piston besar 15,0 cm (massa piston kecil bisa diabaikan, sedangkan massa piston besar 350 kg). Berapakah gaya F yang dibutuhkan untuk menahan mobil bermassa 1720 kg,    a) ketika kedua piston pada ketinggian yang sama\r\n b) ketika permukaan atas kedua piston seperti pada gambar\r\n Zat cair yang digunakan adalah minyak hidrolik dengan massa jenis = 864 kg/m3",
+            "attachments": [
+                "question-attachments/dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a) F\u2081\u00f7A\u2081=F\u2082\u00f7A\u2082 \u00a0 \u00a0F\u2082 merupakan berat mobil+berat piston<br>\u00a0 \u00a01\u00f7([tex] \\pi [/tex].1,2\u00b2) = (3500+17200)\u00f7([tex] \\pi [/tex].15\u00b2)<br>\u00a0 \u00a01\u00f74,5216\u00a0=\u00a020700\u00f7706,5<br>\u00a0 \u00a01 Pa = 132,48 Pa\u00a0merupakan perbandingan P\u2081 = P\u2082<br>\u00a0 \u00a0F\u2082\u00f7A\u2082 =\u00a020700\u00f7706,5 = 29,3 Pa<br>\u00a0 \u00a01 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)\u00a0= 132,48 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)<br>\u00a0 \u00a00,22 Pa= 29,3 Pa<br>\u00a0 \u00a0F\u2081 = P\u2081 \u00d7\u00a0A\u2081 = 0,22\u00a0\u00d7\u00a04,5216 = 0,99 N diberikan kepada F\u2081 bila ketinggian \u00a0 \u00a0 \u00a0\u00a0Piston1\u00a0dan Piston2 sama<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-saja-yang-digunakan-untuk-membuat-galvanometer-dan-m-432",
+            "question": "jelaskan apa saja yang digunakan untuk membuat galvanometer dan motor listrik. apa yang diperlukan untuk membuat motor listrik , namun tidak diperlukan dalam pembuatan galvanometer ? mengapa alt tersebut diperlukan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan dan alat membuat motor litrik ;\u00a0<br>-kabel tembaga beremail\u00a0<br>- satu buah maget batang<br>-batery pack<br>-styrofoam<br>- kater<br>-spidol<br>-tusuk gigi<br>alasannya ; alt tersebut harus diperlukan agar buatan motor listrik tersebut jadi sempurna apabila tidak lengkap maka hasilnya akan kurang baik.",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada motor listrik butuh batrai sedangkan pada galvanometer tidak membutuhkan batre. karena sumber listrik dari motor listrik dari batre sedangkan  pada galvanometer sumber listrik dari rangkaian listrik yg di pasang pada galvanometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-ac-massanya-40-kg-dan-panjangnya-3-m-ditumpu-pada-ti-801",
+            "question": "suatu batang ac massanya 40 kg dan panjangnya 3 m ditumpu pada titik a dan b . seorang anak bermassa 25 kg berjalan dari a menuju c . jika jarak ab = 2 m dan percepatan gravitasi 10 m/s2 , berapakh jarak minimum anak tersebut dari titik\u00a0c agar papan tetep seimbang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesalahan soal ..#jarak AC adlah 2 m<br>poros di c<br>\u03b5\u03c4=0<br>0.5*400-250*x=0<br>x=0.2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540",
+            "question": "Lempengan Logam berbentuk persegi dengan ukuran seperti gambar dengan suhu 40 celcius. Tentukan pertambhan luas logam tersebut jika suhunya dinaikkan sampai 160 C (\u03b1 = 25 * 10^-6 / C)\u00a0",
+            "attachments": [
+                "question-attachments/lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]\\triangle{A} = A_0 \\beta T[/tex]<br>[tex]=A_0(2 \\alpha )(T_2-T_1)[/tex]<br>[tex]=(60)^2(2*25*10^{-6})(160-40)\n=21,6 cm^2[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

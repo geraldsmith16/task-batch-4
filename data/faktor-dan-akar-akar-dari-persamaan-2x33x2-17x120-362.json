@@ -1,0 +1,140 @@
+{
+    "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491",
+            "question": "Persamaan garis singgung kurva \r\n\r\nY=x3+2x2+1\r\n\r\n pada titik yg berbasis 1 adalah...",
+            "attachments": [
+                "question-attachments/persamaan-garis-singgung-kurva-yx32x21-pada-titik-yg-berbasis-491-1.docx"
+            ],
+            "answers": [
+                {
+                    "answer": "mna soalnnya.........................................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-dengan-bc-6-cm-tan-a-43-dan-cos-b-1-787",
+            "question": "diketahui segitiga ABC dengan BC = 6 cm, tan A = 4/3 dan cos B= 12/13, maka panjang AC adalah...............................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aturan sinus :\u00a0[tex] \\frac{BC}{sin A} =  \\frac{AC}{sin B} [/tex]<br>sin A =\u00a0[tex] \\frac{4}{5} [/tex] (aturan phytagoras dari tan A)<br>sin B = [tex] \\frac{5}{13} [/tex] (aturan phytagoras dari cos B)<br>maka : \u00a06/{[tex] \\frac{4}{5} [/tex]} = AC/{\u00a0[tex] \\frac{5}{13} [/tex]}<br>6. 5/13 = AC . 4/5<br>AC = 75/26",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-1-1-sin-a-764",
+            "question": "Bentuk sederhana dari \u00a0 1/\u00a01+ sin A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{1+sinA} [/tex]<br>[tex] \\frac{1}{1+sinA} ( \\frac{1-sinA}{1-sinA} )[/tex]<br>[tex] \\frac{1-sinA}{1-sin^2A} [/tex]<br>[tex] \\frac{1-sinA}{cos^2A} [/tex]<br>[tex]sec^2A-secAtanA[/tex]<br>[tex]secA(secA-tanA)[/tex]<br>gitu bukan maksudnya?<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sederhanakanlah-bentuk-persamaan-berikut-ini-acos-xcosec-xta-558",
+            "question": "1.sederhanakanlah bentuk persamaan berikut ini\r\na.cos x.cosec x.tan x\r\nb.cos x.cotan x + sin x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. cos x.cosec x.tan x<br><br>=&gt; [tex] cos x .\\frac{1}{sin x} .\\frac{sin x}{cos x} = 1[/tex]<br><br>b. cos x.cotan x + sin x<br><br>=&gt; [tex]cos x. \\frac{cos x}{sin x} + sin x[/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x}{sin x} + \\frac{sin^{2}x}{sin x} [/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x + sin^{2}x}{sin x}  [/tex]<br><br>=&gt; [tex]\\frac{1}{sin x} [/tex]<br><br>=&gt; cosec x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894",
+            "question": "Himpunan penyelesaian dari 36 log (x-4) + 36 log (x+1) &lt; 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2</strong> adalah {x | 4 &lt; x &lt; 5, x \u2208 R}. Logaritma merupakan salah satu invers dari perpangkatan. Definisinya\n</p><p><strong>\u1d43log b = n </strong>artinya <strong>a\u207f = b\n</strong></p><p>dengan syarat <strong>a &gt; 0, b &gt; 0, a \u2260 1\n</strong></p><p><u>Sifat-sifat logaritma</u>\n</p><ul><li>\u1d43log bc = \u1d43log b + \u1d43log c\n</li><li>\u1d43log (b/c) = \u1d43log b \u2013 \u1d43log c\n</li><li>\u1d43log b\u207f = n . \u1d43log b\n</li><li>[tex]^{a^{m}}log\\:b^{n} = \\frac{n}{m}[/tex] \u1d43log b \u21d2 [tex]^{a^{n}}log\\:b^{n}[/tex] = \u1d43log b\n</li><li>\u1d43log b = [tex]\\frac{^{c}log\\:b}{^{c}log\\:a}[/tex] \u21d2 \u1d43log b = [tex]\\frac{1}{^{b}log\\:a}[/tex]\n</li><li>\u1d43log b . \u1d47log d . \u1d48log n = \u1d43log n\n</li><li>[tex]a^{^{a}log\\:b} = b[/tex]\n</li><li>\u1d43log a = 1\n</li><li>\u1d43log 1 = 0\n</li><li>\u00b9\u2070log b = log b\n</li></ul><p><strong>Pertidaksamaan logaritma\n</strong></p><p>\u1d43log f(x) &gt; \u1d43log g(x)\n</p><ul><li>Jika 0 &lt; a &lt; 1 maka <strong>f(x) &lt; g(x)</strong> ==&gt; (Tanda &gt; berubah menjadi &lt;)\n</li><li>Jika a &gt; 1 maka <strong>f(x) &gt; g(x) </strong>==&gt; (Tanda &gt; tetap, tidak berubah)\n</li><li>Syarat: <strong>f(x) &gt; 0, g(x) &gt; 0\n</strong></li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p></p><p>Syarat: \u00a0</p><ul><li>1) (x \u2013 4) &gt; 0 \u21d2 <strong>x &gt; 4\n</strong></li><li>2) (x + 1) &gt; 0 \u21d2 <strong>x &gt; \u20131\n</strong></li></ul><p></p><p><strong>Penyelesaian\n</strong></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p>\u00b3\u2076log (x \u2013 4)(x + 1) &lt; \u00b3\u2076log [tex]36^{\\frac{1}{2}}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 + x \u2013 4x \u2013 4) &lt; \u00b3\u2076log [tex]\\sqrt{36}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 \u2013 3x \u2013 4) &lt; \u00b3\u2076log 6\n</p><p>(x\u00b2 \u2013 3x \u2013 4) &lt; 6\n</p><p>x\u00b2 \u2013 3x \u2013 10 &lt; 0\n</p><p>(x \u2013 5)(x + 2) &lt; 0\n</p><p>x = 5 atau x = \u20132\n</p><p></p><p><u>Garis bilangan\n</u></p><p>++++++ (\u20132) <strong>----------</strong> (5) ++++++\n</p><p>Karena kurang dari nol, maka ambil daerah yang negatif (antara \u20132 dan 5)\n</p><p></p><p><u>Irisan garis bilangan dengan syarat\n</u></p><p>.......... (\u20132) <strong>xxxxxxxxxxxxxxxxxx</strong> (5) .............\n</p><p>1) ............................. (4) <strong>xxxxxxxxxxxxxxxxx\n</strong></p><p>2) ...............( \u20131) <strong>xxxxxxxxxxxxxxxxxxxxxxxx\n</strong></p><p>Jadi irisannya adalah antara 4 dan 5, sehingga <strong>himpunan penyelesaiannya</strong> adalah:\n</p><p><strong>HP = {x | 4 &lt; x &lt; 5, x \u2208 R}\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang pertidaksamaan logaritma untuk 0 &lt; a &lt; 1\n</p><p>https://brainly.co.id/tugas/14458200\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel</strong> : Matematika Peminatan\n</p><p><strong>Kategori</strong> : Pangkat, Bentuk Akar dan Logaritma\n</p><p><strong>Kode</strong> : 10.2.3\n</p><p></p><p><strong>Kata Kunci</strong> : Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2\n</p>",
+                    "attachments": [
+                        "answer-attachments/himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "35-putaran-ada-berapa-derajat-846",
+            "question": "3/5 putaran ada berapa derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/5 putaran = 216 dejarat",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/5 X 360=216 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

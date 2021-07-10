@@ -1,0 +1,144 @@
+{
+    "question": "Temukan grafik fungsi kuadrat f(x) = 4x2 - 8x +\r\n 3\u00a0 dari grafik fungsi kudrat \u00a0g(x) = 4x2!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f\u00a00\u00a0g =\u00a04(4x^2)^2 - 8(<span>4x^2)</span>\u00a0+3 = 64x (4x^2-1)",
+            "attachments": [
+                "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-x2-5x-6-0-prsamaan-kuadrat-berikut-dengan-cara-f-742",
+            "question": "Selesaikan x^2 - 5x +6 = 0 prsamaan kuadrat berikut dengan cara faktorisasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 - 5x + 6 = 0<br>faktornya adalah : <br>(x - 2)(x - 3) = 0 <br>x - 2 = 0 atau x - 3 = 0<br>x = 2 atau x = 3 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya adalah\u00a0(x-2)(x-3)=0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-bilangan-kuadrat-jika-dibagi-3-maka-kemunkinan-sisanya-bera-782",
+            "question": "Suatu bilangan kuadrat jika dibagi 3 maka kemunkinan sisanya berapa..???    tolong di jelaskan se detail mungkin... oke friend...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> jumlah dua bilangan berpangkat sama ganjil, habis dibagi jumlah bilangan yang dipangkatkan 3</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu bia<br>langan kuadrat dibagi 3 maka kemungkinan sisanya adalah <br>1 atau 0 <br>dibuat tabel aja <br><u>bil kuadrat</u>\u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0<u> sisa setelah dibagi 3 </u><br>4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>16\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 <br>25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>36\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>49\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>64\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>81\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>dst<br>jadi sisa pembagian bil kuadrat oleh 3 secara berurutan adalah <br>1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, ...<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-dari-lim-h-gt0-fxh-fx-h-a-fx-4-381",
+            "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-dibagi-dengan-x-2-sisanya-24-sedangkan-jika-fx-777",
+            "question": "Jika f(x) dibagi dengan (x \u2013 2) sisanya 24, sedangkan jika f(x) dibagi dengan (2x \u2013 3) sisanya 20. Jika f(x) dibagi dengan (x \u2013 2) (2x \u2013 3), sisanya adalah ...    .A. 8x + 8\u00a0\r\nB. 8x \u2212 8\u00a0\r\nC. \u2212 8x + 8\u00a0\r\nD. \u2212 8x \u2212 8\u00a0\r\nE. \u2212 8x + 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakek cara horner niy ,,, kalau buat disini agak sulit<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2)= 24<br>f(3/2)=20<br>2a + b=24<br>3/2a + b = 20 X 2\u00a0 {3a + 2b= 40}<br>baru di elimenasi dapat a=8 dan b=8<br>ax +b = 8x + 8 {a}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-simbol-tak-terdefinisi-dan-tak-terhingga-itu-sama-dan-252",
+            "question": "apakah simbol \"tak terdefinisi\" dan \"tak terhingga\" itu sama? dan bagaimanakah bentuk lambang \"tak terdefinisi\"? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "engga , gak sama ..\nkalo tak terdefini tuh kayak ~/~ hasilnya pasti kita gak ketahui ~ \ntapi kalo tak terhingga tuh kayak 0/0 = 0 kalo kita mau tulis 1 juga bisa , mau tulis 2 juga dst",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andra-megerjakan-soal-ipa-selama-1-jam-36-menit-43-detik-dan-mate-528",
+            "question": "andra megerjakan soal IPA selama 1 jam 36 menit 43 detik dan matematika selama 1 jam 48 menit 29 detik. waktu yang dibutuhkan andra seluruhnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti ditambahka jawabnnya 2jam \u00a025 menit 12 detik<br><br>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "2jam 25 menit 12 detik....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "Menentukan besar sudut penyiku dari 10 derajat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sudut penyikunya = sudut siku-siku - 10&#039; = 90&#039; - 10&#039; = 80&#039;<br>maka sudut penyikunya adalah 80 derajat<br><br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "90 derajat - 10 derajat = 80 derajat.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-dengan-panjang-plebar-ltinggi-t-dan-volume-vjika-548",
+            "question": "Sebuah balok dengan panjang p,lebar l,tinggi t dan volume v.jika panjang balok tersebut di perpanjang 20% ,lebarnya diperpanjang 50% serta tingginya bertambah 20% dari ukuran semula maka pertambahan volume balok yang terbentuk adalah........    a.60&amp;\r\n b.80%\r\n c .116%\r\n d.180%\r\n e.216%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Misal\u00a0<br>p\u00a0=\u00a0l\u00a0=\u00a0t\u00a0=\u00a010\u00a0cm<br>Volume awal = 1000\u00a0cm\u00b3<br>p + 20 % = 10 + (10 x 20\u00a0/\u00a0100) = 12 cm<br>l\u00a0\u00a0+ 50 % \u00a0= 10 + ( 10 x 50/100) = 15 cm<br>t \u00a0+ 20 % \u00a0= 10 + (10 x 20/100) = 12 cm<br>volume akhir = 12 x 15 x 12\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 2160 cm\u00b3<br>pertambahan volume = 2160 -\u00a01000\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 1160 cm\u00b3<br>persentase = 1160\u00a0/\u00a01000 x 100%\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 116 %</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-suku-ke-n-deret-aritmetika-jika-diketahui-suku-pertama-a-506",
+            "question": "Carilah Suku ke-n deret aritmetika jika diketahui suku pertama (a) dan\u00a0beda (b) \u00a0berikut    a.) a=\u00a09, b= -3 , dan n = 24\r\nb.) a=\u00a012, b= -7 , dan n = 8\r\nc.) a= -4, b= 4 dan n = 100\r\nd.) a=\u00a02 , b=9 dan n=1\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 Un = a + (n-1)b<br>Un = 9 + (n-1)(-3)<br>Un = 9 - 3n + 3<br>Un = 11 - 3n<br>n = 24<br>U24 = 11- 3.24 = 11 - 72 = - 61<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)a=9, b=3, n=24 jadi Un=24<br>Un=a+(n-1)b<br>24=9+(24-1)3<br>\u00a0\u00a0 =9+(23)3<br>\u00a0\u00a0 =78<br><span>b.) a=12, b=7, n=8 jadi Un=8<br>Un=a+(n-1)b<br>\u00a08= 12+(8-1)7<br>\u00a0\u00a0  =12+49<br>\u00a0\u00a0 =61<br>c) a=4, b=4, n=100 jadi Un=100<br>Un=a+(n-1)b<br>100=4+(100-1)4<br>\u00a0\u00a0 \u00a0 =4+396<br>\u00a0\u00a0 \u00a0 =400<br>d) a=2, b=9, n=15 jadi Un=15<br>Un=a+(n-1)b<br>15=2+(15-1)9<br>\u00a0\u00a0\u00a0 = 2+126<br>\u00a0\u00a0  =128<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajat-jika-34-putaran-619",
+            "question": "Berapa derajat jika 3/4 putaran?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 3/4*360=270\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "360 x 3/4 = 270 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-32-siswa-kelas-ixa-tercatat-15-orang-gemar-matematika-17-or-361",
+            "question": "Dari 32 siswa kelas IXA    tercatat 15 orang gemar matematika, 17 orang gemar IPA, dan 5 orang gemar\r\n keduanya. Banyaknya siswa yang tidak gemar matematika maupun IPA adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gemr MTK = 15 org<br>gmar IPA= 17 org<br>gmar kduax = 5 org<br>seluruh siswa = 32<br>tdk gemar keduax = 32- ((15+17)-5)) = 32-27 = 5 org",
+                    "attachments": []
+                },
+                {
+                    "answer": "10 orang\u00a0<br>karena <br>15 orang mtk - 5 orang gemar keduanya = 10 orang gemar mtk<br>17 orang ipa - 5 orang gemar keduanya = 12 orang gemar ipa<br><br>jadi , 22 + 5 orang yang menyukai keduanya = 27\u00a0orang yang menyukai ipa dan mtk\u00a0<br>32 jumlah siswa IXA - 27 orang yang menyukai ipa dan mtk = <strong>5\ufeff</strong><strong>\u00a0orang yang tdk menyukai keduanya</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sekelompok-siswa-35-siswa-gemar-bermain-basket-23-siswa-ge-817",
+            "question": "dari sekelompok siswa, 35 siswa gemar bermain basket, 23 siswa gemar bermain voli, 9 siswa gemar bermain kedua cabang olah raga tersebut dan7 siswa tidak menyukai keduanya . berapa jumlah siswa dalam kelompok tersebut ? tentukan dalam himpunan matematika beserta diagram venn nya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>himpunan</strong> adalah kumpulan benda atau obyek yang memiliki definisi yang jelas atau dengan kata lain memiliki batasan-batasan yang jelas atau kumpulan benda ataupun obyek yang anggota\"nya dapat didefinisikan secara jelas , sehingga antara satu orang dengan yang lain tdk akan terjadi multi tafsir.</p><p><strong>Irisan Himpunan</strong></p><p>Irisan himpunan adalah anggota himpunan yang menjadi anggota himpunan satu sekaligus menjadi anggota himpunan yang lain </p><p>Irisan Himpunan dilambangkan dengan \u2229</p><p><strong>Gabungan Himpunan</strong></p><p>Gabungan himpunan adalah semua anggota atau obyek yang menjadi anggota satu dan anggota himpunan yang lain disebutkan jadi 1</p><p>Gabungan Himpunan dilambangkan dengan \u222a</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><h3>Pembahasan</h3><p>diketahui:</p><p>35 siswa gemar bermain basket ................................. n(A)</p><p>23 siswa gemar bermain voli ....................................... n(B)</p><p>9 siswa gemar bermain kedua cabang olah raga \u00a0. n(A\u2229B) </p><p>7 siswa tidak menyukai keduanya .............................. n(A\u222aB)&#039;</p><p>ditanya, berapa jumlah siswa dalam kelompok tersebut ? n(S)</p><p>jawab:</p><p>gunakan rumus</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><p> \u00a0 \u00a0 \u00a0 = 35 + 23 - 9 + 7</p><p> \u00a0 \u00a0 \u00a0 = 56 siswa</p><h3>Pelajari Lebih lanjut</h3><p>tentang himpunan dapat juga disimak di</p><p>brainly.co.id/tugas/4938280</p><p>brainly.co.id/tugas/1477355</p><p>brainly.co.id/tugas/697707</p><p>perbedaan himpunan dan kumpulan dapat disimak di</p><p>brainly.co.id/tugas/11791002</p><p>brainly.co.id/tugas/693631</p><p>brainly.co.id/tugas/3635184</p><p>brainly.co.id/tugas/101649</p><h3>==============================================</h3><h3>Detail Jawaban</h3><p><strong>kelas</strong> : 7</p><p><strong>mapel</strong> : matematika</p><p><strong>kategori</strong> : himpunan</p><p><strong>kata kunci </strong>; irisan dan gabungan</p><p><strong>kode</strong> : 7.2.1</p><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-todong-memiliki-sebuah-mobil-box-pengangkut-barang-dengan-day-858",
+            "question": "Pak todong memiliki sebuah mobil box pengangkut barang dengan daya angkut maksimal 1 ton.berat pak todong adalah 50kg dan dia akan mengangkut kotak barang yg setiap kotak beratnya 25kg.    A. Berapakah kotak paling banyak dpt di angkut pak todung dalam sekali pengangkutan??\r\n Pliss jawab:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 ton=1000kg<br>brt pak todong=50kg<br>brt kotak=25kg<br>1000kg-50kg=950<br>banyak kotak=950:25=38<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-peternak-mempunyai-persediaan-makanan-untuk-30-ekor-kambi-450",
+            "question": "Seorang peternak mempunyai persediaan makanan untuk 30 ekor kambing selama 15 hari . Jika ternak itu di jual 5 ekor , persediaan makanan itu akan habis dalam waktu ....Hari    A . 16\r\nB . 14\r\nC . 18\r\nD . 20 ? Bantuin MTK nih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong></strong><strong>Kelas : 6<br>Mapel : Matematika<br>Kategori : Perbandingan Senilai dan Berbalik Nilai<br>Kata kunci : persediaan makanan, perbandingan berbalik nilai<br>Kode : 6.2.9 (</strong><strong>Kelas 6 Matematika Perbandingan Senilai dan Berbalik Nilai)<br><br><br></strong><strong>Pembahasan :<br></strong>Pada\n soal, diketahui bahwa seorang peternak mempunyai persediaan makanan untuk 30 ekor kambing yang akan habis dalam waktu 15 hari, kemudian 5 ekor kambing tersebut dijual. Lalu ditanyakan waktu yang diperlukan sampai persediaan makanan tersebut habis.<br><strong><br></strong>Pada kejadian ini, jika jumlah kambing berkurang, maka tentunya persediaan makanan akan habis lebih lama dari sebelumnya. Maka berlaku Perbandingan Berbalik Nilai, karena sesuai \ndengan sifat dari Perbandingan Berbalik Nilai yaitu jika variabel suatu \nkejadian berkurang, maka variabel yang lainnya akan bertambah.<br><strong><br>Perbandingan Berbalik Nilai<br></strong>Kita misalkan variabel atas kejadian diatas sebagai berikut :<br><strong></strong>Jumlah kambing = a<br>Waktu sampai persediaan habis = b<br><br><strong>Rumus :</strong><br><strong>a1 / b2 = a2 / b1<br></strong><br>Penyelesaian :<br>Diketahui :<br>Jumlah kambing pada kejadian awal (a1) = 30 ekor<br>Waktu sampai persediaan habis pada kejadian awal (b1) = 15 hari<br>Jumlah kambing pada kejadian berikutnya (a2) = 30 ekor - 5 ekor = 25 ekor<br><br>Ditanyakan :<br>Waktu sampai persediaan habis pada kejadian berikutnya (b2)<br><br>Jawaban :<br>a1 / b2 = a2 / b1<br>30 / b2 = 25 / 15<br>30 / b2 = (25 : 5) / (15 : 5)<br>30 / b2 = 5 / 3<br>5.b2 = 3 x 30<br>5.b2 = 90<br>b2 = 90 : 5<br>b2 = 18<br><br><strong>Jadi, jika kambing dijual 5 ekor, persediaan makanan akan habis dalam waktu 18 hari (Opsi C)</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-belah-ketupat-724",
+            "question": "Rumus belah ketupat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X d1 X d2 <br>d1 = diagonal 1<br>d2 = diagonal 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L= 1/2.d1.d2<br>K= 4 x sisi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-4-rak-telur-dengan-harga-telur-rp2100000-tiap-rak-658",
+            "question": "ibu membeli 4 rak telur dengan harga telur rp.21.000,00 tiap rak.tiap rak berisi 30 butir telur.kemudian ibu menjual kembali dan setiap satu butir telur mendapatkan keuntungan rp100,00 berapakah harga jual telur seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 rak = 30 butir telur \u00d7 4 rak = 120 butir telur<br>1 rak = rp 21.000 \u00d7 4 rak = rp84.000<br>- keuntungan 1 butir telur = rp100 \u00d7 120 butir =rp12.000<br>- harga jual telur seluruhnya rp84.000 + rp12.000 = rp96.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4 rak telur rp.21.000,00<br>harga 1 biji telur =21.000,00:30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 rp.700,00<br>keuntungan rp.100,00<br>hara jual telur seluruhnya=rp.700,00+rp.100,00*30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =rp.800,00*30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =rp.24000,00<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

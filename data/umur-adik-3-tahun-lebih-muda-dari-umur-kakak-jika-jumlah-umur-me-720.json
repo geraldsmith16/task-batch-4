@@ -1,0 +1,140 @@
+{
+    "question": "Umur adik 3 tahun lebih muda dari umur kakak. jika jumlah umur mereka 19 tahun. tentukan umur adik",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Misalkan, umur kakak = K<br>Umur adik berarti, K - 3<br><br>Karena jumlah umur mereka = 19 tahun.<br>Maka, K + K - 3 = 19 tahun<br>2 K = 22 tahun<br>K = 11 tahun<br><br>Jadi, adik = K -3 = 11 -\u00a03 = 8",
+            "attachments": []
+        },
+        {
+            "answer": "Adik = K - 3<br>Jumlah umur mereka : A + K = 19<br>A ?<br>A + K = 19<br>(K - 3) + K = 19<br>2K - 3 = 19<br>2K = 19 + 3<br>K = 22 : 2<br>K = 11<br><br>Adik : K - 3 =&gt; 11 - 3 = 8<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-mencari-rasio-dari-suatu-barisan-geometri-696",
+            "question": "Cara mencari rasio dari suatu barisan geometri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-75-1448-27-6-2-adalah-sama-116",
+            "question": "Hasil dari \u221a75 + 1/4\u221a48 - \u221a27 + \u221a6 \u00d7\u221a2 adalah ...\r\nsama caranya yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00a0\u221a75 + 1/4\u221a48 - \u221a27 + \u221a6 \u00d7\u221a2\u00a0<br>=</span>\u221a25.3 + 1/4\u221a16.3-\u00a0\u221a9.3 + \u221a4.3<br>=5\u221a3 + 1/4.4\u221a3 \u00a0\u00a0- \u00a0 \u00a0\u00a03\u221a3 \u00a0 \u00a0+\u00a02\u221a3<br>=5\u221a3 + \u221a3 \u00a0 \u00a0- \u00a0\u00a03\u221a3 \u00a0 \u00a0\u00a0+2\u221a3<br>=5\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-aritmatika-diketahui-suku-ke-3-14-dan-suku-ke-7-2-629",
+            "question": "Dari barisan aritmatika diketahui suku ke-3 =14 dan suku ke-7 = 26. jumlah 18 suku pertama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : 12<span><br>\nMapel : Matematika<br>\nKategori : Bab 7 - Barisan dan Deret<br>\nKata Kunci : barisan. deret, aritmetika<br>\nKode : 12.2.7 [Kelas 12 Matematika Bab 7 -\nBarisan dan Deret]</span></p>\n\n<p>\u00a0</p>\n\n<p>Pembahasan :</p>\n\n<p><span>Barisan\naritmetika adalah suatu barisan dengan beda atau selisih antara dua suku\nberurutan selalu tetap atau konstan.<br><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083,\n..., Un atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un = a + (n - 1)b.<br><br>\nBeda atau selisih antara dua suku berurutan, yaitu :\u00a0<br>\nb = Un - U(n - 1).<br><br>\nDeret aritmetika adalah jumlah suku-suku barisan\naritmetika.<br><br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1) + Un<span><br></span>\u21d4 Sn = a + a + b + a +\n2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](2a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1)<span><br>\nSn - S(n - 1) = Un.</span></p><p><br></p><p>Mari kita lihat soal tersebut.</p><span>Jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah...<br><br>Jawab :<br>Diketahui suku ke-3 adalah 14, sehingga<br>U</span>\u2083 = 14<br>\u21d4 U\u2083 = a + (3 - 1)b<br>\u21d4 U\u2083 = a + 2b<br>\u21d4 14 = a + 2b ... (1)<br><br>dan suku ke-7 adalah 26, sehingga<br>U\u2087 = 26<br>\u21d4 U\u2087 = a + (7 - 1)b<br>\u21d4 U\u2087 = a + 6b<br>\u21d4 26 = a + 6b ... (2)<br><br>Persamaan (1) dan (2) membentuk sistem persamaan linear dan kita dapat menentukan nilai a dan b menggunakan metode eliminasi dan substitusi.<br>Pertama, kita eliminasi a, sehingga<br>14 = a + 2b<br>26 = a + 6b<br>__________-<br>\u21d4 -12 = -4b<br>\u21d4 b =\u00a0[tex] \\frac{-12}{-4} [/tex]<br>\u21d4 b = 3<br><br>Kemudian, nilai b = 3 kita substitusikan ke persamaan (1), diperoleh<br>a + 2b = 14<br>\u21d4 a + 2(3) = 14<br>\u21d4 a + 6 = 14<br>\u21d4 a = 14 - 6<br>\u21d4 a = 8<br><br>Selanjutnya, kita menentukan jumlah 18 suku pertama, diperoleh<br>S\u2081\u2088 =\u00a0[tex] \\frac{18}{2} [/tex](2(8) + (18 - 1) x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 17 x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 51)<br>\u21d4 S\u2081\u2088 = 9(67)<br>\u21d4 S\u2081\u2088 = 603<br><br>Jadi, jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah 603.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/1812844<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-roda-berdiameter-63cm-berputar-menempuh-jarak-198m-roda-te-436",
+            "question": "Suatu roda berdiameter 63cm berputar menempuh jarak 198m. Roda tersebut berputar sebanyak......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 63 cm = 0,63 m<br>\u00a0 \u00a0 \u00a0 s = 198 m<br>Dit banyak putaran ?<br>jawab.<br>K O =\u00a0\u03c0d<br><br>\u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} x 0,63 = 1,98 m [/tex]<br><br>banyak putaran =\u00a0[tex] \\frac{S}{k O} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u00a0[tex] \\frac{198}{1,98} = 100 kali [/tex]<br><br><br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket,diameter\u00a0lingkaran 63cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 jarak\u00a0= 198 m\u00a0= 19800 cm<br>maka,\u00a0Keliling  = \u03c0 x d<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u></u><u>22</u> x 63<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0<u>1386</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>maka,\u00a0roda\u00a0berputar sebanyak = 19800:198\u00a0= 100\u00a0<br>Kasik\u00a0bintangnya\u00a0yoo :)<u></u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-trapesium-pqrs-dengan-psqr-dan-sudut-pqr578-ten-221",
+            "question": "Diketahui trapesium PQRS. dengan PS/QR dan sudut P:Q:R=5:7:8. tentukan besar sudut R!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena yang hanya dikasih penjelas, yang P,Q, dan R<br>dan diketahui Jumlah seluruh sudut segi Empat adalah 360 derajat<br>Jadi, 360/4=90 derajat<br>(90\u00a0X\u00a03):(5+7+8)= 13,5 derajat<br>Maka, 13,5 x 8= 108 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-diagonal-segi-42segi-55segi-69banyak-diagonal-segi-1-272",
+            "question": "Banyak diagonal segi 4=2,segi 5=5,segi 6=9,banyak diagonal segi 15=...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Banyak diagonal segi 4 = 2, segi 5 = 5, segi 6 = 9, banyak diagonal segi 15</strong> = 90. Diagonal adalah garis yang dihubungkan oleh dua titik sudut pada bangun datar sehingga membagi bangun datar menjadi dua bagian. Untuk menentukan banyak diagonal pada segi n dapat menggunakan rumus:\n</p><ul><li>d = \u00bd \u00d7 n \u00d7 (n \u2013 3)\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Rumus mencari banyak diagonal pada segi n adalah\n</p><ul><li>d = \u00bd \u00d7 n \u00d7 (n \u2013 3)\n</li></ul><p></p><p><u><strong>Contoh</strong></u><strong>: banyak diagonal pada \u00a0</strong></p><p><strong>1) Segi 4 \u00a0</strong></p><p>= \u00bd \u00d7 4 \u00d7 (4 \u2013 3) \u00a0</p><p>= \u00bd \u00d7 4 \u00d7 1\n</p><p>= 2\n</p><p><strong>2) Segi 5\n</strong></p><p>= \u00bd \u00d7 5 \u00d7 (5 \u2013 3)\n</p><p>= \u00bd \u00d7 5 \u00d7 2\n</p><p>= 5\n</p><p><strong>3) Segi 6\n</strong></p><p>= \u00bd \u00d7 6 \u00d7 (6 \u2013 3)\n</p><p>= \u00bd \u00d7 6 \u00d7 3\n</p><p>= 9\n</p><p></p><p></p><p>Jadi <strong>banyak diagonal pada segi 15</strong> adalah\n</p><p>= \u00bd \u00d7 15 \u00d7 (15 \u2013 3)\n</p><p>= \u00bd \u00d7 15 \u00d7 12\n</p><p>= 15 \u00d7 6\n</p><p>= <strong>90</strong>\n</p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang bangun datar\n</p><ul><li>Luas trapesium: brainly.co.id/tugas/2399779\n</li><li>Keliling trapesium: brainly.co.id/tugas/5266124\n</li><li>Luas trapesium dan persegi panjang: brainly.co.id/tugas/15219788\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori</strong> : Segitiga dan Segiempat\n</p><p><strong>Kode</strong> : 7.2.4\n</p><p></p><p><strong>Kata Kunci </strong>: Banyak diagonal segi 4\n</p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-lingkaran-5024-cm2-maka-diameternya-adalah-401",
+            "question": "Jika luas lingkaran 5024 cm2 , maka diameternya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas = 1/4 \u03c0 d\u00b2<br>5024 = 1/4 3.14 d\u00b2<br>5024 x 4 = 3.14 d\u00b2<br>20096 = 3.14 d\u00b2<br>20096 : 3.14 = d\u00b2<br>6400 = d\u00b2<br>d = \u221a6400<br>d = 80 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selembar-kertas-folio-dipotong-menjadi-2-yg-sama-kemudian-potong-536",
+            "question": "Selembar kertas folio dipotong menjadi 2 yg sama, kemudian potongan yg satu ditumpuk diatas yg lain. tumpukan itu dipotong lagi menjadi 2 bagian yg sama, kemudian ditumpuk lagi, dan seterusnya.    a. brp banyak potongan kertas jika dilakukan 10 kali pemotongan?\r\nb. berapa kali pemotongan dilakukan jika banyak potongan kertas 256 lmbr?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] U_{10} [/tex]=a<u></u>[tex] r^{9} [/tex]<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =2 x [tex] 2^{9} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =1024<br>b. Un=a[tex] r^{n-1} [/tex]<br>\u00a0\u00a0  256=2 x [tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 256/2=[tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 128=[tex] 2^{n-1} [/tex]<br>\u00a0 [tex] 2^{n-1} [/tex]=[tex] 2^{7} [/tex]<br>\u00a0 n-1=7<br>\u00a0 n=8<br>Jadi,hasilnya 8 kali potongan<br><br>Mohon yang terbaiknya makasih..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berbentuk-lingkaranketika-berputar-100-kalibenda-t-545",
+            "question": "Sebuah benda berbentuk lingkaran.ketika berputar 100 kali.benda tersebut dapat menempuh jarak176cm.hitunglah:    a.diameter benda dengan =3,14\r\nb.luas permukaan benda!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "176 = 100K<br>176 = 100(2\u03c0r)<br>176 =200(3,14)r<br>176 = 628r<br>r = [tex] \\frac{176}{628} [/tex]<br>r = 0,28<br><br>d = 2r = 2(0,28) = 0,56 cm<br><br>L = \u03c0r\u00b2 = 3,14 (0,28)\u00b2 = 3,14(0,0784) = 0,246176 cm\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "berputar 100 kali<br>jarak 176 cm<br>a)1 kali berputar=1 kelO=176/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,76 cm<br>\u00a0 kelO=2*pi*r<br>1,76=2*3,14*r<br>r=1,76/6,28=0,28 cm<br>b)L=pi *rkuadrat<br>\u00a0 \u00a0 \u00a0=22/7*0,28*0,28<br>\u00a0 \u00a0 \u00a0=22*0,04*0,28<br>\u00a0 \u00a0 \u00a0=22*0,0112<br>\u00a0 \u00a0 =0,2464 cmpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668",
+            "question": "Pada gambar dibawah, jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah........",
+            "attachments": [
+                "question-attachments/pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah 65\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah<span><span></span></span> 65 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

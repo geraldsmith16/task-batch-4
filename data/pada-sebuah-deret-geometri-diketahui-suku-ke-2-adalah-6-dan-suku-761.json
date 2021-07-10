@@ -1,0 +1,138 @@
+{
+    "question": "Pada sebuah deret geometri diketahui suku ke 2 adalah 6 dan suku ke 5 adalah 48 jumlah sepuluh suku pertaama adaalah ???    tolong dibantu jawaban nya yaaaah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "_ 6 _ _ 48<br><br>Jadi<br>U1 = 3<br>U2 = 6<br>U3 = 12<br>U4 = 24<br>U5 = 48<br><br>Sn = a(r^n-1) / r -1<br>= 3 (2^10-1) / 2-1<br>= 3 . 1023 /1<br>=3069",
+            "attachments": []
+        },
+        {
+            "answer": "dik: U2=6<br>\u00a0 \u00a0 \u00a0 \u00a0U5=48<br>Pertamaanya cari dulu r nya<br>saya punya cara mudahnya,rumusnya:<br>\u00a0[tex] r^{(suku yang paling besar-suku yang paling kecil)} [/tex] = <u>(nilai suku yg paling besar)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 (nilai suku yg paling kecil)<br><br>jadi cara ngerjainnya:<br>[tex] r^{5-2} [/tex] = <u>48</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 6<br><u></u>[tex] r^{3} [/tex] \u00a0 \u00a0 =8<br>\u00a0 \u00a0 \u00a0\u00a0 r =[tex] 3\\sqrt{8} [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0r = 2<br><u></u><br>jadi cara mencari [tex] S_{10} [/tex] = <u>a([tex] r^{n} [/tex] -1)<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 r-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = <u>3([tex] r^{10} [/tex] -1)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u>3(1023)</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 X 1023 = 3069<br><br>jadi\u00a0[tex] S_{10} [/tex] yaitu 3069<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-diketahui-2x2-x12-dibagi-x-a-sisanya-15-maka-nilai-a-441",
+            "question": "Jika diketahui 2x\u00b2-x+12 dibagi (x-a) sisanya 15, maka nilai a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x + 2a - 1<br>\u00a0 \u00a0 \u00a0 \u00a0____________<br>x-a /2x^2 -\u00a0x + 12<br>\u00a0 \u00a0 \u00a0 2x^2 - 2ax<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 2ax\u00a0- x + 12<br>\u00a0 \u00a0 \u00a0 2ax - 2a^2<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 -\u00a0x + 2a^2 +12<br>\u00a0 \u00a0 \u00a0 - x + a<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a +12 = 15<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 + a +12 - 15 = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a - 3 = 0<br>\u00a0 \u00a0 (2a + 3) (a - 1)<br><br>\u00a0 \u00a0a = -3/2 atau a\u00a0= 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rp-2650000-untuk-2-hari-senilai-dgn-untuk-5-hari-723",
+            "question": "Rp 26.500.00 untuk 2 hari senilai dgn ........... untuk 5 hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "26,500 : 2 = 13,250\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 13,250 x 5 = 66,250 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Jadi untuk 5 hari = Rp 66,250.00<br>\u00a0 \u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-invers-jika-fx-x2-2x-3-792",
+            "question": "Tentukan invers jika f(x) = x2 - 2x - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x2 - 2x - 3 mungkin soalnya seperti ini\u00a0f(x) = x\u00b2<span>\u00a0- 2x - 3<br>maka :<br></span>f(x) = x\u00b2\u00a0- 2x - 3<br>\u21d2 y =\u00a0x\u00b2\u00a0- 2x - 3 + 4<br>\u21d2 y = (x - 1)\u00b2 + 4<br>\u21d2\u00a0(x - 1)\u00b2 \u00a0= y + 4<br>\u21d2 x - 1 =\u00a0[tex] \\sqrt{y + 4} [/tex]<br>\u21d2 x\u00a0=\u00a0[tex] \\sqrt{y + 4} [/tex] + 1<br>\u21d2 f\u00a0\u207b\u00a0\u2081 (x) =\u00a0[tex]\\sqrt{x + 4}   + 1[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "range-untuk-fungsi-f-x-x2-2x-3-untuk-daerah-asal-x-1lt-508",
+            "question": "Range\u00a0 untuk fungsi f (x) =x2-2x-3 untuk daerah asal {x/-1&lt;_ x &lt;_ 4, x E R} adalah.??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "daerah asalnya x= {1, 2, 3, 4} keterangan: R= bilangan asli.<br><br>range { -4, -3, 0, 5}<br><br>caranya daerah asalnya subtitusi ke persamaan f(x) = x^2 - 2x -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "x={-1,0,1,2,3,4}<br>f(x) = x\u00b2-2x-3<br>f(-1) = -1\u00b2-2*-1-3<br>\u00a0\u00a0 \u00a0\u00a0 = 1+2-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 0<br>f(0) = 0\u00b2-2*0-3<br>\u00a0\u00a0 \u00a0\u00a0 = -3<br>f(1) = 1-2-3<br>\u00a0\u00a0 \u00a0 = -4<br>f(2) = 4-4-3<br>\u00a0\u00a0 \u00a0  = -3<br>f(3) = 9-6-3<br>\u00a0\u00a0 \u00a0\u00a0 = 0<br>f(4) = 16-8-3<br>\u00a0\u00a0 \u00a0  = 5<br>range ={-3,-4,0,5}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-2-6-18-jika-suku-terakhirnya-468",
+            "question": "Diketahui barisan geometri 2 , 6 , 18 ,... jika suku terakhirnya 1458 , suku tengah barisan tersebut adalah suku ke..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Pembahasan</h2><p>\u27aa <strong>Barisan bilangan</strong>, yaitu urutan dari bilangan-bilangan yang tersusun berdasarkan pada pola tertentu.</p><p>\u3164<strong><u>Barisan geometri</u> </strong>(barisan ukur) merupakan barisan yang hasil bagi setiap suku dengan suku sebelumnya tetap. Hasil bagi tersebut disebut dengan rasio (r). Berikut rumus-rumus yang akan digunakan dalam menyelesaikan kasus soal ini. </p><p>\u2666 <strong>Menentukan suku tengah barisan geometri</strong></p><p>[tex]\\red {\\boxed{ { \\sf U_t =  \\sqrt{a  \\times  U_n} }}}[/tex]</p><p>Keterangan:</p><ul><li>Ut = suku tengah</li><li>a = suku pertama</li><li>Un = suku terakhir</li></ul><p>\u2666 <strong>Menentukan rasio (r) </strong></p><p>[tex] \\blue {\\boxed{ { \\sf r =  \\frac{U_2}{U_1} =  \\frac{U_3}{U_2} =  \\frac{U_4}{U_3} ,...,  \\frac{U_n}{U_{n - 1}}}}}[/tex]</p><p>Keterangan:</p><ul><li>r = rasio</li><li>Un = suku ke-n</li><li>U1 = suku pertama</li><li>U2 = suku kedua</li><li>dst..... </li></ul><p>\u2666 <strong>Menentukan suku ke-n</strong></p><p>[tex] \\green {\\boxed{ { \\sf U_n = a {r}^{n - 1} }}}[/tex]</p><p>Keterangan:</p><ul><li>Un = suku ke-n</li><li>a = suku pertama</li><li>r = rasio</li></ul><p>\u2666 <strong>Menentukan letak suku tengah barisan geometri</strong></p><p>[tex] \\red {\\boxed{ { \\sf t = \\frac{1}{2}  \\: (n + 1) }}}[/tex]</p><p>Keterangan:</p><ul><li>t = posisi suku tengah</li><li>n = banyaknya suku</li></ul><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Penyelesaian Soal</h2><p><strong><u>Diketahui</u></strong><strong><u>:</u></strong> </p><p>Barisan geometri 2, 6, 18, .. dan suku terakhirnya 1458</p><ul><li>U\u2081 = a = 2</li><li>U\u2082 = 6</li><li>Un = 1458  (suku terakhir)</li></ul><p><strong><u>Ditanya</u></strong><strong><u>:</u></strong></p><p>Suku tengah barisan tersebut adalah suku ke? </p><p><strong><u>Dijawab</u></strong><strong><u>:</u></strong></p><p><strong>\u203aMenentukan </strong><strong>rasio</strong><strong> </strong><strong>(</strong><strong>r</strong><strong>)</strong></p><p>[tex]\\displaystyle  \\sf r =  \\frac{U_2}{U_1}  = \\frac{6}{2} = 3[/tex]</p><p><strong>\u203aMenentukan suku </strong><strong>tengah</strong></p><p>[tex] \\sf U_t =  \\sqrt{a  \\times  U_n} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2  \\times  1458} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2916} [/tex]</p><p>[tex] \\sf U_t = 54[/tex]</p><p><strong>\u203aMenentukan suku ke-n</strong></p><p>Yang ditanyakan berarti Ut = 54 terletak pada suku ke? Berarti terlebih dahulu kita harus mencari nilai n nya.</p><p>[tex] \\sf Un = a {r}^{n - 1} [/tex]</p><p>[tex] \\sf 1458 = 2(3{)}^{n - 1} [/tex]</p><p>[tex] \\displaystyle  \\sf \\frac{1458}{2}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf 729 =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  {3}^{6}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  \\:  \\:  6 =  n - 1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  6  +  1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  7[/tex]</p><p><strong>\u203a</strong><strong>Menentukan letak suku tengah</strong></p><p>Setelah itu, menentukan letak suku tengah barisan geometri. </p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (n + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (7 + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (8) [/tex]</p><p>[tex]\\displaystyle {\\boxed{ { \\sf t = 4}}}[/tex]</p><p>\u2756 Jadi, Ut = 54 terletak pada suku ke 4. </p><p><strong>\u3164\u3164\u3164</strong></p><h3><strong>Kesimpulan</strong><strong>:</strong></h3><p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h3>Pelajari Lebih Lanjut:</h3><p>Mengenai materi tentang barisan dan deret geometri pada link di bawah ini. </p><ol><li>Menentukan nilai tengah dan letak suku tengah dari barisan geometri brainly.co.id/tugas/39988697</li><li>Menentukan suku tengah pada barisan geometri  brainly.co.id/tugas/6301435</li><li>Menentukan nilai suku tengah dari 11 suku pada barisan geometri brainly.co.id/tugas/31495198</li></ol><p>\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 </p><h3>\u00bb Detail Jawaban</h3><p><strong>Mapel\u3164\u3164 :</strong> Matematika</p><p><strong>Kelas \u3164\u3164 :</strong> XI SMA</p><p><strong>Materi\u3164\u3164:</strong> Bab 7 - Barisan dan Deret</p><p><strong>Kode kategorisasi :</strong> 11.2.7</p><p><strong>Kata kunci : </strong>barisan geometri, suku tengah</p><p>\u3164\u3164\u3164</p><p>#AyoSemangat! </p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-x-13-3-dan-x-tumpul-berapakah-nilai-dari-cos-x-210",
+            "question": "Jika tan x = -1/3 \u221a3, dan x tumpul berapakah nilai dari cos x ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo nilai tan minus berarti tan itu ada di kuadran 2 atau ngga 4. terus karena nilainya 1/3\u221a3 berarti sudutnya 30\u00b0. karena sudutnya tumpul,berarti di kuadran 2. jadi nilai cosnya : cos (180\u00b0-30\u00b0) = -(cos 30\u00b0) = - 1/2\u221a3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>x = -1/3 \u221a3 =\u00a0</span>[tex] \\frac{sin 2x}{cos 2x + 1} =  \\frac{-1}{ \\sqrt{3} } [/tex]<br><br><br><br><br>Semoga membantu :) D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-g-r-r-ditentukan-oleh-gx-x2-3x-1-dan-f-r-196",
+            "question": "Fungsi g: R \u2192 R ditentukan oleh    g(x) = x2 \u2013 3x + 1 dan f: R \u2192 R sehingga (f o g)(x) = 2x2\r\n \u2013 6x \u2013 1\u00a0\r\n\r\nmaka f(x) = \u2026.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f o g)(x)= f(g(x)) \u00a0 \u00a0 \u00a0 \u00a0\u00a0=\u00a02x^2<span>\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1)\u00a0=\u00a0</span>2x^2\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x^2-3x+1)\u00a0=\u00a02x^2\u2013 6x + 2 -\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1) = 2(x^2-3x+1) -3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x-3 \u00a0(buktikan saja masukan ke f(g(x))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sinta-mempunyai-uang-sebesar-rp6000000-besar-uang-adik-23-da-197",
+            "question": "Sinta mempunyai uang sebesar Rp.60.000,00. Besar uang adik 2/3 dari uang Sinta. Berapa rupiah besar uang Sinta dan adik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Uang Adik : Uang Sinta<br>2 : 3<br>maka jumlah uang mereka adalah<br>= [tex] \\frac{5}{3} x 60.000[/tex]<br><br>= 5 x 20.000<br>= 100.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60.000 + 40.000 = 100.000 rupiah<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

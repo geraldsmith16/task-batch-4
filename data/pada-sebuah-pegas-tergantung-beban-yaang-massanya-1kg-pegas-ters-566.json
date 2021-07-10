@@ -1,0 +1,149 @@
+{
+    "question": "pada sebuah pegas tergantung beban yaang massanya 1kg, pegas tersebut bertambah panjang 5cm. hitunglah energi potensial pegas! berpa energi potensial pegas jika bebannya menjadi 2,5 kg?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "6.5 semoga betul jangan lupa di terima kasih",
+            "attachments": []
+        },
+        {
+            "answer": "diketahui : <br>m = 1 kg<br>g = 10m/s\u00b2<br>\u0394x = 5cm = 5\u00d7[tex] 10^{-2} [/tex] m<br>ditanya : Ep<br><br>F = k . \u0394x<br>m . g = k . \u0394x<br>1 . 10 = k . 5\u00d7[tex] 10^{-2} [/tex]<br>k = 10/5\u00d7[tex] 10^{-2} [/tex]<br>k = 200 N/m<br><br>Ep = <u>1\u00a0</u> <u> </u>\u00d7 k \u00d7 \u0394x\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>Ep = 1/2 \u00d7 200 \u00d725 \u00d7[tex] 10^{-4} [/tex]<br>Ep = 2500 x [tex] 10^{-4} [/tex]<br>Ep = 0,25 joule<br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736",
+            "question": "Lintasan berkas sinar ketika melalui sistem optik teropong bintang ditunjukkan seperti pada gambar.\u00a0    Berdasarkan gambar berikut, perbesaran bayangan untuk mata tidak berakomodasi adalah?\u00a0",
+            "attachments": [
+                "question-attachments/lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Pada teroping apabila mata tidak berakomodasi maka nilai perbesaran hanyalah membandingkan panjang fokus objecktif dengan fokus okuler saja\u00a0<br><br>[tex]M = \\frac{f_ob}{f_ok} = \\frac{160}{2} = 80 [/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "160 : 2 = 80 <br>maaf rumusnya gak di tulis <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920",
+            "question": "berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><br><h2>GAYA PADA FLUIDA STATIS</h2><p><u><strong>HUKUM ARCHIMEDES</strong></u></p><p>Menurut Archimedes, benda yang dicelupkan sebagian atau seluruhnya ke dalam fluida, akan mengalami gaya ke atas.</p><p>Besar gaya ke atas tersebut sama dengan berat fluida yang dipindahkan oleh benda.</p><p>Secara matematis dituliskan sebagai :</p><h2>Fa = \u03c1. g . Vtc</h2><br><p>Dimana :</p><p>Fa = gaya Archimedes apung ke atas (N)</p><p>\u03c1 = massa jenis fluida (kg/m\u00b3)</p><p>g = percepatan gravitasi bumi (m/s\u00b2)</p><p>Vtc = Volume benda tercelup di fluida (m\u00b3)</p><br><h2>TIGA KEMUNGKINAN BENDA DI DALAM FLUIDA</h2><h2>1. TERAPUNG</h2><p><strong><em>Benda-benda akan terapung</em></strong> di atas permukaan fluida, jika massa jenis benda <em><strong>lebih kecil</strong></em> dibandingkan massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p>\u21d2 <strong>\u03c1 benda &lt; \u03c1 fluida </strong>dan </p><p>\u21d2 <strong>w = Fa </strong></p><p><strong>m.g = \u03c1. g. Vtc</strong></p><p><strong>(\u03c1b.Vb).g = \u03c1. g. Vtc</strong></p><p><strong>\u03c1b.Vb = \u03c1. Vtc</strong></p><p>maka :</p><p><strong>Vtc = (\u03c1b/\u03c1).Vb</strong></p><p>Dimana :</p><p>Vtc = Volume benda tercelup</p><p>\u03c1b = massa jenis benda</p><p>\u03c1 = massa jenis fluida</p><p>Vb = Volume benda</p><br><h2>2. MELAYANG</h2><p><strong><em>Benda-benda akan melayang</em></strong> di dalam fluida, jika massa jenis benda <em><strong>sama dengan</strong></em> massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p><strong> \u21d2 \u03c1 benda = \u03c1 fluida</strong></p><p>dan </p><p>\u21d2 <strong>w = Fa</strong></p><br><h2>3. TENGGELAM</h2><p><strong><em>Benda-benda akan tenggelam</em></strong> di dalam fluida, jika massa jenis benda <em><strong>lebih besar </strong></em>daripada massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda lebih kecil atau lebih ringan dari pada berat benda di udara. Nah selisih berat benda di <em><strong>udara (Berat Real)</strong></em> ini dengan berat benda di <em><strong>fluida (berat semu) </strong></em>ini sama dengan gaya Archimedesnya, sehingga berlaku persamaan :</p><p><strong>\u21d2 \u03c1 benda &gt; \u03c1 fluida</strong></p><p>dan</p><p><strong>\u21d2 W udara - W fluida = Fa</strong></p><p>dan akhirnya diperoleh rumus :</p><h2><strong>W fluida = [1 - (\u03c1/\u03c1b)].W udara </strong></h2><p>dimana :</p><p>W fluida = berat benda di fluida</p><p>W udara = berat benda di udara</p><p>\u03c1 = massa jenis fluida</p><p>\u03c1b = massa jenis benda</p><br><p>Nah setelah memahami konsep di atas mari kita kerjakan soal berikut ini :</p><br><h2>SOAL</h2><p><em>Berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..</em></p><p><u><strong>PENYELESAIAN</strong></u></p><p><strong>Diketahui :</strong></p><p>berat benda di udara, W udara = 40 N</p><p>berat benda di fluida, W air = 36 N</p><p>massa jenis air, \u03c1 = 1 gr/cm\u00b3 = 1000 kg/m\u00b3</p><p><strong>Tanya :</strong></p><p>massa jenis benda, \u03c1b = __?</p><p><strong>Jawab :</strong></p><p><strong><u>Step 1</u></strong></p><p> Cari dulu gaya Archimedes, Fa = __?</p><p>Gunakan rumus : </p><p>Fa = W udara - W air</p><p>Fa = 40 - 36</p><p>Fa = 4 N</p><br><p><u><strong>Step 2</strong></u></p><p>cari massa benda di udara, m = __?</p><p>Gunakan rumus :</p><p>W udara = m.g</p><p>40 = m. 10</p><p>m = 4 kg</p><br><p><strong><u>Step 3</u></strong></p><p>Cari Volume benda, Vb = __?</p><p>Gunakan rumus :</p><p>Fa = \u03c1.g.Vb</p><p>4 = 1000. 10. Vb</p><p>Vb = 4 x 10\u207b\u2074 m\u00b3</p><br><p><u><strong>Step 4</strong></u></p><p>cari massa jenis benda, \u03c1b = __?</p><p>Gunakan rumus :</p><p>\u03c1b = m/Vb</p><p>\u03c1b = 4 / (4 x 10\u207b\u2074)</p><p>\u03c1b = 10\u2074 </p><p>\u03c1b = 10000 kg/m\u00b3</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>RUMUS TRIK</h2><p><strong>W air = [1 - (\u03c1/\u03c1b)].W udara </strong></p><p>36 = [1 - (1/\u03c1b)].40</p><p>36 / 40 = [1 - (1/\u03c1b)]</p><p>0,9 = 1 - (1/\u03c1b)</p><p>(1/\u03c1b) = 1 - 0,9</p><p>(1/\u03c1b) = 0,1</p><p>\u03c1b = 1/0,1</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>KESIMPULAN</h2><p><strong>Jadi besar massa jenis benda tersebut adalah 10 gram/cm\u00b3</strong></p><br><p>==========================================================</p><p>Simak soal tentang :</p><p>* <strong>Menghitung massa jenis benda dengan tabung gelas ukur</strong></p><p>https://brainly.co.id/tugas/15297318</p><p><strong>** Cara konversi satuan massa jenis dari gr/cm\u00b3 ke Kg/m\u00b3</strong></p><p>https://brainly.co.id/tugas/3028917</p><p>==========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : Fisika</strong></p><p><strong>Kategori : Fluida Statis</strong></p><p><strong>Kata Kunci : berat benda di udara, berat benda di air, massa jenis benda, \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>fluida statis, gaya archimedes ke atas</strong></p><p><strong>Kode : 11.6.3 [Kelas 11 SMA Fisika Bab 3 - Fluida Statis]</strong></p>",
+                    "attachments": [
+                        "answer-attachments/berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328",
+            "question": "Setiap sekon di matahari terjadi perubahan 4\u00a0x\u00a010^9 kg materi menjadi energi\u00a0radiasi. apabila laju cahaya dalam vakum adalah 3 x 10^10 cm/s, daya yang dipancarkan oleh matahari adalah..    a. 3,6 x 10^30 watt\r\nb. 5,0 x 10^30 watt\r\nc. 1,2 x 10^18 watt\r\nd. 3,6 x 10^26 watt\r\ne. 1,2 x 10^26 watt",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika- relativitas<br>Kelas : 12 sma<br>Pembahasan : jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285",
+            "question": "1. air laut termasuk senyawa atau tidak?jelaskan    2. darah manusia senyawa atau campuran?jelaskan\r\n3. mengapa obat sirup dikocok dulu sebelum diminum,jelaskan?\r\n4. jell termasuk zat padat,cair atau gas?jelaskan\r\n5. pada kutub utara mengapa ikan dan tumbuhan masih bisa hidup,jelaskan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lihat dalam tabel<br><br>Semoga membantu :)\u00a0D",
+                    "attachments": [
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-1.png",
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-2.png"
+                    ]
+                },
+                {
+                    "answer": "1.air laut merupakan campuran karna terdapat dil dalam laut ema,minyak bumi,hasil tambang alainnya yang membuat air laut merupakan campuran.<br><br>2.darah merupakan senyawa karna di dalam darah juga terkandung senyawa yang di kenal dengan oksigen atau o2.<br><br>3.sirup dikocok dahulu sebelum di minum karna sirup meerupakan campuran yang harus tercampur.<br>melalui proses percampuran.<br><br>4.jel pada sudah di bekukan adalah zat padat tapi saat di lelehkan merupakan zat cair.<br><br>5.karna adanya daerah nya yang memungkinkan makhluk hidup tinggal dan hidup dan terdiri dari air yang menjadi es di kutub utara<br><br><br><br>semoga membantu dan bermanfaat :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "permukaan-air-p-air-1-gcm3-di-dalam-pipa-kapiler-berdiameter-802",
+            "question": "permukaan air (p. air= 1 g/cm3) di dalam pipa kapiler berdiameter dalam 1 mm adalah 4 cm di atas permukaan air di luar pipa itu. jika sudut kontak air dalam pipa kapiler 60derajat, besar tegangan permukaan air adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Rumus<br>y =2.\u03b3.cos \u03b8\u00a0/\u03c1.g.r,\u00a0<br>Tegangan permukaan :\u00a0<br>\u03b3= y.\u03c1.g.r/2. cos\u03b8\u00a0<br>= 0,04 x 1000 x 10 x 5 x\u00a0[tex] 10^{-4} [/tex]/ 2 x cos 60 ( r = 5 x\u00a0[tex] 10^{4} [/tex]\u00a0m)\u00a0<br>= 0,2\u00a0/1\u00a0<br>= 0,2 N/m</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya 2cm di bawah bidang batas minyak-air, seperti pada gambar. Ketinggian kolom minyak dan air masing - masing adalah 10cm. Massa jenis minyak adalah 0,8 g/cm^3. Tekanan hidrostatis yang bekerja pada sisi paling bawah balok adalah..    A. 800 Pa\r\nB. 840 Pa\r\nC. 900 Pa\r\nD. 1020 Pa\r\nE. 9600 Pa",
+            "attachments": [
+                "question-attachments/sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<span>gram ke KG = 1/1000<br>cm^3 ke m^3 = 1/1000000<br>jadi,<br>=0,8/1000/1/1000000<br>=8/10000/1/1000000<br>=8/10000 * 1000000/1<br>=800 Pa</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-cepat-rambat-cahaya-di-air-186",
+            "question": "Rumus mencari cepat rambat cahaya di air",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n = c/v\u00a0<br><span>===&gt;&gt;&gt; v = c/n\u00a0</span><br><span>dimana:\u00a0</span><br><br><span>n = indeks bias (udara=1) (air=1,33)\u00a0</span><br><span>c = kecepatan cahaya dalam ruang hampa (299,792,458 m/s ~ 2x10^8 m/s)\u00a0</span><br><span>v = cepat rambat cahaya pada suatu medium (udara, kaca, air, dst)\u00a0</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-itu-kesetimbangan-benda-tegar-696",
+            "question": "Apa itu kesetimbangan benda tegar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kesetimbangan adalah keadaan yg terjadi apabila semua gaya dan kecendrungan yang ada tepat diimbangi atau dinetralkan oleh gaya dan kecendrungan yg sama, tetapi berlawanan<br>benda tegar adalah benda yg tidak berubah bentuknya apa bila diberi gaya luar<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\nKesetimbangan terbagi dua yaitu :</span>\n  <span>\n<span><span>1.       </span>Statik ( \u2211F = 0 ; a =  o )</span></span>\n  <span>\n<span><span>2.       </span>Dinamik ( a = o ; v = konstan )</span></span>\n  <span>\n </span>\n  <span>\n<span>Benda tegar dikatakan  berada\n dalam kesetimbangan statik jika jumlah gaya yang bekerja pada benda itu\n sama dengan nol dan jumlah torsi terhatad sembarang titik pada benda \ntegar itu sama dengan nol .</span></span>\n<span>\n\n</span>\n  <span>\n </span>\n  <span>\nKesetimbangan\n statik dapat dibedakan menjadi tiga, yaitu kesetimbangan stabil, \nkesetimbangan labil, dan kesetimbangan indiferen ( netral ).</span>\n  <span>\n<span><span>1.       </span>Kesetimbangan Stabil</span></span>\n  <span>\n<span>Sebuah kelereng mempunyai titik berat pada pusat bola. Jika kelereng diletakkan pada sebuah wadah yang berbentuk setengah bola  (\n cekung , kelereng akan diam ( setimbang) pada bagian bawah wadah. \nApabila kelereng itu diberi gangguan dengan mendorongnya, titik berat  kelereng\n akan naik. Hal itu ditandai dengan naiknya kedudukan kelereng. Apabila \ngangguan itu dihilangkan, kelereng akan kembali setimbang pada kedudukan\n semula. Kesetimbangan seperti itu disebut Kesetimbangan Stabil .Contoh \nbenda yang memiliki kesetimbangan stabil adalah kursi malas.</span></span>\n  <span>\n </span>\n  <span>\n<span><span>2.       </span>Kesetimbangan Labil</span></span>\n  <span>\nKesetimbangan\n Labil ditandai dengan turunnya letak titik berat benda jika diberi gaya\n pengganggu. Biasanya, setelah gaya pengganggunya dihilangkan benda \ntidak kembali lagi pada posisi semula. Sebuah batang kayu yang berdiri \ntegak adalah contoh keadaan kesetimbangan labil.</span>\n  <span>\n </span>\n  <span>\n<span><span>3.       </span>Kesetimbangan Indiferen (netral )</span></span>\n  <span>\n<span>Kesetimbangan\n netral ditandai dengan tidak berubahnya posisi titik berat sebelum dan \nsesudah diberi gaya pengganggu. Contoh kesetimbangan netral adalah \nsebuah silinder yang diletakkan di lantai datar.\n</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seutas-kawat-piano-yang-terbuat-dari-baja-mempunyai-panjang-1-886",
+            "question": "1. seutas kawat piano yang terbuat dari baja, mempunyai panjang 1,6 m dengan garis tengah 0,2 cm. berapa besar tegangan kawat jika kawat tersebut mengalami perubahan panjang sebesar 0,3 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik lo =1,6 m \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 0,3 cm = 0,003 m<br>\u00a0 \u00a0\u00a0 d = 0,2 cm = 0,002 m<br>Dit tegangan ?<br>jawab.<br>LO=\u03c0r^2 = 3,14 x 0,001^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x10^-6 m<br>E = tegangan / regangan<br>\u00a0 \u00a0= F.l / A.\u0394l<br><br><br>tegangan = F.l0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,6 F",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

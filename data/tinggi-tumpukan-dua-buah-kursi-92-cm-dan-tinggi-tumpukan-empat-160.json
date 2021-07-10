@@ -1,0 +1,138 @@
+{
+    "question": "tinggi tumpukan dua buah kursi 92 cm , dan tinggi tumpukan empat buah kursi 108 cm . jika ada 15 kursi sejenis ditumpuk , maka tingginya adalah ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Tinggi tumpukan dua buah kursi</strong> 92 cm, tinggi tumpukan empat buah kursi 108 cm, jika ada 15 kursi sejenis ditumpuk, maka tingginya adalah 196 cm. Soal ini merupakan penerapan materi barisan dan deret aritmatika. <strong>Barisan aritmatika</strong> adalah barisan yang antar dua suku berdekatannya memiliki selisih yang tetap. Untuk menentukan <strong>suku ke n pada barisan aritmatika</strong> adalah\n</p><p>Un = a + (n \u2013 1)b\n</p><p><strong>Rumus jumlah n suku pertama\n</strong></p><p>Sn = n/2 (2a + (n \u2013 1)b)\n</p><p>Sn = n/2 (a + Un)\n</p><p><u>Keterangan</u>\n</p><p>a = suku pertama\n</p><p>b = beda \u21d2 b = U\u2082 \u2013 U\u2081 = U\u2083 \u2013 U\u2082 = ....\n</p><br><h3>Pembahasan\n</h3><br><p><strong>Diketahui\n</strong></p><p>Tinggi tumpukan dua buah kursi 92 cm \u21d2 U\u2082 = 92\n</p><p>Tinggi tumpukan empat buah kursi 108 cm \u21d2 U\u2084 = 108\n</p><br><p><strong>Ditanyakan\n</strong></p><p>tinggi tumpukan 15 kursi (U\u2081\u2085)\n</p><br><p><strong>Jawab\n</strong></p><p>U\u2084 = 108 \u21d2 a + 3b = 108\n</p><p>U\u2082 = 92 \u21d2 \u00a0 <u>a + b = 92 \u00a0 \u00a0 \u00a0</u>\u2013\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2b = 16\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>b = 8\n</strong></p><p><strong>Substitusikan b = 8 ke U\u2082 = 92</strong>\n</p><p>a + b = 92\n</p><p>a + 8 = 92\n</p><p>a = 92 \u2013 8\n</p><p><strong>a = 84\n</strong></p><br><p><u>tinggi tumpukan 15 kursi\n</u></p><p>U\u2081\u2085 = a + 14b\n</p><p>U\u2081\u2085 = 84 + 14(8)\n</p><p>U\u2081\u2085 = 84 + 112\n</p><p><strong>U\u2081\u2085 = = 196\n</strong></p><p>Jadi <strong>tinggi tumpukan 15 kursi adalah 196 cm\n</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang barisan aritmatika\n</p><p>https://brainly.co.id/tugas/1779659\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><br><p><strong>Kata Kunci</strong> : tinggi tumpukan kursi\n</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [
+                "question-attachments/pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Sebuah segitiga, mempunyai total besar sudut sebanyak 180.<br>\u00a0Panjang PQ dan QR adalah SAMA.<br>Berarti sudut P dan sudut Q adalah SAMA.<br>\u00a0Maka, 180 - 112 = 68 drajat<br>68 : 2 = 34 derajat.<br>\u00a0Jadi, masing masing sudut P dan Q adalah 34 derajat.<br><br>*Pembuktian = 34 + 34 + 112 = 180",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788",
+            "question": "1. lingkaran pd gambar tersebut mempunyai jari-jari 10 cm dan besar sudut pusat AOB= 72\u00b0. untuk\u00a0 = 3,14 berapakah panjang busur kecil AB?    2. pada gambar tersebut titik O adalah pusat lingkaran. jika besar &lt;AOB = 60\u00b0 panjang busur AB = 20 cm dan panjang busur CD = 15 cm hitunglah:\r\na. besar &lt;COD\r\nb. keliling lingkaran\r\n\r\n3. pada gambar tersebut &lt;AOB = 120\u00b0 dan &lt;COD = 30\u00b0 jika panjang busur AB = 44 cm tentukan panjang busur CD!",
+            "attachments": [
+                "question-attachments/1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "aaa. PB =<u>\u00a0 a\u00a0  </u>\u00d7 \u03c0 \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>PB =\u00a0<u> 72\u00a0</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 360<br>PB = 12,56 cm<br><br>b. <u>sudut AOB</u> = <u>PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD\u00a0 \u00a0 PBusur CD<br><br><u>60</u> = <u>20</u><br>\u00a0x\u00a0 \u00a0  15<br>20x = 900<br>x = 45\u00b0<br><br>Panjang busur AB = <u>sudut AOB </u>\u00d7 \u03c0 \u00d7d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>20 =<u>\u00a0 60\u00a0 </u>\u00d7 3,14 \u00d7 d<br>\u00a0 \u00a0 \u00a0\u00a0 360 <br>7200 = 188,4 \u00d7 d<br>d = 38,2<br><br>k = \u03c0 \u00d7 d<br>k = 3,14 \u00d7 38,2<br>k = 119,9 cm atau 120 cm<br><br>c. <u>sudut AOB</u>\u00a0 =<u>\u00a0 PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD \u00a0 \u00a0\u00a0 PBusur CD<br><br><u>120</u>\u00a0 =<u>\u00a0 44</u><br>30\u00a0 \u00a0 \u00a0 \u00a0 x<br><br>120x = 30 \u00d7 44<br>x = 11cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-pa-dan-pb-adalah-garis-singgung-lingkaran-jika-oa-6c-285",
+            "question": "Diketahui PA dan PB adalah garis singgung lingkaran. Jika OA = 6cm, OP = 10cm maka panjang PA =    pake cara yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang PA = \u221a 10\u00b2 - 6\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a100 - 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a64<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 cm<br><br>jadi panjang PA = 8 cm<br>( smoga bermanfaat , maaf y klo slah )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-556",
+            "question": "Pada hari raya , supermarket menjual pakaian dengan diskon besar besaran. Ibu membeli kemeja adik dengan harga Rp 150.000 setelah di diskon 30% (+15%), artinya akan terjadi diskon lagi sebesar 15% dari total harga setelah didiskon 30%. Berapakah harga kemeja tersebut jika tidak didiskon???    jawab secepatnya ya! pake cara!!\r\n\r\n\r\n#thanks",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30/100 dikali 150.000 = 45.000<br>150.000 - 45.000 = 105.000<br>15/100 dikali 105.000 = 15.750<br>105.000 - 15.750 = 89.250 Hasilnya...<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pake konsep bunga majemuk\n1. cari 115/100*150.000 dulu=172.500\n2. caru 130/100*172.500=224.250\n\njadi hqrga sebelum diskon 224.250,-\n\ncat: jangan menjumlahkan kedua diskon(30+15) karena hasilnya salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-besar-sudut-opq-40-tentukan-a-besar-sid-545",
+            "question": "Perhatikan gambar!    Besar sudut OPQ = 40\u00b0\r\n tentukan :\r\n a. besar sidut POQ\r\n b. Besar sudut PQO\r\n C. Besar sudut PRQ",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-besar-sudut-opq-40-tentukan-a-besar-sid-545-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u0394POQ = sama kaki<br>&lt;OPQ = &lt; PQO = 40<br>&lt;POQ = 180 - 2(40)= 100<br>&lt;PRQ = 1/2 (OPQ) = 1/2(100) = 50<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-dua-buah-lingkaran-yang-berpusat-di-o-dan-p-mas-458",
+            "question": "Panjang jari-jari dua buah lingkaran yang    berpusat di O dan P masing-masing adalah\r\n8 cm dan 4 cm. Jarak kedua titik\r\npusatnya 20 cm.\r\na. Lukislah garis singgung persekutuan\r\ndalamnya.\r\nb. Hitunglah panjang garis singgung\r\npersekutuan dalam tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas: 8<br></strong><strong>Mapel: Matematika<br></strong><strong>Kategori: Garis Singgung Lingkaran<br></strong><strong>Kata kunci: Garis Singgung Persekutuan Dalam, Jarak Pusat, Jarak lingkaran<br></strong><strong>Kode: 8.2.7 (Kelas 8 Matematika Bab 7-Garis Singgung Persekutuan Dalam)<br></strong><span><br>Panjang jari-jari dua buah lingkaran yang berpusat di O dan P masing-masing adalah 8 cm dan 4 cm. Jarak kedua titik pusatnya 20 cm.<br>a. Lukislah garis singgung persekutuan dalamnya.<br>b. Hitunglah panjang garis singgung persekutuan dalam tersebut.<br></span><span><br>Pembahasan:<br><br>A)\u00a0Gambar pada lampiran<br>R = 8 cm<br>r = 4 cm<br>p = 20 cm<br><br>B)\u00a0p</span>\u00b2 = d\u00a0\u00b2 + (R+r)\u00b2<br>dengan:<br>p = jarak\u00a0 kedua pusat lingkaran<br>R = jari-jari lingkaran besar<br>r = jari-jari lingkaran kecil<br>d = garis singgung persekutuan dalam<br><br>p\u00b2 = d\u00b2 + (R+r)\u00b2<br>20\u00b2 = d\u00b2 +(8+4)\u00b2<br>20\u00b2 = d\u00b2 + 12\u00b2<br>400 = d\u00b2 + 144<br>d\u00b2 = 400 - 144<br>d\u00b2 = 256<br>d =\u00a0\u221a 256<br>d = 16<br><br><strong>Jadi, panjang garis singgung persekutuan dalam tersebut adalah 16 cm<br></strong><br>Soal lainnya tentang garis singgung persekutuan dalam yang dapat dipelajari:<br>https://brainly.co.id/tugas/14195229<br>https://brainly.co.id/tugas/14210097<br>https://brainly.co.id/tugas/14315423<br>https://brainly.co.id/tugas/14108922<br><br>Semangat belajar!<br>Semoga mebnatu :)",
+                    "attachments": [
+                        "answer-attachments/panjang-jari-jari-dua-buah-lingkaran-yang-berpusat-di-o-dan-p-mas-458-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-bruto-dan-netto-jikaa-tara5kg-presentase-tara-21-142",
+            "question": "Cara mencari bruto dan netto jikaa:\r\nTara:5kg\r\npresentase tara: 2.12%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto = 100 / 2,12 * 5<br>\u00a0 \u00a0 \u00a0 \u00a0 =\u00a0 235, 85 kg<br>Netto = 235, 85 - 5 = 230,85 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "chandra-menabungkan-uangnya-selama-8-bulan-dengan-suku-bun-606",
+            "question": "Chandra\u00a0menabungkan\u00a0uangnya selama\u00a08\u00a0bulan\u00a0dengan\u00a0suku\u00a0bunga\u00a018%\u00a0setahun.\u00a0Apabila\u00a0besar\u00a0tabungan\u00a0Chandra\u00a0Rp.\u00a05.000.000\u00a0berapa\u00a0besar\u00a0bunga\u00a0nya\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar tabungan<br>= [tex] \\frac{n}{12} [/tex] x i x besar tabungan<br>= [tex] \\frac{8}{12} [/tex]\u00a0x\u00a0<u></u>[tex] \\frac{18}{100} [/tex] x5.000.000<br>=720000000/1200<br>=600.000<br><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-sebuah-fungsi-adalah-fx-1-2x2-nilai-f-2-adalah-664",
+            "question": "Rumus sebuah fungsi adalah f(x) = 1-2x\u00b2\r\n nilai f (-2) adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(-2) =1-2(-2)^2\n         =1-8\n         =-7",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2)= 1-2(-2^2)<br>f(-2)= 1-2(4)<br>f(-2)= 1-8<br>f(-2)= -7<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-suatu-sudut-3-kali-pelurusnya-hitunglah-besar-sudut-terseb-635",
+            "question": "Besar suatu sudut 3 kali pelurusnya. Hitunglah besar sudut tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 3(180-a)\na = 540-3a\na+3a = 540\n4a = 540\na = 135",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Jumlah bilangan kelipatan 3 antara 400 dan 500 adalah .. ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Bilangan itu adalah : 402, 405, 408, ....., 498 <br>\na = 402, b = 3 <br><br>\nUn = a + (n - 1)b <br>\n498 = 402 + (n - 1)3 <br>\n498 = 402 + 3n - 3 <br>\n498 = 399 + 3n <br>\n3n = 498 - 399 <br>\n3n = 99 <br>\nn= 33 <br><br>\nSn = 1/2 n (a + Un) <br>\n.....= 1/2 x 33 x (402 + 498) <br>\n.....= 16,5 x 900 <br>\nSn = 14.850\u00a0<br><br>seoga membantu ya :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tunjukkan-teorema-faktor-dari-2x-3-adalah-faktor-dari-2x3-748",
+            "question": "\u00a0Tunjukkan\u00a0Teorema faktor dari (2x-3) adalah faktor dari 2x\u00b3 + 5x\u00b2 -\u00a06x -9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor faktornya 2x^3+5x^2-6x+9=0<br>=\u00a0(x+1)(x+3)(2x-3)=0<br><br>jadi 2x-3 benar faktor dari\u00a02x^3+5x^2-6x+9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-3x-7-2x-5-adalah-394",
+            "question": "Fungsi invers dari f(x) = (3x + 7) / (2x - 5) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>y = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>3x + 7 = 2xy - 5y<br>3x - 2xy = -5y - 7<br>x(3 - 2y) = -5y - 7<br>x = [tex] \\frac{-5y - 7}{3 - 2y} [/tex]<br><br>[tex] f^{-1} [/tex](x) = [tex] \\frac{-5x - 7}{3 - 2x} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tumpukan-beberapa-lembar-kertas-dipotong-menjadi-2-bagian-yang-sa-340",
+            "question": "tumpukan beberapa lembar kertas dipotong menjadi 2 bagian yang sama. kemudian, kertas tersebut ditumpuk dan dipotong lagi menjadi 2 bagian, begitu seterusnya. pada potongan yang ketiga jumlah kertas menjadi 160 lembar. banyak kertas pada potongan yang ketujuh adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Barisan dan Deret<br>Kelas : 2 SMA/XI SMA<br><br>Pembahasan :<br><br>Misalkan ada n tumpukan kertas.<br>Potongan 1 = 2n<br>Potongan 2 = 4n<br>Potongan 3 = 8n<br><br>Sehingga:<br>8n = 160<br>n = 160/8 <br>\u00a0 \u00a0=\u00a020<br><br>Maka, potongan ketujuh adalah :<br><span>U\u2087 =\u00a02\u2077.n <br>\u00a0 \u00a0 \u00a0\u00a0= 128\u00a0.\u00a020 <br>\u00a0 \u00a0 \u00a0\u00a0= 2.560 lembar</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-bilangan-1011121399-dari-deret-diatas-te-608",
+            "question": "Diketahui deret bilangan 10+11+12+13+...+99. Dari deret diatas tentukan jumlah bilangan yg habis dibagi 2 tapi tidak habis dibagi 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Yang habis di bagi 2\n<br><span>Un = a + (n-1)b</span>\n\n<br>98 = 10 + 2n-2\n\n<br>98 = 8 +2n\n\n<br>2n = 90\n\n<br>n = 45<br>\u00a0Yang habis dibagi 3\n\n<span><br>Un = a + (n-1)b</span>\n\n<br>99 = 12 + 3n-3\n\n9<br>9 = 9 + 3n\n<br>\n3n = 90\n<br>\nn = 30\n\n<br>yang habis dibagi 2 tetapi tdk habis di bagi 3\n\n<br>n = 45 \u2013 30\u00a0<span>= 15</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dipotong-menjadi-5-bagian-dan-masing-masing-masing-po-706",
+            "question": "Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?</p><p><strong>Barisan geometri</strong> adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.\n</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p>Deret geometri adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.\n</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui : </p><p>Banyak potongan tali (n) = 5</p><p>panjang tali terpendek (a) = 4 cm</p><p>Panjang tali terpanjang (Un) = 324 cm</p><p>Ditanya :</p><p>Panjang tali mula-mula (Sn) ?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio </strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2075\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2074</p><p> \u00a0 r\u2074 = [tex]\\frac{324}{4}[/tex]</p><p> \u00a0 r\u2074 = 81</p><p> \u00a0 r\u2074 = 3\u2074 </p><p> \u00a0 r = 3</p><p></p><ul><li><strong>Menentukan panjang tali mula-mula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2085 = [tex]\\frac{4 (3^{5} - 1)}{3 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{4 (243 - 1)}{2}[/tex]</p><p> \u00a0 \u00a0 = 2 \u00d7 242</p><p> \u00a0 \u00a0 = 484 cm</p><p></p><p>Jadi panjang tali mula-mula adalah 484 cm atau 4,84 m</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri :</h3><ol><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Panjang kertas semula \u2192 brainly.co.id/tugas/10758102</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang tali mula-mula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-suku-pertama-suatu-barisan-geometri-16-dan-suku-ketiga-3-764",
+            "question": "Jika suku pertama suatu barisan geometri = 16 dan suku ketiga = 36, maka besar suku kelima adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 12<br>Mapel : Matematika<br>Kategori : Barisan dan Deret<br>Kata Kunci : barisan geometri<br>Kode : 12.2.7 [<span>Kelas 12 Matematika KTSP - Bab 6 - Barisan dan Deret]<br></span><br>Pembahasan :<br><p>Barisan geometri adalah suatu barisan dengan rasio\n(pembanding atau pengali) antara dua suku yang berurutan selalu tetap atau\nkonstan.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum barisan geometri adalah</p>\n\n<p>U\u2081, U\u2082, ..., Un.</p>\n\n<p>U\u2081 =\na</p>\n\n<p>U\u2082 =\nar</p>\n\n<p>...</p>\n\n<p>Un = ar\u207f\u207b\u00b9,</p>\n\n<p>dengan r \u2260 0.</p>\n\n<p>\u00a0</p>\n\n<p>Sehingga berdasarkan definisi di atas berlaku hubungan</p>\n\n<p>\u00a0</p>\n\n<p>r = [tex] \\frac{U_n}{U_{n-1}} [/tex]</p>\n\n<p>\u00a0</p>\n\n<p>dengan r = rasio antara dua suku yang berurutan, a = suku\npertama, Un = suku ke-n, U(n-1) = suku ke n-1, dan n = banyak suku.</p>\n\n<p>\u00a0</p>\n\n<p>Deret geometri adalah jumlah suku-suku barisan geometri.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum deret geometri adalah</p>\n\n<p>Sn = U\u2081 +\nU\u2082 + U\u2083 + ... + U(n - 1) + Un</p>\n\n<p>\u21d4 Sn = a + ar + ar\u00b2 +\n... + ar\u207f \u207b \u00b9</p>\n\n<p>\u21d4 Sn = [tex]\n\\frac{a(r^n-1)}{r-1} [/tex] untuk r &gt; 1</p>\n\n<p>\u21d4 Sn = [tex] \\frac{a(1\n- r^n)}{1 - r} [/tex] untuk r &lt; 1</p>\n\n<p>\u00a0</p>\n\n<p>Mari kita lihat soal tersebut.</p><span>Jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah...<br><br>Jawab :<br>Diketahui\u00a0<br>U</span>\u2081 = 16<br>\u21d4 a = 16<br><br>U\u2083 = 36<br><p>\u21d4 36 = ar\u00b2<br></p><p>\u21d4 36 = 16 x r\u00b2<br></p><p>\u21d4 r\u00b2 =\u00a0[tex] \\frac{36}{16} [/tex]<br></p><p>\u21d4 r\u00b2 = [tex] \\frac{9}{4} [/tex]<br></p><p>\u21d4 r = [tex] \\frac{3}{2} [/tex]<br></p><p><br></p><p>U\u2085 = ar\u2074<br></p><p>\u21d4 U\u2085 = 16 x ([tex] \\frac{3}{2} [/tex])\u2074<br></p><p>\u21d4 U\u2085 = 16 x\u00a0[tex] \\frac{81}{16} [/tex]<br></p>\u21d4 U\u2085 = 81<br><br>Jadi, jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah 81.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5670317<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

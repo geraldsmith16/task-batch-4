@@ -1,0 +1,136 @@
+{
+    "question": "seorang pemain sirkus sedang bereaksi dgn memutar\" sebuah cincin tipis yg massa 800 gram dan berdiameter 50 cm. cincin tersebut diputar melalui salah satu garis singgungnya.jika cincin dpt menempuh 400 radian tiap sekonnya,maka besar momentumsudut cincin tersebut adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "diket : m = 800 gram = 0,8 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03c9 = 400 rad/s<br>Dit : L<br>L = I .\u00a0\u03c9<br>I = m r\u00b2<br>I = 0,8 (0,5)\u00b2<br>\u00a0 = 0,8 . 0,25<br>\u00a0 = 0,2 kgm\u00b2\u00b2<br><br>L = I .\u03c9<br>\u00a0 \u00a0= 0,2 400<br>\u00a0 \u00a0= 80 kgm\u00b2/s<br><br>silahkan dikoreksi lagi :D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-75-gram-air-yg-suhunya-0-derajat-c-dicampur-dengan-50-gram-a-297",
+            "question": "Jika 75 gram air yg suhunya 0 derajat C dicampur dengan 50 gram air yang suhunya 100 derajat C maka suhu akhir campuran itu adalah...    please tlong dijawab !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Saya coba jawab ya.<br>Q1=Q2<br>m.c.\u0394t=m.c.\u0394t<br>Karena c sama jadi dicoret<br>75.(tx-0)=50.(100-tx)<br>75tx=5000-50tx<br>75tx+50tx=5000<br>125tx=5000<br>tx=40<br>jadi suhu akhir campuran 40 derajat<br>MAAF KALAU SALAH :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-penerus-dari-mesin-bubut-memeiliki-diameter-10-cm-dan-ma-400",
+            "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-ambulans-yang-membunyikan-sirine-bergerak-dengan-laj-864",
+            "question": "Sebuah mobil ambulans yang membunyikan sirine bergerak dengan laju 90 km/jam-1 mendekati    seorang pendengar diam mendengar frekuensi bunyi sirine 1020\u00a0Hz. Bila kecepatan bunyi di udara 340 ms-1, maka frekuensi sirine ambulans adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fp = 1020 Hz<br>V = 340 m/s<br>Vs = 90 km/jam --&gt; 25 m/s<br><br>Jadi, <br>Fp = [tex] \\frac{V}{V-Vs} [/tex]Fs<br>1020 = [tex] \\frac{340}{340-25} [/tex]Fs<br>Fs = 1020 / 1,08<br>= 944,4 Hz<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cek lampiran.\u00a0Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/sebuah-mobil-ambulans-yang-membunyikan-sirine-bergerak-dengan-laj-864-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dalam-10-ppm-berapa-mililiter-132",
+            "question": "Dalam 10 ppm berapa mililiter",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1 mg / L = 1 PPM<br>10ppm= 10mg/l<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "satuan 1 mg / L diubah kedalam ppm adalah\u00a0\u00a01 ppm<br>jika ditanya\u00a010ppm diubah ke\u00a0mg/l\u00a0<br>maka hasilnya adalah\u00a010mg/l<br><br>jadi ,10 ppm= 10 mg/l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-reaksi-kimia-dan-reaksi-fisika-yang-nda-tahu-nda-usah-906",
+            "question": "Perbedaan reaksi kimia dan reaksi fisika? Yang nda tahu nda usah pura pura jawab cuma buat dapat poin ya! akan aku laporkan ke moderator loh!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reaksi kimia menghasilkan zat baru, terjadi perubahan bentuk, warna dan bau, contohnya meletusnya kembang api, nasi basi dan kayu yang dibakar.        sedangkan perubahan fisika tidak menghasilkan zat baru, hanya terjadi perubahan wujud/bentuk, contohnya air jadi es, beras dihaluskan jadi tepung.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-pegas-tergantung-beban-yaang-massanya-1kg-pegas-ters-566",
+            "question": "pada sebuah pegas tergantung beban yaang massanya 1kg, pegas tersebut bertambah panjang 5cm. hitunglah energi potensial pegas! berpa energi potensial pegas jika bebannya menjadi 2,5 kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6.5 semoga betul jangan lupa di terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui : <br>m = 1 kg<br>g = 10m/s\u00b2<br>\u0394x = 5cm = 5\u00d7[tex] 10^{-2} [/tex] m<br>ditanya : Ep<br><br>F = k . \u0394x<br>m . g = k . \u0394x<br>1 . 10 = k . 5\u00d7[tex] 10^{-2} [/tex]<br>k = 10/5\u00d7[tex] 10^{-2} [/tex]<br>k = 200 N/m<br><br>Ep = <u>1\u00a0</u> <u> </u>\u00d7 k \u00d7 \u0394x\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>Ep = 1/2 \u00d7 200 \u00d725 \u00d7[tex] 10^{-4} [/tex]<br>Ep = 2500 x [tex] 10^{-4} [/tex]<br>Ep = 0,25 joule<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "energi-dari-sebuah-partikel-yang-massa-diamnya-55x10-27-kg-se-678",
+            "question": "Energi dari sebuah partikel yang massa diamnya 5,5x10^{-27} kg setara dengan ... ( c = 3 x 10^{8} )\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "En= h (c/Lamda) \u00a0 (simbol lamda nya gk ad jadi pke tulis ja nama nya)<br><br>h itu=6,63x10^-34 Joule/Second<br><br>tingal masukan ja,, tapi lamda gk diketahui jadi gk bs dicari<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-udara-berisi-udara-panas-memiliki-volume-500m3-bal-902",
+            "question": "sebuah balon udara berisi udara panas memiliki volume 500m^3. balon itu bergerak ke atas dengan kelajuan tetap di udara yang massa jenisnya 1,2 kg/m^3. massa jenis udara panas yang ada di dalam balon ketika itu adalah 0.80 kg/m^3. \u00a0 \u00a0 a. berapa massa total balon dan udara panas di dalamnya? b. berapa percepatan ke atas balon ketika suhu udara di dalam balon dinaikkan hingga massa jenisnya menjadi 0,7kg/m^3 ? \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jawab A.\u00a0<br><br>\u03a3F = 0\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = 0\u00a0<br>-m + (1.2)\u00a0500 - (0.8)\u00a0500 \u00a0 \u00a0= 0\u00a0<br>m = 200 kg\u00a0<br><br><br><br><br>Jawab B.\u00a0<br><br>\u03a3F = m a\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = M a\u00a0<br>-(200)(9.8) + (1.2)(9.8)(500) - (0.7)(9.8)(500) = (200 + 0.7 * 500) a\u00a0<br>a = 0.89 m/s\u00b2</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

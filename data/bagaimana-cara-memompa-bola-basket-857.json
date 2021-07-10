@@ -1,0 +1,138 @@
+{
+    "question": "Bagaimana cara memompa bola basket?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dengan mengisi angin menggunakan pompa, sehingga tekanan udara di dalam bola basket meningkat :) Saat bola di pompa, udara dari ruang hampa yg ada di pompa aja terdorong ketika mendorong tuas (lagi posisi mompa), menuju bola basket :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-luas-penampang-piston-i-sama-dengan-5-kali-piston-ii-j-742",
+            "question": "Diketahui luas penampang piston I sama dengan 5 kali piston II. Jika pada piston I diberi beban 4Kg, berapa beban yang harus diberikan pada pisto II agar sistem dalam keadaan seimbang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Penerapan hukum Pascal yaitu pada pengungkit hidrolik. Rumus pada hukum Pascal yaitu F\u2081/A\u2081 = F\u2082/A\u2082. </p><br><h3>Pembahasan</h3><p>Berdasarkan soal diatas diketahui bahwa:</p><ul><li>luas penampang piston I sama dengan 5 kali piston II -&gt; A\u2081 = 5, A\u2082 = 1</li></ul><ul><li>Jika pada piston I diberi beban 4Kg -&gt; m = 4 kg</li></ul><p>Adapun yang ditanyakan pada soal adalah menentukan gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang (F\u2082).</p><p>Untuk menyelesaikan soal diatas pertama - tama kita mencari gaya beban pada penampang I terlebih dahulu dengan cara sebagai berikut:</p><p>F\u2081= m \u00d7 g</p><p>F\u2081= 4 \u00d7 10</p><p>F\u2081 = 40 N</p><p>Nah, setelah diketahui gaya beban penampang piston I, maka langkah yang digunakan untuk mencari gaya beban pada penampang piston II yaitu sebagai berikut:</p><p>F\u2081/A\u2081 = F\u2082/A\u2082</p><p>40/5 \u00a0= F\u2082/1</p><p>40 \u00d7 1 = F\u2082 \u00d7 5</p><p>40 = F\u2082 \u00d7 5</p><p>F\u2082 = 40/5</p><p>F\u2082 = 8 N</p><p>Dengan demikian dapat disimpulkan bahwa besarnya gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang adalah <strong>8 N.</strong></p><br><h3>Pelajari lebih lanjut</h3><p>1. gaya minimum pada penampang kecil: https://brainly.co.id/tugas/15635353</p><p>2. gaya untuk mengangkat mobil: https://brainly.co.id/tugas/15761778</p><p>3. gaya untuk mengangkat beban: https://brainly.co.id/tugas/15814409</p><br><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> fluida</p><p><strong>Kode:</strong> 8.6.3</p><br><p><strong>Kata kunci:</strong> Hukum pascal, gaya tekan dan luas penampang</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-energi-yang-dipancarkan-elektron-yang-mengalami-eksitasi-da-303",
+            "question": "besar energi yang dipancarkan elektron yang mengalami eksitasi dari n=4 ke n=2 spektrum atom hidrogen adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik E1 = 13,6 ev =energi\u00a0 hidrogen<br>\u00a0 \u00a0 \u00a0 n1 = 2<br>\u00a0 \u00a0 \u00a0 n2 = 4<br>Dit E2 ?<br>jawab.<br>E1 = - 13,6 / 4 = - 3,4<br>En2 = -13,6 / 16 = - 0,85<br><br>\u0394En = E2 - E1<br>\u00a0 \u00a0 \u00a0 \u00a0 = -0,85 + 3,4 = 2,55 EV",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Dik E1 = 13,6 ev =energi\u00a0 hidrogen<br>\u00a0 \u00a0 \u00a0 n1 = 2<br>\u00a0 \u00a0 \u00a0 n2 = 4<br>Dit E2 ?<br>jawab.<br>E1 = - 13,6 / 4 = - 3,4<br>En2 = -13,6 / 16 = - 0,85<br><br>\u0394En = E2 - E1<br>\u00a0 \u00a0 \u00a0 \u00a0 = -0,85 + 3,4 = 2,55 EV<br><br>jadi, energinya yaitu 2,55 EV<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-balok-a-dan-b-di-atas-bidang-datar-licin-dihubungkan-dengan-389",
+            "question": "Dua balok A dan B di atas bidang datar licin, dihubungkan dengan tali dan ditarik dengan gaya mendatar F=100 N hingga mengalami percepatan tetap a . Jika massa balok A=30 kg dan massa balok B=20 kg, maka gaya tegangan tali T dan a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F =100 \u00a0N<br>\u00a0 \u00a0 \u00a0ma = 30 kg dan mb = 20 kg<br>Dit T ?<br><br>T =\u00a0[tex] \\frac{ma}{ma+mb}. F [/tex]<br><br>T =\u00a0[tex] \\frac{30}{30 + 20} . 100 N  [/tex] = 3000 / 50 = 60 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "letak-kutub-kutub-magnet-bumi-tidak-berimpit-dengan-kutub-geograf-486",
+            "question": "Letak kutub-kutub magnet bumi tidak berimpit dengan kutub geografis bumi\u00a0karena ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bumi memiliki 2 sumbu, dengan searah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-menurunkan-tegangan-listrik-bolak-balik-dari-861",
+            "question": "sebuah transformator menurunkan tegangan listrik bolak-balik dari 220 volt menjadi 10 volt. efisiensi transformator 60%. bila kuat arus pada kumparan sekunder 6,6 ampere, maka kuat arus pada kumparan primernya adalah... A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Efisiensi = [tex] \\frac{P s}{P p} [/tex]<br>P = V . I<br><br>Jadi, Efisiensi = [tex] \\frac{Vs . Is}{Vp . Ip} [/tex]<br>60 % = [tex] \\frac{10.6,6}{220.x} [/tex]<br>x = [tex] \\frac{6600}{13200} [/tex]<br>x = 0,5 A<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "efisiensi=[tex] \\frac{Pkeluaran}{Ptotal} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = [tex] \\frac{Vs.Is}{Vp.Ip} [/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 60%\u00a0 =\u00a0  [tex] \\frac{10x6,6}{220xIp} [/tex] <br>\u00a0\u00a0 Ip\u00a0 \u00a0 \u00a0\u00a0 =\u00a0   [tex] \\frac{10x6,6}{220x60%} [/tex]\u00a0 = 0,5 A <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bandul-yabg-di-ikat-seutas-tali-1-m-di-putar-secara-horizo-570",
+            "question": "sebuah bandul yabg di ikat seutas tali 1 m di putar secara horizontal dan memiliki kecepatan sudut putaran bandul 20 rad/s . kecepatan sudut ketika tali diperpendek menjadi 0,5 meter yaitu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik :<br></span>R\u2081 = 1 m<br>w\u2081 = 20 rad/s<br>R\u2082 = 0,5<br>Dit :\u00a0w\u2082<br><span>Penyelesaian :\u00a0<br>L</span>\u2081\u00a0<span>=\u00a0L</span>\u2082<br>Iw\u2081=Iw\u2082<br>mR\u2081\u00b2\u00a0\u00b7\u00a0w\u2081=mR\u2082\u00b2\u00a0\u00b7\u00a0W\u2082<br><br>[tex] W_{2}= \\frac{W_{1}.R_{1}^{2}}{R_{2}^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20.1^{2}}{(0,5)^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20}{0,25}  [/tex]<br><br>[tex] W_{2}= 80  [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantujembatan-ponton-dibuat-dari-drum-yang-terapung-843",
+            "question": "Tolong dibantu....Jembatan ponton dibuat dari drum yang terapung diatas permukaan air. Setiap drum terisi udara sehingga terapung diatas permukaan air. Setiap drum terisi udara sehingga secara keseluruhan bermassa 20kg dan volume rata-rata 2m\u00b3. Tentukan berat beban maksimum yang dapat ditahan oleh drum tersebut...    a. 2x10\u2077 N\r\nb. 2x10\u2076 N\r\nc. 2x10\u2075 N\r\nd. 2x10\u2074 N\r\ne. 2x10\u00b3 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. m = 20 kg<br>\u00a0\u00a0 \u00a0 \u00a0 V = 2 [tex] m^{3} [/tex] = 2000 liter<br>Fa = V . g<br>\u00a0\u00a0 \u00a0 = 2.000 x 10<br>\u00a0\u00a0 \u00a0  = 2 x [tex] 10^{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pegas-dengan-luas-penampang-sebesar-05-mm-persegi-di-tarik-denga-216",
+            "question": "pegas dengan luas penampang sebesar 0,5 mm persegi di tarik dengan gaya sebesar 2,5N. tentukan tegangan pada pegas tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "T= F/A<br>= 2,5/0,5 . 10 pngkt -6<br>= 5 x 10 pnkgt 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya tegangan itu = F : A\u00a0<br>keterangan :<br>F = gaya\u00a0<br>A = luas penampang\u00a0<br><br>F\u00a0\u21d2 2,5N<br>A\u00a0\u21d2 0,5 mm = 0,5 : 1000 = 0,0005 m ( mm di ganti m )<br>jadi,\u00a0<br>tegangan = F : A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2,5 : 0,0005\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-kayu-massanya-m-dan-volumenya-v-dicelupkan-ke-dalam-234",
+            "question": "sebuah balok kayu massanya m dan volumenya V dicelupkan ke dalam air yang mempunyai massa jenis 1 gcm-\u00b3. Volume balok yang tampak diatas permukaan air sebesar 20%. Dari data tersebut, dapat ditentukan massa jenis balok kayu adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(100%-20%).1=80%.1=0,8g/cm^-3",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u03c1(kayu)=<span>\u03c1(air)* (v(tercelup)/v(kayu))<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =</span><span>1 gcm-\u00b3 * (80%/100%)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =0,8\u00a0</span>gcm-\u00b3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

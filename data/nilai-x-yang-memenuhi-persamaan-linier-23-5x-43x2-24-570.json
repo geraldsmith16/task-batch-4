@@ -1,0 +1,138 @@
+{
+    "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-banyak-suku-dari-deret-berikut-a691215756-b-978",
+            "question": "Tentukan banyak suku dari deret berikut    a.6\u00b19+12+15+.....=756\r\n b.56+51+46+41+.....=-36\r\n c.10+14+18+22+.....=640",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) Sn = n/2(2a +(n-1)b)<br>\u00a0 \u00a0 756=n/2(2.6 + (n-1)3)<br>\u00a0 \u00a0 \u00a0756x2 = n(12+ 3n-3)<br>\u00a0 \u00a0 \u00a01512=12n+3n2-3n<br>\u00a0 \u00a0 \u00a01512=3n2+9n<br>\u00a0 \u00a0 \u00a0 3n2+9n-1512=0<br>\u00a0 \u00a0 \u00a0 n2+3n-504=0<br>\u00a0 \u00a0 \u00a0 (n+24) (n-21)=0<br>\u00a0 \u00a0 \u00a0 \u00a0n+24=0 atau n-21=0<br>\u00a0 \u00a0 \u00a0 \u00a0 n=-24 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n=21(benar karena paositif)<br>b)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0-36=n/2(2.56+(n-1)-5<br>\u00a0 \u00a0-36x2=n(112-5n+5)<br>\u00a0 \u00a0 -72 = n(117-5n)<br>\u00a0 \u00a0 -72 = 117n-5n2<br>\u00a0 \u00a0 5n2-117n-72=0<br>\u00a0 \u00a0 (n-120/5)5(n+3/5)=0<br>\u00a0 \u00a0 \u00a0n-24 =0 atau 5n+3=0<br>\u00a0 \u00a0 \u00a0n=24(benar) \u00a05n=-3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n= -3/5<br>c)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0 640=n/2(2.10+(n-1)4<br>\u00a0 \u00a0 640=n/2(20+4n-4)<br>\u00a0 \u00a0 640=10n+2n2-2n<br>\u00a0 \u00a0 640=2n2+8n<br>\u00a0 \u00a0 2n2+8n-640=0<br>\u00a0 \u00a0 \u00a0n2+4n-320=0<br>\u00a0 \u00a0 (n+20)(n-16)=0<br>\u00a0 \u00a0 \u00a0n+20=0 atau n-16=0<br>\u00a0 \u00a0 \u00a0n=-20 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n=16(benar)<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-yang-akar-akarnya-27-dan-1-adalah-caranya-y-165",
+            "question": "Persamaan kuadrat yang akar akarnya 2/7 dan -1 adalah ? caranya yah guys",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x-2/7)(x+1)=0<br>\u00a0x^{2}+5/7x-2/7 =0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agak ragu deh....<br><br>x1 = 2/7 \u21d2 (7x - 2) = 0<br>x2 = -1 \u21d2 (x +1) = 0<br>jadi,<br>(7x - 2)(x + 1) = 0<br>7x^{2} +5x-2 = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andra-megerjakan-soal-ipa-selama-1-jam-36-menit-43-detik-dan-mate-528",
+            "question": "andra megerjakan soal IPA selama 1 jam 36 menit 43 detik dan matematika selama 1 jam 48 menit 29 detik. waktu yang dibutuhkan andra seluruhnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti ditambahka jawabnnya 2jam \u00a025 menit 12 detik<br><br>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "2jam 25 menit 12 detik....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-xyz-dengan-siku-siku-d-y-cos-z-20-per-24-tentuka-889",
+            "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-rumus-fungsi-f-dan-rumus-f-o-g-untuk-kondisi-g-o-f-302",
+            "question": "1. Tentukan rumus fungsi f dan rumus (f o g) untuk kondisi (g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1    2. Tentukan rumus fungsi f dan (g o f) untuk kondisi (f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1\r\n\r\n3. Tentukan rumus fungsi g dan rumus (g o f) untuk kondisi (f o g)(x) = akar 4x^2 + 12x + 14, f(x) = akar x^2 + 5, dan g(2) = 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0(g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1<br></span>\u00a0x^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 =\u00a04x^2 + 4x +1<br>\u00a0 f =\u00a0\u221a4x^2 + 4x +1<br>\u00a0 f = 2x+1<br><br>\u00a0 f o g =\u00a02(x^2 - 1)+1 = 2x^2-1<br><br><br><br>2.\u00a0<span>(f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1 \u00a0 \u00a0 g- = 1/2x -1/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f =\u00a0</span>4(1/2x -1/2)^2 - 6(1/2x -1/2) + 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f = x^2 - 5x + 9<br><br>\u00a0 g o f =\u00a02(x^2 - 5x + 9) + 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x^2 - 10x + 19<br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "1)\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x dan g(x) = x\u00b2\u00a0- 1<br>\u21d2\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x\u00a0<br>\u21d2 g(f(x)) =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 - 1 =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 =\u00a04x\u00b2\u00a0+ 4x + 1<br>\u21d2<br><br>2)\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5 dan g (x) = 2x + 1<br>\u21d2\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5\u00a0<br>\u21d2 f(g(x)) =\u00a04x\u00b2\u00a0- 6x + 5<br>\u21d2 f( 2x+1) = 4x\u00b2 - 6x +5<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a02x (2x\u00a0+1) + 4x + 5<br>\u21d2 \u00a0 \u00a0 \u00a0\u00a0f(x)\u00a0\u00a0= 2x\u00b2 + 4 x + 5 \u00a0 \u00a0, sehingga :<br>\u21d2\u00a0(g o f)(x)\u00a0= g (f(x))<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= g (\u00a02x\u00b2 + 4 x + 5 )<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2\u00a0(\u00a02x\u00b2 + 4 x + 5 ) + 1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x\u00b2 + 8x + 10 +1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a04x\u00b2 + 8x + 11<br><br><br><span>3)\u00a0(f o\ng)(x) =\u00a0\u221a4x\u00b2\u00a0+ 12x + 14, f(x) =\u00a0\u221ax\u00b2<span>\u00a0+\n5, dan g(2) = 7<br>\n\u00a0 \u00a0 \u00a0<span>\u221a4x\u00b2\n= 2x \u00a0 dan \u00a0 \u00a0\u221ax\u00b2\u00a0= x</span><br></span><span>\u21d2\u00a0(f o g)(x) =\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2 f (g(x)) \u00a0\n\u00a0=\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2\u00a0g(x) + 5\n\u00a0=\u00a02x\u00a0+ 12x + 14<br></span></span>\n\n<span>\u21d2\u00a0g(x)\n+ 5 \u00a0=\u00a02x\u00a0+\n12x + 14</span>\n<br><span>\u21d2 g(x) = 2x\u00a0+\n12x + 14 \u2013 5</span>\n<br><span>\u21d2 g(x) = 14x + 9 </span>\n\n\u00a0\n\n\u00a0\n<br><span><br>\u21d2\u00a0(g o f)(x)\u00a0= g\n(f(x))<span><br></span><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = g (x + 5)</span></span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = \u00a014 (x + 5) + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 14x + 60 + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0 14 x + 69</span><br><br>NB : 1 dan 3 belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-buah-buku-dan-2-buah-pensil-rp880000-jika-harga-sebua-328",
+            "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-urine-yang-dikeluarkan-dari-tubuh-dipengaruhi-oleh-ab-617",
+            "question": "Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh ...    A.banyaknya makanan yang dimakan\r\nB.faktor emosional\r\nC.banyaknya cairan yang diminum\r\nD.jumlah glukosa yang harus dikeluarkan dari darah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas \u00a0 \u00a0 \u00a0 \u00a0 : X SMA<br>Pelajaran \u00a0 : Biologi<br>Kategori \u00a0 \u00a0 : Sistem Ekskresi<br>Kata kunci : jumlah urine, pengaruh<br><br>Pembahasan :<br><br>Faktor yang mempengaruhi jumlah urine yang dikeluarkan dari tubuh :<br><br>1.\u00a0<span>Hormon Antidiuretik (ADH)<br>\u00a0 \u00a0\u00a0</span><span>Jika darah yang akan disaring banyak mengandung air,\u00a0</span>\u00a0<span>maka hormon ADH yang disekresekikan ke dalam ginjal semakin sedikit, penyerapan air akan sedikit pula.<br><br>2.\u00a0</span><span>Hormon insulin<br>\u00a0 \u00a0\u00a0</span>Kadar hormon insulin yang rendah menyebabkan produksi urine meningkat sehingga penderita<span>\u00a0\u00a0</span><span>sering mengeluarkan urine.<br><br>3.\u00a0</span><span>Kondisi psikologis (gejolak emosi dan stress)<br>\u00a0 \u00a0\u00a0</span><span>Gangguan psikologis stress yang berpengaruh terhadap kontraksi dan tekanan pada katup kantung kemih.<br><br>4.\u00a0</span><span>Suhu lingkungan<br>\u00a0 \u00a0\u00a0</span><span>Saat cuaca dingin orang lebih sering untuk ingin mengeluarkan urine.<br><br>5.\u00a0</span><span>Konsumsi garam<br>\u00a0 \u00a0\u00a0</span><span>Kadar garam yang tinggi dalam darah menyebabkan ginjal memproduksi garam mineral yang lebih banyak sehingga produksi urine meningkat.<br><br>6.\u00a0</span><span>Jumlah air yang diminum<br>\u00a0 \u00a0\u00a0</span><span>Banyak minum akan menyebabkan urine yang dikeluarkan lebih banyak dari dalam tubuh.<br><br>7.\u00a0</span><span>Konsumsi alkohol dan kafein<br>\u00a0 \u00a0\u00a0<br><br>Jadi\u00a0</span>Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh \u00a0<span><strong>banyaknya cairan yang diminum (C)</strong></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

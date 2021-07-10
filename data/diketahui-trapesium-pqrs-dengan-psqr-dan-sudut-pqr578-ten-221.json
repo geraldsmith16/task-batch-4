@@ -1,0 +1,140 @@
+{
+    "question": "Diketahui trapesium PQRS. dengan PS/QR dan sudut P:Q:R=5:7:8. tentukan besar sudut R!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Karena yang hanya dikasih penjelas, yang P,Q, dan R<br>dan diketahui Jumlah seluruh sudut segi Empat adalah 360 derajat<br>Jadi, 360/4=90 derajat<br>(90\u00a0X\u00a03):(5+7+8)= 13,5 derajat<br>Maka, 13,5 x 8= 108 derajat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-luas-lingkaran-yg-kelilingnya-sebagai-berikut-a-88c-529",
+            "question": "hitunglah luas lingkaran yg kelilingnya sebagai berikut \u00a0 a) 88cm\u00a0\u00a0\u00a0\u00a0 b) 94,2cm \u00a0 \u00a0 \u00a0 \u00a0 c) 188,4cm \u00a0\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) k = 2 \\pi r \\\\ 88=2 \\frac{22}{7} r \\\\ r=88 \\frac{7}{44}  \\\\ r=14 \\\\  \\\\ L= \\pi r^{2} \\\\ L= \\frac{22}{7} 14^{2}  \\\\ L=\\frac{22}{7}196 \\\\ L=616 cm^{2}  \\\\  \\\\ b) k = 2 \\pi r \\\\ 94,2=2 \u00d7 3,14r  \\\\ r=94,2:6,28 \\\\ r=15 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 15^{2}  \\\\ L=3,14 \u00d7  225 \\\\ L=706,5 cm^{2}  \\\\  \\\\ c) k = 2 \\pi r \\\\ 188,4=2 \u00d7 3,14r  \\\\ r=188,4:6,28 \\\\ r=30 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 30^{2}  \\\\ L=3,14 \u00d7  900 \\\\ L=2.826 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704",
+            "question": "Pada suatu lingkaran dengan pusat O diketahui titik A,B,C dan D pada keliling lingkaran , sehingga sudut AOB = 35\u00b0 dan sudut COD 140\u00b0 . Jika panjang busur AB = 14 cm , hitunglah panjang busur CD .",
+            "attachments": [
+                "question-attachments/pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Besar &lt;AOB /Besar &lt;COD =Panjang busur AB / Panjang busur CD<br>35/140 = 14/ panjang busur CD<br>\u00a0\u00a0 \u00a0 \u00a0 (dikali silang)<br>35*panjang busur CD = 140*14<br>35*panjang busur CD =1960<br>\u00a0\u00a0 \u00a0 panjang busur CD =1960/35<br>\u00a0\u00a0 \u00a0 panjang busur CD =56\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-6-dan-7-dari-barisan-112358-sejalian-caranya-ya-965",
+            "question": "Suku ke 6 dan 7 dari barisan 1,1,2,3,5,8,...\r\nsejalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_1 = 1 \\\\ U_2 = 1 \\\\ U_n = U_{n-2} + U_{n-1} \\\\ U_6 = U_4 + U_5 = U_4 + U_3 + U_4 = 2U_4 + U_3 = 2U_2 + 3U_3 \\\\ = 5U_2 + 3U_1 = 5*1 + 3*1 = 8 \\\\ U_7 = U_5 + U_6 = U_3 + U_4 + 8 = 2U_3 + U_2 + 8 \\\\= 2U_1 + 3U_2 + 8 = 2*1 + 3*1 + 8 = 13[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : U1 / a=1<br>\u00a0\u00a0 \u00a0 \u00a0 U2 /b =2<br>dit: U6 dan U7?<br>jawab :<br>b= U2-U1= 2-1=1\u00a0 \u00a0 U7=1+(7-1)1<br>\u00a0U6= 1+(6-1)1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>\u00a0\u00a0 \u00a0 =6<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-2x-136x424x3-324",
+            "question": "B. 2X-1/3+6x+4/2=4x+3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 x - 1/3 + 6x +4/2 = 4x+3\n8\u00d7 + 5/3 = 4x +3 \n4\u00d7 = 4/3\n\u00d7 = 1/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-fungsi-fx-8-3x-nilai-f-5-please-bant-806",
+            "question": "Diketahui rumus fungsi f(x) = 8 - 3x. Nilai f(-5)=... \r\nPlease bantuu yaa :)\u00a0 ^_^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x)=8 - 3x<br>maka nilai f(-5)=8 - 3(-5)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =8+15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =23",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) = 8 - 3x <br> x diganti sama -5 <br> 8 - 3.-5 = .. <br> 8 - -15 = ... <br> f(x) = 23",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-dibuat-dengan-skala-1-1500000jika-jarak-dua-kota-541",
+            "question": "sebuah peta dibuat dengan skala 1 : 1.500.000.jika jarak dua kota pada peta adalah 7,5 cm,maka jarak sebenarnya dua kota tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau nggak salah caranya seperti ini\n1.500.000 x 7,5  =  11.250.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jarak sebenarnya=jarak pada peta x skala pada peta (skala kedua/yang belakang)<br>=7,5 X1500000<br>=11.250.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-permukaan-kubus-dengan-sisi-8-cm-843",
+            "question": "Hitunglah luas permukaan kubus dengan sisi 8 cm ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 8 pangkat 2<br>6 x 64 = 384<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 x 8 x 8\u00a0<br>=6 x 64<br>=384",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-gross-berapa-lusin-515",
+            "question": "1 gross berapa lusin ????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1 gross berapa lusin </p><p>gross \u2192 umumnya digunakan pada jumlah alat tulis, seperti jumlah buku, jumlah pensil, jumlah bolpoint dan sebagainya</p><br><p>1 gross = 144 buah</p><p>1 rim = 500 lembar</p><p>1 lusin = 12 buah</p><p>1 kodi = 20 lembar</p><h3>Pembahasan</h3><p>1 gross = 144 buah</p><p>1 lusin = 12 buah</p><p>1 gross = 144/12</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 12 lusin</p><p>jadi 1 gross = 12 lusin</p><br><p>jika pingin lebih jelas lagi, simak videonya </p><br><h3>Pelajari Lebih Lanjut</h3><p>soal\" tentang satuan kuantitas dapat disimak juga di</p><p>https://brainly.co.id/tugas/9830833</p><p>https://brainly.co.id/tugas/13585351</p><p>https://brainly.co.id/tugas/92509</p><p>https://brainly.co.id/tugas/4392633</p><h3>================================</h3><h3>Detail Jawaban</h3><p>kelas : 3</p><br><p>mapel : matematika</p><br><p>kategori : hubungan satuan waktu, jumlah</p><br><p>kata kunci : satuan jumlah</p><br><p><strong>kode </strong>: 3.2.8</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-ab-5-cm-panjang-busur-cd-8-cm-dan-sudut-aob-15-608",
+            "question": "Panjang busur AB =5 cm, panjang busur CD =8 cm, dan sudut AOB =15\u00b0, maka besar sudut COD adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AB = 5 cm<br>CD = 8 cm<br>AOB = 15 derajat<br>AOB/ COD = AB/ CD<br>COD= AOB. CD/ AB<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = 15. 8 / 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 24 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

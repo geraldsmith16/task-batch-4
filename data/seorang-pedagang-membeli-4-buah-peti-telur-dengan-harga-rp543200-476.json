@@ -1,0 +1,140 @@
+{
+    "question": "Seorang pedagang membeli 4 buah peti telur dengan harga Rp543.200,00. Setiap peti memiliki bruto 25 kg dan tara 3 % . Jika pedagang menghendaki untung 25 %, maka harga jual telur per kg nya adalah ..    a. Rp4.200,00\r\nb. Rp5.600,00\r\nc. Rp6.790,00\r\nd. Rp7.000,00",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Bruto: 25x4=100kg<br>Tara: 3/100 x 100= 3 kg<br>Neto: 100kg-3 kg = 97 kg.<br>Harga pembelian per kg nya: 543.200 : 97= 5600<br>Untung= 25/100 x 5600= 1400<br>Jadi harga jualnya 5600+1400= Rp 7.000,00<br>Kalau ada yang kurang paham bisa ditanyakan<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dijatuhkan-tegak-lurus-dari-ketinggian-4m-dan-setiap-962",
+            "question": "sebuah bola dijatuhkan tegak lurus dari ketinggian 4m dan setiap kali memantul tingginya 3/4 tinggi semula.Tentukan panjang lintasan yang dilalui bola sampai berhenti ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{b + a}{b - a} . 4 =  \\frac{4 + 3}{4 - 3} . 4 =  \\frac{7}{1} . 4 = 28 m[/tex]frac{4 + 3}{4 - 3} \u00d7 4\u00a0=[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-x-13-3-dan-x-tumpul-berapakah-nilai-dari-cos-x-210",
+            "question": "Jika tan x = -1/3 \u221a3, dan x tumpul berapakah nilai dari cos x ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo nilai tan minus berarti tan itu ada di kuadran 2 atau ngga 4. terus karena nilainya 1/3\u221a3 berarti sudutnya 30\u00b0. karena sudutnya tumpul,berarti di kuadran 2. jadi nilai cosnya : cos (180\u00b0-30\u00b0) = -(cos 30\u00b0) = - 1/2\u221a3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>x = -1/3 \u221a3 =\u00a0</span>[tex] \\frac{sin 2x}{cos 2x + 1} =  \\frac{-1}{ \\sqrt{3} } [/tex]<br><br><br><br><br>Semoga membantu :) D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-dua-sudut-yang-berkomplemen-adalah-474",
+            "question": "Besar dua sudut yang berkomplemen adalah ..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 kalo ngakkk salahhhh dehhh...",
+                    "attachments": []
+                },
+                {
+                    "answer": "audut komplemen adalah dua buah sudut lancip yg besarnya 90derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahiranya-apakah-relasi-460",
+            "question": "jika siswa direlasikan dengan tanggal kelahiranya. apakah relasi tersebut merupakan fungsi?berikan enjelasanmu.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ya. karena masing-masing himpunan mendapatkan pasangannya sendiri.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya,karena setiap siswa hanya akan memiliki 1 tanggal lahir,tidak kurang-tidak lebih<br>dan kemungkinan akan ada beberapa\u00a0siswa yang memiliki tanggal lahir yang sama tapi tetap 1 tanggal lahir,itu juga disebut fungsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-grafik-y-2-sin-3x-271",
+            "question": "Gambarkan grafik : y = 2 sin 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar grafik y = 2 sin3x<br><br>Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/gambarkan-grafik-y-2-sin-3x-271-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-garis-singgung-yang-melalui-titik-2-22-pada-lin-480",
+            "question": "Persamaan garis singgung yang melalui titik (-2 , 2\u221a2) pada lingkaran x\u00b2 + y\u00b2 = 12 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1x + y1y = r^2<br>-2x + 2\u221a2 y = 12",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

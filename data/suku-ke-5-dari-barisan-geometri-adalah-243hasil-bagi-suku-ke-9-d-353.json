@@ -1,0 +1,146 @@
+{
+    "question": "suku ke 5 dari barisan geometri adalah 243,hasil bagi suku ke 9 dengan suku ke 6 adalah 27,suku ke 2 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XII</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Barisan dan Deret</strong><br><strong>Kata Kunci : geometri, rasio, suku</strong><br><br><strong>Kode : 12.2.7 [</strong><span><strong>Kelas 12 Matematika BAB 7 - Baris dan Deret]</strong><br><br>Diketahui<br>Barisan geometri<br>Suku ke-5 atau U</span>\u2085 = 243<br>Hasil bagi suku ke-9 dengan suku ke-6 adalah 27<br><br>Ditanya<br>Suku ke-2 (U\u2082)<br><br>Penyelesaian<br><br>Gunakan rumus-rumus berikut ini untuk barisan geometri.<br><br>Rumus suku ke-n\u00a0\u21d2\u00a0[tex]U_n=a.r^{n-1}[/tex]<br>Keterangan<br>a = U\u2081 = suku pertama<br>r = rasio<br><br><strong>Step-1</strong><br><strong>Siapkan suku ke-5</strong><br><br>\u21d4 U\u2085 = 243<br>\u21d4\u00a0[tex]a.r^4=243[/tex]<br><br><strong>Step-2</strong><br><strong>Hubungan antara suku ke-9 dengan suku ke-6 untuk mendapatkan rasio</strong><br><br>\u21d4\u00a0[tex] \\frac{U_9}{U_6}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{a.r^8}{a.r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{r^8}{r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex]r^3=27[/tex]<br><br>DIperoleh rasio sebesar r = 3.<br><br><strong>Step-3</strong><br><strong>Menentukan suku pertama</strong><br><br>Substitusikan rasio ke dalam suku ke-5.<br><br>\u21d4\u00a0[tex]a.(3)^4=243[/tex]<br>\u21d4\u00a0[tex]a.81=243[/tex]<br>Diperoleh suku pertama yaitu a = 3.<br><br><strong>Final step</strong><br><strong>Hitung ke-2</strong><br><br>\u21d4\u00a0[tex]U_2=a.r[/tex]<br>\u21d4\u00a0[tex]U_2=(3)(3)[/tex]<br><br><strong>Diperoleh suku kedua yaitu U\u2082 = 9.</strong><br><br>__________________________<br><br>Simak soal notasi sigma\u00a0<br>brainly.co.id/tugas/13193195<br>Soal mengenai pembuktian dengan induksi matematika<br>https://brainly.co.id/tugas/13567638<br>Serta soal terkait deret aritmatika<br>brainly.co.id/tugas/1124372<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sin-x-cos-x-3-dan-tan-x-1-tentukanlah-nilai-sin-182",
+            "question": "Diketahui sin x + cos x = 3 dan tan x = 1. tentukanlah nilai sin x dan cos x!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x = 1<br>depan /samping = 1/1<br>jadi , <br><strong>depan = 1</strong><br><strong>samping = 1</strong> otomatis,<br><strong>miring = 1\u221a2</strong> atau \u221a2<br><br>jadi, <br><strong>sin x = de/mi = 1/\u221a2 = 1/2 \u221a2</strong><br><strong>cos x = sa/mi = 1/\u221a2 = 1/2 \u221a2</strong><br>\u00a0semoga membantu,,<br>dan semoga tidak salah,,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin x + cos x = 3 =&gt; cos x = 3 - sin x<br><br>tan x = 1<br>[tex] \\frac{sin x}{cos x} [/tex] = 1<br>[tex] \\frac{sin x}{3 - sin x} [/tex] = 1<br>sin x = 3 - sin x<br>2 sin x = 3<br>sin x = [tex] \\frac{3}{2} [/tex]<br><br>cos x = 3 - sin x<br>cos x = 3 - [tex] \\frac{3}{2} [/tex]<br>cos x = [tex] \\frac{3}{2} [/tex]<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-pangkat-2-sama-artinya-dengan-302",
+            "question": "8 pangkat -2 sama artinya dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama artinya dengan 8^-2 =\u00a0[tex] \\frac{1}{8^2} =  \\frac{1}{64}  [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau tidak salah sama dengan pangkat 8 : pangkat 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-deret-geometri-diketahui-sn4-dan-s440-tentukan-suku-921",
+            "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-laporan-arus-kas-455",
+            "question": "Apa yang dimaksud dengan laporan arus kas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Laporan arus kas<span>\u00a0(</span><span>adalah bagian dari\u00a0</span>laporan keuangan<span>\u00a0suatu perusahaan yang dihasilkan pada suatu</span>periode akuntansi<span>\u00a0yang menunjukkan aliran masuk dan keluar\u00a0</span>uang<span>\u00a0(kas) perusahaan.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "adalah bagian dari\u00a0laporan keuangan\n\u00a0suatu perusahaan yang dihasilkan pada suatuperiode akuntansi\n\u00a0yang menunjukkan aliran masuk dan keluar\u00a0uang\n\u00a0(kas) perusahaan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amoeba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-929",
+            "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+                    "attachments": []
+                },
+                {
+                    "answer": "(2*60)/15*30=240 amoeba",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketuai-fx-2log-x13-dan-gx-2log-x7-maka-f5-g-514",
+            "question": "Diketuai f(x) = 2log (x+1/3) dan g(x) = 2log (x+7) maka f(5) + g(5) =...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(5) + g(5) = 2log (5+\u00a01/3) + 2log (5+7)<br>= 2log (16/3) + 2log (12)<br>= 2log (16/3 x 12)<br>= 2log 64<br>= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sederhanakanlah-bentuk-persamaan-berikut-ini-acos-xcosec-xta-558",
+            "question": "1.sederhanakanlah bentuk persamaan berikut ini\r\na.cos x.cosec x.tan x\r\nb.cos x.cotan x + sin x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. cos x.cosec x.tan x<br><br>=&gt; [tex] cos x .\\frac{1}{sin x} .\\frac{sin x}{cos x} = 1[/tex]<br><br>b. cos x.cotan x + sin x<br><br>=&gt; [tex]cos x. \\frac{cos x}{sin x} + sin x[/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x}{sin x} + \\frac{sin^{2}x}{sin x} [/tex]<br><br>=&gt; [tex] \\frac{cos^{2}x + sin^{2}x}{sin x}  [/tex]<br><br>=&gt; [tex]\\frac{1}{sin x} [/tex]<br><br>=&gt; cosec x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hp-dari-2-sin-2x-3-0-0-x-360-543",
+            "question": "Tentukan Hp dari \r\n\u00a02 sin 2x -\u221a3 = 0\u00b0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2 sin 2x -\u221a3 = 0 , 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0<br></span><br>2 sin 2x -\u221a3 = 0<br><span>2 sin 2x\u00a0 = \u221a3<br>sin 2x = [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>sin 2x = sin 60<br>2x = 60 + k.360<br>x = 30 + k.180<br>untuk k = 0\u00a0  ==&gt; x = 30<br></span><span>untuk k = 1\u00a0  ==&gt; x = 210<br>atau<br>2x = (180 - 60) + k.180<br>x = 60 + k.180<br></span><span>untuk k = 0\u00a0  ==&gt; x = 60<br></span><span>untuk k = 1\u00a0  ==&gt; x = 240</span><br><br>HP = {30, 60, 210, 240}<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

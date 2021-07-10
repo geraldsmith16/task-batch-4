@@ -1,0 +1,140 @@
+{
+    "question": "Tolong bantu yaa    sbuah tabung dengan massa 180 kg. panjang 6 m, dan luas penampang 25 cm berdiri tegak di atas lantai maka besar tekanan berapa.... N/m",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "P = F / A<br>= (180 . 9,8) / 0,25<br>= .... / 0,25<br>",
+            "attachments": []
+        },
+        {
+            "answer": "P = F/A<br>\u00a0 \u00a0= 180.10 / 0,25<br>\u00a0 \u00a0= 7200 Pa",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sejumlah-gas-ideal-dalam-tabung-tertutup-dipanaskan-secara-isokho-499",
+            "question": "sejumlah gas ideal dalam tabung tertutup dipanaskan secara isokhorik sehingga suhunya naik menjadi empat kali suhu semula. energi kinetik rata-rata molekul gas ideal menjadi.....(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi kinetik rata-rata molekul gas hanya dipengaruhi suhu mutlak gas. Sehingga dibuat perbandingan:<br>Ek = 3/2 kT<br>Ek2/Ek1 = T2/T1 = 4T/T = 4kali semula<span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-kohesi-beserta-contohnya-654",
+            "question": "Apa yang di maksud kohesi beserta contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perkirakan-selisih-tekanan-hidrostatis-darah-di-antara-otak-dan-k-721",
+            "question": "Perkirakan selisih tekanan hidrostatis darah di antara otak dan kaki di dalam tubuh seseorang yang tingginya 165 cm. Anggap massa jenis darah 1,06 x 10^3 kg/m^3 dan g = 9,8 m/s^2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tekanan = pgh<br>tekanan = (1,06)(1000)(9,8)(1,65)<br>tekanan = 171402 Pa<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-sebuah-benda-di-udara-5-n-apabila-benda-ditimbang-di-dalam-803",
+            "question": "Berat sebuah benda di udara 5 N. Apabila benda ditimbang di dalam air (massa jenis air = 1000 kg/m3) beratnya menjadi 3,2 N. Jika percepatan gravitasi g = 10 m/s2 maka massa jenis benda adalah \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fa = Wb - Wc<br>\u00a0 \u00a0 \u00a0= 5N - 3,2N<br>\u00a0 \u00a0 \u00a0 = 1,8 N<br><br>Fa = pc.gc.vc<br>1,8 N = 1000.10.v<br><br>v =\u00a0[tex] \\frac{1,8}{10 000} = 1,8x10^-4 m^3[/tex]<br><br>atau Vb = vc<br><br>[tex]p = [tex] \\frac{mb}{vb} = \\frac{0,5}{1,8x10^-4} = 2,7778 kg/m^3 [/tex]<br><br>atau\u00a0<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kan di udara 5 N dan di air 3.2 N berarti ada Farchimedes sebesar 1.8N <br>Fa=\u0440(air) x V x g <br>1.8 = 1000 x V(benda dalam fluida) x 10 <br>V benda = 1.8x[tex] 10^{-4} [/tex] <br>\u0440(benda) = m(benda) / V(benda) <br>\u0440=[tex] \\frac{0,5}{1.8x 10^{-4} } [/tex] = 2777,77 kg/m3<br>maaf kalau ada salah <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613",
+            "question": "Berat benda saat ditimbang di udara adalah 30 N. Jika ditimbang didalam    air beratnya menjadi 22,5 N, dan jika ditimbang dalam suatu cairan lain \r\n beratnya menjadi 11,25 N. Tentukan massa jenis cairan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi ; fluida <br>Kata kunci : massa jenis cairan<br><br>Pembahasan : perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bola-tenis-massanya-100-gram-di-jatuhkan-ke-lantai-20-cm-tanpa-ke-343",
+            "question": "bola tenis massanya 100 gram di jatuhkan ke lantai 20 cm tanpa kecepatan awal. kemudian memantul dengan kecepatan 1 m/s . perubahan yang di alami bola tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perubahan energi potensial dan kinetik<br><br>E1 = Ep1 + Ek1<br>E1 = mgh + 0<br>E1 = 0,1 \u00d7 10 \u00d7 0,2<br>E1 = 0,2 J<br><br>E2 = Ep2 + Ek2<br>E2 = 0 + 1/2 \u00d7 m \u00d7 v\u00b2<br>E2 = 1/2 \u00d7 0,1 \u00d7 1\u00b2<br>E2 = 0,05 J<br><br>Perubahan Energi<br>E1 - E2 = 0,15 J<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-700-kg-bergerak-dengan-kecepatan-72-kmjam-768",
+            "question": "sebuah mobil bermassa 700 kg bergerak dengan kecepatan 72 km/jam. maka besar momentum mobil tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Massa = 700 kg<br>Kecepatan (V) = 72 km/jam =<u> 72 x 1000 </u>= 20 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03600<br><br>Momentum\u00a0(P) = ?<br><br>P = M x V<br>\u00a0 \u00a0= 700 x 20<br>\u00a0 \u00a0= 14000 kg m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pegas-dengan-luas-penampang-sebesar-05-mm-persegi-di-tarik-denga-216",
+            "question": "pegas dengan luas penampang sebesar 0,5 mm persegi di tarik dengan gaya sebesar 2,5N. tentukan tegangan pada pegas tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "T= F/A<br>= 2,5/0,5 . 10 pngkt -6<br>= 5 x 10 pnkgt 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya tegangan itu = F : A\u00a0<br>keterangan :<br>F = gaya\u00a0<br>A = luas penampang\u00a0<br><br>F\u00a0\u21d2 2,5N<br>A\u00a0\u21d2 0,5 mm = 0,5 : 1000 = 0,0005 m ( mm di ganti m )<br>jadi,\u00a0<br>tegangan = F : A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2,5 : 0,0005\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5000 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-memiliki-konstanta-pegas-sebesar-400-nm1jika-pa-642",
+            "question": "Sebuah pegas memiliki konstanta pegas sebesar 400 Nm\u207b\u00b9.Jika pada    pegas digantungkan sebuah beban dengan massa 2kg , hitunglah pertambahan\r\n panjang pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F=k.\u0394x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F=gaya, k=konstanta pegas,\u00a0\u0394x=pertambahan panjang<br>F=m.g<br><br>m.g=k.\u0394x<br>2.10=400.\u00a0\u0394x<br>20=400.\u0394x<br>\u0394x=20/400<br>\u0394x=1/20 meter<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

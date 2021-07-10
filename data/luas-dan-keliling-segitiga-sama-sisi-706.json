@@ -1,0 +1,134 @@
+{
+    "question": "Luas dan Keliling segitiga sama sisi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Luas= alas kali tinggi bagi 2<br>Keliling= ab+bc+ca<br>",
+            "attachments": []
+        },
+        {
+            "answer": "<em>Luas =\u00a0</em>[tex] \\frac{a^2}  {4} \\sqrt{3} [/tex]<br>Keliling= 3.a",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantu-saya-irisan-sebuah-pipa-mendatar-dengan-garis-t-647",
+            "question": "Tolong bantu saya ..    \u00a0irisan sebuah pipa mendatar dengan garis tengah 1 m berituk:\r\n\r\nlebar pipa 1 m panjang pipa 10 cm\r\n\r\ndidalam pipa tersebut terdapat air yang dalamnya 10 cm ditengah-tengah penampang. lebar permukaan air adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 x 1000 cm....<br>trus di tambah 1..;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-liter-bensin-untuk-50-km-senilai-dgn-liter-untuk-75-km-600",
+            "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-persamaan-cos-2x-sin-x-0-untuk-0x2-808",
+            "question": "Himpunan penyelesaian persamaan cos 2x-sin x = 0, untuk 0\u2264x\u22642 \u03c0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : persamaan, trigonometri<br><br>Pembahasan :<br>Persamaan trigonometri dalam derajat, yaitu :<br>Jika sin a\u00b0 = sin\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = (180 -\u00a0\u03b1) + k x 360,<br>Jika cos a\u00b0 = cos\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = -\u03b1 + k x 360,<br>Jika tan a\u00b0 = tan\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 180,<br>dengan k merupakan bilangan bulat.<br><br>Persamaan trigonometri dalam radian, yaitu :<br>Jika sin a = sin\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = (\u03c0 -\u00a0\u03b1) + k x 2\u03c0,<br>Jika cos a = cos\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = -\u03b1 + k x 2\u03c0,<br>Jika tan a = tan\u00a0\u03b1, maka a =\u00a0\u03b1 + k x \u03c0,<br>dengan k merupakan bilangan bulat.<br><br>Mari kita lihat soal tersebut.<br>Tentukan h<span>impunan penyelesaian dari persamaan cos 2x - sin x = 0, untuk\u00a00 \u2264 x \u2264 2\u03c0!<br><br>Jawab :<br>Diketahui persamaan<br>cos 2x - sin x = 0<br></span>\u21d4 cos 2x = sin x<br>\u21d4 cos 2x = cos([tex] \\frac{ \\pi }{2} [/tex] - x)<br>\u21d4 2x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] - x + k . 2\u03c0 atau 2x = -([tex] \\frac{ \\pi }{2} [/tex] - x) + k . 2\u03c0<br>\u21d4 3x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0 atau 2x = -[tex] \\frac{ \\pi }{2} [/tex] + x + k . 2\u03c0<br>\u21d4 x = [tex] \\frac{ \\pi }{6} [/tex] + k .\u00a0[tex] \\frac{2}{3} [/tex]\u03c0 atau x = -[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0<br><br>untuk <br>k = 0, x = [tex] \\frac{ \\pi }{6} [/tex]<br>k = 1, x =\u00a0[tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex]<br>k = 2, x =\u00a0[tex] \\frac{9 \\pi }{6} [/tex]<br><br>Jadi, himpunan penyelesaiannya adalah {[tex] \\frac{ \\pi }{6} [/tex], [tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex], [tex] \\frac{9 \\pi }{6} [/tex]}<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-urine-yang-dikeluarkan-dari-tubuh-dipengaruhi-oleh-ab-617",
+            "question": "Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh ...    A.banyaknya makanan yang dimakan\r\nB.faktor emosional\r\nC.banyaknya cairan yang diminum\r\nD.jumlah glukosa yang harus dikeluarkan dari darah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas \u00a0 \u00a0 \u00a0 \u00a0 : X SMA<br>Pelajaran \u00a0 : Biologi<br>Kategori \u00a0 \u00a0 : Sistem Ekskresi<br>Kata kunci : jumlah urine, pengaruh<br><br>Pembahasan :<br><br>Faktor yang mempengaruhi jumlah urine yang dikeluarkan dari tubuh :<br><br>1.\u00a0<span>Hormon Antidiuretik (ADH)<br>\u00a0 \u00a0\u00a0</span><span>Jika darah yang akan disaring banyak mengandung air,\u00a0</span>\u00a0<span>maka hormon ADH yang disekresekikan ke dalam ginjal semakin sedikit, penyerapan air akan sedikit pula.<br><br>2.\u00a0</span><span>Hormon insulin<br>\u00a0 \u00a0\u00a0</span>Kadar hormon insulin yang rendah menyebabkan produksi urine meningkat sehingga penderita<span>\u00a0\u00a0</span><span>sering mengeluarkan urine.<br><br>3.\u00a0</span><span>Kondisi psikologis (gejolak emosi dan stress)<br>\u00a0 \u00a0\u00a0</span><span>Gangguan psikologis stress yang berpengaruh terhadap kontraksi dan tekanan pada katup kantung kemih.<br><br>4.\u00a0</span><span>Suhu lingkungan<br>\u00a0 \u00a0\u00a0</span><span>Saat cuaca dingin orang lebih sering untuk ingin mengeluarkan urine.<br><br>5.\u00a0</span><span>Konsumsi garam<br>\u00a0 \u00a0\u00a0</span><span>Kadar garam yang tinggi dalam darah menyebabkan ginjal memproduksi garam mineral yang lebih banyak sehingga produksi urine meningkat.<br><br>6.\u00a0</span><span>Jumlah air yang diminum<br>\u00a0 \u00a0\u00a0</span><span>Banyak minum akan menyebabkan urine yang dikeluarkan lebih banyak dari dalam tubuh.<br><br>7.\u00a0</span><span>Konsumsi alkohol dan kafein<br>\u00a0 \u00a0\u00a0<br><br>Jadi\u00a0</span>Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh \u00a0<span><strong>banyaknya cairan yang diminum (C)</strong></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

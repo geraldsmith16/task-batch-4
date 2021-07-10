@@ -1,0 +1,148 @@
+{
+    "question": "Bantu dong pake caranya ya     1. sebuah batang elastis panjangnya 4 m dan luas penampang 1,5 cm\u00b2 . ketika batang tersebut di gantung beban 300 kg ternyata meregang 0,7 mm. tentukan modulus young bahan batang tersebut !\r\n2 sebuah batang alumunium panjang 30 cm, penampang berukuran 3 mm \u00d7 4 mm dan modulus elastisnya 7 x10 pangkat 10 N\\m\u00b2. hitunglah besar gaya unyuk menarik batang agar batang alumunium tersebut bertambah 2 mm !\r\n3. pegas dan luas penampang sebesar 0,5 mm\u00b2 ditarik dengan gaya 2,5 N. tentukan tegangan pada pegas tersebut !\r\n4. sebatang logam yang memiliki modulus young 6 \u00d7 10 pangkat 8 N\\m\u00b2, luas penampang logam 2 cm\u00b2 . jika di kenai gaya 400 N akan bertambah panjang 8 mm, tentukan panjang mula-mula kawat tersebut !\r\n5. kawat tembaga dengan luas penampang 4 mm\u00b2 dengan modulus elastic 6 \u00d7 1010 N\\m\u00b2 . kawat tersebut kemudian diregangkan sebesar 100 N . jika panjang kawat semula 20 cm, berapa pertambahan panjang kawat ?\r\n6. sebuah pegas meregang 5 cm , ketika di tarik dengan gaya 15 N, berapakah pertambahan panjang pegas jika di tarik dengan gaya 6 N ?\r\n7. berapakah beban yang harus diberikan pasa pegas, agarmempunyai energy 1 joule ? ( k = 50 N\\m )\r\n8. dua buah pegas berturut-turut mempunyai konstanta gaya pegas 200 N\\m dam 400 N\\m. jika kedua pegas di susun secara parallel dan ujungnya di beri beban 2 kg, berapakah pertambahan panjang pegas ? ( g = 10 m\\s\u00b2 )\r\n9. dua buah pegas di susun secara seri, dengan konstanta gaya masing-masing 100 N\\m dan 300 N\\m. jika pegas di beri beban 50 N, berapakah pertambahan panjang pegas ? g = 10 m\\s\u00b2 )\r\n\r\njawab :",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. Diketahui:<br>panjang awal batang (lo) = 4 m<br>Luas penampang batang (Ao) = \u00a01,5 cm\u00b2 = 1,5.10\u207b\u2074 m\u00b2<br>massa beban (m) = 300 kg<br>panjang peregangan (\u0394l) = 0,7 mm = 0,7.10\u207b\u00b3 m<br><br>Ditanya:<br>Modulus Young (Y) = ....?<br><br>Penyelesaian:<br>Rumus Modulus Young:<br>Y = F.lo/A.\u0394l<br>\u00a0<br>Jadi kita perlu cari dulu gaya berat (F) :<br>F = m.g = 300.10 = 3000 N<br><br>Modulus Young:<br>Y = 3000.4/1,5.10\u207b\u2074.0,7.10\u207b\u00b3<br>\u00a0= 12.10\u00b3/1,05.10\u207b\u2077<br>\u00a0= 11,4.10\u00b9\u2070 N/m\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantu-yaa-sbuah-tabung-dengan-massa-180-kg-panjang-6-m-d-732",
+            "question": "Tolong bantu yaa    sbuah tabung dengan massa 180 kg. panjang 6 m, dan luas penampang 25 cm berdiri tegak di atas lantai maka besar tekanan berapa.... N/m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = F / A<br>= (180 . 9,8) / 0,25<br>= .... / 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "P = F/A<br>\u00a0 \u00a0= 180.10 / 0,25<br>\u00a0 \u00a0= 7200 Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-reaksi-fusi-berikut-diketahui-massa-943",
+            "question": "Perhatikan reaksi fusi berikut\u00a0    \r\n\r\nDiketahui : Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0 = 0,00055 sma\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 sma = 931 MeV\u00a0\r\n\r\nmaka nilai E (energi yang dihasilkan) pada reaski fusi tersebut adalah\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar defek massa adalah jumlah massa sebelah kiri tanda --&gt;, dikurangi massa sebelah kanan tanda --&gt;. Setiap 1 sma memiliki energi sebesar 931 MeV\u00a0<br><br>E =\u00a0[tex]\\triangle m . 931 MeV [/tex]\u00a0<br>\u00a0 \u00a0=\u00a0[tex][(m_{_1H^1}+m_{_1H^1})-(m_{_1d^2}+m_{_1^2e})].931 MeV[/tex]<br>\u00a0 \u00a0= [(1.0078+1.0078)-(2.01410+0.00055)].931<br>\u00a0 \u00a0= 0.88445\u00a0[tex]M_eV[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D<br><br>by : Crow Art.",
+                    "attachments": [
+                        "answer-attachments/perhatikan-reaksi-fusi-berikut-diketahui-massa-943-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "gerhana-matahari-terjadi-karena-497",
+            "question": "Gerhana matahari terjadi karena...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Posisi matahari, bulan, dan bumi yang berada dalam satu garis lurus<br><br>Posisinya, matahari - bulan - bumi, sehingga bulan menutupi matahari dan terjadilah gerhana matahari",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>karena posisi matahari, bulan, dan bumi yang berada dalam satu garis lurus, posisinya, matahari - bulan - bumi, sehingga bulan menutupi matahari dan terjadilah gerhana matahari</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-yang-berada-di-atas-raksa-sebuah-kubus-395",
+            "question": "sebuah tangki berisi air yang berada di atas raksa. sebuah kubus besi dengan rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. tentukan tinggi kubus yang tercelup dalam setiap cairan. massa jenis besi dan raksa berturu-turut adalah 7,7 x 10^3 kg/m^3 dan 13,6 x 10^3 kg/m^3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>mb.. g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)\u00a0<br>\u03c1b Vb g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)<br>7700\u00a0= 1000 x\u00a0+ 13600 (1\u00a0-\u00a0x)\u00a0<br>7700\u00a0= 1000 x\u00a0+ 13600 - 13600 x\u00a0<br>13500 x = 5900\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 59/135\u00a0<br><br>t air = 59/135 \u00d7 60 = 26,2 mm\u00a0<br>t\u00a0raksa = 60 - 26,2 = 33,8 mm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-yang-kamu-ketahui-tentang-alat-pemuas-kebutuham-manu-433",
+            "question": "Jelaskan apa yang kamu ketahui tentang alat pemuas kebutuham manusia",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "alat pemuas kebutuhan adalah segala sesuatu yang dibutuhkan manusia untuk memenuhi kebutuhan hidupnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "bentuk alat pemuas kebutuhan itu ada 2 yitu :<br>- barang dan jasa.<br>alat pemuas kebutuhan barang adalah suatu benda baik berupa barang ataupun jasa.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-pemanfaatan-radio-isotop-409",
+            "question": "Sebutkan\u00a0pemanfaatan radio\u00a0isotop?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pemanfaat radioisotop adalah untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><h2><strong>Pembahasan</strong></h2><p><strong></strong></p><p><strong>RADIOISOTOP</strong></p><p><strong></strong></p><p>Radioisotop atau isotop radioaktif memiliki sifat</p><p>1. Bersifat tidak stabil dan terus menerus meluruh menjadi isotop lain dengan memancarkan sinar radioaktif. Karena sifat ini, maka atom radioaktif digunakan sebagai perunut atau penelusur mekanisme suatu reaksi.</p><p>2. Memancarkan sinar radiasi yang dapat mengubah sifat benda. </p><p>Karena kedua hal inilah maka radioisotop banyak dimanfaatkan untuk berbagai bidang, seperti:</p><p>1. Bidang kesehatan</p><p>Sifat perunut yang dipergunakan untuk mendeteksi kerusakan organ tubuh dan sifat radiasi untuk membunuh sel - sel kanker tanpa perlu tindakan pengangkatan jaringan.</p><ul><li>Iodium - 131 untuk mendeteksi kerusakan jaringan kelenjar gondok dan mendeteksi sel kanker pada otak.</li><li>Kobalt - 60 untuk kemoterapi leukimia.</li><li>Taksenium - 99 untuk membunuh sel kanker dan mendeteksi lokasi tumor dalam tubuh.</li><li>Talium - 201 untuk mendeteksi penyakit jantung dan pembuluh darah.</li><li>Besi - 58 untuk mempelajari proses pembentukan sel darah merah.</li><li>Fosforus - 32 untuk mempelajari fungsi ATPdan penyembuhan penyakit pembentukan sel darah merah yang berlebihan.</li><li>Sinar gamma untuk sterilisasi peralatan kedokteran.</li></ul><p>2. Bidang industri pengawetan makanan.</p><p>Digunakan sinar gamma untuk</p><ul><li>Membasmi mikroorganisme seperti pengawetan merica, ketumbat dan kemiri.</li><li>Menghambat pertunasan untuk pengawetan tanaman yang berkembang biak dengan tunas seperti jahe, bawang dan kentang.</li></ul><p>3. Bidang konstruksi</p><p>Di bidang ini, radioisotop digunakan untuk mendeteksi kebocoran pada pipa bawah tanah dengan alat pencacah radioaktif Geiger Counter. Isotop yang digunakan adalah Natrium - 24.</p><p>Bahkan bisa dipergunakan untuk menguji kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</p><p>4. Bidang pertanian</p><p>Nitrogen - 15 dipergunakan untuk memantau penyerapan pupuk pada tanaman.</p><p>Radioisotop juga bisa digunakan untuk memberantas hama.</p><p>5. Bidang hidrologi.</p><p>Natrium - 24 digunakan untuk menguji kecepatan aliran sungai atau aliran lumpur hal ini dipergunakan untuk mempelajari debit sungai.</p><p>6. Bidang biologi.</p><p>Karbon - 14 atau Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi fotosintesis.</p><p>7. Bidang kimia</p><p>Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi esterifikasi.</p><p>8. Bidang listrik.</p><p>Reaksi inti menghasilkan energi yang sangat besar yang mampu menggerakan generator yang menghasilkan energi listrik.</p><p>9. Bidang penanggalan karbon.</p><p>Karbon - 14 dipergunakan untuk menentukan umur fosil, barang purbakala dan barang seni.</p><p></p><p>Radioisotop juga memiliki dampak yang berbahaya jarena merusak sel, menyebabkan kelainan sel, bahkan mematikan sel pada makhluk hidup.</p><p><strong>Ditanyakan:</strong></p><p>Pemanfaatan radioisotop ?</p><p><strong>Penjelasan:</strong></p><p>Radioisotop banyak dimanfaatkan untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>Pelajari lebih lanjut</strong></p><p>Radioisotop Bidang Kesehatan https://brainly.co.id/tugas/7927308</p><p>Radioisotop Di Bidang Hidrologi https://brainly.co.id/tugas/21698259</p><p>Pemanfaatan Sinar Gamma https://brainly.co.id/tugas/23032773</p><p><strong></strong></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas : </strong>XII</p><p><strong>Mapel : </strong>Kimia</p><p><strong>Bab : </strong>Kimia Unsur </p><p><strong>Kode : </strong>12.7.3.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-atraksi-udara-pesawat-pesawat-menerbangi-suati-lintas-400",
+            "question": "Pada suatu atraksi udara, pesawat-pesawat menerbangi suati lintasan yang mengitari sederetan\u00a0 menara tinggi.Dalam mengitari menara, percepatan sentripetal maksimum yang dapat ditahan pilot kira-kira 6g ( ambil g=10m/s ) jika pesawatb terbang pada 150m/s, jari-jari putaran untuk percepatan 6g adalah? .....    \u00a0pliss help me, i need help ^^\r\na. 25m\u00a0 \u00a0 b.125m\u00a0\u00a0 c.250m\u00a0 d.375m\u00a0 \u00a0 e.450m\r\n\u00a0caranya yaa ^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. as =6g = 6 . (10), v= 150 m/s\n\nDit. R = ...?\n\n\nR = v^2 / as = 150^2 / 60 = 22500/60 = 375 m\n\n\nJawabannya d",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899",
+            "question": "Dua celah sempit yang terpisah pada jarak 0.2mm disinari tegak lurus. Garis terang ketiga terletak 7,5mm dari garis terang ke nol pada layar yang jaraknya 1m dari celah. Panjang gelombang sinar dipakai adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dy/l=n\u03bb untuk terang<br>0,2mm x 7,5mm/1000mm=3\u03bb<br>\u03bb=5x[tex] 10^{-4} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik d = 0.2 mm = 2 x 10^-4 m<br>\u00a0 \u00a0 \u00a0 m = 3<br>\u00a0 \u00a0 \u00a0 p = 7,5 mm = 7,5x10^-3 m<br>\u00a0 \u00a0 \u00a0 l = 1m\u00a0\u00a0<br>Dit\u00a0\u03bb ?<br>jawab.<br><br>d.p = m.l.\u03bb<br><br>0,2x10^-4 . 7,5 x 10^-3\u00a0= 3.1 .\u03bb<br><br>\u03bb =\u00a0[tex] \\frac{2x10^-4 . 7,5x10^-3}{3} [/tex] =\u00a0[tex] \\frac{15x10^-7}{3} [/tex] = 5x10^-7 m<br><br>",
+                    "attachments": [
+                        "answer-attachments/dua-celah-sempit-yang-terpisah-pada-jarak-02mm-disinari-tegak-lu-899-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925",
+            "question": "sepotong kayu terapung dengan 3/5 bagian tercelup di dalam air. jika massa jenis air 1x10^3 kg/m3, massa jenis kayu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Massa jenis kayu adalah <strong>600 kg/m\u00b3</strong></p><p></p><h3>PEMBAHASAN</h3><p><u>Diketahui :</u></p><p>Volume Kayu Tercelup = Vt = \u00b3/\u2085 V</p><p>Massa Jenis Air = \u03c1 = 1000 kg/m\u00b3</p><p><u>Ditanyakan :</u></p><p>Massa Jenis Kayu = \u03c1k = ?</p><p><u>Penyelesaian :</u></p><p><em>Untuk menyelesaikan soal ini , kita akan menggunakan hukum Archimedes sebagai berikut ini:</em></p><p>[tex]\\texttt{Gaya Angkat = Berat Benda}[/tex]</p><p>[tex]\\rho g V_t = m g[/tex]</p><p>[tex]\\rho g (\\frac{3}{5}V) = \\rho_k V g[/tex]</p><p>[tex]\\rho (\\frac{3}{5}V) = \\rho_k V[/tex]</p><p>[tex]\\rho \\times \\frac{3}{5} = \\rho_k[/tex]</p><p>[tex]\\rho_k = 1000 \\times \\frac{3}{5}[/tex]</p><p>[tex]\\rho_k = 600 \\texttt{ kg/m}^3[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Berat Benda dalam Air :</strong> https://brainly.co.id/tugas/20965985</p><p><strong>Gaya Apung :</strong> https://brainly.co.id/tugas/19232509</p><p>--------------------------</p><p></p><h3>Detil Jawaban :</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> Fluida</p><p><strong>Kode:</strong> 8.6.3</p><p></p><p><strong>Kata Kunci:</strong> Gaya Angkat , Archimedes, Apung , Kapal , Volume , Barang , Jumlah Penumpang</p>",
+                    "attachments": [
+                        "answer-attachments/sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-alat-yang-menerapkan-hukum-pascal-berupa-alat-pengepres-hi-116",
+            "question": "Sebuah alat yang menerapkan hukum pascal berupa alat pengepres hidrolik memiliki penghisap besar yang luas penampangnya A1=250 cm2 dan penghisap kecil A2=6cm2. jika gaya tekan pada F2=300 N diberikan pada penghisap kecil, berapa besar beban maksimum yang bisa diangkat pada penghisap besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui = Penghisap besar = 250 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Penghisap kecil = 6 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  Gaya tekan penghisap kecil = 300 N<br>Ditanyakan = Beban maksimum penghisap besar?<br>[tex] \\frac{F1}{A1} =  \\frac{F2}{A2}  \\\\  \\frac{F1}{250} =  \\frac{300}{6}  \\\\  F1 =  \\frac{250 . 300}{6}  \\\\ F1 = \\frac{75000}{6}  \\\\ F1 = 12500 N[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

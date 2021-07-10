@@ -1,0 +1,152 @@
+{
+    "question": "suatu sumber bunyi dengan frekuensi 7200 Hz , bergerak berlawanan arah dengan pendengar yang bergerak dengan kelajuan 25 m/s , teryata frekunsi bunyi yang didengar adalah 6300 Hz .jika kelajuan perambatanya bunyi udara adalah 340 m/s , maka kecepatan sumber bunyi adalah \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>20 m/s</p><h3><strong>Pembahasan</strong></h3><p><u>Diketahui</u></p><ul><li>Sumber bunyi bergerak berlawanan arah dengan pendengar.</li><li>Frekuensi sumber bunyi fs = 7200 Hz</li><li>Frekuensi pendengar fp = 6300 Hz</li><li>Kelajuan pendengar vp = 25 m/s</li><li>Kelajuan perambatan bunyi di udara v = 340 m/s</li></ul><p><u>Ditanya</u></p><p>Kecepatan sumber bunyi</p><p><u>Proses</u></p><p><strong>Analisis awal: </strong></p><ul><li>Karena frekuensi pendengar lebih kecil dari frekuensi sumber bunyi, keduanya bergerak berlawanan arah dengan saling menjauhi/meninggalkan.</li><li>Berdasarkan perjanjian tanda sederhana seperti pada gambar terlampir, skema yang dapat dibuat adalah sebagai berikut:</li></ul><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2190\u2190\u2190P \u00a0S \u2192\u2192\u2192 </p><p>Dengan demikian, </p><ul><li>kecepatan pendengar vp = -25 m/s, dan </li><li>kecepatan sumber bunyi disiapkan sebagai \"+vs\".</li></ul><p>[tex]\\boxed{ \\ f_p = \\frac{v \\pm v_p}{v \\pm v_s} f_s \\ }[/tex]</p><p>[tex]\\boxed{ \\ 6300 = \\frac{340 - 25}{340 + v_s} \\ (7200) \\ }[/tex], kedua ruas dibagi 900</p><p>[tex]\\boxed{ \\ 7 = \\frac{315}{340 + v_s} \\ (8) \\ }[/tex], kalikan silang</p><p>7(340 + vs) = 2520, kedua ruas dibagi 7</p><p>340 + vs = 360</p><p>vs = 360 - 340</p><p>\u2234 [tex]\\boxed{ \\ v_s = 20 \\ m/s \\ }[/tex]</p><ul><li>Jadi kecepatan sumber bunyi adalah 20 m/s.</li><li>Pendengar dan sumber bunyi bergerak berlawanan arah dengan saling menjauhi/meninggalkan.</li></ul><h3><strong>Pelajari lebih lanjut</strong></h3><ol><li>Menentukan perbandingan frekuensi peluit yang didengar oleh penumpang kereta A saat kedua kereta saking mendekat dan saat saling menjauh https://brainly.co.id/tugas/9156755</li><li>Persoalan resonansi garpu tala brainly.co.id/tugas/2605</li><li>Frekuensi nada dasar pada senar gitar brainly.co.id/tugas/15076009</li><li>Beberapa soal terkait bunyi https://brainly.co.id/tugas/4720430</li></ol><h3>________________</h3><h3><strong>Detil jawaban</strong></h3><p><strong>Kelas: </strong>XI</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab: </strong>Gelombang Bunyi</p><p><strong>Kode: </strong>11.6.9</p><p></p><p><strong>#AyoBelajar</strong></p>",
+            "attachments": [
+                "answer-attachments/suatu-sumber-bunyi-dengan-frekuensi-7200-hz-bergerak-berlawanan-513-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perbandingan-antara-beban-dan-kuasa-pada-pesawat-sederhana-disebu-111",
+            "question": "Perbandingan antara beban dan kuasa pada pesawat sederhana disebut.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Perbandingan antara beban dan kuasa pada pesawat sederhana disebut <strong>keuntungan mekanis</strong></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Perbandingan antara beban dan kuasa pada pesawat sederhana disebut\u00a0<span><u>keuntungan mekanis<br><br>NB :</u>\u00a0</span><span>keuntungan mekanis didefinisikan sebagai perbandingan gaya beban dengan gaya kuasa\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ukuran-tingkat-derajat-panas-suatu-benda-disebut-262",
+            "question": "Ukuran tingkat derajat panas suatu benda disebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya adalah suhu :) <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya Suhu <br>semoga berhasil<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ketika-dinyalakan-lampu-80-watt-lebih-terang-daripada-la-476",
+            "question": "Mengapa ketika dinyalakan, lampu 80 Watt lebih terang daripada lampu 40 Watt ? ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena kalau 80 watt itu kekuatan terang dan tenaganya lebih kuat tetapi listrik agak boros<br>tapi kalau lampu 40 watt lebih rendah kekuatannya dari 80 watt tetapi listriknya agak hemat dibandingkan lampu 80 watt",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena lampu 80 watt ,wattnya lebih besar daripada lampu 40 watt<br>dan karena lampu 80 watt energinya lebih besar<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-kumparan-primer-200-lilitan-dan-sekunder-10-104",
+            "question": "Sebuah Trafo Memiliki kumparan primer 200 lilitan dan sekunder 1000 lilitan serta efisiensinya 60% Tentukan jenis trafo, perbandingan tegangan primer dan sekunder,arus primer sekunder dan daya primer sekunder",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan = Np:Ns =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0200:1000 =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Vp : Vs = 1: 5<br>jenis trafo = Trafo step up<br>arus = Np: Ns = Is:Ip<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200 : 1000 = Is :Ip<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Is: Ip = 1 :5<br>daya nya aku enggak tau",
+                    "attachments": []
+                },
+                {
+                    "answer": "tegangan = Np:Ns =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0200:1000 =Vp:Vs<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Vp : Vs = 1: 5<br>jenis trafo = Trafo step up<br>arus = Np: Ns = Is:Ip<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200 : 1000 = Is :Ip<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Is: Ip = 1 :5<br>tekananya dengan rumus<br>P = W/t = i^2.R = V.i = V^2 / R</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1bidang-edar-planet-bumi-disebut-2planet-planet-yang-mengeli-377",
+            "question": "1.bidang edar planet bumi disebut...    2.planet_planet yang mengelilingi matahari mengikuti orbit (jalur) yang berbentuk...\r\n3.kelompok bintang jika dilihat dari bumi menghasilkan suatu bentuk tertentu disebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Pembahasan</strong>:</p>\n\n<p>\u00a0</p>\n\n<p><strong>1. Bidang edar planet bumi disebut... Orbit</strong></p>\n\n<p>\u00a0</p>\n\n<p>Setiap planet di Tata Surya, termasuk Bumi, bergerak atau\nberedar mengelingi Matahari dalam gerak Revolusi. Revolusi terjadi dalam orbit\nyang berbentuk elips. Gerak revolusi setiap planet terjadi dalam waktu yang\nteratur. Pada revolusi Bumi, waktunya menempuh waktu 1 tahun atau 365,25 hari.</p>\n\n<p><strong>\u00a0</strong></p>\n\n<p><strong>2. Planet-planet yang mengelilingi matahari\nmengikuti orbit (jalur) yang berbentuk... Elips</strong></p>\n\n<p>\u00a0</p>\n\n<p>Di Sistem Tata Surya kita terdapat 8 planet yang\nmengelilingi Matahari. Planet-planet ini yaitu (dari yang paling dekat dengan\nMerkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus dan Neptunus).</p>\n\n<p>\u00a0</p>\n\n<p>Setiap planet ini bergerak dalam lintasan berbentuk elips\ndengan memiliki perihelion dan aphelion. </p>\n\n<p>\u00a0</p>\n\n<p>Perihelion adalah lokasi dalam orbit elips yang berjarak\npaling dekat dengan matahari. Pada orbit Bumi, perihelion terjadi pada sekitar\ntanggal 3 Januari, dalam jarak 147,1 juta kilometer.</p>\n\n<p>\u00a0</p>\n\n<p>Sebaliknya, aphelion adalah lokasi dalam orbit elips yang\nberjarak paling jauh dengan matahari. Pada orbit Bumi, aphelion terjadi pada\nsekitar tanggal 4 juli, dalam jarak 152,1 juta kilometer.</p>\n\n<p>\u00a0</p>\n\n<p><strong>3. Kelompok bintang jika dilihat dari bumi\nmenghasilkan suatu bentuk tertentu disebut... Rasi Bintang atau Konstellasi</strong></p>\n\n<p>\u00a0</p>\n\n<p>Konstelasi atau Rasi Bintang adalah sekelompok bintang yang\ndianggap membentuk garis atau pola imajiner pada langit. Konstelasi biasanya berupa\nhewan, orang atau tokoh mitologis, atau perangkat tertentu.</p>\n\n<p>\u00a0</p>\n\n<p>Contoh konstelasi adalah:</p>\n\n<p>\u00a0</p>\n\n<p>1. Orion: menggambarkan pemburu dalam mitologi Yunani. Di\nIndonesia disebut Waluku, dan digunakan untuk menentukan waktu tanam</p>\n\n<p>2. Ursa Major: menggambarkan beruang dalam mitologi Yunani. sebagai\nRasi Bindang Biduk, karena menggambarkan biduk kapal. Rasi Bintang ini penting\nkarena berada di dekat arah kutub utara, sehingga bisa menjadi petunjuk arah.</p>\n\n<p>\u00a0</p>\n\n<p><strong>Kelas</strong>: IX</p>\n\n<p><strong>Mata Pelajaran</strong>: Fisika\u00a0\u00a0</p>\n\n<p><strong>Materi</strong>: Tata Surya </p>\n\n<p><strong>Kata Kunci</strong>: Orbit, Konstelasi</p>\n\n<p>\u00a0</p>\n\n<p>\u00a0</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-membuat-kincir-air-dari-botol-bekas-ukuran-1l-bantuin-ya-121",
+            "question": "Cara membuat kincir air dari botol bekas ukuran 1L ???\r\n\r\nBantuin ya teman,makasih ^^",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Alat :<br>Bambu 25cm diameter 0.5-1 cm sebanyak 4 buah.<br>Bambu 30-40 cm diameter 0,5-1 cm sebanyak 1 buah<br>Botol air mineral 1,5 liter 1 buah<br>Botol air mineral 600 ml 2 buah\u00a0<br>Cara Pembuatan:<br>Tak perlu susah-susah mencari bambu berukuran diameter 0,5, jika anda benar-benar ingin berkreasi manfaatkan bambu bekas pagar atau bekas rambatan tanaman anda, lalu potong-potong hingga\u00a0hasil\u00a0yang diinginkan.<br>Belah botol menjadi 3 bagian.\u00a0<br><br><br><br>Lalu lubangi sebanyak 8 buah dengan posisi sama. Artinya jarak antar lubang haruslah sama.<br>Masukkan bambu ke dalam potongan bitil seperti gambar ini.<br><br><br><br>Lalu beri potongan botol berbentuk segi empat ke dalam setiap bambu 25 cm.<br>Selanjutnya atur semua bahan seperti di bawah ini</span><br><span>MEMBUAT KIPAS ANGIN</span><span>Latar Belakang :<br>Membuat kipas angin dari dinamo merupakan alternatif pengolahan limbah bekas. Selain itu dapat mengasah kreatifitas kita!<br>Alat dan Bahan:<br>1. Gunting<br>2. Solder<br>3. Obeng<br>4. Dinamo<br>5. Kabel<br>6. Akua bekas<br>7. Batu batre<br>Cara Membuat:<br>1. Tempelkan / sambungkan kabel pada dinamo.<br>2. Gunting akua Gelas dan bentuk seperti kipas angin/baling-baling.<br>3. Setelah akua bekas tersebut terbentuk kipas angin/baling-baling, tengah-tengahnya lobangi oleh obengdan, setelah itu tempelkan pada dinamo.<br>4. Dan agar kipas/baling-balingnya berputar kabel tersebut tempelkan pada batu batre.</span><span><br>CARAKE 2.\u00a0<br>iapkan botol air mineral 600ml, dinamo, kabel 2 isi, baling-baling(bisa terbuat dari kipas tangan kayu bekas, kardus tebal, atau apa saja yang mempunyai penampang dan mempunyai ketebalan,potong kira-kira 10\u00d720 cm). lakban, dan baterai.\u00a0<br>Cara merakit kipas sederhana, pertama buatlah baling-baling dari bekas kardus atau kipas tangan, buatlah 4 buah lalu tempelkan pada tutup botol dengan cara melubangi tutup botol. Lalu pasang di tengah-tengah tutup botol sebuah alat pemutar yang terhubung langsung dengan dinamo, pasang semua lat tersebut di mulut botol, rekatkan dinamo agar tidak copot, hubungkan dinamo dengan kabel pada kutub positif dan negatif biarkan kabel terjuntai kebawah, rekatkan dengan dianmo dan kabel tersebut dengan lakban. Setelah bagian atas selesai, mari kita mengerjakan bagian bawah.<br>Pasang baterai pada badan botol dan rekatkan dengan lakban, biarkan kutub -kutub baterai terbuka dan jangan dilakban dulu. Lalu hubungkan kabel yang sudah terhubung dengan dimao tadi ke kutub-kutub baterai, untuk yang terhubung dengan kutub positif dinamo pasangakan dengan kutub negatif baterai, dan untuk kutub yang negatif dinamo biarkan saja, ini dipakai jika kipas akan digunakan. Setelah salah satu kabel terhubung, lakban bagian kutub negatif dan biarkan kutub negatif baterai tidak terlakban.<br>Nah sekarang dekatkan kabel dengan kutub positif baterai , jika anda malakukan percobaan dengan benar maka baling-baling akan berputar.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pembuatan Kincir Air\nBambu 25cm diameter 0.5-1 cm sebanyak 4 buah.Bambu 30-40 cm diameter 0,5-1 cm sebanyak 1 buahBotol air mineral 1,5 liter 1 buahBotol air mineral 600 ml 2 buah<span>Cara Pembuatan:<br>\nTak perlu susah-susah mencari bambu berukuran diameter 0,5, berkreasilah\n dengan memanfaatkan bambu bekas pagar atau bekas rambatan tanaman kamu,\n lalu potong-potong hingga hasil yang diinginkan. Belah botol menjadi 3 \nbagian.</span>\n\nLalu lubangi sebanyak 8 buah dengan posisi sama. Artinya jarak antar lubang haruslah sama.\n<span>Masukkan bambu ke dalam potongan botol seperti gambar ini. Lalu beri potongan botol berbentuk segi empat ke dalam setiap bambu 25 cm.</span> <br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-antara-generator-arus-searah-dan-arus-bolak-balik-terle-166",
+            "question": "Perbedaan antara generator arus searah dan arus bolak balik terletak pada",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "energi yang di hasilkan lebih banyak yang se arah<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "PERBEDAAN ARUS SEARAH DAN ARUS BOLAK \u2013 BALIK<span><br><span></span><span>\u00a0<span>1.<span>\u00a0\u00a0\u00a0\u00a0</span></span>Arus Searah ( DC )</span><br>Pada peralatan tertentu arus bolak \u2013 balik tidak diijinkan, tetapi harus untuk menggunakan arus searah. Untuk mendapatkan arus searah dari generator, cukup mengganti slip ring dengan komutator. Walaupun arus yang dibangkitkan didalam kumparan bolak \u2013 balik, tapi yang keluar melalui sikat \u2013 sikatnya adalah arus searah.<span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-benda-bekerja-gaya-sebesar-12n-sehingga-benda-terseb-633",
+            "question": "Pada sebuah benda bekerja Gaya sebesar 12N, sehingga benda tersebut mengalami percepatan 3 m/s , Massa benda tersebut adalah ..    Mohon dengan caranya . :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = m.a<br>m = F/a<br>m = 12N/3m/s<br>m = 4<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket:F=12N<br>rho:3m/s<br>Dita:massa<br>Jawab=m=F:a<br>12:3=4kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-prinsip-kerja-termometer-zat-cair-termometer-bimetal-729",
+            "question": "Bagaimana prinsip kerja Termometer zat cair, Termometer bimetal, dan\u00a0Termometer kristal cair?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Pendahuluan:\n</strong></p><p>Termometer adalah alat yang digunakan untuk mengukur suhu, atau tingkat panas dan dingin. Ada beberapa jenis termometer yang dapat digunakan, yaitu termometer zat cair, termometer bimetal, dan termometer kristal cair\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Termometer zat cair\n</strong></p><p>Termometer zat cair bekerja dengan mengukur pemuaian dari zat cair di dalam termometer. Dengan meningkatnya suhu, maka benda akan memuai (meningkat panjang, luas atau volumenya). \u00a0\n</p><p>Cairan terletak pada tabung kapiler dari kaca yang memiliki bagian penyimpan. Umumnya zat cair yang digunakan adalah raksa (merkuri), yang merupakan satu-satunya logam cair pada suhu ruang.\n</p><p><strong>Termometer bimetal: \u00a0\n</strong></p><p>Termometer bimetal bekerja dengan mengukur pelengkungan yang terjadi akibat perbedaan pemuaian batangan yang di dua sisinya tersusun dari logam (metal) yang berbeda. \u00a0Batangan ini disebut bimetal dan dibentuk melingkar atau spiral.</p><p>Dari perbedaan pemuaian, bimetal ini akan melengkung, dan dari lengkungan ini akan dapat diukur suhu saat ini.\n</p><p><strong>Termometer kristal cair: \u00a0\n</strong></p><p>Termometer kristal cair bekerja dengan melihat perbedaan warna kristal cair yang warnanya dapat berubah jika suhu berubah. Kristal ini dikemas dalam plastik tipis, untuk mengukur suhu tubuh, suhu akuarium, dan sebagainya.\n</p><p>Termometer kristal ini tidak menggunakan pemuaian, berbeda dengan termometer bimetal dan zat cair.\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Suhu suatu zat menyatakan.. \u00a0\n</p><p>brainly.co.id/tugas/12667955 \u00a0\n</p><p>-----------------------------------------------------------------------------------\n</p><p><strong>Kode: \u00a07.6.1 \u00a0 \u00a0\n</strong></p><p><strong>Kelas: VII \u00a0 \u00a0\n</strong></p><p><strong>Mata Pelajaran: Fisika \u00a0 \u00a0 \u00a0\n</strong></p><p><strong>Materi: Bab 1 - Besaran dan Pengukuran \u00a0\n</strong></p><p><strong>Kata Kunci: Termometer cair, bimetal dan kristal cair\n</strong></p><p><strong> \u00a0</strong></p><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagian-terkecil-dari-magnet-yang-masih-bersifat-magnet-330",
+            "question": "Bagian terkecil dari magnet yang masih bersifat magnet?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>bagian terkecil dari magnet yang masih bersifat magnet adalah </span>magnet elementer<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

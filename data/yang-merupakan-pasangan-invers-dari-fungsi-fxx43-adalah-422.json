@@ -1,0 +1,126 @@
+{
+    "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x2-x-6-gx-2x-1-dan-hx-3x-rumus-fun-227",
+            "question": "Diketahui f(x)= x^2 + x - 6, g(x)= 2x + 1 dan h(x)= 3x. rumus fungsi (gofoh)(x) .........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(gofoh)(x) =g(f(h(x)))<br>(gofoh)(x) =g((3x)\u00b2+3x-6))<br>(gofoh)(x) = g(9x\u00b2+3x-6)<br>(gofoh)(x) = 2(9x\u00b2+3x-6) + 1<br>(gofoh)(x) = 18x\u00b2 + 6x - 12 + 1<br>(gofoh)(x) = 18x\u00b2 + 6x - 11<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-cerita-tentang-barisan-dan-deret-aritmatika-dalam-bidang-fis-306",
+            "question": "Soal cerita tentang barisan dan deret aritmatika dalam bidang fisika , teknologi informasi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soalnya saja pa ma jawabannya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-maksimum-fxax24xa-adalah-3-hitunglah-nilai-a-tolong-693",
+            "question": "Nilai maksimum f(x)=ax\u00b2+4x+a adalah 3. hitunglah nilai a!    Tolong di jawab dangan pnjelasannya yahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 3<br>y = [tex] \\frac{-D}{4a} [/tex]<br>y = [tex] \\frac{-(b^{2} - 4ac)}{4a} [/tex]<br>3 = [tex] \\frac{-(4^{2} - 4a.a)}{4a} [/tex]<br>12a = -(16 - 4a\u00b2)<br>12a = -16 + 4a\u00b2<br>4a\u00b2 - 12a - 16 = 0<br>a\u00b2 - 3a - 4 = 0<br>(a - 4)(a + 1) = 0<br>a = 4 atau a = -1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-kecepatan-80kmjam-memerlukan-waktu-2-jam-15-774",
+            "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-3-akar-5-4-akar-3-3-akar-5-187",
+            "question": "Akar 3 + akar 5 \u00f7 4 akar 3 - 3 akar 5 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Bentuk Akar<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui\u00a0<br>\u221a3 +\u00a0\u221a5 : 4\u221a3 - 3\u221a5. <br>Soal belum lengkap. Kemungkinan soal yang ditanyakan tentang merasionalkan bentuk akar.\u00a0<br>Mari kita selesaikan.<br><br>[tex] \\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}\\\\=\\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}. \\frac{4 \\sqrt{3}+3 \\sqrt{5}}{4 \\sqrt{3}+3 \\sqrt{5}}\\\\= \\frac{4.3+3 \\sqrt{15}+4 \\sqrt{15}+3.5}{16.3-9.5}\\\\= \\frac{12+7 \\sqrt{15}+15}{48-45}\\\\= \\frac{27+7 \\sqrt{15}}{3}     [/tex]<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

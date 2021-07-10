@@ -1,0 +1,140 @@
+{
+    "question": "sebuah kubus kuningan pejal (p=8,4 g/cm3 dengan panjang rusuk 0,15 m dicelupkan ke dalam minyak. (p = 0,8 g/cm3 jika g = 9,8 m/s2. tentukan berat kuningan dalam minyak !",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>\u00a0V = m / \u03c1\u00a0<br>m = (0,15)^3 . 8.400\u00a0<br>m = 0,003375.8400 = 28,35 kg\u00a0<br>w = mg = 28,35.9,8 = 277,83 N\u00a0<br><br>kondisi benda tenggelam, maka berlaku\u00a0<br>w&#039; = w - Fa\u00a0<br>w&#039; = 277,83 - \u03c1aVb&#039;g\u00a0<br>w&#039; = 277,83 - 800.9,8.0,003375\u00a0<br>w&#039; = 277,83 - 26,46\u00a0<br>w&#039; = 251,37 Newton\u00a0</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998",
+            "question": "Diagram berikut menggambarkan percobaang Young, d adalah jarak antar celah, P2 adalah garis terang orde 2. Jika panjang gelombang yang digunakan adlaah 400 Nm (1nm = 10^-9 m) maka jarak antar celah adalah\u00a0",
+            "attachments": [
+                "question-attachments/diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lamda = 400 Nm = 4x10^-9 m<br>\u00a0 \u00a0 \u00a0 \u00a0m \u00a0 \u00a0 \u00a0 = 2<br>Dit d ?\u00a0<br>jawab.<br>\u00a0d sin 0 = m\u00a0.\u00a0lamda<br>d sin 30 = m . lamd<br>d =\u00a0[tex] \\frac{2 . 4x10^-9}{0,5} [/tex] = 16 x 10^-9 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-bunyi-hukum-kekekalan-momentum-dan-tuliskan-persamaannya-176",
+            "question": "Sebutkan bunyi hukum kekekalan momentum dan tuliskan persamaannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunyi : \"Jumlah momentum kedua benda sebelum tumbukan sama dengan jumlah momentum kedua benda setelah tumbukan\"<br><br>Persamaannya ---&gt; m1 x v1 + m2 x v2 = m1\u00a0v\u00a0&#039;1 + m2 v &#039;2",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunyi hukum kekekalan momentum\"pda peristiwa tumbukan jumlah momentumbenda-benda sebelum dan sesudah tumbukan adalah tetap,asalkan tidak ada gaya luar yang bekerja pada benda-benda itu\"<br>secara matematis ditulis:<br>p1+p2=p&#039;1+p&#039;2<br>m1v1+m2v2=m1v&#039;1+m2v&#039;2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-bermassa-m-20-gram-ditembakkan-kearah-balok-ayunan-925",
+            "question": "sebuah peluru bermassa M= 20 gram ditembakkan kearah balok ayunan bermassa 980 gram. setelah ditembakkan, peluru menumbuk balok dan tertanam didalam balok sehingga berayun mencapai ketinggian 10 cm. jika percepatan gravitasi bumi sebesar g = 9,8 m/s^2, kecepatan peluru sebelum menumbuk balok sebesar......m/s^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui : <br>massa peluru = mp = 20 g = 0,02 kg<br>massa balok = mb = 980 g = 0,98 kg <br>sebelum menumbuk balok : vb = 0 <br>h = 10 cm = 0,1 m<br>g = 9,8 m/s^2<br>Ditanya : <br>vp = ...?<br>Jawab : <br>karena peluru bersarang di dalam balok, maka jenis tumbukannya adalah tumbukan tidak lenting samasekali <br>mp . vp + mb . vb = (mp + mb) . v&#039; <br>v&#039;\u00a0 = \u221a(2.g.h) = \u221a(2 . 9,8 . 0,1) = 1,4 m/s<br>0,02 vp + 0 = (0,02 + 0,98).1,4<br>0,02 vp = 1,4 <br>vp = 1,4 : 0,02 = 70 m/s\u00a0 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-seutas-kawat-baja-dengan-panjang-3m-dan-luas-penampang-015-924",
+            "question": "Pada seutas kawat baja dengan panjang 3m dan luas penampang 0,15 cm\u00b2 digantungkan sebuah beban bermassa 500 kg (g= 9,8m/s\u00b2). tentukan    a. tetapan gaya kawat\r\nb. pertambahan panjang kawat\r\n(modulus elastis baja= 2,0 \u00d7 10^{11}\u00a0 N/m\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.F=k.<span>\u2206x<br>\u00a0 m.g=k.</span><span>\u2206x<br>\u00a0 500.9,8=k.3<br>\u00a0 k=</span>[tex] \\frac{4900}{3} [/tex]=1.633<br>b.<br>F/A=1.633/0,0015=108866<br>pertambahan panjang kawat=e.l=F/A=1.633/0,0015=108.2,0.10^{11}.<br>=216.10^{11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-penampang-piston-i-sama-dengan-5-kali-piston-ii-j-742",
+            "question": "Diketahui luas penampang piston I sama dengan 5 kali piston II. Jika pada piston I diberi beban 4Kg, berapa beban yang harus diberikan pada pisto II agar sistem dalam keadaan seimbang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Penerapan hukum Pascal yaitu pada pengungkit hidrolik. Rumus pada hukum Pascal yaitu F\u2081/A\u2081 = F\u2082/A\u2082. </p><br><h3>Pembahasan</h3><p>Berdasarkan soal diatas diketahui bahwa:</p><ul><li>luas penampang piston I sama dengan 5 kali piston II -&gt; A\u2081 = 5, A\u2082 = 1</li></ul><ul><li>Jika pada piston I diberi beban 4Kg -&gt; m = 4 kg</li></ul><p>Adapun yang ditanyakan pada soal adalah menentukan gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang (F\u2082).</p><p>Untuk menyelesaikan soal diatas pertama - tama kita mencari gaya beban pada penampang I terlebih dahulu dengan cara sebagai berikut:</p><p>F\u2081= m \u00d7 g</p><p>F\u2081= 4 \u00d7 10</p><p>F\u2081 = 40 N</p><p>Nah, setelah diketahui gaya beban penampang piston I, maka langkah yang digunakan untuk mencari gaya beban pada penampang piston II yaitu sebagai berikut:</p><p>F\u2081/A\u2081 = F\u2082/A\u2082</p><p>40/5 \u00a0= F\u2082/1</p><p>40 \u00d7 1 = F\u2082 \u00d7 5</p><p>40 = F\u2082 \u00d7 5</p><p>F\u2082 = 40/5</p><p>F\u2082 = 8 N</p><p>Dengan demikian dapat disimpulkan bahwa besarnya gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang adalah <strong>8 N.</strong></p><br><h3>Pelajari lebih lanjut</h3><p>1. gaya minimum pada penampang kecil: https://brainly.co.id/tugas/15635353</p><p>2. gaya untuk mengangkat mobil: https://brainly.co.id/tugas/15761778</p><p>3. gaya untuk mengangkat beban: https://brainly.co.id/tugas/15814409</p><br><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> fluida</p><p><strong>Kode:</strong> 8.6.3</p><br><p><strong>Kata kunci:</strong> Hukum pascal, gaya tekan dan luas penampang</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "usaha-akan-terjadi-apabila-tedapat-842",
+            "question": "Usaha akan terjadi apabila tedapat...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "usaha akan terjadi apabila terdapat perpindahan tempat",
+                    "attachments": []
+                },
+                {
+                    "answer": "Usaha akan terjadi apabila terdapat gaya yang bekerja pada benda yang menghasilkan\u00a0perpindahan suatu benda.<br>sehingga\u00a0diperoleh rumus W = F.s<br>keterangan :<br>W = usaha j<br>F = gaya N<br>s = perpindahan m<br><br>Faktor\u00a0yang mempengaruhi besarnya usaha<br>F = gaya N<br>s = perpindahan m<br>a = percepatan m/s<br>v = kecepatan m/s<br>h = \u00a0tinggi suatu tempat m<br>P = daya Watt<br>t = waktu s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pemanfaatan-titik-berat-dan-titik-masa-salam-kehidupan-sehari-270",
+            "question": "Apa pemanfaatan titik berat dan titik masa salam kehidupan sehari-sehari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "manfaat titik berat dalam kehidupan sehari hari yaitu untuk menentukan titik berat suatu benda atau susunan benda contoh pada bangunan rumah , jalan, buku atau gabungan dua bangun atau lebih agar bangunan tersebut seimbang dan tidak mudah roboh.",
+                    "attachments": []
+                },
+                {
+                    "answer": "titik berat itu penting, pembangunan sebuah kontruksi apapun memerlukan titik keseimbangan, kendaraan bermotor pun perlu, agar kendaraan dapat stabil saat dikemudikan\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-kayu-memiliki-rapat-massa-800-kgm3-dan-berukuran-3-502",
+            "question": "Sebuah balok kayu memiliki rapat massa 800 kg/m3 dan berukuran (30 cm x 40 cm x 50 cm . tekanan maksimum yang dapat diberikan balok pada permukaan tempat balok berdiri adalah..    jwab please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V= 30*40*50<br>= 60.000cm^3<br>=0,06m^3<br><br>massa =\u00a0\u03c1*V<br>= 800*0,06<br>=48kg<br><br>g=10m/s^2<br>F= W=m*g<br>=48*10<br>=480N<br><br>tekanan terbesar, jadi luasnya harus yang terkecil<br>A terkecil = 30*40<br>=1200cm^2<br>=0,12m^2<br>P=F/A<br>=480/0,12<br>=\u00a04000Pa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-seberkas-cahaya-monokromatis-diarahkan-pada-sebuah-kisi-yang-915",
+            "question": "Jika seberkas cahaya monokromatis diarahkan pada sebuah kisi yang mempunyai 10^4 garis/cm, garis terang pertama terjadi pada sudut deviasi 30 derajat\u00a0, maka panjang gelombang cahaya yang dipakai adalah \u2026\u2026\u2026\u2026 \u00c5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 n = 10^4 garis/cm<br>\u00a0sin\u00a0\u03b8 = 30 = 0,5<br>Dit\u00a0\u03bb ?<br>jawab.<br>d =\u00a0[tex] \\frac{1}{n} [/tex]<br><br>sehingga diperoleh rumus<br><br>d sin\u00a0\u03b8 = m .\u00a0\u03bb<br><br>\u03bb\u00a0=\u00a0[tex] \\frac{sin 0 }{n.m} [/tex]\u00a0<br><br>\u03bb =\u00a0[tex] \\frac{sin30}{10^4 . 1} [/tex]<br><br>\u03bb =\u00a0[tex] \\frac{0,5}{10^4}  = [/tex] = 5 x 10^-5 garis/cm = <strong>5 .000 \u00c0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

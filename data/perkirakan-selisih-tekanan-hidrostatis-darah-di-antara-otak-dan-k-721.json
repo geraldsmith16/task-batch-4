@@ -1,0 +1,138 @@
+{
+    "question": "Perkirakan selisih tekanan hidrostatis darah di antara otak dan kaki di dalam tubuh seseorang yang tingginya 165 cm. Anggap massa jenis darah 1,06 x 10^3 kg/m^3 dan g = 9,8 m/s^2.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tekanan = pgh<br>tekanan = (1,06)(1000)(9,8)(1,65)<br>tekanan = 171402 Pa<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925",
+            "question": "sepotong kayu terapung dengan 3/5 bagian tercelup di dalam air. jika massa jenis air 1x10^3 kg/m3, massa jenis kayu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Massa jenis kayu adalah <strong>600 kg/m\u00b3</strong></p><p></p><h3>PEMBAHASAN</h3><p><u>Diketahui :</u></p><p>Volume Kayu Tercelup = Vt = \u00b3/\u2085 V</p><p>Massa Jenis Air = \u03c1 = 1000 kg/m\u00b3</p><p><u>Ditanyakan :</u></p><p>Massa Jenis Kayu = \u03c1k = ?</p><p><u>Penyelesaian :</u></p><p><em>Untuk menyelesaikan soal ini , kita akan menggunakan hukum Archimedes sebagai berikut ini:</em></p><p>[tex]\\texttt{Gaya Angkat = Berat Benda}[/tex]</p><p>[tex]\\rho g V_t = m g[/tex]</p><p>[tex]\\rho g (\\frac{3}{5}V) = \\rho_k V g[/tex]</p><p>[tex]\\rho (\\frac{3}{5}V) = \\rho_k V[/tex]</p><p>[tex]\\rho \\times \\frac{3}{5} = \\rho_k[/tex]</p><p>[tex]\\rho_k = 1000 \\times \\frac{3}{5}[/tex]</p><p>[tex]\\rho_k = 600 \\texttt{ kg/m}^3[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Berat Benda dalam Air :</strong> https://brainly.co.id/tugas/20965985</p><p><strong>Gaya Apung :</strong> https://brainly.co.id/tugas/19232509</p><p>--------------------------</p><p></p><h3>Detil Jawaban :</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> Fluida</p><p><strong>Kode:</strong> 8.6.3</p><p></p><p><strong>Kata Kunci:</strong> Gaya Angkat , Archimedes, Apung , Kapal , Volume , Barang , Jumlah Penumpang</p>",
+                    "attachments": [
+                        "answer-attachments/sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bola-tenis-massanya-100-gram-di-jatuhkan-ke-lantai-20-cm-tanpa-ke-343",
+            "question": "bola tenis massanya 100 gram di jatuhkan ke lantai 20 cm tanpa kecepatan awal. kemudian memantul dengan kecepatan 1 m/s . perubahan yang di alami bola tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perubahan energi potensial dan kinetik<br><br>E1 = Ep1 + Ek1<br>E1 = mgh + 0<br>E1 = 0,1 \u00d7 10 \u00d7 0,2<br>E1 = 0,2 J<br><br>E2 = Ep2 + Ek2<br>E2 = 0 + 1/2 \u00d7 m \u00d7 v\u00b2<br>E2 = 1/2 \u00d7 0,1 \u00d7 1\u00b2<br>E2 = 0,05 J<br><br>Perubahan Energi<br>E1 - E2 = 0,15 J<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-5kg-dilempar-vertikal-ke-atas-dengan-kecepatan-awa-361",
+            "question": "benda bermassa 5kg dilempar vertikal ke atas dengan kecepatan awal 10m/s,besarnya energi potensial di titik tertinggi yang dicapai\u00a0benda adalah?(g= 10m/s2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><u>[USAHA ENERGI]</u></strong><br><br><strong>DIketahui:</strong><br>m=5 kg<br>vo= 5m/s<br>g=10 m/s\u00b2<br>\u03b1=90\u00b0\u21d2dilempar keatas<br><strong>Ditanyakan: </strong>Ep saat h max?<br><strong>Dijawab:</strong><br>Cari dahulu h max:<br>h max =<u> vo\u00b2.sin\u00b2\u03b1\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>10\u00b2 . sin\u00b2 (90)</u> \u00a0 \u00a0\u21d2 sin 90=1 maka 1\u00b2\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>100. 1\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 meter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>Maka energi potensial saat h max:<br>Ep = m. g . h\u00a0max\u00a0<br>\u00a0 \u00a0 \u00a0 = 5 . 10 . 5<br>\u00a0 \u00a0 \u00a0 = 250 J<br><br><strong>Jelas ya.\u00a0</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gayayang-bekerjatiap-satuan-luas-disebut-121",
+            "question": "Gayayang bekerjatiap satuan luas disebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaya yang bekerja tiap satuan luas disebut gaya tekan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya yang bekerja pada satuan luas adalah gaya tekanan<br><br>Semoga membantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-berada-diatas-raksa-sebuah-kubus-berisi-965",
+            "question": "sebuah tangki berisi air berada diatas raksa. sebuah kubus berisi dengan sebuah rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. Tentukan tinggi kubus yang tercelup dalam setiap cairan. Massa jenis besi dan raksa berturut-turut adalah 7,7 x 10 (pangkat 3) kg/m kubik dan 13,6 x 10 (pangkat 3) kg/m kubik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Fluida <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-tangki-berisi-air-berada-diatas-raksa-sebuah-kubus-berisi-965-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "logam-p-mempunyai-luas-1-m2-dengan-suhu-sebesar-27-derajat-celc-925",
+            "question": "Logam P mempunyai luas 1 m\u00b2 dengan suhu sebesar\u00a027 derajat celcius. Pak Rudi membakar logam tersebut didalam tungku hingga suhunya menjadi 423K. Jika\u00a0\u03b1 bernilai 1,8 x 10\u207b\u2075/derajat celcius, luas logam setelah mencapai suhu 423K adalah ... m\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ao=1 mpersegi<br>detaT=150-27=123&#039;C<br>423,k=150&#039;C<br>alfha=1,8*10pngkt-5<br>At=?<br>betha=2*alfaha<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=2*1,8*10pngkt-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3,6*pngkt-5<br>At=Ao(1+betha*deltaT)<br>\u00a0 \u00a0=1(1+0,000036*150)<br>\u00a0 \u00a0=1(1+0,0054)<br>\u00a0 \u00a0=1(1,0054)<br>\u00a0 \u00a0=1,0054 m\u00a0persegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233",
+            "question": "tentukan letak titik berat sebuah kawat yang berupa busur lingkaran dari titik pusat kelengkungannya jika diketahui sudut busur tersebut 60 derajat dan jari jarinya R.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XI</strong><br><strong>Pelajaran \u00a0 \u00a0: Fisika</strong><br><strong>Kategori \u00a0 \u00a0 \u00a0: Titik Berat</strong><br><strong>Kata Kunci \u00a0: kawat, busur, letak titik berat</strong><br><br><em>Pembahasan pada gambar terlampir\u00a0</em><br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747",
+            "question": "Tentukan besar dan arah dari resultan vektor F\u2081, F\u2082, dan F\u2083 yg diperlihatkan pada gambar di bawah ini.\u00a0(sin 53\u00b0 = 0.8 dan sin 37\u00b0 = 0.6)",
+            "attachments": [
+                "question-attachments/tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "=-F1.sin53+F2.sin37+F3<br>=-2.0,8+4.0,6+5<br>=-1,6+2,4+5<br>=5,8",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Sebanyak 4 gram serbuk kalsium hidroksida dilarutkan dalam air hingga 100mL. hitunglah volume larutan asam klorida 0,2 M yang diperlukan untuk menetralkan 25mL larutan kalsium hidroksida tersebut.    (Ar O= 16, Ca= 40)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2. Reaksinya :  <br>\nCa(OH)2 + HCl --&gt; CaCl2 + H2O <br><br>\nmol Ca(OH)2= 4 gram/ (74 gram/mol)=0,05 mol  <br>\n[Ca(OH)2]= 0,05 mol / 0,1 L= 0,5 M <br>\n[OH-]= 1 M <br><br>\nPrinsip penetralan asam basa : <br>\nV1N1=V2N2 <br>\n25mL x  1 M  =  V2  x 0,2 M <br>\nV2= 125 mL.  <br>",
+            "attachments": []
+        },
+        {
+            "answer": "Titrasi Ca(OH)\u2082 dengan HCl<br>Diketahui = <br><span>4 KOH dilarutkan dalam air hingga 100ml, <br>Pertama kita mencari Molaritasnya,<br>M = [tex] \\frac{gram}{Mr}   \\frac{1000}{v(ml)} [/tex]<br><br>M = [tex] \\frac{4}{74}   \\frac{1000}{10} [/tex]<br>M = 0,54 M --&gt; dibulatkan menjadi 0,5 M<br><br>Kemudian baru dititrasi,</span><br>V\u2081 . M\u2081 . a\u2081 = V\u2082 . M\u2082 . a\u2082<br><span>V\u2081 . 0,2 . 1 = 25 . 0,5 . 2</span><span><br>V\u2081 = </span>125ml<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-100-ml-nh4oh-01-m-dicampur-dengan-400-ml-larutan-nh4oh-360",
+            "question": "Sebanyak 100 mL NH4OH 0,1 M\u00a0dicampur dengan 400 mL larutan NH4OH 02 M\u00a0lain. \u00a0Hitung pH larutan campuran ! (Kb=5x10 pangkat -7)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M cmpurn= 100*0,1+400*0,2 per 100+400\n                     = 50/500=0,1 M\n[OH-]= Akar kuadrat dr 0,1 M * 5x10 pgkt-7\n           = akar kuadrat dr 5* 10 pgkt-8\n           = 2,24 * 10 pgkt-4\npOH=- log 2,24 * 10 pgkt-4\n         =4- log 2,24\npH = 14-(4- log 2,24)\n       = 10 + log 2,24",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "342-mg-baoh2-yang-dilarutkan-dalam-air-hingga-50-ml-tentukan-j-835",
+            "question": "342 mg Ba(OH)2 yang dilarutkan dalam air hingga 50 ml. Tentukan jumlah mol, jumlah grek, molaritas dan normalitas nya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mol = massa/MR = 0,342/171=0,002<br><br>greknya = molxjumlah OH- = 0,002 X 2 = 0,004<br><br>molaritas = molx1000/ml=0,002x1000/50=0,002x20=0,04<br><br>normalitas = GREK / liter = 0,004 / 0,05 = 0,08",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gas-n2o4-terdisosiasi-20-menjadi-gas-no2-jika-tekanan-total-pada-301",
+            "question": "gas N2O4 terdisosiasi 20% menjadi gas NO2 jika tekanan total pada kesetimbangan adalah 0,9 atm, maka harga kp pada suhu yang sama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui:<br>Gas N\u2082O\u2084 terdisosiasi sebanyak 20% menjadi\u00a0NO\u2082<br>Tekanan total 0,9 atm<br><br>Ditanya:<br>Tetapan kesetimbangan parsial gas Kp<br><br>Penyelesaian:<br>\u21d2 Misalkan jumlah mol mula-mula N\u2082O\u2084 adalah a<br>\u21d2 Terdisosiasi 20% atau 0,2 bagian dari a<br><br><em>Step-1</em><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 N\u2082O\u2084 \u00a0\u21c4\u00a0 2NO\u2082<br>mula-mula:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -<br>reaksi\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00,2a\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 0,4a<br>----------------------------------------<br>setimbang\u00a0\u00a0\u00a0\u00a0\u00a0 0,8a\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a00,4a<br><br><em>Step-2<br></em><br>\u21d2 Perbandingan tekanan parsial N\u2082O\u2084 dan NO\u2082 adalah 0,8a : 0,4a atau 2 : 1<br><br>\u21d2 Tekanan parsial gas N\u2082O\u2084 = 2/3 x 0,9 atm = 0,6 atm<br><br>\u21d2 Tekanan parsial gas NO\u2082 = 1/3 x 0,9 atm = 0,3 atm<br><br><br><em>Final Step<br></em><br>\u21d2 Kp = [P NO\u2082]\u00b2 / [P N\u2082O\u2084]<br>\u00a0\u00a0<br>\u21d2 Kp = [0,3]\u00b2 / [0,6]<br><br>\u21d2 Kp = 0,3/2<br><br><strong>\u2234 Diperoleh Kp sebesar 0,15</strong><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-biloksbilangan-oksidasi-dari-senyawa-cl2o5-hcl-kclo-957",
+            "question": "Hitung BILOKS(bilangan oksidasi) dari senyawa\r\nCl\u2082O\u2085\r\nHCl\r\nKClO\r\nNaClO",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cl2O5= biloks O= -2 biloks Cl= +5<br>HCl= biloks H= +1 biloks Cl= -1<br>KClO= biloks O= -2 biloks K= +1 biloks Cl= +1<br>NaClO= biloks O= -2 biloks Na= +1 biloks Cl= +1<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cl2O5\nCl2O5 \u00bb (2xbiloksCl)+(5xbiloksO)=0\n                          2Cl -10 = 0\n                                2Cl = 10\n                                  Cl = +5 \nHCl \u00bb ( biloks H) + (biloks Cl)=0\n                     +1 + CL=0\n                             Cl = -1\nKClO \u00bb (biloks k)+(biloksCl)+(biloks O)=0\n                   +1 + Cl - 2 =0\n                           Cl      = +1\nNaClO \u00bb (biloks Na)+(biloks Cl)+(biloksO)=0\n                +1 +Cl -2 =0\n                        Cl    = +1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-nama-senyawa-dan-reaksi-kimia-dari-senyawa-dibawah-inij-566",
+            "question": "Tuliskan nama senyawa dan reaksi kimia dari senyawa dibawah ini,jika dilarutkan dalam air!    HNO3 ; H2SO4 ; H3PO4 ; NaOH ; Ca(OH)2 ; Al(OH)3 ; KBr ; CuSO ; Fe(ClO4)2 ; Ag2CO3 ; Mg3(AsO3)2 ; Al2(SO4)3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H[tex] NO_{3} [/tex] = asam nitrat<br>[tex] H_{3}  PO_{4} [/tex] = asam fosfat<br>NaOH = natrium hidroksida<br>Ca[tex] (OH)_{2}[/tex] = kalsium hidroksida<br>Al[tex] (OH)_{3} [/tex] = alumunium hidroksida<br>KBr = kalium bromida<br>CuSO?<br>Fe[tex] (ClO_{4} )[/tex]_{2} = besi (II) perklorat<br>[tex] Al_{2}  (SO_{4})_{3}  [/tex] = alumunium sulfat<br>maaf ada beberapa yg tidak bisa :(<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-ionisasi-dari-nahco3-caco3-kno3-k2co3na3po4-nh4cl-k2-947",
+            "question": "Reaksi ionisasi dari NaHCO3, CaCO3, KNO3, K2CO3,Na3PO4, NH4Cl, k2CO3, CaF2, CuSO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaHCO\u2083\u00a0\u2192 Na\u207a + HCO\u2083\u207b<br><br>CaCO\u2083\u00a0\u2192 Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br><br>KNO\u2083\u00a0\u2192 K\u207a + NO\u2083\u207b<br><br>K\u2082CO\u2083\u00a0\u2192 2K\u207a + CO\u2083\u00b2\u207b<br><br>Na\u2083PO\u2084\u00a0\u2192 3Na\u207a + PO\u2084\u00b3\u207b<br><br>NH\u2084Cl\u00a0\u2192 NH\u2084\u207a + Cl\u207b<br><br>CaF\u2082\u00a0\u2192 Ca\u00b2\u207a + 2F\u207b<br><br>CuSO\u2084\u00a0<span>\u2192 Cu</span>\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                },
+                {
+                    "answer": "NaHCO\u2083 --&gt; Na\u207a + HCO\u2083\u207b<br>CaCO\u2083 --&gt; Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br>KNO\u2083 --&gt; K\u207a + NO\u2083\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>Na\u2083PO\u2084 --&gt; 3Na\u207a + PO\u2084\u00b3\u207b<br>NH\u2084Cl --&gt; NH\u2084\u207a + Cl\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>CaF\u2082 --&gt; Ca\u00b2\u207a + 2F\u207b<br>CuSO\u2084 --&gt; Cu\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-naoh-sebanyak-2-liter-mempunyai-ph-12-log-3-jumlah-mol-304",
+            "question": "Larutan NaOH sebanyak 2 liter mempunyai pH 12 +log 3. jumlah mol NaOH tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.</strong> NaOH termasuk dalam jenis larutan basa kuat. Jumlah mol dapat ditentukan jika konsentrasi basa diketahui. Adapun Konsentrasi dapat ditentukan dari data [OH\u207b] dan valensi basa.\n</p><p></p><h3>Pembahasan\n</h3><p>Langkah awal dalam kaitannya dengan pH adalah menentukan jenis larutan yang diketahui merupakan larutan asam atau larutan basa. Setelah mengetahui jenis larutan kalian juga harus menentukan sifat larutan tersebut termasuk asam basa kuat atau asam basa lemah. Berdasarkan teori Arrhenius disebutkan bahwa asam adalah senyawa yang dapat melepaskan ion H\u207a ketika dilarutkan dalam air. Adapun basa adalah senyawa yang dapat melepas ion OH\u207b ketika dilarutkan dalam air. Berikut pilihan rumus yang dapat digunakan untuk menghitung konsentrasi asam dan basa sesuai dengan kekuatan asam atau basa tersebut. \u00a0\n</p><p>Jika asam kuat : [H\u207a] = Ma x a\n</p><p>Jika basa kuat : [OH\u207b] = Mb x b\n</p><p>Jika asam lemah : [H\u207a] = \u221a(Ka x Ma)\n</p><p>Jika basa lemah : [OH\u207b] = \u221a(Kb x Mb)\n</p><p>Daftar asam kuat: HCl, HBr, HI, H\u2082SO\u2084, HClO\u2084, HNO\u2083\n</p><p>Daftar basa kuat : LiOH, NaOH, KOH, RbOH, CsOH, Mg(OH)\u2082, Ca(OH)\u2082, Sr(OH)\u2082, Ba(OH)\u2082\n</p><p>Selanjutnya jika larutan tersebut merupakan larutan asam maka pH ditentukan dengan \u00a0\n</p><p>pH = - log [H\u207a]\n</p><p>Jika larutan adalah larutan basa maka pH ditentukan dengan\n</p><p>pOH = - log [OH\u207b] \u00a0 =&gt; pH = 14 \u2013 pOH\n</p><p>Pelajari lebih lanjut tentang pH asam basa di: https://brainly.co.id/tugas/21186459. \u00a0</p><p><u><strong>Pada kasus di atas\n</strong></u></p><p>Pada soal diketahui basa NaOH dengan pH 12 + log 3 dengan volume 2 L. Adapun yang ditanyakan adalah jumlah mol dari basa tersebut.\n</p><p>Untuk menentukan jumlah mol NaOH kalian harus mengetahui NaOH termasuk ke dalam basa kuat atau basa lemah untuk menentukan rumus yang dapat digunakan. Jika kalian lihat pada daftar NaOH termasuk ke dalam kelompok basa kuat sehingga kalian dapat menentukan konsentrasi NaOH menggunakan rumus \u00a0</p><p>[OH\u207b] = Mb x b\n</p><p>Kalian dapat menentukan [OH\u207b] menggunakan data pH yang diketahui. Berikut penentuannya:\n</p><p>pH = 12 + log 3\n</p><p>pOH = 14 \u2013 pH\n</p><p>pOH = 14 \u2013 (12 + log 3)\n</p><p>pOH = 2 \u2013 log 3\n</p><p>[OH\u207b] = 3 x 10\u207b\u00b2\n</p><p>Selanjutnya untuk b (valemnsi basa) dapat kalian tentukan dari jumlah OH\u207b dalam larutan yang dapat kalian lihat dari hasil ionisasinya berikut\n</p><p>NaOH \u00a0\u2192 Na\u207a + OH\u207b\n</p><p>Dilihat dari reaksi ionisasi tersebut didapatkan bahwa basa terdapat 1 ion OH\u207b sehingga valensi basa (b) = 1. Selanjutnya kalian dapat menentukan konsentrasi basa dengan rumus berikut:\n</p><p> \u00a0 \u00a0[OH\u207b] = Mb x b\n</p><p>3 x 10\u207b\u00b2 = Mb x 1\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 3 x 10\u207b\u00b2 M\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 0,03 M\n</p><p>Selanjutnya kalian dapat menentukan jumlah mol (n) yang terdapat dalam larutan NaOH tersebut menggunakan rumus:\n</p><p>n = M x V = 0,03 x 2 = 0,06 mol\n</p><p>Jadi dapat disimpulkan bahwa jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.\n</p><p>Pelajari lebih lanjut tentang konsentrasi dalam satuan molaritas di: https://brainly.co.id/tugas/18990947.\n</p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas:</strong> XI\n</p><p><strong>Mapel:</strong> Kimia\n</p><p><strong>Bab: </strong>larutan asam basa\n</p><p><strong>Kode:</strong> 11.7.5\n</p><p>#AyoBelajar\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1tentntukan-apakah-zat-berikut-larut-atau-tidak-larut-dalam-air-178",
+            "question": "1.tentntukan apakah zat berikut larut atau tidak larut dalam air    a.tembaga (II) sulfat\r\nb. magnesium klorida\r\nc. besi (III) hidrokssida\r\nd.natrium hidrokssda\r\ne. natrium fosfat\r\nf. amonium sulfida\r\ng. asam fosfat\r\nh .zink nitrat\r\nj. alumunium hidroksida",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yg dpt terlarut : natrium hidroksida, tembaga sulfat, magnesium klorida, amonium sulfida, asam fosfat. selain yg saya sebutkan berarti zat itu tdk dpt terlarut<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Zat tak larut , seperti CaF2, FeCr2O4, Cu2[Fe(CN)6], Zn[Fe(CN)6], SiO2, SnS<span>2,\u00a0</span><span>siliside, silisida logam, karborundum.<br><br><br></span>\u00a0<span>Beberapa zat tak larut yang umum dalam analisis kualitatif adalah AgBr, AgCl, AgCN, SrSO4, BaSO4, PbSO4\u00a0dan oksida-oksida yang dipijarkan oleh asam-asam kuat, seperti Al2O<span>3,\u00a0</span>Cr2\u00adO3,Fe2O3,SnO2, Sb2O4, TiO2, ThO<span>2<br></span></span><br>Senyawa ion yang sukar larut\u00a0<span><span>Semua basa kecuali LiOH, NaOH, KOH, NH4OH, Ca(OH)2, Si(OH)2, Ba(OH)<span>2<br></span></span></span><br>a.tembaga (II) sulfat (CuSO4)<br>b. magnesium klorida (MgCl)<br>c. besi (III) hidrokssida (Fe3OH)<br>d.natrium hidrokssda (NaOH)<br>e. natrium fosfat (Na3PO4 ) mudah<br>f. amonium sulfida<br>g. asam fosfat (H2PO4) sukar<br>h .zink nitrat<br>j. alumunium hidroksida (AlOH3)<br><br>Semoga membantu lihat keterangan diatasnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-ionisasi-caoh2-267",
+            "question": "Reaksi ionisasi Ca(OH)\u2082 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ca(OH)2 : Ca(2+) OH(-)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-ph-250-ml-larutan-01-m-naoh-dalam-air-adalah-360",
+            "question": "Harga pH 250 mL larutan 0,1 M NaOH dalam air adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0.1 M NaOH menunjukkan molaritas dari basa kuat natrium hidroksida sedangkan 250ml tersebut digunakan sebagai pelengkap soal.<br>pOH= - log[OH-]<br>pOH = -log[b* Mb]<br>pOH = -log[1* 0,1]<br>pOH = -log[0,1]<br>pOH = 1<br>pH = pKw- pOH<br>pH\u00a0= 14 - 1<br>pH = 13<br><br>Semoga bermanfaat!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+            "attachments": []
+        },
+        {
+            "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-64-32-16-8-tentukan-a-rasio-496",
+            "question": "diketahui barisan geometri : 64 , -32 , 16 , -8 tentukan a. Rasio b. rumus suku ke -n c. suku yang nilainya 1/4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) r = \\frac{ U_{2} }{ U_{1} } \\\\ r= \\frac{-32}{64} \\\\ r= -\\frac{1}{2}  \\\\ \\\\  b)   U_{n}=ar^{ n-1} \\\\  \\\\ c) U_{n} = ar^{n-1} \\\\ \\frac{1}{4} = 64 (\\frac{-1}{2}) ^{n-1} \\\\ \\frac{1}{4} \\frac{-1}{64}= (\\frac{-1}{2}) ^{n-1} \\\\ -\\frac{1}{256}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ -\\frac{1}{2^{9-1}}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ n=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x2-4x30-dan-x24x-210-mempunyai-sebuah-akar-perseku-949",
+            "question": "persamaan x2-4x+3=0 dan x2+4x-21=0, mempunyai sebuah akar persekutuan. akar persekutuan tersebut adalah? (bantu pake caranya ya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0x^2-4x+3=0 akarnya (x\u00a0-\u00a01)\u00a0(x\u00a0-\u00a03)<br>2.\u00a0</span><span>x^2+4x-21=0 akarnya (x\u00a0-\u00a03)\u00a0(x\u00a0+\u00a07)<br><br><br>akar yang sama (x-3) jadi nilai x = 3</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x^2 - 4x + 3 = 0<br>(x - 3)(x - 1) = 0<br>x1=3 \u00a0x2=1<br>jadi, akar-akarnya x=3 atau x=1<br><br>x^2 + 4x - 21 = 0<br>(x + 7)(x - 3) = 0<br>x1=-7 \u00a0x2=3<br>jadi akar-akarnya x=-7 atau x=3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-positif-membentuk-barisan-geometri-dengan-rasio-r-gt-798",
+            "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-dan-y-memenuhi-xy-yx-52-dan-x-3y-1-maka-5x-5y-887",
+            "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187",
+            "question": "selisih panjang dan lebar suatu persegipanjang adalah 8 cm, dan keliling persegi panjang tersebut 44 cm. luas persegi panjang adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : persegi panjang, panjang, lebar, keliling, luas<br>Pembahasan :<br>Perhatikan gambar terlampir.<br><p>Persegi panjang adalah bangun datar\nsegi empat yang memiliki dua pasang sisi sejajar dan empat buah sudut\nsiku-siku.<br></p>\n\n<p>Sifat-sifat persegi panjang, yaitu :<span><br>\n1. sisi-sisi yang berhadapan </span>pada persegi panjang adalah sama panjang dan\nsejajar<span><br>\nAB = C</span>D, AB//CD dan AD = BC, AD//BC;<span><br>\n2. setiap sudut pada persegi panjang sama besar\ndan merupakan sudut siku-siku</span>\n(atau memiliki sudut 90\u00b0)<span><br></span>\u2220BAD = \u2220ABC= \u2220BCD\n= \u2220ADC = 90\u00b0;<span><br>\n3. diagonal-diagonal pada persegi panjang </span>adalah sama panjang<span><br>\nAC = BD;<br>\n4. diagonal-diagonal </span>pada persegi panjang\nberpotongan dan saling membagi dua sama panjang<span><br>\nOA = OC dan OB = OD</span>. Karena AC = BD, maka OA = OB = OC =\nOD;<span><br>\n5. </span>persegi panjang memiliki dua buah simetri\nlipat atau sumbu simetri;<span><br>\n6. </span>persegi panjang memiliki dua buah simetri putar;<span><br>\n7. Menempati bingkainya dengan empat cara.<br></span>Keliling persegi\npanjang adalah </p>\n\n<p>K = 2 . p\n+ 2 . l </p>\n\n<p>= 2 . (p\n+ l)</p>\n\n<p>dengan p merupakan\npanjang dan l merupakan lebar.<span><br></span>Luas persegi panjang\nadalah </p>\n\n<p>L = p . l</p>\n\n<span>dengan\np merupakan panjang dan l merupakan lebar.<br><br>Mari kita lihat soal tersebut.<br>Diketahui selisih panjang dan lebar suatu persegi panjang adalah 8 cm.<br>Kelilingnya adalah 44 cm.\u00a0<br>Misalkan panjang = p, lebar = l, keliling = K, dan luas = L,<br>diperoleh<br>p - l = 8<br></span>\u21d4 p = 8 + l<br><span>Kemudian, <br>K = 44 cm<br>K = 2(p + l)<br></span>\u21d4 K = 2(8 + l + l)<br>\u21d4 K = 2(8 + 2l)<br>\u21d4 K = 16 + 4l<br>\u21d4 44 = 16 + 4l<br>\u21d4 28 = 4l<br>\u21d4 l =\u00a0[tex] \\frac{28}{4} [/tex]<br>\u21d4 l = 7<br><span>Sehingga l = 7 kita substitusikan ke persamaan<br>p = 8 + l<br></span>\u21d4 p = 8 + 7<br>\u21d4 p = 15<br><span>Selanjutnya,\u00a0<br>L = p x l<br></span>\u21d4 L = 15 x 7<br>\u21d4 L = 105<br><span>Jadi, luas persegi panjang tersebut adalah 105 cm</span>\u00b2.<br><span><br>Semangat!<br><br></span>",
+                    "attachments": [
+                        "answer-attachments/selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

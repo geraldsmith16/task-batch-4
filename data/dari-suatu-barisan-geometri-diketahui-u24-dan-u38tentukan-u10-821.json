@@ -1,0 +1,138 @@
+{
+    "question": "Dari suatu barisan geometri diketahui U2=4 dan U3=8.Tentukan U10!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Diketahui\u00a0 barisan geometri</span>\n\n<span>U2=4\u00a0\u00a0 U3=8</span>\n\nMaka U10=? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jawab:\n\nU3/U2=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na.r pangkat 2\u00a0/\u00a0a.r=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r=2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0a.r=4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.2=4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a=4/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na=2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U10= a.r pangkat n-1<br>\n\nU10= 2 . 2 pangkat 10-1\n<br>\nU10=2 . 2 pangkat 9<br>\n\nU10= 2.512<br>\n\nU10=1024\n<br>\nKet: titik = kali\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a : bilangan\npertama</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0r : rasio<br>(maaf klw salah)</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nama-nama-bangun-ruang-dalam-bahasa-inggris-691",
+            "question": "Nama-nama bangun ruang dalam bahasa inggris",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas\u00a0: 5 SDIT / 7 SMPIT\u00a0<br>mapel : matematika<br>kategori : bangun ruang<br>kata kunci : bangun ruang , bahasa inggris<br><br>Pembahasan :<br><br>nama\" bangun ruang dengan menggunakan bahasa inggris<br><br>1) kubus = cube<br>2) balok = cuboid<br>3) limas = pyramid<br>4) prisma = prism<br>5) tabung = sylinder<br>6) bola = sphere<br>7) kerucut = cone<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-yang-setara-dengan-pernyataan-jika-hewan-itu-elang-ma-116",
+            "question": "Pernyataan yang setara dengan pernyataan \"jika hewan itu elang maka hewan itu dapat terbang\" adalah ....    tolong jawabannya dan pembahasan nya ... terima kasih...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p-&gt;q setara dengan ~q=&gt;~p<br><span>jika hewan itu elang maka hewan itu dapat terbang setara dengan jika hewan itu tidak bisa terbang maka hewan itu bukan elang<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p =&gt; q \u2261\u00a0 -p \u2228 q \u2261 -q =&gt; -p <br>Pernyataan : <br>Jika hewan itu elang maka hewan itu dapat terbang <br>setara dengan : <br>* Hewan itu bukan elang atau hewan itu dapat terbang<br>* Jika hewan itu dapat terbang maka hewan itu elang <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-tengah-suatu-deret-aritmatika-adalah-32-jika-juml-140",
+            "question": "Diketahui suku tengah suatu deret aritmatika adalah 32. Jika jumlah n suku pertama deret itu 672, tentukan banyak suku suatu deret tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 672 <br>Ut = a + b((n+1)/2 - 1)<br>32 = a + b(n-1)/2 kedua ruas kali 2<br>64 = 2a + b(n-1)...........(1)<br>Sn = 1/2 n( a + Un)<br>672 = 1/2 n( a + a + b(n-1)<br>672 = 1/2 n( 2a + b(n-1))<br>672 = 1/2 n(64)<br>672 = 32n<br>n = 672/32<br>n = 21<br>jadi <span>banyak suku suatu deret tersebut adalah 21</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "periksalah-sah-atau-tidak-argumen-berikut-pq-580",
+            "question": "Periksalah sah atau tidak argumen berikut!    \u00a0 \u00a0\r\n\u00a0~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0q\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 konsklusi r\r\n\u00a0\r\n~p\u21d2q\r\n~r\u21d2q\r\nkonsklusi\u00a0~p\u21d2r\r\n\r\n2. tuliskan kesimpulan yang sah dari premis premis berikut!\r\n\r\np1 : q\u21d2 ~r\r\np2 : s\u21d2r\r\nkesimpulan .......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "q =&gt; ~r<br>s =&gt;r<br>kesimpulannya, :<br><br>q=&gt;~s<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <u>q\u21d2r \u00a0\u00a0<br></u>\u00a0</span>~r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (sah)<br><br>~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0~p\u21d2q<br>~r\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sehingga \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0~q\u21d2r<br>konsklusi\u00a0~p\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0konsklusi\u00a0~p\u21d2r \u00a0 \u00a0(sah )<br><br>NB :\u00a0~r\u21d2q dirubah menjadi\u00a0~q\u21d2r<br><br>2)\u00a0p1 : q\u21d2\u00a0~r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0p1 : q\u21d2\u00a0~r<span>\u00a0\u00a0<br>\u00a0 \u00a0\u00a0p2 : s</span>\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jadi menjadi \u00a0 \u00a0 \u00a0 \u00a0 \u00a0p2 :\u00a0~r\u21d2\u00a0s<span><br>\u00a0 \u00a0 k \u00a0 : \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k :\u00a0</span>q\u00a0\u21d2\u00a0s<span><br><br><br>NB :\u00a0</span>\u00a0p2 : s\u21d2r kita rubah menjadi \u00a0:\u00a0~r\u21d2\u00a0s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaaa-a-x-02-548",
+            "question": "Tolong bantu yaaa \r\na x 0^2 = ....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00a0x 0^2 = a x (0 x 0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a x 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-u1-2-dan-s10-33s5-nilai-u6-304",
+            "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

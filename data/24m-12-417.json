@@ -1,0 +1,142 @@
+{
+    "question": "24m = 12",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "24m=12<br>\u00a0\u00a0 m=12/24<br>\u00a0\u00a0  m=1/2\u00a0 ,,\u00a0 0,5<br>",
+            "attachments": []
+        },
+        {
+            "answer": "kalau yang ditanyakan berapa nilai m, maka jawabannya\u00a0<br><br>[tex]m =  \\frac{12}{24} =  \\frac{1}{2} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "untuk-menyelesaikan-suatu-pekerjaan-selama-72-hari-diperlukan-pe-629",
+            "question": "untuk menyelesaikan suatu pekerjaan selama 72 hari, diperlukan pekerja 24 orang. setelah dikerjakan 30 hari pekerja di tambah 12 orang. dengan tambahan pekerja tersebut, pekerjaan lebih cepat selesai..........hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : 24 orang = 72 hari<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 72 : 24 = 3 , jadi 1 orang setara dengan 3 hari<br><br>setelah 30 hari , pekerja ditambah 12 orang. Berapa hari lebih cepat ?<br><br>72 - 30 = 42 hari lagi ( waktu normal jika tidak ditambah )<br><br>misal hari baru = Y<br>42 x 24 = 36 Y<br>Y = [tex] \\frac{42 x 24}{36} [/tex]<br>Y = 28 hari<br><br>Jadi pekerjaan lebih cepat selesai 42 hari - 28 hari = 14 hari <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-kelas-yang-terdiri-atas-46-siswa-dilakukan-pendataan-134",
+            "question": "pada sebuah kelas yang terdiri atas 46 siswa dilakukan pendataan pilihan ekstrakulikuler. dari hasil sementara diperoleh 19 siswa memilih KIR , 23 siswa memilih PMR, dan 16 siswa belum menentukan pilihan. Tentukan banyaknya siswa yang hanya memilih PMR saja dan KIR saja .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "( 16 + 19 + 23) - 46 = 58  - 46 = 12. \njadi, KIR = 19 - 12 = 7.\njadi, PMR  = 23 - 12 = 11.",
+                    "attachments": []
+                },
+                {
+                    "answer": "KIR= 7 anak, PMR= 11<br>Itulah jawabanku<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-suku-ke-n-deret-aritmetika-jika-diketahui-suku-pertama-a-506",
+            "question": "Carilah Suku ke-n deret aritmetika jika diketahui suku pertama (a) dan\u00a0beda (b) \u00a0berikut    a.) a=\u00a09, b= -3 , dan n = 24\r\nb.) a=\u00a012, b= -7 , dan n = 8\r\nc.) a= -4, b= 4 dan n = 100\r\nd.) a=\u00a02 , b=9 dan n=1\u00a05",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0 Un = a + (n-1)b<br>Un = 9 + (n-1)(-3)<br>Un = 9 - 3n + 3<br>Un = 11 - 3n<br>n = 24<br>U24 = 11- 3.24 = 11 - 72 = - 61<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a)a=9, b=3, n=24 jadi Un=24<br>Un=a+(n-1)b<br>24=9+(24-1)3<br>\u00a0\u00a0 =9+(23)3<br>\u00a0\u00a0 =78<br><span>b.) a=12, b=7, n=8 jadi Un=8<br>Un=a+(n-1)b<br>\u00a08= 12+(8-1)7<br>\u00a0\u00a0  =12+49<br>\u00a0\u00a0 =61<br>c) a=4, b=4, n=100 jadi Un=100<br>Un=a+(n-1)b<br>100=4+(100-1)4<br>\u00a0\u00a0 \u00a0 =4+396<br>\u00a0\u00a0 \u00a0 =400<br>d) a=2, b=9, n=15 jadi Un=15<br>Un=a+(n-1)b<br>15=2+(15-1)9<br>\u00a0\u00a0\u00a0 = 2+126<br>\u00a0\u00a0  =128<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-abc-diketahui-sisi-sisinya-adalah-abdan-c-840",
+            "question": "Pada sebuah segitiga ABC diketahui sisi-sisinya adalah a,b,dan c. daripertanyaan berikut yg benar adalah ...    a. b\u00b2 = a\u00b2 + c\u00b2\r\nb. c\u00b2 = b\u00b2 + a\u00b2\r\nc. c\u00b2 = a\u00b2 + b\u00b2\r\nd. a\u00b2 = b\u00b2 + c\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika C adalah sisi miring. <br>\nMaka jawaban yang benar C. c\u00b2 = a\u00b2 + b\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "C. c pangkat 2= a pangkat 2 + b pangkat 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "20-sen-malasyia-berapa-rupiah-ya-10-sen-singapura-berapa-rupiah-644",
+            "question": "20 sen malasyia berapa rupiah ya? 10 sen singapura berapa rupiah ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 sen malaysia = brp rupiah?<br><br>1 ringgit = 3.280,59<br>1 ringgit = 100 sen<br><strong>20 sen</strong> = 20% x 1 ringgit<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 20% x 3.280,59<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>  = 656,12 rupiah</strong><br><br>10 sen singapura = brp rupiah?<br><br>1 dollar singapura = 9.897,21 rupiah<br>1 dolar = 100 sen<br><strong>10 sen</strong> = 10% x 1 dolar<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 10% x 9.897,21<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <strong>= 989,721 rupiah</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bola-terbesar-yang-dapat-dimasukkan-ke-dalam-kubus-yang-pa-293",
+            "question": "Volume bola terbesar yang dapat dimasukkan ke dalam kubus yang panjang rusuknya 24 cm adalah............    &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;tolong dong diberi caranya,terimakasih&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s\u00a0= 24 cm<br>d = s = 24 cm<br>r =\u00a0[tex] \\frac{1}{2} [/tex]\u00a0\u00d7 24 = 12 cm<br><br>volume bola terbesar =\u00a0<u></u>[tex] \\frac{4}{3} [/tex]\u00a0\u00d7\u00a0[tex] \\pi [/tex]\u00a0\u00d7\u00a0[tex] r^{3} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{4}{3} [/tex]\u00a0\u00d7 3,14\u00a0\u00d7\u00a0[tex]12^{3} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{4}{3} [/tex]\u00a0\u00d7 3,14\u00a0\u00d7 1728<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2304\u00a0\u00d7 3,14<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 7234.56\u00a0[tex] cm^{3} [/tex]<br><br>maaf kalo salah :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajat-jika-34-putaran-619",
+            "question": "Berapa derajat jika 3/4 putaran?!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 3/4*360=270\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "360 x 3/4 = 270 derajat<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-juring-aob-35-cm-maka-luas-juring-boc-adalah-711",
+            "question": "Jika luas juring AOB = 35 cm, maka luas juring BOC adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini nggk bisa di jawab klo nggk ada gambarnya adek <br>ok !<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-yang-memiliki-ajari-jari-7-cm-bjar-205",
+            "question": "Hitunglah keliling lingkaran yang memiliki    a.jari jari 7 cm\r\n b.jari jari 50 cm \r\n c.diameter 21 cm\r\n d. diameter 10 cm\r\n e. luas 314 cm\r\n f. luas 616 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K= 2\u03c0r <br>K= 2 x 22/7 x 7<br>K = 44<br><br>b. K = 2\u03c0r<br>K = 2 x 3,14 x 50<br>K = 6,28 x 50<br>K = 314<br><br>c. K = \u03c0d<br>K = 22/7 x 21<br>K = 66<br><br>d. K = \u03c0d<br>K = 3,14 x 10<br>K = 31,4<br><br>e. L= \u03c0r\u00b2<br>314 = 3,14 x r\u00b2<br>r\u00b2 = 314/ 3,14<br>r\u00b2 = 100<br>r= \u221a100<br>r = 10<br><br>K= 2\u03c0r<br>K = 2 x 3,14 x 10<br>K = 62,8<br><br>f. L = \u03c0r\u00b2<br>616 = 22/7 x r\u00b2<br>r\u00b2 = 616/ 22/7<br>r\u00b2 = 196<br>r = \u221a196<br>r = 14<br><br>K = 2\u03c0r<br>K = 2 x 22/7 x 14<br>K = 88<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "Tlong gan: Jika h(x+2) = x\u00b2 + 2x maka h(x)=....... 2x + X\u00b2 2x - x\u00b2 -x\u00b2 + 2x -x\u00b2 - 2x x\u00b2 - 2x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "h(x + 2) = x\u00b2 + 2x <br>h(x) =\u00a0 (x - 2)\u00b2 + 2(x - 2)<br>h(x) = x\u00b2 - 4x + 4 + 2x - 4 <br>h(x) = x\u00b2 - 4x + 2x + 4 - 4 <br>h(x) = x\u00b2 - 2x\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-xyz-dengan-siku-siku-d-y-cos-z-20-per-24-tentuka-889",
+            "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-interval-0-derajat-kurang-lebih-sama-dengan-x-kurang-lebih-s-956",
+            "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-persamaan-kuadrat-dari-persamaan-kuadrat-4xpangkat2-13x-930",
+            "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-dan-y-memenuhi-xy-yx-52-dan-x-3y-1-maka-5x-5y-887",
+            "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-suatu-barisan-geometri-diketahui-u24-dan-u38tentukan-u10-821",
+            "question": "Dari suatu barisan geometri diketahui U2=4 dan U3=8.Tentukan U10!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui\u00a0 barisan geometri</span>\n\n<span>U2=4\u00a0\u00a0 U3=8</span>\n\nMaka U10=? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jawab:\n\nU3/U2=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na.r pangkat 2\u00a0/\u00a0a.r=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r=2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0a.r=4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.2=4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a=4/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na=2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U10= a.r pangkat n-1<br>\n\nU10= 2 . 2 pangkat 10-1\n<br>\nU10=2 . 2 pangkat 9<br>\n\nU10= 2.512<br>\n\nU10=1024\n<br>\nKet: titik = kali\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a : bilangan\npertama</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0r : rasio<br>(maaf klw salah)</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fxx2-1-gx-2x-1-jika-hx-fxgx-maka-domain-h-901",
+            "question": "F(x)=\u221ax\u00b2-1 g(x)=\u00a0\u221a2x-1. jika h(x)= f(x).g(x) maka domain h(x) yang memenuhi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]h(x)= f(x).g(x) \\\\ h(x) = \\sqrt{ x^{2} -1} .  \\sqrt{2x-1}  \\\\ h(x) =  \\sqrt{ 2x^{3} -  x^{2} -2x+1 } [/tex]<br><br>Ingat di dalam akar tidak boleh\u00a0negatif..<br><br>[tex]2x^{3} -  x^{2} -2x+1 \\geq 0  \\\\  (x-1)(2x-1)(x+1)  \\geq 0[/tex]<br><br>buat garis bilangan sehingga diperoleh<br>[tex]-1 \\leq x \\leq \\frac{1}{2} ; x \\geq 1[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "{ ( x^2 - 1 ) . ( 2x - 1) }^1/2<br>( 2x^3 - x^2 - 2x +1 )^1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-nilai-trigonometri-berikut-sin-90-745",
+            "question": "Hitung nilai trigonometri berikut sin(-90)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= sin (-90)<br>= - (sin 90)<br>= - 1<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak ada jawaban dan caranya untuk mencari sin (-90)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-perusahaan-memproduksi-x-unit-barang-dengan-biaya-4x2-8x-540",
+            "question": "Suatu perusahaan memproduksi x unit barang    dengan biaya ( 4x^2-8x+24) dalam ribu rupiah untuk tiap unit \r\n jika barang tersebut terjual habis dengan harga 40.000 tiap unit keuntungan maksimum nya yang diperoleh perusahaan tersebut adalah...\r\n mohon bantuannya ya..\r\n buatin caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suatu perusahaan memproduksi x unit barang dengan biaya (4x^2 \u2013 8x + 24) dalam ribu rupiah untuk tiap unit</strong>. Jika barang tersebut terjual habis dengan harga Rp40.000,00 tiap unit maka <strong>keuntungan maksimumnya yang diperoleh perusahaan tersebut </strong>adalah Rp32.000,00. Hasil tersebut diperoleh dengan mencari nilai stasioner. Nilai stasioner diperoleh jika f\u2019(x) = 0. Titik stasioner ada 3 jenis yaitu\n</p><ul><li>Titik balik maksimum diperoleh jika f\u201d(x\u2081) &lt; 0\n</li><li>Titik balik minimum diperoleh jika f\u201d(x\u2081) &gt; 0\n</li><li>Titik belok diperoleh jika f\u201d(x\u2081) = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Biaya per unit = (4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>maka\n</p><p><strong>Biaya untuk memproduksi x unit\n</strong></p><p>B(x) = x(4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>B(x) = (4x\u00b3 \u2013 8x\u00b2 + 24x) dalam ribu rupiah\n</p><p></p><p>Harga jual per unit = Rp40.000,00 = 40 ribu rupiah\n</p><p>maka\n</p><ul><li>harga jual untuk x unit = 40x ribu rupiah\n</li></ul><p></p><p>Sehingga<strong> keuntungan yang diperoleh perusahaan</strong> adalah\n</p><p>U = harga jual \u2013 biaya produsi\n</p><p>U = 40x \u2013 (4x\u00b3 \u2013 8x\u00b2 + 24x)\n</p><p>U = 40x \u2013 4x\u00b3 + 8x\u00b2 \u2013 24x\n</p><p>U = \u20134x\u00b3 + 8x\u00b2 + 16x\n</p><p>U\u2019 = \u201312x\u00b2 + 16x + 16\n</p><p></p><p><strong>Agar diperoleh keuntungan maksimum, maka U\u2019 = 0\n</strong></p><p>\u201312x\u00b2 + 16x + 16 = 0\n</p><p>\u20134(3x\u00b2 \u2013 4x \u2013 4) = 0\n</p><p>\u20134(x \u2013 2)(3x + 2) = 0\n</p><p>(x \u2013 2) = 0 atau (3x + 2) = 0\n</p><p> \u00a0 \u00a0 \u00a0 x = 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03x = \u20132\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = \u00a0[tex]-\\frac{2}{3}[/tex]\n</p><p>karena <strong>jumlah produksi tidak mungkin bernilai negatif</strong>, maka kita pilih <strong>x = 2\n</strong></p><p></p><p>Jadi <strong>keuntungan maksimum yang diperoleh perusahaan tersebut</strong> adalah\n</p><p>U = (\u20134x\u00b3 + 8x\u00b2 + 16x) ribu rupiah\n</p><p>U = (\u20134(2)\u00b3 + 8(2)\u00b2 + 16(2)) ribu rupiah\n</p><p>U = (\u20134(8) + 8(4) + 32) ribu rupiah\n</p><p>U = (\u201332 + 32 + 32) ribu rupiah\n</p><p>U = 32 ribu rupiah\n</p><p><strong>U = Rp32.000,00\n</strong></p><p></p><h3>Pelajari lebih lanjut\n</h3><p></p><p>Contoh soal lain tentang nilai stasioner\n</p><ul><li>Laba maksimum: brainly.co.id/tugas/10878909\n</li><li>Penjualan maksimum: brainly.co.id/tugas/13787566\n</li><li>Biaya minimum: brainly.co.id/tugas/252367\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 11\n</p><p><strong>Mapel</strong> : Matematika \u00a0\n</p><p><strong>Kategori</strong> : Turunan Fungsi Aljabar\n</p><p><strong>Kode</strong> : 11.2.9\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

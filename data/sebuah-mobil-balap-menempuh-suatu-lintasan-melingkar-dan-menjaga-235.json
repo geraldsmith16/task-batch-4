@@ -1,0 +1,150 @@
+{
+    "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-di-maksud-dengan-cepat-rambat-bunyi-319",
+            "question": "Apa yang di maksud dengan cepat rambat bunyi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil bagi jarak antara sumber bunyi dan pendengar dengan selang waktu yang diperlukan bunyi untuk merambat",
+                    "attachments": []
+                },
+                {
+                    "answer": "getaran yg dpt ditransmisikan oleh air atau meterial lain sbgai medium (perantara)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-sebuah-benda-di-udara-5-n-apabila-benda-ditimbang-di-dalam-803",
+            "question": "Berat sebuah benda di udara 5 N. Apabila benda ditimbang di dalam air (massa jenis air = 1000 kg/m3) beratnya menjadi 3,2 N. Jika percepatan gravitasi g = 10 m/s2 maka massa jenis benda adalah \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fa = Wb - Wc<br>\u00a0 \u00a0 \u00a0= 5N - 3,2N<br>\u00a0 \u00a0 \u00a0 = 1,8 N<br><br>Fa = pc.gc.vc<br>1,8 N = 1000.10.v<br><br>v =\u00a0[tex] \\frac{1,8}{10 000} = 1,8x10^-4 m^3[/tex]<br><br>atau Vb = vc<br><br>[tex]p = [tex] \\frac{mb}{vb} = \\frac{0,5}{1,8x10^-4} = 2,7778 kg/m^3 [/tex]<br><br>atau\u00a0<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kan di udara 5 N dan di air 3.2 N berarti ada Farchimedes sebesar 1.8N <br>Fa=\u0440(air) x V x g <br>1.8 = 1000 x V(benda dalam fluida) x 10 <br>V benda = 1.8x[tex] 10^{-4} [/tex] <br>\u0440(benda) = m(benda) / V(benda) <br>\u0440=[tex] \\frac{0,5}{1.8x 10^{-4} } [/tex] = 2777,77 kg/m3<br>maaf kalau ada salah <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287",
+            "question": "pompa hidrolik mempunyai perbandingan diameter pengisap 1:40. apabila pada pengisap besar dimuati beban 32000N, maka agar seimbang, pada pengisap kecil harus diberi gaya sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\nBesar gaya yang dibutuhkan pada penampang kecil agar setimbang adalah 20 N</p><h3>Pembahasan \u00a0</h3><p>Pada soal ini dapat diselesaikan dengan konsep fluida statis \u00a0</p><p>Jawaban:\n</p><p>\nUntuk mencari besar gaya yang dibutuhkan pada penampang kecil kita gunakan hubungan tekanan pada bejane berhubungan</p><p>[tex]P_1=P_2\\\\\\frac{F_1}{A_1} =\\frac{F_2}{A_2} \\\\F_1A_2=F_2A_1\\\\F_1d_2^2=F_2d_1^2\\\\F_1*40^2=32000*1^2\\\\F_1=20\\; N[/tex]</p><p>Materi lebih lanjut terkait dengan fluida statis dapat dipelajari pada link berikut ini\n</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Archimedes https://brainly.co.id/tugas/20707089\n</p><p>2.Materi tentang Fluida statis https://brainly.co.id/tugas/5289680\n</p><p>3.Materi tentang Tegangan permukaan https://brainly.co.id/tugas/4439825\n</p><p>4.Materi tentang Fluida tidak bergerak https://brainly.co.id/tugas/20806499\n</p><p>5.Materi tentang fluida statis https://brainly.co.id/tugas/208110482\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 3 - Fluida Statis\n</p><p><strong>Kode</strong>: 11.6.3\n</p><p>\n</p><p><strong>Kata Kunci:</strong> Archimedes, pascal, fluida statis\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-berjari-jari-10-cm-dan-bermassa-10-kg-berotasi-508",
+            "question": "Sebuah roda pejal berjari-jari 10 cm dan bermassa 10 kg berotasi dengan kecepatan sudut 10 rad/s.    hitunglah :\r\na. momentum sudut\r\nb. energi kinetik rotasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: r=10 cm,m =10kg, \u03c9=10rad/s<br>dit: L...?<br>JWB:a. L=I.\u03c9<br>I=7[tex] \\frac{x}{y} [/tex]5.M.R\u00b2<br>=7 per 5 . 10. 10\u00b2<br>=7 per 5. 1000<br>=200 kgm<br>jadi L= I.\u03c9<br>= 200.10<br>=2000kgm\u00b2/s<br>b? semoga membantu:)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : r = 10 cm\u00a0\u21d2 0,01 m \u00a0; \u00a0m = 10 kg \u00a0; \u00a0 I = 10 m/s<br>Peny :<br>a) momentum sudut\u00a0(L)<br><span>I=1/2 mR\u00b2 <br>I=1/2 10\u00a0</span>\u00b7\u00a0<span>0,01 =0,05, maka<br>L= I\u00a0</span>\u00b7\u00a0\u03c9\u00a0<br>= 10\u00a0\u00b7\u00a00,05\u00a0= 0,5\u00a0<span>kg m</span>\u00b2<span>/s</span><br><br>b)\u00a0<span>energi kinetik rotasi<br></span>\u21d2\u00a0<span>EkR = I \u03c92<br></span>\u21d2\u00a0EkR =\u00a010\u00a0\u00b7\u00a0(0,05) 2<br>\u21d2\u00a0EkR = 1 Joule<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418",
+            "question": "Batang homogaen AB yang panjangnya L dan beratnya 50 N berada dalam keadaan seimbang, seperti tampak pada gambar. batang diberi engsel pada A dan ditahan oleh tali OC pada kedudukan AC = 2/3 L dan sudut ACO = 30 derajat. jika pada ujung batang digantung beban 100 N, hitunglah:    a. tegangan tali\r\nb. komponen- komponen gaya yang dikerjakan engsel pada batang\r\nc. besar dan arah gaya engsel pada batang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi : torsi<br>Kata kunci : tegangan tali<br>Pembahasan : jawaban dan cara ada di lampiran",
+                    "attachments": [
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-1.jpg",
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-2.jpg",
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-pengaruh-panjang-tali-terhadap-periode-gerak-harmonik-p-733",
+            "question": "Bagaimana pengaruh panjang tali terhadap periode gerak harmonik pada ayunan sederhana ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika tali pendek maka periode besar sedangkan jika tali panjang, periode mengecil. (maybe)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-kalor-berdasarkan-pengertian-konvensional-dan-berdasar-593",
+            "question": "Pengertian kalor berdasarkan pengertian konvensional dan berdasarkan teori kinetik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor adalah energi panas yang berpindah sari benda yang bersuhu lebih tinggi ke benda yang bersuhu lebih randah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Konvensional : Energi yang muncul akibat perubahan suhu<br>Teori kinetik Zat :Energi yang muncul akibat adanya perubahan Tekanan dan Volume suatu zat pada massa dan Suhu tertentu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-kohesi-beserta-contohnya-654",
+            "question": "Apa yang di maksud kohesi beserta contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

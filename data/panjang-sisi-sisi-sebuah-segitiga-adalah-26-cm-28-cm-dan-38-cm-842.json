@@ -1,0 +1,148 @@
+{
+    "question": "panjang sisi- sisi sebuah segitiga adalah 26 cm, 28 cm, dan 38 cm. Hitunglah\u00a0 a. panjang jari-jari lingkaran dalam segitiga. b. panjang jari-jari lingkaran luar segitiga. \u00a0 yang bisa mohon bantuannya ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik : sisi segitiga =&gt; a = 26 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b =28 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0c = 38 cm<br>dit : a.) rd (jari-jari dalam segitiga) = ...?<br>\u00a0 \u00a0 \u00a0 b.) rl (jari-jari luar segitiga) = ...?<br>jwb :\u00a0<br>a.) rd = Lsegitiga/S<br>\u00a0 \u00a0 \u00a0Lsegitiga = a x t per 2 = 26 x 28 per 2 = 13 x 28 = 364 cm\u00b2<br>\u00a0 \u00a0 \u00a0S = 1/2 Ksegitiga = 1/2 (26+28+38) = 1/2 (92) = 46 cm<br>\u00a0 \u00a0 \u00a0rd = 364 cm\u00b2/46\u00a0cm = 7,91<br>b.) rl = a.b.c / 4Lsegitiga = 26.28.38/4(364) = 27.664/1.456 = 19 cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-di-samping-di-ketahui-ltaob45ltcod90dan-pan-600",
+            "question": "PADA GAMBAR DI SAMPING DI KETAHUI &lt;AOB=45`,&lt;COD=90`,DAN PANJANG BUSUR CD=11CM HITUNGLAH    A.PANJANG BUSUR AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambarnya mana ? harusnya ada<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-tex-pi-314-tex-hitunglah-keliling-lingkaran-yang-916",
+            "question": "Untuk\u00a0 [tex] \\pi 3,14    [/tex]\u00a0 hitunglah keliling lingkaran yang luasnya sebagai berikut \r\na. 200,96cm b. 1.256cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) K = 2kali akar (luas x pi)<br>= 2kali akar (200.96 x 3.14)<br>= 2kali akar (631.0144)<br>= 2kali 25.12<br>= 50.24<br><br>b) rumus sama :)<br>= 2kali akar (1256 x 3.14)<br>= 2kali akar (3943.84)<br>= 2kali 62.8<br>= 125.6<br><br>\u00a0:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]a) L =  \\pi  r^{2}  \\\\ 200,96  = 3,14  r^{2}  \\\\  \\frac{200,96}{3,14} = r^{2}  \\\\ 64 = r^{2} \\\\ r = \\sqrt{64}  \\\\ r = 8 \\\\  \\\\ k =  2\\pi r \\\\ k =2 \u00d7 3,14 \u00d7 8 \\\\ k = 16 \u00d7 3,14 \\\\ k = 50,24cm \\\\ \\\\ \\\\ b) L =  \\pi  r^{2}  \\\\ 1.256  = 3,14  r^{2}  \\\\  \\frac{1256}{3,14} = r^{2}  \\\\ 400 = r^{2} \\\\ r = \\sqrt{400}  \\\\ r = 20 \\\\  \\\\ k =  2\\pi r \\\\ k=2 \u00d7 3,14 \u00d7 20 \\\\ k = 40 \u00d7 3,14 \\\\ k = 125,6 cm[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-mempunyai-luas-permukaan-376-cm2-jika-panjang-balok-827",
+            "question": "Sebuah balok mempunyai luas permukaan 376 cm2. jika panjang balok 10 cm, lebar balok 6 cm, berapakah tinggi balok tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Sebuah balok mempunyai luas permukaan 376 cm\u00b2. jika panjang balok 10 cm, lebar balok 6 cm, berapakah tinggi balok tersebut?</p><h3>Pendahuluan</h3><p>Balok adalah bangun ruang yang dibatasi oleh enam buah bidang berbentuk persegi panjang.</p><p><strong>Rumus Balok</strong></p><p>[tex]\\boxed {Volume = p \\times l \\times t}[/tex]</p><p>[tex]\\boxed {LP~ Balok = 2 [(p \\times l) + (p \\times t) + (l \\times t)]}[/tex]</p><p></p><h2>Pembahasan </h2><p>Diketahui : </p><p>Luas permukaan balok = 376 cm\u00b2</p><p>panjang balok = 10 cm</p><p>lebar balok = 6 cm</p><p>Ditanya : </p><p>Tinggi balok ?</p><p></p><h3>Jawab : </h3><ul><li><strong>Menentukan tinggi balok</strong></li></ul><p>LP = 2 [(p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t)]</p><p>376 = 2 [(10 \u00d7 6) + (10 \u00d7 t) + (6 \u00d7 t)]</p><p>[tex]\\displaystyle \\frac{376}{2}[/tex] = 60 + 10t + 6t</p><p>188 = 60 + 16t</p><p>16 t = 188 - 60</p><p>16 t = 128</p><p> \u00a0 \u00a0t = [tex]\\displaystyle \\frac{128}{16}[/tex] </p><p> \u00a0 \u00a0t = 8 cm</p><p>Jadi tinggi balok tersebut adalah 8 cm</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Bangun Ruang Sisi Datar</h3><ol><li>Luas permukaan gabungan balok dan 1/2 tabung \u2192 brainly.co.id/tugas/20793770</li><li>Volume sebuah tenda yang berbentuk prisma tegak segitiga \u2192 brainly.co.id/tugas/8026010</li><li>Luas permukaan limas segiempat \u2192 brainly.co.id/tugas/14410864</li><li>Luas permukaan prisma trapesium \u2192 brainly.co.id/tugas/9624288</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 8 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 8 - Bangun Ruang Sisi Datar</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 8.2.8</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-mempunyai-luas-permukaan-376-cm2-jika-panjang-balok-827-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-taman-bunga-berbentuk-lingkaran-dengan-luas-1386-m2-di-s-139",
+            "question": "suatu taman bunga berbentuk lingkaran dengan luas 1.386 m\u00b2. di sekeliling taman itu setiap 4 meter ditanami pohon cemara. banyak pohon cemara yang dapat ditanam adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran = [tex] \\pi [/tex] x r\u00b2<br>1386 m\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{22}{7} [/tex] x r\u00b2<br>1386 m\u00b2 x\u00a0[tex] \\frac{7}{22} [/tex] = r\u00b2<br>\u00a0[tex]\\sqrt{441} [/tex] m\u00b2 = r<br>\u00a0 \u00a0 21 m \u00a0 \u00a0 \u00a0 \u00a0 = r<br><br>keliling =\u00a0[tex] \\pi [/tex] x diameter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x 2 x r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x 2 x 21 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 132 m<br><br>banyak pohon cemara yang ditanam = 132 m : 4 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas = [tex] \\pi [/tex].r2<br>1386 = 22/7 . r\u00b2<br>r\u00b2 = 1386 . 7 / 22<br>r = \u221a441<br>r = 21<br><br>K = 2.[tex] \\pi [/tex].r<br>K = 2.22/7.21<br>K = 44 . 3 = 132<br><br>banyak pohon = 132/4 = 33 pohon<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oa-10-cm-dan-jarak-ob-26-cm-luas-segitiga-oab-ada-913",
+            "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-siku-siku-panjang-hipotenusanya-310-459",
+            "question": "Diketahui sebuah segitiga siku-siku, panjang hipotenusanya 3\u221a10 cm dan panjang salah satu sissinya 3 cm. panjang sisi siku-siku yang lain adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hipotenusa=\u221a{(sisi 1)\u00b2+(sisi 2)\u00b2}<br>hipotenusa\u00b2=(sisi 1)\u00b2+(sisi 2)\u00b2<br>(3\u221a10)\u00b2=3\u00b2 + (sisi 2)\u00b2<br>90 = 9 + (sisi 2)\u00b2<br>81 = (sisi 2)\u00b2<br>(sisi 2)\u00b2 = 81<br>(sisi 2) = \u221a81<br>(sisi 2) = 9<br><br>hasilnya 9................ jadikan jawaban saya yang terbaik ya :D<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-kalimat-kalimat-berikut-177",
+            "question": "perhatikan kalimat-kalimat berikut.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.samarindah adalah ibu kota provinsi kalimantan timur.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b.2+3=6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c.2 adalah bilangan prima terkecil dan merupakan bilangan genap\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d.4b-9=4b-9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 manakah diantara kalimat tersebut yang merupakan kalimat tertutup dan kalimat terbuka",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi jawaban dari dari pertnyaan ini adalah c<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>kalimat terbuka:<br>\u00a0b.\u00a02+3=6\u00a0<br>kalimat tertutup:<br>a.\u00a0samarinda adalah ibukota kalimantan timur</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lingkaran-dengan-pusat-o-dan-m-berdiameter-16-cm-dan-48-cm-selisi-713",
+            "question": "Lingkaran dengan pusat O dan M berdiameter 16 cm dan 48 cm selisih luas kedua lingkarannya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diameter\u00a0lingkaran O = 16 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r \u00a0= 16 cm : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 cm<br><br>Luas lingkaran O =\u00a0[tex] \\pi [/tex] . r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 8 cm x 8 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 200,96 cm\u00b2<br><br>diameter lingkaran M = 48 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0= 48 cm : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 24 cm<br><br>Luas lingkaran M =\u00a0[tex] \\pi [/tex] . r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3,14 x 24 cm x 24 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1808,64 cm\u00b2<br><br>Selisih = 1808,64 cm\u00b2 - 200,96 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1607,96 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x1-2x-2-2x-3-173",
+            "question": "Tentukan nilai x, jika (2x+1) + (2x + 2) + (2x + 3) + ....... + (2x + 50) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x+1)+(2x+2)+(2x+3)+......+(2x+50) = 4275<br>50(2x) + 1+50 . 25 =\u00a04275<br>100x + 1275 = 4275<br>x = 4275 - 1275 / 100<br>x = 3000 / 100<br>x = 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "a=U1=2x+1<br>U2=2x+2<br>b=U2-U1=2x+2-(2x+1)=1<br>Un=a+(n-1)b<br>=2x+1+(n-1)1=2x+50<br>2x+n=2x+50<br>n=50<br>Sn=n/2(a+Un)<br>=50/2(2x+1+(2x+50))=4275<br>=25(4x+51)=4275<br>=100x+1275=4275<br>=100x=3000<br>x=30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-beli-kain-1-kodi-adalah-600000-dan-setelah-dijual-mengal-699",
+            "question": "harga beli kain 1 kodi adalah 600.000 , dan setelah dijual mengalami kerugian 8% . tentukan harga penjualan 1 lembar kain batik tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100-92 per 100 dikali 600.000\n= 92 per 100 dikali 600.000\n= 552000 dibgi 20 buah\n= 27600 maybe",
+                    "attachments": []
+                },
+                {
+                    "answer": "harga perkain sebelum rugi = 600.000/20<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 300/kain<br>harga setelah mengalami kerugian = 300 x 8/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2400/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

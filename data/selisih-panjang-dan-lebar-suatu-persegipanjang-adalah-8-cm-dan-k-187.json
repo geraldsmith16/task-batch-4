@@ -1,0 +1,140 @@
+{
+    "question": "selisih panjang dan lebar suatu persegipanjang adalah 8 cm, dan keliling persegi panjang tersebut 44 cm. luas persegi panjang adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : VII (1 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : persegi panjang, panjang, lebar, keliling, luas<br>Pembahasan :<br>Perhatikan gambar terlampir.<br><p>Persegi panjang adalah bangun datar\nsegi empat yang memiliki dua pasang sisi sejajar dan empat buah sudut\nsiku-siku.<br></p>\n\n<p>Sifat-sifat persegi panjang, yaitu :<span><br>\n1. sisi-sisi yang berhadapan </span>pada persegi panjang adalah sama panjang dan\nsejajar<span><br>\nAB = C</span>D, AB//CD dan AD = BC, AD//BC;<span><br>\n2. setiap sudut pada persegi panjang sama besar\ndan merupakan sudut siku-siku</span>\n(atau memiliki sudut 90\u00b0)<span><br></span>\u2220BAD = \u2220ABC= \u2220BCD\n= \u2220ADC = 90\u00b0;<span><br>\n3. diagonal-diagonal pada persegi panjang </span>adalah sama panjang<span><br>\nAC = BD;<br>\n4. diagonal-diagonal </span>pada persegi panjang\nberpotongan dan saling membagi dua sama panjang<span><br>\nOA = OC dan OB = OD</span>. Karena AC = BD, maka OA = OB = OC =\nOD;<span><br>\n5. </span>persegi panjang memiliki dua buah simetri\nlipat atau sumbu simetri;<span><br>\n6. </span>persegi panjang memiliki dua buah simetri putar;<span><br>\n7. Menempati bingkainya dengan empat cara.<br></span>Keliling persegi\npanjang adalah </p>\n\n<p>K = 2 . p\n+ 2 . l </p>\n\n<p>= 2 . (p\n+ l)</p>\n\n<p>dengan p merupakan\npanjang dan l merupakan lebar.<span><br></span>Luas persegi panjang\nadalah </p>\n\n<p>L = p . l</p>\n\n<span>dengan\np merupakan panjang dan l merupakan lebar.<br><br>Mari kita lihat soal tersebut.<br>Diketahui selisih panjang dan lebar suatu persegi panjang adalah 8 cm.<br>Kelilingnya adalah 44 cm.\u00a0<br>Misalkan panjang = p, lebar = l, keliling = K, dan luas = L,<br>diperoleh<br>p - l = 8<br></span>\u21d4 p = 8 + l<br><span>Kemudian, <br>K = 44 cm<br>K = 2(p + l)<br></span>\u21d4 K = 2(8 + l + l)<br>\u21d4 K = 2(8 + 2l)<br>\u21d4 K = 16 + 4l<br>\u21d4 44 = 16 + 4l<br>\u21d4 28 = 4l<br>\u21d4 l =\u00a0[tex] \\frac{28}{4} [/tex]<br>\u21d4 l = 7<br><span>Sehingga l = 7 kita substitusikan ke persamaan<br>p = 8 + l<br></span>\u21d4 p = 8 + 7<br>\u21d4 p = 15<br><span>Selanjutnya,\u00a0<br>L = p x l<br></span>\u21d4 L = 15 x 7<br>\u21d4 L = 105<br><span>Jadi, luas persegi panjang tersebut adalah 105 cm</span>\u00b2.<br><span><br>Semangat!<br><br></span>",
+            "attachments": [
+                "answer-attachments/selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894",
+            "question": "Himpunan penyelesaian dari 36 log (x-4) + 36 log (x+1) &lt; 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2</strong> adalah {x | 4 &lt; x &lt; 5, x \u2208 R}. Logaritma merupakan salah satu invers dari perpangkatan. Definisinya\n</p><p><strong>\u1d43log b = n </strong>artinya <strong>a\u207f = b\n</strong></p><p>dengan syarat <strong>a &gt; 0, b &gt; 0, a \u2260 1\n</strong></p><p><u>Sifat-sifat logaritma</u>\n</p><ul><li>\u1d43log bc = \u1d43log b + \u1d43log c\n</li><li>\u1d43log (b/c) = \u1d43log b \u2013 \u1d43log c\n</li><li>\u1d43log b\u207f = n . \u1d43log b\n</li><li>[tex]^{a^{m}}log\\:b^{n} = \\frac{n}{m}[/tex] \u1d43log b \u21d2 [tex]^{a^{n}}log\\:b^{n}[/tex] = \u1d43log b\n</li><li>\u1d43log b = [tex]\\frac{^{c}log\\:b}{^{c}log\\:a}[/tex] \u21d2 \u1d43log b = [tex]\\frac{1}{^{b}log\\:a}[/tex]\n</li><li>\u1d43log b . \u1d47log d . \u1d48log n = \u1d43log n\n</li><li>[tex]a^{^{a}log\\:b} = b[/tex]\n</li><li>\u1d43log a = 1\n</li><li>\u1d43log 1 = 0\n</li><li>\u00b9\u2070log b = log b\n</li></ul><p><strong>Pertidaksamaan logaritma\n</strong></p><p>\u1d43log f(x) &gt; \u1d43log g(x)\n</p><ul><li>Jika 0 &lt; a &lt; 1 maka <strong>f(x) &lt; g(x)</strong> ==&gt; (Tanda &gt; berubah menjadi &lt;)\n</li><li>Jika a &gt; 1 maka <strong>f(x) &gt; g(x) </strong>==&gt; (Tanda &gt; tetap, tidak berubah)\n</li><li>Syarat: <strong>f(x) &gt; 0, g(x) &gt; 0\n</strong></li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p></p><p>Syarat: \u00a0</p><ul><li>1) (x \u2013 4) &gt; 0 \u21d2 <strong>x &gt; 4\n</strong></li><li>2) (x + 1) &gt; 0 \u21d2 <strong>x &gt; \u20131\n</strong></li></ul><p></p><p><strong>Penyelesaian\n</strong></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p>\u00b3\u2076log (x \u2013 4)(x + 1) &lt; \u00b3\u2076log [tex]36^{\\frac{1}{2}}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 + x \u2013 4x \u2013 4) &lt; \u00b3\u2076log [tex]\\sqrt{36}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 \u2013 3x \u2013 4) &lt; \u00b3\u2076log 6\n</p><p>(x\u00b2 \u2013 3x \u2013 4) &lt; 6\n</p><p>x\u00b2 \u2013 3x \u2013 10 &lt; 0\n</p><p>(x \u2013 5)(x + 2) &lt; 0\n</p><p>x = 5 atau x = \u20132\n</p><p></p><p><u>Garis bilangan\n</u></p><p>++++++ (\u20132) <strong>----------</strong> (5) ++++++\n</p><p>Karena kurang dari nol, maka ambil daerah yang negatif (antara \u20132 dan 5)\n</p><p></p><p><u>Irisan garis bilangan dengan syarat\n</u></p><p>.......... (\u20132) <strong>xxxxxxxxxxxxxxxxxx</strong> (5) .............\n</p><p>1) ............................. (4) <strong>xxxxxxxxxxxxxxxxx\n</strong></p><p>2) ...............( \u20131) <strong>xxxxxxxxxxxxxxxxxxxxxxxx\n</strong></p><p>Jadi irisannya adalah antara 4 dan 5, sehingga <strong>himpunan penyelesaiannya</strong> adalah:\n</p><p><strong>HP = {x | 4 &lt; x &lt; 5, x \u2208 R}\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang pertidaksamaan logaritma untuk 0 &lt; a &lt; 1\n</p><p>https://brainly.co.id/tugas/14458200\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel</strong> : Matematika Peminatan\n</p><p><strong>Kategori</strong> : Pangkat, Bentuk Akar dan Logaritma\n</p><p><strong>Kode</strong> : 10.2.3\n</p><p></p><p><strong>Kata Kunci</strong> : Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2\n</p>",
+                    "attachments": [
+                        "answer-attachments/himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-tinggal-landas-membentuk-sudut-30-dengan-landa-816",
+            "question": "Sebuah Pesawat tinggal landas membentuk sudut 30\u00b0\u00a0 dengan landasan. Jika pesawat telah menempuh jarak 6km dari tinggal landas, berapa ketinggian Pesawat sekarang! Pliss yang tau coret\" di bawah :v",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggi pesawat artinya, didepan sudut 30\u00b0<br>nah, kalo gitu pake yang sin<br>sin = depan/miring<br>sin 30 = tinggi/6<br>0,5 = tinggi/6<br>tinggi = 0,5/6<br>tinggi = 5/60<br>tinggi = 1/12 km<br><br><br>setau aku sih gitu ya\u00a0:)<br>kalo salah maap ye",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-rumus-skala-692",
+            "question": "Apa rumus-rumus skala?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya :jarak pada peta(SKALA)<br>Jarak sebenarnya:skala (JARAK PADA PETA)<br>Jarak pada peta\u00d7skala (JARAK SEBENARNYA)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebidang-tanah-terletak-ddisepanjang-sebuah-temboktanah-itu-dipa-788",
+            "question": "sebidang tanah terletak ddisepanjang sebuah tembok.tanah itu dipagari kawat untuk peternakan ayam.kawat yang tersedia panjangnya 400m.lokasi peternakan itu dibuat berbentuk persegi panjang.tentukan ukuran panjang dan lebar agar dapat dibuat peternakan yang seluas-luasnya dan berapa luas maksimum lokasi peternakan yang dapat dibentuk",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake prinsip turunan<br>keliling = 2x + 2y = 400<br>y = (400 -2x)/2<br>L = xy ---&gt; x(400 - 2x)/2L= 200x - x^2<br>L&#039;= 200 - 2x = 0<br>x = 100<br><span>y = 100<br><br>L maksimum = 10.000 m^2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaaa-a-x-02-548",
+            "question": "Tolong bantu yaaa \r\na x 0^2 = ....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00a0x 0^2 = a x (0 x 0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a x 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tlong-gan-jika-hx2-x2-2x-maka-hx-2x-x2-2x-465",
+            "question": "Tlong gan: Jika h(x+2) = x\u00b2 + 2x maka h(x)=....... 2x + X\u00b2 2x - x\u00b2 -x\u00b2 + 2x -x\u00b2 - 2x x\u00b2 - 2x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(x + 2) = x\u00b2 + 2x <br>h(x) =\u00a0 (x - 2)\u00b2 + 2(x - 2)<br>h(x) = x\u00b2 - 4x + 4 + 2x - 4 <br>h(x) = x\u00b2 - 4x + 2x + 4 - 4 <br>h(x) = x\u00b2 - 2x\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-buah-buku-dan-2-buah-pensil-rp880000-jika-harga-sebua-328",
+            "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-6x-8-0-adalah-a-dan-v-p-618",
+            "question": "akar-akar persamaan kuadrat x\u00b2 + 6x + 8 = 0 adalah \u03b1 dan \u03b2 . persamaan kuadrat baru yang akar- akarnya 3\u03b1 dan 3\u03b2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menyusun persamaan baru <br>x\u00b2 + 6x + 8 <br>a = 1 <br>b = 6<br>c = 8 <br>akar-akar persamaannya <br>\u03b1 + \u03b2 = -b/a<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = - 6/1<br>\u00a0\u00a0 \u00a0  \u00a0 \u00a0 = - 6<br>\u03b1 . \u03b2\u00a0 = c/a<br>\u00a0\u00a0 \u00a0 \u00a0  \u00a0 = 8/1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 <br>karna di tentukan 3\u03b1 dan 3\u03b2<br>3\u03b1 + 3\u03b2 = 3 ( \u03b1 + b)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 3 ( -6)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -18<br>3\u03b1 . 3\u03b2 = 9 \u03b1\u03b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 9 ( 8 )<br><strong>\u00a0\u00a0 \u00a0  \u00a0\u00a0 \u00a0 \u00a0 = 72</strong><br><strong>rumus persamaan\u00a0 baru</strong><br>x \u00b2 - ( 3\u03b1+3\u03b2)x + \u03b1.b<br>= x\u00b2 - (-18)x + 72<br>= x\u00b2 + 18x + 72<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

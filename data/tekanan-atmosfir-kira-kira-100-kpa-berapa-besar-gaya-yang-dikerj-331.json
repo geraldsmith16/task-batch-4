@@ -1,0 +1,138 @@
+{
+    "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantu-yaa-sbuah-tabung-dengan-massa-180-kg-panjang-6-m-d-732",
+            "question": "Tolong bantu yaa    sbuah tabung dengan massa 180 kg. panjang 6 m, dan luas penampang 25 cm berdiri tegak di atas lantai maka besar tekanan berapa.... N/m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = F / A<br>= (180 . 9,8) / 0,25<br>= .... / 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "P = F/A<br>\u00a0 \u00a0= 180.10 / 0,25<br>\u00a0 \u00a0= 7200 Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bermassa-20-kg-massa-jenis-4000-kgm3-diikat-dengan-490",
+            "question": "Suatu benda bermassa 20 kg, massa jenis 4000 kg/m3, diikat dengan tali dan dimasukkan ke dalam bak yang berisi minyak (massa jenis minyak 800 kg/m3) hingga benda dalam keadaan tergantung (g=10m/s2). maka tegangan tali pada sistem ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D1 : massa jenis benda= 4000 kg.m^3 \u00a0 \u00a0 \u00a0 \u00a0 m = 20kg<br>\u00a0 \u00a0 \u00a0 \u00a0massa jenis fluida= 800 kg/m^3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s^2<br>D2 : T=..?<br>D3 : <br>V benda = m benda/massa jenis benda<br>V benda = 20/4000<br>V benda = 1/200 m^3<br>sigma F = 0<br>T + Fa = W<br>T + massa jenis fluida.volume benda.g = massa benda.g<br>T + 800.1/200.10 = 20.10<br>T + 40 = 200<br>T = 200-40<br>T = 160 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-02-m-x-01-m-x-03-m-digantung-vertik-741",
+            "question": "Sebuah balok dengan ukuran 0,2 m x 0,1 m x 0,3 m digantung vertikal dari seutas kawat ringan. tentukan gaya apung pada balok itu :    a. di celupkan seluruhnya dalam minyak \r\n\r\n ( \u03c1 = 800 kg/m3)\r\nb. dicelupkan 3/4 bagian dalam air (\u03c1 = 1000 kg/m3)\r\nc. dicelupkan 1/3 bagian dalam raksa (\u03c1 = 13600 kg/m3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V balok seluruhnya = 0,2m. 0,1m. 0,3m = 0.006 m\u00b3<br>3/4 V balok = 3. 0.006 /4 = 0.0045 m\u00b3<br>1/3 V balok = 0.06 / 3 = 0.002 m\u00b3<br>a. p minyak = 800kg/m\u00b3<br>\u00a0\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 800. 10. 0.006<br>\u00a0\u00a0 \u00a0 =\u00a0 48 N<br><br>b. p air = 1000 kg/m\u00b3 <br>\u00a0\u00a0  F= p. g. V<br>\u00a0\u00a0 \u00a0 = 1000. 10. 0.0045<br>\u00a0\u00a0 \u00a0 = 45 N<br><br>c. p raksa =13600kg/m\u00b3<br>\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 13600. 10. 0.002<br>\u00a0\u00a0 \u00a0 = 272 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593",
+            "question": "batang AB homogen panjang 12m berat 200 N bersandar pada dinding vertikal yg licin di B &amp; bertumpu pada lantai horizontal di A yg kasar. Batang AB membentuk sudut 60' dg bidang horizontal. Jika batang tepat akan menggeser maka besar koefisien di A adl... tolongin ya pake crnya jg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><u>Kesetimbangan Benda Tegar</u></h2><h3>UAN 2003</h3><p>Jawaban berupa Lampiran</p><p>Kelas : XI</p><p>Bab Dinamika Rotasi dan Keseimbangan Benda Tegar</p><br>",
+                    "attachments": [
+                        "answer-attachments/batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-faktor-yang-mempengaruhi-peluncuran-roket-air-505",
+            "question": "Apa saja faktor yang mempengaruhi peluncuran roket air ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suMBER GAS , FIN , NOZEL, TABUNG PELUNCUR<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Wings (sayap)Ukuran wings yang bagus adalah yang tidak terlalu lebar atau tidak terlalu sempit, karena dapat berpengaruh pada kestabilan roket saat meluncur. Makin lebar sayap maka makin lebar pula luas penampang roket. Makin lebar luas penampang roket, makin mudah bagi roket untuk mengalirkan udara tetapi juga makian besar hambatan yang diterima roket. Bahannya bisa dari polycarbonate (dipakai untuk pintu kanopi), fiber atau bisa juga menggunakan sterofoam. Tetapi apabila kita menggunakan sterofoam, bisa cepat rusak karena tidak kuat.Jumlah sayap dapat tiga atau empat buah tetapi yang bagus adalah tiga buah. Apabila roket meluncur di udara berbelok atau berputar-putar seperti baling-baling, mungkin terjadi kesalahan pada jumlah sayap, bentuk dan ukuran yang tidak sama, sehingga akan menyebabkan roket jatuh sebelum mencapai jarak yang maksimal. Fungsi dari wings adalah sebagai pengarah aliran udara dari ujung roket menuju belakang. Selain itu juga, sebagai penyeimbang ketika roket meluncur di udara agar tetap stabil.2. Body ( Botol)Body roket terdiri dari satu atau dua botol air minum bekas baik yang bersoda maupun air minum biasa. Tetapi botol yang bagus di gunakan untuk membuat roket adalah botol bersoda ukuran besar (1 liter). Alasannya karena mampu menampung lebih banyak udara dan air serta mempunyai tekanan yang lebih kuat, sehingga roket akan meluncur lebih jauh. Dalam pembuatan roket seringnya ruang kompresi digunakan sebagai body roket pula. Alur pada permukaan botol juga berpengaruh pada hambatan angin yang diterima roket.3. Nose coneNose cone adalah bagian paling ujung dari roket. Bentuknya bermacam-macam, mulai dari bentuk kerucut, kerucut tumpul, sampai yang tidak mempunyai nose cone (hanya ujung botol saja). Bentuk Nose cone yang bagus adalah bentuk kerucut, karena lebih mudah membelah udara saat roket meluncur. Bahan untuk membuat nose cone hendaknya lebih lunak dari pada bahan untuk membuat wings supaya lebih mudah untuk dibentuk, seperti bahan fiber. Sebelum nose cone dipasang pada botol, masukkan pemberat ke dalamnya. Pemberatnya bisa dari kerikil atau yang lainya, kemudian rekatkan pada ujung kerucut. Tujuannya adalah supaya apabila roket mendarat maka bagian nose cone berada di bawah.4. Volume AirBahan bakar dari roket air adalah air. Volume air dalam botol yang paling ideal adalah 1/3 volume botol. Apabila volumenya terlalu banyak maka akan membutuhkan waktu pemompaan yang lama dan roket biasanya menjadi tidak stabil. Sebaliknya jika volumenya kurang dari 1/3 maka roket akan meluncur sebelum waktunya sehingga jarak tempuh roket kurang maksimal.5. Cara MemompaPompa yang digunakan adalah pompa sepeda yang memiliki tekanan udara yang kuat. Teknik memompa diawali dengan pelan-pelan kemudian cepat, hingga botol terlepas dari peluncurnya. Apabila proses memompa berhenti dan botol belum terlepas atau tidak segera diluncurkan maka udara dalam botol akan habis, sehingga roket tidak dapat meluncur secara maksimal.6. Sudut Peluncuran<span>Sudut peluncuran yang mampu membuat roket mencapai jarak maksimal adalah 450. Apabila sudutnya lebih dari itu maka roket akan meluncur ke atas dan jarak yang di tempuh jadi kurang maksimal. Begitu juga sebaliknya apabila sudutnya kurang dari itu, roket akan jatuh dalam jarak yang masih lumayan dekat.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-akibatnya-bila-kecepatan-bola-relatif-besar-terhadap-fluid-629",
+            "question": "Apakah akibatnya bila kecepatan bola relatif besar terhadap fluida?(hukum stokes)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan bertambahnya besar kecepatan bola maka bertambah pula gaya \nstokes pada bola tersebut sehingga pada akhirnya bola tersebut akan \nbergerak dengan kecepatan tetap<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287",
+            "question": "pompa hidrolik mempunyai perbandingan diameter pengisap 1:40. apabila pada pengisap besar dimuati beban 32000N, maka agar seimbang, pada pengisap kecil harus diberi gaya sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\nBesar gaya yang dibutuhkan pada penampang kecil agar setimbang adalah 20 N</p><h3>Pembahasan \u00a0</h3><p>Pada soal ini dapat diselesaikan dengan konsep fluida statis \u00a0</p><p>Jawaban:\n</p><p>\nUntuk mencari besar gaya yang dibutuhkan pada penampang kecil kita gunakan hubungan tekanan pada bejane berhubungan</p><p>[tex]P_1=P_2\\\\\\frac{F_1}{A_1} =\\frac{F_2}{A_2} \\\\F_1A_2=F_2A_1\\\\F_1d_2^2=F_2d_1^2\\\\F_1*40^2=32000*1^2\\\\F_1=20\\; N[/tex]</p><p>Materi lebih lanjut terkait dengan fluida statis dapat dipelajari pada link berikut ini\n</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Archimedes https://brainly.co.id/tugas/20707089\n</p><p>2.Materi tentang Fluida statis https://brainly.co.id/tugas/5289680\n</p><p>3.Materi tentang Tegangan permukaan https://brainly.co.id/tugas/4439825\n</p><p>4.Materi tentang Fluida tidak bergerak https://brainly.co.id/tugas/20806499\n</p><p>5.Materi tentang fluida statis https://brainly.co.id/tugas/208110482\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 3 - Fluida Statis\n</p><p><strong>Kode</strong>: 11.6.3\n</p><p>\n</p><p><strong>Kata Kunci:</strong> Archimedes, pascal, fluida statis\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-yang-kamu-ketahui-tentang-alat-pemuas-kebutuham-manu-433",
+            "question": "Jelaskan apa yang kamu ketahui tentang alat pemuas kebutuham manusia",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "alat pemuas kebutuhan adalah segala sesuatu yang dibutuhkan manusia untuk memenuhi kebutuhan hidupnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "bentuk alat pemuas kebutuhan itu ada 2 yitu :<br>- barang dan jasa.<br>alat pemuas kebutuhan barang adalah suatu benda baik berupa barang ataupun jasa.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

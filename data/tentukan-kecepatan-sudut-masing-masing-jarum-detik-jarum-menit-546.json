@@ -1,0 +1,134 @@
+{
+    "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-bermassa-4-kg-ditembak-dengan-sebutir-peluru-bermass-903",
+            "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686",
+            "question": "Gaya listrik yang dialami q dari titik A adalah 12 N. Jika muatan q digeser mendekati titik A sejauh 5mm, ma gaya listrik yang dialamai muatan q adalah .... ()",
+            "attachments": [
+                "question-attachments/gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Gunakan perbandingan antar variabel\u00a0<br>[tex]F = k \\frac{qq&#039;}{r^2} = F \\alpha \\frac{1}{r^2}\n\n\n[/tex]<br><br>Artinya besar gaya listrik berbanding terbalik dengan kuadrat jarak\u00a0<br><br>Berdasar gambar di atas jarak nya 10 mm, digeser mendekati titik A sejauh 5 mm, artinya jarak menjadi 1/2 lebih dekat yang berakibat listrik menjadi 4 kali semua yaitu 12 x 4 = 48 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "es-bermassa-m-gram-bersuhu-0c-dimasukkan-ke-dlm-air-massa-340-g-183",
+            "question": "Es bermassa M gram bersuhu 0\u00b0C dimasukkan ke dlm air massa 340 gram suhu 20\u00b0C yang ditempatkan pada bejana khusus. anggap bejana tdk menyerap/melepaskan kalor.    jika L es = 80 kal g\u207b\u00b9 , C air = 1 kal \u00b0C\u207b\u00b9 , semua es mencair dan kesetimbangan termal dicapai pada suhu 5\u00b0C, maka massa es (M) adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:<br>T es =\u00a0<span>0\u00b0C\u00a0<br>m air = 340 gr<br>T air = 2</span><span>0\u00b0C\u00a0<br>L es = 80 kal g^-1<br>c air = 1 kal^-1\u00a0</span><span>\u00b0C^-1<br>T = 5</span><span>\u00b0C\u00a0</span><span><br><br>m es . . .?<br><br>Jawab:<br>m air . C air . (T air - T) = m es . L es + m es . C air (T - T es)<br>340 . 1 . (20 - 5) = m es . 80 + m es (5 - 0)<br>340 . 15 = 80 m es + 5 m es<br>5100 = 85 m es<br>m es = 5100/85<br>\u00a0 \u00a0 \u00a0 \u00a0 = 60 gr</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-miopi-menggunakan-kacamata-2-d-agar-penglihatannya-men-547",
+            "question": "Penderita miopi menggunakan kacamata -2 D agar penglihatannya menjadi normal.Apabila orang tersebut tanpa kaca mata,titik jauh sebesar...    a.50cm\r\nb.75cm\r\nc,100cm\r\nd.125cm\r\ne.150cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik jauh penderita miopi menggunakan kacamata 2 D adalah 100cm\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "-100/-2 =50 cm<br>\u00a0semoga membantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229",
+            "question": "Jika bermassa m digantungkan pada pegas yang memiliki tetapan k, maka pegas akan bertambah panjang 1,5 cm. Tentukan pertambahan panjang pegas jika pegasi disusun seperti gambar berikut ini.",
+            "attachments": [
+                "question-attachments/jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lm = 5 kg<br>\u00a0 \u00a0 \u00a0 k = 8 k<br>\u00a0 \u00a0 \u00a0 l = 1,5 cm = 0,015<br>\u00a0 \u00a0 \u00a0 g = 10 m/s<br>Dit \u0394l ?<br><br>F = k.l<br>m.g = 8k .\u0394l<br>5.10 = 8k .\u00a0\u0394l<br><br>\u0394l = 50 / 8k<br>\u00a0 \u00a0 = 6,25 m<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-fokus-sebuah-cermin-cekung-8-cm-tentukan-letak-perb-163",
+            "question": "1. \u00a0 \u00a0jarak fokus sebuah cermin cekung 8 cm tentukan letak perbesaran dan jarak \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bayangan jika jarak benda sejauh 2o cm. \u00a0 2. \u00a0 sebuah benda terletak 30 cm di depan cermin dengan jarak fokus 15 cm. tentukan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a. jarak bayangan \u00a0 \u00a0 \u00a0 \u00a0b. perbesaran bayangan \u00a0 \u00a0 \u00a0 \u00a0c. sifat sifat bayangan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk nomor 1 aja ya<br>1/8 = 1/20 + 1/s&#039;<br>1/s&#039; = 1/8 - 1/20<br>1/s&#039; = 5/40 - 2/40<br>s&#039; = 40/3 = <strong><em>13,3 cm</em></strong> <u>(pembuktiannya titik fokus berada di 8cm maka titik M berada di 16 cm sehingga benda berada di ruang 3, untuk cermin cekung titik O-F itu ruang 1, F-M ruang 2, M kebelakang ruang 3, dibelakang cermin ruang 4, rumus untuk letak benda dan perbesaran secara sederhana adalah ruang benda + ruang bayangan = 5, tadi benda ada di ruang 3, maka 3 + x = 5, maka x = 2, terbukti bahwa bayangan berada di ruang 2 karena jaraknya 13,3 cm)</u><br>Perbesaran s&#039;/s = 13,3/8 = <em><strong>1,6x</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suatu-ayunan-sederhana-bergetar-sebanyak-60-kali-dalam-wak-600",
+            "question": "1.jika suatu ayunan sederhana bergetar sebanyak 60 kali dalam waktu 15 sekon . tentukan    a.frekuensi ayunan\r\nb.periode ayunan\r\n\r\n2.suatu getaran dalam suatu ayunan yang amplitudonya 2 cm memerlukan waktu 0,1 sekon, tentukan\r\na.hitunglah periode untuk simpanagn maksimun 5 cm\r\nb.hitunglah frekuensi untuk amplitudo 4 cm. \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a. periode=n/t=60/15=4<br>\u00a0\u00a0  b. frekuensi=1/T=1/4=0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A<br>1. f =\u00a0[tex] \\frac{n}{t} [/tex] =\u00a0[tex] \\frac{60}{15} [/tex] = 4 Hz<br>2. T =\u00a0[tex] \\frac{t}{n} =  \\frac{15}{60} =  \\frac{1}{4} = 0,25 s[/tex]<br><br>B<br>yp = A sin 2\u03c0[tex] \\frac{t}{T} [/tex]<br>0,05 = 0,02 sin 2\u03c0\u00a0[tex] \\frac{0,1}{T} [/tex]<br>0,05 T = 0,02 sin 2\u03c0 0,1<br>T =\u00a0[tex] \\frac{0,02 . 0,01097}{0,05} = 0,0044 s [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-bagaimana-proses-air-mendidih-dan-hukum-apa-yang-digunak-715",
+            "question": "Jelaskan bagaimana proses air mendidih dan hukum apa yang digunakan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Air terdiri dari beberapa molekul yang saling terikat atau tarik menarik. Nah ketika air dipanaskan air akan mengambil energi panas tersebut dengan memperlihatkan gerakan molekul-molekul air. Ketika suhu air semakin panas maka gerakan molekul-molekulnya pun akan semakin cepat yang akan menyebabkan terbebasnya atau terlepasnya ikatan molekul-molekul tersebut. Molekul yang terbebaskan akan berubah menjadi gas (menguap). Titik didih air berada pada 100 C tetapi kondisi ini jika air tidak mengandung bahan-bahan atau zat-zat yang lainnya. Sebagai contoh ketika air mendidih dalam suhu 100 C kemudian Anda memasukan garam kedalam air tersebut maka titik didih air akan lebih tinggi dari 100 C. hal ini dikarenan garam memberikan ikatan kembali kepada molekul-molekul air sehingga dibutuhkan energi panas yang lebih untuk membebaskan air dari ikatan-ikatan tersebut.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantuan-nya-ya-1-air-sebanyak-60-gram-bersuhu-90-c-228",
+            "question": "Tolong bantuan nya ya?    1).\u00a0air sebanyak 60 gram bersuhu 90\u00a0\u00b0C( kalor jenis air = 1kal/gr\u00a0\u00b0C ) di campur\u00a040 gr air sejenis\u00a0bersuhu 25\u00a0\u00b0C. jika tidak ada faktor lain yang mempengaruhi proses ini, suhu akhir air campuran adalah.......\u00a0\u00b0C\r\n\r\n2). es massanya 100 gr bersuhu -5\u00b0C kemudian di beri kalor hingga menjadi air dengan suhu 15\u00b0C. ( kalor lebur es = 80 kal.g pangkat -1, kalor jenis es = 0,5 kal/g\u00b0C; kalor jenis air = 1 kal/g\u00b0C dan 1 kalori = 4,2 joule). Berapakah kalor yang diberikan pada es tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1=60g=0,6 kg<br>1)T1=90&#039;C<br>m2=40g=0,4kg<br>T2=25&#039;C=1 kal/gr&#039;C<br>Tc=?<br>Qlepas=Qterima<br>m1*C*(T1-Tc)=m2*C*(Tc-T2)<br>m1*(T1-Tc)=m2*(Tc-T2)<br>60(90-Tc) \u00a0=40(Tc-25)<br>60/40(90-Tc)=Tc-25<br>3/2(90-Tc)=Tc-25<br>135-3/2Tc=Tc-25<br>135+25=Tc+3/2Tc<br>160 \u00a0 \u00a0=5/2Tc<br>Tc \u00a0 \u00a0 \u00a0 =160/5/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =160*2/5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32*2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =64 &#039;C",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

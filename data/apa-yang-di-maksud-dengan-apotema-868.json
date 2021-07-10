@@ -1,0 +1,154 @@
+{
+    "question": "Apa yang di maksud dengan apotema?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Apotema<span>\u00a0adalah ruas garis yang ditarik dari titik pusat lingkaran tegak lurus\u00a0\u00a0 pada sebuah tali busur. Apotema juga bisa disebut dengan jarak titik pusat lingkaran dengan tali busur tertentu</span>",
+            "attachments": []
+        },
+        {
+            "answer": "apotema adalah ruad garis yg ditarik dari titik pusat lingkaran tegak lurus pada sebuah busur lingkaran. :-)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-bantuannya-perhatikan-gambar-persegi-yg-didalamnya-terdap-178",
+            "question": "Mohon bantuannya    perhatikan gambar persegi \u00a0yg didalamnya terdapat unsur lingkaran ,seperti pada gambar berikut.jika\u00a0\u03c0=22/7,hitunglah luas derah yg terarsir\r\nmakasih sebelumnya :)",
+            "attachments": [
+                "question-attachments/mohon-bantuannya-perhatikan-gambar-persegi-yg-didalamnya-terdap-178-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "cari luas lingkaran.<br>\u00a03,14 x 3,5 x 3,5 = 38,465 cm2<br>cari luas persegi.<br>7 x\u00a07 = 49\u00a0cm2<br>jadi luas persegi-luas lingkaran\u00a0<br>49 cm2 - 38,465 cm2 = 10,535 cm2",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena luas yang tidak diarsir berbentuk:<br><u>1\u00a0</u> +\u00a0<u> 1\u00a0</u> +<u>\u00a0 1</u><br>2\u00a0 \u00a0 \u00a0 4\u00a0 \u00a0\u00a0\u00a0 4<br>maka luas yang tidak diarsir sama dengan 1 lingkaran<br><br>Luas lingkaran:<br>L = \u03c0 \u00d7 r\u00b2<br>L = <u>22\u00a0</u> \u00d7 3,5\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 7<br>L = 38,5 cm\u00b2<br><br>Luas persegi:<br>L = s \u00d7 s<br>L = 7 \u00d7 7<br>L = 49 cm\u00b2<br><br>Luas yang diarsir:<br>Luas persegi - luas lingkaran<br>49 - 38,5<br>10,5 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jika-ditentukan-sebuah-titik-h-berapa-garis-yg-dapat-dibuat-881",
+            "question": "1. jika ditentukan sebuah titik H , berapa garis yg dapat dibuat melalui titik H ?    2.ada 2 buah titik yaitu A&amp;B . berapa garis yg dapat dibuat melalui titik A dan B ?\r\n3.diketahui titik T terletak pada bagian h.berapa garis yang dapat dibuat melalui titik T terletak pada garis h ? \r\n4.diketahui sebuah titik M terletak di luar garis p dan q yang sejajar . ada berapa garis yang dapat dibuat melalui M dan sejajar p atau q \r\n5.diketahui garis k sejajar garis i dan garis m sejajar garis n .jika garis m memotong garis k dan l , apakah garis n juga memotong k dan l? jelaskan !\r\ntolong di jawab ya...................",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. tak terhingga<br>2. 1<br>3. tak terhingga<br>4. 1<br>5. ya<br><br>ini caranya digambar. lalu dianalisis<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-panjang-op28cm-dan-busur-lingkaran-pq176hitung-luas-586",
+            "question": "Diketahui panjang OP=28cm dan busur lingkaran PQ=17,6.Hitung luas juring POQ",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>[tex]K = 2  \\pi r\n \\\\ K = 2~x~(22/7)~x~28~cm\n \\\\ K = 176~cm\n \\\\ \n \\\\ L =  \\pi r^2\n \\\\ L = (22/7)~x~(28~cm)^2\n \\\\ L = 2464~cm^2[/tex]<span><br><br><span>[tex]Cari~sudut~POQ[/tex]<br><span>\u2220\u00a0[tex]POQ~/\\angle~1~lingkaran = panjang~PQ~/~keliling~lingkaran[/tex]<br></span><span>\u2220\u00a0[tex]POQ~/~360^\\circ = 17,6~/~176 [/tex]<br></span><span><span>\u2220\u00a0[tex]POQ = (17,6~/~176 )~x~360^\\circ[/tex]<br>\u2220\u00a0[tex]POQ = 36^\\circ[/tex]<br></span><br></span></span></span></span>[tex]Luas~Juring~POQ~/~luas~lingkaran = \\angle POQ~/ \\angle~1~lingkaran[/tex]<br><span>[tex]Luas~Juring~POQ~/~2464~cm^2 = 36^\\circ~/~360^\\circ[/tex]<br></span><span>[tex]Luas~Juring~POQ = 0,1~x~2464~cm^2[/tex]<br></span>[tex]Luas~Juring~POQ = 246,4~cm^2[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-limas-segiempat-beraturan-t-abcd-berikutjika-panjang-rusuk-802",
+            "question": "pada limas segiempat beraturan T ABCD berikut,jika panjang rusuk alasnya 6cm, sedangkan tinggi limas adalah 4 cm.hitunglah luas permukaan limas tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=6<br>t limas=4<br>lp=?<br>t selimut=akar 3kuadrat +4kuadra<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar 9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar 25=5<br>LP=luas alas+luas selimut(4Lsegitiga)<br>\u00a0 \u00a0 =6x6 + 1/2x4x6x5<br>\u00a0 \u00a0 \u00a0=36 + 2x6x5<br>\u00a0 \u00a0 \u00a0 =36 +60<br>\u00a0 \u00a0 \u00a0=96 cm persegi",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permk. limas = 2 x Luas alas + (keliling alas . T prisma )<br>= 2 x (4x4) + ( 4x6)\u00a0 . 4<br>=2x 16 + 24.4<br>=128<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oa-10-cm-dan-jarak-ob-26-cm-luas-segitiga-oab-ada-913",
+            "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-dengan-suku-ke-390-dan-ke-5-810-jum-444",
+            "question": "diketahui barisan geometri dengan suku ke- 3=90 dan ke-5 =810 jumlah 6 suku pertama barisan\u00a0 itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3 = 90<br>U5 = 810<br>r\u00b2 = [tex] \\frac{810}{90} [/tex] = 9 \u21d4 r = 3<br><br>U1 = Un[tex] \\frac{Un}{r^{n-1} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{3^{3-1} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{3^{2} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{9} [/tex]<br><br>\u00a0\u00a0 \u00a0 = 10<br><br>Sn = U1 x ([tex] r^{n} [/tex]-1)<br>S6 = 10 x ([tex] 3^{6} [/tex]-1)[tex] \\frac{10 \u00d7 (3^{6}-1)}{3-1} [/tex]<br><br>\u00a0\u00a0 \u00a0  = [tex] \\frac{10 x (729-1)}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{10 x 728}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{7280}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = 3.640<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-sisi-pada-limas-dengan-alas-segi-8-adalah-590",
+            "question": "Banyak sisi pada limas dengan alas segi 8 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "terdapat 10 sisi pada limas beralas segi delapan",
+                    "attachments": []
+                },
+                {
+                    "answer": "terdapat 16 sisi, karena segi-n dikali 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996",
+            "question": "Mohon jawab no 8    tentukanlah nilai p,q,r,pada massing-masing gambar berikut ,L adalah titik pusat lingkaran\r\na,b,c saja agar saya yang mengerjakan d\r\nbuat caranya ,makasih :)",
+            "attachments": [
+                "question-attachments/mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "gambar a<br>p = 90\u00b0 karena sudut keliling menghadap diameter<br>q = 60 (saya ragu, cuman segitiga siku\" yang saya tau untuk kelas 8 cuman 2 model, antara yang bersudut 90,60,30 dan yang bersudut 90,45,45)<br>r = 180 - 60 - 90\u00a0 = 30\u00b0<br><br>gambar b<br>p =\u00a0 150 \u00f7 2 (karena sudut keliling = sudut pusat \u00f7 2)<br>\u00a0\u00a0 = 75\u00b0<br>q = sudut reflek \u00f7 2<br>\u00a0 = (360 - 150 ) \u00f7 2<br>\u00a0\u00a0 = 105\u00b0<br><br>gambar c<br>p = 60\u00b0 karena segitiga sama kaki<br>q = 60\u00b0 \u00d7 2<br>\u00a0\u00a0 = 120\u00b0<br>r = (180 - 120 ) \u00f7 2<br>\u00a0 = 60 \u00f7 2 = 30\u00b0 (dibagi 2 karena segitiga yg kecil adalah segitiga sama kaki)<br><br>gambar d<br>p = 180\u00b0 - 110\u00b0 ( karena sifat segi 4 tali bsur sudut berhadapan total 180\u00b0)<br>\u00a0\u00a0 = 70\u00b0<br>q = 180\u00b0 - 60\u00b0<br>\u00a0\u00a0 = 120\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>p= 90<br>q= 60<br>r= 30<br><br>b<br>p= 75<br>q= 105<br><br>c<br>p= 60<br>q= 120<br>r= 30<br><br>d.<br>p= 70<br>q= 120<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-barisan-bilangan-berikut-3711157983-bnyak-su-249",
+            "question": "Perhatikan barisan bilangan berikut. 3,7,11,15,...,79,83 Bnyak suku pada barisan bilangan tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,7,11,15,...,79,83<br>a = 3<br>b = 4<br>Un = 83<br><span>Un = a + (n - 1)b\u00a0</span><br>83 = 3 + (n - 1)4<span><br>83 = 3 + 4n - 4<br>-4n = 3 - 4 - 83<br>-4n = -84<br>n \u00a0 =\u00a0</span>[tex] \\frac{-84}{-4} [/tex]<br><span>\u00a0 \u00a0 \u00a0= 21<br><br><em><u><strong>Jadi, banyaknya suku 21.</strong></u></em><br>semoga membantu:)<br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya (83 - 3) : 4 = 20",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

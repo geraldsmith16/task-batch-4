@@ -1,0 +1,138 @@
+{
+    "question": "Diketahui suku tengah suatu deret aritmatika adalah 32. Jika jumlah n suku pertama deret itu 672, tentukan banyak suku suatu deret tersebut.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Sn = 672 <br>Ut = a + b((n+1)/2 - 1)<br>32 = a + b(n-1)/2 kedua ruas kali 2<br>64 = 2a + b(n-1)...........(1)<br>Sn = 1/2 n( a + Un)<br>672 = 1/2 n( a + a + b(n-1)<br>672 = 1/2 n( 2a + b(n-1))<br>672 = 1/2 n(64)<br>672 = 32n<br>n = 672/32<br>n = 21<br>jadi <span>banyak suku suatu deret tersebut adalah 21</span><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "buktikan-xyz3-x3-y3-z3-habis-dibagi-xyyzzx-te-960",
+            "question": "Buktikan (x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x). Tentukan juga hasil baginya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Terbukti bahwa</strong> [tex]\\rm (x+y+z)^3 - x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm(x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p></p><h2><u>Pendahuluan</u> </h2><p><strong><u>Aljabar</u></strong> merupakan konsep operasi bilangan yang memisalkan dalam sebuah variabel.</p><p><strong><u>\u00bb Beberapa sifat Manipulasi Aljabar</u></strong></p><p>[tex]\\footnotesize\\rm\\to x^2 - y^2 = (x + y)(x - y)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm \\to x^2 + y^2 &amp;=\\rm (x + y)^2 - 2xy\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x - y)\u00b2 + 2xy\\rm{\\blue{...Persamaan~2}}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3-y^3=(x-y)(x^2+xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3+y^3=(x+y)(x^2-xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^2+y^2+z^2 &amp;=\\rm(x+y+z)^2-2(xy+xz+yz)\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x-y-z)^2+2(xy+xz-yz)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^3+y^3+z^3 &amp;=\\rm (x+y+z)^3-3(x+y+z)(xy+xz+yz)+3xyz\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x^2+y^2+z^2)(x+y+z)-(x+y+z)(xy+xz-yz)+3xyz\\blue{...Persamaan~2}\\\\ &amp;=\\rm (x+y+z)\\left[(x^2+y^2+z^2)-(xy+xz+yz)\\right]+3xyz\\blue{...Persamaan~3}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^4+y^4+z^4 &amp;=\\rm (x^2+y^2+z^2)^2-2(xy+xz+yz)^2+4xyz(x+y+z)\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x^3+y^3+z^3)(x+y+z)-(x^2+y^2+z^2)(xy+xz+yz)+xyz(x+y+z)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p></p><h2><u>Pembahasan</u></h2><h3>\u261e Diketahui pernyataan :</h3><p>(x+y+z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 habis dibagi (x + y)(y + z)(x + z)</p><p></p><h3>\u261e Ditanya :</h3><p>Buktikan bahwa pernyataan tersebut benar atau salah, Jika benar tentukan hasil baginya!</p><p></p><h3>\u261e Jawab :</h3><p><strong><u>\u00bb Untuk (x + y)(y + z)(x + z) ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize\\begin{aligned}\\rm (x+y)(y+z)(x+z)&amp;=\\rm x^{2}y+xyz+x^{2}z+xz^{2}+xy^{2}+y^{2}z+xyz+yz^{2}\\\\&amp;=\\bf x^{2}y+x^{2}z+xz^{2}+xy^{2}+y^{2}z+yz^{2}+2xyz\\end{aligned}[/tex]</p><p></p><p><strong><u>\u00bb Untuk (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize=\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}[/tex]</p><p>[tex]\\footnotesize=\\rm (x+y+z)(x+y+z)(x+y+z)\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm x^3+x^2 y+x^2 z+x^2 y+xy^2+xyz+x^2 z+xyz+xz^2+x^2 y+xy^2+xyz+xy^2+y^3+y^2 z+xyz+y^2 z+yz^2+x^2 z+xyz+xz^2+xyz+y^2 z+yz^2+xz^2+yz^2+z^3\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm\\cancel{x^3+y^3+z^3}+3x^2 y+3x^2 z+3xz^2+3xy^2+3y^2 z+3yz^2+6xyz\\cancel{\\blue{-x^{3}-y^{3}-z^{3}}}[/tex]</p><p>[tex]\\footnotesize=\\bf 3(x^2y+x^2z+xz^2+xy^2+y^2z+yz^2+2xyz)[/tex]</p><p><strong><u>\u00bb Perhatikan bahwa</u></strong></p><p>[tex]\\footnotesize\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}=3(x+y)(y+z)(x+z)[/tex]</p><p><u><strong>\u00bb</strong><strong> </strong><strong>Dari sini dapat kita simpulkan bahwa pernyataan tersebut benar karena</strong></u></p><p>3(x + y)(y + z)(x + z) <strong>habis dibagi</strong> (x + y)(y + z)(x + z) <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Kesimpulan</u></h2><p></p><p><strong>\u2234 Jadi pernyataan tersebut benar bahwa</strong><strong> </strong>[tex]\\rm (x+y+z)^3-x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm (x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Pelajari Lebih Lanjut :</u></h2><p></p><ol><li>Operasi bentuk Aljabar (Penjumlahan, Pengurangan, Menyederhanakan, Perkalian): https://brainly.co.id/tugas/25699535</li><li>Operasi bentuk Aljabar (Bentuk Fraksi) : https://brainly.co.id/tugas/3542338</li><li>Operasi Bentuk Aljabar (Pengurangan dan Penyederhanaan) : https://brainly.co.id/tugas/25699589</li></ol><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Detail Jawaban</u></h2><p></p><p>Mapel : Matematika</p><p>Kelas : VIII</p><p>Materi : Operasi Bentuk Aljabar - Bab 1</p><p>Kode Kategorisasi : 8.2.1 (Kelas 8)</p><p>Kode Mapel : 2</p><p>Kata Kunci : Pembuktian Langsung, Manipulasi Aljabar, Habis bagi</p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h3>\u27a1\ufe0f Pendahuluan </h3><p>Perkalian aljabar dengan dua suku maka</p><p>(a +  b) (c + d) = a(c + d) + b(c + d)</p><p>Pemfaktoran</p><p>Aljabar ax\u00b2 + bx + c maka kita cari angka jika dikalin c dan jika ditambah b</p><p>Caranyaubah bentuk aljabar dengan perkalian a(c + d) terlebih dahulu setelah itu di sederhanakan</p><p>Kemudian kita cari angka yang bisa di faktorkan sehingga bisa ubah persamaan tersebut.</p><p>Yang ketiga hilangkan salah satu variabel untuk mencari variabel pertama setelah itu di substitusi kan</p><p>Dalam perkalian aljabar maka kita kalikan satu persatu setelah kita sederhanakan, dankita cari nilai dari pemangkatan aljabar tersebut setelah itu kita sederhanakan.</p><p></p><h3>\u27a1\ufe0fPenyelesaian soal </h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p>Buktikan : (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis..</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><ul><li>Pembuktian x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis </li></ul><p></p><p><strong> </strong><strong>Jawab</strong><strong> </strong><strong>:</strong></p><ul><li>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</li></ul><p></p><h3><strong>\u27a1\ufe0f</strong><strong> </strong><strong>P</strong><strong>embahasan</strong><strong> </strong></h3><p><strong># (x + y + z)\u00b3</strong></p><p>= (x + y + z)(x + y + z)(x + y + z)</p><p>=(x\u00b2 + xy + xz + xy + y\u00b2 + yz + xz + yz + z\u00b2)(x + y + z)</p><p>=(x\u00b2 + y\u00b2 + z\u00b2 +2xy + 2xz + 2yz)(x + y + z)</p><p>=x\u00b3 + x\u00b2y + x\u00b2z + xy\u00b2 + y\u00b3 + y\u00b2z + xz\u00b2 + yz\u00b2 + z\u00b3 + 2x\u00b2y + 2xy\u00b2 + 2xyz + 2x\u00b2z + 2xyz + 2xz\u00b2 + 2xyz + 2y\u00b2z + 2yz\u00b2</p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz</p><p><strong>#(x + y) (y + z) (z + x) =</strong></p><p>(xy + xz + y\u00b2 + yz) (z + x )</p><p>= xyz + x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + xyz</p><p>= x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p><strong>Maka </strong></p><p>= (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) </p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x)</p><p>= 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= 3(x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz) \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= <strong>3</strong></p><p></p><h3><strong>Kesimpulan</strong><strong> </strong><strong>:</strong></h3><p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h2>__________________</h2><h3>Pelajari lebih lanjut :</h3><ul><li>Rumus-Rumus Turunan Fungsi Aljabar https://brainly.co.id/tugas/22162107</li><li>Jelaskan pengertian yg paling mendasar dari Aljabar! https://brainly.co.id/tugas/23563280</li><li>Unsur unsur aljabar dan macam macam suku aljabar https://brainly.co.id/tugas/3725097</li></ul><p></p><h3>Detail Jawaban :</h3><p>Mapel       : Matematika </p><p>Materi       : 8 SMP </p><p>Bab            : Operasi Bentuk Aljabar </p><p>Kode Kategorisasi : 8.2.1</p><p>Kata Kunci : Manipulasi Bentuk Dari Aljabar.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-6-dan-suku-ke-empat-663",
+            "question": "diketahui deret geometri dengan suku pertama 6 dan suku ke empat adalah 48, jumlah enam suku pertama deret tsb adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] u_{1} = a= 6[/tex]<br><br>[tex] u_{4} =[/tex]ar\u00b3 = 48<br><br>ar\u00b3 = 48<br>6r\u00b3=48<br>r\u00b3 = 48/6<br>r\u00b3=8<br>r =\u00a0\u221b8=2<br><br>[tex] s_{6}  =  \\frac{a( r^{n} -1)}{r-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 2^{6} -1)}{2-1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 64 -1)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{6( 63)}{1} [/tex]<br><br>[tex] s_{6} = \\frac{378} [/tex]<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-rusuk-6cm-jarak-titik-a-938",
+            "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-fungsi-kuadrat-yang-memotong-sumbu-x-dititk-304",
+            "question": "tentukan persamaan fungsi kuadrat yang memotong sumbu x dititk (-3,0) dan (1,0) serta memotong sumbu y di titik (0,6)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = a (X-X1) (X-X2)<br>6 = a (0-(-3)) (0-1)<br>6 = a (3) (-1)<br>6 = -3a<br>-2 = a<br><br>maka f(x) = -2 (x+3) (x-1)<br>f (x) = -2 (x\u00b2+2x-3)<br>f(x) = -2x\u00b2-4x+6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-2x-3-0-mempunyai-akar-x1-dan-x2-tentu-867",
+            "question": "persamaan kuadrat x\u00b2 - 2x - 3 = 0 mempunyai akar x1 dan x2 tentukan persamaan kuadrat yang akar-akarnya 4x1 dan 4x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pk. lama:<br><span> x\u00b2 - 2x - 3 = 0<br>a = 1<br>b = -2<br>c = -3<br>x1 + x2 = -b/a = -(-2)/1 = 2<br>x1 x x2 = c/a = -3/1 = -3<br><br>Pk. baru<br></span>\n\n<span>x\u00b2- (\u03b1 + \u03b2)x + (\u03b1 . \u03b2) = 0</span>\n<br><br>\n\u03b1 = 4x1\n<br>\n\u03b2 = 4x2\n<br><br>\n(\u03b1 + \u03b2) = 4x1 + 4x2 = 4 (x1 + x2) = 4 (2) = 8\n<br>\n(\u03b1 . \u03b2) = 4x1 . 4x2 = 4 (x1.x2) = 4 (-3) =\n-12\n<br><br>Pk. Baru =&gt;<span>x\u00b2</span> \u2013 8x \u2013 12 = 0\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] x^{2} [/tex] -2x - 3 = 0<br>(x - 3) (x\u00a0+ 1) = 0<br>[tex] x_{1} [/tex] = 3<br>[tex] x_{2} [/tex] = -1<br><br>menyusun persamaan kuadrat baru jika:<br>[tex] x_{1} [/tex] = 4[tex] x_{1} [/tex] = 4x3 = 12<br>[tex] x_{2} [/tex] = 4[tex] x_{2} [/tex] = 4x-1 = -4<br><br>(x-12) (x+4)<br>= [tex] x^{2} [/tex] + 4x - 12x - 48<br>= [tex] x^{2} [/tex] - 8x -48<br><br>menurut saya ini jawabannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sin-x-cos-x-3-dan-tan-x-1-tentukanlah-nilai-sin-182",
+            "question": "Diketahui sin x + cos x = 3 dan tan x = 1. tentukanlah nilai sin x dan cos x!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x = 1<br>depan /samping = 1/1<br>jadi , <br><strong>depan = 1</strong><br><strong>samping = 1</strong> otomatis,<br><strong>miring = 1\u221a2</strong> atau \u221a2<br><br>jadi, <br><strong>sin x = de/mi = 1/\u221a2 = 1/2 \u221a2</strong><br><strong>cos x = sa/mi = 1/\u221a2 = 1/2 \u221a2</strong><br>\u00a0semoga membantu,,<br>dan semoga tidak salah,,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin x + cos x = 3 =&gt; cos x = 3 - sin x<br><br>tan x = 1<br>[tex] \\frac{sin x}{cos x} [/tex] = 1<br>[tex] \\frac{sin x}{3 - sin x} [/tex] = 1<br>sin x = 3 - sin x<br>2 sin x = 3<br>sin x = [tex] \\frac{3}{2} [/tex]<br><br>cos x = 3 - sin x<br>cos x = 3 - [tex] \\frac{3}{2} [/tex]<br>cos x = [tex] \\frac{3}{2} [/tex]<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-deret-geometri-x-1x1x-1x-x-1-jumlahnya-mempunyai-434",
+            "question": "Agar deret geometri x-1/x,1/x, 1/x (x-1),... jumlahnya mempunyai limit, nilai x harus memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "|r|&lt;1\u00a0<br><br><span>[1/(x-1)]^2&lt;1\u00a0</span><br><br><span>x&gt;2 atau x&lt;0</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "question": "Luas suatu juring lingkaran berjari-jari 4 cm dan sudut pusat 315 derajat dengan phi = 22/7",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "L.juring = l. lingkaran x sudut juring/360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex][tex] r{2} [/tex] x 315/360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22/7 x\u00a0[tex] (4)^{2}  [/tex] x 0,875<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22/7 x 16 x 0,875<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 308/7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44<br><br>smoga bnar yah.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "panjang-jari-jari-dua-lingkaran-masing-masing-adalah-12cm-dan-5cm-498",
+            "question": "Panjang jari jari dua lingkaran masing masing adalah 12cm dan 5cm. jarak kedua titik pusatnya adalah 25cm. hitunglah    a. panjang garis singgung persekutuan dalam\r\nb. panjang garis singgung persekuuan luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R = 12 cm<br>r = 5 cm<br>p = 25 cm<br><br>a. <br>d\u00b2 = p\u00b2 - (R - r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 - 5)\u00b2<br>d\u00b2 = 625 - 49<br>d\u00b2 = 576<br>d = \u221a576<br>d = 24 cm<br><br>b. <br>d\u00b2 = p\u00b2 - (R + r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 + 5)\u00b2<br>d\u00b2 = 625 - 289<br>d\u00b2 = 336<br>d = \u221a336<br>d = 18,33 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-taman-bunga-berbentuk-lingkaran-dengan-luas-1386-m2-di-s-139",
+            "question": "suatu taman bunga berbentuk lingkaran dengan luas 1.386 m\u00b2. di sekeliling taman itu setiap 4 meter ditanami pohon cemara. banyak pohon cemara yang dapat ditanam adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran = [tex] \\pi [/tex] x r\u00b2<br>1386 m\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{22}{7} [/tex] x r\u00b2<br>1386 m\u00b2 x\u00a0[tex] \\frac{7}{22} [/tex] = r\u00b2<br>\u00a0[tex]\\sqrt{441} [/tex] m\u00b2 = r<br>\u00a0 \u00a0 21 m \u00a0 \u00a0 \u00a0 \u00a0 = r<br><br>keliling =\u00a0[tex] \\pi [/tex] x diameter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x 2 x r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x 2 x 21 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 132 m<br><br>banyak pohon cemara yang ditanam = 132 m : 4 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas = [tex] \\pi [/tex].r2<br>1386 = 22/7 . r\u00b2<br>r\u00b2 = 1386 . 7 / 22<br>r = \u221a441<br>r = 21<br><br>K = 2.[tex] \\pi [/tex].r<br>K = 2.22/7.21<br>K = 44 . 3 = 132<br><br>banyak pohon = 132/4 = 33 pohon<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-berjari-jari-40-m-di-sekelilig-824",
+            "question": "sebuah taman berbentuk lingkaran berjari jari 40 m. di sekelilig tepinya dibuat jalan melingkar mengelilingi taman yg lebarnya 2 m. jika biaya untuk membuat jalan tiap 1 m\u00b2 adalah Rp 25.000, hitunglah biaya seluruh pembuatan jalan tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>= 2 X 3.14 X 40<br>= 330.4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0banyak pagar\u00a0= 330.4\u00a0: 2 =165.2<br><br>biaya keseluruhan = 165.2 X 25000 = 4,130,000",
+                    "attachments": []
+                },
+                {
+                    "answer": "L:\u00a0\u03c0.r\u00b2<br>:\u00a03,14.40.40<br>: 5.024<br>luas kolam : 5.024 m\u00b2<br><br>r : 40 + 2 (lebar taman yang mengelilingi kolam)<br>r : 42 m<br><br>L: 3,14.42.42<br>:\u00a05538,9\u00a0<br><br>luas lingkaran seluruhnya: 5538,9 m\u00b2<br><br>luas jalan: luas lingkaran besar - luas kolam<br>: 5.538,9 - 5.024<br>: 514,9 m\u00b2<br><br>besar biaya untuk membuat jalan: 5.538,9\u00a0\u00d7 25.000 = Rp. 138.472.500<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-lingkaran-a-dan-lingkaran-b-dengan-jari-jari-bertu-525",
+            "question": "jika diketahui lingkaran A dan lingkaran B dengan jari jari berturut turut 5cm dan 6cm,maka tentukan selisih luas dari lingkaran A dan lingkaran B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas A = 113,04<br>Luas B = 78,5<br>selisih = 34,54",
+                    "attachments": []
+                },
+                {
+                    "answer": "Luas A =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 5 cm x 5 cm\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 78,5 cm\u00b2<br>Luas B =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 6 cm x 6 xm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 113,04 cm\u00b2<br><br>selisih = Luas B - Luas A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 113,04 cm\u00b2 - 78,5 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 34,54 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-berikut-hitunglah-nilai-x-dan-y-261",
+            "question": "Pada gambar berikut, hitunglah nilai\u00a0x\u00a0dan\u00a0y.",
+            "attachments": [
+                "question-attachments/pada-gambar-berikut-hitunglah-nilai-x-dan-y-261-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "a.x= 40 derjat<br><br>b. x= 50 derajat<br>\u00a0 \u00a0 y= 25 derajat<br><br>c. x= 35 derajat<br>\u00a0 \u00a0 y= 35 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-rio-menyimpan-uangnya-di-bank-pada-awal-bulan-januari-2011-se-590",
+            "question": "Pak rio menyimpan uangnya di bank pada awal bulan januari 2011 sebesar Rp.4000000.Pada akhir bulan Desember 2011 Pak Rio mengambil uangnya yang sudah berjumblah Rp.4800000.Selama setahun tersebut persentase bunga yang diberikan bank sebesar . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{80.000}{400.000}[/tex]\u00a0\u00a0x 100 % = 20 %",
+                    "attachments": []
+                },
+                {
+                    "answer": "4/8=0.2=2/10=20/100=20%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-pembelian-2-kuintal-beras-rp-60000000-saat-dijual-kembali-274",
+            "question": "harga pembelian 2 kuintal beras RP 600.000,00 saat dijual kembali harganya menjadi RP 2.800,00 per kilogram maka diperoleh kerugian sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>harga pembelian 2 kuintal beras RP 600.000,00 saat dijual kembali harganya menjadi RP 2.800,00 per kilogram maka diperoleh kerugian sebesar<br>2 kw = 200 kg<br>600.000 : 200 = 3000<br>200 ( 3000\u00a0-\u00a02.800)<br>200 ( 200)<br>40000\u00a0<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kw= 200kg <br>200 \u0445 2800 = 560.000 <br>600.000 - 560.000 = 40.000<br><br><br>tolong jadikan yang terbaik y<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-trapesium-abcd-siku-siku-di-b-dengan-panjang-ab-21-cm-383",
+            "question": "Diketahui trapesium ABCD siku-siku di B dengan panjang AB = 21 cm , CD = 6 cm dan luasnya 108 cm keliling tapaesium adalah.....    pliss di jwb buat pr bsokni dan pakai cara ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (AB+CD) \u00d7 t per 2<br>108 = (21+6) \u00d7 t per 2<br>108 = 27\u00d7t/2<br>108 = 13,5t<br>t = 8<br><br>cari sisi miringnya<br>a\u00b2 + b\u00b2 = c\u00b2<br>15\u00b2 + 8\u00b2 = c\u00b2<br>225 + 64 = c\u00b2<br>289 = c\u00b2<br>c = \u221a289 = 13<br><br>Jadi kelilingnya adalah<br><em><strong>13 + 8 + 21 + 6 = 48</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-nasabah-mendapat-bunga-rp22400000-selama-4-bulan-bunga-631",
+            "question": "Seorang nasabah mendapat bunga Rp224.000,00 selama 4 bulan, bunganya 14% dari modal yang disimpan. Berapakah modal yang disimpan ? Jelaskan caranya juga!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.400.000,00 \u00d7 14/100 =56000\n56000 \u00d7 4 = 224.000,00",
+                    "attachments": []
+                },
+                {
+                    "answer": "4/12 x 14/100 x m = 224.000\n14/300 x m = 224.000\n14/300m = 224.000\nm = 4.800.000\nmaaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-indra-membeli-2-jenis-kopiia-membeli-10-kg-jenis-kopi-a-dngn-914",
+            "question": "Pak indra membeli 2 jenis kopi.Ia membeli 10 kg jenis kopi A dngn seharga Rp.10000 per kg dan 15 kg jenis kopi B dngn harga Rp.12000 per kg.Pak Indra mencampur kedua kopi trsbt dan akan dijual lagi.Jika Pak Indra menginginkah keuntungan 25%,Tentukan harga jual kopi campuran per kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10* 10.000 = 100.000<br>15*12.000 = 180.000<br>100.000 + 180.000 = 280.000<br>280.000*25% = 70.000<br>280.000+70.000 = 350.000<br>350.000 : 25 = 14.000 / kg<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasil gabungan kopi A dan kopi B = 100.000 + 180.000 = 280.000<br>HJ = HB + (persen untung x harga beli)<br>\u00a0 \u00a0 \u00a0 \u00a0 280.000 + (25 persen x 280.000)<br>\u00a0 \u00a0 \u00a0 \u00a0 280.000 + 70.000<br>\u00a0 \u00a0 \u00a0 \u00a0 350.000",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

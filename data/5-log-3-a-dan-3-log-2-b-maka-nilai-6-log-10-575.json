@@ -1,0 +1,148 @@
+{
+    "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-kubus-abcdefgh-tentukan-a-garis-yang-memotong-menembus-b-563",
+            "question": "pada kubus ABCDEFGH tentukan a) garis\" yang memotong / menembus bidang ABCD b) garis\" yang berpotongan dengan garis AB c) garis\" yang bersilangan dengan garis AB d) bidang\" yg berpotongan dengan bidang ABFE",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. AE, BF, CG, DH<br>b. AE, AD, BF, BC<br>c. CG, DH<br>d. ABCD, BCGD, EFGH, ADHE<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dijatuhkan-tegak-lurus-dari-ketinggian-4m-dan-setiap-962",
+            "question": "sebuah bola dijatuhkan tegak lurus dari ketinggian 4m dan setiap kali memantul tingginya 3/4 tinggi semula.Tentukan panjang lintasan yang dilalui bola sampai berhenti ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{b + a}{b - a} . 4 =  \\frac{4 + 3}{4 - 3} . 4 =  \\frac{7}{1} . 4 = 28 m[/tex]frac{4 + 3}{4 - 3} \u00d7 4\u00a0=[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-balokkubusdan-piramid-pada-bangun-ruang-819",
+            "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus bangun ruang <br>smoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-berikut-a13927729-262",
+            "question": "Tentukan jumlah deret berikut :\r\na).1+3+9+27+...+729",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah deret 1+3+9+.....+729<br><br>a=1, r=3<br>un= a.r^(n-1)=729<br>un=1.3^(n-1)=3^6<br>(n-1)=6<br>n=7<br><br>Sn = a(r^n-1) /(r-1)<br>Sn =1.(3^7-1)/(3-1)<br>Sn=(2186)/2<br>Sn=1093",
+                    "attachments": []
+                },
+                {
+                    "answer": "1+3+9+27+\u2026+729\u00a0\u00a0\u00a0<br><span>Dik: a=1, Un=729 , r= 3<br>penyelesaian:<br>\u00a0 \u00a0#\u00a0Un=\u00a0a.r^(n-1) \u00a0 \u00a0 \u00a0\u00a0</span><br>\u00a0 \u00a0 \u00a0729= 1. 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0729= 3^(n.1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<span><br>\u00a0 \u00a0</span>3^(6)= 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a0 \u00a0 \u00a0 6= n -1</span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a06 + 1= n -1+1\u00a0\u00a0\n<br>\u00a0 \u00a07= n \u00a0<br></span><br>\u00a0#Sn = a(r^{n})/r-1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=1(3^{7} -1) /3-1<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=(2187 \u2013 1)/2<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=2187/2\u00a0<br>\u00a0 \u00a0\u00a0Sn\u00a0=1093,5<span><br>Jadi jumlah deret dari\u00a0</span>1+3+9+27+\u2026+729 \u00a0adalah 1093,5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tg-x-p-maka-nilai-2-sin-xcos-x-adalah-293",
+            "question": "Jika tg x =p , maka nilai 2 sin x.cos x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x =p/1=de/sa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi2 = de2 + sa2=p2 + 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi = akar (p2+1)<br>sin x =de/mi=p/akar(p2+1)<br>cos x = sa/mi=1/akar(p2+1)<br>2 sin x.cos x= 2. p/akar(p2+1) . 1/akar(p2+1)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2p/(p2+1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan x=p<br>[tex] \\frac{sinx}{cosx} = \\frac{p}{1} [/tex]<br>cari sisi miringya dulu<br>miring=[tex] \\sqrt{p^2+1} [/tex]<br><br>sin x=\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex]<br>cos x=\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br><br>2 sin x cos x= 2.\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex] .\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02.\u00a0[tex] \\frac{p}{p^2+1} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannyaapakah-relasi-350",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya.apakah relasi tersebut merupakan fungsi? berikan penjelasanmu!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Iya karena pada fungsi setiap anggota A hanya bisa memasangkan satu angota B . <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya, karena <u><strong>setiap siswa</strong></u>(di daerah\u00a0domain) hanya mempunyai <u><strong>satu tanggal kelahiran</strong></u>(di\u00a0daerah kodomain), artinya setiap siswa hanya mempunyai satu pasangan di daerah kodomain. Sehingga terjadi relasi.<br><br>Tapi kalo tanggal kelahiran direlasikan dengan siswa(tanggal kelahiran dijadikan domain), BISA JADI tidak terjadi relasi, karena kemungkinan terdapat siswa dengan tanggal kelahiran yang sama.<br><br>sepengetahuan ane sih gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-deret-geometri-diketahui-sn4-dan-s440-tentukan-suku-921",
+            "question": "Dalam suatu deret geometri diketahui sn=4 dan s4=40 tentukan suku pertama dan rasio deret geometri itu serta hitunglah jumlah enam suku pertamanya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal :\nMatematika - Barisan dan Deret<span><br>\nKelas : XII (12 SMA)<br>\nPembahasan :<br>\nBarisan geometri adalah suatu barisan dengan\nrasio (pembanding atau pengali) antara dua suku yang berurutan selalu tetap\natau konstan.<br>\nBentuk umum barisan geometri adalah<br></span>U\u2081, U\u2082, ..., Un.<span><br></span>U\u2081 = a<span><br></span>U\u2082 = ar<span><br>\n...<br></span>Un = ar\u207f\u207b\u00b9,<span><br>\ndengan r\u00a0\u2260 0.<br>\nSehingga berdasarkan definisi di</span> atas\nberlaku hubungan<span><br><br></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span><span>r = Un/U(n - 1)<br><br>\ndengan r = rasio antara dua suku yang berurutan,\na = suku pertama, </span>Un =\nsuku ke-n, U(n-1)\n= suku ke n-1, dan n = banyak suku.<br><span><br>\nMari kita lihat soal tersebut.<br>Soal belum tepat. Seharusnya soal sebagai berikut.<br>Diketahui suatu deret geometri<br>U</span>\u2083\u00a0= 4<br>\u21d4 ar\u00b2 = 4<br><span>U</span>\u2084 = 40<br>\u21d4 ar\u00b3 = 40<br>\u21d4 ar\u00b2 . r = 40<br>\u21d4 4 . r = 40<br>\u21d4 r = 40/4<br>\u21d4 r = 10<br>Kita substitusikan r = 10 ke persamaan\u00a0<br>ar\u00b2 = 4<br>\u21d4 a . 10\u00b2 = 4<br>\u21d4 a . 100 = 4<br>\u21d4 a = 4/100<br>\u21d4 a = 2/50<br><br>Kemudian, karena r &gt; 1<br>Sn = a(r\u207f - 1)/(r - 1)<br>\u21d4 S\u2086 = 2/50(10\u2076 - 1)/(10 - 1)<br>\u21d4 S\u2086 = 2/50(1.000.000 - 1)/9<br>\u21d4 S\u2086 = 2/50(999.999)/9<br>\u21d4 S\u2086 = 2/50(111.111)<br>\u21d4 S\u2086 = 222.222/50<br>\u21d4 S\u2086 = 4444,44<br><br>Semangat!<br><br><br><br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

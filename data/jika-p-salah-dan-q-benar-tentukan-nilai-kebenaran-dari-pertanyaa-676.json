@@ -1,0 +1,140 @@
+{
+    "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-deret-geometri-dibawah-ini-a-1-2-4-766",
+            "question": "Tentukan nilai dari deret geometri dibawah ini :    a.) 1 + 2 + 4 + 8 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ( sampai 10 suku)\r\nb.) 54 + 18 + 6 + 2 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 (sampai 9 suku)\r\nc.) 81 + 27 + 9 + ... + 1/27 = ...\u00a0 \u00a0 \u00a0 \r\nd.) 5 - 15 + 45 - 135 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (sampai 8 suku)\r\ne.) 3 - 6 + 12 - 24 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 (sampai 10 suku)\r\nf.) 1 - 1 + 1 - 1 + 1 - 1 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(sampai 100 suku)\r\ng.) 1 + 1 + 3 + 2 + 9 + 4 + 27 + 8 +... (sampai 19 suku)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Un = ar^n-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1.\u00a02^10-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 512",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 1,2,4,8,16,32,64,128,256,512<br>b. 54,18,6,2,2/3,2/9,2/27,2/81,2/243<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-kubus-abcdefgh-tentukan-a-garis-yang-memotong-menembus-b-563",
+            "question": "pada kubus ABCDEFGH tentukan a) garis\" yang memotong / menembus bidang ABCD b) garis\" yang berpotongan dengan garis AB c) garis\" yang bersilangan dengan garis AB d) bidang\" yg berpotongan dengan bidang ABFE",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. AE, BF, CG, DH<br>b. AE, AD, BF, BC<br>c. CG, DH<br>d. ABCD, BCGD, EFGH, ADHE<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "range-untuk-fungsi-f-x-x2-2x-3-untuk-daerah-asal-x-1lt-508",
+            "question": "Range\u00a0 untuk fungsi f (x) =x2-2x-3 untuk daerah asal {x/-1&lt;_ x &lt;_ 4, x E R} adalah.??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "daerah asalnya x= {1, 2, 3, 4} keterangan: R= bilangan asli.<br><br>range { -4, -3, 0, 5}<br><br>caranya daerah asalnya subtitusi ke persamaan f(x) = x^2 - 2x -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "x={-1,0,1,2,3,4}<br>f(x) = x\u00b2-2x-3<br>f(-1) = -1\u00b2-2*-1-3<br>\u00a0\u00a0 \u00a0\u00a0 = 1+2-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 0<br>f(0) = 0\u00b2-2*0-3<br>\u00a0\u00a0 \u00a0\u00a0 = -3<br>f(1) = 1-2-3<br>\u00a0\u00a0 \u00a0 = -4<br>f(2) = 4-4-3<br>\u00a0\u00a0 \u00a0  = -3<br>f(3) = 9-6-3<br>\u00a0\u00a0 \u00a0\u00a0 = 0<br>f(4) = 16-8-3<br>\u00a0\u00a0 \u00a0  = 5<br>range ={-3,-4,0,5}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "proyeksi-vektor-a-300-pada-vektor-yang-sejajar-tetapi-berl-820",
+            "question": "Proyeksi vektor a = (-3,0,0) pada vektor yang sejajar tetapi berlawanan arah dengan vektor b = (1,-2,-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor yg berlawanan b&#039; = (-1,2,2)<br>proyeksi vektor\u00a0[tex]c =  \\frac{a.b&#039;}{|b&#039;|^{2} }b&#039; [/tex]<br>[tex]a.b&#039;=3+0+0[/tex]<br>[tex]a.b&#039;=3[/tex]<br>[tex] |b&#039;|^{2} = 1+4+4 [/tex]<br>[tex] |b&#039;|^{2} = 9[/tex]<br>sehingga<br>[tex]c= \\frac{3}{9} (-1,2,2)[/tex]<br>[tex]c= \\frac{1}{3} (-1,2,2)[/tex]<br>[tex]c=(- \\frac{1}{3} , \\frac{2}{3} , \\frac{2}{3} )[/tex]<br><br>CMIIW :3<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

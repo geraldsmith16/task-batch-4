@@ -1,0 +1,154 @@
+{
+    "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-n-jika-diketahui-a-2-b7-dan-un138-467",
+            "question": "Tentukan nilai n jika diketahui a= -2 b=7 dan un=138",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un = a+(n-1)b<br>138= -2 + (n-1)7<br>138 = -2 + 7n - 7<br>138 = 7n -9<br>138 + 9 = 7n<br>147 = 7n<br>147/7 = n<br>21 = n <br><br>jadi nilai n = 21<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un=a+(n-1)b<br>138=-2+(n-1)7<br>138+2=7n-7<br>140+7=7n<br>7n=147<br>n=21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-dari-dimensi-2-dan-tiga-berikan-masing-masing-6-contoh-587",
+            "question": "Pengertian dari dimensi 2 dan tiga berikan masing-masing 6 contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dimensi 2 = yaitu suatu benda dimana hanya memiliki panjang dan lebar, contohnya persegi, persegi panjang, lingkaran, segitiga, layang-layang.<br>Dimensi 3 = yaitu suatu benda dimana memiliki panjang, lebar dan tinggi, contohnya balok, kubus, kerucut, tabung, prisma, limas.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dimensi 2 hanya memiliki panjang dan lebar cth: persegi, layang layang, lingkaran, segitiga persegi panjang, jajargenjang, belah ketupat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-radian-25-putaran-963",
+            "question": "Ubahlah ke bentuk satuan derajat dan radian 2/5 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/5 x 360\u00b0 = 144\u00b0<br><br>144\u00b0 : 180\u00b0 =\u00a04/5 rad\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{2}{5} [/tex] x 60 derajat = 12 derajat<br>radian = 12 x[tex] \\frac{\u03c0}{180} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0\u00a0[tex] \\frac{\u03c0}{15} [/tex] radian",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-kegunaan-sin-cos-dan-tan-dalam-matematika-dan-dalam-kehidupan-728",
+            "question": "Apa kegunaan sin cos dan tan dalam matematika dan dalam kehidupan sehari hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n    Ada banyak manfaat belajar Trigonometri. <br><br>\nManfaat trigoneometri utk kehidupan, antara lain: <br>\n1. utk menghitung sudut serang (angle of attack) yg paling optimal dari \nsuatu peluncur senjata, agar mampu melontarkan projektil sejauh mungkin,\n <br>\n2. menentukan berapa gradient tertinggi dari suatu tanjakan di jalan \numum di pegunungan, agar semua kendaraan (terutama sedan, dgn panjang \nsumbu badan yg tinggi, tetapi, ketinggian as roda rendah), dapat \nmelewatinya dgn selamat, <br>\n3. utk menghitung berapa \"lift force\" suatu sayap profil pesawat, dgn \nkecepatan tertentu, yg tidak boleh dilewati. Bila nilai ini dilewati, \nmaka pesawat akan mengalami stall (jatuh karena tidak memiliki daya \nangkat), khususnya perhitungan ini diperlukan pada pesawat pemburu. <br>\n4. pada olah gerak teknis kapal selam di bawah air, dgn mengetahui sudut\n hidroplane depan dan belakang, menginterpolarisasikannya dgn kecepatan \nkapal, kita lalu dapat memperkirakan, berapa kita harus mengisi \ncompensating tank, agar kapal welltrimm pada kecepatan tersebut. <br>\n5. pada pengukuran ketinggian/kontur tanah, dgn mengetahui jarak tiang \npengukur yg satu terhadap yg lain, dan beda ketinggian antara dua tempat\n tiang pengukur, maka kita akan dapat mengetahui, berapa gradien \nkenaikan tanah yg kita ukur. <br>\n6. contoh sederhana dalam kejadian sehari-hari, saat kamu menaiki tangga\n tentunya kamu tidak ingin membuat sudut bidang miringnya terlalu besar \nkarena tangga akan terlalu mendongak, atau sudutnya terlalu kecil karena\n daya jangkaunya hanya rendah.  </span>\n    <span><br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. mengukur tinggi pohon atau gedung atau menara <br>\n2. menentukan posisi kapal atau perahu dengan bantuan jurusan tiga angka <br>\n3. mengukur luas segitiga atau bangun segiempat  <br>\n4. menghitung luas segi banyak <br>\n5. digunakan dalam ilmu fisika dan teknik <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sin-90-a-adalah-859",
+            "question": "1.\u00a0 sin (90-a)\u00b0 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin (90 -a) = sin 90 cos(a) - cos 90.sin (a)<br>===&gt; 1. cos a - 0.sin (a)<br>===&gt; cos a<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin (90-a)\u00b0   <br> cos a\u00b0. Semoga Bermanfaat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-dadu-dilemparkan-bersamaan-peluang-muncul-jumlah-kedua-mata-703",
+            "question": "Dua dadu dilemparkan bersamaan. Peluang muncul jumlah kedua mata dadu lebih dari tiga adalah..?    a. 1/36 b. 1/12 c. 6/36 d. 30/36 e. 11/12",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori\nSoal : Matematika - Peluang<br></p><span>\nKelas : XI (2 SMA)<br>\nPembahasan :<br>\nRuang sampel adalah\u00a0himpunan semua\u00a0hasil yang mungkin pada suatu\npercobaan yang dilambangkan dengan S.<br>\nTitik sampel adalah anggota-anggota dari ruang sampel.<br>\nKejadian merupakan himpunan bagian dari ruang sampel atau bagian dari hasil\npercobaan yang diinginkan.<br>\nJika S adalah ruang sampel dari suatu kejadian dengan setiap anggota S memiliki\nkesempatan muncul yang sama dan A suatu kejadian dengan A\u00a0</span>\u2282<span> S, maka peluang kejadian A adalah<br>\nP(A) = n(A)/n(S)<br>\ndimana n(A) merupakan banyak anggota dalam himpunan kejadian A dan n(S)\nmerupakan banyak anggota dalam himpunan ruang sampel S.<br><br>\nMari kita perhatikan soal tersebut.<br></span><p>Dua buah dadu dilempar Undi bersama satu kali.\u00a0<span><br>S = {(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</span></p><p>n(S) = 6\u00b2 = 36.<span><br>A = himpunan kejadian muncul mata dadu berjumlah lebih dari 3 = {</span>(1, 3), (1, 4), (1, 5), (1, 6), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</p><p>n(A) = 33</p><p><span>Peluang\nkejadian muncul mata dadu berjumlah lebih dari 3 adalah P(A) = n(A)/n(S) = 33/36 = 11/12</span></p><p><span>Semangat!</span></p><p><span>\u00a0</span><br></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-4-dan-suku-ke-336-929",
+            "question": "diketahui deret geometri dengan suku pertama =4 dan suku ke-3=36 jumlah lima suku pertama deret tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3:u1=36:4<br>r^2=9<br>r=3<br>sn=4(-243-1)/2<br>s5=4(242)/2<br>s5=484<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 = a = 4<br>U3 = a\u00d7r\u00b2 = 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r\u00b2 = 36/a = 36 / 4= 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r =\u00a0\u221a9 = 3<br>Sn = a\u00a0\u00d7 (r\u00a0pangkat n - 1) / r -1<br>S5= 4\u00a0\u00d7 (3pankat 5 - 1)/3-1<br>= 4\u00a0\u00d7 (243 -1)/2<br>=2\u00d7242 = 484<br><br>insya Allah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-diwajibkan-mengerjakan-10-dari-12-soal-yang-tersedi-364",
+            "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

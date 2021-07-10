@@ -1,0 +1,152 @@
+{
+    "question": "Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton . sisa karton di sebelah kiri,kanan dan atas foto 2 cm . jika foto dan karton sebangun , lebar karton di bawah foto adalah ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Kelas : IX (3 SMP)<span><br>\nMateri : Kesebangunan dan Kekongruenan<br>\nKata Kunci : panjang, lebar, luas, sebangun</span></p><p><span><br>\nPembahasan :<br>\nDua bangun dikatakan sebangun, bila<br>\n1. sudut-sudut yang bersesuaian sama besar;<br>\n2. sisi-sisi yang bersesuaian memiliki\nperbandingan yang sama.</span></p><p><span><br>\nMari kita lihat soal tersebut.</span></p><span>Sebuah foto berukuran lebar 20 cm dan tinggi 30 cm diletakkan pada selembar karton. Sisa karton di sebelah kiri, kanan, dan atas foto 2 cm. Jika foto dan karton sebangun, maka lebar karton di bawah foto adalah?<br><br>Jawab :<br></span>Perhatikan gambar terlampir.<br><p>Misalkan foto memiliki ukuran sebagai berikut.<br></p><p>tinggi = t\u2081 = \u00a030 cm, lebar = l\u2081 = 20 cm, dan luas = L\u2081.</p><p><span>\nLuas foto adalah<br>\nL</span>\u2081 = t\u2081 x l\u2081</p><p>\u21d4 L\u2081 = 30 x 20<span><br></span>\u21d4 L\u2081 = 600<span><br>\nJadi, luas foto adalah 600 cm\u00b2.<br><br></span></p><p>Misalkan karton memiliki ukuran sebagai berikut.</p><p>tinggi = t\u2082, lebar = l\u2082, dan luas L\u2082. Sehingga</p><p>lebar\u00a0</p><p>l\u2082 = l\u2081 + 2 + 2<span><br></span>\u21d4 l\u2082 = 20 + 2 + 2<span><br></span>\u21d4 l\u2082 = 24<br><br>tinggi</p><p>t\u2082 = t\u2081 + 2 + x<span><br></span>\u21d4 t\u2082 = 30 + 2 + x</p><p>\u21d4 t\u2082 = 32 + x</p><p><br></p><p>Karena foto dan karton sebangun, maka</p><p>[tex] \\frac{t_1}{t_2}= \\frac{l_1}{l_2}  [/tex]</p><p>\u21d4\u00a0[tex] \\frac{30}{32+x}= \\frac{20}{24}  [/tex]</p><p>\u21d4 20 . (32 + x) = 30 . 24</p><p>\u21d4 640 + 20x = 720</p><p>\u21d4 20x = 720 - 640</p><p>\u21d4 20x = 80</p><p>\u21d4 x =\u00a0[tex] \\frac{x=80}{20} [/tex]</p><p>\u21d4 x = 4.</p><p><br></p><p>tinggi</p><p>t\u2082 = 32 + x</p><p>\u21d4 t\u2082 = 32 + 4</p><p>\u21d4 t\u2082 = 36.</p><p><br></p><p>Luas karton adalah</p><p>L\u2082 = t\u2082 x l\u2082</p><p>\u21d4 L\u2082 = 36 x 24</p><p>\u21d4 L\u2082 = 864</p><p><span><br></span></p><p><span>Jadi, lebar karton di bawah foto adalah 4 cm dan luas karton adalah 864 cm</span>\u00b2.</p><p><span><br>\nSemangat!</span></p>",
+            "attachments": [
+                "answer-attachments/sebuah-foto-berukuran-lebar-20-cm-dan-tinggi-30-cm-diletakkan-pad-748-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-di-samping-panjang-busur-pq-8478-cm-dan-besar-891",
+            "question": "Pada gambar di samping,\u00a0    panjang busur PQ = 84,78 cm dan besar &lt;POQ = 108o. Untuk \u03c0 = 3,14, panjang jari-jari OP adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang busur = &lt;POQ/360drjt x keliling lingkrn<br>84.78 = 1080/360 x 2[tex] \\pi [/tex]r<br>84.78= 3x2x3.14.r<br>84.78=18.84r<br>r=84.78/18.84=4.5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3x210x-8-adalah-164",
+            "question": "Bentuk sederhana dari 3x\u00b2+10x-8\u00a0 adalah..\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 9x\u00b2-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3 x^{2} +10x -8}{9 x^{2} -4}\n= \\frac{(3x-2)(x+4}{(3x-2)(3x+2)}\n= \\frac{x+4}{3x+2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-harga-1-rim-kertas-hvs-adalah-rp2800000-berapa-rupiah-118",
+            "question": "1.Jika harga 1 rim kertas HVS adalah Rp.28.000,00, berapa rupiah harga 1 lembar kertas HVS?    2.Harga 3 lusin sendok Rp.105.000,00 berapa harga satu buah sendok?\r\n 3.Harga 2 lusin piring Rp.180.000,00 berapa harga 10 buahv piring?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.56<br>Rp. 2.900<br>Rp.150.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 28.000 :<u> </u>500=56 rupiah<br>2. 105.000 : 36 buah=2.900<br>3. 180.000 : 24 buah=7.500 x 10 buah=75.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-permukaan-kubus-dengan-sisi-8-cm-843",
+            "question": "Hitunglah luas permukaan kubus dengan sisi 8 cm ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 8 pangkat 2<br>6 x 64 = 384<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 x 8 x 8\u00a0<br>=6 x 64<br>=384",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukislah-pada-kertas-berpetak-sebuah-lingkaran-dengan-titik-pusat-532",
+            "question": "Lukislah pada kertas berpetak sebuah lingkaran dengan titik pusat o    (0,0) dengan jari jari 5 satuan panjang ,selanjutnya lukislah sebuah \r\n garis singgung lingkaran yg melalui titik A (0,5)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya ada pada gambar<br><br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/lukislah-pada-kertas-berpetak-sebuah-lingkaran-dengan-titik-pusat-532-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-pada-gambar-diketahui-besar-ltacd-20-hitunglah-besar-a-371",
+            "question": "1. Pada gambar diketahui besar &lt;ACD = 20\u00b0 hitunglah besar:    a. &lt;BOC\u00a0\r\nb. &lt;AOC\r\nc. &lt;BOD\r\n\r\n2. Diketahui besar &lt;BCA = 25\u00b0 dan &lt;CBO 15\u00b0 hitunglah besar:\r\na. &lt;AOB\u00a0\r\nb. &lt;OAB\r\nc. &lt;ABC\r\nd. &lt;BAC\r\n\r\n3. Pada gambar disamping PR adalah diameter lingkaran. hitunglah:\r\na. nilai x\r\nb. besar &lt;PQR\r\n\r\n4. Diketahui besar &lt;ADC = 55\u00b0 hitunglah besar:\r\na. &lt;AOC\r\nb sudut refleks AOC\r\nc. &lt;AOC dan &lt;ACD\r\n\r\n5. Diketahui besar &lt;PQR = 48\u00b0 dan &lt;QRS = 101\u00b0. hitunglah besar :\r\na. &lt;PST\r\nb. &lt;QPR\r\nc. &lt;QTS",
+            "attachments": [
+                "question-attachments/1-pada-gambar-diketahui-besar-ltacd-20-hitunglah-besar-a-371-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "1. a&lt;ACD = 20\u00b0, maka &lt;CAB = 20\u00b0 karena sama kaki<br>maka &lt; AOC = 180 - 20 - 20 = 140\u00b0<br>karena sudut &lt;AOC dengan &lt;BOC berpelurus maka:<br>&lt;BOC = 180 - 140 = 40\u00b0 ----------------&gt; agak ragu karena kurang sesuai dengan gambar<br><br>b. &lt;AOC = 140\u00b0<br>c. &lt;BOD = 140\u00b0 (karena bertolak belakang)<br><br>2.a. &lt;AOB = 2 x sudut keliling &lt;BCA<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 2 x 25 = 50\u00b0<br>b.&lt;OAB = &lt;CBO = 25\u00b0 karena menghadap busur yang sama<br>c. &lt;ABC = 180 = 50 + 2x (karena terbentuk segitiga sama kaki<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 130 = 2x<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 75 = &lt;ABC<br>d. &lt;ABC = &lt;BAC = 75\u00b0<br><br>3. a. 2x + x + 90 = 180 (sudut keliling yang menghadap diameter = 90\u00b0)<br>\u00a0\u00a0 \u00a0  3x = 90<br>\u00a0\u00a0 \u00a0 \u00a0 x = 30<br>b. &lt;PQR = 90\u00b0 ( menghadao diameter )<br><br>4. gambarnya membuat saya bingung, &lt;AOC dari garis yang mana<br><br>5. a. &lt;PST = &lt;PQR = 48\u00b0 karena menghadap busur sama<br>b. &lt;PRQ = 180 - 101 = 79\u00b0 (karena berpelurus)<br>&lt;QPR = 180 - 48 - 79 = 53\u00b0<br>c. &lt;QTS = &lt;QPR = 53\u00b0 (karena menghadap busur sama)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-beserta-jawaban-dan-proses-berikan-contoh-2-soal-persamaan-267",
+            "question": "Soal beserta jawaban dan proses.    berikan contoh 2 soal persamaan linear satu variabel. beserta prosesnya dan jawabannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. -10+3(4-3X)=2(X+2)-10<br>5-12+9X = 2X+4-10<br>9X-2X + -10+4+12-5<br>7X = 1<br>X = 1/7<br><br>2.-4(3X-2)+38-2X<br>-12X+8 = 38-2X<br>-12+2X = 38-8<br>-10X=30<br>X=30/-10<br>X=-3",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 1 = 5<br>\u00a0 \u00a0 \u00a02x = 5+1<br>\u00a0 \u00a0 \u00a02x\u00a0= 6<br>\u00a0 \u00a0 \u00a0 x \u00a0= 3<br><br>3x\u00a0+ 12 = 7x - 8<br>3x-7x \u00a0 \u00a0= -8-12<br>-4x \u00a0 \u00a0 \u00a0 \u00a0= -20<br>x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 5<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-dari-2x3-5x-24-adalahtolong-ya-dibuati-268",
+            "question": "Penyelesaian dari 2(x+3) = 5x - 24 adalah......(tolong ya dibuatin caranya juga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(x+3)=5x-24<br>2x+6=5x-24<br>2x-5x=-24-6<br>-3x=-30<br>x=-30/-3<br>x=10",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 (x+3) = 5x - 24<br>2x + 6 = 5x - 24<br>2x-5x = -24 -6<br>-3x = -30<br>x = <u>-30</u><br>\u00a0\u00a0 \u00a0 \u00a0  -3<br>x = 10<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-adik-3-tahun-lebih-muda-dari-umur-kakak-jika-jumlah-umur-me-720",
+            "question": "Umur adik 3 tahun lebih muda dari umur kakak. jika jumlah umur mereka 19 tahun. tentukan umur adik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Misalkan, umur kakak = K<br>Umur adik berarti, K - 3<br><br>Karena jumlah umur mereka = 19 tahun.<br>Maka, K + K - 3 = 19 tahun<br>2 K = 22 tahun<br>K = 11 tahun<br><br>Jadi, adik = K -3 = 11 -\u00a03 = 8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Adik = K - 3<br>Jumlah umur mereka : A + K = 19<br>A ?<br>A + K = 19<br>(K - 3) + K = 19<br>2K - 3 = 19<br>2K = 19 + 3<br>K = 22 : 2<br>K = 11<br><br>Adik : K - 3 =&gt; 11 - 3 = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-jajar-genjang-abcd-diketahui-sudut-a-5x-38-dan-sudu-544",
+            "question": "Pada jajar genjang ABCD, diketahui sudut A = ( 5x -38 )' dan sudut D = (2x + 15)' Besar Sudut B adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut A dan D dalam jajar genjang memenuhi sifat dalam sepihak sehingga apabila susut sudutnya dijumlahkan maka akan menghasilkan sudut 180 derajat.<br>5x-38 + 2x+15 =180<br>7x -23 = 180<br>7x = 203<br>x = 29<br><br>maka sudut B yng besarnya sama dengan sudut D adalah :<br>2x + 15 = 2(29) + 15 = 73 derajat<br><br>semoga membantu dan tidak salah... :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4 sudut jajar genjang = 360<br>2 sudut jajar genjang = 180<br>&lt;A + &lt;D= 180<br>5X-38+2X+15=180<br>7X=203<br>X=29<br><br>&lt;A = 107<br>&lt;A+&lt;B = 180<br>&lt;B=180-107=73<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

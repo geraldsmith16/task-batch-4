@@ -1,0 +1,148 @@
+{
+    "question": "Pada gambar berikut ,lingkaran yg berpusat di O merupakan lingkaran dalam\u00a0\u0394ABC.panjang AB=13cm,AC=20cm dan BC=21cm    hitunglah :\r\na.keliling\u0394ABC\r\nb.panjang AF,CE dan BD\r\nc.jari-jari lingkaran dalam segutiga ABC\r\n\r\nkerjakan dgn menggunakan cara",
+    "attachments": [
+        "question-attachments/pada-gambar-berikut-lingkaran-yg-berpusat-di-o-merupakan-lingkar-620-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<u></u>s = <u>a + b + c</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>s = <u>13 + 21 + 20</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>s = <u>54</u><br>\u00a0\u00a0 \u00a0 \u00a0  2<br>s = 27<br><br>L\u0394[tex] \\sqrt{s (s - a)(s-b)(s-c)} \\\\  \\sqrt{27(27-13)(27-20)(27-21)}  [/tex]<br>L\u0394=\u221a15876<br>L\u0394=126<br><br>a.K\u0394 = a + b + c<br>K\u0394 = 13 + 20 + 21<br>K\u0394 = 54<br><br>b. rDalam =\u00a0<u> L</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s<br>rDalam =<u> 126</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 27<br>rDalam = 4,67 cm<br><br>maka <br>panjang AF = AB - r<br>= 13 - 4,67 = 8,33 cm<br><br>Panjang CE = AC - r<br>=20 - 4,67 = 15,33 cm<br><br>panjang BD = BC - r<br>= 21 - 4,67 = 16,33 cm<br><br>c. rDalam = 4,67cm<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-dari-8-3x4-63-611",
+            "question": "Hasil dari 8+(-3x4)-(-6:3) =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8 + -12 - -2\n\n-4 - -2\n\n-4 + 2\n\n= -2",
+                    "attachments": []
+                },
+                {
+                    "answer": "8+(-3\u00d74)-(-6:3) = 8 +(-12)-(-2) = 8-12+2 = -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-17-3-m-8-adalah-782",
+            "question": "Hasil dari 17 \u2212 (3 m (\u22128)) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "17 - (3m(-8)) =<br>17 - (-24m) =<br>17 + 24m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-201714118adalah-963",
+            "question": "Suku ke-50 dari barisan bilangan 20,17,14,11,8.....adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p>Penjelasan dengan langkah-langkah:</p><p><em><strong>Diketahui:</strong></em></p><p>a = 20</p><p>b = -3</p><p><em><strong>Ditanya:</strong></em></p><p>U\u2085\u2080 = ... ?</p><p><em><strong>Jawab:</strong></em></p><p>Gunakan rumus \u2193</p><p>Un = a + (n - 1)b</p><p>U\u2085\u2080 = 20 + (50 - 1)(-3)</p><p> \u00a0 \u00a0 \u00a0= 20 + (49)(-3)</p><p> \u00a0 \u00a0 \u00a0= 20 - 147</p><p> \u00a0 \u00a0 \u00a0= -127</p><p><u><em><strong>suku ke-50 dari barisan bilangan 20, 17, 14, 11, 8 ..... adalah -127</strong></em></u></p><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>https://brainly.co.id/tugas/13398117</li><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-jajaran-genjang-528",
+            "question": "Sifat jajaran genjang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sisi yang berhadapan sejajar dan sama panjang<br>\nb. Kedua diagonalnya berpotongan di tengah-tengah.<br>\nc. Sudut yang berhadapan sama besar.<br>\nd. Sudut yang berdekatan jumlahnya 180 derajat.<br>\ne. Menempati bingkainya dengan 2 cara.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sifat-sifat jajargenjang sebagai berikut.\n\n\nSisi-sisi yang berhadapan pada setiap jajargenjang sama panjang dan sejajar.\nSudut-sudut yang berhadapan pada setiap jajargenjang sama besar.\nJumlah pasangan sudut yang saling berdekatan pada setiap jajargenjang adalah\n180\u00b0.\n<span>Pada\nsetiap jajargenjang kedua diagonalnya saling membagi dua sama panjang.</span><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-hamid-menjual-sepeda-motor-seharga-rp-1080000000-dengan-911",
+            "question": "Pak hamid menjual sepeda motor seharga RP 10.800.000,00 .    dengan kerugian 10%.harga pembelian motor pak hamid adalah.....?????\r\n\r\nMOHON DI JAWAB YHA TEMAN,JANGAN LUPA PAKAI CARA YHA......\r\nAKU TUNGGUUUUUUUU......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10.800.000=90%<br>Kita cari 10%nya<br>Berarti\u00a0<br>10.800.000:90=1.200.000<br>berarti 10% nya adalah 1.200.000<br>Harga pembelian motornya adalah 1.200.000 x 10 = 12.000.000<br>Maaf kalo caranya gajelas gitu._.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "air-mineral-dalam-sebuah-galon-dapat-diisikan-ke-dalam-76-kemasan-760",
+            "question": "Air mineral dalam sebuah galon dapat diisikan ke dalam 76 kemasan gelas plastik yg volumenya 220 ml. jika air mineral dalam tersebut diisikan dalam kemasan botol bervolume 380 ml . banyak botol yg diperlukan .............. buah    #pakai cara yaa pliss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Cari dulu volume total pada 76 gelas yang berukuran 220 ml itu caranya,<br><br>76 x 220 = 16720 ml jadinya kan. Nah kalo mau di pindahkan ke botol yang berukuran 380 ml tinggal kita bagi volume total dengan volume botol, yaitu\u00a016720/380 = 44 botol\u00a0<br><br>cmiiw :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "76 x 220 = jumlah air didalam galom<br>76 x 220 =16720 ml<br><br>jika diisikan di dalam kemasan botol bervolume 380 ml<br>16720 : 380 = 44\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-titik-p-di-luar-lingkaran-yang-berpusat-di-o-dibuat-garis-si-787",
+            "question": "Dari titik P di luar lingkaran yang berpusat di O dibuat garis singgung PA. jika panjang jari-jari 20cm dan jarak AP= 21cm maka panjang OP adalah...    pake cara yahhh :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik =\u00a0r = 20 cm<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0AP = 21 cm<br>dit = OP = ... cm<br>jwb = OP\u00b2 = AP\u00b2 + r\u00b2 = 21\u00b2 + 20\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 441 + 400<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 841<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 OP =\u00a0\u221a841 = 29<br>jadi panjang OP adalah 29",
+                    "attachments": []
+                },
+                {
+                    "answer": "21\u00b2 +\u00a0 20\u00b2<br>441 + 400<br>841 = \u221a841 = 29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-kalimat-kalimat-berikut-177",
+            "question": "perhatikan kalimat-kalimat berikut.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.samarindah adalah ibu kota provinsi kalimantan timur.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b.2+3=6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c.2 adalah bilangan prima terkecil dan merupakan bilangan genap\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d.4b-9=4b-9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 manakah diantara kalimat tersebut yang merupakan kalimat tertutup dan kalimat terbuka",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jadi jawaban dari dari pertnyaan ini adalah c<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>kalimat terbuka:<br>\u00a0b.\u00a02+3=6\u00a0<br>kalimat tertutup:<br>a.\u00a0samarinda adalah ibukota kalimantan timur</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-0261220-adalah-540",
+            "question": "Rumus suku ke-n dari barisan 0,2,6,12,20 adalah..........?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>0</strong>\u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 12\u00a0 \u00a0 \u00a0 \u00a0 20<br>\u00a0\u00a0\u00a0<strong> 2</strong>\u00a0 \u00a0 \u00a0\u00a0 4\u00a0 \u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  8<br>\u00a0\u00a0 \u00a0 \u00a0 <strong>\u00a0 2</strong>\u00a0 \u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 2 <br><br>a = 0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  b = 2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  c = 2<br><br>Un = a + (n - 1)b + 1/2 (n\u00b2 - 3n + 2) c<br>Un = 0 + (n - 1) 2 + 1/2 (n\u00b2 - 3n + 2) 2<br>Un = 2n - 2 + n\u00b2 - 3n + 2<br>Un = n\u00b2 - n = n (n - 1)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-sebuah-kerucut-yg-berdiameter-28-cm-dengan-panjang-garis-p-368",
+            "question": "Volume sebuah kerucut yg berdiameter 28 cm dengan panjang garis pelukis 50 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d = 28 r = 14<br>s = 50\u00a0<br>t = 50\u00b2 - 14\u00b2<br>\u00a0 = 2500 - 196 = 2304<br>\u00a0 =\u00a0[tex] \\sqrt{2304} = 48[/tex]<br><br>Vkerucut = 1/3\u00a0\u03c0 r\u00b2 . t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/3 . 22/7. 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9856 cm\u00b3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : D = 28 cm, r = 14 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s = 50 cm<br>Ditanya : V = ....?<br>Jawab: a)\u00a0[tex] t^{2} =  s^{2} -  r^{2} \n[/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =  \\sqrt{ s^{2} -  r^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =   \\sqrt{ 50^{2} -  7^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 =\u00a0[tex] \\sqrt{2304} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 = 48\u00a0cm<br>\u00a0 \u00a0 \u00a0 \u00a0b) \u00a0V =\u00a0[tex] \\frac{1}{3} [/tex] . \\pi [/tex]\u00a0. r .r .t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V =\u00a0[tex] \\frac{1}{3} .  \\frac{22}{7} [/tex] . 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = 22 . 14 . 16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V = 4928\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban di atas, silahkan ditanyakan ^_^,,,<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Jika\u00a0di ketahui\u00a0luas juring OKL=51\u00a01\u00a0    \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a03\r\ncm\u00b2\u00a0 dan besar \r\n&lt;KOL=\u00a0120\u00a0DERAJAT.\u00a0PANJANG\u00a0BUSUR\u00a0KL \u00a0ADALAH\r\n \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "cari jari2<br>luas lingkaran = 360/(besar sudut juring) x (luas juring tsb)<br>L = 360/120 x 154/3 ................................................(154/3 = 51 1/3)<br>L = 154<br><br>L = \u03c0r\u00b2<br>154 = (22/7) x r\u00b2<br>r\u00b2 = 49<br>r = 7<br><br>keliling linkaran = 2\u03c0r<br>keliling linkaran = 2 x 22/7 x 7<br>keliling linkaran = 44<br><br>Panjang busur KL = besar sudut/360 x keliling linkaran<br>PB KL = 120/360 x 44<br>PB KL = 1/3 x 44<br>PB KL = 44/3 atau 14 2/3 atau 14,67<br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-barisan-aritmetika-diketahui-suku-ke-3-14-dan-suku-ke-726-376",
+            "question": "Dari barisan aritmetika diketahui suku ke-3 =14 dan suku ke-7=26. jumlah 18 suku pertama adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus umum: <br>\nUn = a + (n-1)b <br>\nSn = n/2 [2a + (n-1)b] <br><br>\nDiketahui: <br>\nU3 = 4 <br>\nU7 = 26 <br><br>\n26 = a + 6b <br>\n14 = a + 2b <br>\n----------------- - <br>\n12  = 4b <br>\nb = 3 <br><br>\nMasukin nilai b ke pers. sebelumnya: <br>\n26 = a + 6b <br>\n26 = a + 6(3) <br>\na = 8 <br><br>\nJadi didapat a = 8 dan b = 3 <br><br>\nMasukin ke pers. Sn untuk n = 18 --&gt; <br><br>\nSn = n/2 [2a + (n-1)b] <br>\nS18 = 18/2 [2x8 + (18-1)3] <br>\n.......= 9(16 + 51) <br>\n.......= 603 <br><br>\nJadi jumlah 18 suku pertama = 603  <br>Kasih jadi the best dan ucapan terima kasih ya...<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-nyoman-membeli-sebuah-mesin-cuci-dengan-harga-1750000-dan-d-987",
+            "question": "pak nyoman membeli sebuah mesin cuci dengan harga 1.750.000 dan dikenakan pajak pertambahan nilai sebesar 12%, tetapi mendapat diskon 5% karena membayar dengan tunai. berapakah uang yang harus dibayar oleh pak nyoman",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.750.000 x 12/100<br>= 17.500 x 12<br>=210.000<br>pajak 210.000<br>1.750.000 - 210.000 = 1.540.000<br><br>uang sejumlah 1.540.000 adalah harga mesin cuci<br>diskon 5%<br>1.540.000 x 5/100<br>15.400 x 5<br>77000<br><br>1.540.000 - 77.000 = 1.463.000<br>jadi, uang yang harus dibayar adalah 1.463.000<br><br>#CMIIW",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurutku sih gini, harga mesin cuci itu kan 1.750.000 kena pajak pertambahan 12% terus di diskon 5%.<br>1.750.000*12/100=210.000<br>1.750.000+210.000= 1.960.000 (Soalnya pajak pertambahan kan harus ditambahkan ke harga sebelumnya)<br>1.960.000*5/100=98.000 (ini baru di diskon)<br>Terus 1.960.000-98.000=1.862.000<br>Jadi, harga mesin cuci itu adalah 1.862.000<br>Semoga bermanfaat :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "b-2x-136x424x3-324",
+            "question": "B. 2X-1/3+6x+4/2=4x+3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 x - 1/3 + 6x +4/2 = 4x+3\n8\u00d7 + 5/3 = 4x +3 \n4\u00d7 = 4/3\n\u00d7 = 1/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-garis-singgung-lingkaran-163",
+            "question": "Apa yang dimaksud dengan garis singgung lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "garis yang menyinggung lingkaran yang memiliki dua titik untuk menggabungkan dua objek<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-tembereng-dari-lingkaran-yang-kelilingnya-88-cm-dan-luas-jur-888",
+            "question": "Luas tembereng dari lingkaran yang kelilingnya 88 cm dan luas juringnya 154\u00a0cm adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = \u03c0 \u00d7 d<br>88 = <u>22</u> \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 7<br>88 \u00d7<u> 7 </u>= d<br>\u00a0\u00a0 \u00a0 \u00a0 22<br>d = 28 cm<br><br>Luas juring =<u>\u00a0 a\u00a0 </u>\u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>154 = \u00a0\u00a0<u> a\u00a0</u>\u00a0  \u00d7<u>\u00a0 22\u00a0 </u>\u00d7 14\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 360 \u00a0\u00a0 \u00a0 7<br>55440 = a \u00d7 616<br>a = 90\u00b0<br><br>karena sudut pembentuk juring nya 90\u00b0, maka jari\"nya menjadi alas dan tinggi segitiga yang dibentuk dari talibusur.<br>Ltembereng = Luas juring - Luas segitiga<br>LT = 154 - (<u>14 \u00d7 14</u>)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>LT = 154 - 98<br>LT = 56 cm\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling = 2\u03c0r<br>88 = 2.22/7.r<br>88 = 44r/7<br>r = 7\u00d788/44<br>r = 14 cm <br><br>Luas juring = \u03b1/360 \u00d7 \u03c0 \u00d7 r\u00b2<br>154 = \u03b1/360\u00d722/7\u00d714\u00b2<br>154 = 4312\u03b1/2520<br>\u03b1 = 2520\u00d7154/4312<br>\u03b1 = 90<br>Luas tembereng = luas juring - luas segitiga<br>luas tembereng =\u00a0 154 - 1/2\u00d714\u00d714\u00d7sin90<br>luas tembereng = 154 - 98 <br>luas tembereng = 56 cm<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-aob-30-sudut-boc-90-245",
+            "question": "Pada gambar lingkaran, besar sudut AOB = 30\u00b0, sudut BOC = 90\u00b0, dan luas juring OAB = 60 cm\u00b2. Hitunglah luas juring OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut AOB</u> = <u>LJuring OAB</u><br>sudut BOC\u00a0 \u00a0 LJuring OBC<br><br><u>30</u> =<u> 60</u><br>90\u00a0 \u00a0 x<br>30x = 60 \u00d7 90<br>x = 180 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-banyaknya-bilangan-yang-menyusun-deret-579-yang-j-679",
+            "question": "Berapakah banyaknya bilangan yang menyusun deret 5+7+9+... yang jumlahnya 192 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5+7+9+11+13+15+17+19+21+23+25+27 = 192<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 5\u00a0 <br>b = 2<br><br>Sn = n/2 (2a+(n-1)b)<br>192 = n/2 (2x5 + (n-1) 2)<br>192 = n/2 (10+2n-2)<br>384 = n (10+2n-2)<br>384 = 2n^2+10n-2n<br>384 = 2n^2+8n<br>maka n = 12<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-sisi-sebuah-segitiga-adalah-26-cm-28-cm-dan-38-cm-842",
+            "question": "panjang sisi- sisi sebuah segitiga adalah 26 cm, 28 cm, dan 38 cm. Hitunglah\u00a0 a. panjang jari-jari lingkaran dalam segitiga. b. panjang jari-jari lingkaran luar segitiga. \u00a0 yang bisa mohon bantuannya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : sisi segitiga =&gt; a = 26 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b =28 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0c = 38 cm<br>dit : a.) rd (jari-jari dalam segitiga) = ...?<br>\u00a0 \u00a0 \u00a0 b.) rl (jari-jari luar segitiga) = ...?<br>jwb :\u00a0<br>a.) rd = Lsegitiga/S<br>\u00a0 \u00a0 \u00a0Lsegitiga = a x t per 2 = 26 x 28 per 2 = 13 x 28 = 364 cm\u00b2<br>\u00a0 \u00a0 \u00a0S = 1/2 Ksegitiga = 1/2 (26+28+38) = 1/2 (92) = 46 cm<br>\u00a0 \u00a0 \u00a0rd = 364 cm\u00b2/46\u00a0cm = 7,91<br>b.) rl = a.b.c / 4Lsegitiga = 26.28.38/4(364) = 27.664/1.456 = 19 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-todung-memiliki-sebuah-monbil-box-pengangkut-barang-dengan-da-303",
+            "question": "Pak Todung memiliki sebuah monbil box pengangkut barang dengan daya angkut maksimal 1 ton. Berat pak todung adalah 50 kg dan dia akan mengangkut kotak barang yg setiap kotak beratnya 25 kg.    a&gt; Berapa kotak paling banyak diangkut pak todung dalam sekali pengangkutan?\r\nb&gt; Jika pak todung akan mengangkut 1994 kotak , paling sedikit berapa kali pengangkutan kotak itu akan habis?\r\nc&gt; Jika setiap kotak beratnya 50 kg, berapa paling sedikit banyak pengangkutan yang akan dilakukan pak todung?\r\n\r\n\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 ton = 1000\u00a0kg<br>1000 - 50 = 950 kg<br>a.950 : 25 = 38 kotak<br>b.1994 X 25 = 49850<br>\u00a0 \u00a049850 : 1000 = 49,85 , jadi minimal sebenyak 50 kali angkutan<br>c.950 : 50 = 19 kotak",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 ton=1000 kg<br>berat pak dudung=50 kg<br>berat kotak=25 kg<br>1000 kg dikurangi 50 kg=950 kg<br>=950 kg : 25 kg = 38 kotak<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-segitiga-poq-adalah-segitiga-sama-sisimaka-besar-sudut-prq-123",
+            "question": "Jika segitiga POQ adalah segitiga sama sisi,maka besar sudut PRQ adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Segitiga\nmemiliki 3 titik sudut yang bila dijumlahkan hasilnya adalah 180 derajat<br></span><span>Karena PQR\nmerupakan segitiga sama sisi maka besar tiap sudutnya sama, yaitu 180 derajat\n: 3 = 60 derajat<br></span><span>Besar sudut\nPRQ adalah 60 derajat</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

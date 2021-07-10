@@ -1,0 +1,148 @@
+{
+    "question": "1) hitunglah jumlah 7 suku pertama dari deret geometri berikut:    a. 27+9+3+1+...\r\nb. 4+2+1+setengah + seper empat +...\r\nplisss yang tahu jawab dooonnkk :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. 27+<span>9+3+1+1/3+1/9+1/27 = <br>\u00a0 \u00a0\u00a040+9/27+3/27+1/27 = <strong>40\u00a013/27</strong><br>b.\u00a0</span><span>4+2+1+1/2+1/4+1/8+1/16 =<br>\u00a0 \u00a0\u00a07+8/16+4/16+2/16+1/16 = <strong>7\u00a015/16</strong></span>",
+            "attachments": []
+        },
+        {
+            "answer": "a. 40 13/27<br>b.7 15/16<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-titik-p-di-luar-lingkaran-yang-berpusat-di-o-dibuat-garis-si-787",
+            "question": "Dari titik P di luar lingkaran yang berpusat di O dibuat garis singgung PA. jika panjang jari-jari 20cm dan jarak AP= 21cm maka panjang OP adalah...    pake cara yahhh :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik =\u00a0r = 20 cm<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0AP = 21 cm<br>dit = OP = ... cm<br>jwb = OP\u00b2 = AP\u00b2 + r\u00b2 = 21\u00b2 + 20\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 441 + 400<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 841<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 OP =\u00a0\u221a841 = 29<br>jadi panjang OP adalah 29",
+                    "attachments": []
+                },
+                {
+                    "answer": "21\u00b2 +\u00a0 20\u00b2<br>441 + 400<br>841 = \u221a841 = 29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-deret-aritmatika-mempunyai-suku-pertama-2-dan-u13-u7-30-838",
+            "question": "Suatu deret aritmatika mempunyai suku pertama 2 dan U13 - U7 = 30. Hitunglah S50.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 jadi a = 2<br>U13-U7 = U6 = 30<br><br>Un = a + (n-1)b<br>U6 = 2 + (6-1)b = 30<br>\u00a0 \u00a0 \u00a0= 2 + 5b = 30<br>\u00a0 \u00a0 \u00a0= 5b = 30 - 2\u00a0<br>\u00a0 \u00a0 \u00a0= b = 28/5 = 5,6<br><br>S 50 = 50/2 (2(2)+(50-1)5,6)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 25 (278,4)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 6\u00a0960",
+                    "attachments": []
+                },
+                {
+                    "answer": "u13-u7=30<br>(a+12b)-(a+6b) = 30<br>a+12b-a-6b = 30<br>a habis maka,\u00a0<br>6b=30<br>b=5<br>a=2<br><br>U50 = a+49b<br>\u00a0 \u00a0 \u00a0 \u00a0= 2+49(5)=247<br><br>Sn = n/2(a+Un)<br>S50= 50/2(2+247)<br>\u00a0 \u00a0 \u00a0 = 25(249)=6225",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6skala-sebuah-peta-1-1500000-jarak-kota-a-dan-b-pada-peta-i-595",
+            "question": "6.skala sebuah peta 1 : 1.500.000. jarak kota A dan B pada peta itu 6 cm. berapa jarak sebenarnya kota A dan kota B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya = 1.500.000 X 6cm = 9.000.000cm = 90km<br>Jarak Sebenarnya = 90km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-limas-segiempat-beraturan-t-abcd-berikutjika-panjang-rusuk-802",
+            "question": "pada limas segiempat beraturan T ABCD berikut,jika panjang rusuk alasnya 6cm, sedangkan tinggi limas adalah 4 cm.hitunglah luas permukaan limas tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=6<br>t limas=4<br>lp=?<br>t selimut=akar 3kuadrat +4kuadra<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar 9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar 25=5<br>LP=luas alas+luas selimut(4Lsegitiga)<br>\u00a0 \u00a0 =6x6 + 1/2x4x6x5<br>\u00a0 \u00a0 \u00a0=36 + 2x6x5<br>\u00a0 \u00a0 \u00a0 =36 +60<br>\u00a0 \u00a0 \u00a0=96 cm persegi",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permk. limas = 2 x Luas alas + (keliling alas . T prisma )<br>= 2 x (4x4) + ( 4x6)\u00a0 . 4<br>=2x 16 + 24.4<br>=128<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553",
+            "question": "Gambarkan sudut 175 derajat, 215 derajat , 310 derajat \r\ntolong di jawab ya...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu ada lingkaran sudut, cara kerjanya sama seperti penggaris busur.<br>",
+                    "attachments": [
+                        "answer-attachments/gambarkan-sudut-175-derajat-215-derajat-310-derajat-tolong-di-553-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "panjang-oa-ob-21-cm-jika-besar-sudut-aob72-luas-juring-ao-518",
+            "question": "Panjang OA = OB =21 cm. jika besar sudut AOB=72\u00b0, luas juring AOB?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72\u00b0/360\u00b0 x 22/7 x 21 x 21<br>= 1/5 x 1386<br>= 277,2 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-n-a-28-n-b19-924",
+            "question": "Diketahui n (A)= 28     \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n (B)=19\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n (A\u2229B)=12\r\n\u00a0\u00a0 maka\u00a0\u00a0 n (AUB)= ?\r\na. 32\r\nb. 35\r\nc. 40\r\nd. 47\r\nberi penjelasan..\r\nmakasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n(A U B)=n(A)+n(B)-n(A<span>\u2229B)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 =28+19-12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =47-12=35  <br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "28 - 12 = 16.\n19 - 12 = 7.\nn (AnB) = 12. maka, 16 + 7 + 12 = 35.\njadi, n (AUB) = 35.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-di-samping-luas-juring-opq-1925-cm2-dan-luas-juri-334",
+            "question": "Pada gambar di samping, luas juring OPQ = 19,25 cm2 dan luas juring ORS = 51,33 cm2. Jika besar sudut POQ 45 derajat maka besar sudut ROS adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama kita cari dulu panjang jari2 lingkaran. kenapa? karena untuk mencari besar sudut dengan rumus luas juring memuat panjang jari-jari lingkarang.\u00a0<br><br>bagaimana mencari panjang jari-jari? kita manfaatkan luas juring POQ, sehingga diperoleh pers<br>L POQ = &lt;POQ/360 x L lingkaran<br>19,25 = 45/360 x\u00a0[tex] \\pi [/tex] r\u00b2\u00a0<br>19,25 = 1/8 x 22/7 x r\u00b2<br>r\u00b2 = 19,25x8x7 / 22 = 1078/22 = 49\u00a0<br>r =\u00a0\u221a49 = 7\u00a0<br><br>selanjutnya kita cari besar sudut ROS, tapi sebelumnya kita ubah dulu luas busur ROS yaitu 51,33 dalam bentuk pecahan supaya lebih mudah dalam perhitungan nanti, jadi 51,33 = 51 + 0,33 = 51 + 1/3 = 154/3<br>L ROS = &lt;ROS / 360 x L lingkaran<br>154/3 = &lt;ROS/360 x 22/7 x 49\u00a0<br>&lt;ROS = 154 x 360 x 7 / (3x22x49) = (154x120) / (22 x 7) = 120\u00a0<br>jadi besar sudut ROS adalah 120 derajat<br><br>semoga membantu dan mudah dipahami<br>#FunWithMath<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-tentang-yang-di-maksud-garis-singgung-lingkaran-b-432",
+            "question": "Tolong jelaskan tentang yang di maksud garis singgung lingkaran beserta penjelasannya    Terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran hanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada titik singgung lingkaran itu. Kasih 5 bintang ya.<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Untuk memahami pengertian garis singgung lingkaran, perhatikan Gambar di bawah ini.<span>\u00a0</span><span>Lingkaran pusat di O dengan diameter AB tegak lurus dengan diameter CD (garis k). Jika garis k digeser ke kanan sedikit demi sedikit sejajar k maka\u00a0</span>\u00a0<span>pada posisi k1 memotong lingkaran di dua titik (titik E dan F) dengan k1\u00a0</span>\u22a5<span>\u00a0OB.</span>pada posisi k2 memotong lingkaran di dua titik (titik G dan H) dengan k2\u00a0\u22a5<span>\u00a0OB.</span>pada posisi k3 memotong lingkaran di satu titik, yaitu titik B (menyinggung lingkaran di B). Selanjutnya, garis k3 disebut garis singgung lingkaran.<br><br>Sekarang perhatikan Gambar di bawah ini!<span>\u00a0</span>Jika garis k diputar dengan pusat perputaran titik A ke arah busur AB\u2019<span>\u00a0yang lebih kecil dari busur AB maka kita peroleh\u00a0</span>\u0394OAB\u2019<span>\u00a0sama kaki. (Mengapa?)</span><br><br>\u2220<span>OAB =\u00a0</span>\u2220OB\u2019A = \u00bd x (\u2220180 \u2013 AOB\u2019)<br><br><br><br><span><span>Jika kita terus memutar garis k ke arah busur yang lebih kecil dan lebih kecil lagi maka\u00a0</span>\u2220OAB\u2019\u00a0=\u00a0\u2220OB\u2019<span>A akan makin besar dan\u00a0</span>\u2220AOB\u2019<span>\u00a0makin kecil. Pada suatu saat garis k akan menyinggung lingkaran di titik A dengan titik B</span>\u2019<span>\u00a0berimpit dengan titik A dan saat itu berlaku</span></span><span>\u2220OAB\u2019 =\u2220OB\u2019<span>A = \u00bd (180\u00b0 -\u00a0</span>\u2220AOB\u2019)</span><span>\u2220OAB\u2019 =\u2220OB\u2019<span>A = \u00bd (180\u00b0 -\u00a0</span>0\u00b0)</span><span>\u2220OAB\u2019 =\u2220OB\u2019A = 90\u00b0</span><span>Hal ini menunjukkan bahwa jari-jari OA tegak lurus dengan garis singgung k di titik A.<br><br><span>Jadi, garis singgung lingkaran adalah garis yang memotong suatu lingkaran di satu titik dan berpotongan tegak lurus dengan jari-jari di titik singgungnya.</span><br><br>Perhatikan gambar di bawah ini.\u00a0<br><br><span>\u00a0</span>Pada Gambar di atas tampak bahwa garis k tegak lurus dengan jari-jari OA. Garis k adalah garis singgung lingkaran di titik A, sedangkan A disebut titik singgung lingkaran.<br><br><span>Karena garis k\u00a0</span>\u22a5<span>\u00a0\u00a0OA, hal ini berarti sudut yang dibentuk kedua garis tersebut besarnya 90\u00b0. Dengan demikian secara umum dapat dikatakan bahwa setiap sudut yang dibentuk oleh garis yang melalui titik pusat dan garis singgung lingkaran besarnya 90\u00b0.</span><br><br><span>\u00a0</span>Gambar di atas merupakan lingkaran yang berpusat di O. Lingkaran tersebut bersinggungan dengan garis g dan h. Garis g memotong lingkaran di satu titik, yaitu di titik A. Sedangkan garis h memotong lingkaran di satu titik, yaitu di titik B. Garis g dan h inilah yang dinamakan garis singgung. Sedangkan titik B dan titik A dinamakan titik singgung. Jadi yang dimaksud dengan garis singgung lingkaran adalah suatu garis yang memotong lingkaran tepat di satu titik. Coba jelaskan mengapa garis l bukan termasuk garis singgung lingkaran?<br><br>Perhatikan kembali gambar di atas. Garis g dan garis h tegak lurus OB dan OA, sedangkan OB dan OA adalah jari-jari lingkaran. Jadi, garis singgung lingkaran akan tegak lurus dengan jari-jari lingkaran yang melalui titik singgungnya. Dapatkah kita membuat garis singgung lainnya di titik A dan di titik B? Ternyata, bagaimanapun caranya, kita tidak akan bisa membuat garis singgung yang lain di titik A dan di titik B. Dengan demikian, kita hanya dapat membuat satu garis singgung lingkaran dari satu titik pada sebuah lingkaran.</span><br><span>Perhatikan gambar di bawah ini!\u00a0<br><span>\u00a0</span><span>Garis c, e, dan f adalah garis singgung lingkaran karena memotong lingkaran di satu titik dan tegak lurus dengan jari-jari melalui titik singgungnya. Sedangkan garis a, b, d, g, dan h bukan garis singgung lingkaran karena jika garisnya di perpanjang, akan memotong lingkaran di dua titik.<br>TOLONG KASIH BINTANG!!!!!</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "komponen-translasi-dari-titik-63-ke-titik-15-237",
+            "question": "Komponen translasi dari titik (6,3) ke titik (-1,5)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x&#039; = x + a<br>y&#039; = y + b<br><br>-1\u00a0 = 6 + a<br>a\u00a0 = -1 - 6<br>a = - 7<br><br>5 = 3 + b<br>b = 5 - 3<br>b = 2<br><br>komponen translasi (-7, 2)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Tentukan nilai n jika diketahui a= -2 b=7 dan un=138",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "un = a+(n-1)b<br>138= -2 + (n-1)7<br>138 = -2 + 7n - 7<br>138 = 7n -9<br>138 + 9 = 7n<br>147 = 7n<br>147/7 = n<br>21 = n <br><br>jadi nilai n = 21<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Un=a+(n-1)b<br>138=-2+(n-1)7<br>138+2=7n-7<br>140+7=7n<br>7n=147<br>n=21",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-dijatuhkan-tegak-lurus-dari-ketinggian-4m-dan-setiap-962",
+            "question": "sebuah bola dijatuhkan tegak lurus dari ketinggian 4m dan setiap kali memantul tingginya 3/4 tinggi semula.Tentukan panjang lintasan yang dilalui bola sampai berhenti ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{b + a}{b - a} . 4 =  \\frac{4 + 3}{4 - 3} . 4 =  \\frac{7}{1} . 4 = 28 m[/tex]frac{4 + 3}{4 - 3} \u00d7 4\u00a0=[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-sudut-r110-derajat-sudut-q30-derajat-dan-sisi-p-708",
+            "question": "jika diketahui sudut R=110 derajat, sudut Q=30 derajat dan sisi p= 10 cm, maka LUAS SEGITIGA PQR adalah............",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=(p2 x sinQ x sinR) / 2 x sinP<br>\u00a0 = (10kuadrat x sin 30 x sin 110) / 2 x sin 40<br>\u00a0 = 100 x 0,5 x 0,9 / 2 x 0,6<br>\u00a0 =45 / 1,2<br>\u00a0 =37,5 cm2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-y2x-4-di-cerminkan-terhadap-sumbu-y-kemudian-di-putar-de-315",
+            "question": "Garis y=2x-4 di cerminkan terhadap sumbu -y, kemudian di putar dengan R {0,90 drajat}persamaan bayangan garis itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 2x - 4 <br>dicerminkan terhadap sumbu Y = mengganti x menjadi -x<br>y = 2x - 4 ---&gt; y = 2(-x) - 4 ----&gt; y = -2x - 4<br>rotasi 90 = mengganti x menjadi y dan y menjadi -x<br>y = -2x - 4 ----&gt; -x = -2y - 4 <br>\u21d2 x = 2y + 4 <br>\u21d2 y = 1/2 x - 2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-positif-membentuk-barisan-geometri-dengan-rasio-r-gt-798",
+            "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-trigonometri-berikut-sec2-a-cosec2-a-972",
+            "question": "Buktikan identitas trigonometri berikut! \u00a0 sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A<br></span><br><span>sec\u00b2 A + cosec\u00b2 A <br><br></span><br><span>(1/cos\u00b2 A) + (1/sin\u00b2 A)<br><br>sin\u00b2 A + cos\u00b2 A<br>-----------------------<br>sin\u00b2 A cos\u00b2 A<br><br>..........1..........<br>----------------------<br>sin\u00b2 A cos\u00b2 A...............terbukti<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

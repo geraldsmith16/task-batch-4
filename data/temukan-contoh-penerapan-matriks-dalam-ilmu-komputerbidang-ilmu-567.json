@@ -1,0 +1,132 @@
+{
+    "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-angka-236-dan-8-dibuat-bilangan-kurang-dari-500-yang-terdi-267",
+            "question": "Dari angka 2,3,6 dan 8 dibuat bilangan kurang dari 500 yang terdiri dari 3 angka berbeda. Banyak bilangan yang dapat dibentuk adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0n ={2, 3, 6, 8} = 4<br>banyaknya bilangan<br>==&gt; 2 x 3 x 2 = 12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Angka 2,3,6,8<br>membentuk bilangan terdiri dari angka kurang dari 500 adalah:<br>untuk ratusan ada 2 pilhan/cara yaitu 2 dan 3. Karena kita sdh pilih sau angka maka yang tersisa tinggal 3 angka untuk puluhan dan satuan, sehingga P(3,2) = 3!/(3-2)! = 6. Jadi banyaknya bilangan: 2. P(3,2) = 2.6 = 12 bilangan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-pembagian-sukubanyak-81xpngkt39xpngkt2-9-860",
+            "question": "tolong beri jawabannya, pembagian sukubanyak 81xpngkt3+9xpngkt2-9x+4 dgn (3x-a) menghasilkan sisa 3a\u00a0pngt3+2.hitung nilai nilai a yang mungkin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4 dengan (3x\u00a0-\u00a0a) sisa 3a^3 + 2<br>(3x\u00a0-\u00a0a) -&gt;\u00a0x\u00a0=\u00a0a/3<br>f(a/3) =\u00a03a^3 + 2<br>3a^3 + 2\u00a0=\u00a081(a/3)^3 + 9(a/3)^2 - 9(a/3) + 4<br>3a^3 + 2\u00a0= 81(a^3 / 27) + 9(a^2 / 9) - 3a + 4<br>3a^3 + 2\u00a0= 3a^3 + a^2 - 3a + 4<br>a^2 - 3a + 2 = 0<br>(a - 2) (a - 1) = 0<br>a = 2 atau a = 1<br><br>untuk\u00a0a = 2<br><span>(3x-a)\u00a0=\u00a0(3x-2) -&gt; x = 2/3<br><br></span>sisanya dari soal\u00a03a^3 + 2 -&gt; 3(2)^3 + 2 = 24 + 2 = 26<br><br>f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4<br>f(2/3) = 81(2/3)^3 + 9(2/3)^2 - 9(2/3) + 4<br>f(2/3) = 81(8/27) + 9(4/9) - 6 + 4<br>f(2/3) = 24 + 4 - 2<br>f(2/3) = 26<br><br><span>jadi, nilai a yang mungkin adalah a =\u00a02/3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-mencatat-hsil-panenanya-slma-11-hari-jka-hsil-prt-526",
+            "question": "Seorang petani mencatat hsil panenanya slma 11 hari, jka hsil prtma 15 kg dan mengalami kenaikan tetap sbsr 2 kg setiap hari, maka jmlh hsil panen yg di catat adalah ???    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seorang petani mencatat hasil panenanya selama 11 hari, jika hasil pertama 15 kg dan mengalami kenaikan tetap sebesar 2 kg setiap hari, maka jumlah hasil panen yg di catat adalah ...</p><p><strong>Barisan aritmetika</strong> adalah barisan bilangan dengan hasil pengurangan setiap suku dengan suku sebelumnya selalu sama atau tetap.</p><p>Suku ke-n \u00a0\u00a0\u2192 \u00a0\u00a0Un = a + (n - 1) b</p><p><strong>Deret aritmetika</strong> adalah penjumlahan dari suku-suku suatu barisan aritmetika.</p><p>Jumlah n suku pertama \u2192 \u00a0\u00a0Sn = n/2 [2a + (n - 1) b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau Sn = n/2 (a + Un)</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>hasil panen pertama (a) = 15 kg</p><p>kenaikan hasil panen (b) = 2 kg</p><p>lama panen (n) = 11 hari</p><p>Ditanya :</p><p>jumlah hasil panen yg dicatat (Sn) ?</p><p><u><strong>Jawab :</strong></u></p><p><strong>Jumlah hasil panen yang dicatat selama 11 hari</strong></p><p>Sn = \u207f/\u2082 [2a + (n - 1) b]</p><p>S\u2081\u2081 = \u00b9\u00b9/\u2082 [2 (15) + (11 - 1) 2]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 [30 + 20]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 \u00d7 50</p><p> \u00a0 \u00a0 = 11 \u00d7 25</p><p> \u00a0 \u00a0 = 275</p><p>Jadi jumlah hasil panen yang dicatat adalah 275 kg</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan dan Deret</h3><ol><li>Andri berhutang pada Beny 20 bulan akan lunas, bulan pertama Andri membayar Rp. 25.000,00 , bulan kedua Rp. 27.000,00 dan seterusnya, maka hutang Andri \u2192 https://brainly.co.id/tugas/14993248</li><li>Suku ke-8 suatu deret aritmatika = 20, \u00a0jumlah suku ke-2 dengan suku ke-5 adalah 4. Jumlah 20 suku pertama \u2192 brainly.co.id/tugas/15253327</li><li>Hitunglah jumlah semua bilangan asli antara 16 dan 394 yang habis dibagi 3, tetapi tidak habis di bagi 5 \u2192 brainly.co.id/tugas/21032962</li><li>Jumlah tiga bilangan barisan aritmatika = 45, jika suku kedua di kurangi 1 dan suku ke 3 di tambah 5, maka barisan tersebut menjadi barisan geometri \u2192 brainly.co.id/tugas/6359670</li><li>Lima bilangan positif membentuk barisan aritmatika naik. Jika jumlahnya adalah 30 adalah hasil kalinya adalah 3840. \u2192 brainly.co.id/tugas/268190</li></ol><h3>Detil Jawaban \u00a0</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 11 SMA \u00a0</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 7 - Barisan dan Deret</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 11.2.7</li><li>Kata kunci : barisan aritmetika, soal cerita, jumlah hasil panen</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-dadu-dilemparkan-bersamaan-peluang-muncul-jumlah-kedua-mata-703",
+            "question": "Dua dadu dilemparkan bersamaan. Peluang muncul jumlah kedua mata dadu lebih dari tiga adalah..?    a. 1/36 b. 1/12 c. 6/36 d. 30/36 e. 11/12",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori\nSoal : Matematika - Peluang<br></p><span>\nKelas : XI (2 SMA)<br>\nPembahasan :<br>\nRuang sampel adalah\u00a0himpunan semua\u00a0hasil yang mungkin pada suatu\npercobaan yang dilambangkan dengan S.<br>\nTitik sampel adalah anggota-anggota dari ruang sampel.<br>\nKejadian merupakan himpunan bagian dari ruang sampel atau bagian dari hasil\npercobaan yang diinginkan.<br>\nJika S adalah ruang sampel dari suatu kejadian dengan setiap anggota S memiliki\nkesempatan muncul yang sama dan A suatu kejadian dengan A\u00a0</span>\u2282<span> S, maka peluang kejadian A adalah<br>\nP(A) = n(A)/n(S)<br>\ndimana n(A) merupakan banyak anggota dalam himpunan kejadian A dan n(S)\nmerupakan banyak anggota dalam himpunan ruang sampel S.<br><br>\nMari kita perhatikan soal tersebut.<br></span><p>Dua buah dadu dilempar Undi bersama satu kali.\u00a0<span><br>S = {(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</span></p><p>n(S) = 6\u00b2 = 36.<span><br>A = himpunan kejadian muncul mata dadu berjumlah lebih dari 3 = {</span>(1, 3), (1, 4), (1, 5), (1, 6), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</p><p>n(A) = 33</p><p><span>Peluang\nkejadian muncul mata dadu berjumlah lebih dari 3 adalah P(A) = n(A)/n(S) = 33/36 = 11/12</span></p><p><span>Semangat!</span></p><p><span>\u00a0</span><br></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-suatu-deret-geometri-adalah-15-dan-suku-ke-8-adalah-120-927",
+            "question": "Suku ke 5 suatu deret geometri adalah 15 dan suku ke 8 adalah 120.rasio deret itu adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u5=15\nu8=120\nu5=a.r^(5-1)\n=a.r^4\nu8=a.r^(8-1)\n=a.r^7\nu8/u5=(a.r^7)/(a.r^4)\n120/15=r^3\n8=r^3\nr=2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-2a3-4a-pangkat-23-426",
+            "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

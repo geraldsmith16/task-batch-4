@@ -1,0 +1,137 @@
+{
+    "question": "Sebuah benda bermassa 500kg digantungkan pada kawat baja panjangnya 3m ...",
+    "attachments": [
+        "question-attachments/sebuah-benda-bermassa-500kg-digantungkan-pada-kawat-baja-panjangn-440-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><h2>ELASTISTAS BAHAN</h2><h2></h2><p><strong>DEFINISI ELASTISITAS</strong></p><p><em><strong>Elastisitas</strong></em> adalah sifat dari benda dimana benda akan mengalami perubahan bentuk ketika diberi gaya dan akan kembali kebentuknya semula ketika gayanya dihilangkan. </p><p>Berdasarkan sifat ini, benda dibedakan menjadi : </p><br><p><em><strong>a. Benda Elastis</strong></em> yaitu : benda yang bentuknya kembali seperti semula ketika gaya yang diberikan dihilangkan.</p><p><em><strong>b. Benda Plastis</strong></em> yaitu : benda yang tidak kembali ke bentuk semula ketika gaya yang diberikan dihilangkan. </p><br><h2>BESARAN - BESARAN DASAR ELASTISITAS</h2><br><h2>A. TEGANGAN (Stress)</h2><p>Jika sebuah kawat yang memiliki <strong>luas penampang A</strong> ditarik dengan <strong>gaya F</strong>, pada kawat akan timbul stress yang besarnya.</p><h2>\u03c3 = F / A </h2><br><h2>B. REGANGAN (Strain)</h2><p>Sebuah kawat mempunyai <em><strong>panjang mula-mula </strong></em>sebesar<em><strong> L</strong></em>. Setelah ditarik dengan <em><strong>gaya F</strong></em>, kawat <em><strong>bertambah panjang</strong></em> sebesar <strong><em>\u0394L</em></strong>, kawat tersebut memiliki regangan (strain) yang besarnya :</p><h2>e = \u0394L / L \u00a0</h2><br><h2>C. MODULUS ELASTISITAS (Modulus Young)</h2><p>Rasio atau perbandingan antara stress dan strain dinamakan Modulus elastis, yang besarnya :</p><h2>\u03c3 = E.e</h2><p>atau </p><h2>E = \u03c3 / e </h2><p>atau </p><h2>E = (F.L) / (A.\u0394L)</h2><br><p>Dimana :</p><p>E = Modulus Elastisitas (Modulus Young)</p><p>F = Gaya</p><p>L = panjang kawat awal</p><p>A = luas penampang </p><p>\u0394L = pertambahan panjang kawat</p><br><h2>SOAL</h2><p><em>Sebuah benda bermassa 500 kg digantungkan pada kawat baja panjangnya 3 m dan luas penampangnya 0,15 cm\u00b2. Jika modulus Young untuk baja adalah 2,0 x 10\u00b9\u00b9 N/m\u00b2. pertambahan panjang kawat adalah ...</em></p><p><em>A. 0,47 cm</em></p><p><em>B. 0,48 cm</em></p><p><em>C. 0,49 cm</em></p><p><em>D. 0,50 cm</em></p><p><em>E. 0,51 cm</em></p><br><p><strong>PENYELESAIAN </strong></p><p><strong>Diketahui :</strong></p><p>massa benda, m = 500 kg </p><p>berat benda sebagai gaya tarik ke kawat, F = w = m.g = 500. 10 = 5000 N</p><p>panjang kawat awal, L = 3 m</p><p>luas penampang kawat, A = 0,15 cm\u00b2 = 0,15 x 10\u207b\u2074 m\u00b2</p><p>modulus young kawat, E = 2,0 x 10\u00b9\u00b9 N/m\u00b2</p><p><strong>Tanya :</strong></p><p>pertambahan panjang kawat, \u0394L = __?</p><p><strong>Jawab :</strong></p><p><u><strong>Step 1</strong></u></p><p>Cari Tegangan (stress) kawat, \u03c3 = __?</p><p>\u03c3 = F/A</p><p>\u03c3 = 5000 / 0,15 x 10\u207b\u2074</p><p>\u03c3 = (1/3) x 10\u2079 N/m\u00b2</p><br><p><strong><u>Step 2</u></strong></p><p>Cari Regangan (strain), e = __?</p><p>Gunakan rumus :</p><p>\u03c3 = E.e</p><p>(1/3) x 10\u2079 = 2,0 x 10\u00b9\u00b9 . e</p><p>e = (1/6) x 10\u207b\u00b2 </p><br><p><strong><u>Step 3</u></strong></p><p>Cari pertambahan panjang, \u0394L = __?</p><p>Gunakan rumus :</p><p>e = \u0394L / L</p><p>maka : </p><p>\u0394L = L.e</p><p>\u0394L = 3 x (1/6) x 10\u207b\u00b2</p><p>\u0394L = 0,5 x 10\u207b\u00b2 meter</p><p>\u0394L = 0,50 cm</p><br><h2>ATAU CARA LAIN</h2><h2></h2><h2>E = (F.L) / (A.\u0394L)</h2><p>atau</p><h2>\u0394L = (F.L) / (A.E)</h2><br><p>\u21d2 \u0394L = (5000 x 3) / (0,15 x 10\u207b\u2074 x 2,0 x 10\u00b9\u00b9)</p><p>\u21d2 \u0394L = 0,5 x 10\u207b\u00b2 meter</p><p>\u21d2 \u0394L = 0,50 cm</p><h2></h2><h2>KESIMPULAN</h2><p>Jadi besar pertambahan panjang kawatnya adalah <strong>0,50 cm</strong></p><p>JAWABAN : D</p><br><p>=====================================================</p><p>Silakan simak soal tentang :</p><p><strong>Menghitung tegangan (stress) kawat</strong></p><p>https://brainly.co.id/tugas/2330409</p><p>=========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : FISIKA</strong></p><p><strong>Kategori : Elastisitas</strong></p><p><strong>Kata Kunci : Tegangan, kawat, Modulus Elastisitas, Gaya Tegangan kawat, Panjang dan pertambahan panjang akwat</strong></p><p><strong>Kode : 11.6.2 [Kelas 11 SMA Fisika Bab 2 - Elastisitas dan Hukum Hoole]</strong></p><br><br>",
+            "attachments": [
+                "answer-attachments/sebuah-benda-bermassa-500kg-digantungkan-pada-kawat-baja-panjangn-440-1.jpeg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-yang-masssa-jenisnya-sama-dengan-massa-jenis-air-p-b-396",
+            "question": "sebuah benda yang masssa jenisnya sama dengan massa jenis air p beradda pada dasar air dalamnya h. jika percepatan grafitasi g, massa benda m, dan volume benda V, besar gaya normal dari dasar kolam pada benda adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau massa jenis benda sama dengan massa jenis air, maka ketika benda berada di dalam air , benda akan melayang <br>jadi gaya normal yang diberikan oleh dasar kolam pada benda sama dengan nol. :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-energi-potensial-bersifat-kekal-306",
+            "question": "Apakah energi potensial bersifat kekal.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi potensial tidak bersifat kekal karena dipengarui oleh energi mekanik<br><br>karena<br>Em = Ep + Ek = konstant<br><br>Ep dan Ek dapat berubah tetapi nilai Em tetap",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-konduktor-berjari-jari-2-cm-dan-diberi-muatan-1mc-493",
+            "question": "sebuah bola konduktor berjari-jari 2 cm dan diberi\u00a0muatan 1\u03bcC. Besar potensial Listrik berjarak 3 cm dari pusat bola konduktor adalah.... ( 1\u00a0\u03bcC = 10\u207b\u2076 C )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik r1 = 2 cm = 0,02 m<br>\u00a0 \u00a0 \u00a0 r2= 3 cm = 0,03 m<br>\u00a0 \u00a0 \u00a0 \u00a0k = 9 x 10^9 N^2/C^2<br>\u00a0 \u00a0 \u00a0 \u00a0q = 1\u03bcC = 1x10^-6 C<br>Dit\u00a0\u0394V ?<br>jawab.<br><br>\u0394V = V1-V2 = k.[tex] \\frac{q}{r1} [/tex] - k .[tex] \\frac{q}{r2} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a09 x 10^9\u00a0([tex] \\frac{1x10^-6}{0,02} [/tex]) -\u00a09 x 10^9 ([tex] \\frac{1x10^-6}{0,03} [/tex])<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4,5 x 10^5 - 3 x 10^5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1,5 x\u00a010^5 Volt<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bola-tenis-massanya-100-gram-di-jatuhkan-ke-lantai-20-cm-tanpa-ke-343",
+            "question": "bola tenis massanya 100 gram di jatuhkan ke lantai 20 cm tanpa kecepatan awal. kemudian memantul dengan kecepatan 1 m/s . perubahan yang di alami bola tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perubahan energi potensial dan kinetik<br><br>E1 = Ep1 + Ek1<br>E1 = mgh + 0<br>E1 = 0,1 \u00d7 10 \u00d7 0,2<br>E1 = 0,2 J<br><br>E2 = Ep2 + Ek2<br>E2 = 0 + 1/2 \u00d7 m \u00d7 v\u00b2<br>E2 = 1/2 \u00d7 0,1 \u00d7 1\u00b2<br>E2 = 0,05 J<br><br>Perubahan Energi<br>E1 - E2 = 0,15 J<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-penerus-dari-mesin-bubut-memeiliki-diameter-10-cm-dan-ma-400",
+            "question": "roda\u00a0penerus dari\u00a0mesin bubut\u00a0memeiliki\u00a0diameter 10 cm dan massa 3 kg berputar dengan\u00a0kecepatan 1.200\u00a0rpm.\u00a0Besar\u00a0momen\u00a0inersianya\u00a0adalah....\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 10 cm r= 5 cm = 0,05 m<br>\u00a0 \u00a0 \u00a0 m =3 kg<br>Dit i ?<br>jawab.<br><br>i = m.R^2<br>\u00a0= 3 . 0,0025<br>\u00a0= 0,0075 kgm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bergerak-dengan-kecepatan-60-kmjam-dalam-si-kecepa-154",
+            "question": "Sebuah mobil bergerak dengan kecepatan 60 km/jam. dalam SI kecepatan mobil itu adalah ... m/detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "60km=60.000m, 1jam=3600detik, sehinnga 60.000/3600=16,7m/detik",
+                    "attachments": []
+                },
+                {
+                    "answer": "60 km/jam = ..... m/s\n60000 m/3600 s= 16,67 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-reaksi-kimia-dan-reaksi-fisika-yang-nda-tahu-nda-usah-906",
+            "question": "Perbedaan reaksi kimia dan reaksi fisika? Yang nda tahu nda usah pura pura jawab cuma buat dapat poin ya! akan aku laporkan ke moderator loh!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reaksi kimia menghasilkan zat baru, terjadi perubahan bentuk, warna dan bau, contohnya meletusnya kembang api, nasi basi dan kayu yang dibakar.        sedangkan perubahan fisika tidak menghasilkan zat baru, hanya terjadi perubahan wujud/bentuk, contohnya air jadi es, beras dihaluskan jadi tepung.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796",
+            "question": "bila sebuah benda dicelupkan ke dalam air, maka 1/3 bagiannya akan muncul di permukaan air. jika benda docelupkan ke dalam suatu larutan yang massa jenisnya 8/9 g/cm3, maka bagian yang akan muncul di permukaan larutan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori Soal :\nFisika \u2013 Mekanika Fluida<span><br>\nKelas : 2 SMA/XI SMA<br>\nPembahasan :</span></p>\n\n<p>Baik, saya\nakan mencoba membantu menjawab. Jawaban terlampir dalam file berikut :</p><p><br></p>",
+                    "attachments": [
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-1.png",
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batang-homogen-massa-4-kg-dan-panjangnya-120-cm-batang-ter-613",
+            "question": "sebuah batang homogen massa 4 kg dan panjangnya 120 cm batang tersebut diputar dengan sumbu putar terletak pada 40 cm dari salah satu ujungnya hitunglah momen inersia dari batang homogen itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan teorema sumbu sejajar,\n\nI = Io + m r\u00b2\n\nI = (1/12)mL\u00b2 + m r\u00b2\n\nI = (1/12)(4)(1.2)\u00b2 + 4 (\u00bd * 1.2 - 0.4)\u00b2\n\nI = 0.64 kg m\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

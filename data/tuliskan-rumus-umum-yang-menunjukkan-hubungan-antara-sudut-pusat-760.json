@@ -1,0 +1,150 @@
+{
+    "question": "Tuliskan rumus umum yang menunjukkan hubungan antara sudut pusat dan sudut keliling",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rumus sudut keliling : 1/2 . sudut pusat<br>Rumus sudut pusat : 2. sudut keliling",
+            "attachments": []
+        },
+        {
+            "answer": "sdt kliling : 1/2 sdt pusat<br>sudt pusat : 2 sudt klilng",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-bantuannya-perhatikan-gambar-persegi-yg-didalamnya-terdap-178",
+            "question": "Mohon bantuannya    perhatikan gambar persegi \u00a0yg didalamnya terdapat unsur lingkaran ,seperti pada gambar berikut.jika\u00a0\u03c0=22/7,hitunglah luas derah yg terarsir\r\nmakasih sebelumnya :)",
+            "attachments": [
+                "question-attachments/mohon-bantuannya-perhatikan-gambar-persegi-yg-didalamnya-terdap-178-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "cari luas lingkaran.<br>\u00a03,14 x 3,5 x 3,5 = 38,465 cm2<br>cari luas persegi.<br>7 x\u00a07 = 49\u00a0cm2<br>jadi luas persegi-luas lingkaran\u00a0<br>49 cm2 - 38,465 cm2 = 10,535 cm2",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena luas yang tidak diarsir berbentuk:<br><u>1\u00a0</u> +\u00a0<u> 1\u00a0</u> +<u>\u00a0 1</u><br>2\u00a0 \u00a0 \u00a0 4\u00a0 \u00a0\u00a0\u00a0 4<br>maka luas yang tidak diarsir sama dengan 1 lingkaran<br><br>Luas lingkaran:<br>L = \u03c0 \u00d7 r\u00b2<br>L = <u>22\u00a0</u> \u00d7 3,5\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 7<br>L = 38,5 cm\u00b2<br><br>Luas persegi:<br>L = s \u00d7 s<br>L = 7 \u00d7 7<br>L = 49 cm\u00b2<br><br>Luas yang diarsir:<br>Luas persegi - luas lingkaran<br>49 - 38,5<br>10,5 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "beberapa-anak-kecil-bermain-main-di-halaman-rumahmereka-berlari-622",
+            "question": "beberapa anak kecil bermain-main di halaman rumah.Mereka berlari membentuk lintasan berbentuk lingkaran.Jika lingkaran yang terbentuk memiliki jari jari 8cm, berapakah panjang lintasan yang ditempuh ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling= 2\u00a0 x TT(phi) x jari2<br>= 2 x 3,14 x 8<br>= 50,24 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling= 2x3.14x8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 50.24cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-hani-meminjam-uang-di-bank-perkreditan-sebesar-rp750000000-593",
+            "question": "Bu Hani meminjam uang di bank perkreditan sebesar Rp7.500.000,00. Setelah 10 bulan, pinjaman Bu Hani menjadi Rp9.000.000,00. Persentase suku bunga setiap bulan yang diberlakukan bank tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau menurut saya persentasenya 20%",
+                    "attachments": []
+                },
+                {
+                    "answer": "Suku bunga 10 bulan = Pinjaman Akhir - Pinjaman Awal = Rp9.000.000,00 - Rp7.500.000,00 = Rp1.500.000,00<br>Suku bunga tiap bulan = Suku bunga 10 bulan : 10 = Rp1.500.000,00 : 10 = Rp150.000,00<br>Persentease suku bunga tiap bulan = Suku bunga tiap bulan : Pinjaman Awal x 100 = Rp150.000,00 : Rp7.500.000,00 x 100 = 2%<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-berjari-jari-40-m-di-sekelilig-824",
+            "question": "sebuah taman berbentuk lingkaran berjari jari 40 m. di sekelilig tepinya dibuat jalan melingkar mengelilingi taman yg lebarnya 2 m. jika biaya untuk membuat jalan tiap 1 m\u00b2 adalah Rp 25.000, hitunglah biaya seluruh pembuatan jalan tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>= 2 X 3.14 X 40<br>= 330.4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0banyak pagar\u00a0= 330.4\u00a0: 2 =165.2<br><br>biaya keseluruhan = 165.2 X 25000 = 4,130,000",
+                    "attachments": []
+                },
+                {
+                    "answer": "L:\u00a0\u03c0.r\u00b2<br>:\u00a03,14.40.40<br>: 5.024<br>luas kolam : 5.024 m\u00b2<br><br>r : 40 + 2 (lebar taman yang mengelilingi kolam)<br>r : 42 m<br><br>L: 3,14.42.42<br>:\u00a05538,9\u00a0<br><br>luas lingkaran seluruhnya: 5538,9 m\u00b2<br><br>luas jalan: luas lingkaran besar - luas kolam<br>: 5.538,9 - 5.024<br>: 514,9 m\u00b2<br><br>besar biaya untuk membuat jalan: 5.538,9\u00a0\u00d7 25.000 = Rp. 138.472.500<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-lingkaran-6-cm-dan-panjang-garis-singgung-ab-8-cmtentu-498",
+            "question": "Jari jari lingkaran 6 cm dan panjang garis singgung AB 8 cm.tentukan jarak titik pusat O ke titik B",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung luar pada satu lingkaran<br><br>OB\u00b2 = AB^2 + r^2<br>OB^2 = 8^2 + 6^2<br>OB^2 = 64 + 36<br>OB^2 = 100<br>OB = \u221a100<br>OB = 10 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-dengan-sudut-bac-sudut-bad-2-5-460",
+            "question": "diketahui layang-layang ABCD dengan sudut BAC : sudut BAD = 2 : 5. jika besar sudut BCD = 105 derajat, maka tentukan besar sudut ADC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pebandingan sudut<br>BAC : BAD<br>2x :5x<br>sehingga sudut CAD = 3x<br><br>nilai x<br>2x + 3x = 105<br>5x= 105<br>x = 21<br><br>sudut CAD dan ACD\u00a0<br>3x<br>= 3(21)<br>=63derajat<br><br>CAD + ACD + ADC = 180<br>63+ 63+ ADC =180<br>126 +ADC=180<br>ADC = 54 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pak-endang-meminjam-uang-sebesar-800000-pda-sebuah-bank-dan-929",
+            "question": "1. \u00a0pak endang meminjam uang sebesar 800.000 pda sebuah bank dan akan diangsur tiap bulan sbnyk 5 kli. jka bsr bunga pinjaman 14,4% pertahun,,mka bsr angsuran tiap bulannya adlh....    a. 176.000 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 169.600\r\nb. 172.000 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 165.000\r\n\r\n\r\n2. \u00a0sebuah bank menawarkan modal pinjaman sebsr 1.500.000 yg harus dikembalikan selama 4 bulan. jka bsr angsuran tiap bulan beserta bungany sma dngan 401.250 mka bsr bunga pinjaman pertahun adlh...\r\na. 15%\r\nb. 18%\r\nc. 20%\r\nd. 21%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diket = 14,4% = 5.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 =\u00a0 800.000 = 160.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0 165.000<br><br>2. a. 15%<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jika-harga-1-rim-kertas-hvs-adalah-rp2800000-berapa-rupiah-118",
+            "question": "1.Jika harga 1 rim kertas HVS adalah Rp.28.000,00, berapa rupiah harga 1 lembar kertas HVS?    2.Harga 3 lusin sendok Rp.105.000,00 berapa harga satu buah sendok?\r\n 3.Harga 2 lusin piring Rp.180.000,00 berapa harga 10 buahv piring?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.56<br>Rp. 2.900<br>Rp.150.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. 28.000 :<u> </u>500=56 rupiah<br>2. 105.000 : 36 buah=2.900<br>3. 180.000 : 24 buah=7.500 x 10 buah=75.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambar-di-samping-adalah-segitiga-sama-kaki-def-dengan-dfef-jika-192",
+            "question": "Gambar di samping adalah segitiga sama kaki DEF dengan DF=EF jika besar sudut D = 72 derajat,maka besar sudut F adalah\u00a0",
+            "attachments": [
+                "question-attachments/gambar-di-samping-adalah-segitiga-sama-kaki-def-dengan-dfef-jika-192-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "de=fe<br>def= d+e+f\u00a0 \u00a0 <br> 180= 72+72+ f<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 180-72-72=f<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 36=f<br>jadi besar sudut f = 36 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-empat-suku-pertama-dari-barisan-aritmatika-jika-jumlah-524",
+            "question": "Tentukan empat suku pertama dari barisan aritmatika, jika jumlah 20 suku pertama dan jumlah\u00a018 suku pertama deret yg sesuai berturut-turut adalah 440 dan 360.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] S_{20} = 440[/tex]<br>[tex] S_{18} = 360[/tex]<br>[tex] S_{20}-S_{18}=2b = 440-360[/tex]<br>[tex] 2b = 120[/tex]\u00a0<br>[tex] b = .....[/tex]<br>[tex] S_{18} = 360 = a + 17b[/tex]<br>[tex] a = ...[/tex]<br>empat suku pertama : a,\u00a0a+b,\u00a0a+2b,\u00a0a+3b",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "sebuah tali karet di beri beban 300gram dan di gantung vertikal pada sebuah statif. ternyata karet bertambah panjang 4cm (g=10m/s-2) berapa energi potensial karet tsb...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1,2 joule <br>m.g.h= 0,3 kg X 0,4 m X 10m/s^2 = 1,2 joule<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-kayu-massanya-m-dan-volumenya-v-dicelupkan-ke-dalam-234",
+            "question": "sebuah balok kayu massanya m dan volumenya V dicelupkan ke dalam air yang mempunyai massa jenis 1 gcm-\u00b3. Volume balok yang tampak diatas permukaan air sebesar 20%. Dari data tersebut, dapat ditentukan massa jenis balok kayu adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(100%-20%).1=80%.1=0,8g/cm^-3",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u03c1(kayu)=<span>\u03c1(air)* (v(tercelup)/v(kayu))<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =</span><span>1 gcm-\u00b3 * (80%/100%)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =0,8\u00a0</span>gcm-\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-sifat-termometrik-zat-452",
+            "question": "Apa yang dimaksud sifat termometrik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat dasar suatu zat yang apabila di ubah\" suhunya akan berubah secara teratur\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Termometrik adalah ilmu tentang menukur suhu. Termometrik zat secara sederhana adalah sifat struktur zat berubah ketika ada kenaikan atau penurunan suhu.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tegangan-pada-seutas-kawat-yang-mendukung-sebuah-beban-tidak-berg-567",
+            "question": "Tegangan pada seutas kawat yang mendukung sebuah beban tidak bergantung pada...    a. panjang kawat\r\nb. luas penampang kawat\r\nc. masa beban\r\nd. percepatan gravitasi\r\ne. masa jenis beban",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI<br>Pelajaran : Fisika<br>Kategori : Elastisitas<br>Kata kunci : tegangan kawat,\u00a0<br><br>Pembahasan:<br><br>Berdasarkan hukum melde:<br><br>[tex]v= \\sqrt{F.l/A} [/tex]<br><br>maka :\u00a0<br>F = v\u00b2.A/l atau F = v\u00b2.\u03c1.A<br><br><br>Maka tegangan pada kawat bergantung pada:<br><br>1. Luas penampang (A)<br>2. Massa jenis kawat (\u03c1)<br>3. Panjang kawat (l)<br>4. massa beban (m), pada rumus F = kx, F = m.g<br><br>Jadi jawaban :D (percepatan gravitasi)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-percobaan-dengan-bola-kasti-dan-kelereng-diluncurkan-pada-457",
+            "question": "dalam percobaan dengan bola kasti dan kelereng, diluncurkan pada bidang miring dengan kemiringan kurang lebih 40 derajar dimana percobaan tersebut dilakukan di bidang licin (lantai) dan dirumput, setelah percobaan dilantai ternyata kelereng menempuh jarak lebih jauh dibanding kasti sedangkan saat dirumput bola kasti yang menempuh jarak lebih jauh, mengapa demikian?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena pada saat kelereng meluncur di bidang licin klereng miliki kcepatan\u00a0yng lbih cepat d banding bola kasti sedangkann pada saat di rumput bola kasti memng cepat krena bola di desain mmang untuk rmput. :D<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena\u00a0<br>1. pada bidang licin tekanan kelereng lebih kecil dan luas permukaan kelereng yang licin menyebabkan\u00a0\u00a0gaya gesek yang di timbulkan sedikit namun pada bidang yang kasar tekanan kelereng mengalami gaya gesek yang besar karena ukuranya kecil dan masanya besar sehingga gaya yang bekerja pada kelereeg hanya sedikit jadi tidak dapat menempuh jarak yang jauh<br><br>2. pada bidang yang licin bola memiliki masa yang besar namun luas permukaan bola kasti yang kasar menyebabkan terjadinya gaya gesek yang lebih besar sehingga jarak yang di tempuh tidak begitu jauh.\u00a0namun pada bidang yang kasar gesekan antara rumput dan bola kasti yang terjadi hanya sedikit karena ukuranya yang besar dan massanya yang ringan\u00a0menyebabkan bola kasti dapat melakukan gesekan yang kecil\u00a0dengan rumput\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-kereta-api-dari-ke-keadaan-diam-bergerak-dari-sebuah-s-603",
+            "question": "\u00a01.sebuah kereta api dari ke keadaan diam bergerak dari sebuah stasiun dan selama dari 10 s percepatanya 4m/s2.lalu kereta itu bergerak dg kecepatan konstan selama 30sekon. lalu di perlambat dengan\u00a0 8m/s.sampai berhenti di stasiun berikutnya .berapa jarak total yang di tempuhnya ? \u00a0 2. seorang penerjun berlari dg kecepatan 1,6m/s lalu terjun horizontal dari tebing vertikal dan mencapai air di bawah 3 sekon,berapa tinggi tebing dan seberapa jauh kaki tebih penerjun menyentuh air? \u00a0 3.sebuah peluru di tembakan gengan kecepatan awal 75 m/s dan sudut 30 di atas horizontal pada tempat latihan yang panjang, a,berapa tinggi maksimum yang di capai peluru b. waktu total di udara c. jarak horizontal total yang di tempuh d.kecepatan peluru 1,5 sekon setelah penembakan \u00a0 4.sebuah mobil yg masanya 1 ton meluncur dengan kecepatan tetap 54 m/jam.suatu saat mobil di rem dengn gaya 300 n gerak mobil selama di rem di anggap gerak lurus berubah beraturan,setelah beberapa sekon dan di mana mobil berhenti? \u00a0 5.sebuah benda di gantung pada sebuah kawat yang dapat memikul beban maksimum sebesar 15000 N.jika percepatan gravitasi 10m/s dan massa bendanya 1200 kg,berapa harga maksimum percepatan ke atas yang di berikan pada benda itu ? \u00a0  \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. vo=0, a1= 4m/s\u00b2, t1= 10s,\u00a0 t2= 30 s, -a2=8m/s\u00b2<br>S1= vo.t + 1/2 a. t\u00b2<br>\u00a0\u00a0 = 0 + 1/2. 4. 10\u00b2<br>\u00a0\u00a0 = 200 m<br>V=a.t<br>\u00a0 = 4. 10<br>\u00a0 = 40 m/s<br>S2= v. t2<br>\u00a0\u00a0 = 40. 30<br>\u00a0\u00a0 = 1200 m<br>t3= V/a<br>\u00a0\u00a0 = 40/ 8<br>\u00a0\u00a0 = 5 s<br>S3= V.t - 1/2 a. t\u00b2<br>\u00a0\u00a0\u00a0 = 40. 5 s - 1/2. 8. 5\u00b2<br>\u00a0\u00a0 \u00a0 = 200 - 100<br>\u00a0\u00a0 \u00a0 = 100 m<br>S total = s1 + s2 + s3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 + 1200 + 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1500 m= 1.5 km<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-gaya-pada-suatu-pegas-200n-dengan-luas-penampang-batang-565",
+            "question": "diberikan gaya pada suatu pegas 200N dengan luas penampang batang 50m kuadrat. berapa tegangan yang di hasilkan dari pegas trsebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nPembahasan:</span>\n<br><span>\n\u03c3 = F /A</span>\n<span>\nF <br>= 200 N</span>\n<span>\n<span>A <br>= 50 m2</span></span>\n\n<span>\u03c3\u00a0 <br>= 200 N/ 50 m2 <br></span><span>= 4,0 N/m<span>2</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-seberkas-cahaya-monokromatis-diarahkan-pada-sebuah-kisi-yang-915",
+            "question": "Jika seberkas cahaya monokromatis diarahkan pada sebuah kisi yang mempunyai 10^4 garis/cm, garis terang pertama terjadi pada sudut deviasi 30 derajat\u00a0, maka panjang gelombang cahaya yang dipakai adalah \u2026\u2026\u2026\u2026 \u00c5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 n = 10^4 garis/cm<br>\u00a0sin\u00a0\u03b8 = 30 = 0,5<br>Dit\u00a0\u03bb ?<br>jawab.<br>d =\u00a0[tex] \\frac{1}{n} [/tex]<br><br>sehingga diperoleh rumus<br><br>d sin\u00a0\u03b8 = m .\u00a0\u03bb<br><br>\u03bb\u00a0=\u00a0[tex] \\frac{sin 0 }{n.m} [/tex]\u00a0<br><br>\u03bb =\u00a0[tex] \\frac{sin30}{10^4 . 1} [/tex]<br><br>\u03bb =\u00a0[tex] \\frac{0,5}{10^4}  = [/tex] = 5 x 10^-5 garis/cm = <strong>5 .000 \u00c0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500",
+            "question": "seberkas cahaya jatuh tegak lurus pada kisi yang terdiri dari 5000 goresan tiap cm.sudut devasi orde kedua adalah 30\u22270. panjang gelombang cahaya yang digunakan adalah...(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Panjang gelombang cahaya yang digunakan adalah 5.000 angstrom atau 500 nm.</strong> Hasil perhitungan tersebut diperoleh ketika sebesar cahaya jatuh tegak lurus pada kisi yang terdiri dari 5.000 goresan tiap cm, dengan sudut deviasi orde kedua adalah 30\u00b0.</p><h3>Pembahasan</h3><p><strong>Kisi difraksi </strong>menghasilkan pola interferensi yang tajam berbentuk garis, sehingga dapat dimanfaatkan untuk mengukur panjang gelombang cahaya dengan teliti.</p><p>Kisi difraksi adalah peralatan yang mirip dengan celah ganda Young. Peralatan ini mengandung celah yang lebih banyak atau disebut kisi. Tetapan kisi N adalah tetapan yang menyatakan banyak garis (goresan) tiap satuan panjang, misalnya di soal ini yaitu 5.000 goresan/cm, berarti N = 5.000 goresan/cm. Lebar celah d adalah lebar satu garis atau satu goresan. Dengan demikian, lebar celah adalah kebalikan dari tetapan kisi.</p><p><em><u>Diketahui</u></em></p><p>Garis terang orde kedua atau n = 2</p><p>Sudut deviasi (penyimpangan) \u03b8 = 30\u00b0</p><p>Tetapan kisi N = 5.000 goresan/cm </p><p><em><u>Ditanya</u></em></p><p>Panjang gelombang \u03bb \u00a0</p><p><em><u>Penyelesaian</u></em></p><p>Rumus yang digunakan adalah</p><p>[tex]\\boxed{d~sin~\\theta = n~\\lambda} [/tex]</p><p>Keterangan</p><p>d = lebar celah atau lebar satu garis atau satu goresan, sehingga lebar celah adalah kebalikan dari tetapan kisi N, yaitu [tex]\\boxed{d = \\frac{1}{N} }[/tex], dengan N dalam satuan goresan/cm \u00a0untk soal ini</p><p>\u03b8 = sudut deviasi orde ke-n</p><p>n = orde garis terang (n = 0 \u2192 terang pusat, n = 1 \u2192 garis terang orde ke-2. dan seterusnya)</p><p>\u03bb = panjang gelombang cahaya</p><p><strong>Siapkan lebar celah (d) dalam satuan meter</strong></p><p>[tex]d=\\frac{1}{5.000/cm}[/tex]</p><p>[tex]d=\\frac{1}{\\frac{5.000}{0,01~m}}[/tex]</p><p>[tex]d=\\frac{0,01}{5.000}[/tex]</p><p>[tex]d=\\frac{1}{500.000}[/tex]</p><p>[tex]d=2\\times 10^{-6}~m[/tex]</p><p><strong>Hitung panjang gelombang (\u03bb) dalam meter</strong></p><p>[tex]\\boxed{~\\lambda=\\frac{d~sin~\\theta}{n}~}[/tex]</p><p>[tex]\\lambda=\\frac{2\\times 10^{-6}~sin~30^o}{2}[/tex]</p><p>[tex]\\lambda=1\\times 10^{-6}~0,5[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m[/tex]</p><p>Ingat konversi satuan, [tex]\\boxed{~1~\\AA=10^{-10}~m}[/tex] dan [tex]\\boxed{~1~nm=10^{-9}~m~}[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m=5.000 \\AA=500~nm[/tex]</p><p><strong>Diperoleh panjang gelombang sebesar </strong>[tex]\\boxed{~\\lambda=5.000 \\AA=500~nm~}[/tex]</p><h3>Pelajari lebih lanjut</h3><p>1. Pelajari kasus serupa brainly.co.id/tugas/4799492</p><p>2. Sebuah persoalan menentukan kisi difraksi https://brainly.co.id/tugas/5064394 </p><p>3. Menghitung besarnya panjang gelombang \u00a0brainly.co.id/tugas/11880424</p><p>------------------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0: </strong>XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 :</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : </strong> Gelombang Cahaya</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 : </strong>11.6.10</p><br><p><strong>Kata Kunci :</strong> percobaan, cahaya, jatuh tegak lurus, tetapan, kisi, difraksi, goresan, panjang gelombang, garis, terang, \u00a0orde, kedua, sudut, 30\u00b0, garis, normal, garis tiap cm</p>",
+                    "attachments": [
+                        "answer-attachments/seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-volume-minimum-balok-kayu-yang-masa-jenisnya-850-kgm3-141",
+            "question": "berapakah volume minimum balok kayu yang masa jenisnya 850 kg/m3 agar mampu menahan beban seorang wanita yang massanya 50 kg ketika terapung di air",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :\u00a0\u03c1k =\u00a0850 kg/m^3<br>\u00a0 \u00a0 \u00a0 \u00a0m orang =50 kg<br>dit Vk ?<br>jwb: (m\u00a0orang + mk )\u00a0g =\u00a0\u03c1f.Vf.g<br>(m orang + mk\u00a0)=\u00a0\u03c1f. Vf<br>m orang +\u03c1k.Vk =\u00a0\u03c1f.Vf<br>m\u03bf =\u00a0\u00a0\u03c1f.Vf \u00a0-\u00a0\u03c1k.Vk<br>mo = (\u00a0\u03c1f -\u00a0\u03c1k\u00a0) Vk<br>Vk= mo/(\u00a0\u03c1f -\u00a0\u03c1k\u00a0)<br>\u00a0 = 50/1000-850 =0,33",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

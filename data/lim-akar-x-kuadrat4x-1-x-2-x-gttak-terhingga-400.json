@@ -1,0 +1,140 @@
+{
+    "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-kita-perhatikan-jam-berapa-kali-kah-1-hari-terbentuk-sudut-787",
+            "question": "Jika kita perhatikan jam, berapa kali kah 1 hari terbentuk sudut sudut dibawah ini    a. 90 derajat = ?\r\nb. 180 derajat = ?\r\nc. 30 derajat = ?\r\nd. 120 derajat = ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jam = 360\u02da<br>90\u02da = 360/90\u00a0= 4<br>180\u02da = 360/180 = 2<br>30\u02da = 360/30 = 12<br>120\u02da = 360/120 = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.4<br>b.12<br>c.2<br>d.3<br>terimakasih<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-a1x-2a-0-adalah-p-dan-q-727",
+            "question": "akar-akar persamaan kuadrat x2 + (a+1)x + 2a = 0 adalah p dan q. nilai minimum dari p2 + q2 dicapai untuk a sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p^2+q^2<br>(p+q)^2-2pq<br>(-a-1)^2-2.2a<br>a^2-2a+1=0<br>(a-1)(a-1)<br>a=1 <br>mklumin lw salah yea :D :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-lt-x-lt-90-hitunglah-nilai-cotan-90-973",
+            "question": "Jika sin x = 2\\3 ( 0 &lt; x &lt; 90 ), hitunglah nilai cotan ( 90 - x ).\r\nlampirkan penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin = depan per miring\u00a0<br>sin x = 2 per 3<br><br>samping = akar 5<br><br>cotg = depan per samping<br>cotg = 2 per akar 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "range-untuk-fungsi-f-x-x2-2x-3-untuk-daerah-asal-x-1lt-508",
+            "question": "Range\u00a0 untuk fungsi f (x) =x2-2x-3 untuk daerah asal {x/-1&lt;_ x &lt;_ 4, x E R} adalah.??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "daerah asalnya x= {1, 2, 3, 4} keterangan: R= bilangan asli.<br><br>range { -4, -3, 0, 5}<br><br>caranya daerah asalnya subtitusi ke persamaan f(x) = x^2 - 2x -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "x={-1,0,1,2,3,4}<br>f(x) = x\u00b2-2x-3<br>f(-1) = -1\u00b2-2*-1-3<br>\u00a0\u00a0 \u00a0\u00a0 = 1+2-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 0<br>f(0) = 0\u00b2-2*0-3<br>\u00a0\u00a0 \u00a0\u00a0 = -3<br>f(1) = 1-2-3<br>\u00a0\u00a0 \u00a0 = -4<br>f(2) = 4-4-3<br>\u00a0\u00a0 \u00a0  = -3<br>f(3) = 9-6-3<br>\u00a0\u00a0 \u00a0\u00a0 = 0<br>f(4) = 16-8-3<br>\u00a0\u00a0 \u00a0  = 5<br>range ={-3,-4,0,5}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-yang-akar-akarnya-27-dan-1-adalah-caranya-y-165",
+            "question": "Persamaan kuadrat yang akar akarnya 2/7 dan -1 adalah ? caranya yah guys",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x-2/7)(x+1)=0<br>\u00a0x^{2}+5/7x-2/7 =0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "agak ragu deh....<br><br>x1 = 2/7 \u21d2 (7x - 2) = 0<br>x2 = -1 \u21d2 (x +1) = 0<br>jadi,<br>(7x - 2)(x + 1) = 0<br>7x^{2} +5x-2 = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-deret-aritmatika-dengan-un-adalah-suku-ke-n-ji-683",
+            "question": "diketahui barisan deret aritmatika dengan Un adalah suku ke-n. jika U2 + U15 + U40 = 165 makan U19 =.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan deret aritmatika dengan Un adalah suku ke-n. Jika U2 + U15 + U40 = 165 maka U19 = <strong>55</strong>.</p><p></p><h3><strong>P</strong>embahasan</h3><p><u>Diketahui</u>:</p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = 165</p><p></p><p><u>Ditanya</u>:</p><p>U\u2081\u2089 = .....?</p><p></p><p><u>Jawab</u>:</p><p>Dalam mencari suku ke-n pada deret aritmatika dengan suku pertama a dan beda b berlaku persamaan berikut:</p><h3> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2099 = a + (n - 1) b</h3><h3></h3><p>maka dari soal di atas, suku-suku yang telah diketahui dapat diuraikan sebagai berikut:</p><p>U\u2082 \u21d2 n = 2 \u21d2 U\u2082 = a + (2 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2082 = a + b</p><p>U\u2081\u2085 \u21d2 n = 15 \u21d2 U\u2081\u2085 = a + (15 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2085 = a + 14b</p><p>U\u2084\u2080 \u21d2 n = 40 \u21d2 U\u2084\u2080 = a + (40 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2084\u2080 = a + 39b</p><p></p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = (a + b) + (a + 14b) + (a + 39b)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 165 = 3a + 54b \u00a0</p><p>disederhanakan dengan membagi kedua ruas dengan tiga</p><p>{ 3a + 54b = 165 } : 3</p><p>a + 18b = 55</p><p></p><p>U\u2081\u2089 \u21d2 n = 19 \u21d2 U\u2081\u2089 = a + (19 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2089 = a + 18b</p><p>Sehingga nilai U\u2081\u2089 = 55.</p><p></p><p>Semoga dapat membantu. Selamat belajar!</p><p></p><h3>Pelajari lebih lanjut</h3><p>1. Materi tentang Deret Aritmatika https://brainly.co.id/tugas/9607287</p><p>2. Materi tentang Contoh Soal Deret Aritmatika https://brainly.co.id/tugas/23271525, https://brainly.co.id/tugas/15798077</p><p>----------------------------</p><h3>Detil Jawaban</h3><p>Kelas : IX SMP</p><p>Mapel : Matematika</p><p>Bab : Barisan dan Deret Bilangan</p><p>Kode kategori : 9.2.2\t</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

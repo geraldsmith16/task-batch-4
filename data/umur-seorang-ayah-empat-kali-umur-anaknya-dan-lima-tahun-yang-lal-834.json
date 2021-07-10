@@ -1,0 +1,141 @@
+{
+    "question": "umur seorang ayah empat kali umur anaknya dan lima tahun yang lalu hasil kali umur mereka adalah 175. nyatakan umur ayah sekarang dalam persamaan kuadrat!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "umur ayah : x, umur anak : y<br>x = 4y<br>(x - 5)(y - 5) = 175<br>(4y - 5)(y - 5) = 175<br>4y\u00b2 - 25y + 25 = 175<br>4y\u00b2 - 25 - 150 = 0<br>",
+            "attachments": []
+        },
+        {
+            "answer": "perbandingan umur ayah dan umur anak adalah 1 : 4<br>umur anaknya 10 tahun dan umur ayahnya 40 tahun<br>5 tahun yang lalu umur anaknya 5 tahun dan ayahnya 35 tahun, jika dikalikan mendapatkan hasil 175<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753",
+            "question": "Apa yang dimaksud dengan dua sudut berpenyiku dan dua sudut berpelurus? beri contoh dengan gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dua sudut penyiku, apabila kedua sudut di jumlahkan hasilnya 90 derajat (sudut siku siku)<br>contoh: 30 derajat + 60 derajat<br>dua sudut pelurus, apabila dijumlahkan hasilnya 180 derajat (sudut lurus)<br>contoh: 50 derajat + 130 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut berpenyiku adalah sudut2 yg jika dijumlahkan hasilnya 90\u2070 sedangkat sudut berpelurus adalah sudut2 yg jika dijumlahkan hasilnya 180\u2070.",
+                    "attachments": [
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-1.jpg",
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-suku-dari-deret-berikut-a691215756-b-978",
+            "question": "Tentukan banyak suku dari deret berikut    a.6\u00b19+12+15+.....=756\r\n b.56+51+46+41+.....=-36\r\n c.10+14+18+22+.....=640",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) Sn = n/2(2a +(n-1)b)<br>\u00a0 \u00a0 756=n/2(2.6 + (n-1)3)<br>\u00a0 \u00a0 \u00a0756x2 = n(12+ 3n-3)<br>\u00a0 \u00a0 \u00a01512=12n+3n2-3n<br>\u00a0 \u00a0 \u00a01512=3n2+9n<br>\u00a0 \u00a0 \u00a0 3n2+9n-1512=0<br>\u00a0 \u00a0 \u00a0 n2+3n-504=0<br>\u00a0 \u00a0 \u00a0 (n+24) (n-21)=0<br>\u00a0 \u00a0 \u00a0 \u00a0n+24=0 atau n-21=0<br>\u00a0 \u00a0 \u00a0 \u00a0 n=-24 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n=21(benar karena paositif)<br>b)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0-36=n/2(2.56+(n-1)-5<br>\u00a0 \u00a0-36x2=n(112-5n+5)<br>\u00a0 \u00a0 -72 = n(117-5n)<br>\u00a0 \u00a0 -72 = 117n-5n2<br>\u00a0 \u00a0 5n2-117n-72=0<br>\u00a0 \u00a0 (n-120/5)5(n+3/5)=0<br>\u00a0 \u00a0 \u00a0n-24 =0 atau 5n+3=0<br>\u00a0 \u00a0 \u00a0n=24(benar) \u00a05n=-3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n= -3/5<br>c)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0 640=n/2(2.10+(n-1)4<br>\u00a0 \u00a0 640=n/2(20+4n-4)<br>\u00a0 \u00a0 640=10n+2n2-2n<br>\u00a0 \u00a0 640=2n2+8n<br>\u00a0 \u00a0 2n2+8n-640=0<br>\u00a0 \u00a0 \u00a0n2+4n-320=0<br>\u00a0 \u00a0 (n+20)(n-16)=0<br>\u00a0 \u00a0 \u00a0n+20=0 atau n-16=0<br>\u00a0 \u00a0 \u00a0n=-20 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n=16(benar)<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-urine-yang-dikeluarkan-dari-tubuh-dipengaruhi-oleh-ab-617",
+            "question": "Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh ...    A.banyaknya makanan yang dimakan\r\nB.faktor emosional\r\nC.banyaknya cairan yang diminum\r\nD.jumlah glukosa yang harus dikeluarkan dari darah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas \u00a0 \u00a0 \u00a0 \u00a0 : X SMA<br>Pelajaran \u00a0 : Biologi<br>Kategori \u00a0 \u00a0 : Sistem Ekskresi<br>Kata kunci : jumlah urine, pengaruh<br><br>Pembahasan :<br><br>Faktor yang mempengaruhi jumlah urine yang dikeluarkan dari tubuh :<br><br>1.\u00a0<span>Hormon Antidiuretik (ADH)<br>\u00a0 \u00a0\u00a0</span><span>Jika darah yang akan disaring banyak mengandung air,\u00a0</span>\u00a0<span>maka hormon ADH yang disekresekikan ke dalam ginjal semakin sedikit, penyerapan air akan sedikit pula.<br><br>2.\u00a0</span><span>Hormon insulin<br>\u00a0 \u00a0\u00a0</span>Kadar hormon insulin yang rendah menyebabkan produksi urine meningkat sehingga penderita<span>\u00a0\u00a0</span><span>sering mengeluarkan urine.<br><br>3.\u00a0</span><span>Kondisi psikologis (gejolak emosi dan stress)<br>\u00a0 \u00a0\u00a0</span><span>Gangguan psikologis stress yang berpengaruh terhadap kontraksi dan tekanan pada katup kantung kemih.<br><br>4.\u00a0</span><span>Suhu lingkungan<br>\u00a0 \u00a0\u00a0</span><span>Saat cuaca dingin orang lebih sering untuk ingin mengeluarkan urine.<br><br>5.\u00a0</span><span>Konsumsi garam<br>\u00a0 \u00a0\u00a0</span><span>Kadar garam yang tinggi dalam darah menyebabkan ginjal memproduksi garam mineral yang lebih banyak sehingga produksi urine meningkat.<br><br>6.\u00a0</span><span>Jumlah air yang diminum<br>\u00a0 \u00a0\u00a0</span><span>Banyak minum akan menyebabkan urine yang dikeluarkan lebih banyak dari dalam tubuh.<br><br>7.\u00a0</span><span>Konsumsi alkohol dan kafein<br>\u00a0 \u00a0\u00a0<br><br>Jadi\u00a0</span>Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh \u00a0<span><strong>banyaknya cairan yang diminum (C)</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-dengan-beda-3-ji-672",
+            "question": "tiga buah bilangan membentuk barisan aritmatika dengan beda 3. jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. rasio barisan tersebut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baris aritmatika misal a, a+b, a+2b <br>a, a+3-1,a+2.3<br>a,a+2,a+6 (menjadi baris geometri )<br>[tex] \\frac{a+6}{a+2} = \\frac{a+2}{a} [/tex]<br>a^2+4a+4=a^2+6a<br>2a=4<br>a=2<br>msk kan a=2<br>2,4,8<br>jdi rasionya 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-299",
+            "question": "suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . . Pake cara ? Yang jwab Thanks yah !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/4 , 2/5 , 3/6 , 4/7 , ...<br>U25 ?<br><br>U1=a=1/4<br>U2=a+b=2/5<br><br>cari b<br>b = U2 - U1<br>b = 2/5 - 1/4<br>b = 3/20<br><br>1/4 + 3/20 = 5+3/20 = 8/20 = 2/5<br>nah, jadi ini termasuk deret aritmetika, karna deret aritmetika, maka memakai rumus<br>Un = a + (n-1)b<br>U25 = a + (25-1)b<br>U25 = a + 24b<br>U25 = 1/4 + 24(3/20)<br>U25 = 1/4 + 72/20<br>U25 = 5+72/20<br>U25 = 77/20<br><br><span>CMIIW ^_^<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-interval-0-derajat-kurang-lebih-sama-dengan-x-kurang-lebih-s-956",
+            "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

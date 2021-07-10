@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah lingkaran kelilingnya 22 cm. diameter lingkaran adalah ... cm\u00a0\r\nini rumus nya gimana?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u03c0 x d = 22<br>22/7 x d = 22<br>d = 22 x 7/22<br>d = 7",
+            "attachments": []
+        },
+        {
+            "answer": "Keliling adalah\u00a0phi dikali diameter -&gt; phi. D = keliling<br>Jadi, cara mencari diameter adalah dengan keliling dibagi phi -&gt; D= keliling : phi",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-jumlah-2-bilangan-adalah-3-dan-selisih-kuadrat-bilangan-itu-454",
+            "question": "Jika jumlah 2 bilangan adalah 3 dan selisih kuadrat bilangan itu adalah 6, bilangan apa sajakah itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0  2pangkat 10 dan 1 pangkat -4\u00a0 (2pangkat 10 dan 1 pangkat -4)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+y = 3<br>x=3-y<br><br>(x-y)\u00b2 = 6<br>(3-y-y)\u00b2 = 6<br>(3-2y)\u00b2 = 6<br>3-2y = \u221a6<br>3-\u221a6 = 2y<br>y= (1/2)(3-\u221a6)<br><br>x=3-y<br>x=3 - (1/2)(3-\u221a6)<br>x=3 - 3/2 - \u221a6/2<br>x=6/2 - 3/2 - \u221a6/2<br>x=3/2 - \u221a6/2<br>x=(1/2)(3-\u221a6)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-juring-pada-lingkaran-adalah-123-2-jika-besar-s-179",
+            "question": "diketahui luas juring pada lingkaran adalah 123, 2 , jika besar sudut pusat juring itu 72 derajat , panjang jari-jari lingkaran tersebut adalah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring = sudut/360 \u00d7 \u03c0 r^2<br>123,2 = 72/360 \u00d7 22/7 \u00d7 r^2<br>123,2 = 1/5 \u00d7 22/7 r^2<br>123,2 = 22/35 r^2<br>r^2 = 123,2 \u00d7 35/22<br>r^2 = 196<br>r = \u221a196<br>r = 14<br><br>Jadi jari-jari lingkaran tersebut adalah 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-s101023-r2-u1-161",
+            "question": "Deret geometri. S10=1023 r=2. U1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1023 = a(2^10-1)/1<br>1023 =a (1023)<br>a=1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167",
+            "question": "keliling sebuah belahketupat 100cm dan panjang salah satu diagonalnya 48cm. luas belahketupat tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Keliling sebuah belahketupat 100 cm dan panjang salah satu diagonalnya 48 cm. Luas belahketupat tersebut adalah [tex]\\displaystyle\\boxed{\\sf 336~cm^2} [/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Segi empat</strong> adalah bangun datar yang memiliki empat sisi dan empat sudut. Contoh bangun datar yang dikatakan segi empat, antara lain: persegi, persegi panjang, jajar genjang, belah ketupat, layang-layang, dan trapesium.</p><p>Adapun sifat-sifat <strong>belah ketupat</strong>, antara lain :</p><ul><li>Keempat sisinya sama panjang;</li><li>Sudut-sudut yang berhadapan sama besar;</li><li>Kedua diagonalnya saling tegak lurus dan saling membagi dua sama panjang;</li><li>Memiliki 2 simetri lipat dan 2 simetri putar.</li></ul><p>Untuk menyelesaikan soal ini kita akan menggunakan <strong>rumus</strong> berikut, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Keliling} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf K = 4 \\times s}} [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{Luas} : [/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf L = \\dfrac{1}{2} \\times d_1 \\times d_2}} [/tex]</p><p>dimana :</p><p>\u25cb L = luas belah ketupat</p><p>\u25cb K = keliling belah ketupat</p><p>\u25cb s = panjang sisi belah ketupat</p><p>\u25cb d\u2081 = diagonal belah ketupat</p><p>\u25cb d\u2082 = diagonal belah ketupat </p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>[tex]\\displaystyle\\sf K = 100~cm [/tex]</li><li>[tex]\\displaystyle\\sf d_1 = 48~cm [/tex]</li></ul><p><strong>Ditanya : </strong>Luas (L) = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan panjang sisi belah ketupat (s)</strong></p><p>[tex]\\displaystyle\\sf 4 \\times s = K [/tex]</p><p>[tex]\\displaystyle\\sf 4 \\times s = 100 [/tex]</p><p>[tex]\\displaystyle\\sf s = \\frac{100}{4} [/tex]</p><p>[tex]\\displaystyle\\sf s = 25~cm [/tex]</p><p>diperoleh: s = 25 cm</p><p>\u2756 <strong>Menentukan panjang diagonal salah satunya (d\u2082)</strong></p><p>Perhatikan segitiga siku-siku yang diarsir pada lampiran, kita akan mencari x dengan menggunakan teorema Pythagoras.</p><p>[tex]\\displaystyle\\sf x = \\sqrt{25^2 - 24^2} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{625 - 576} [/tex]</p><p>[tex]\\displaystyle\\sf x = \\sqrt{49} [/tex]</p><p>[tex]\\displaystyle\\sf x = 7~cm [/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\sf d_2 = 2x [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 2 \\times 7 [/tex]</p><p>[tex]\\displaystyle\\sf d_2 = 14~cm [/tex]</p><p>diperoleh: d\u2082 = 14 cm</p><p>\u2756 Sehingga, <strong>luas belah ketupat </strong>tersebut</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times d_1 \\times d_2 [/tex]</p><p>[tex]\\displaystyle\\sf L = \\dfrac{1}{2} \\times 48 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\sf L = 24 \\times 14 [/tex]</p><p>[tex]\\displaystyle\\boxed{\\sf L = 336~cm^2} [/tex]</p><p>\u2234 <strong>Kesimpulan : </strong>Jadi, luas belah ketupat tersebut adalah 336 cm\u00b2.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>segiempat dan segitiga</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Sebuah taman berbentuk persegi panjang berukuran 30 m \u00d7 18 m. Disekeliling taman dipasang tiang lampu dengan jarak antar lampu 6 meter. Jika harga tiap tiang lampu Rp200.000,00 per tiang, maka biaya yang diperlukan seluruhnya adalah <strong><em>brainly.co.id/tugas/5481048</em></strong></li><li>Jika pada jajar genjang ABCD, besar \u2220A = (3x + 2)\u00b0 dan \u2220D = (2x + 18\u00b0) maka nilai x adalah <strong><em>brainly.co.id/tugas/14772998</em></strong></li><li>Diketahui jajaran genjang PQRS dengan \u2220Q = (5x \u2013 4)\u00b0. Jika besar \u2220P = 7/8 \u2220Q, maka nilai x adalah <strong><em>brainly.co.id/tugas/130684</em></strong></li></ul><h3>____________________________</h3><h3>DETAIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 4 - Segiempat dan Segitiga</p><p><strong>Kode :\u00a0</strong>7.2.4</p><p><strong>Kata kunci : </strong>segiempat, belah ketupat, luas, keliling, diagonal, panjang sisi, segitiga siku-siku, teorema pythagoras</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": [
+                        "answer-attachments/keliling-sebuah-belahketupat-100cm-dan-panjang-salah-satu-diagona-167-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-lingkaran-5024-cm2-maka-diameternya-adalah-401",
+            "question": "Jika luas lingkaran 5024 cm2 , maka diameternya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas = 1/4 \u03c0 d\u00b2<br>5024 = 1/4 3.14 d\u00b2<br>5024 x 4 = 3.14 d\u00b2<br>20096 = 3.14 d\u00b2<br>20096 : 3.14 = d\u00b2<br>6400 = d\u00b2<br>d = \u221a6400<br>d = 80 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2x-6-2-x4-cara-penyelesaiannya-gimana-2-438",
+            "question": "1 (2x-6) \u2265 2 (x+4) cara penyelesaiannya gimana ???\r\n2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-6 &gt; 2x + 8\n2x - 2x &gt; 8 + 6\nx &lt; 14",
+                    "attachments": []
+                },
+                {
+                    "answer": "1x-3\u22652/3x+8/3<br>1x-3x\u22658/3 +3<br>3x/3-2/3x\u22658/3+3/3<br>-1/3x\u226511/3<br>x\u226411/3\u00b73<br>x\u226411<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-umur-ibu-3-kali-umur-anaknya-selisih-umur-mereka-adalah-26-ta-465",
+            "question": "1. Umur Ibu 3 kali umur anaknya. Selisih umur mereka adalah 26 tahun. Tentukanlah umur masing-masing!    2. Tulislah kalimat-kalimat berikut dalam bentuk ketidaksamaan!\r\na. 7 lebih dari 5\r\nb. 6 kurang dari 8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. misal umur ibu : x, dan umur anak : y<br>x = 3y....1<br>x - y = 26...2<br><br>1 substitusikan ke 2<br>x - y = 26<br>3y - y = 26<br>2y = 26<br>y = 13<br><br>x = 3y ===&gt; 3.13 = 39<br>jadi umur ibu 39 tahun dan umur anak 13 tahun<br>2. a 7 &gt; 5<br>b. 6 &lt; 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-rapat-setiap-peserta-diminta-berjabat-tangan-satu-kal-548",
+            "question": "Dalam suatu rapat setiap peserta diminta berjabat tangan satu kali dengan peserta lain berapa kalikah jabatan tangan yang terjadi jika peserta yang datang sebanyak .:    a. 5 orang\r\nb 8 orang\u00a0\r\nc. 15 orang\r\nd. 20 orang\u00a0\r\n\r\nPelajaran ini membahas tentang BARISAN DAN DERET BILANGAN\u00a0mOhonn di bantu yah guysss.. :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika <br>Materi: Barisan <br>Kelas: IX SMP <br><br><br>Perhitungan Terlampir",
+                    "attachments": [
+                        "answer-attachments/dalam-suatu-rapat-setiap-peserta-diminta-berjabat-tangan-satu-kal-548-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "harga-3-kodi-pensil-adalah-rp10500000jika-pedagang-menghendaki-420",
+            "question": "harga 3 kodi pensil adalah Rp105.000,00.jika pedagang menghendaki untung Rp6.000,00per lusin,maka harga jual pensil per batang adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 kodi adalah 20<br><br>jadi 105.000 / 60 = 1750<br><br>jika 1 lusin 12<br>maka<br><br>12x1750 = 21.000<br>karena menghendaki keuntungan 6000<br>maka menjadi 27.000<br><br>harga pensil perbatang<br>27.000/12 =Rp 2250<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-nyoman-membeli-sebuah-mesin-cuci-dengan-harga-1750000-dan-d-987",
+            "question": "pak nyoman membeli sebuah mesin cuci dengan harga 1.750.000 dan dikenakan pajak pertambahan nilai sebesar 12%, tetapi mendapat diskon 5% karena membayar dengan tunai. berapakah uang yang harus dibayar oleh pak nyoman",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.750.000 x 12/100<br>= 17.500 x 12<br>=210.000<br>pajak 210.000<br>1.750.000 - 210.000 = 1.540.000<br><br>uang sejumlah 1.540.000 adalah harga mesin cuci<br>diskon 5%<br>1.540.000 x 5/100<br>15.400 x 5<br>77000<br><br>1.540.000 - 77.000 = 1.463.000<br>jadi, uang yang harus dibayar adalah 1.463.000<br><br>#CMIIW",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurutku sih gini, harga mesin cuci itu kan 1.750.000 kena pajak pertambahan 12% terus di diskon 5%.<br>1.750.000*12/100=210.000<br>1.750.000+210.000= 1.960.000 (Soalnya pajak pertambahan kan harus ditambahkan ke harga sebelumnya)<br>1.960.000*5/100=98.000 (ini baru di diskon)<br>Terus 1.960.000-98.000=1.862.000<br>Jadi, harga mesin cuci itu adalah 1.862.000<br>Semoga bermanfaat :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

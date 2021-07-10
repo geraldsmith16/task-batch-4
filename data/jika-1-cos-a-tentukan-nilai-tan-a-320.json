@@ -1,0 +1,126 @@
+{
+    "question": "Jika 1 - cos a =  , tentukan nilai tan a.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]1-cosa =  \\frac{9}{25(1+cosa)}[/tex]<br>kalikan kedua ruas dengan \u00a01 + cos a, didapat<br>[tex]1-cos^{2}a =  \\frac{9}{25}[/tex]<br>[tex]sin^{2}a =  \\frac{9}{25}[/tex]<br>[tex]sina =  \\frac{3}{5}[/tex]<br>[tex]1-cos^{2}a =  \\frac{9}{25}[/tex]<br>[tex]cos^{2}a =1-  \\frac{9}{25}[/tex]<br>[tex]cos^{2}a =  \\frac{16}{25}[/tex]<br>[tex]cosa =  \\frac{4}{5}[/tex]<br>sehingga<br>[tex]tana =  \\frac{sina}{cosa} = \\frac{3/5}{4/5} = \\frac{3}{4} [/tex]<br><br>CMIIW :3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-pedagang-membeli-4-buah-peti-telur-dengan-harga-rp543200-476",
+            "question": "Seorang pedagang membeli 4 buah peti telur dengan harga Rp543.200,00. Setiap peti memiliki bruto 25 kg dan tara 3 % . Jika pedagang menghendaki untung 25 %, maka harga jual telur per kg nya adalah ..    a. Rp4.200,00\r\nb. Rp5.600,00\r\nc. Rp6.790,00\r\nd. Rp7.000,00",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bruto: 25x4=100kg<br>Tara: 3/100 x 100= 3 kg<br>Neto: 100kg-3 kg = 97 kg.<br>Harga pembelian per kg nya: 543.200 : 97= 5600<br>Untung= 25/100 x 5600= 1400<br>Jadi harga jualnya 5600+1400= Rp 7.000,00<br>Kalau ada yang kurang paham bisa ditanyakan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-teorema-faktor-dari-2x-3-adalah-faktor-dari-2x3-748",
+            "question": "\u00a0Tunjukkan\u00a0Teorema faktor dari (2x-3) adalah faktor dari 2x\u00b3 + 5x\u00b2 -\u00a06x -9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor faktornya 2x^3+5x^2-6x+9=0<br>=\u00a0(x+1)(x+3)(2x-3)=0<br><br>jadi 2x-3 benar faktor dari\u00a02x^3+5x^2-6x+9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-invers-dari-fx-3x-7-2x-5-adalah-394",
+            "question": "Fungsi invers dari f(x) = (3x + 7) / (2x - 5) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>y = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>3x + 7 = 2xy - 5y<br>3x - 2xy = -5y - 7<br>x(3 - 2y) = -5y - 7<br>x = [tex] \\frac{-5y - 7}{3 - 2y} [/tex]<br><br>[tex] f^{-1} [/tex](x) = [tex] \\frac{-5x - 7}{3 - 2x} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-contoh-penerapan-matriks-dalam-ilmu-komputerbidang-ilmu-567",
+            "question": "temukan contoh penerapan matriks dalam ilmu komputer,bidang ilmu fisika,kimia,dan teknologi informasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "saya akan menjawab pertanyaan anda!<br>matriks ialah kelompok bilangan yang disusun dalam suatu jajaran berbentuk persegi/ persegi panjang yang terdiri atas baris\" dan kolom kolom<br><br>jadi guna matriks itu banayak\u00a0<br><br>ilmu komputer : matriks sangat berguna untuk microsoft exel\u00a0<br>matematika \u00a0 \u00a0: berguna untuk menggunakan determinan dan invers dalam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0menyelesaikan sistem persamaan linear dua variabel.\u00a0<br>kimia : matriks beguna untuk tabel dterminan pd sebuah unsur utama dan transisi bilangan oksidasi\u00a0<br>fisika : menentukan elemen elektron pd struktur atom :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-contoh-soal-sama-penyelesaian-tentang-koordinat-kart-848",
+            "question": "minta\u00a0contoh\u00a0soal\u00a0sama\u00a0penyelesaian\u00a0tentang\u00a0koordinat\u00a0kartesius\u00a0ke\u00a0kutub\u00a0&amp;\u00a0kutub\u00a0ke\u00a0koordinat\u00a0kartesius",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) untuk koordinat kutub ke koordinat kartesius<br>Jika diketahui koordinat kutub (6\u221a3, 60\u00b0), maka koordinat kartesiusnya adalah.....<br>a. (3,3)<br>b. (3\u221a3, 9)<br>c. (3,\u00a0\u221a3)<br>d. (9, 3\u221a3)<br>e. (3, 3\u221a3)<br><br>Penyelesaian :<br><br>koordinat kutub\u00a0\u21d2 koordinat kartesius<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0(r ,\u00a0\u03b1)\u00a0\u21d2 ( x , y )<br><br>r\u00a0= 6\u221a3\u00a0; \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03b1 = 60\u00b0\u00a0<br>(Karena\u00a0\u03b1 sudut di kuadran I, maka x positif f dan y positif)<br><br>x = r cos\u00a0\u03b1<br>\u21d2 6\u221a3 x cos\u00a060\u00b0<br>\u21d2\u00a06\u221a3 x 1/2<br>\u21d2 3\u221a3<br><br>y = r sin\u00a0\u03b1<br>\u21d2\u00a06\u221a3 x sin 60\u00b0<br>\u21d2\u00a06\u221a3 x 1/2\u00a0\u221a3<br>\u21d2\u00a03\u00a0x 3<br>\u21d2 9<br><br>sehingga koordinat kartesiusnya ialah ( 3\u221a3\u00a0, 9) \u00a0(d)<br><br>2)\u00a0untuk koordinat kartesius ke koordinat\u00a0kutub<br>koordinat kutub titik (-4,4) ialah ...........<br>penyelesaian :<br>(x,y)\u21d2 (r,\u00a0\u03b1)<br><br>x = -4, y=4<br>(karena x negatif dan y positif, maka\u00a0\u03b1 sudut di kuadran II)<br>r =\u00a0[tex] \\sqrt{ x^{2} + y^{2} } [/tex]<br>\u21d2[tex] \\sqrt{ -4^{2} + 4^{2} } [/tex]<br>\u21d2[tex] \\sqrt{32} [/tex]<br>\u21d2[tex]4 \\sqrt{2} [/tex]<br><br>tan\u00a0\u03b1 = x/y<br>\u21d24/\u00a0-\u00a04<br>\u21d2 - 1<br><br>karena\u00a0\u03b1 sudut di kuadran II, maka :\u00a0\u03b1 = (180-45)\u00b0= 135\u00b0<br>maka koordinat kutubnya ialah ( 4\u221a2, 135\u00b0)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(3, 210 derajat) tentukan koordinat cartesiusnya\u00a0<br><span>b koordinat cartesius titik Q adalah (-2 akar 3, 2) tentukan koordinat kutubnya<br><br></span>a) \u03f4=120\u2070, r=3\u00a0<br><span>titik x = r cos \u03f4=&gt;\u00a0</span><br><span>= 3 cos 120 = 3 (-cos (180-60)) note: nilai cos pada kuadran II itu (-)\u00a0</span><br><span>= 3 (-cos 60)\u00a0</span><br><span>= 3 (-1/2)\u00a0</span><br><span>= -3/2\u00a0</span><br><span>titik y = r sin \u03f4=&gt;\u00a0</span><br><span>= 3 sin 120 = 3 sin (180-60) note: nilai sin pada kuadran II (+)\u00a0</span><br><span>= 3 sin 60\u00a0</span><br><span>= 3 1/2 akar 3\u00a0</span><br><span>= 3/2 akar 3\u00a0</span><br><span>jadi koordinat cartesiusnya (-3/2, 3/2 akar 3)\u00a0</span><br><br><span>b) x = -2 akar 3, y = 2\u00a0</span><br><span>r = akar (x^2 + y^2) =&gt;\u00a0</span><br><span>= akar ((-2 akar 3)^2 + 2^2)\u00a0</span><br><span>= akar (12 + 4)\u00a0</span><br><span>= akar 16 = 4\u00a0</span><br><span>\u03f4 = arc tan y/x =&gt;\u00a0</span><br><span>= arc tan 2/-2 akar 3\u00a0</span><br><span>= arc tan - 1/akar 3 = arc tan -1/3 akar 3 note: arc tan 1/akar 3 = 45\u2070, nilai tan (-) pada kuadran II dan IV\u00a0</span><br><span>= arc tan -1/akar 3 = 135\u2070 (kuadran II) note: menentukannya dengan uji titik x dan y\u00a0</span><br><span>koordinat kutubnya = (4, 135\u2070)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-keliling-suatu-jajargenjang-adalah-56cm2buatlah-ukuran-587",
+            "question": "Diketahui keliling suatu jajargenjang adalah 56cm2.Buatlah ukuran jajargenjang tersebut (yang memungkinkan)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(a+b) = 2(12+16)<br>Jadi keliling jajar genjang 56 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terakhir-help-lg-ya-suku-ke-4-dan-ke-9-barisan-aritmatika-ber-518",
+            "question": "terakhir. help lg ya :) suku ke 4 dan ke 9 barisan aritmatika berturut turut adalah 110 dan 150. suku ke 30 dari barisan tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 = a+ (n-1)b<br>110= a+ (4-1)b<br>110=a + 3b<br><br>U9 = a +(n-1)b<br>150=a+(9-1)b<br>150=a+b8<br><br>eliminasi<br>110= a + 3b<br>150=a +\u00a08b<br>___________ -<br>-40=-5b<br>b=8<br><br>110=a+3.8<br>110=a + 24<br>110-24 =a<br>a=86<br><br>U30 = a + (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0=86 + (30-1)8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+29.8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+232<br>\u00a0 \u00a0 \u00a0 \u00a0= 318",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-suatu-segitiga-siku-siku-adalah-48cm-salah-satu-sudut-l-715",
+            "question": "keliling suatu segitiga siku-siku adalah 48cm. salah satu sudut lancipnya 36,8\u00b0. hitunglah panjang sisi-sisi segitiga tersebut ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satu sudut lancip = 36,8\u00b0 <br>\nsudut lancip yg lain  = 90 - 36,8 = 53,2\u00b0 <br>\ngunakan perbandingan sinus,  <br>\nx/sin 36,8 = y/sin53,2 = r/sin90 <br>\nx = rsin36,8 <br>\ny = rsin53,2 <br>\nkeliling = 48 <br>\nrsin36,8 + rsin53,2 + r = 48 <br>\nr = 48/(1+sin36,8+sin53,2) \u2248 20 <br>\ningat perbandingan phytagoras: <br>\n3 : 4 : 5 = 12 : 16 : 20 <br>\njadi panjang sisi-sisi segitiga tersebut adalah 12, 16 dan 20 cm. <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

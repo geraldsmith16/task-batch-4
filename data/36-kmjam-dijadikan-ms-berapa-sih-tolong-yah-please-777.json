@@ -1,0 +1,132 @@
+{
+    "question": "36 km/jam dijadikan m/s berapa sih?....\r\n\r\ntolong yah please",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "36 x \u00a01000<br>---------------- = 10 m/s<br>\u00a0 \u00a03600",
+            "attachments": []
+        },
+        {
+            "answer": "36x10\u00b3 / 3600 = 10 m/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-perbesaran-mikroskop-pada-mata-normal-754",
+            "question": "Cara menghitung perbesaran mikroskop pada mata normal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Pembesaran mikroskop adalah hasil kali pembesaran lensa objektif dan pembesaran lensa okuler, sehingga dirumuskan:<br><br><strong>M = Mob x Mok</strong><br><br>\u2192Pembesaran Mikroskop pada saat mata berakomodasi maksimum<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob ) x (Sn / fok ) + 1</strong><br><br><br>\u2192Pembesaran Mikroskop pada saat mata tidak berakomodasi<br><strong>M = Mob x Mok</strong><br><strong>M = (S&#039;ob / Sob) x (Sn / fok)</strong><br><br>Keterangan:<br><strong>M= Perbesaran total</strong><br><strong>Mob = Perbesaran lensa objektif</strong><br><strong>Mok = Perbesaran lensa okuler</strong><br><strong>S&#039;ob = Jarak bayangan lensa objektif</strong><br><strong>Sob = Jarak benda dari lensa objektif</strong><br><strong>Sn = titik dekat mata (25cm)</strong><br><strong>fok = Fokus lensa okuler</strong><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-dalam-sebuah-tabung-gelas-terdapat-zat-cair-setinggi-10-cm-948",
+            "question": "1. Di dalam sebuah tabung gelas terdapat zat cair setinggi 10 cm. Tekanan air pada dasar tabung adalah 1200 N/m2. Jika g = 10 m/s2. Abaikan tekanan udara. Berapa massa jenis zat cair ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketinggian zat cair (h) = 10 cm = 0,1 meter<br>Tekanan (P) air pada dasar tabung = 1200 N/m2 <br>Percepatan Gravitasi (g) = 10 m/s2<br>\nDitanya :<br>Massa Jenis zat cair ?<br>\nJawab :<br>P =\u00a0 rho . g .h<br>1200N/m\u00b2= rho (10m/s\u00b2) (0,1m)<br>1200N/m\u00b2= rho (1m\u00b2/s\u00b2)<br>rho = 1200 : 1 = 1200 kg/m\u00b3<br>\u00a0Massa Jenis zat cair adalah 1200 kg/m3.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-pejal-berjari-jari-10-cm-dan-bermassa-10-kg-berotasi-508",
+            "question": "Sebuah roda pejal berjari-jari 10 cm dan bermassa 10 kg berotasi dengan kecepatan sudut 10 rad/s.    hitunglah :\r\na. momentum sudut\r\nb. energi kinetik rotasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: r=10 cm,m =10kg, \u03c9=10rad/s<br>dit: L...?<br>JWB:a. L=I.\u03c9<br>I=7[tex] \\frac{x}{y} [/tex]5.M.R\u00b2<br>=7 per 5 . 10. 10\u00b2<br>=7 per 5. 1000<br>=200 kgm<br>jadi L= I.\u03c9<br>= 200.10<br>=2000kgm\u00b2/s<br>b? semoga membantu:)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik : r = 10 cm\u00a0\u21d2 0,01 m \u00a0; \u00a0m = 10 kg \u00a0; \u00a0 I = 10 m/s<br>Peny :<br>a) momentum sudut\u00a0(L)<br><span>I=1/2 mR\u00b2 <br>I=1/2 10\u00a0</span>\u00b7\u00a0<span>0,01 =0,05, maka<br>L= I\u00a0</span>\u00b7\u00a0\u03c9\u00a0<br>= 10\u00a0\u00b7\u00a00,05\u00a0= 0,5\u00a0<span>kg m</span>\u00b2<span>/s</span><br><br>b)\u00a0<span>energi kinetik rotasi<br></span>\u21d2\u00a0<span>EkR = I \u03c92<br></span>\u21d2\u00a0EkR =\u00a010\u00a0\u00b7\u00a0(0,05) 2<br>\u21d2\u00a0EkR = 1 Joule<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-koefisin-restitusi-pada-a-tumbukan-lentingelas-398",
+            "question": "Tuliskan rumus koefisin restitusi pada :     a. tumbukan lenting(elastis) sempurna\r\nb. tumbukan lenting(elastis) sebagian\r\nc. tumbukan lbola dengan lantai",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus koefisien restitusi untuk tumbukan di bidang mendatar adalah <br><br>[tex]e=- \\frac{v&#039;_{2}-v&#039;_{1}}{v_{2}-v_{1}} [/tex] <br><br>(a). Untuk <span>tumbukan lenting (elastis) sempurna<br>\u00a0\u00a0 \u00a0 \u00a0  e = 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga v&#039;\u2082 - v&#039;\u2081 = v\u2081 - v\u2082<br><br>(b). </span><span>tumbukan lenting (elastis) sebagian</span><span><br>\u00a0\u00a0 \u00a0 \u00a0 0 &lt; e&lt; 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga rumus koefisien restitusi di atas akan memiliki nilai sesuai nilai e\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 di soal\u00a0 \u00a0 \u00a0 <br><br>(c). tumbukan bola dengan lantai<br>\u00a0\u00a0 \u00a0 \u00a0 rumus koefisien restitusinya adalah <br>\u00a0\u00a0 \u00a0 \u00a0  [tex]e= \\sqrt{ \\frac{h&#039;}{h} } [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0 dengan h = ketinggian sebelum memantul (mengarah ke bawah)<br>\u00a0\u00a0 \u00a0 \u00a0 dan h&#039; = ketinggian sesudah pantulan</span> <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633",
+            "question": "seutas tali dengan panjang 0,80 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,50 kg dalam suatu lingkaran horizontal. tentukan periode minimum agar benda dapat diayunkan tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab gerak Melingkar\u00a0<br>Kelas: XI SMA IPA\u00a0<br><br><span>Pembahasan:<br><br></span><span>Periode minimum agar benda dapat diayun sehingga tali tidak putus adalah\u00a0<strong>1,98 detik.</strong><br></span><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-membedakan-antara-gelombang-transversal-dengan-gelombang-lon-724",
+            "question": "Yang membedakan antara gelombang transversal dengan gelombang longitudinal adalah...    yang termasuk gelombang transversal adalah,kecuali...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gelombng transversal adalah gelombang yang bergerak terhadap titik acuannya, gelombang longitudinal gelombang yg geraknya tetap pada tirik acuan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-berdiri-di-pinggir-jalan-sebuah-mobil-bergerak-menjau-447",
+            "question": "Seseorang berdiri di pinggir jalan, sebuah mobil bergerak\u00a0menjauhi orang tadi dengan kecepatan 20 m/s sambil\u00a0membunyikan klakson yang berfrekuensi 400 Hz. Jika\u00a0cepat rambat bunyi di\u00a0udara pada saat itu 380 m/s. maka\u00a0frekuensi klakson yang didengar oleh orang tadi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fp = V + Vp/ V + Vs x fs \n     = 380 + 0 / 320 + 20 x400\n     =380/400x 400\n     = 380 Hz",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

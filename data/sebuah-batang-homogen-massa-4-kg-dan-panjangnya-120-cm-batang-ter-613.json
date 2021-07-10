@@ -1,0 +1,139 @@
+{
+    "question": "sebuah batang homogen massa 4 kg dan panjangnya 120 cm batang tersebut diputar dengan sumbu putar terletak pada 40 cm dari salah satu ujungnya hitunglah momen inersia dari batang homogen itu",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gunakan teorema sumbu sejajar,\n\nI = Io + m r\u00b2\n\nI = (1/12)mL\u00b2 + m r\u00b2\n\nI = (1/12)(4)(1.2)\u00b2 + 4 (\u00bd * 1.2 - 0.4)\u00b2\n\nI = 0.64 kg m\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "yang-dipindahkan-gelombang-adalah-391",
+            "question": "Yang dipindahkan gelombang adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yg dipindahkan gelombang adalah ENERGI ,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293",
+            "question": "Dalam sebuah mesin pengangkat mobil hidrolik, jari-jari piston kecil sama dengan 1,20 cm, sedangkan jari-jari piston besar 15,0 cm (massa piston kecil bisa diabaikan, sedangkan massa piston besar 350 kg). Berapakah gaya F yang dibutuhkan untuk menahan mobil bermassa 1720 kg,    a) ketika kedua piston pada ketinggian yang sama\r\n b) ketika permukaan atas kedua piston seperti pada gambar\r\n Zat cair yang digunakan adalah minyak hidrolik dengan massa jenis = 864 kg/m3",
+            "attachments": [
+                "question-attachments/dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a) F\u2081\u00f7A\u2081=F\u2082\u00f7A\u2082 \u00a0 \u00a0F\u2082 merupakan berat mobil+berat piston<br>\u00a0 \u00a01\u00f7([tex] \\pi [/tex].1,2\u00b2) = (3500+17200)\u00f7([tex] \\pi [/tex].15\u00b2)<br>\u00a0 \u00a01\u00f74,5216\u00a0=\u00a020700\u00f7706,5<br>\u00a0 \u00a01 Pa = 132,48 Pa\u00a0merupakan perbandingan P\u2081 = P\u2082<br>\u00a0 \u00a0F\u2082\u00f7A\u2082 =\u00a020700\u00f7706,5 = 29,3 Pa<br>\u00a0 \u00a01 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)\u00a0= 132,48 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)<br>\u00a0 \u00a00,22 Pa= 29,3 Pa<br>\u00a0 \u00a0F\u2081 = P\u2081 \u00d7\u00a0A\u2081 = 0,22\u00a0\u00d7\u00a04,5216 = 0,99 N diberikan kepada F\u2081 bila ketinggian \u00a0 \u00a0 \u00a0\u00a0Piston1\u00a0dan Piston2 sama<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-perenang-ingin-menyeberangi-sungai-yang-sangat-lebar-ia-224",
+            "question": "Seorang perenang ingin menyeberangi sungai yang sangat lebar. Ia berenang dengan kecepatan20 km/jam ke arah selatan. Jika arus sungai memiliki kecepatan 10 km/jam ke barat. Hitunglah\u00a0resultan kecepatan perenang tersebut dan ke mana arahnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 km/jam - 10 km/jam = 10 km/jam ke arah selatan <br>karena kecepatan yg paling besar ke arah selatan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-dengan-ringkas-apa-itu-sinar-x-tolong-dengan-kali-736",
+            "question": "Tolong jelaskan dengan ringkas apa itu Sinar X \r\ntolong dengan kalimat anda sendiri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sinar-X atau X-Ray yaitu salah satu daripada sinaran Elektromagnet. yang dimana mempunyai gelombang yang pendek berukuran 10-7 hingga 10-9.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sinar X adalah sinar yang berbentuk X bagian dari gelombang elektromagnetik bisanya disebut sinar rontgen<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796",
+            "question": "bila sebuah benda dicelupkan ke dalam air, maka 1/3 bagiannya akan muncul di permukaan air. jika benda docelupkan ke dalam suatu larutan yang massa jenisnya 8/9 g/cm3, maka bagian yang akan muncul di permukaan larutan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori Soal :\nFisika \u2013 Mekanika Fluida<span><br>\nKelas : 2 SMA/XI SMA<br>\nPembahasan :</span></p>\n\n<p>Baik, saya\nakan mencoba membantu menjawab. Jawaban terlampir dalam file berikut :</p><p><br></p>",
+                    "attachments": [
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-1.png",
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-500kg-digantungkan-pada-kawat-baja-panjangn-440",
+            "question": "Sebuah benda bermassa 500kg digantungkan pada kawat baja panjangnya 3m ...",
+            "attachments": [
+                "question-attachments/sebuah-benda-bermassa-500kg-digantungkan-pada-kawat-baja-panjangn-440-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><h2>ELASTISTAS BAHAN</h2><h2></h2><p><strong>DEFINISI ELASTISITAS</strong></p><p><em><strong>Elastisitas</strong></em> adalah sifat dari benda dimana benda akan mengalami perubahan bentuk ketika diberi gaya dan akan kembali kebentuknya semula ketika gayanya dihilangkan. </p><p>Berdasarkan sifat ini, benda dibedakan menjadi : </p><br><p><em><strong>a. Benda Elastis</strong></em> yaitu : benda yang bentuknya kembali seperti semula ketika gaya yang diberikan dihilangkan.</p><p><em><strong>b. Benda Plastis</strong></em> yaitu : benda yang tidak kembali ke bentuk semula ketika gaya yang diberikan dihilangkan. </p><br><h2>BESARAN - BESARAN DASAR ELASTISITAS</h2><br><h2>A. TEGANGAN (Stress)</h2><p>Jika sebuah kawat yang memiliki <strong>luas penampang A</strong> ditarik dengan <strong>gaya F</strong>, pada kawat akan timbul stress yang besarnya.</p><h2>\u03c3 = F / A </h2><br><h2>B. REGANGAN (Strain)</h2><p>Sebuah kawat mempunyai <em><strong>panjang mula-mula </strong></em>sebesar<em><strong> L</strong></em>. Setelah ditarik dengan <em><strong>gaya F</strong></em>, kawat <em><strong>bertambah panjang</strong></em> sebesar <strong><em>\u0394L</em></strong>, kawat tersebut memiliki regangan (strain) yang besarnya :</p><h2>e = \u0394L / L \u00a0</h2><br><h2>C. MODULUS ELASTISITAS (Modulus Young)</h2><p>Rasio atau perbandingan antara stress dan strain dinamakan Modulus elastis, yang besarnya :</p><h2>\u03c3 = E.e</h2><p>atau </p><h2>E = \u03c3 / e </h2><p>atau </p><h2>E = (F.L) / (A.\u0394L)</h2><br><p>Dimana :</p><p>E = Modulus Elastisitas (Modulus Young)</p><p>F = Gaya</p><p>L = panjang kawat awal</p><p>A = luas penampang </p><p>\u0394L = pertambahan panjang kawat</p><br><h2>SOAL</h2><p><em>Sebuah benda bermassa 500 kg digantungkan pada kawat baja panjangnya 3 m dan luas penampangnya 0,15 cm\u00b2. Jika modulus Young untuk baja adalah 2,0 x 10\u00b9\u00b9 N/m\u00b2. pertambahan panjang kawat adalah ...</em></p><p><em>A. 0,47 cm</em></p><p><em>B. 0,48 cm</em></p><p><em>C. 0,49 cm</em></p><p><em>D. 0,50 cm</em></p><p><em>E. 0,51 cm</em></p><br><p><strong>PENYELESAIAN </strong></p><p><strong>Diketahui :</strong></p><p>massa benda, m = 500 kg </p><p>berat benda sebagai gaya tarik ke kawat, F = w = m.g = 500. 10 = 5000 N</p><p>panjang kawat awal, L = 3 m</p><p>luas penampang kawat, A = 0,15 cm\u00b2 = 0,15 x 10\u207b\u2074 m\u00b2</p><p>modulus young kawat, E = 2,0 x 10\u00b9\u00b9 N/m\u00b2</p><p><strong>Tanya :</strong></p><p>pertambahan panjang kawat, \u0394L = __?</p><p><strong>Jawab :</strong></p><p><u><strong>Step 1</strong></u></p><p>Cari Tegangan (stress) kawat, \u03c3 = __?</p><p>\u03c3 = F/A</p><p>\u03c3 = 5000 / 0,15 x 10\u207b\u2074</p><p>\u03c3 = (1/3) x 10\u2079 N/m\u00b2</p><br><p><strong><u>Step 2</u></strong></p><p>Cari Regangan (strain), e = __?</p><p>Gunakan rumus :</p><p>\u03c3 = E.e</p><p>(1/3) x 10\u2079 = 2,0 x 10\u00b9\u00b9 . e</p><p>e = (1/6) x 10\u207b\u00b2 </p><br><p><strong><u>Step 3</u></strong></p><p>Cari pertambahan panjang, \u0394L = __?</p><p>Gunakan rumus :</p><p>e = \u0394L / L</p><p>maka : </p><p>\u0394L = L.e</p><p>\u0394L = 3 x (1/6) x 10\u207b\u00b2</p><p>\u0394L = 0,5 x 10\u207b\u00b2 meter</p><p>\u0394L = 0,50 cm</p><br><h2>ATAU CARA LAIN</h2><h2></h2><h2>E = (F.L) / (A.\u0394L)</h2><p>atau</p><h2>\u0394L = (F.L) / (A.E)</h2><br><p>\u21d2 \u0394L = (5000 x 3) / (0,15 x 10\u207b\u2074 x 2,0 x 10\u00b9\u00b9)</p><p>\u21d2 \u0394L = 0,5 x 10\u207b\u00b2 meter</p><p>\u21d2 \u0394L = 0,50 cm</p><h2></h2><h2>KESIMPULAN</h2><p>Jadi besar pertambahan panjang kawatnya adalah <strong>0,50 cm</strong></p><p>JAWABAN : D</p><br><p>=====================================================</p><p>Silakan simak soal tentang :</p><p><strong>Menghitung tegangan (stress) kawat</strong></p><p>https://brainly.co.id/tugas/2330409</p><p>=========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : FISIKA</strong></p><p><strong>Kategori : Elastisitas</strong></p><p><strong>Kata Kunci : Tegangan, kawat, Modulus Elastisitas, Gaya Tegangan kawat, Panjang dan pertambahan panjang akwat</strong></p><p><strong>Kode : 11.6.2 [Kelas 11 SMA Fisika Bab 2 - Elastisitas dan Hukum Hoole]</strong></p><br><br>",
+                    "attachments": [
+                        "answer-attachments/sebuah-benda-bermassa-500kg-digantungkan-pada-kawat-baja-panjangn-440-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kalor-yang-diperlukan-untuk-mengubah-200-gram-es-pada-su-140",
+            "question": "Tentukan kalor yang diperlukan untuk mengubah 200 gram es pada suhu -5 derajat celcius menjadi air pada suhu 0 derajat celcius.....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor jenis es =2100j/kg\u00b0C\n\ndelta temperatur=0-(-5)=5\n\n200g=0,2kg\u00d75\u00d72100=2100joule=2,1kJ",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik. m=200 g=0,2 kg<br>\u00a0\u00a0 \u00a0\u00a0 \u0394T=0-(-5)<br>\u00a0\u00a0 \u00a0\u00a0 C=2100J/kg<br>dit. Q<br>Q=m.c.\u0394t<br>\u00a0 =0,2 x 2100 x 5<br>\u00a0 =420 x 5<br>\u00a0 =2100 J<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-penampang-piston-i-sama-dengan-5-kali-piston-ii-j-742",
+            "question": "Diketahui luas penampang piston I sama dengan 5 kali piston II. Jika pada piston I diberi beban 4Kg, berapa beban yang harus diberikan pada pisto II agar sistem dalam keadaan seimbang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Penerapan hukum Pascal yaitu pada pengungkit hidrolik. Rumus pada hukum Pascal yaitu F\u2081/A\u2081 = F\u2082/A\u2082. </p><br><h3>Pembahasan</h3><p>Berdasarkan soal diatas diketahui bahwa:</p><ul><li>luas penampang piston I sama dengan 5 kali piston II -&gt; A\u2081 = 5, A\u2082 = 1</li></ul><ul><li>Jika pada piston I diberi beban 4Kg -&gt; m = 4 kg</li></ul><p>Adapun yang ditanyakan pada soal adalah menentukan gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang (F\u2082).</p><p>Untuk menyelesaikan soal diatas pertama - tama kita mencari gaya beban pada penampang I terlebih dahulu dengan cara sebagai berikut:</p><p>F\u2081= m \u00d7 g</p><p>F\u2081= 4 \u00d7 10</p><p>F\u2081 = 40 N</p><p>Nah, setelah diketahui gaya beban penampang piston I, maka langkah yang digunakan untuk mencari gaya beban pada penampang piston II yaitu sebagai berikut:</p><p>F\u2081/A\u2081 = F\u2082/A\u2082</p><p>40/5 \u00a0= F\u2082/1</p><p>40 \u00d7 1 = F\u2082 \u00d7 5</p><p>40 = F\u2082 \u00d7 5</p><p>F\u2082 = 40/5</p><p>F\u2082 = 8 N</p><p>Dengan demikian dapat disimpulkan bahwa besarnya gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang adalah <strong>8 N.</strong></p><br><h3>Pelajari lebih lanjut</h3><p>1. gaya minimum pada penampang kecil: https://brainly.co.id/tugas/15635353</p><p>2. gaya untuk mengangkat mobil: https://brainly.co.id/tugas/15761778</p><p>3. gaya untuk mengangkat beban: https://brainly.co.id/tugas/15814409</p><br><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> fluida</p><p><strong>Kode:</strong> 8.6.3</p><br><p><strong>Kata kunci:</strong> Hukum pascal, gaya tekan dan luas penampang</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-bermassa-3-kg-dan-berjarijari-20-cm-menggelinding-di-atas-bi-984",
+            "question": "Roda bermassa 3 kg dan berjarijari 20 cm menggelinding di atas bidang miring yang memiliki sudut kemiringan 30 derajat. Berapakah percepatan dan percepatan sudut roda tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = g sin 0<br>a = 10 . sin 30<br>a = 5 m/s<br><br>\u03b1 = a/r = 5/0,2 = 25 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

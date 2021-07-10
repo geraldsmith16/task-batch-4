@@ -1,0 +1,139 @@
+{
+    "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-kegunaan-sin-cos-dan-tan-dalam-matematika-dan-dalam-kehidupan-728",
+            "question": "Apa kegunaan sin cos dan tan dalam matematika dan dalam kehidupan sehari hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n    Ada banyak manfaat belajar Trigonometri. <br><br>\nManfaat trigoneometri utk kehidupan, antara lain: <br>\n1. utk menghitung sudut serang (angle of attack) yg paling optimal dari \nsuatu peluncur senjata, agar mampu melontarkan projektil sejauh mungkin,\n <br>\n2. menentukan berapa gradient tertinggi dari suatu tanjakan di jalan \numum di pegunungan, agar semua kendaraan (terutama sedan, dgn panjang \nsumbu badan yg tinggi, tetapi, ketinggian as roda rendah), dapat \nmelewatinya dgn selamat, <br>\n3. utk menghitung berapa \"lift force\" suatu sayap profil pesawat, dgn \nkecepatan tertentu, yg tidak boleh dilewati. Bila nilai ini dilewati, \nmaka pesawat akan mengalami stall (jatuh karena tidak memiliki daya \nangkat), khususnya perhitungan ini diperlukan pada pesawat pemburu. <br>\n4. pada olah gerak teknis kapal selam di bawah air, dgn mengetahui sudut\n hidroplane depan dan belakang, menginterpolarisasikannya dgn kecepatan \nkapal, kita lalu dapat memperkirakan, berapa kita harus mengisi \ncompensating tank, agar kapal welltrimm pada kecepatan tersebut. <br>\n5. pada pengukuran ketinggian/kontur tanah, dgn mengetahui jarak tiang \npengukur yg satu terhadap yg lain, dan beda ketinggian antara dua tempat\n tiang pengukur, maka kita akan dapat mengetahui, berapa gradien \nkenaikan tanah yg kita ukur. <br>\n6. contoh sederhana dalam kejadian sehari-hari, saat kamu menaiki tangga\n tentunya kamu tidak ingin membuat sudut bidang miringnya terlalu besar \nkarena tangga akan terlalu mendongak, atau sudutnya terlalu kecil karena\n daya jangkaunya hanya rendah.  </span>\n    <span><br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. mengukur tinggi pohon atau gedung atau menara <br>\n2. menentukan posisi kapal atau perahu dengan bantuan jurusan tiga angka <br>\n3. mengukur luas segitiga atau bangun segiempat  <br>\n4. menghitung luas segi banyak <br>\n5. digunakan dalam ilmu fisika dan teknik <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-rusuk-6cm-jarak-titik-a-938",
+            "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753",
+            "question": "Apa yang dimaksud dengan dua sudut berpenyiku dan dua sudut berpelurus? beri contoh dengan gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dua sudut penyiku, apabila kedua sudut di jumlahkan hasilnya 90 derajat (sudut siku siku)<br>contoh: 30 derajat + 60 derajat<br>dua sudut pelurus, apabila dijumlahkan hasilnya 180 derajat (sudut lurus)<br>contoh: 50 derajat + 130 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut berpenyiku adalah sudut2 yg jika dijumlahkan hasilnya 90\u2070 sedangkat sudut berpelurus adalah sudut2 yg jika dijumlahkan hasilnya 180\u2070.",
+                    "attachments": [
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-1.jpg",
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-perusahaan-memproduksi-x-unit-barang-dengan-biaya-4x2-8x-540",
+            "question": "Suatu perusahaan memproduksi x unit barang    dengan biaya ( 4x^2-8x+24) dalam ribu rupiah untuk tiap unit \r\n jika barang tersebut terjual habis dengan harga 40.000 tiap unit keuntungan maksimum nya yang diperoleh perusahaan tersebut adalah...\r\n mohon bantuannya ya..\r\n buatin caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suatu perusahaan memproduksi x unit barang dengan biaya (4x^2 \u2013 8x + 24) dalam ribu rupiah untuk tiap unit</strong>. Jika barang tersebut terjual habis dengan harga Rp40.000,00 tiap unit maka <strong>keuntungan maksimumnya yang diperoleh perusahaan tersebut </strong>adalah Rp32.000,00. Hasil tersebut diperoleh dengan mencari nilai stasioner. Nilai stasioner diperoleh jika f\u2019(x) = 0. Titik stasioner ada 3 jenis yaitu\n</p><ul><li>Titik balik maksimum diperoleh jika f\u201d(x\u2081) &lt; 0\n</li><li>Titik balik minimum diperoleh jika f\u201d(x\u2081) &gt; 0\n</li><li>Titik belok diperoleh jika f\u201d(x\u2081) = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Biaya per unit = (4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>maka\n</p><p><strong>Biaya untuk memproduksi x unit\n</strong></p><p>B(x) = x(4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>B(x) = (4x\u00b3 \u2013 8x\u00b2 + 24x) dalam ribu rupiah\n</p><p></p><p>Harga jual per unit = Rp40.000,00 = 40 ribu rupiah\n</p><p>maka\n</p><ul><li>harga jual untuk x unit = 40x ribu rupiah\n</li></ul><p></p><p>Sehingga<strong> keuntungan yang diperoleh perusahaan</strong> adalah\n</p><p>U = harga jual \u2013 biaya produsi\n</p><p>U = 40x \u2013 (4x\u00b3 \u2013 8x\u00b2 + 24x)\n</p><p>U = 40x \u2013 4x\u00b3 + 8x\u00b2 \u2013 24x\n</p><p>U = \u20134x\u00b3 + 8x\u00b2 + 16x\n</p><p>U\u2019 = \u201312x\u00b2 + 16x + 16\n</p><p></p><p><strong>Agar diperoleh keuntungan maksimum, maka U\u2019 = 0\n</strong></p><p>\u201312x\u00b2 + 16x + 16 = 0\n</p><p>\u20134(3x\u00b2 \u2013 4x \u2013 4) = 0\n</p><p>\u20134(x \u2013 2)(3x + 2) = 0\n</p><p>(x \u2013 2) = 0 atau (3x + 2) = 0\n</p><p> \u00a0 \u00a0 \u00a0 x = 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03x = \u20132\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = \u00a0[tex]-\\frac{2}{3}[/tex]\n</p><p>karena <strong>jumlah produksi tidak mungkin bernilai negatif</strong>, maka kita pilih <strong>x = 2\n</strong></p><p></p><p>Jadi <strong>keuntungan maksimum yang diperoleh perusahaan tersebut</strong> adalah\n</p><p>U = (\u20134x\u00b3 + 8x\u00b2 + 16x) ribu rupiah\n</p><p>U = (\u20134(2)\u00b3 + 8(2)\u00b2 + 16(2)) ribu rupiah\n</p><p>U = (\u20134(8) + 8(4) + 32) ribu rupiah\n</p><p>U = (\u201332 + 32 + 32) ribu rupiah\n</p><p>U = 32 ribu rupiah\n</p><p><strong>U = Rp32.000,00\n</strong></p><p></p><h3>Pelajari lebih lanjut\n</h3><p></p><p>Contoh soal lain tentang nilai stasioner\n</p><ul><li>Laba maksimum: brainly.co.id/tugas/10878909\n</li><li>Penjualan maksimum: brainly.co.id/tugas/13787566\n</li><li>Biaya minimum: brainly.co.id/tugas/252367\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 11\n</p><p><strong>Mapel</strong> : Matematika \u00a0\n</p><p><strong>Kategori</strong> : Turunan Fungsi Aljabar\n</p><p><strong>Kode</strong> : 11.2.9\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-dari-lim-h-gt0-fxh-fx-h-a-fx-4-381",
+            "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

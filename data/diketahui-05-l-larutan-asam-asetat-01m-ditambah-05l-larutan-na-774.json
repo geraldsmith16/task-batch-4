@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui 0,5 L larutan asam asetat 0,1M ditambah 0,5L larutan natrium asetat 0,1M. (Ka=1,8x10-5) . Tentukan : a. Ph larutan tersebut setelah dicampur b.berapa ph larutan jika ditambah 5ml asam klorida 0,1M?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "asam asetat (CH3COOH)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br>natrium asetat (CH3COONa)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br><br>(CH3COOH, as lemah) ---&gt;\u00a0 CH3COO-\u00a0 \u00a0 +\u00a0 \u00a0  H+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br>CH3COONa\u00a0 ----&gt; (CH3COO-, basa konjugasi)+\u00a0 \u00a0 Na+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br><br>a. pH larutan<br>dari soal didapatkan bahwa larutan merupakan larutan penyangga asam.<br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,05 / 0,05)<br>H+ = 1,8 x 10^-5<br><br>pH = 5 - log 1,8 = 4,74<br><br>b. ditambah asam 5 ml (0,005 Liter) HCl 0,1 M<br>mol HCl = 0,005 x 0,1 = 0,0005 mol<br><br>karena adanya penambahan asam, maka asam akan bereaksi dengan garam asam lemah dan menghasilkan asam lemah, sehingga konsentrasi asam lemah bertambah dan konsentrasi garam asam lemah berkurang.<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3COONa\u00a0  +\u00a0 \u00a0 HCl\u00a0  -----&gt;\u00a0 \u00a0 CH3COOH\u00a0 \u00a0 +\u00a0 \u00a0 NaCl (abaikan NaCl)<br>M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,05<br>R\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005<br>S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,045\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,055<br><br>maka <br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,055 / 0,045)<br>H+ = 2,196 x 10^-5<br><br>pH = 5 - log 2,196 = 4,65<br><br><br>semoga membantu :)<br>beri label terbaik jika jawaban saya terbaik :)<br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tuliskan-reaksi-redoks-yang-terjadi-pada-baterai-dan-aki-serta-t-761",
+            "question": "Tuliskan reaksi redoks yang terjadi pada baterai dan aki, serta tentukan pengoksidasi dan pereduksinya!    tlng ya kakak kakak mksh sebelumnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baterai Nikel Kadmium<br>Baterai nikel-kadmium merupakan jenis baterai yang dapat diisi ulang seperti aki,baterai HP, dll. Anoda yang digunakan adalah kadmium, katodanya adalah nikel danelektrolitnya adalah KOH.<br>\u00a0Reaksi yang terjadi:\u00a0anoda : Cd + 2 OH-\u2192Cd(OH)2+ 2e<br>katoda : NiO(OH) + H2O\u2192Ni(OH)2+ OH-<br>Potensial sel yang dihasilkan sebesar 1,4 volt.5.\u00a0\u00a0\u00a0<br>\u00a0<br>Baterai alkali<br>Baterai alkali hampir sama dengan bateri karbon-seng. Anoda dan katodanya samadengan baterai karbon-seng, seng sebagai anoda dan MnO2 sebagai katoda.Perbedaannya terletak pada jenis elektrolit yang digunakan. Elektrolit pada bateraialkali adalah KOH atau NaOH. <br>Reaksi yang terjadi adalah: \u00a0\u00a0anoda: Zn + 2 OH-\u2192ZnO + H2O + 2e<br>katoda: 2MnO2+ H2O + 2e-\u2192Mn2O3+ 2OH-<br><br>Potensial sel yang dihasilkan baterai alkali 1,54 volt. Arus dan tegangan padabaterai alkali lebih stabil dibanding baterai karbon-seng.6.\u00a0\u00a0\u00a0<br>\u00a0<br>Baterai perak oksida<br>Bentuk baterai ini kecil seperti kancing baju biasa digunakan untuk baterai arloji,kalkulator, dan alat elektronik lainnya. Anoda yang digunakan adalah seng,katodanya adalah perak oksida dan elektrolitnya adalah KOH. <br>Reaksi yang terjadi:\u00a0anoda : Zn\u2192Zn2++ 2 e-<br>katoda : Ag2O + H2O + 2e\u21922Ag + 2 OH-<br><br>Potensial sel yang dihasilkan sebesar 1,5 volt.7.\u00a0\u00a0\u00a0 <br><br>AKI<br>Jenis baterai yang sering digunakan pada mobil adalah baterai 12 volt timbal-asam\u00a0yang biasa dinamakan Aki. Baterai ini memiliki enam sel 2 volt yang dihubungkanseri. Logam timbal dioksidasi menjadi ion Pb2+dan melepaskan duaelektron di anoda. Pb dalam timbal (IV) oksida mendapatkan dua elektron danmembentuk ion Pb2+ di katoda. Ion Pb2+bercampur dengan ion SO42- dari asamsulfat membentuk timbal (II) sulfat pada tiap-tiap elektroda. Jadi reaksi yang terjadiketika baterai timbal-asam digunakan menghasilkan timbal sulfat pada keduaelektroda.PbO2+ Pb + 2H2SO4\u21922PbSO4+ 2H2O<br>Reaksi yang terjadi selama penggunaan baterai timbal-asam bersifat spontan dantidak memerlukan input energi. Reaksi sebaliknya, mengisi ulang baterai, tidakspontan karena membutuhkan input listrik dari mobil. Arus masuk ke baterai danmenyediakan energi bagi reaksi di mana timbal sulfat dan air diubah menjaditimbal(IV) oksida, logam timbal dan asam sulfat.2PbSO4+ 2H2O\u2192PbO2+ Pb + 2H2SO48.\u00a0\u00a0\u00a0 <br><br>Baterai karbon-seng<br>Kalau anda memasukkan dua atau lebih baterai dalam senter, artinya anda\u00a0menghubungkannya secara seri. Baterai harus diletakkan secara benar sehinggamemungkinkan elektron mengalir melalui kedua sel. Baterai yang relatif murah iniadalah sel galvani karbon-seng, dan terdapat beberapa jenis, termasuk standarddan alkaline. Jenis ini sering juga disebut sel kering karena tidak terdapat larutanelektrolit, yang menggantikannya adalah pasta semi padat.Pasta mangan(IV) oksida (MnO2) berfungsi sebagai katoda. Amonium klorida(NH4Cl) dan seng klorida (ZnCl2) berfungsi sebagai elektrolit. Seng pada lapisanluar berfungsi sebagai anoda.Reaksi yang terjadi :anoda : Zn\u2192Zn2++ 2 e-<br>katoda : 2MnO2+ H2O + 2e-\u2192Mn2O3+ 2OH-<br>Dengan menambahkan kedua setengah reaksi akan membentuk reaksi redoksutama yang terjadi dalam sel kering karbon-seng.Zn + 2MnO2+ H2O\u2192Zn2++ Mn2O3+ 2OH-<span>Baterai ini menghasilkan potensial sel sebesar 1,5 volt.\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Reaksi redoks pada Baterai (sel Leclanche)<span><br><br><br><br>Zn\u00a0(s)\u00a0+ 2NH4+(aq)\u00a0+ 2MnO2(S)\u00a0\u2192 Zn2+(aq)\u00a0+ Mn2O3(s)\u00a0+ 2NH3(aq)\u00a0+ H2O(l)<br></span><br>5.\u00a0\u00a0\u00a0 Baterai alkali<br><br>Baterai alkali hampir sama dengan bateri karbon-seng. Anoda dan katodanya samadengan baterai karbon-seng, seng sebagai anoda dan MnO2 sebagai katoda.Perbedaannya terletak pada jenis elektrolit yang digunakan. Elektrolit pada bateraialkali adalah KOH atau NaOH. Reaksi yang terjadi adalah:<br><br>anoda: Zn + 2 OH-\u2192ZnO + H2O + 2e<br><br>katoda: 2MnO2+ H2O + 2e-\u2192Mn2O3+ 2OH-<br><br><span>Potensial sel yang dihasilkan baterai alkali 1,54 volt. Arus dan tegangan padabaterai alkali lebih stabil dibanding baterai karbon-seng.<br></span><br>7.\u00a0\u00a0\u00a0 AKI<br>Jenis baterai yang sering digunakan pada mobil adalah baterai 12 volt timbal-asamyang biasa dinamakan Aki. Baterai ini memiliki enam sel 2 volt yang dihubungkanseri. Logam timbal dioksidasi menjadi ion Pb2+<br><span>dan melepaskan duaelektron di anoda. Pb dalam timbal (IV) oksida mendapatkan dua elektron danmembentuk ion Pb2+ di katoda. Ion Pb2+bercampur dengan ion SO42- dari asamsulfat membentuk timbal (II) sulfat pada tiap-tiap elektroda. Jadi reaksi yang terjadiketika baterai timbal-asam digunakan menghasilkan timbal sulfat pada keduaelektroda<br></span><br>Reaksi Redoks pada Sel Aki<span><br>Pb(s)\u00a0+ PbO2(aq)\u00a0+\u00a0</span><span>2HSO4-2(aq)\u00a0+2H+(aq)\u00a0\u2192 2PbSO4(S)\u00a0+ 2H2O<span>(l)<br></span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-gas-dapat-dibuat-dari-salah-satu-alkana-melalui-reaksi-beri-577",
+            "question": "Suatu gas dapat dibuat dari salah satu alkana melalui reaksi berikut.    C3H8(g)+5O2(g)---&gt;4H2O(g)+3CO2(g)\r\n Nama senyawa pereaksi yang digunakan dan hasil reaksi yang dihasilkan adalah. . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Suatu gas dapat dibuat dari salah satu alkana melalui reaksi berikut.</p><p>C3H8 (g) + 5 O2(g) \u2192 4H2O (g) + 3 CO2(g)</p><p>Nama senyawa pereaksi yang digunakan <strong>gas propana (C3H8) dan gas oksigen (O2)</strong></p><p>Hasil reaksi yang dihasilkan adalah<strong> uap air (H2O) dan gas karbon dioksida (CO2)</strong></p><p><u><strong>Pembahasan</strong></u>:</p><p><strong>Persamaan reaksi </strong>menunjukkan zat yang bereaksi (menjadi pereaks) dalam reaksi kimia dan menghasilkan produk atau hasil reaksi.</p><p><strong>Pereaksi </strong>ditulis di kiri sebelum tanda panah reaksi. Sementara <strong>hasil reaksi </strong>ditulis di kanan setelah tanda panah.</p><p>Pada persamaan reaksi terdapat <strong>angka koefisien reaksi</strong>. Koefisien ini menunjukkan perbandingan (proporsi) antara zat-zat yang terlibat dalam sebuah reaksi kimia. Koefisien pada reaksi ini ditentukan dengan menyamakan jumlah partikel pada pereaksi (di bagian kiri persamaan reaksi) dengan jumlah partikel pada hasil atau produk reaksi (di bagian kanan persamaan reaksi). </p><p>Pada samping zat pereaksi dan zat hasil reaksi, sering dicantumkan notasi yang menunjukkan fase atau bentuk zat, yaitu:</p><ul><li><strong>(g)</strong>: gas</li><li><strong>(s):</strong> solid atau pada</li><li><strong>(l):</strong> liquid atau cair</li><li><strong>(aq): </strong>aqueous atau terlarut</li></ul><p>Dalam soal ini semua pereaksi dan hasil reaksi adalah dalam bentuk gas (g).</p><p><em>Pelajari lebih lanjut koefisien reaksi yang tepat untuk reaksi AlCl3 + H2O -&gt; Al (OH)3 + HCL di: https://brainly.co.id/tugas/6245851</em></p><p><em>Pelajari lebih lanjut persamaan dari reaksi pembakaran sempurna gas butana di: https://brainly.co.id/tugas/23727888</em></p><p><em>Pelajari lebih lanjut persamaan reaksi. logam besi direaksikan dengan larutan asam sulfat menghasilkan larutan besi (II) sulfat dan gas hidrogen di: https://brainly.co.id/tugas/1912636</em></p><p><strong>------------------------------------------------------------------------------</strong></p><p><strong>Detail Jawaban:</strong></p><p><strong>Kode: \u00a010.7.7</strong></p><p><strong>Kelas: X</strong></p><p><strong>Mata Pelajaran: Kimia</strong></p><p><strong>Materi: Bab 7 - Tata Nama Senyawa dan Persamaan Reaksi</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pengertian-dari-senyawa-ion-273",
+            "question": "Apa pengertian dari senyawa ion",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Senyawa ion </strong>adalah senyawa dengan ikatan ion, yaitu ikatan antara dua atom di mana satu atom melepas elektron sementara atom lain menerima elektron.</p><p>Contohnya adalah garam dapur (NaCl)</p><p><u><strong>Pembahasan</strong></u>:</p><p>Senyawa dapat berupa <strong>senyawa ion </strong>dan <strong>senyawa kovalen</strong>, tergantung dari jenis ikatan antara atom penyusunnya.</p><p><strong>Senyawa ion </strong>memiliki ikatan ion antara atomya. Ikatan ion adalah ikatan di mana satu atom melepaskan elektron yang kemudian diterima oleh atom lain.</p><p><strong>Ikatan ion </strong>terjadi antara unsur yang membentuk ion positif (kation) dan unsur yang membentuk ion negatif (anion). Atom yang membentuk ion positif adalah atom unsur logam, sedangkan atom yang membentuk ion negatif adalah atom unsur nonlogam</p><p>Contoh senyawa ion adalah <strong>garam dapur (NaCl, natrium klorida). </strong>Senyawa ini terbentuk dari ion positif Na+ yang bereaksi dengan ion negatif Cl-. Garam dapur sebagai senyawa ion memiliki titik leleh tinggi, 801 \u00b0C, dan berbentuk padatan pada suhu ruang.</p><p><strong>Senyawa kovalen </strong>memiliki ikatan kovalen dalam strukturnya, Ikatan kovalen terbentuk ketika atom-atom non logam, bergabung dan bersama-sama dengan berbagi elektron. Senyawa kovalen tidak memiliki elektron bebas dan tidak ada ion sehingga mereka tidak senyawa kovalen tidak dapat menghantarkan arus listrik.</p><p>Senyawa dengan <strong>ikatan kovalen </strong>biasanya berbentuk gas atau cairan dengan titik lebur dan titik didih yang rendah.</p><p>Contoh ikatan kovalen adalah <strong>gas metana atau CH4</strong>, dimana atom karbon berbagi elektron dengan 4 atom hidrogen, dan gas ammonia atau NH3, dimana atom nitorgen berbagi elektron dengan 3 atom hidrogen. \u00a0</p><p><em>Pelajari lebih lanjut bagaimana terjadinya ikatan kovalen di: brainly.co.id/tugas/1542193</em></p><p><em>Pelajari lebih lanjut ikatan kimia yang terdapat pada molekul HCl di: brainly.co.id/tugas/13507987</em></p><p><em>Pelajari lebih lanjut contoh ikatan kovelen di: brainly.co.id/tugas/10882010 </em></p><p><strong>--------------------------------------------------------------------------- </strong></p><p><strong>Detail Jawaban \u00a0 \u00a0 \u00a0 </strong></p><p><strong>Kode: \u00a010.7.4 </strong></p><p><strong>Kelas: X \u00a0 \u00a0 </strong></p><p><strong>Mata Pelajaran: Kimia \u00a0 \u00a0 \u00a0 \u00a0 </strong></p><p><strong>Materi: Bab 4 - Ikatan Kimia </strong></p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-kimia-kupri-sulfat-pentahidrat-adalah-a-cuso4h2o-140",
+            "question": "Rumus kimia kupri sulfat pentahidrat adalah . . . .    A. CuSO4.H2O\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 D. 5 CuSO4.5 H2O\r\n\r\n B. CuSO4.(H2O)5\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 E. (CuSO4)5.H2O\r\n\r\n C. CuSO4.5 H2O",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin jawabannya C. CuSO4. 5H2O<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-dan-kegunaan-senyawa-karbon-871",
+            "question": "Sifat dan kegunaan senyawa karbon",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mudah bereaksi..<br><br>kegunaan nya dalam pembuatan batre, pensil juga bisa, dll.. tx..<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karbon memiliki banyak kegunaan. misalnya,\u00a0<br>- sebagai dekorasi (berlian), cat, serta tinta printer<br>- bentuk karbon lain seperti grafit digunakan untuk cawan lebur suhu tinggi, sel kering , pensil dan sebagai pelumas.<br>- senyawa karbon juga memiliki banyak kegunaan, misalnya, karbon dioksida digunakan dalam minuman karbonatasi,dalam alat pemadam kebakaran, dan sebagai es kering.<br><br>sifat fisik dalam kimia karbon tergantung pada struktur kristalnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849",
+            "question": "Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.    a. Perkirakan pH awal larutan HCl\r\nb. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?\r\nc. Berapakah kira-kira pH pada titik ekivalen?\r\nd. Gambarkan (sketsa) kurva titrasinya.\r\ne. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.<br>a. Perkirakan pH awal larutan HCl<br>b. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?<br>c. Berapakah kira-kira pH pada titik ekivalen?<br>d. Gambarkan (sketsa) kurva titrasinya.<br>e. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.</span><br><br>maaf saya copy paste soal kamu, supaya dapat mudah membaca soal :)<br>a. pH awal HCl (asam kuat)<br>[H+] = Ma x Va ................. Ma = molaritas asam, Va = valensi asam ( Va HCl = 1, liha jumlah atom H-nya saja)<br>maka<br>H+ = 0,1 x 1 = 0,1<br>pH = - log H+ = - log 0,1 = 1<br><br>b. secara teori NH3 yang diperlukan untuk mencapai titk ekivalen<br>Ma x Va x valensi = Mb x Vb x valensi<br>0,1 x 20 x 1 = 0,1 x Vb x 1<br>2/0,1 = Vb<br>Vb = 20 mL<br><br>c.titik ekivalen adalah titik dimana asam dan basa habis bereaksi, berdasarkan data b, maka dapat ditentukan pH larutan (dengan menentukan pH pada titik ekivalen berarti kita sudah masuk dalam BAB hidrolisis garam)<br>mol HCl = 20 x 0,1 = 2 mmol<br>mol NH3 = 20 x 0,1 = 2 mmol<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>\u00a0 \u00a0 \u00a0\u00a0 HCl\u00a0  +\u00a0 \u00a0  NH3\u00a0  -----&gt;\u00a0 \u00a0 NH4Cl<br>M\u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>R \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>S \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br><br>Molaritas garam NH4Cl = mol / voltotal = 2/40 = 0,05<br>diandaikan Kb NH3 = 10^-5<br>maka<br>H+ = akar (Kw/Kb x Mgaram)<br>H+ = akar (10^-14/10^-5 x 0,05)<br>H+ = akar ( 0,5 x 10^-12)<br>= 7,071 x 100^-7<br>pH = 6,15<br><br>jadi pH pada saat titik ekivalen mendekati 7 atau sekitar 6,15<br><br>d.sketsa kurva titrasinya saya upload gan :)<br>e. indikator yang cocok metil merah, perubahannya dari tidak berwarna menjadi merah (bukan pp lho ya, ini beda lagi)<br>",
+                    "attachments": [
+                        "answer-attachments/sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849-1.gif"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-dengan-bilangan-oksidasi-reaksi-berikut-termasuk-redok-347",
+            "question": "Tunjukkan dengan bilangan oksidasi, reaksi berikut termasuk redoks atau bukan. bila redoks sebutkan oksidator, reduktor, hasil oksidasi, dan hasil reduksinya!    a) KMnO4\u00a0+ H2SO4\u00a0+ H20 --&gt; MnSO4\u00a0+ K2SO4\u00a0+ H2O\u00a0+ O2 (belum setara) bantu yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reduktor: KMnO4\u00a0<br>oksidator : H2SO4\u00a0<br>h.oksidasi : MnSO4<br>hasil reduksi: MnSO4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-ionisasi-dari-nahco3-caco3-kno3-k2co3na3po4-nh4cl-k2-947",
+            "question": "Reaksi ionisasi dari NaHCO3, CaCO3, KNO3, K2CO3,Na3PO4, NH4Cl, k2CO3, CaF2, CuSO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaHCO\u2083\u00a0\u2192 Na\u207a + HCO\u2083\u207b<br><br>CaCO\u2083\u00a0\u2192 Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br><br>KNO\u2083\u00a0\u2192 K\u207a + NO\u2083\u207b<br><br>K\u2082CO\u2083\u00a0\u2192 2K\u207a + CO\u2083\u00b2\u207b<br><br>Na\u2083PO\u2084\u00a0\u2192 3Na\u207a + PO\u2084\u00b3\u207b<br><br>NH\u2084Cl\u00a0\u2192 NH\u2084\u207a + Cl\u207b<br><br>CaF\u2082\u00a0\u2192 Ca\u00b2\u207a + 2F\u207b<br><br>CuSO\u2084\u00a0<span>\u2192 Cu</span>\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                },
+                {
+                    "answer": "NaHCO\u2083 --&gt; Na\u207a + HCO\u2083\u207b<br>CaCO\u2083 --&gt; Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br>KNO\u2083 --&gt; K\u207a + NO\u2083\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>Na\u2083PO\u2084 --&gt; 3Na\u207a + PO\u2084\u00b3\u207b<br>NH\u2084Cl --&gt; NH\u2084\u207a + Cl\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>CaF\u2082 --&gt; Ca\u00b2\u207a + 2F\u207b<br>CuSO\u2084 --&gt; Cu\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-volume-larutan-kalsium-klorida-02m-yang-diperlukan-unt-981",
+            "question": "hitunglah volume larutan kalsium klorida 0.2M yang diperlukan untuk mengendapkan ion fosfatyang terdapat dalam 200mL larutan natrium fosfat 0.1M.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake perbandingan mol dan volume<br>V.larutan kalsium/V. natrium fosfat = M.kalsium/ M.fosfat<br>V.larutan kalsium/200 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0.2 / 0.1<br>V. larutan kalsium = 200x0.2/0.1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=400ml<br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kelompokanlah-larutan-berikut-ini-kedalam-elektrolit-dan-nonelekt-863",
+            "question": "kelompokanlah larutan berikut ini kedalam elektrolit dan nonelektrolit: a. larutan gula b. asam sulfat encer c. lelehan timbel bromida d. larutan belerang dalam karbon disulfida e. larutan natrium klorida f. kalium klorida padat g. etil alkohol h. larutan natrium hidroksida i. bensin j. tembaga sulfat k. asam karbonat l. air kapur m. natrium karbonat n. timbel nitrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. larutan gula (Non elektrolit)<br>b. asam sulfat encer\n(elektrolit)<br>c. lelehan timbel bromida\n(non elektrolit)<br>d. larutan belerang dalam karbon disulfida\n(saya tidak begitu yakin, non elektrolit)<br>e. larutan natrium klorida\n(elektrolit)<br>f. kalium klorida padat\n(non elektrolit)<br>g. etil alkohol\n(non elektrolit)<br>h. larutan natrium hidroksida (elektrolit)\n<br>i. bensin\n(non elektrolit)<br>j. tembaga sulfat\n(elektrolit)<br>k. asam karbonat\n(elektrolit)<br>l. air kapur\n(elektrolit)<br>m. natrium karbonat\n(elektrolit)<br><span>n. timbel nitrat</span></span> (elektrolit)<br><br><br>semoga bisa membantu :)<br>jika terjadi kesalahan mohon untukkoreksinya :)<br>beri label terbaik ya, 25% poin akan dikembalikan :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

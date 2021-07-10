@@ -1,0 +1,138 @@
+{
+    "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-peta-dengan-skala-1-200000-jarak-kota-r-dan-s-pada-peta-573",
+            "question": "Pada peta dengan skala 1 : 200,000, jarak kota R dan S pada peta adalah 5 cm. Berapakah jarak yang sebenarnya antara kedua peta tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumusnya ini : JP = JS : S<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1000000cm = 10 kilometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dipotong-menjadi-5-bagian-dan-masing-masing-masing-po-706",
+            "question": "Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?</p><p><strong>Barisan geometri</strong> adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.\n</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p>Deret geometri adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.\n</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui : </p><p>Banyak potongan tali (n) = 5</p><p>panjang tali terpendek (a) = 4 cm</p><p>Panjang tali terpanjang (Un) = 324 cm</p><p>Ditanya :</p><p>Panjang tali mula-mula (Sn) ?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio </strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2075\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2074</p><p> \u00a0 r\u2074 = [tex]\\frac{324}{4}[/tex]</p><p> \u00a0 r\u2074 = 81</p><p> \u00a0 r\u2074 = 3\u2074 </p><p> \u00a0 r = 3</p><p></p><ul><li><strong>Menentukan panjang tali mula-mula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2085 = [tex]\\frac{4 (3^{5} - 1)}{3 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{4 (243 - 1)}{2}[/tex]</p><p> \u00a0 \u00a0 = 2 \u00d7 242</p><p> \u00a0 \u00a0 = 484 cm</p><p></p><p>Jadi panjang tali mula-mula adalah 484 cm atau 4,84 m</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri :</h3><ol><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Panjang kertas semula \u2192 brainly.co.id/tugas/10758102</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang tali mula-mula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-dua-sudut-yang-berkomplemen-adalah-474",
+            "question": "Besar dua sudut yang berkomplemen adalah ..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 kalo ngakkk salahhhh dehhh...",
+                    "attachments": []
+                },
+                {
+                    "answer": "audut komplemen adalah dua buah sudut lancip yg besarnya 90derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-nilai-trigonometri-berikut-sin-90-745",
+            "question": "Hitung nilai trigonometri berikut sin(-90)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= sin (-90)<br>= - (sin 90)<br>= - 1<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak ada jawaban dan caranya untuk mencari sin (-90)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-limit-berikut-1-lim-x3-x3-3x22x-6-x-359",
+            "question": "Hitunglah nilai limit berikut :    1). lim (x\u21d23) X\u00b3-3X\u00b2+2X-6: X+4\r\n2). lim (X\u21d20) X\u00b3-5X+5: X\u00b2-2X+3\r\nc). lim (X\u21d2-1) 2X+1: X\u00b2-3X+4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) lim x-&gt; 3 \u00a0 (x^3 - 3x^2 + 2x - 6) / (x + 4)<br>harus ada yang dihilangkan (malas ketikknya :3, sorry )<br><br>2) lim x-&gt;0 \u00a0 \u00a0(x^3 - 5x + 5) / (x^2 - 2x + 3)<br>lim x-&gt;0 \u00a0 \u00a05/3<br><br>3) lim x-&gt;-1 \u00a0 (2x+1) / (x^2 - 3x + 4)<br>lim x-&gt;-1 \u00a0 (-1) / (8)<br>hasil -&gt; -1/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-px3-14x217x-60-dengan-x13-tentukan-x1x2x2-523",
+            "question": "Akar persamaan px3-14x2+17x-6=0 dengan x1=3 tentukan x1.x2.x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "px\u00b3-14x\u00b2 +17x-6 = 0<br><br>x1 = 3<br><br>p(3)\u00b3 - 14.3\u00b2 + 17.3 - 6 = 0<br>27p - 126 + 51 - 6 = 0<br>27p - 81 = 0<br>27p = 81<br>p = 3<br><br>3x\u00b3-14x\u00b2 +17x-6 = 0<br>x1.x2.x3 = -d/a = -(-6)/3 = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pencerminan-titik-32-terhadap-garis-x7-adalah-377",
+            "question": "Hasil pencerminan titik (3,2) terhadap garis x=7 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk y akan tetap sedangkan untuk x akan bergeser\u00a0<br><br>x1 = 3\u00a0<br><br>jarak 3 ke 7 adalah 4\u00a0<br>sehingga bila dicerminkan menjadi\u00a0<br>(7 +4, y)<br>atau (11,2)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

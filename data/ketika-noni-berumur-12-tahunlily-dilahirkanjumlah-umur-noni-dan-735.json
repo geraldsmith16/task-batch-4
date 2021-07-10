@@ -1,0 +1,144 @@
+{
+    "question": "Ketika noni berumur 12 tahun,lily dilahirkan.jumlah umur noni dan lily sekaranng adalah 27 tahun.berapa umur noni sekarang?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "jumlah umur - umur noni =&gt; 27 - 12 = 15<br><br>15 : 2 = 7,5<br><br>maka ;<br>umur noni = 12 + 7,5 = 19,5<br>umur lily = 0 + 7,5 = 7,5",
+            "attachments": []
+        },
+        {
+            "answer": "x+y = 27<br>x-y = 12<br>\u00a0 \u00a02y= 15<br>\u00a0 \u00a0 \u00a0<strong>y = 7,5</strong><br><br>x+y =27<br>x + 7,5 =27<br><strong>x = 19,5</strong><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ubahlah-suhu-kelvin-berikut-ini-ke-suhu-celcius-a110-k-b22-k-933",
+            "question": "Ubahlah suhu kelvin berikut ini ke suhu celcius !\r\n a.110 K b.22 K c.402 K d.323 K",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: VIII</strong><br><strong>Pelajaran\u00a0 \u00a0: IPA</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Skala Suhu</strong><br><strong>Kata Kunci : konversi, skala, suhu, temperatur, Celcius, Fahrenheit, Kelvin</strong><br><br>Jawaban<br>(a). 110 K = 110 - 273\u00a0\u21d2 110 K = -163\u00b0C<br>(b). 22 K = 22 - 273\u00a0\u21d2 22 K = - 251\u00b0C<br>(c). 402 K = 402 - 273\u00a0\u21d2 402 K = 129\u00b0C<br>(d). 323 K = 323 - 273\u00a0\u21d2 232 K = 50\u00b0C\u00a0<br><br>Pembahasan<br><br>Perbandingan skala Celcius, Reamur, dan Fahrenheit adalah\u00a0<br>C : R : F = 5 : 4 : 9\u00a0<br><br>Berikut adalah rumus-rumus yang digunakan untuk konversi skala temperatur<br><br><strong>(1). Antara Celcius dan Reamur</strong><br>Misalkan suhu dalam Celcius adalah C dan suhu dalam Reamur adalah R<br>[tex] \\frac{C}{R}= \\frac{5}{4} [/tex]<br><br><strong>(2). Antara Celcius dan Fahrenheit</strong><br>Misalkan suhu dalam Celcius adalah C dan suhu dalam Fahrenheit adalah F<br>[tex] \\frac{C}{F-32}= \\frac{5}{9}   [/tex]<br>Atau, jika diketahui suhu dalam Fahrenheit dan ditanya suhu dalam Celcius, maka<br>[tex]C= \\frac{5}{9} (F-32)[/tex]<br>Jika diketahui suhu dalam Celcius dan ditanya suhu dalam Fahrenheit, maka<br>[tex]F= \\frac{9}{5}C + 32 [/tex]<br><br><strong>(3). Antara Reamur dan Fahrenheit</strong><br>Misalkan suhu dalam Reamur adalah R dan suhu dalam Fahrenheit adalah F<br>[tex] \\frac{R}{F-32}= \\frac{4}{9} [/tex]<br>Atau, jika diketahui suhu dalam Fahrenheit dan ditanya suhu dalam Reamur, maka<br>[tex]R= \\frac{4}{9} (F-32)[/tex]<br>Jika diketahui suhu dalam Reamur dan ditanya suhu dalam Fahrenheit, maka<br>[tex]F= \\frac{9}{4}R + 32 [/tex]<br><br><strong>(4). Antara Celcius dan Kelvin</strong><br>Khusus untuk skala Kelvin hanya terhubung dengan Celcius. Misalkan suhu dalam Celcius adalah C dan suhu dalam Kelvin adalah K.<br>[tex]K = C + 273 [/tex]<br>Atau,<br>[tex]C = K - 273 [/tex]<br>Inilah yang digunakan untuk menjawab soal yang diminta.<br><br>Apabila suhu dalam Kelvin akan diubah menjadi Reamur atau Fahrenheit, maka harus dikonversikan terlebih dahulu menjadi Celcius, dan begitu pula sebaliknya.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "frekuensi-harapan-munculnya-mata-dadu-kelipatan-dua-yang-dilempar-774",
+            "question": "Frekuensi harapan munculnya mata dadu kelipatan dua yang dilempar 480 kali adalah..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "peluang : {2,4,6} = 3/6 = 1/2<br>frekuensi harapan = peluang x banyak percobaan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang 2,4,6 = 3<br>frekuensi harapan = peluang x banyak percobaan<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-satelit-mengorbit-sejauh-900-km-di-atas-permukaan-bumi-pa-803",
+            "question": "Sebuah satelit mengorbit sejauh 900 km di atas permukaan bumi. panjang jari-jari bumi 6.400 km dan orbitnya dianggap lingkaran.    hitunglah:\r\na.panjang jari2 orbitnya\r\nb. jarak yang ditempuh satelit dalam satu kali orbit.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas: 8<br>Mapel: Matematika<br>Kategori: Ligkaran<br>Kata kunci: keliling lingkaran<br>Kode: 8.2.6 (Kelas 8 Matematika Bab 6-Lingkaran)<br><br><span>Sebuah satelit mengorbit sejauh 900 km di atas permukaan bumi. panjang jari-jari bumi 6.400 km dan orbitnya dianggap lingkaran.\u00a0<br>hitunglah:<br>a.panjang jari-jari orbitnya<br>b. jarak yang ditempuh satelit dalam satu kali orbit.<br><br>Pembahasan:<br>ketinggian satelit = 900 km<br>panjang jari-jari bumi = 6400 km<br>(orbitnya dianggap lingkaran)<br><br>a. panjang jari-jari orbit = panjang jari-jari bumi + ketinggian satelit<br>= 6.400 km + 900 km<br>= 7.300 km<br><br>Jadi, panjang jari-jari orbitnya adalah 7.300 km<br><br>b.\u00a0</span>Rumus keliling lingkaran:<span>\\boxed {K=2\\pi r}\u00a0</span>jarak yang ditempuh satelit dalam satu kali orbit\u00a0= 2\u00a0\u00d7 3,14\u00a0\u00d7 7.300 km\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 45.844 km<br><br>Jadi, jarak yang ditempuh satelit dalam satu kali orbit adalah 45.844 km<br><br>Soal lainnya tentang panjang lintasan yang ditempuh satelit :<br>https://brainly.co.id/tugas/14122794<br><br>Semangat belajar!<br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/sebuah-satelit-mengorbit-sejauh-900-km-di-atas-permukaan-bumi-pa-803-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pak-sofyan-akan-membeli-sebuah-rumah-melalui-bank-yang-menawarkan-203",
+            "question": "Pak sofyan akan membeli sebuah rumah melalui bank yang menawarkan kridit pemilihan rumah ( KPR ) . harga rumah yang akan dibeli Rp. 80.000.000 . pak sofyan memberi uang muka Rp.20.000.000,- dan kekurangannya diangsur selama 10 tahun , jika bank memberikan bunga pinjaman 10% per tahun , tentukan besar angsuran setiap bulan.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80.000.000-20.000.000= 40.000.000 yg harus di angsur selama 10 thn<br>10 thn = 120 bulan<br>1 bulan membayar= 40.000.000 : 120=333.333 (tanpa bunga)<br>110/100*3.333.333= 36.666.667 : 100= 366.667<br>jadi yg harus di bayar tiap bulan sebesar Rp. 366.667<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "uraikan-dari-yang-terbesar-2-pangkat-5555-5-pangkat-2222-3-pang-351",
+            "question": "Uraikan dari yang terbesar 2 pangkat 5555, 5 pangkat 2222, 3 pangkat 3333",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 pangkat 5555 = 2 pangkat 5 (1111)<br>5 pangkat 2222 = 5 pangkat 2 (1111)<br>3 pangkat 3333 = 3 pangkat 3 (1111)<br>jadi urutan dari yang terbesar <br>2 pangkat 5555<br>3 pangkat 3333<br>5 pangkat 2222<br>^^<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 pangkat 5555 = (2^5)^1111 = 32^1111<br>5 pangkat 2222 = (5^2)^1111 = 25^1111<br>3 pangkat 3333 = (3^3)^1111 = 27^1111<br>\u00a0jadi urutan dari yg terbesar adalah<br><br>2 pangkat 5555, 3 pangkat 3333, 5 pangkat 2222<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ida-menabung-uang-di-bank-sebesar-rp200000000-dengan-suku-bung-758",
+            "question": "Ida menabung uang di bank sebesar Rp2.000.000,00 dengan suku bunga tunggal sebesar 15% per tahun. Tentukan besar bunga yang diperoleh Ida pada:    a. akhir tahun pertama\r\n b. akhir tahun kedua\r\n c. akhir tahun ketiga\r\n d. akhir tahun keempat\r\n\r\n Mohon bantuan dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15% \u00d7 Rp 2.000.000,- = Rp 300.000<br>a. akhir tahun 1 = Rp 300.000<br>b. akhir tahun 2 = Rp 600.000<br>c. akhir tahun 3 = Rp 900.000<br>d. akhir tahun 4 = Rp 1.200.000<br>semoga membantu:)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.15% x 2.000.000.00=<u> 300.000,00</u> pada akhir tahun pertama.<br>b.30% x 2.000.000.00=<u> 600.000,00</u> pada akhir tahun kedua<br>c.45% x 2.000.000,00=<u> 900.000,00</u> pada akhir tahun ketiga<br>d.60% x 2.000.000,00=<u> 1.200.000,00</u> pada akhir tahun keempat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-sisi-miring-25-cmjika-salah-s-132",
+            "question": "sebuah segitiga siku-siku memiliki sisi miring 25 cm.jika salah satu sisi siku-sikunya 7 cm,maka sisi siku-siku yang lain nya adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sisi yang lain =\u00a0\u221a25\u00b2 - 7\u00b2 =\u00a0\u221a625-49 =\u00a0\u221a576 = 24cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "(25 x 25) - (7 x 7)= 625 - 49= <span>\u221a</span>576 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-1-3-7-15-adalah-323",
+            "question": "Rumus suku ke-n dari barisan 1, 3, 7, 15 .....\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong></strong>dik : a = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 b =\u00a0U2-U1 = 3-1=2<br>Un = a+(n-1)b<br>\u00a0 \u00a0 \u00a0=1+(n-1)2<br>\u00a0 \u00a0 \u00a0=1+2n-2<br>\u00a0 \u00a0 \u00a0= 2n+1-2<br>\u00a0 \u00a0 \u00a0= <strong>2n-1<br>rumusnya yg di bold ya..</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-kelereng-marisi-dari-kelereng-marisa-35-butir-perbanding-527",
+            "question": "selisih kelereng marisi dari kelereng marisa 35 butir. perbandingan banyak kelereng mereka 4 : 3. berapa banyak kelereng marisa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perbandingan = 4 : 3\n<br>\nSelisih = 4 - 3 = 1\n<br>\nMarisi = 4/1 x 35 = 140\n<br><span>Marisa = 3/1 x\n35 = 105</span>\n<br>\nJadi, kelereng Marisa\nada 105\n\n<span>\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-titik-pusat-lingkaran-dengan-sebuah-titik-yang-berada-di-lu-481",
+            "question": "jarak titik pusat lingkaran dengan sebuah titik yang berada di luar lingkaran adalah 39 cm.panjang garis singgung yang melalui titik tersebut 36 cm.diameter lingkaran tersebut adalah .........cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini akan membentuk sebuah segitiga 36 sebagai tingginya , 39 sebagai garis yang miringnya dan jari2(r) sebagai alasnya.<br>r=akar 39kuadtar -36kuadrat<br>\u00a0=akar \u00a01521-1296<br>\u00a0=akar 225=15<br>d=2 x\u00a0r cm<br>\u00a0 \u00a0=2x15<br>\u00a0 \u00a0=30",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

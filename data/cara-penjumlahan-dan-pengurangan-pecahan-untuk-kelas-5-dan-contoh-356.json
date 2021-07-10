@@ -1,0 +1,136 @@
+{
+    "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fungsi-sungsi-f-dan-g-ditentukan-dengan-rumus-fx-x2-gx-1-357",
+            "question": "Fungsi sungsi f dan g ditentukan dengan rumus f(x)= x+2 g(x) = 1/x (x # 0). tentukan fungsi invers dan f.komposisi berikut..    a.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (x)\r\n\r\nb.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (x)\r\n\r\nc.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( f o g )-1 (4)\r\n\r\nd.\u00a0\u00a0\u00a0\u00a0\u00a0\r\n( g o f )-1 (4)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = x+2<br>y = x+2<br>x = y-2<br>[tex] f^{-1} [/tex](y) = y-2<br>[tex] f^{-1} [/tex](x) = x-2<br><br>g(x) =\u00a0[tex] \\frac{1}{x} [/tex]<br>y =\u00a0[tex] \\frac{1}{x} [/tex]<br>xy = 1<br>x =\u00a0[tex] \\frac{1}{y} [/tex]<br>[tex] f^{-1} [/tex](x) =\u00a0[tex] \\frac{1}{x} [/tex]<br><br><br>a. [tex] (fog)^{-1} [/tex]\u00a0(x) = ([tex] g^{-1} [/tex]o[tex] f^{-1} [/tex]) (x) =\u00a0[tex] g^{-1} [/tex]([tex] f^{-1} [/tex]\u00a0(x)) =\u00a0[tex] g^{-1} [/tex](x-2) =\u00a0[tex] \\frac{1}{x-2} [/tex]<br>c.\u00a0[tex] (fog)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1}{4-2} [/tex] =\u00a0[tex] \\frac{1}{2} [/tex]<br><br>b.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(x) =\u00a0\u00a0([tex] f^{-1} [/tex]o[tex] g^{-1} [/tex]) (x)\u00a0=\u00a0[tex] f^{-1} [/tex]([tex] g^{-1} [/tex] (x)) =\u00a0[tex] f^{-1} [/tex]([tex] \\frac{1}{x} [/tex]) =\u00a0[tex] \\frac{1}{x} [/tex] - 2 =\u00a0[tex] \\frac{1-2x}{x} [/tex]<br>d.\u00a0[tex] (gof)^{-1} [/tex]\u00a0(4) =\u00a0[tex] \\frac{1-2(4)}{4} [/tex] =\u00a0[tex]- \\frac{7}{4} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-11-dari-barisan-25612864-adalah-431",
+            "question": "Suku ke 11 dari barisan 256,128,64...\r\nadalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=256<br>r=1/2<br><br>U11= ar^10<br>= 256(1/2)^10<br>= 256:1024 <br>= 1/4 = 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2 . (2a+n-1)b<br>11=11/2.(2.256+11-1).2<br>276<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-sebuah-lingkaran-adalah-200-cm2tentukan-besarnya-578",
+            "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2.tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut kerjakan dengan caranya.    a.10 cm\u00b2\r\nb.20 cm\u00b2\r\nc.40 cm\u00b2\r\nd.50 cm\u00b2\r\ne.100 cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring= luas derajat/360 kali luas lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fxx2-gxx-2-dan-hxx1-tentukan-nilai-fogoh-968",
+            "question": "Diketahui f(x)=x2, g(x)=x-2, dan h(x)=x+1. tentukan nilai (fogoh) (x)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g (h(x)) = (x+1) - 2 = x + 1 - 2 = x - 1<br>f ( g\u00a0o\u00a0h ) =\u00a0\u00a0(x-1)\u00b2 = x\u00b2 - 2x + 1<br><br>Jadi (f o g o h) = x\u00b2 - 2x +1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187",
+            "question": "selisih panjang dan lebar suatu persegipanjang adalah 8 cm, dan keliling persegi panjang tersebut 44 cm. luas persegi panjang adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : persegi panjang, panjang, lebar, keliling, luas<br>Pembahasan :<br>Perhatikan gambar terlampir.<br><p>Persegi panjang adalah bangun datar\nsegi empat yang memiliki dua pasang sisi sejajar dan empat buah sudut\nsiku-siku.<br></p>\n\n<p>Sifat-sifat persegi panjang, yaitu :<span><br>\n1. sisi-sisi yang berhadapan </span>pada persegi panjang adalah sama panjang dan\nsejajar<span><br>\nAB = C</span>D, AB//CD dan AD = BC, AD//BC;<span><br>\n2. setiap sudut pada persegi panjang sama besar\ndan merupakan sudut siku-siku</span>\n(atau memiliki sudut 90\u00b0)<span><br></span>\u2220BAD = \u2220ABC= \u2220BCD\n= \u2220ADC = 90\u00b0;<span><br>\n3. diagonal-diagonal pada persegi panjang </span>adalah sama panjang<span><br>\nAC = BD;<br>\n4. diagonal-diagonal </span>pada persegi panjang\nberpotongan dan saling membagi dua sama panjang<span><br>\nOA = OC dan OB = OD</span>. Karena AC = BD, maka OA = OB = OC =\nOD;<span><br>\n5. </span>persegi panjang memiliki dua buah simetri\nlipat atau sumbu simetri;<span><br>\n6. </span>persegi panjang memiliki dua buah simetri putar;<span><br>\n7. Menempati bingkainya dengan empat cara.<br></span>Keliling persegi\npanjang adalah </p>\n\n<p>K = 2 . p\n+ 2 . l </p>\n\n<p>= 2 . (p\n+ l)</p>\n\n<p>dengan p merupakan\npanjang dan l merupakan lebar.<span><br></span>Luas persegi panjang\nadalah </p>\n\n<p>L = p . l</p>\n\n<span>dengan\np merupakan panjang dan l merupakan lebar.<br><br>Mari kita lihat soal tersebut.<br>Diketahui selisih panjang dan lebar suatu persegi panjang adalah 8 cm.<br>Kelilingnya adalah 44 cm.\u00a0<br>Misalkan panjang = p, lebar = l, keliling = K, dan luas = L,<br>diperoleh<br>p - l = 8<br></span>\u21d4 p = 8 + l<br><span>Kemudian, <br>K = 44 cm<br>K = 2(p + l)<br></span>\u21d4 K = 2(8 + l + l)<br>\u21d4 K = 2(8 + 2l)<br>\u21d4 K = 16 + 4l<br>\u21d4 44 = 16 + 4l<br>\u21d4 28 = 4l<br>\u21d4 l =\u00a0[tex] \\frac{28}{4} [/tex]<br>\u21d4 l = 7<br><span>Sehingga l = 7 kita substitusikan ke persamaan<br>p = 8 + l<br></span>\u21d4 p = 8 + 7<br>\u21d4 p = 15<br><span>Selanjutnya,\u00a0<br>L = p x l<br></span>\u21d4 L = 15 x 7<br>\u21d4 L = 105<br><span>Jadi, luas persegi panjang tersebut adalah 105 cm</span>\u00b2.<br><span><br>Semangat!<br><br></span>",
+                    "attachments": [
+                        "answer-attachments/selisih-panjang-dan-lebar-suatu-persegipanjang-adalah-8-cm-dan-k-187-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

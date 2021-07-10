@@ -1,0 +1,134 @@
+{
+    "question": "Hasil tan 660 - sin 900 + cos (-390)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tan 660 = tan (660-360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= tan 300 \u00a0berada di kuadran 4 berarti negatif<br>tan 300 = tan (360-60)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= -tan 60<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - V3<br><br>sin 900 = sin (2x360 + 180)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= sin 180<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0<br><br>cos (-390) = cos (-390 + 360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= cos (-30) berada dikuadran 4 cos positif<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/2V3<br><br>-V3 + 0 + 1/2V3 = - 1/2 V3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-4-dan-suku-ke-336-929",
+            "question": "diketahui deret geometri dengan suku pertama =4 dan suku ke-3=36 jumlah lima suku pertama deret tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3:u1=36:4<br>r^2=9<br>r=3<br>sn=4(-243-1)/2<br>s5=4(242)/2<br>s5=484<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 = a = 4<br>U3 = a\u00d7r\u00b2 = 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r\u00b2 = 36/a = 36 / 4= 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r =\u00a0\u221a9 = 3<br>Sn = a\u00a0\u00d7 (r\u00a0pangkat n - 1) / r -1<br>S5= 4\u00a0\u00d7 (3pankat 5 - 1)/3-1<br>= 4\u00a0\u00d7 (243 -1)/2<br>=2\u00d7242 = 484<br><br>insya Allah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-bilangan-asli-antara-1-sampai-100-yang-habis-diba-957",
+            "question": "Tentukan jumlah bilangan asli antara 1 sampai 100 yang habis dibagi 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bolangan kelipatan 3 antara 1- 100 <br>a = bilangan yang bisa di bagi 3 yang lebih besar dari pada 1<br>\u00a0\u00a0 = 3 <br>b = selisih bilangan <br>\u00a0\u00a0 = 3<br>Un = bilangan yang mendekati 100 dan dapat di bagi 3 <br>\u00a0\u00a0 \u00a0  = 99<br>Un = a + (n-1) b <br>99\u00a0 = 3 + (n-1) 3<br>99\u00a0 = 3 + 3n - 3<br>99\u00a0 = 3n<br>99/3 = n <br>\u00a0 33\u00a0 =<strong> n </strong><br><strong>jumlah bilnagan kelipatannya adalah</strong> <br>sn = n/2 (a +un)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 3+99)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 102)<br>\u00a0\u00a0 \u00a0  = 33 x 51<br>\u00a0 \u00a0\u00a0 = 1683 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-rasio-dari-barisan-geometri-12-16-118-beserta-p-915",
+            "question": "Besar rasio dari barisan geometri 1/2, 1/6, 1/18. \u2026.? beserta penyelesaiannya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui u1 = 1/2 dan u2= 1/6\nmaka \nr= u2 : u1\nr= 1/6 : 1/2\nr= 1/6 x 2/1\nr= 2/6\nr= 1/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-2x2-4x-10-memiliki-akar-akar-x1-dan-x2-persa-445",
+            "question": "Persamaan kuadrat 2x^2-4x-1=0 memiliki akar-akar x1 dan x2. Persamaan kuadrat baru yang akar-akarnya 2x1 dan 2x2 adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Persamaan kuadrat 2x\u00b2 \u2013 4x \u2013 1 = 0 memiliki akar-akar x\u2081 dan x\u2082. Persamaan kuadrat baru yang akar-akarnya 2x\u2081 dan 2x\u2082</strong> adalah x\u00b2 \u2013 4x \u2013 2 = 0. Bentuk umum persamaan kuadrat adalah ax\u00b2 + bx + c = 0, dengan a \u2260 0. Jika x\u2081 dan x\u2082 adalah akar-akar persamaan kuadrat maka\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a}[/tex]\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a}[/tex]\n</li></ul><p>Menentukan persamaan kuadrat\n</p><ul><li>Cara 1: (x \u2013 x\u2081)(x \u2013 x\u2082) = 0\n</li><li>Cara 2: x\u00b2 \u2013 (x\u2081 + x\u2082)x + x\u2081 . x\u2082 = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><h3>Cara Pertama\n</h3><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>a = 2\n</p><p>b = \u20134\n</p><p>c = \u20131\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a} = -\\frac{(-4)}{2} [/tex] = 2\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a} = \\frac{-1}{2} [/tex]\n</li></ul><p>misal\n</p><ul><li>p = 2x\u2081 dan q = 2x\u2082\n</li></ul><p>maka\n</p><ul><li>p + q = 2x\u2081 + 2x\u2082 = 2(x\u2081 + x\u2082) = 2(2) = 4\n</li><li>pq = (2x\u2081)(2x\u2082) = 4x\u2081x\u2082 = 4(\u2013\u00bd) = \u20132\n</li></ul><p>Jadi <strong>persamaan kuadrat baru yang akar-akarnya p dan q</strong> adalah\n</p><p>x\u00b2 \u2013 (p + q)x + p . q = 0\n</p><p>x\u00b2 \u2013 4x + (\u20132) = 0\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara kedua\n</h3><p>Misal \u00a0</p><ul><li>2x = y \u21d2 x = \u00bd y\n</li></ul><p><strong>Substitusikan ke persamaan kuadrat\n</strong></p><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>2(\u00bd y)\u00b2 \u2013 4(\u00bd y) \u2013 1 = 0\n</p><p>2(\u00bc y\u00b2) \u2013 2y \u2013 1 = 0\n</p><p>\u00bd y\u00b2 \u2013 2y \u2013 1 = 0\n</p><p>==&gt; <em>kedua ruas kali 2 </em>&lt;==\n</p><p>y\u00b2 \u2013 4y \u2013 2 = 0\n</p><p>Jadi <strong>persamaan kuadrat barunya </strong>adalah\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara ketiga\n</h3><p>Persamaan kuadrat baru pada ax\u00b2 + bx + c = 0 jika akar-akarnya nx\u2081 dan nx\u2082 adalah\n</p><ul><li>ax\u00b2 + bx . n + c . n\u00b2 = 0\n</li></ul><p>2x\u2081 dan 2x\u2082 sehingga <strong>n = 2</strong>, maka persamaan kuadrat barunya adalah\n</p><p>2x\u00b2 \u2013 4x . <strong>2</strong> \u2013 1 . <strong>2\u00b2 </strong>= 0\n</p><p>2x\u00b2 \u2013 8x \u2013 4 = 0\n</p><p>==&gt;<em> kedua ruas bagi 2 </em>&lt;==\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang persamaan kuadrat\n</p><ul><li>10 soal persamaan kuadrat: brainly.co.id/tugas/14079686\n</li><li>Menentukan akar-akar persamaan kuadrat: brainly.co.id/tugas/10091829\n</li><li>Menentukan nilai m pada persamaan kuadrat: brainly.co.id/tugas/15258404\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel </strong>: Matematika\n</p><p><strong>Kategori </strong>: Persamaan Kuadrat\n</p><p><strong>Kode</strong> : 10.2.5\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-asin-45-derajat-cos-45-derajat-b-cos-pan-803",
+            "question": "Tentukan nilai dari\u00a0    a.sin 45 derajat + cos 45 derajat\r\nb cos pangkat 2 60 derajat + sin 2 30 derajat\r\nc sin 60 derajat cos 30 derajat + cos 60 derajat sin 30 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui sin 30\u00b0 = 1/2, <br>cos 30\u00b0 = 1/2 \u221a3, <br>sin 45\u00b0 = 1/2 \u221a2, <br>cos 45\u00b0 = 1/2 \u221a2, <br>sin 60\u00b0 = 1/2\u00a0\u221a3, <br>cos 60\u00b0 = 1/2<br>Mari kita lihat soal tersebut.<br><span>a. sin 45</span>\u00b0 +\u00a0<span>cos 45</span>\u00b0 <br>= 1/2\u00a0\u221a2 + 1/2\u00a0\u221a2 <br>=\u00a0\u221a2.<br><span><br>b. cos</span>\u00b2\u00a0<span>60</span>\u00b0<span>\u00a0+ sin</span>\u00b2<span>\u00a030</span>\u00b0 <br>= (1/2)\u00b2 + (1/2)\u00b2 <br>= 1/4 + 1/4 <br>= 2/4 <br>= 1/2.<br><span><br>c sin 60</span>\u00b0 x\u00a0<span>cos 30</span>\u00b0<span>\u00a0+ cos 60</span>\u00b0 x\u00a0<span>sin 30</span>\u00b0 <br>= (1/2\u00a0\u221a3 x 1/2\u221a3) + (1/2 x 1/2) <br>= 1/4 x \u221a9 + 1/4 <br>= 1/4 x 3 + 1/4 <br>= 3/4 + 1/4 = 4/4 <br>= 1.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

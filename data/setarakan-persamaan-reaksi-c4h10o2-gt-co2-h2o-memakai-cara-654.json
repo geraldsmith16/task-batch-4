@@ -1,0 +1,131 @@
+{
+    "question": "Setarakan persamaan reaksi C4H10+O2 ---&gt; CO2 +H2O memakai cara matematika? (sama caranya)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]C_{4} H _{10} +  \\frac{13}{2} O _{2}  -&gt; 4CO _{2}  + 5H _{2}O[/tex]<br>pertama lihat jumlah C di kiri (4), lalu samakan dengan C di kanan.<br>lalu lihat jumlah H di kiri (10), lalu samakan dengan di kanan. koefisien H di kanan 5 karena angka indeks H sudah 2, yang berarti 5 x 2 = 10.<br>lalu, terakhir lihat jumlah O di kanan, ada 2 x 4 + 5 = 13, maka jumlahnya harus sama dengan di kiri. O di kiri sudah memiliki angka indeks 2, maka angka koefisien O adalah\u00a0[tex] \\frac{13}{2} [/tex]<br>Hope this help =)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapakah-massa-asam-fosfat-h3po4-yang-dibuat-dari-62-gram-fos-456",
+            "question": "Berapakah massa asam fosfat (H3PO4) yang dibuat dari 6,2 gram fosfat ( Ar H = 1, P=31 dan O= 16 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H\u2083PO\u2084 \u21d2 3H\u207a+PO\u2084\u00b3\u207b<br><br>MrPO\u2084=31+16+16+16+16\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =95 <br>m=gr/Mr <br>\u00a0\u00a0 =6,2/95<br>\u00a0\u00a0 =0,06 gr<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-ph-campuran-200-ml-larutan-ch3cooh-01-m-dengan-100-ml-lar-430",
+            "question": "Hitung pH campuran 200 ml larutan CH3COOH 0,1 M dengan 100 ml larutan Ba(CH3COO)2 ,0,1M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "CH\u2083COOH + Ba(CH\u2083COO)\u2082<br>mol CH\u2083COOH = 200 ml x 0,1 M = 20 mmol<br>mol Ba(CH\u2083COO)\u2082 = 100 ml x 0,1 = 10 mmol<br>mol OH\u207b sisa = 20-10 = 10 mmol<br>[OH\u207b] = mol/V.total = 10 mmol / 300 ml = 10\u207b\u00b2<br>pOH = - log [OH\u207b] = - log [10\u207b\u00b2] = 2 <br>pH = 14-pOH = 14 -2 = 12 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-konsentrasi-oh-tex-dan-ph-suatu-larutan-1-m-naocn-434",
+            "question": "hitunglah konsentrasi OH^-[/tex] dan pH suatu larutan 1 M NaOCN , bila harga Ka HOCN adalah 3,3 X",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hidrolisis...<br><br>[OH^-] = AKAR Kw.M/Ka = akar 10^-14 . 1/ 3,3x10^-4 = akar 0,303x10^-10 = 0,55x10^5<br>maka Poh= - log OH^-<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - Log 5,5x10^-4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4-log\u00a05,5<br>PH=14-Poh<br>\u00a0 \u00a0 \u00a0= 14 - (4-log 5,5)<br>\u00a0 \u00a0 \u00a0=10 + log 5,5<br><br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "50-ml-nh3-01-m-ditambah-25-ml-hcl-01-m-kb-nh3-10-5-ph-larut-964",
+            "question": "50 ml NH3 0,1 M ditambah 25 ml HCl 0,1 M (Kb NH3 = 10^-5 ph larutan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a0 \u00a0  NH3\u00a0 +\u00a0 HCl\u00a0  &lt;panah&gt;\u00a0 NH3Cl\u00a0 +\u00a0 H2<br>m\u00a0 \u00a0 5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>t\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  2,5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>s\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2,5<br>sisa basa lemah dan garamnya= buffer<br>rumus buffer=<br>OH-=kb.mol basa lemah/garamnya <br>OH-=10^-5.2,5/2,5<br>OH-=10^-5<br>pOH=5<br>pH=14-5=9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-nama-senyawa-dengan-rumus-molekul-berikut-a-n2o5-b-687",
+            "question": "Apakah nama senyawa dengan rumus molekul berikut?\r\na.\u00a0 N2O5\r\nb.\u00a0 PCl3\r\nc.\u00a0 SF6\r\nd.\u00a0 NCl3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. dinitrogen pentaoksida\nb. fosfor triklorida\nc. sulfur heksa klorida\nd. nitrogen triklorida",
+                    "attachments": []
+                },
+                {
+                    "answer": "Untuk memberikan Tatanama sebuah senyawa\u00a0ion atau kovalen memiliki bebeparap aturan.<br>1. senyawa ionik tidak perlu menambahkan kata di-, tri-, heksa- , atau simbol jumlah yang lainnya, malainkan hanya ditambahkan kata\u00a0-ida dibelakang nama senyawa:<br>Contoh\u00a0<br>Mg(OH)\u2082 = <strong><em>Magnesium Hidroksida</em></strong> bukan <strong>Magnesium DiHiroksida<br></strong>MgCl\u2082 \u00a0 \u00a0 = <strong><em>Magnesium Clourida</em></strong> \u00a0 bukan <strong>Magnesium DiClorida</strong><br>2. Senyawa Kovalen perlu ditambah kata-kata di-,tri-, heksa- dan yang lainnya sebagai identitas jumlah suatu atom/ bahkan memiliki nama IUPAC Sendiri<br>contoh :<br>NH\u2083 = Amonia<br>SF\u2086 = Sulfur HeksaFluorida<br><br>jadi jawaban :<br>a. N\u2082O\u2083 (Dinitrogen Penta-Oksida) =====&gt;\u00a0Kovalen<br>b. PCl\u2083 (Phospor Tri-Cloride) ======&gt; Kovalen<br>c. SF\u2086 (Sulfur Heksa-Fluorida) ======&gt; Kovalen<br>d. NCl\u2083 (Nitrogen Tri-Clorida ) =======&gt; Kovalen<br><br>Semoga Membantu!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-liter-larutan-penyangga-mengandung-01-m-ch3cooh-dan-01-m-c-474",
+            "question": "satu liter larutan penyangga mengandung 0,1 M CH3COOH dan 0,1 M CH3COO- (Ka CH3COOH = 10-5 ). Bila ke dalam larutan ditambahkan 0,4 gram NaOH (Ar Na= 23, O= 16, H = 1), hitunglah pH larutan: a. sebelum ditambah NaOh b. setelah ditambah NaOH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. sebelum ditambahkan NaOH<br>\u00a0 \u00a0<br>[H+] = Akar Ka. M\u00a0CH3COOH = Akar 10^-5 . 0,1 M = Akar 10^-6 = 10^-3<br>ph = - log [H+] = - Log 10^-3 = 3- log1 = 3<br><br>b. sesudah ditambahkan NaOH<br><br>MOL NaoH = Gram/Mr = 0,4/40 = 0,01 mol<br>Mol CH3COOH = Molaritas\u00a0x\u00a0Liter = 0,1 x 1 = 0,1<br><br>CH3COOH + NAOH\u00a0\u21d2 CHA3COONA + H2O<br>\u00a0 \u00a00,1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01<br>\u00a0 0,01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,01\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -<br>\u00a0\u00a00,09 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01<br>\u00a0 \u00a0 \u00a0<br>maka H+ = Ka . Mol asam/mol garam<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10^-5 . 0,09/0,01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9.10^-5<br>\u00a0 \u00a0 \u00a0ph = - log H+ = - log 9.10^-5 = 5 - log\u00a09",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diuji-dengan-alat-penguji-elektrolitternyata-larutan-nh3-0-219",
+            "question": "jika diuji dengan alat penguji elektrolit,ternyata larutan NH3 0,1 M merupakan konduktor lebih buruk daripada larutan NaCl 0,1M,mengapa demikian ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>jika diuji dengan alat penguji elektrolit,ternyata larutan NH\u2083 0,1 M merupakan <strong>konduktor lebih buruk</strong> daripada larutan NaCl 0,1M adalah</p><p>karena larutan NH\u2083 merupakan basa lemah, ketika larutan NH\u2083 dilarutkan dalam pelarutnya (air) akan <strong>terurai sebagian kecil </strong>menjadi ion-ion. Sedangkan larutan NaCl merupakan garam kuat (netral) termasuk larutan elektrolit kuat jika dalam larutannya akan <strong>terionisasi sempurna atau hampir sempurna menjadi ion-ion. </strong></p><p>Sehingga larutan NH\u2083 memiliki <strong>daya hantar listrik yang buruk</strong> dan larutan NaCl memiliki <strong>daya hantar listrik yang baik.</strong> Larutan NH\u2083 memiliki jumlah ion yang lebih sedikit (terurai sebagian) daripada NaCl (terurai sempurna), semakin sedikit jumlah ion dalam larutan elektrolit semakin sedikit pula kemampuan larutan dalam menghantarkan listrik.</p><h3>Pembahasan</h3><p>[tex]\\boxed{\\boxed{\\bold{ Larutan~Elektrolit~dan~Non~Elektrolit }}}[/tex]\n</p><p> [tex]\\mathbf{A.~Larutan~elektrolit }[/tex]\n</p><p>Larutan elektrolit adalah zat yang dapat membentuk ion-ion dalam pelarutnya sehingga larutannya dapat menghantarkan listrik. Hal ini dikarenakan larutan elektrolit terionisasi dalam pelarutnya.\n</p><p>1. Larutan elektrolit kuat adalah elektrolit yang dapat terionisasi sempurna atau hampir sempurna menjadi ion-ion dalam pelarutnya dan umumnya menghasilkan larutan dengan daya hantar listrik yang baik.\n</p><p>2. Larutan elektrolit lemah adalah elektrolit yang hanya terurai sebagian kecil menjadi ion-ion dalam pelarutnya dan menghasilkan larutan dengan daya hantar listrik yang buruk.\n</p><p>\n</p><p>[tex]\\mathbf{B.~Larutan~non~elektrolit }[/tex]\n</p><p>Larutan non elektrolit adalah zat yang tidak dapat membentuk ion-ion dalam pelarutnya sehingga larutannya tidak dapat menghantarkan arus listrik.\n</p><p>\n</p><p>[tex]\\mathbf{Ciri~-~Ciri~Larutan~Elektrolit~Kuat, ~Lemah, ~dan~Non~Elektrolit }[/tex] \u00a0</p><p>Larutan Elektrolit Kuat \u00a0</p><p>1. Senyawa ion \u00a0</p><p>2. Sneyawa kovalen polar \u00a0</p><p>3. Larutan asam atau basa kuat \u00a0</p><p>4. Larutan garam (asam kuat + basa kuat) \u00a0</p><p>5. Terionisais sempurna \u00a0</p><p>6. Daya hantar listrik yang baik \u00a0</p><p>7. Ciri percobaan : nyala lampu terang dan banyak gelembung gas \u00a0</p><p>Contoh : \u00a0</p><p>Asam : HCl, H\u2082SO\u2084 \u00a0</p><p>Basa: NaOH, Ca(OH)\u2082 \u00a0</p><p>Garam : NaCl, CaSO\u2084 \u00a0</p><p>Larutan Elektrolit Lemah \u00a0</p><p>1. Senyawa kovalen polar \u00a0</p><p>2. Larutan asam atau basa lemah \u00a0</p><p>3. Terionisasi sebagian \u00a0</p><p>4. Daya hantar listrik yang buruk \u00a0</p><p>5. Ciri percobaan : nyala lampu redup, sedikit gelembung gas atau lampu tidak menyala, sedikit gelembung gas \u00a0</p><p>Contoh : \u00a0</p><p>Asam : H\u2082CO\u2083, CH\u2083COOH \u00a0</p><p>Basa : NH\u2083\n</p><p>Larutan Non Elektrolit \u00a0</p><p>1. Senyawa kovalen non polar \u00a0</p><p>2. Tidak terionisasi \u00a0</p><p>3. Tidak menghantarkan arus listrik \u00a0</p><p>4. Ciri percobaan : lampu tidak menyala dan tidak ada gelembung gas \u00a0</p><p>Contoh : \u00a0</p><p>C\u2082H\u2085OH, C\u2086H\u2081\u2082O\u2086, C\u2081\u2082H\u2082\u2082O\u2081\u2081, CO(NH\u2082)\u2082 \u00a0</p><p>\n</p><p>[tex]\\mathbf{C.~Hubungan~Larutan~Elektrolit~dengan~Ikatan~Kimia }[/tex]\n</p><p>1. Senyawa ion\n</p><p>Untuk senyawa ion (ikatan ion) yaitu senyawa yang terbentuk dari logam dan non logam yang berikatan ion. Dalam bentuk padatan (solid), senyawa ion tidak dapat menghantarkan arus listrik karena ion \u2013 ionnya tidak dapat bergerak bebas disebabkan terperangkap dalam bentuk padatan atau kristal yang terikat kuat dan rapat. Sedangkan dalam bentuk lelehan (liquid) dapat menghantarkan listrik karena ion \u2013 ion nya dapat bergerak bebas. Begitu juga dengan dalam bentuk larutan (aq) dapat menghantarkan listrik karena ion \u2013 ion nya dapat bergerak bebas. Bila arus listrik dihubungkan, kation bergerak menuju katode dan anion bergerak menuju anode sehingga arus listrik dapat mengalir.\n</p><p>Contoh : NaOH, Ca(OH)\u2082 , NaCl, CaSO\u2084, \u00a0MgCl\u2082, KBr\n</p><p>\n</p><p>2. Senyawa kovalen polar\n</p><p>Untuk senyawa kovalen (iktan kovalen) yaitu senyawa yang terbentuk dari non logam dan non logam yang berikatan kovalen. Dalam bentuk pdatan (solid), tidak dapat menghantarkan listrik karena terdiri dari molekul \u2013 molekul netral yang tidak bermuatan. Sedangkan dalam bentuk lelehan (liquid) juga tidak dapat menghantarkan arus listrik karena juga terdiri dari molekul \u2013 molekul netral walaupun dapat bergerak. Tetapi berbeda jika dalam larutan (aq) molekul \u2013 molekulnya dapat terhidrolisis menjadi ion \u2013 ion yang dapat bergerak bebas.\n</p><p>Contoh : HCl, H\u2082SO\u2084, HNO\u2083, CH\u2083COOH\n</p><p>\n</p><p>3. Senyawa kovalen non polar\n</p><p>Baik dalam bentuk padatan, lelehan dan larutannya tidak dapat menghantarkan arus listrik karena terdiri dari molekul \u2013 molekul netral yang tidka bermuatan dan tidak dapat bergerak.\n</p><p>Contoh : C\u2082H\u2085OH, C\u2086H\u2081\u2082O\u2086, C\u2081\u2082H\u2082\u2082O\u2081\u2081, CO(NH\u2082)\u2082\n</p><br><p>[tex]\\mathbf{Pelajari~Lebih~Lanjut }[/tex]\n</p><ul><li>Pengelompokkan larutan elektrolit dan non elektrolit https://brainly.co.id/tugas/2030067\n</li><li>Uji nyala lampu dan gelembung gas https://brainly.co.id/tugas/9484469#, https://brainly.co.id/tugas/9016630\n</li><li>Reaksi ionisasi senyawa elektrolit https://brainly.co.id/tugas/8873615#, https://brainly.co.id/tugas/20999102, https://brainly.co.id/tugas/9340130\n</li></ul><p>----------------------------------------------\n</p><p>[tex]\\mathbf{Detil~Jawaban }[/tex]\n</p><p>Mapel : Kimia\n</p><p>Bab : Larutan elektrolit dan non elektrolit\n</p><p>Kelas : X\n</p><p>Semester : 2\n</p><p>Kode : 10.7.5\n</p><p>Kata kunci : \u00a0elektrolit, non elektrolit, elektrolit kuat, elektrolit lemah, basa lemah, garam netral</p>",
+                    "attachments": [
+                        "answer-attachments/jika-diuji-dengan-alat-penguji-elektrolitternyata-larutan-nh3-0-219-1.jpg",
+                        "answer-attachments/jika-diuji-dengan-alat-penguji-elektrolitternyata-larutan-nh3-0-219-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-volume-larutan-natrium-hidroksida-01m-yang-diperlukan-u-967",
+            "question": "Tentukan volume larutan natrium hidroksida 0,1M yang diperlukan untuk menetralkan :    a. 20\u00a0mL larutan asam klorida 0,2 M\r\nb. 20 mL larutan asam sulfat 0,2 M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>tentukan volume larutan natrium hidroksida (NaOH) 0,1 M yang diperlukan untuk menetralkan :\n</p><p>a. 20 mL larutan asam klorida (HCl) 0,2 M \u00a0adalah <strong>40 mL.</strong></p><p>b. 20 mL larutan asam sulfat (H\u2082SO\u2084) 0,2 M adalah <strong>80 mL.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>a. Diketahui : [NaOH] = 0,1 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [HCl] = 0,2 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V HCl = 20 mL</p><p>Ditanya : Volume NaOH ?</p><p>Jawab :</p><ul><li>Hitung volume NaOH dengan cara :</li></ul><p>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082</p><p>20 mL \u00d7 0,2 M = V\u2082 \u00d7 0,1 M</p><p>4 mL.M = V\u2082 \u00d7 0,1 M</p><p>V\u2082 = 4/0,1 mL</p><p>V\u2082 = 40 mL</p><p><strong>\u2234 Kesimpulan volume NaOH adalah 40 mL.</strong></p><p>b. Diketahui : [NaOH] = 0,1 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [H\u2082SO\u2084] = 0,2 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V H\u2082SO\u2084 = 20 mL</p><p>Ditanya : Volume NaOH ?</p><p>Jawab :</p><ul><li>Hitung volume NaOH dengan cara :</li></ul><p>V\u2081 \u00d7 M\u2081 \u00d7 n = V\u2082 \u00d7 M\u2082 \u00d7 n</p><p>20 mL \u00d7 0,2 M \u00d7 2 = V\u2082 \u00d7 0,1 M \u00d7 1</p><p>8 mL.M = V\u2082 \u00d7 0,1 M</p><p>V\u2082 = 8/0,1 mL</p><p>V\u2082 = 80 mL</p><p><strong>\u2234 Kesimpulan volume NaOH adalah 80 mL.</strong></p><p><strong>Pembahasan :\n</strong></p><p><strong>Pengertian Molaritas (M)\n</strong></p><p>Konsentrasi merupakan jumlah zat terlarut yang ada terhadap jumlah pelarut tertentu atau terhadap jumlah larutan tertentu. (diasumsikan zat terlarut berwujud cair atau padat, sedangkan pelarutnya berwujud cair) Konsentrasi dapat diungkapkan dengan beragam cara, salah satunya yang paling sering dipakai, dan memang akan kita gunakan sekarang ini adalah Molaritas (M), atau konsentrasi molar. Molaritas adalah jumlah mol terlarut setiap liter larutan. Atau bias diungkapkan dengan rumus:\n</p><p><strong>M = n/V\n</strong></p><p>Keterangan : M = konsentrasi zat\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n = mol zat terlarut\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = volume larutan (L)\n</p><p><strong>Pengenceran\n</strong></p><p>Proses pengenceran adalah proses yang dilakukan dengan mencampurkan pelarut yang lebih ukurannya dari suatu zat yang dilarutkannya. engenceran pada prinsipnya hanya menambahkan pelarut saja, sehingga jumlah mol zat terlarut sebelum pengenceran sama dengan jumlah mol zat terlarut sesudah pengenceran. Dengan kata lain jumlah mmol zat terlarut sebelum pengenceran sama dengan jumlah mmol zat terlarut sesudah penegenceran atau jumlah massa zat terlarut sebelum pengenceran sama dengan jumlah massa zat terlarut sesudah pengenceran.\n</p><p>Rumus : \u00a0</p><p><strong>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082\n</strong></p><p>Keterangan :\n</p><p>M\u2081 = Molaritas larutan sebelum pelarutan/pengenceran\n</p><p>V\u2081 = Volume larutan sebelum pelarutan/pengenceran\n</p><p>M\u2082 = Molaritas larutan sesudah pelarutan/pengenceran\n</p><p>V\u2082 = Volume Molaritas larutan sesudah pelarutan/pengenceran\n</p><p><strong>Perhitungan pH asam \u00a0</strong></p><p>Istilah asam berasal dari bahasa Latin \u201cAcetum\u201d yang berarti cuka, karena diketahui zat utama dalam cuka adalah asam asetat. secara umum asam yaitu zat yang berasa masam.\n</p><p>berikut ciri-ciri asam kuat: \u00a0</p><ul><li>Mengion sempurna (derajat ionisasi atau \u03b1 bernilai 1) \u00a0</li><li>pH-nya ditentukan dari konsentrasi larutan dan valensi asam (tentang valensi asam) \u00a0</li><li>Dapat merusak kulit \u00a0</li><li>Bersifat korosif \u00a0</li><li>Semakin mendekati pH bernilai 1, maka dikatakan asam kuat \u00a0</li><li>Terkecuali asam sulfat (H\u2082SO\u2084) dapat mengion sempurna pada konsentrasi yang sangat encer \u00a0</li></ul><p>Rumus menghitung asam kuat : \u00a0</p><p><strong>[H\u207a] = a \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Rumus menghitung asam lemah : \u00a0</p><p><strong>[H\u207a] = \u221aKa \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Keterangan : a = valensi asam \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ma = Konsentrasi asam\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ka = tetapan ionisasi asam lemah \u00a0</p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>materi tentang pengenceran https://brainly.co.id/tugas/21621974\n</p><p>materi tentang pengenceran https://brainly.co.id/tugas/21583884\n</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21126249 \u00a0</p><p>--------------------------------------------------------------------------------------------------- \u00a0</p><p><strong>Detail jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 9 \u00a0</p><p>Kode : 11.7.9 \u00a0</p><p>Kata Kunci : pengenceran, titrasi\n</p>",
+                    "attachments": [
+                        "answer-attachments/tentukan-volume-larutan-natrium-hidroksida-01m-yang-diperlukan-u-967-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mudah-membedakan-asam-basa-kuat-dengan-asam-basa-l-163",
+            "question": "Bagaimana cara mudah membedakan asam-basa kuat dengan asam-basa lemah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dengan melakukan uji menggunakan alat\u00a0pH meter<br><br>Contoh<br>Asam kuat ; HCI , H2SO4, HNO3 , HCIO4<br>Asam lemah ; CH3COOH,H2CO3,H2S , HCN<br>Basa kuat :\u00a0NAOH, KOH, BA(OH)2, CA(OH)2<br>Basa lemah :\u00a0NH3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-ya-tentukan-ph-dari-a-100-ml-larutan-kl-01-m-b-200-131",
+            "question": "Bantu ya\r\nTentukan PH dari :\r\na)\u00a0100 mL larutan Kl 0,1 M.\u00a0\r\nb) 200 mL larutan NH\u2084NO\u2083 0,18 M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. KI merupakan garam kuat, atau garam yang terbentuk dari asam kuat dan basa kuat, sehingga pH dari KI adalah 7 atau pH = netral<br><br>b. NH4NO3 = garam basa lemah valensi 1, terbentuk dari NH4OH(basa lemah) dan HNO3(asam kuat), sehingga mengalami hidrolisis garam.<br><br>NH4NO3 --&gt;\u00a0 NH4+\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  +\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 NO3-<br>0,18 M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,18M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,18M<br><br>yang mengalami hidrolisis adalah ion dari yang lemah yaitu NH4+<br><br>NH4+\u00a0 \u00a0 +\u00a0 \u00a0  H2O\u00a0  ---&gt;\u00a0  NH4OH\u00a0  +\u00a0  H+<br><br>H+ =\u00a0 akar [(Kw/Kb) x M garam x valensi]<br>= akar (10^-14/1,8 x10^-5) x 0,18 x 1)<br>= akar (10^-10)<br>= 10^-5<br><br>pH = 5<br><br><br>diatas Kb tidak diketahui, biasanya 1,8 x 10^-5, jika Kb dalam soal agan beda dengan saya bisa langsung di ganti saja dan dihitung kembali :)<br><br><br><br>semoga bermanfaat :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

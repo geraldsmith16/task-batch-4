@@ -1,0 +1,132 @@
+{
+    "question": "bola tenis massanya 100 gram di jatuhkan ke lantai 20 cm tanpa kecepatan awal. kemudian memantul dengan kecepatan 1 m/s . perubahan yang di alami bola tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Perubahan energi potensial dan kinetik<br><br>E1 = Ep1 + Ek1<br>E1 = mgh + 0<br>E1 = 0,1 \u00d7 10 \u00d7 0,2<br>E1 = 0,2 J<br><br>E2 = Ep2 + Ek2<br>E2 = 0 + 1/2 \u00d7 m \u00d7 v\u00b2<br>E2 = 1/2 \u00d7 0,1 \u00d7 1\u00b2<br>E2 = 0,05 J<br><br>Perubahan Energi<br>E1 - E2 = 0,15 J<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-oleh-p-650",
+            "question": "batang panjangnya 1 m bergerak dengan kecepatan v. diamati oleh pengamat yang diam panjang batang menjadi 80 cm. bila c=kecepatan cahaya, maka kecepatan batang itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=80 cm&gt; 0.8 m<br>Lo = 1 m<br>L = Lo/y &gt; y= Lo/L &gt; y= 1/0.8 &gt; y= 5/4<br>dengan menggunakan rumus pitagoras maka V = 3/5c (0.6c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hubungan-hukum-archimedes-dengan-jembatan-ponton-ada-yang-tau-135",
+            "question": "Hubungan hukum archimedes dengan jembatan ponton? Ada yang tau? :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jembatan ponton adalah kumpulan drum-drum kosong yang berjajar sehingga \nmenyerupai jembatan. Jembatan ponton merupakan jembatan yang dibuat \nberdasarkan prinsip benda terapung. Drumdrum tersebut harus tertutup \nrapat sehingga tidak ada air yang masuk ke dalamnya. Jembatan ponton \ndigunakan untuk keperluan darurat. Apabila air pasang, jembatan naik. \nJika air surut, maka<br>\njembatan turun. Jadi, tinggi rendahnya jembatan ponton mengikuti pasang surutnya air<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jembatan ponton adalah kumpulan drum-drum kosong yang berjajar sehingga menyerupai jembatan. Drum-drum itu biasanya terbuatdari besi dan di dalamnya diisi dengan udara sehingga massa jenisnya lebih kecil dari massa jenis zat cair. Jembatan ponton merupakan jembatan yang dibuat berdasarkan prinsip benda terapung. Drumdrum tersebut harus tertutup rapat sehingga tidak ada air yang masuk ke dalamnya. Jembatan ponton digunakan untuk keperluan darurat. Apabila air pasang, jembatan naik. Jika air surut, maka jembatan turun. Jadi, tinggi rendahnya jembatan ponton mengikuti pasang surutnya air</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kenaikan-alkohol-dalam-sebuah-pipa-kapiler-berdiameter-258",
+            "question": "berapakah kenaikan alkohol dalam sebuah pipa kapiler berdiameter 0,07 cm jika tegangan permukaan sama dengan 0,023 n/m dan massa 0,8 g/cm3. asumsikan bahwa sudut kontaknya sama dengan nol !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>\u03b3 = 0,023 N/m\u00a0<br>\u03b8 = 0\u00ba\u00a0<br>\u03c1 = 0,8 g/cm\u00b3\u00a0\u21d2\u00a0800 N/m\u00b3\u00a0<br>r =\u00a0[tex] \\frac{0,07}{2} [/tex] =\u00a00,035 cm\u00a0\u21d2 0,00035 m<br>Ditanyakan :\u00a0h = .. ?\u00a0<br>Penyelesaian :<br><br>[tex]h= \\frac{\\gamma.Cos \\theta}{\\rho.g.r} [/tex]<br><br>[tex]h= \\frac{0,023*Cos 0}{800*10*0,00035} [/tex]<br><br>[tex]h= \\frac{0,023*1}{2,8} [/tex]<br><br>[tex]h= 8,2 . 10^{-3} [/tex] m \u00a0 ,\u00a0atau<br><br>h\u00a0=\u00a0<strong>0,82 cm</strong>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-proses-termodinamika-dalam-kehidupan-sehari-hari-721",
+            "question": "Contoh proses termodinamika dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh proses termodinamika dalam kehidupan sehari-hari adalahpanas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebi-jel-135",
+            "question": "Tolong dikasi caranya juga ya :) gambar ada dibawah biar lebi jelas !    Batang\r\n bersandar pada dinding licin dan bertumpu pada lantai kasar seperti \r\n gambar . Bila AC = 5 m , CB = 4 m , maka koefisien gesekan di titik A \r\n pada saat batang tepat akan bergeser adalah ?",
+            "attachments": [
+                "question-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebi-jel-135-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "1.\u00a0saat stb:<br>\u03a3fx=0<br>Nb-fa=0<br>Nb=Fa<br>\u03a3fy=0<br>Na-w=0<br>Na=w<br><br>\u03a3\u03c4orsi=0<br>w.1/2.oa-nb.ob=0<br>nb.ob=1/2.w.oa<br>nb.ab sin\u03b1=1/2.w.ab cos\u03b1<br>nb=1/2 w cottan\u00a0\u03b1<br>Fa=\u03bc.na<br>1/2 w cottan\u00a0\u03b1=\u03bc.na<br>\u03bc=1/2 cottan\u03b1<br><br>koefisien gesekan =1/2 cottan alfa<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1/2 kali (3/4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=3/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemain-sirkus-sedang-bereaksi-dgn-memutar-sebuah-cincin-621",
+            "question": "seorang pemain sirkus sedang bereaksi dgn memutar\" sebuah cincin tipis yg massa 800 gram dan berdiameter 50 cm. cincin tersebut diputar melalui salah satu garis singgungnya.jika cincin dpt menempuh 400 radian tiap sekonnya,maka besar momentumsudut cincin tersebut adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m = 800 gram = 0,8 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 50 cm = 0,5 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03c9 = 400 rad/s<br>Dit : L<br>L = I .\u00a0\u03c9<br>I = m r\u00b2<br>I = 0,8 (0,5)\u00b2<br>\u00a0 = 0,8 . 0,25<br>\u00a0 = 0,2 kgm\u00b2\u00b2<br><br>L = I .\u03c9<br>\u00a0 \u00a0= 0,2 400<br>\u00a0 \u00a0= 80 kgm\u00b2/s<br><br>silahkan dikoreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-dong-pake-caranya-ya-1-sebuah-batang-elastis-panjangnya-4-799",
+            "question": "Bantu dong pake caranya ya     1. sebuah batang elastis panjangnya 4 m dan luas penampang 1,5 cm\u00b2 . ketika batang tersebut di gantung beban 300 kg ternyata meregang 0,7 mm. tentukan modulus young bahan batang tersebut !\r\n2 sebuah batang alumunium panjang 30 cm, penampang berukuran 3 mm \u00d7 4 mm dan modulus elastisnya 7 x10 pangkat 10 N\\m\u00b2. hitunglah besar gaya unyuk menarik batang agar batang alumunium tersebut bertambah 2 mm !\r\n3. pegas dan luas penampang sebesar 0,5 mm\u00b2 ditarik dengan gaya 2,5 N. tentukan tegangan pada pegas tersebut !\r\n4. sebatang logam yang memiliki modulus young 6 \u00d7 10 pangkat 8 N\\m\u00b2, luas penampang logam 2 cm\u00b2 . jika di kenai gaya 400 N akan bertambah panjang 8 mm, tentukan panjang mula-mula kawat tersebut !\r\n5. kawat tembaga dengan luas penampang 4 mm\u00b2 dengan modulus elastic 6 \u00d7 1010 N\\m\u00b2 . kawat tersebut kemudian diregangkan sebesar 100 N . jika panjang kawat semula 20 cm, berapa pertambahan panjang kawat ?\r\n6. sebuah pegas meregang 5 cm , ketika di tarik dengan gaya 15 N, berapakah pertambahan panjang pegas jika di tarik dengan gaya 6 N ?\r\n7. berapakah beban yang harus diberikan pasa pegas, agarmempunyai energy 1 joule ? ( k = 50 N\\m )\r\n8. dua buah pegas berturut-turut mempunyai konstanta gaya pegas 200 N\\m dam 400 N\\m. jika kedua pegas di susun secara parallel dan ujungnya di beri beban 2 kg, berapakah pertambahan panjang pegas ? ( g = 10 m\\s\u00b2 )\r\n9. dua buah pegas di susun secara seri, dengan konstanta gaya masing-masing 100 N\\m dan 300 N\\m. jika pegas di beri beban 50 N, berapakah pertambahan panjang pegas ? g = 10 m\\s\u00b2 )\r\n\r\njawab :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diketahui:<br>panjang awal batang (lo) = 4 m<br>Luas penampang batang (Ao) = \u00a01,5 cm\u00b2 = 1,5.10\u207b\u2074 m\u00b2<br>massa beban (m) = 300 kg<br>panjang peregangan (\u0394l) = 0,7 mm = 0,7.10\u207b\u00b3 m<br><br>Ditanya:<br>Modulus Young (Y) = ....?<br><br>Penyelesaian:<br>Rumus Modulus Young:<br>Y = F.lo/A.\u0394l<br>\u00a0<br>Jadi kita perlu cari dulu gaya berat (F) :<br>F = m.g = 300.10 = 3000 N<br><br>Modulus Young:<br>Y = 3000.4/1,5.10\u207b\u2074.0,7.10\u207b\u00b3<br>\u00a0= 12.10\u00b3/1,05.10\u207b\u2077<br>\u00a0= 11,4.10\u00b9\u2070 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

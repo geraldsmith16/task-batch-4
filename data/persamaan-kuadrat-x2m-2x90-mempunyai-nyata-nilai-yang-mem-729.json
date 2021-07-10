@@ -1,0 +1,136 @@
+{
+    "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-perusahaan-memproduksi-x-unit-barang-dengan-biaya-4x2-8x-540",
+            "question": "Suatu perusahaan memproduksi x unit barang    dengan biaya ( 4x^2-8x+24) dalam ribu rupiah untuk tiap unit \r\n jika barang tersebut terjual habis dengan harga 40.000 tiap unit keuntungan maksimum nya yang diperoleh perusahaan tersebut adalah...\r\n mohon bantuannya ya..\r\n buatin caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Suatu perusahaan memproduksi x unit barang dengan biaya (4x^2 \u2013 8x + 24) dalam ribu rupiah untuk tiap unit</strong>. Jika barang tersebut terjual habis dengan harga Rp40.000,00 tiap unit maka <strong>keuntungan maksimumnya yang diperoleh perusahaan tersebut </strong>adalah Rp32.000,00. Hasil tersebut diperoleh dengan mencari nilai stasioner. Nilai stasioner diperoleh jika f\u2019(x) = 0. Titik stasioner ada 3 jenis yaitu\n</p><ul><li>Titik balik maksimum diperoleh jika f\u201d(x\u2081) &lt; 0\n</li><li>Titik balik minimum diperoleh jika f\u201d(x\u2081) &gt; 0\n</li><li>Titik belok diperoleh jika f\u201d(x\u2081) = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Biaya per unit = (4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>maka\n</p><p><strong>Biaya untuk memproduksi x unit\n</strong></p><p>B(x) = x(4x\u00b2 \u2013 8x + 24) ribu rupiah\n</p><p>B(x) = (4x\u00b3 \u2013 8x\u00b2 + 24x) dalam ribu rupiah\n</p><p></p><p>Harga jual per unit = Rp40.000,00 = 40 ribu rupiah\n</p><p>maka\n</p><ul><li>harga jual untuk x unit = 40x ribu rupiah\n</li></ul><p></p><p>Sehingga<strong> keuntungan yang diperoleh perusahaan</strong> adalah\n</p><p>U = harga jual \u2013 biaya produsi\n</p><p>U = 40x \u2013 (4x\u00b3 \u2013 8x\u00b2 + 24x)\n</p><p>U = 40x \u2013 4x\u00b3 + 8x\u00b2 \u2013 24x\n</p><p>U = \u20134x\u00b3 + 8x\u00b2 + 16x\n</p><p>U\u2019 = \u201312x\u00b2 + 16x + 16\n</p><p></p><p><strong>Agar diperoleh keuntungan maksimum, maka U\u2019 = 0\n</strong></p><p>\u201312x\u00b2 + 16x + 16 = 0\n</p><p>\u20134(3x\u00b2 \u2013 4x \u2013 4) = 0\n</p><p>\u20134(x \u2013 2)(3x + 2) = 0\n</p><p>(x \u2013 2) = 0 atau (3x + 2) = 0\n</p><p> \u00a0 \u00a0 \u00a0 x = 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03x = \u20132\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = \u00a0[tex]-\\frac{2}{3}[/tex]\n</p><p>karena <strong>jumlah produksi tidak mungkin bernilai negatif</strong>, maka kita pilih <strong>x = 2\n</strong></p><p></p><p>Jadi <strong>keuntungan maksimum yang diperoleh perusahaan tersebut</strong> adalah\n</p><p>U = (\u20134x\u00b3 + 8x\u00b2 + 16x) ribu rupiah\n</p><p>U = (\u20134(2)\u00b3 + 8(2)\u00b2 + 16(2)) ribu rupiah\n</p><p>U = (\u20134(8) + 8(4) + 32) ribu rupiah\n</p><p>U = (\u201332 + 32 + 32) ribu rupiah\n</p><p>U = 32 ribu rupiah\n</p><p><strong>U = Rp32.000,00\n</strong></p><p></p><h3>Pelajari lebih lanjut\n</h3><p></p><p>Contoh soal lain tentang nilai stasioner\n</p><ul><li>Laba maksimum: brainly.co.id/tugas/10878909\n</li><li>Penjualan maksimum: brainly.co.id/tugas/13787566\n</li><li>Biaya minimum: brainly.co.id/tugas/252367\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 11\n</p><p><strong>Mapel</strong> : Matematika \u00a0\n</p><p><strong>Kategori</strong> : Turunan Fungsi Aljabar\n</p><p><strong>Kode</strong> : 11.2.9\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-px-2x33x2-xnjika-px-dibagi-x-2-819",
+            "question": "Diketahui\u00a0suku banyak P(x) =2x\u00b3+3x\u00b2-x+n.jika\u00a0p(x) dibagi (x-2)bersisa\u00a025,p(x)dibagi\u00a0(x+1)    terimakasih...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>P(x) =2x\u00b3+3x\u00b2-x+n.jika\u00a0p(x) dibagi (x-2)bersisa\u00a025<br>P(2) = 2.2\u00b3 + 3.2\u00b2 - 2 + n<br>25 = 16 + 12 - 2 + n<br>25 = 26 + n<br>n = -1<br></span><br><span><span><br>P(x) =2x\u00b3+3x\u00b2-x - 1</span><br><br>P(x) dibagi (x + 1) sisa ==&gt;<br><br>P(-1) = </span>2.(-1)\u00b3+3(-1)\u00b2-(-1) -1 = -2 + 3 + 1 - 1 = 1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1jika-suku-ke-7-suatu-barisan-aritmatika-adalah-22-dan-suku-ke-628",
+            "question": "1.jika suku ke - 7 suatu barisan aritmatika adalah 22 dan suku ke - 12 adalah 37.tentukan suku ke - 14 barisan tsb    2.tentukan rumus suku ke (n) dari barisan aritmatika 13,10,7,4 adalah\r\n\r\n3.diketahui suku pertama suatu barisan geometri adalah 16 dan suku ketiga 36 tentukan suku ke - 5 barisan tersebut\r\n\r\n4.diketahui deret geometri dengan suku pertama 4 dan suku ke 5 = 324,hitung jumlah delapan suku pertama deret tersebut\r\n\r\n5.deret aritmatika jumlah suku kedua dan keenam adl 26 dan jumlah suku keempat dan kedelapan adalah\u00a0 38 tentukanlah :\r\n\r\na.suku pertama dan bedanya \r\nb.jumlah sepuluh suku pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1)<br>U7 = a+6b =\u00a022<br>U12 = a+11b =\u00a037<br>U14 = ?<br><br>a+6b = 22<br>a+11b = 37<br>__________-<br>-5b = -15<br>b\u00a0=\u00a03<br><br>Cari a , b=3<br>a+6b = 22<br>a+18 = 22<br>a = 4<br><br>U14 = a+13b<br>U14 = 4+13(3)<br>U14 = 4+39<br>U14 =\u00a043<br><br>2)<br>U1 = 13<br>U2 = 10<br>U3 = 7<br>U4 = 4<br>b = U4 - U3 = 4 - 7<br>b = -3<br>Un = a+(n-1)b<br>U4 = a+(4-1)b<br>U4 = a+3b<br><br>3)<br>U1 = a = 16<br>U3 = ar^2 =\u00a036<br>U5 = ?<br>cari r<br>U1/U3 = 16/36<br>a/ar^2 = 16/36<br>1/r^2 = 4/9<br>r^2 = 9/4<br>r = 3/2<br>U5 = ar^4<br>U5 = 16(3/2)^4<br>U5 = 16(81/16)<br>U5 = 81<br><br>CMIIW<br><br>Maaf, No 4 dan 5 saya masih dalam pembelajaran hehe",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. u7 = a + 6b = 22<br>\u00a0 \u00a0<u>u22= a + 12b = 37 +<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -15b = -15<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b = 1<br>a + 6 (1) = 22<br>a + 6 \u00a0 \u00a0 \u00a0\u00a0= 22<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 22 - 6<br>a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 16<br><br>u14 = a + 13b<br>\u00a0 \u00a0 \u00a0 = 16 + 13.1<br>\u00a0 \u00a0 \u00a0\u00a0= 29<br>2. un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 + ( n-1)-3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 13 - 3n + 3<br>\u00a0 \u00a0 \u00a0 \u00a0 = 16 - 3n<br><br>yang nomer selanjutnya ntar dulu yach, mo shalat dulu.. hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-dari-barisan-geometri-adalah-243hasil-bagi-suku-ke-9-d-353",
+            "question": "suku ke 5 dari barisan geometri adalah 243,hasil bagi suku ke 9 dengan suku ke 6 adalah 27,suku ke 2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XII</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Barisan dan Deret</strong><br><strong>Kata Kunci : geometri, rasio, suku</strong><br><br><strong>Kode : 12.2.7 [</strong><span><strong>Kelas 12 Matematika BAB 7 - Baris dan Deret]</strong><br><br>Diketahui<br>Barisan geometri<br>Suku ke-5 atau U</span>\u2085 = 243<br>Hasil bagi suku ke-9 dengan suku ke-6 adalah 27<br><br>Ditanya<br>Suku ke-2 (U\u2082)<br><br>Penyelesaian<br><br>Gunakan rumus-rumus berikut ini untuk barisan geometri.<br><br>Rumus suku ke-n\u00a0\u21d2\u00a0[tex]U_n=a.r^{n-1}[/tex]<br>Keterangan<br>a = U\u2081 = suku pertama<br>r = rasio<br><br><strong>Step-1</strong><br><strong>Siapkan suku ke-5</strong><br><br>\u21d4 U\u2085 = 243<br>\u21d4\u00a0[tex]a.r^4=243[/tex]<br><br><strong>Step-2</strong><br><strong>Hubungan antara suku ke-9 dengan suku ke-6 untuk mendapatkan rasio</strong><br><br>\u21d4\u00a0[tex] \\frac{U_9}{U_6}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{a.r^8}{a.r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex] \\frac{r^8}{r^5}=27 [/tex]<br><br>\u21d4\u00a0[tex]r^3=27[/tex]<br><br>DIperoleh rasio sebesar r = 3.<br><br><strong>Step-3</strong><br><strong>Menentukan suku pertama</strong><br><br>Substitusikan rasio ke dalam suku ke-5.<br><br>\u21d4\u00a0[tex]a.(3)^4=243[/tex]<br>\u21d4\u00a0[tex]a.81=243[/tex]<br>Diperoleh suku pertama yaitu a = 3.<br><br><strong>Final step</strong><br><strong>Hitung ke-2</strong><br><br>\u21d4\u00a0[tex]U_2=a.r[/tex]<br>\u21d4\u00a0[tex]U_2=(3)(3)[/tex]<br><br><strong>Diperoleh suku kedua yaitu U\u2082 = 9.</strong><br><br>__________________________<br><br>Simak soal notasi sigma\u00a0<br>brainly.co.id/tugas/13193195<br>Soal mengenai pembuktian dengan induksi matematika<br>https://brainly.co.id/tugas/13567638<br>Serta soal terkait deret aritmatika<br>brainly.co.id/tugas/1124372<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

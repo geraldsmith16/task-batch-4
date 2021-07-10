@@ -1,0 +1,130 @@
+{
+    "question": "Tentukan jumlah bilangan asli antara 1 sampai 100 yang habis dibagi 3.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "bolangan kelipatan 3 antara 1- 100 <br>a = bilangan yang bisa di bagi 3 yang lebih besar dari pada 1<br>\u00a0\u00a0 = 3 <br>b = selisih bilangan <br>\u00a0\u00a0 = 3<br>Un = bilangan yang mendekati 100 dan dapat di bagi 3 <br>\u00a0\u00a0 \u00a0  = 99<br>Un = a + (n-1) b <br>99\u00a0 = 3 + (n-1) 3<br>99\u00a0 = 3 + 3n - 3<br>99\u00a0 = 3n<br>99/3 = n <br>\u00a0 33\u00a0 =<strong> n </strong><br><strong>jumlah bilnagan kelipatannya adalah</strong> <br>sn = n/2 (a +un)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 3+99)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 102)<br>\u00a0\u00a0 \u00a0  = 33 x 51<br>\u00a0 \u00a0\u00a0 = 1683 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-20-dari-barisan-420-2-adalah-824",
+            "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaaa-a-x-02-548",
+            "question": "Tolong bantu yaaa \r\na x 0^2 = ....?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a\u00a0x 0^2 = a x (0 x 0)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a x 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-2a3-4a-pangkat-23-426",
+            "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-persamaan-kuadrat-dari-persamaan-kuadrat-4xpangkat2-13x-930",
+            "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-vektor-a-2i-j-k-dan-b-i-2j-k-nilai-sinus-su-280",
+            "question": "Diketahui vektor a= 2i - j + k\u00a0dan b= i - 2j + k. nilai sinus sudut antara vektor a dan b adalah..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "|a||b|cos A = (2)(1) + (-1)(-2) + (1)(1)<br>(\u221a6)(\u221a6)cos A = 5<br>cos A = 5/6<br>sin A =\u00a0[tex] \\sqrt{1-cos^2A} [/tex]<br>sin A =\u00a0[tex] \\sqrt{1- \\frac{25}{36} } [/tex]<br>sin A =\u00a0[tex] \\sqrt{ \\frac{11}{36} } [/tex]<br>sin A =[tex] \\frac{1}{6}  \\sqrt{11} [/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-2sinx-cosx-cosx-0-258",
+            "question": "Tolong yaa,,..\r\n2sinx cosx - cosx =0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 sin x cos x - cos x = 0<br>(2 sin x - 1)cos x = 0 <br>2 sin x - 1 = 0 atau cos x = 0<br>2 sin x = 1 <br>sin x = [tex] \\frac{1}{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

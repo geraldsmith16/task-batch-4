@@ -1,0 +1,152 @@
+{
+    "question": "Tolong rumus mencari bruto, tara, netto, %tara, %netto........",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "bruto=netto+tarra\nnetto=bruto-tarra\ntarra=bruto-netto",
+            "attachments": []
+        },
+        {
+            "answer": "bruto = netto + tarra<br>tarra = bruto - nett0<br>netto = bruto - tarra<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-pak-endang-meminjam-uang-sebesar-800000-pda-sebuah-bank-dan-929",
+            "question": "1. \u00a0pak endang meminjam uang sebesar 800.000 pda sebuah bank dan akan diangsur tiap bulan sbnyk 5 kli. jka bsr bunga pinjaman 14,4% pertahun,,mka bsr angsuran tiap bulannya adlh....    a. 176.000 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 169.600\r\nb. 172.000 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 165.000\r\n\r\n\r\n2. \u00a0sebuah bank menawarkan modal pinjaman sebsr 1.500.000 yg harus dikembalikan selama 4 bulan. jka bsr angsuran tiap bulan beserta bungany sma dngan 401.250 mka bsr bunga pinjaman pertahun adlh...\r\na. 15%\r\nb. 18%\r\nc. 20%\r\nd. 21%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diket = 14,4% = 5.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 =\u00a0 800.000 = 160.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0 165.000<br><br>2. a. 15%<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-segitiga-sama-kaki-36-cm-jika-panjang-alasnya-10-382",
+            "question": "keliling sebuah segitiga sama kaki 36 cm, jika panjang alasnya 10 cm, maka tinggi segitiga itu adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "segitiga sama kaki<br>alas: 10 cm<br>berarti= 36-10=26<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =26/2(karena segitiga sama kaki)=18<br>jadi sisi segitiga adalah: sisi kaki kiri: 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi kaki kanan: 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 alas: 10<br><br>mencari tinggi: gunakan rumus pithagoras<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a2+b2=c2<br>sisi alas dipotong 2 karena akan mencari tinggi berarti ditarik garis dari titik puncak segitiga,sehingga sisi alas terbagi 2.\u00a0<br>jadi= a2+b2=c2<br>\u00a0 \u00a0 \u00a0 \u00a0a2= b2-c2<br>\u00a0 \u00a0 \u00a0 \u00a0a2= 18 pangkat 2-5 pangkat 2<br>\u00a0 \u00a0 \u00a0 \u00a0a2= 324-25<br>\u00a0 \u00a0 \u00a0 \u00a0a2= 299<br>\u00a0 \u00a0 \u00a0 \u00a0 a= 299 akar dua<br>\u00a0 \u00a0 \u00a0 \u00a0 a= 17,29 -&gt; dibulatkan jadi 17,30<br><br>jadi tinggi segitiga adalah 17,3\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-ruang-gabungan-dari-balok-dan-limas-dengan-ukuran-b-828",
+            "question": "sebuah bangun ruang gabungan dari balok dan limas dengan ukuran balok 10 cm x 10 cm x 12 cm dan tinggi limas 12 cm. Sisi bagian atas balok berimpit dengan alas limas, Luas permukaan ruang gabungan tersebut? Tolong bantu ya gan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>luas bangun gabungan, dapat dicari dengan menjumlah luas masing\" bangun dan dikurangi luas sisi yang berhimpit</p><h3>Pembahasan</h3><p>luas permukaan balok tanpa tutup\u00a0</p><p>= (pxl) + 2x(pxt) + 2x(lxt)</p><p>= (10x10) + 2x(10x12) + 2x(10x12)</p><p>= 100 + 240 + 240</p><p>= 580 cm\u00b2</p><p>luas selimut limas</p><p>(cari tinggi sisi tegak dg phitagoras) </p><p>tinggi sisi tegak = \u221a(12^2 + 5^2) </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a(144 + 25)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a169</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 cm</p><p>luas selimut limas</p><p>= 4 x 1/2 x 10 x 13</p><p>= 2 x 130</p><p>= 260 cm\u00b2</p><p>luas permukaan bangun = 580 + 260 = 840 cm\u00b2</p><h3>Pelajari Lebih Lanjut</h3><p>luas permukaan bangun ruang sisi datar dapat disimak di </p><p>https://brainly.co.id/tugas/14475</p><p>luas permukaan bangun dg sisi lengkung dapat disimak di</p><p>https://brainly.co.id/tugas/3627145</p><p>https://brainly.co.id/tugas/3388260</p><h3>=================================</h3><h3>Detail Jawaban</h3><p><strong>kelas </strong>: 6</p><p><strong>mapel </strong>: matematika</p><p><strong>kategori </strong>: luas dan volume</p><p><strong>kata kunci </strong>: luas gabungan</p><p><strong>kode </strong>: 6.2.4</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L P balok tanpa tutup = (K \u00d7 t) + (s \u00d7 s)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (4 \u00d7 10 \u00d7 12) cm\u00b2 + (10 \u00d7 10) cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 480 cm\u00b2 + 100 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 580 cm\u00b2<br><br>sisi tegak limas = m<br>m\u00b2 = (s/2)\u00b2 + t\u00b2<br>\u00a0\u00a0 \u00a0 = (10/2)\u00b2 + 12\u00b2<br>\u00a0\u00a0 \u00a0 = 25 + 144<br>\u00a0\u00a0 \u00a0 = 169<br>\u00a0m = \u221a169<br>\u00a0m = 13 cm<br><br>L limas tanpa alas = 4 \u00d7 1/2 \u00d7 s \u00d7 m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 \u00d7 1/2 \u00d7 10 \u00d7 13 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 260 cm\u00b2<br><br>L P gabungan = 580 cm\u00b2 + 260 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 840 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-semua-bilangan-bulat-antara-100-dan-500-yang-tid-609",
+            "question": "Hitunglah jumlah semua bilangan bulat antara 100 dan 500 yang tidak habis dibagi 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]jumlah seluruhnya \\\\ S_{400} = \\frac{400}{2} (2(100)+(399)1) \\\\ S_{400} = 200(599) \\\\ S_{400} = 119800 \\\\ \\\\ kelipatan5 \\\\ S_{400} = \\frac{80}{2} (100+500) \\\\ S_{400} = 40(600) \\\\ S_{400} = 2400 \\\\ \\\\ 119800-2400=117400 \\\\ \\\\ *CMIIW*[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jumlah suku dari 100-500 dikurangi jumlah suku yg habis dibagi 5. Logikanya spt itu saja.\nMisal: suku dari 100-500 dgn b=1 kita misal A dan suku dari 100-500 dgn b=5 kita misal B (dipahami B habis dibagi 5)\nSn(A) = 401/2 x (100+500) = 401/2 x 600 = 120300\nSn(B) = 81/2 x (100+500) = 81/2 x 600 = 24300\nMaka jumlah yg tdk habis dibagi 5 misalkan C\nSn(C) = Sn(A) - Sn(B) = 120300-24300 = 96000\nPenyelesaian soal ini menggunakan konsep suku ke n deret aritmatik+jumlah suku aritmatik dan himpunan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kerangka-prisma-samasisi-terbuat-dari-kawat-panjang-rusuk-alas-da-254",
+            "question": "Kerangka prisma samasisi terbuat dari kawat panjang rusuk alas dan tinggi prisma masing-masing 12cm dan 14cm . Jika tersedia kawat sepanjang 6m,banyak kerangka prisma yang dapat dibuat adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panas matahari menembus bumi, dan panas dari api unggun yang dapat kita rasakan langsung tanpa perantara",
+                    "attachments": []
+                },
+                {
+                    "answer": "jumlah rusuk alas = 6 rusuk<br>1 rusuk = 12 cm<br>6 rusuk = 12 cm x 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 72 cm<br>jumlah rusuk tinggi = 3 rusuk<br>1 rusuk = 14 cm<br>3 rusuk = 14 cm x 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 42 cm<br><br>satu prisma membutuhkan = 42 cm + 72 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 114 cm<br>kawat tersedia = 6m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 600 cm<br>prisma yang bisa dibuat =\u00a0[tex] \\frac{600 cm}{114 cm} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5 buah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-kelas-terdapat-48-siswa-mereka-memilih-dua-jenis-ol-740",
+            "question": "Dalam suatu kelas\u00a0terdapat 48 siswa. mereka memilih dua jenis olah raga yang mereka gemari . ternyata 29 siswa gemar bermain\u00a0basket, 27 siswa gemar bermain voli, dan 6 siswa tidak menggemari kedua olahraga tersebut. buatlah gambar diagram venn dari keterangan tersebut !!\u00a0    (yang bisa buat gambarnya yang benar dapat poin lebih banyak :)) )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dalam suatu kelas terdapat 48 siswa, mereka memilih dua jenis olah raga yang mereka gemari</strong>. Ternyata 29 siswa gemar bermain basket, 27 siswa gemar bermain voli, dan 6 siswa tidak menggemari kedua olahraga tersebut. Buatlah gambar diagram venn dari keterangan tersebut. Untuk menggambar diagram vennya kita harus mencari jumlah siswa yang menyukai kedua olahraga tersebut. Hal tersebut dapat diperoleh dengan menggunakan rumus gabungan dua buah himpunan atau bisa juga menggunakan diagram Venn.\n</p><p>Rumus gabungan dua buah himpunan:\n</p><ul><li>n(A U B) = n(A) + n(B) \u2013 n(A \u2229 B) \u00a0</li><li>n(S) = n(A U B) + n(A U B)\u2019\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><ul><li>Ada 48 siswa \u21d2 n(S) = 48\n</li><li>29 siswa gemar bermain basket \u21d2 n(A) = 29\n</li><li>27 siswa gemar bermain voli \u21d2 n(B) = 27\n</li><li>6 siswa tidak menggemari kedua olahraga tersebut \u21d2 n(A U B)\u2019 = 6\n</li></ul><p></p><p><strong>Ditanyakan\n</strong></p><p>Buat diagram Venn!\n</p><p></p><p><strong>Jawab\n</strong></p><p>Dengan menggunakan rumus gabungan dua himpunan, maka diperoleh <strong>banyak siswa yang gemar kedua olahraga tersebut</strong> yaitu:\n</p><p>n(S) = n(A U B) + n(A U B)\u2019\n</p><p>n(S) = n(A) + n(B) \u2013 n(A \u2229 B) + n(A U B)\u2019\n</p><p>48 = 29 + 27 \u2013 n(A \u2229 B) + 6\n</p><p>48 = 62 \u2013 n(A \u2229 B)\n</p><p>n(A \u2229 B) = 62 \u2013 48\n</p><p>n(A \u2229 B) = 14\n</p><p></p><p><strong>Banyak siswa yang </strong><u><strong>hanya</strong></u><strong> gemar bermain basket\n</strong></p><p>= n(A) \u2013 n(A \u2229 B)\n</p><p>= 29 \u2013 14\n</p><p>= 15\n</p><p></p><p><strong>Banyak siswa yang </strong><u><strong>hanya</strong></u><strong> gemar bermain Voli\n</strong></p><p>= n(B) \u2013 n(A \u2229 B)\n</p><p>= 27 \u2013 14\n</p><p>= 13\n</p><p></p><p>Setelah dapat data-data tersebut, maka kita bisa membuat diagram venn nya yaitu dapat dilihat dilampiran\n</p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang himpunan\n</p><ul><li>Banyak pembaca menyukai majalah politik: brainly.co.id/tugas/15514952\n</li><li>Banyak balita yang belum diimunisasi: brainly.co.id/tugas/15476069\n</li><li>Banyak siswa yang menyukai IPA dan IPS: brainly.co.id/tugas/20671007\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori</strong> : Himpunan\n</p><p><strong>Kode</strong> : 7.2.1\n</p><p></p><p><strong>Kata Kunci</strong> : memilih dua jenis olah raga yang mereka gemari, basket, voli\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/dalam-suatu-kelas-terdapat-48-siswa-mereka-memilih-dua-jenis-ol-740-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-besar-salah-satu-sudut-pusat-segi-n-beraturan-adalah-15maka-162",
+            "question": "Jika besar salah satu sudut pusat segi-n beraturan adalah 15,maka jumlah besar sudut segi-n tersebut adalah. . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus : Besar sudut pusat segi n = 360/n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 15\u00a0 \u00a0 \u00a0\u00a0 = 360/n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n\u00a0 \u00a0 \u00a0\u00a0 = 360/15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n\u00a0 \u00a0 \u00a0\u00a0 = 24<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perseg kan ada 4 sisi yg\u00a0sama,mungkin 15x4=60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pagar-tanaman-di-halaman-pak-roni-tingginya-98-cmpak-roni-memang-207",
+            "question": "pagar tanaman di halaman pak roni tingginya 98 cm.pak roni memangkas pagar tersebut sehingga tingginya berkurang 2 dm.setelah se bulan,tinggi pagar tanaman tersebut bertambah 90mm.tinggi pagar tanaman di halaman pak roni sekarang berapa cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "98 cm = 98 cm<br>2 dm = 20 cm<br>90 mm = 9 cm<br>so, (98-20) + 8<br><br>Bener kan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span></span>tinggi=98 cm<br>dipangkas=2dm <u></u>dikali 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  98cm - 20 cm=78 cm<br>bertambah 1 bulan=90 mm/10 =9 cm<br>jadi,78+9=87 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-pensil-dan-3-penggaris-adalah-rp1600-sedangkan-harga-3-692",
+            "question": "Harga 2 pensil dan 3 penggaris adalah Rp1.600, sedangkan harga 3 pensil dan 5 penggaris jenis yang sama adalah Rp2.500. Harga 4 pensil dan 2 penggaris adalah..    a. Rp1.800\r\nb. Rp1.875\r\nc.Rp 1.892\r\nd. Rp 2.400 \r\n\r\nPlease yng tau tolong dibantu yaah ;$ ^^ thanks~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 pensil = 500<br>1 pengaris = 200<br>4 pensil = 2000<br>2 penggaris = 400<br>jadi d . 2400",
+                    "attachments": []
+                },
+                {
+                    "answer": "2a + 3b\u00a0= Rp.1.600l x 3\u00a0\u0399 = 6a + 9b = 4.800<br>3a + 5b = Rp.2.500l\u00a0x 2\u00a0\u0399 =<u> 6a + 10b = 5.000 \u00a0 -</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a00 \u00a0+ (-1b) = -200<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -b = -200<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0b \u00a0 = Rp.200<br>2a + 3b\u00a0= Rp.1.600l\u00a0x 5\u00a0\u0399 = 10a + 15b = 8.000<br>3a + 5b = Rp.2.500l\u00a0x 3\u00a0\u0399 =\u00a0 <u>9a + 15b = 7.500 \u00a0-<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a \u00a0 \u00a0+ 0 = 500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = Rp.500<br>4(500) + 2(200) = 2.000 + 400<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp.2.400,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-berjari-jari-5-cm-dan-15-cm-hitunglah-perband-219",
+            "question": "Dua buah lingkaran berjari-jari 5 cm dan 15 cm. Hitunglah perbandingan    a. Kedua kelilingnya;\r\n b. Selisih kelilingnya;\r\n c. Kedua luasnya;\r\n d. Selisih luasnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika-Bangun Datar<br>Kelas : 1 SMP/VII SMP<br>Pembahasan :<br><br>A. Perbandingan keliling<br>Keliling lingkaran 1 = K1 = 2\u03c0r\u2081 = 2.3,14.5 = 31,4 cm<br>Keliling lingkaran 2 =\u00a0K2\u00a0= 2\u03c0r\u2082 = 2.3,14.15 = 94,2 cm<br>K1 : K2 = 31,4 : 94,2 = 1 : 3<br><br>B. Selisih keliling<br>Selisih = K2 - K1 = 94,2 - 31,4 = 62,8 cm<br><br>C. Perbandingan Luas<br>Luas lingkaran 1 = L1 = \u03c0r\u2081\u00b2 = 3,14.5\u00b2 = 78,5 cm\u00b2<br>Luas lingkaran 2 = L2 = \u03c0r\u2082\u00b2 = 3,14.15\u00b2 = 706,5 cm\u00b2<br>L1 : L2 = 78,5 : 706,5 = 1 : 9<br><br>D. Selisih Luas<br>Selisih = L2 - L1 = 706,5 - 78,5 = 628 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

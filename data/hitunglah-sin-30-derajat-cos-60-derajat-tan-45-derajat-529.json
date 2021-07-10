@@ -1,0 +1,142 @@
+{
+    "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+            "attachments": []
+        },
+        {
+            "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-2sinx-cosx-cosx-0-258",
+            "question": "Tolong yaa,,..\r\n2sinx cosx - cosx =0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 sin x cos x - cos x = 0<br>(2 sin x - 1)cos x = 0 <br>2 sin x - 1 = 0 atau cos x = 0<br>2 sin x = 1 <br>sin x = [tex] \\frac{1}{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-limit-berikut-1-lim-x3-x3-3x22x-6-x-359",
+            "question": "Hitunglah nilai limit berikut :    1). lim (x\u21d23) X\u00b3-3X\u00b2+2X-6: X+4\r\n2). lim (X\u21d20) X\u00b3-5X+5: X\u00b2-2X+3\r\nc). lim (X\u21d2-1) 2X+1: X\u00b2-3X+4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) lim x-&gt; 3 \u00a0 (x^3 - 3x^2 + 2x - 6) / (x + 4)<br>harus ada yang dihilangkan (malas ketikknya :3, sorry )<br><br>2) lim x-&gt;0 \u00a0 \u00a0(x^3 - 5x + 5) / (x^2 - 2x + 3)<br>lim x-&gt;0 \u00a0 \u00a05/3<br><br>3) lim x-&gt;-1 \u00a0 (2x+1) / (x^2 - 3x + 4)<br>lim x-&gt;-1 \u00a0 (-1) / (8)<br>hasil -&gt; -1/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ini-penting-penarikan-kesimpulan-1-jika-rudi-tidak-mel-701",
+            "question": "Tolong ya ini penting    Penarikan Kesimpulan\r\n1. Jika Rudi tidak melanjutkan kuliah atau bekerja\r\n\u00a0 \u00a0 maka ibu menjodohkan Rudi.\r\n\u00a0 \u00a0 Ibu tidak menjodohkan Rudi.\r\n\u00a0 \u00a0Kesimpulannya adalah ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n2. Diketahui premis-premis sebagai berikut.\r\n\u00a0 \u00a0 P1 : Jika ombak\u00a0besar maka nelayan tidak menangkap ikan.\r\n\u00a0 \u00a0 P2 : Jika nelayan tidak menangkap ikan maka tidak ada orang yang berjualan ikan di pasar\r\n\u00a0 \u00a0Kesimpulan kedua premis diatas adalah ....\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n3. Diketahui premis-premis:\r\n\u00a0 \u00a0 ~m v b\r\n\u00a0 \u00a0 ~c v ~a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Isian yang tepat adalah ....\r\n\u00a0 \u00a0\u00a0~a\u00a0\u21d2 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. ~c\r\n\u00a0 \u00a0~b \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. ~m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. c\r\n\u00a0 \u00a0 ............\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. ~b\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n4. Premis 1 : Jika Ijad tidak masuk sekolah maka Ijad di rumah sakit.\r\n\u00a0 \u00a0 Premis 2 : Jika Ijad di rumah sakit maka Ijad sakit demam berdarah.\r\n\u00a0 \u00a0 \u00a0Silogisme di atas mempunyai kesimpulan ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n5. Diketahui:\r\n\u00a0 \u00a0P1 : Jika servis hotel baik maka hotel itu banyak tamu.\r\n\u00a0 \u00a0P2 : Jika hotel itu banyak tamu, maka hotel itu mendapat untung.\r\n\u00a0 \u00a0P3 : Hotel tidak mendapat untung.\r\n\u00a0 Kesimpulan dari Argumen di atas adalah ....\r\n\u00a0 \u00a0Jawabannya:",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab\u00a0<br><br>1 . Rudi melanjutkan kuliah karna rudi tidak dijodohkan ibunya\u00a0<br>2, jika ombak besar maka nelayan tidak bisa menangkap ikan maka pasar pun akan sepi karna tidak ada nelayan yang berjualan\u00a0<br>3. a<br>4 ijad tidak masuk sekolah dan dirawat dirumah sakit karana terkena demam berdarah\u00a0<br>5 hotel tersebut servisnya tidak baik karna hotel itu sepi\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.rudi melanjutkan kuliah<br>2.jika ombak besar maka tidak ada orang yang berjualan ikan di pasar<br>3.d.<span>~c<br>4.jika ijad tidak masuk sekolah maka ijad sakit demam berdarah<br>5.servis hotel itu baik<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7log-2a-dan-2log-3b-maka-6-log-14-258",
+            "question": "Jika 7log 2=a dan\u00a0\u00b2log 3=b maka 6 log 14=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>log 14</u> =\u00a0<u>log 2. 7</u><br>log 6 \u00a0 \u00a0 \u00a0log 2.3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>log 2 + log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 2 + log 3\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>2log 2 + 2 log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2log 2 + 2 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>1+a<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01 +b<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-dibagi-dengan-x-2-sisanya-24-sedangkan-jika-fx-777",
+            "question": "Jika f(x) dibagi dengan (x \u2013 2) sisanya 24, sedangkan jika f(x) dibagi dengan (2x \u2013 3) sisanya 20. Jika f(x) dibagi dengan (x \u2013 2) (2x \u2013 3), sisanya adalah ...    .A. 8x + 8\u00a0\r\nB. 8x \u2212 8\u00a0\r\nC. \u2212 8x + 8\u00a0\r\nD. \u2212 8x \u2212 8\u00a0\r\nE. \u2212 8x + 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakek cara horner niy ,,, kalau buat disini agak sulit<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2)= 24<br>f(3/2)=20<br>2a + b=24<br>3/2a + b = 20 X 2\u00a0 {3a + 2b= 40}<br>baru di elimenasi dapat a=8 dan b=8<br>ax +b = 8x + 8 {a}<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Apa saja syarat syarat agar kita bisa mendengar bunyi?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>Syarat - syarat agar bisa mendengar bunyi :<br><br>&gt;&gt; </strong>Ada Sumber bunyi<br><strong>&gt;&gt;</strong> Ada zat medium/perantara<br><strong>&gt;&gt;</strong> Ada alat pendengar/penerima bunyi <br>",
+            "attachments": []
+        },
+        {
+            "answer": "1.memerlukan sumber bunyi<br>2.memerlukan medium<br>3.telinga normal<br>5.memiliki frekuensi antara 20-2000 hz",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-menentukan-koefisien-muai-panjang-123",
+            "question": "Cara menentukan koefisien muai panjang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u2206L = Lo.\u03b1.\u2206t\u00a0<br><span>Lt = Lo (1 + \u03b1.\u2206t)\u00a0</span><br><span>\u2206L = perubahan panjang ; .\u2206t = perubahan suhu\u00a0</span><br><span>Lo = panjang mula-mula ; Lt = panjang akhir\u00a0</span><br><span>\u03b1 = koefisien muai panjang\u00a0</span><br><span>berarti..\u00a0</span><br><span>\u03b1=\u2206L/Lo.\u2206t\u00a0</span><br><span>atau...\u00a0</span><br><span>1+\u03b1\u2206t=Lt/Lo\u00a0</span><br><span>\u03b1\u2206t=(Lt/Lo)-1\u00a0</span><br><span>\u03b1=(Lt/Lo\u2206t)-1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-piston-dongkrak-hidrolik-dapat-mengangkat-benda-seberat-1t-880",
+            "question": "sebuah piston dongkrak hidrolik dapat mengangkat benda seberat 1ton dengan diameter piston 0,1m. jika luas penampang piston pengisap 0.01 m , hitunglah gaya minimal yang harus diberikan agar dapat mengangkat benda seberat itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m = 1 ton = 1000kg <br>F1= 1000kg * 10 m/s2 = 10.000 N<br>A1 = 0,1 m<br>A2 = 0,01 m<br>F2 = ?<br>jawab <br>F1/A1 = F2/A2<br>10.000 N /0,1 m = F2/0,01 m<br>10.000 N/ 0,1 m*0,01m = F2<br>10.000 N * 0,1 m = F2<br>1000 N = F2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-mempunyai-volume-10-cm-kubik-pada-suhu-18-derajat-ce-607",
+            "question": "sebuah benda mempunyai volume 10 cm kubik pada suhu 18 derajat celcius. koefisien muai panjang benda tersebut 0,000005.berapa volume benda saat bersuhu 20 derajat celcius ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : <br>Vo = 10<br>\u0394t = (20-18) = 2<br>\u03b1 = 0,000005 x 3 = 0,000015<br><br>Dit : Vt ?<br>\u00a0<br>jawab <br><br>Vt = Vo ( 1 + koefisien muai volume x \u0394t )<br>\u00a0\u00a0\u00a0 = 10 ( 1 + 0,000015 x 2 )<br>\u00a0\u00a0\u00a0 = 10 ( 1 + 0,00003 )<br>\u00a0\u00a0\u00a0 = 10 + 0,0003<br>\u00a0\u00a0\u00a0 = 10,0003<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "resultan-dua-gaya-yang-segaris-dan-searah-sama-dengan-340",
+            "question": "Resultan dua gaya yang segaris dan searah sama dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>resultan dua gaya yang segaris dan searah sama dengan jumlah kedua gaya tersebut.<br>semoga membantu :)<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "F1 + F2 =....<br>itu jawabannya karena searah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-tabel-hasil-percobaan-tentang-pemuaian-zat-cair-berik-383",
+            "question": "(Perhatikan tabel hasil percobaan tentang pemuaian zat cair berikut ini.)    Jenis Zat cair~Volume pada suhu30 derajad C(ml)~Volume pada suhu80derajad C(ml)\r\n\r\nAir \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0404,2\r\nMinyak goreng \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 414,5\r\n Alkohol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0400 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0422,0\r\na. Rumuskan masalah yang sesuai dengan tabel di atas!\r\nb. Berdasarkan masalah dan data tabel tersebut, apa kesimpulannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Masalah yang sesuai dengan tabel adalah <strong>perbedaan volume setelah zat cair dengan volume sama dipanaskan pada perubahan suhu yang sama.</strong></p><p>Kesimpulan berdasarkan masalah dari tabel adalah <strong>setiap zat cair memiliki koefisien muai volume yang berbeda - beda</strong></p><p><strong></strong></p><p><strong>Pembahasan</strong></p><p><strong></strong></p><p><strong>PEMUAIAN ZAT</strong></p><p><strong></strong></p><p>Benda apapun saat dipanaskan pada umumnya akan mengalami pemuaian. Ada tiga jenis pemuaian:</p><p>1. Pemuaian Panjang</p><p>\u0394L = Lo \u00d7 \u03b1 \u00d7 \u0394T</p><p>\u0394T = T akhir - T awal</p><p>L = Lo + \u0394L</p><p>L = Lo + Lo \u00d7 \u03b1 \u00d7 \u0394T</p><p>L = Lo (1 + \u03b1 \u00d7 \u0394T)</p><p>Dimana</p><p>L = panjang setelah pemanasan</p><p>Lo = panjang sebelum dipanaskan</p><p>\u03b1 = koefisien muai panjang(\\\u00b0C)</p><p>\u0394L = perubahan panjang</p><p>\u0394T = perubahan suhu</p><p></p><p>2. Pemuaian Luas</p><p>\u0394A = Ao \u00d7 \u03b2 \u00d7 \u0394T</p><p>A = Ao + \u0394A</p><p>A = Ao + Ao \u00d7 \u03b2 \u00d7 \u0394T</p><p>A = Ao (1 + \u03b2 \u00d7 \u0394T)</p><p>Dimana</p><p>A = luas setelah pemanasan</p><p>Ao = luas sebelum dipanaskan</p><p>\u03b2 = koefisien muai luas (\\\u00b0C)</p><p>\u0394A = perubahan luas</p><p>\u03b2 = 2 \u00d7 \u03b1</p><p></p><p>3. Pemuaian Volume </p><p>\u0394V = Vo \u00d7 \u03b3 \u00d7 \u0394T</p><p>V = Vo + \u0394V</p><p>V = Vo + Vo \u00d7 \u03b3 \u00d7 \u0394T</p><p>V = Vo (1 + \u03b3 \u00d7 \u0394T)</p><p>\u03b3 = 3 \u00d7 \u03b1</p><p>Dimana</p><p>V = volume setelah pemanasan</p><p>Vo = volume sebelum dipanaskan</p><p>\u03b3 = koefisien muai volume (\\\u00b0C)</p><p>\u0394V = perubahan volume</p><p><strong>Diket:</strong></p><p>To = 30 \u00b0C</p><p>Ta = 80 \u00b0C</p><p>Air \u21d2 Vo = 400 mL \u21d2 V = 404,2 mL</p><p>Minyak goreng \u21d2 Vo = 400 mL \u21d2 V = 414,5 mL</p><p>Alkohol \u21d2 Vo = 400 mL \u21d2 V = 422,0 mL</p><p><strong>Dit:</strong></p><p>A. Masalah yang sesuai dengan tabel ?</p><p>B. Kesimpulan dari masalah di A?</p><p><strong>Penjelasan:</strong></p><p>A. Perubahan suhunya semua sama.</p><p>\u0394T = Ta - To = 80 \u00b0C - 30 \u00b0C = 50 \u00b0C</p><p>Vo semua sama.</p><p>V berbeda - beda.</p><p><strong>Jadi masalah yang ada adalah perbedaan volume setelah zat cair dengan volume sama dipanaskan pada perubahan suhu yang sama.</strong></p><p></p><p>B. Berdasarkan rumus</p><p>V = Vo (1 + \u03b3 \u00d7 \u0394T) karena \u0394T dan Vo semua semua data sama, tetapi hasil V berbeda - beda, hal ini membuktikan bahwa hanya \u03b3 yang berbeda - beda pada setiap cairan.</p><p><strong>Kesimpulannya, setiap zat cair memiliki koefisien muai volume yang berbeda - beda.</strong></p><p><strong></strong></p><p><strong></strong></p><p>Pelajari lebih lanjut pada tugas</p><p>Pemuaian Panjang https://brainly.co.id/tugas/18455424</p><p>Pemuaian Zat Cair https://brainly.co.id/tugas/16747470</p><p>Pemuaian Volume Zat Padat https://brainly.co.id/tugas/23681687</p><p></p><p></p><p>Kategorisasi</p><p>Mapel : Fisika</p><p>Kelas : XI</p><p>Materi : Suhu dan Kalor</p><p>Kode Kategorisasi : 11.6.5.</p><p></p><p>Kata Kunci : Koefisien Muai Volume, Volume Awal, Volume Akhir, Perubahan Suhu</p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-indra-perasa-bukan-pengukur-suhu-yang-handal-968",
+            "question": "Mengapa indra perasa bukan pengukur suhu yang handal?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena lidah kita hanya merasakan keadaan sekitar dan bukan pengukur kuantitatif / tidak dapat menyatakan dengan angka<br><br>SEMOGA MEMBANTU<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-magnet-dan-kumparan-yang-saling-berdekatan-digerakkan-sehi-282",
+            "question": "Sebuah magnet dan kumparan yang saling berdekatan digerakkan sehingga perubahan garis gaya magnet yang terjadi bernilai nol. Pernyataan yg tepat terkait kondisi tersebut adalah...    A. GGL induksi bernilai nol\r\n B. GGL induksi bernilai kecil\r\n C. GGL induksi bernilai tetap\r\n D. GGL induksi bernilai besar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena ggl induksi terjadi jika ada perubahan garis gaya magnet jawabannya A",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-mencari-hambatan-671",
+            "question": "Apa rumus mencari hambatan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk mencari hambatan yaitu H =\u00a0[tex] \\frac{V}{I} [/tex]<br><br>h = hambatan ohm<br>v = tegangan listrik\u00a0volt\u00a0<br>I = kuat arus A",
+                    "attachments": []
+                },
+                {
+                    "answer": "Hambatan Listrik \u2192 Hambatan Yg Terjadi Pd Rangkaian Listrik.<br><br>HUKUM OHM.<br>Besarnya Hambatan Listrik ini Sebanding Dg Beda Potensialnya<br>( VOLT ), Serta Berbanding Terbalik Dg Kuat Arusnya.<br><br>R = V / I <br>I = V / R<br><span>V = I . R<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suhu-berapa-nilai-reamur-sama-dengan-celcius-206",
+            "question": "Pada suhu berapa nilai reamur sama dengan celcius??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br><br><span>\u00a0suhu 0\u00b0 R sama dengan suhu 0\u00b0 C</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "r = 4c/5 x - 4x/5 = 0 x = 0 Pada suhu nol derajat, skala celcius sama dengan skala rheamur.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menghitung-gaya-852",
+            "question": "Bagaimana cara menghitung gaya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "* Kecepatan = Jarak : waktu\n<span>\n\tatau bisa juga dilambangkan dengan v = s/t</span>\n\n\t\u00a0\n<span>\n\tv: kecepatan (meter / second)</span>\n<span>\n\ts: jarak (meter)</span>\n<span>\n\tt: waktu (second atau detik)</span>\n<span>\n\tSatuan dari keepatan adalah m / detik atau bisa juga km / jam..</span>\n\n\t\u00a0\n\n\t\u00a0\n<br>\n\t* Jarak = kecepatan x waktu\n<span>\n\tSatuan dari jarak adalah m atau km</span>...<br>* Waktu = jarak : kecepatan\n<span>\n\tSatuan dari waktu adalah detik atau jam</span>...<br><br>Rumus Gaya:\n<span>\n\tF = m x a</span>\n\n\t\u00a0\n<span>\n\tF: Gaya, satuannya: Newton atau Dyne</span>\n<span>\n\tm: massa benda, satuannya kg atau gr</span>\n<span>\n\t<span>a: percepatan, satuannya m/s2 atau cm/s2</span></span><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

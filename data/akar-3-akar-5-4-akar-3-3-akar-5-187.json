@@ -1,0 +1,136 @@
+{
+    "question": "Akar 3 + akar 5 \u00f7 4 akar 3 - 3 akar 5 = ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori Soal : Matematika - Bentuk Akar<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui\u00a0<br>\u221a3 +\u00a0\u221a5 : 4\u221a3 - 3\u221a5. <br>Soal belum lengkap. Kemungkinan soal yang ditanyakan tentang merasionalkan bentuk akar.\u00a0<br>Mari kita selesaikan.<br><br>[tex] \\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}\\\\=\\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}. \\frac{4 \\sqrt{3}+3 \\sqrt{5}}{4 \\sqrt{3}+3 \\sqrt{5}}\\\\= \\frac{4.3+3 \\sqrt{15}+4 \\sqrt{15}+3.5}{16.3-9.5}\\\\= \\frac{12+7 \\sqrt{15}+15}{48-45}\\\\= \\frac{27+7 \\sqrt{15}}{3}     [/tex]<br><br>Semangat!",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-dari-sinus-105-sinus-15-adalah-743",
+            "question": "Nilai dari sinus 105 - sinus 15 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sin 105 - sin 15 =\u00a0</span>[tex] \\frac{1 +  \\sqrt{3} }{2 \\sqrt{2} } -  \\frac{ \\sqrt{3}-1 }{2 \\sqrt{2} } =  \\frac{1}{2}  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-rumus-fungsi-f-dan-rumus-f-o-g-untuk-kondisi-g-o-f-302",
+            "question": "1. Tentukan rumus fungsi f dan rumus (f o g) untuk kondisi (g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1    2. Tentukan rumus fungsi f dan (g o f) untuk kondisi (f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1\r\n\r\n3. Tentukan rumus fungsi g dan rumus (g o f) untuk kondisi (f o g)(x) = akar 4x^2 + 12x + 14, f(x) = akar x^2 + 5, dan g(2) = 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0(g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1<br></span>\u00a0x^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 =\u00a04x^2 + 4x +1<br>\u00a0 f =\u00a0\u221a4x^2 + 4x +1<br>\u00a0 f = 2x+1<br><br>\u00a0 f o g =\u00a02(x^2 - 1)+1 = 2x^2-1<br><br><br><br>2.\u00a0<span>(f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1 \u00a0 \u00a0 g- = 1/2x -1/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f =\u00a0</span>4(1/2x -1/2)^2 - 6(1/2x -1/2) + 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f = x^2 - 5x + 9<br><br>\u00a0 g o f =\u00a02(x^2 - 5x + 9) + 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x^2 - 10x + 19<br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "1)\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x dan g(x) = x\u00b2\u00a0- 1<br>\u21d2\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x\u00a0<br>\u21d2 g(f(x)) =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 - 1 =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 =\u00a04x\u00b2\u00a0+ 4x + 1<br>\u21d2<br><br>2)\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5 dan g (x) = 2x + 1<br>\u21d2\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5\u00a0<br>\u21d2 f(g(x)) =\u00a04x\u00b2\u00a0- 6x + 5<br>\u21d2 f( 2x+1) = 4x\u00b2 - 6x +5<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a02x (2x\u00a0+1) + 4x + 5<br>\u21d2 \u00a0 \u00a0 \u00a0\u00a0f(x)\u00a0\u00a0= 2x\u00b2 + 4 x + 5 \u00a0 \u00a0, sehingga :<br>\u21d2\u00a0(g o f)(x)\u00a0= g (f(x))<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= g (\u00a02x\u00b2 + 4 x + 5 )<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2\u00a0(\u00a02x\u00b2 + 4 x + 5 ) + 1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x\u00b2 + 8x + 10 +1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a04x\u00b2 + 8x + 11<br><br><br><span>3)\u00a0(f o\ng)(x) =\u00a0\u221a4x\u00b2\u00a0+ 12x + 14, f(x) =\u00a0\u221ax\u00b2<span>\u00a0+\n5, dan g(2) = 7<br>\n\u00a0 \u00a0 \u00a0<span>\u221a4x\u00b2\n= 2x \u00a0 dan \u00a0 \u00a0\u221ax\u00b2\u00a0= x</span><br></span><span>\u21d2\u00a0(f o g)(x) =\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2 f (g(x)) \u00a0\n\u00a0=\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2\u00a0g(x) + 5\n\u00a0=\u00a02x\u00a0+ 12x + 14<br></span></span>\n\n<span>\u21d2\u00a0g(x)\n+ 5 \u00a0=\u00a02x\u00a0+\n12x + 14</span>\n<br><span>\u21d2 g(x) = 2x\u00a0+\n12x + 14 \u2013 5</span>\n<br><span>\u21d2 g(x) = 14x + 9 </span>\n\n\u00a0\n\n\u00a0\n<br><span><br>\u21d2\u00a0(g o f)(x)\u00a0= g\n(f(x))<span><br></span><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = g (x + 5)</span></span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = \u00a014 (x + 5) + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 14x + 60 + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0 14 x + 69</span><br><br>NB : 1 dan 3 belum selesai",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-bilangan-bulat-positif-pertama-sama-dengan-143",
+            "question": "Jumlah n bilangan bulat positif pertama sama dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dimaksu n adalah bilangan positif 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "contohnya aja ambil 2,4,6,8<br>nah ters kita anggap kalau 2 itu n<br>jadi kalau 4=n+2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06=n+4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>kalau mau dimasukin rumus juga bisa,kan rumusnya :<br>Un=a+(n-1)b<br>Un=2+(n-1)2<br><br>atau ada juga rumus yg gampang,yaitu Un=2n<br>kalau mau gampang sih mending pake yg Un=2n aja :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-tinggal-landas-membentuk-sudut-30-dengan-landa-816",
+            "question": "Sebuah Pesawat tinggal landas membentuk sudut 30\u00b0\u00a0 dengan landasan. Jika pesawat telah menempuh jarak 6km dari tinggal landas, berapa ketinggian Pesawat sekarang! Pliss yang tau coret\" di bawah :v",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggi pesawat artinya, didepan sudut 30\u00b0<br>nah, kalo gitu pake yang sin<br>sin = depan/miring<br>sin 30 = tinggi/6<br>0,5 = tinggi/6<br>tinggi = 0,5/6<br>tinggi = 5/60<br>tinggi = 1/12 km<br><br><br>setau aku sih gitu ya\u00a0:)<br>kalo salah maap ye",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-jenis-mesin-penggiling-padi-digunakan-untuk-menggiling-s-772",
+            "question": "Dua buah jenis mesin penggiling padi digunakan untuk menggiling satu peti padi. untuk menggiling satu peti padi, mesin jenis pertama lebih cepat 1/2 jan dari mesin jenis kedua. sementara jika kedua mesin digunakan sekaligus, dapat menggiling satu peti padi selama 6 jam.    a. berapa jam waktu yang digunakan mesin jenis pertama untuk menggiling satu peti padi\r\nb. berapa jam waktu yang digunakan mesin jenis kedua untuk menggiling satu peti padi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal<br>penggiling pertama=a<br>penggiling kedua=b<br>a lebih cepat1/2jam dari b, maka<br>a=b - 1/2 =&gt;a-b=1/2<br>adan b secara bersama 6 jam, maka<br>a + b = 6<br><br>a - b = 1/2 ditambah a + b =\u00a0 6<br><span>hasilnya 2a = 2 1/4\u00a0</span><br>maka lama yang dibutuhkan a 2 1/4 jam<br><br>a + b = 6<br>2 1/4 + b = 6<br>b= 3 3/4 jam<br><span>maka yang lama yang dibutuhkan b 3 1/4 jam<br><br>semoga bermanfaat :)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-2a3-4a-pangkat-23-426",
+            "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

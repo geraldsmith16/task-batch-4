@@ -1,0 +1,136 @@
+{
+    "question": "tolong beri jawabannya, hitung nilai p ,sukubanyak f(x)= x^5+(p-2)x pngt4+3px pngt3-x pngt2+2x+4 dibagi dgn x+1 menghasilkan sisa -10",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y = x^5 + (p-2)x^4 + 3px^3 - x^2 + 2x + 4 dibagi dengan (x+1) menghasilkan sisa -10. Nilai p ?<br><br>(x+1) artinya nilai x = -1<br><br>x = -1 , (nilai x dimasukkan kedalam persamaan y)<br>(-1)^5 + (p-2)(-1)^4 + 3(-1)^3 - (-1)^2 + 2(-1) + 4 = 0<br>-1 + (p-2)(1) + 3(-1) - 1 - 2 + 4 = 0<br>-1 + p - 2 - 3 +\u00a01 = 0<br>p - 5 = 0<br>p = 5<br><br>y = x^5 + 3x^4 + 15x^3 - x^2 + 2x + 4 dibagi (x+1) sisa -10<br><br>untuk percobaan agar menghasilkan sisa -10, silahkan dibagikan dengan x=-1 :)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]f(x) =  x^{5} + (p-2)  x^{4}  + 3p x^{3} -  x^{2} +2x +4[/tex]<br><br>karena dibagi (x+1) = -10 maka<br><br>[tex]f(-1) = -10 \\\\ -10 = (-1)^{5} + (p-2)(-1)^{4} + 3p(-1)^{3} - (-1)^{2} + 2(-1) + 4 \\\\ -10 = -1 +(p-2) - 3p -1 -2 +4 \\\\ -8 = -2p \\\\ p = 4[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-sin-beta-12-dan-sudut-beta-di-kuadran-iimaka-tan-beta-ad-846",
+            "question": "Jika sin beta = 1/2 dan sudut beta di kuadran II,maka tan beta adalah?\r\n thanx before",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sin beta = 1/2 = y/r\u00a0<br>maka, y ( sisi tegak lurus) = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r \u00a0(sisi miring) = 2<br>Yang dicari x (sisi vertikalnya)<br>Pakai rumus teorema phytagoras--&gt; x\u00b2 = r\u00b2 - y\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a2\u00b2- 1\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x =\u00a0\u221a4-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0\u221a3<br><br>Nah, rumus tan beta = y / x<br>Karena di kuadran 2, dimana x bernilai negatif (-), y bernilai positif (+) dan r bernilai positif (+)<br>maka, Tan beta = (+)y / (-)x = 1/-\u221a3 Karena penyebutnya akar, maka harus dirasionalkan dulu,\u00a0<br><br>---&gt; 1 / -\u221a3\u00a0\u00d7 (-\u221a3)/ (-\u221a3) = -\u221a3 / 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-identitas-trigonometri-berikut-sec2-a-cosec2-a-972",
+            "question": "Buktikan identitas trigonometri berikut! \u00a0 sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A<br></span><br><span>sec\u00b2 A + cosec\u00b2 A <br><br></span><br><span>(1/cos\u00b2 A) + (1/sin\u00b2 A)<br><br>sin\u00b2 A + cos\u00b2 A<br>-----------------------<br>sin\u00b2 A cos\u00b2 A<br><br>..........1..........<br>----------------------<br>sin\u00b2 A cos\u00b2 A...............terbukti<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-persamaan-kuadrat-x2-2px-p-2-mempunyai-2-akar-yang-sa-911",
+            "question": "1) Persamaan kuadrat x\u00b2 - 2px - p + 2 = mempunyai 2 akar yang sama. Tentukan nilai P \u00a0 2) Tentukan persamaan parabola yang grafiknya mempunyai koordinat titik balik (1,4) dan melalui titik (0,3) (lihat gambar) \u00a0",
+            "attachments": [
+                "question-attachments/1-persamaan-kuadrat-x2-2px-p-2-mempunyai-2-akar-yang-sa-911-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "1. D=0<br>b2-4ac=0<br>(-2p)2-4.1.(-p+4) = 0<br>4p2 + 4p - 16 = 0 :4<br>p2 +p - 4 = 0<br>rumus abc <br><br>2. y=a(x-xp)2 +yp<br>3= a(0- 1)2 + 4<br>=a+1<br>a=-1<br>-1(x-1)2 +4<br>=<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-a-merupakan-alas-jajargenjang-pqrs-dengan-t-merupakan-ti-440",
+            "question": "Misalkan a merupakan alas jajargenjang PQRS dengan t merupakan tingginya. Jika 2t \u00a0= 3a, tentukan:    a.panjang t\u00a0dalam a\r\nb.panjang alas dan tingginya jika luas jajargenjang tersebut 864 cm2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0 2t=3a<br>\u00a0\u00a0 \u00a0 \u00a0 t=3a/2<br><br>b.\u00a0 a.t= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a. 3a/2= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a\u00b2 = 864. 2/3<br>\u00a0\u00a0 \u00a0 a = 576<br>\u00a0\u00a0 \u00a0 a = \u221a576<br>\u00a0\u00a0 \u00a0 a =\u00a0 24 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. <br>a) 2t = 3a<br>t = 3a/2<br><br>b) L = alas x tinggi<br>864 = a x t subtitusikan t = 3a/2<br>864 = a x 3a/2<br>864 = 3a^2/2<br>1728 = 3a^2<br>a^2 = 1728/3<br>a^2 = 576<br>a = akar(576)<br>a = 24 cm<br><br>t = 3a/2 = 3x24/2 = 36 cm<br><br>keterangan ^ : pangkat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dari-fungsi-fxax2bxc-diketahui-f0-6-f1-dan-f22-796",
+            "question": "Jika dari fungsi f(x)=ax2+bx+c diketahui f(0)=-6, f(1) dan f(2)=28 maka f(x)=0 untuk x=...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(0)=a.0^2+b.0+c<br>-6=0+0+c<br>-6=c .............................nilai c<br><br>f(1)=a.1^2+b.1+c<br>28=a+b+(-6)<br>28+6=a+b<br>34=a+b ......................persamaan 1<br><br>f(2)=a.2^2+b.2+c<br>28=4a+2b+(-6)<br>28+6=4a+2b<br>34=4a+2b ......................persamaan 2\u00a0<br><br>f(1)=f(2)<br>a+b=4a+2b<br>a-4a=2b-b<br>-3a=b<br>b=-3a<br><br>34=2a+b\n\u00a0......................persamaan 1\n<br>34=2a+(-3a)<br>34=-a<br>a=-34<br><br>b=-3a<br>b=-3.34=-102<br><br>f(x)=0<br>-34x2-102x-6=0<br>-2.(17x2+51x+3)\u00a0=\u00a00<br>(17x+1) . (x+3)=0<br>x=\u00a0-1 / 17\u00a0\u00a0\u00a0\u00a0\u00a0 atau\u00a0\u00a0\u00a0 x= -\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-mempunyai-sepasang-akar-berkebalikan-nilai-p-905",
+            "question": "Persamaan\u00a0 mempunyai sepasang akar berkebalikan.    Nilai p\u00a0= .......\r\na. 18\r\nb. 6\r\nc. 3\r\nd. -6\r\ne. -18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mempunyai sepasang akar berkebalikan artinya : x\u2081 . x\u2082 = 1<br>x\u2081 . x\u2082 . x\u2083 = -d/a<br>x\u2083 = -8/2 = -4 <br>masukkan x = -4 ke persamaan : 2x\u00b3 + 3x\u00b2 + px + 8 = 0<br>akan didapat : <br>2(-64) + 3(16) - 4p + 8 = 0<br>-128 + 48 + 8 = 4p<br>p = - 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-1-1-sin-a-764",
+            "question": "Bentuk sederhana dari \u00a0 1/\u00a01+ sin A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{1+sinA} [/tex]<br>[tex] \\frac{1}{1+sinA} ( \\frac{1-sinA}{1-sinA} )[/tex]<br>[tex] \\frac{1-sinA}{1-sin^2A} [/tex]<br>[tex] \\frac{1-sinA}{cos^2A} [/tex]<br>[tex]sec^2A-secAtanA[/tex]<br>[tex]secA(secA-tanA)[/tex]<br>gitu bukan maksudnya?<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-dengan-skala-1-200000-jarak-kota-r-dan-s-pada-peta-573",
+            "question": "Pada peta dengan skala 1 : 200,000, jarak kota R dan S pada peta adalah 5 cm. Berapakah jarak yang sebenarnya antara kedua peta tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumusnya ini : JP = JS : S<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1000000cm = 10 kilometer",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

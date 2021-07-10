@@ -1,0 +1,141 @@
+{
+    "question": "Dari sebuah deret aritmatika, diketahui a=5, Un=29 dan Sn=357. Tentukan b dan n",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Sn=n/2(a+un). 357=n/2(5+29). 357=n/2*34. 357=17n. n=21. Un=a+(n-1)b. 29=5+(21-1)b. 24=20b. b=6/5",
+            "attachments": []
+        },
+        {
+            "answer": "<br>Un=a + (n-1) b<br>\u00a029 \u00a0= 5 + (29-1) b<br>29= 5 +28b<br>28b=24<br>b=24/28=6/7<br><br>29=5+(n-1)6/7<br>29=5+6/7n-6/7<br>29-5+6/7=6/7n<br>24+6/7=6/7n<br>168/7+6/7=6/7n<br>234/7=6/7n<br>n=234/7:6/7=234/7 x 7/6=39<br>\u00a0\u00a0<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753",
+            "question": "Apa yang dimaksud dengan dua sudut berpenyiku dan dua sudut berpelurus? beri contoh dengan gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dua sudut penyiku, apabila kedua sudut di jumlahkan hasilnya 90 derajat (sudut siku siku)<br>contoh: 30 derajat + 60 derajat<br>dua sudut pelurus, apabila dijumlahkan hasilnya 180 derajat (sudut lurus)<br>contoh: 50 derajat + 130 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut berpenyiku adalah sudut2 yg jika dijumlahkan hasilnya 90\u2070 sedangkat sudut berpelurus adalah sudut2 yg jika dijumlahkan hasilnya 180\u2070.",
+                    "attachments": [
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-1.jpg",
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-urine-yang-dikeluarkan-dari-tubuh-dipengaruhi-oleh-ab-617",
+            "question": "Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh ...    A.banyaknya makanan yang dimakan\r\nB.faktor emosional\r\nC.banyaknya cairan yang diminum\r\nD.jumlah glukosa yang harus dikeluarkan dari darah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas \u00a0 \u00a0 \u00a0 \u00a0 : X SMA<br>Pelajaran \u00a0 : Biologi<br>Kategori \u00a0 \u00a0 : Sistem Ekskresi<br>Kata kunci : jumlah urine, pengaruh<br><br>Pembahasan :<br><br>Faktor yang mempengaruhi jumlah urine yang dikeluarkan dari tubuh :<br><br>1.\u00a0<span>Hormon Antidiuretik (ADH)<br>\u00a0 \u00a0\u00a0</span><span>Jika darah yang akan disaring banyak mengandung air,\u00a0</span>\u00a0<span>maka hormon ADH yang disekresekikan ke dalam ginjal semakin sedikit, penyerapan air akan sedikit pula.<br><br>2.\u00a0</span><span>Hormon insulin<br>\u00a0 \u00a0\u00a0</span>Kadar hormon insulin yang rendah menyebabkan produksi urine meningkat sehingga penderita<span>\u00a0\u00a0</span><span>sering mengeluarkan urine.<br><br>3.\u00a0</span><span>Kondisi psikologis (gejolak emosi dan stress)<br>\u00a0 \u00a0\u00a0</span><span>Gangguan psikologis stress yang berpengaruh terhadap kontraksi dan tekanan pada katup kantung kemih.<br><br>4.\u00a0</span><span>Suhu lingkungan<br>\u00a0 \u00a0\u00a0</span><span>Saat cuaca dingin orang lebih sering untuk ingin mengeluarkan urine.<br><br>5.\u00a0</span><span>Konsumsi garam<br>\u00a0 \u00a0\u00a0</span><span>Kadar garam yang tinggi dalam darah menyebabkan ginjal memproduksi garam mineral yang lebih banyak sehingga produksi urine meningkat.<br><br>6.\u00a0</span><span>Jumlah air yang diminum<br>\u00a0 \u00a0\u00a0</span><span>Banyak minum akan menyebabkan urine yang dikeluarkan lebih banyak dari dalam tubuh.<br><br>7.\u00a0</span><span>Konsumsi alkohol dan kafein<br>\u00a0 \u00a0\u00a0<br><br>Jadi\u00a0</span>Jumlah urine yang dikeluarkan dari tubuh dipengaruhi oleh \u00a0<span><strong>banyaknya cairan yang diminum (C)</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7log-2a-dan-2log-3b-maka-6-log-14-258",
+            "question": "Jika 7log 2=a dan\u00a0\u00b2log 3=b maka 6 log 14=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>log 14</u> =\u00a0<u>log 2. 7</u><br>log 6 \u00a0 \u00a0 \u00a0log 2.3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>log 2 + log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 2 + log 3\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>2log 2 + 2 log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2log 2 + 2 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>1+a<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01 +b<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tabel-sudut-istimewa-trigonometri-0-360-981",
+            "question": "Tabel sudut istimewa trigonometri 0-360",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>ini\u00a0tabel sudut istimewa trigonometri 0-360</span>",
+                    "attachments": [
+                        "answer-attachments/tabel-sudut-istimewa-trigonometri-0-360-981-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726",
+            "question": "Tentukan nilai sinus, konsinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku. Panjang PQ adalah 4 dan panjang QR adalah 8. panjang PR belum diketahui.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Matematika</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Trigonometri Dasar</strong><br><strong>Kata Kunci : nilai, sinus, cosinus, tangen, sudut, PQR, panjang</strong><br><br><strong>Kode : 10.2.6 [Kelas 10 Matematika Bab 6 - Trigonometri Dasar]</strong><br><br><strong>Teks soal asli:</strong><br><span>Tentukan nilai sinus, kosinus, dan tangen untuk sudut P dan R pada setiap segitiga siku-siku di bawah ini. Nyatakan jawaban kamu dalam bentuk paling sederhana<br>A. siku-siku di Q, PQ = 4, QR = 8<br>B. siku-siku di Q, PR = 11, QR = 7<br>C. siku-siku di Q, PQ = 1, QR = 2<br><br><u><em>Perhatikan skema segitiga siku-siku pada gambar terlampir.</em></u><br><br><u><em>Penyelesaian</em></u><br><br>Perbandingan trigonometri<br></span>[tex]sin \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ miring} [/tex]<br>[tex]cos \\  \\alpha = \\frac{sisi \\ samping}{sisi \\ miring} [/tex]<br>[tex]tan \\  \\alpha = \\frac{sisi \\ depan}{sisi \\ samping} [/tex]<span><br><br><strong>Soal A</strong><br>Siapkan panjang PR<br></span>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2+8^2}[/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{4^2(1^2+2^2)}[/tex]<br>\u21d4 PR = 4\u221a5<br>------------------<br>\u21d4 [tex]sin \\ P= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} }  [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5}  [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{8}{4}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{4}{4 \\sqrt{5} }= \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{8}{4 \\sqrt{5} }= \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br><strong>Soal B</strong><br>Siapkan panjang PQ<br>\u21d4\u00a0[tex]PQ= \\sqrt{PR^2-QR^2} [/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{11^2-7^2}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{121-49}[/tex]<br>\u21d4\u00a0[tex]PQ= \\sqrt{72}\\ diperoleh \\ PQ=6 \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{7}{11} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{7}{6 \\sqrt{2}} [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]tan \\ P= \\frac{7}{12} \\sqrt{2}  [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{6 \\sqrt{2}}{11}= \\frac{6}{11} \\sqrt{2}[/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{7}{11}[/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{6 \\sqrt{2}}{7}= \\frac{6}{7} \\sqrt{2}[/tex]<br><br><strong>Soal C</strong><br>Siapkan panjang PR<br>\u21d4\u00a0[tex]PR= \\sqrt{PQ^2+QR^2} [/tex]<br>\u21d4\u00a0[tex]PR= \\sqrt{1^2+2^2}[/tex]<br>\u21d4 PR = \u221a5<br>------------------<br>\u21d4\u00a0[tex]sin \\ P= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ P= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ P= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ P= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ P= \\frac{QR}{PQ} = \\frac{2}{1}= 2 [/tex]<br>------------------<br>\u21d4\u00a0[tex]sin \\ R= \\frac{PQ}{PR} = \\frac{1}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]sin \\ R= \\frac{1}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]cos \\ R= \\frac{QR}{PR} = \\frac{2}{ \\sqrt{5} } [/tex]<br>\u21d4 Setelah dirasionalkan diperoleh nilai\u00a0[tex]cos \\ R= \\frac{2}{5} \\sqrt{5} [/tex]<br>------------------<br>\u21d4 [tex]tan \\ R= \\frac{PQ}{QR} = \\frac{4}{8}= \\frac{1}{2}[/tex]<br><br>__________________________<br><br>Pelajari kembali tentang cara menggambar letak sudut di kuadran tertentu<br>https://brainly.co.id/tugas/13830506<br>Pelajari materi yang akan datang mengenai persoalan trigonometri sudut rangkap\u00a0\u00a0brainly.co.id/tugas/13215524<br>Rumus tangen jumlah dua sudut\u00a0<span>brainly.co.id/tugas/4978342</span><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-nilai-sinus-konsinus-dan-tangen-untuk-sudut-p-dan-r-pa-726-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

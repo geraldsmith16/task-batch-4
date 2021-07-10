@@ -1,0 +1,137 @@
+{
+    "question": "sebanyak 50 ml HCL 0,01 M diencerkan sampai dengan volume 500 ml . hitunglah pH larutan HCL tersebut ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jawab :</strong></p><p>sebanyak 50 ml HCl 0,01 M diencerkan sampai dengan volume 500 ml. Maka pH larutan HCl tersebut adalah <strong>1.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : [HCl] = 0,01 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V HCl = 50 mL</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V larutan = 500 mL</p><p>Ditanya : pH sesudah pengenceran ?</p><p>Jawab :</p><ul><li>Hitung konsentrasi HCl setelah diencerkan dengan cara :</li></ul><p>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082</p><p>50 mL \u00d7 0,01 M = 500 mL \u00d7 M\u2082</p><p>50 mL.M = 500 mL \u00d7 M\u2082</p><p>M\u2082 = 50/500 M</p><p>M\u2082 = 0,1 M</p><p>M\u2082 = 10\u207b\u00b9 M</p><ul><li>Hitung pH setelah pengenceran dengan cara :</li></ul><p>[H\u207a] = a \u00d7 Ma</p><p> \u00a0 \u00a0 \u00a0 \u00a0= 1 \u00d7 0,1 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0= 0,1 M</p><p>pH = - log [H\u207a]</p><p> \u00a0 \u00a0 \u00a0= - log 10\u207b\u00b9</p><p> \u00a0 \u00a0 \u00a0= 1</p><p><strong>\u2234 Kesimpulan pH larutan setelah pengenceran adalah 1.</strong></p><p><strong>Pembahasan :\n</strong></p><p><strong>Pengertian Molaritas (M)\n</strong></p><p>Konsentrasi merupakan jumlah zat terlarut yang ada terhadap jumlah pelarut tertentu atau terhadap jumlah larutan tertentu. (diasumsikan zat terlarut berwujud cair atau padat, sedangkan pelarutnya berwujud cair) Konsentrasi dapat diungkapkan dengan beragam cara, salah satunya yang paling sering dipakai, dan memang akan kita gunakan sekarang ini adalah Molaritas (M), atau konsentrasi molar. Molaritas adalah jumlah mol terlarut setiap liter larutan. Atau bias diungkapkan dengan rumus:\n</p><p><strong>M = n/V\n</strong></p><p>Keterangan : M = konsentrasi zat\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n = mol zat terlarut\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = volume larutan (L)\n</p><p><strong>Pengenceran\n</strong></p><p>Proses pengenceran adalah proses yang dilakukan dengan mencampurkan pelarut yang lebih ukurannya dari suatu zat yang dilarutkannya. engenceran pada prinsipnya hanya menambahkan pelarut saja, sehingga jumlah mol zat terlarut sebelum pengenceran sama dengan jumlah mol zat terlarut sesudah pengenceran. Dengan kata lain jumlah mmol zat terlarut sebelum pengenceran sama dengan jumlah mmol zat terlarut sesudah penegenceran atau jumlah massa zat terlarut sebelum pengenceran sama dengan jumlah massa zat terlarut sesudah pengenceran.\n</p><p>Rumus : \u00a0</p><p><strong>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082\n</strong></p><p>Keterangan :\n</p><p>M\u2081 = Molaritas larutan sebelum pelarutan/pengenceran\n</p><p>V\u2081 = Volume larutan sebelum pelarutan/pengenceran\n</p><p>M\u2082 = Molaritas larutan sesudah pelarutan/pengenceran\n</p><p>V\u2082 = Volume Molaritas larutan sesudah pelarutan/pengenceran\n</p><p><strong>pOH \u00a0</strong></p><p>pOH digunakan untuk mengukur tingkat kebasaan suatu zat yang bersifat basa. contoh yang bersifat basa adalah sabun. kebasaan suatu zat kimia yang bersifat basa dihitung menggunakan pOH yang harus diubah ke pH. \u00a0</p><p>Rumus : \u00a0</p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = PKw - pOH \u00a0</strong></p><p><strong> \u00a0 \u00a0 \u00a0= 14 - pOH \u00a0</strong></p><p><strong>Perhitungan pH basa\n</strong></p><p>Sifat-sifat basa yaitu sebagai berikut : \u00a0</p><ul><li>Mempunyai rasa pahit dan merusak kulit. \u00a0</li><li>Terasa licin seperti sabun bila terkena kulit. \u00a0</li><li>Dapat mengubah kertas lakmus merah menjadi kertas lakmus biru. \u00a0</li><li>Dapat menghantarkan arus listrik \u00a0</li><li>Dapat menetralkan asam \u00a0</li></ul><p>Rumus menghitung basa kuat : \u00a0</p><p><strong>[OH\u207b] = b \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Rumus menghitung basa lemah : \u00a0</p><p><strong>[OH\u207b] = \u221aKb \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Keterangan : b = valensi basa \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mb = Konsentrasi basa\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Kb = tetapan ionisasi basa lemah \u00a0</p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>materi tentang pengenceran https://brainly.co.id/tugas/21621974\n</p><p>materi tentang pengenceran https://brainly.co.id/tugas/21583884\n</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21126249 \u00a0</p><p>--------------------------------------------------------------------------------------------------- \u00a0</p><p><strong>Detail jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 9 \u00a0</p><p>Kode : 11.7.9 \u00a0</p><p>Kata Kunci : pengenceran, titrasi\n</p>",
+            "attachments": [
+                "answer-attachments/sebanyak-50-ml-hcl-001-m-diencerkan-sampai-dengan-volume-500-ml-287-1.jpg",
+                "answer-attachments/sebanyak-50-ml-hcl-001-m-diencerkan-sampai-dengan-volume-500-ml-287-2.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "5-cm3-01-m-larutan-h2so4-diencerkan-dengan-air-murni-hingga-250-598",
+            "question": "5 cm3 0,1 M larutan H2SO4 diencerkan dengan air murni hingga 250 cm3, besarnya pH setelah diencerkan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika sebanyak 5 cm\u00b3 larutan H\u2082SO\u2084 0,1 M diencerkan dengan air murni hingga 250 cm\u00b3, maka besarnya pH setelah diencerkan adalah <strong>1 - log 2.</strong></p><p></p><h3><u>Pembahasan :\n</u></h3><p>Diketahui : V\u2081 = 5 cm\u00b3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 M\u2081 = 0,1 M \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V\u2082 = 250 cm\u00b3</p><p>Ditanya : pH M\u2082 ?</p><p>Penyelesaian soal : \u00a0</p><p><strong>Tahap 1 : \u00a0</strong></p><p>Untuk menghitung konsentrasi setelah pengenceran larutan dihitung dengan menggunakan rumus berikut ini : \u00a0</p><p>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082 \u00a0</p><p>5 cm\u00b3 \u00d7 0,1 M = 250 cm\u00b3 \u00d7 M\u2082</p><p>0,5 M = 250 \u00d7 M\u2082</p><p>M\u2082 = [tex]\\frac{0,5~M}{250}[/tex] \u00a0</p><p> \u00a0 \u00a0 \u00a0= 0,002 M</p><p>\n</p><p><strong>Tahap 2 : </strong>\n</p><p>Selanjutnya setelah didapat konsentrasi H\u2082SO\u2084 setelah diencerkan yaitu 0,002 M, tentukan konsentrasi ion H\u207a pada konsentrasi H\u2082SO\u2084 0,1 M dengan menggunakan rumus asam kuat, sebagai berikut : \u00a0</p><p>H\u2082SO\u2084 \u2192 2 H\u207a + SO\u2084\u00b2\u207b \u00a0</p><p>Valensi asam (a) = 2</p><p>[H\u207a] = a \u00d7 Ma = 2 \u00d7 10\u207b\u00b9</p><p>\n</p><p><strong>Tahap 3 : \u00a0</strong></p><p>Selanjutnya setelah diketahui nilai konsentrasi ion H\u207a yaitu 2 \u00d7 10\u207b\u00b9, maka dapat dihitung nilai pH dengan menggunakan rumus pH sebagai berikut : \u00a0</p><p>pH = - log [H\u207a] = - log 2 \u00d7 10\u207b\u00b9 = <strong>1 - log 2</strong></p><p><strong>\u21d2 </strong><u><strong>Kesimpulan, jika sebanyak 5 cm\u00b3 larutan H\u2082SO\u2084 0,1 M diencerkan dengan air murni hingga 250 cm\u00b3, maka besarnya pH setelah diencerkan adalah 1 - log 2.</strong></u></p><p></p><h3><u>Pelajari lebih lanjut :</u></h3><p>Materi tentang menghitung pH asam kuat https://brainly.co.id/tugas/23031475\n</p><p>Materi tentang menghitung pH asam kuat https://brainly.co.id/tugas/23049747\n</p><p>Materi tentang menghitung pH asam kuat https://brainly.co.id/tugas/14247336</p><p>---------------------------------------------- \u00a0</p><h3><u>Detail Jawaban :</u></h3><p>Kelas : 11\n</p><p>Mapel : Kimia \u00a0</p><p>Bab : Larutan Asam Basa\n</p><p>Kode : 11.7.5</p>",
+                    "attachments": [
+                        "answer-attachments/5-cm3-01-m-larutan-h2so4-diencerkan-dengan-air-murni-hingga-250-598-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kenapa-kulit-pisang-bisa-menghantarkan-listrik-897",
+            "question": "Kenapa kulit pisang bisa menghantarkan listrik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin karena serat-serat kulitnya dan keadaannya yang agak basah..",
+                    "attachments": []
+                },
+                {
+                    "answer": "kulit pisang dapat digunakan sebagai penghantar\u00a0arus listrik, karena dalam<span>\u00a0limbah kulit pisang banyak terdapat berbagai macam elektrolit seperti asam asetat,\u00a0magnesium, seng, dan kalium yang mampu menghantarkan ion dan elektron dalam elektroda.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kristal-nacl-dapat-menghantrkan-listrik-bagaimana-dengan-866",
+            "question": "Apakah kristal NaCl dapat menghantrkan listrik? Bagaimana dengan lelehan NaCl?jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dalam bentuk padatan,<br>NaCl tidak dapat menghantarkan listrik dikarenakan ion - ion dalam senyawanya tidak dapat bergerak bebas/ tidak terurai<br>Dalam bentuk lelehan<br>NaCl dapat menghantarkan arus listrik tetapi kurang baik, ini dikarenakan hanya sebagian dari ion - ion dalam senyawanya yang terurai<br>Dalam bentuk larutan<br>NaCl dapat menghantarkan listrik dengan baik dikarenakan ion - ion dalam larutannya terurai sempurna sehigga dapat bergerak bebas dalam larutannya<br><br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-bilangan-oksidasi-fe-3-dan-s-2-maka-bila-kedua-unsur-153",
+            "question": "Jika bilangan oksidasi Fe = +3 dan S = -2, maka bila kedua unsur tersebut bersenyawa akan membentuk senyawa dengan rumus kimia?    sama caranya yaaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fe3+ \u00a0+ s2- = Fe2S3<br><br><span>sebab untuk menjadikan netral setiap tiga ion S2- yang mempunyai muatan \u20132 memerlukan 2 buah ion Fe3+ yang bermuatan +3,</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-dengan-bilangan-oksidasi-reaksi-berikut-termasuk-redok-347",
+            "question": "Tunjukkan dengan bilangan oksidasi, reaksi berikut termasuk redoks atau bukan. bila redoks sebutkan oksidator, reduktor, hasil oksidasi, dan hasil reduksinya!    a) KMnO4\u00a0+ H2SO4\u00a0+ H20 --&gt; MnSO4\u00a0+ K2SO4\u00a0+ H2O\u00a0+ O2 (belum setara) bantu yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reduktor: KMnO4\u00a0<br>oksidator : H2SO4\u00a0<br>h.oksidasi : MnSO4<br>hasil reduksi: MnSO4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-naoh-01-m-mempunyai-ph-sebesar-618",
+            "question": "Larutan NaOH 0,1 M Mempunyai pH sebesar..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>Larutan NaOH 0,1 M mempunyai pH sebesar<strong> 13.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : [NaOH] = 0,1 M</p><p>Ditanya : pH ?</p><p>Jawab :</p><p>[OH\u207b] = b \u00d7 Mb</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 \u00d7 10\u207b\u00b9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 10\u207b\u00b9</p><p>pOH = - log [OH\u207b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = - log 10\u207b\u00b9</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = 1</p><p>pH = 14 - pOH</p><p> \u00a0 \u00a0 \u00a0= 14 - 1</p><p> \u00a0 \u00a0 \u00a0= 13</p><p><strong>\u2234 Kesimpulan pH NaOH 0,1 M adalah 13.</strong></p><p><strong>Pembahasan : \u00a0</strong></p><p><strong>pH (power of hydrogen) \u00a0</strong></p><p>pH (power of hydrogen) digunakan untuk mengukur tingkat keasaman suatu zat. Range nilai pH adalah dari 0 hingga 14, namun ada pH yang berada di bawah nol dan lebih tinggi dari 14 yang disebut pH ekstrim. rumus pH: \u00a0</p><p><strong>pH = - log [H\u207a]</strong> \u00a0</p><p>Rentang pH terdiri dari 3, yaitu: \u00a0</p><ul><li>pH &lt; 7 = termasuk pH asam (asam kuat dan lemah) \u00a0</li><li>pH = 7 = termasuk pH netral (garam bersifat kuat dari asam kuat dan basa kuat) \u00a0</li><li>pH &gt; 7 = termasuk pH basa (basa kuat dan lemah) \u00a0</li></ul><p><strong>pOH \u00a0</strong></p><p>pOH digunakan untuk mengukur tingkat kebasaan suatu zat yang bersifat basa. contoh yang bersifat basa adalah sabun. kebasaan suatu zat kimia yang bersifat basa dihitung menggunakan pOH yang harus diubah ke pH. \u00a0</p><p>Rumus : \u00a0</p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = PKw - pOH \u00a0</strong></p><p><strong> \u00a0 \u00a0 \u00a0= 14 - pOH \u00a0</strong></p><p><strong>Perhitungan pH asam \u00a0</strong></p><p>Istilah asam berasal dari bahasa Latin \u201cAcetum\u201d yang berarti cuka, karena diketahui zat utama dalam cuka adalah asam asetat. secara umum asam yaitu zat yang berasa masam.\n</p><p>berikut ciri-ciri asam kuat: \u00a0</p><ul><li>Mengion sempurna (derajat ionisasi atau \u03b1 bernilai 1) \u00a0</li><li>pH-nya ditentukan dari konsentrasi larutan dan valensi asam (tentang valensi asam) \u00a0</li><li>Dapat merusak kulit \u00a0</li><li>Bersifat korosif \u00a0</li><li>Semakin mendekati pH bernilai 1, maka dikatakan asam kuat \u00a0</li><li>Terkecuali asam sulfat (H\u2082SO\u2084) dapat mengion sempurna pada konsentrasi yang sangat encer \u00a0</li></ul><p>Rumus menghitung asam kuat : \u00a0</p><p><strong>[H\u207a] = a \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Rumus menghitung asam lemah : \u00a0</p><p><strong>[H\u207a] = \u221aKa \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Keterangan : a = valensi asam \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ma = Konsentrasi asam\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ka = tetapan ionisasi asam lemah \u00a0</p><p><strong>Perhitungan pH basa\n</strong></p><p>Basa (alkali) berasal dari bahasa arab yang berarti abu. Secara umum basa yaitu zat yang berasa pahit bersifat kaustik.\n</p><p>Sifat-sifat basa yaitu sebagai berikut : \u00a0</p><ul><li>Mempunyai rasa pahit dan merusak kulit. \u00a0</li><li>Terasa licin seperti sabun bila terkena kulit. \u00a0</li><li>Dapat mengubah kertas lakmus merah menjadi kertas lakmus biru. \u00a0</li><li>Dapat menghantarkan arus listrik \u00a0</li><li>Dapat menetralkan asam \u00a0</li></ul><p>Rumus menghitung basa kuat : \u00a0</p><p><strong>[OH\u207b] = b \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Rumus menghitung basa lemah : \u00a0</p><p><strong>[OH\u207b] = \u221aKb \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Keterangan : b = valensi basa \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mb = Konsentrasi basa\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Kb = tetapan ionisasi basa lemah \u00a0</p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21652602\n</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21650779 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21157455 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21176838 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21126249 \u00a0</p><p>--------------------------------------------------------------------------------------------------- \u00a0</p><p><strong>Detail jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 5 \u00a0</p><p>Kode : 11.7.5 \u00a0</p><p>Kata Kunci : asam, basa, pH\n</p>",
+                    "attachments": [
+                        "answer-attachments/larutan-naoh-01-m-mempunyai-ph-sebesar-618-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-struktur-dan-rumus-molekul-dari-senyawa-23-dimeti-606",
+            "question": "Tuliskan rumus struktur dan rumus molekul dari senyawa 2,3 dimetil butanol?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena butanol sehingga atom C nya ada 4 . rantai induknya lurus.dan penomorannya dimulai dari kanan",
+                    "attachments": [
+                        "answer-attachments/tuliskan-rumus-struktur-dan-rumus-molekul-dari-senyawa-23-dimeti-606-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-senyawa-dianalisis-menghasilkan-komposisi-62079-c-10-34-100",
+            "question": "suatu senyawa dianalisis menghasilkan komposisi 62,079% C, 10, 34% H, 27,59% O. jika 1,45 gram senyawa trsbut diuapkan pada suhu 8o derajat celcius dan tekanan 37cmhg ternyata volumenya 743ml. rumus molekul senyawa nya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Kimia</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Hitungan Kimia (Stoikiometri)</strong><br><strong>Kata Kunci : senyawa, hidrokarbon, perbandingan, tekanan, umum, rumus, empiris, molekul, asam, alkanoat, karboksilat</strong><br><br><strong>Kode : 10.7.7 [</strong><span><strong>Kelas 10 Kimia Bab 7 Stoikiometri]</strong><br><br><u><em>Diketahui</em></u><br>Komposisi C : H : O = 62,079% : 10,34% : 27,59%<br>Massa senyawa = 1,45 gram<br>Tekanan p = 37 cmHg<br>Volum V = 743 ml = 0,743 liter<br>Suhu T = 80</span>\u00b0C<br><br><u><em>Ditanya</em></u><br>(a). Massa molekul relatif (Mr)<br>(b). Rumus empiris<br>(c). Rumus molekul<br><br><u><em>Penyelesaian</em></u><br><br><strong>Step-1</strong><br><strong>Mencari Mr</strong><br><br>Siapkan tekanan dalam satuan atm. 1 atm = 76 cmHg.<br>[tex]p =  37 \\ cmHg \\times \\frac{1 \\ atm}{76 \\ cmHg} =  \\frac{37}{76} \\ cmHg [/tex] atau 0,49 atm.<br>Siapkan suhu mutlak, T = 80 + 273 = 353K.<br><br>Gunakan rumus persamaan umum gas ideal.<br>[tex]pV = nRT[/tex]<br>Keterangan<br>n = jumlah mol, yakni massa per Mr<br>p = tekanan (atm)<br>V = volum (liter)<br>T = suhu mutlak (K)<br>R = tetapan gas umum 0,082<br><br>[tex]pV =  \\frac{massa}{Mr}RT [/tex]<br><br>Jadikan Mr sebagai subyek yang akan dicari.<br>[tex]Mr =  \\frac{massa \\times R \\times T}{pV} [/tex]<br><br>Masukkan data-data soal.<br>[tex]Mr =  \\frac{(1,45)(0,082)(353)}{(0,49)(0,743)}[/tex]<br><br><strong>Diperoleh Mr senyawa karbon tersebut sebesar 116,04 dibulatkan menjadi 116.</strong><br><br><strong>Step-2</strong><br><strong>Menentukan rumus empiris</strong><br>(Ar C = 12; H = 1; O = 16)<br><br>Komposisi C : H : O = 62,079% : 10,34% : 27,59%<br>Perbandingan banyak atom diperoleh dengan membaginya terhadap massa atom relatif (Ar) masing-masing unsur.<br>[tex]C : H : O =  \\frac{62,079}{12} :  \\frac{10,34}{1}  :  \\frac{27,59}{16}  [/tex]<br>C : H : O = 5,17 : 10,34 : 1,72\u00a0<br>Semua dibagi 1,72 sebagai bilangan terkecil.<br>C : H : O = 3 : 6 : 1 (dibulatkan)<br><br><strong>Jadi rumus empirisnya adalah C\u2083H\u2086O.</strong><br><br><strong>Step-3</strong><br><strong>Menentukan rumus molekul\u00a0</strong><br><br>[tex](C_3H_6O)_n = Mr[/tex]<br>[tex](3Ar C \\ + \\ 6ArH \\ + \\ ArO)n = Mr[/tex]<br>[tex][3(12) + 6(1) + 16].n = 116[/tex]<br>58n = 116<br>n = 2<br><br><strong>Sehingga rumus molekulnya adalah\u00a0[tex](C_3H_6O)_2[/tex] atau\u00a0[tex]C_6H_{12}O_2[/tex].</strong><br><strong>Mengikuti deret homolog\u00a0[tex]C_nH_{2n}O_2[/tex] dari asam alkanoat (asam karboksilat).</strong><br><br>__________________<br>Simak lebih lanjut di Brainly.co.id - https://brainly.co.id/tugas/13285810#readmore<br>Ingin mempelajari soal stoikiometri lainnya mengenai pereaksi pembatas dan perhitungan massa endapan dalam suatu reaksi kimia?<br>brainly.co.id/tugas/150723<br>Ingin mengulang berlatih penyetaraan reaksi? <br>brainly.co.id/tugas/24247",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-reaksi-ionisasi-missal-ch3coona-ch3coo-473",
+            "question": "10 contoh reaksi ionisasi???\r\nmissal CH\u2083COONa \u21d2 CH\u2083COO\u207b + Na\u207a\r\ncontoh lainnya apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Berikut akan kita buat <strong>10 contoh reaksi ionisasi dari larutan elektrolit</strong>. Terdapat reaksi-reaksi ionisasi dari: </p><ul><li>larutan asam kuat, </li><li>larutan basa kuat, </li><li>larutan asam lemah, \u00a0</li><li>larutan basa lemah, dan </li><li>larutan garam.</li></ul><h3>Pembahasan</h3><p>Perhatikan skema ionisasi larutan elektrolit pada gambar terlampir.</p><p>Elektrolit adalah zat-zat yang jika dilarutkan ke dalam air akan terurai menjadi ion-ion atau dapat terionisasi sehingga mampu menghantarkan arus listrik. Zat yang termasuk elektrolit yaitu asam, basa, dan garam.</p><p>Zat elektrolit meliputi: </p><ul><li>senyawa ion seperti: NaCl, K\u2082S, dan lain-lain; </li><li>senyawa kovalen polar seperti HCl, HF, dan lain-lain.</li></ul><p>Reaksi ionisasi asam kuat, basa kuat, dan garam merupakan reaksi yang bersifat irreversibel atau tak dapat balik, tanda panah hanya satu arah, atau reaksi berkesudahan.</p><p>Reaksi ionisasi asam lemah dan basa lemah merupakan reaksi kesetimbangan (reversibel atau berlangsung kedua arah) dengan tanda panah bolak-balik. Ciri khas elektrolit lemah memiliki tetapan ionisasi asam (Ka) dan tetapan ionisasi basa (Kb) yang berperan dalam perhitungan nilai pH.</p><p><em><u><strong>Contoh reaksi ionisasi larutan asam kuat</strong></u></em></p><p>Reaksi ionisasi asam klorida [tex]\\boxed{~HCl_{(aq)} \\rightarrow H^+_{(aq)} + Cl^-_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam sulfat [tex]\\boxed{~H_2SO_4_{(aq)} \\rightarrow 2H^+_{(aq)} + SO_4^{2-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam perklorat [tex]\\boxed{~HClO_4_{(aq)} \\rightarrow H^+_{(aq)} + ClO_4^{-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan basa kuat</strong></u></em></p><p>Reaksi ionisasi natrium hidroksida [tex]\\boxed{~NaOH_{(aq)} \\rightarrow Na^+_{(aq)} + OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi kalium hidroksida [tex]\\boxed{~KOH_{(aq)} \\rightarrow K^+_{(aq)} + OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi kalsium hidroksida [tex]\\boxed{~Ca(OH)_2_{(aq)} \\rightarrow Ca^{2+}_{(aq)} + 2OH^{-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan asam lemah</strong></u></em></p><p>Reaksi ionisasi asam asetat [tex]\\boxed{~CH_3COOH_{(aq)} \\rightleftharpoons CH_3COO^-_{(aq)} + H^+_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam sianida [tex]\\boxed{~HCN_{(aq)} \\rightleftharpoons H^+_{(aq)} + CN^-_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam sulfit [tex]\\boxed{~H_2SO_3_{(aq)} \\rightleftharpoons 2H^+_{(aq)} + SO_3^{2-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan basa lemah</strong></u></em></p><p>Reaksi ionisasi amonium hidroksida [tex]\\boxed{~NH_4OH_{(aq)} \\rightleftharpoons NH_4^+_{(aq)} + OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi aluminium hidroksida [tex]\\boxed{~Al(OH)_3_{(aq)} \\rightleftharpoons Al^{3+}_{(aq)} + 3OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi besi (III) hidroksida [tex]\\boxed{~Fe(OH)_3_{(aq)} \\rightleftharpoons Fe^{3+}_{(aq)} + 3OH^{-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan garam</strong></u></em></p><p>Reaksi ionisasi kalsium klorida [tex]\\boxed{~CaCl_2_{(aq)} \\rightarrow Ca^{2+}_{(aq)} + 2Cl^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi natrium asetat [tex]\\boxed{~CH_3COONa_{(aq)} \\rightarrow Na^{+}_{(aq)} + CH_3COO^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi aluminium sulfat [tex]\\boxed{~Al_2(SO_4)_3_{(aq)} \\rightarrow 2Al^{3+}_{(aq)} + 3SO_4^{2-}_{(aq)}~}[/tex]</p><p>Silakan mengambil 10 contoh reaksi ionisasi dari beberapa contoh di atas.</p><h3>Pelajari lebih lanjut</h3><ol><li>Pahami lebih jauh perbedaan larutan elektrolit dan non elektrolit brainly.co.id/tugas/4335479 </li><li>Tanda-tanda larutan elektrolit https://brainly.co.id/tugas/13934388 </li><li>Penjelasan tentang daya hantar listrik larutan garam dapur brainly.co.id/tugas/10845209 </li><li>Pembahasan 9 soal pilihan ganda seputar daya hantar listrik larutan brainly.co.id/tugas/5821519 </li><li>Uji nyala lampu dan gelembung gas brainly.co.id/tugas/13215302 </li><li>10 contoh reaksi ionisasi garam https://brainly.co.id/tugas/1836605\n</li></ol><h3>----------------------------</h3><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 :</strong> XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> Larutan Elektrolit dan Non Elektrolit</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 10.7.5</p><br><p><strong>Kata Kunci :</strong> 10 contoh, reaksi, ionisasi, larutan elektrolit, asam kuat, basa, lemah, garam, terionisasi, reversibel, irreversibel, kesetimbangan, klorida, sianida, hidroksida, amonium, asetat, kalium, kalsium, besi, alumunium, sulfit, perklorat, brainly</p>",
+                    "attachments": [
+                        "answer-attachments/10-contoh-reaksi-ionisasi-missal-ch3coona-ch3coo-473-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "x-gram-naoh-dilarutkan-dalam-200-ml-air-10-ml-larutan-naoh-dapat-717",
+            "question": "X gram NaOH dilarutkan dalam 200 ml air. 10 ml larutan NaOH dapat dinetralkan oleh 28,5 ml HCl 0,155 M. Hitunglah harga X (Ar Na=23, O=16, H=1)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus titrasi/penetralan :<br>a.M.V=b.M.V<br>1.0,155.28,5=1.M.200<br>M=0,022<br>M=gr/mr.1000/ml<br>0,022=x/40.1000/200<br>x=0,022/5.4<br>x=0,01 gr<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

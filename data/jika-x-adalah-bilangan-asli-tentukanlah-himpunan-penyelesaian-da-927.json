@@ -1,0 +1,136 @@
+{
+    "question": "Jika x adalah bilangan asli, tentukanlah himpunan penyelesaian dari persamaan linear berikut.    a) 6x + 5 = 26 - x\r\nb) 2 - 4x = 3\r\nc) x - 12 = 2x + 36\r\nd) -5x - 4x + 10 = 1",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span><strong>Bilangan\u00a0asli = 1,2,3,4,5,\u00a0...</strong></span><br><strong></strong><br><strong>a.\u00a06x\u00a0+ 5 = 26 - x\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hp = { 3 }</strong><br><strong>\u00a0\u00a0\u00a0 6x\u00a0+ 5 - 5 = 26 - 5 - x</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 6x = 21 - x</strong><br><strong>\u00a0\u00a0\u00a0 6x + x =\u00a021</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a07x\u00a0= 21</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = 21/7</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0x\u00a0= 3</strong><br><strong></strong><br><strong>b.\u00a02\u00a0- 4x = 3\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hp = { \u00a0}</strong><br><strong>\u00a0\u00a0\u00a0 2 - 2 - 4x = 3 - 2</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0-4x\u00a0=\u00a01</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x =\u00a01/-4</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = - 1/4</strong><br><strong></strong><br><span><strong>c.\u00a0x - 12 = 2x + 36\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0Hp = { \u00a0}</strong></span><br><strong>\u00a0\u00a0\u00a0 x - 12 + 12 = 2x + 36 + 12</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0x = 2x + 48</strong><br><strong>\u00a0\u00a0\u00a0 \u00a0x\u00a0-\u00a02x\u00a0=\u00a048</strong><br><strong> \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - x = 48</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = 48/-1</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = -48</strong><br><strong></strong><br><strong></strong><span><strong>d. (-5x - 4x) + 10 = 1</strong></span><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hp = { 1\u00a0}</strong><br><strong></strong><span><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0-9x + 10 = 1</strong></span><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 -9x + 10 - 10 = 1 - 10</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - 9x = -9</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = -9/-9</strong><br><strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 x = 1</strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-jumlah-semua-bilangan-bulat-antara-100-dan-500-yang-tid-609",
+            "question": "Hitunglah jumlah semua bilangan bulat antara 100 dan 500 yang tidak habis dibagi 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]jumlah seluruhnya \\\\ S_{400} = \\frac{400}{2} (2(100)+(399)1) \\\\ S_{400} = 200(599) \\\\ S_{400} = 119800 \\\\ \\\\ kelipatan5 \\\\ S_{400} = \\frac{80}{2} (100+500) \\\\ S_{400} = 40(600) \\\\ S_{400} = 2400 \\\\ \\\\ 119800-2400=117400 \\\\ \\\\ *CMIIW*[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jumlah suku dari 100-500 dikurangi jumlah suku yg habis dibagi 5. Logikanya spt itu saja.\nMisal: suku dari 100-500 dgn b=1 kita misal A dan suku dari 100-500 dgn b=5 kita misal B (dipahami B habis dibagi 5)\nSn(A) = 401/2 x (100+500) = 401/2 x 600 = 120300\nSn(B) = 81/2 x (100+500) = 81/2 x 600 = 24300\nMaka jumlah yg tdk habis dibagi 5 misalkan C\nSn(C) = Sn(A) - Sn(B) = 120300-24300 = 96000\nPenyelesaian soal ini menggunakan konsep suku ke n deret aritmatik+jumlah suku aritmatik dan himpunan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319",
+            "question": "Diketahui dua lingkaran saling bersinggungan luar. jika panjang jari-jari lingkaran besar adalah 9cm dan panjang garis singgung _ persekutuan luarnya adalah 6/3. hitunglah jarak kedua pusat lingkaran dan panjang jari-jari lingkran kecil    _\r\n ket:6/3 = 6 akar kuadrat 3",
+            "attachments": [
+                "question-attachments/diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "aku bantu gambar aja ya baru males ngitung akar sama pytagoras",
+                    "attachments": [
+                        "answer-attachments/diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "cara-menghitung-sudut-368",
+            "question": "Cara menghitung sudut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Hitung saja pakai busur",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-banyaknya-bilangan-yang-menyusun-deret-579-yang-j-679",
+            "question": "Berapakah banyaknya bilangan yang menyusun deret 5+7+9+... yang jumlahnya 192 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5+7+9+11+13+15+17+19+21+23+25+27 = 192<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a = 5\u00a0 <br>b = 2<br><br>Sn = n/2 (2a+(n-1)b)<br>192 = n/2 (2x5 + (n-1) 2)<br>192 = n/2 (10+2n-2)<br>384 = n (10+2n-2)<br>384 = 2n^2+10n-2n<br>384 = 2n^2+8n<br>maka n = 12<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apabila-luas-juring-poq-sama-dengan-12-cm2-maka-jari-jari-lingka-955",
+            "question": "Apabila luas juring POQ sama dengan 12 cm\u00b2 maka jari jari lingkaran adalah...",
+            "attachments": [
+                "question-attachments/apabila-luas-juring-poq-sama-dengan-12-cm2-maka-jari-jari-lingka-955-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "LJ =<u>\u00a0  a\u00a0 </u>\u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 360<br>12\u03c0 = <u>120 </u>\u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 360<br>12 =<u> 1 </u>\u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 3<br>36 = r\u00b2<br>r = 6 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-roda-bergerigi-dihubungkan-dengan-rantai-masing-masing-berdiam-743",
+            "question": "2 roda bergerigi dihubungkan dengan rantai, masing-masing berdiameter 60 dm dan 84 dm    \u00a0a. tentukan perbandingan keliling kedua roda tersebut.\r\n\u00a0b. berapa kali roda pertama berputar jika roda kedua berputar 240 kali?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>d1 = 60 dm<br>d2 = 84 dm<br></span><span>k1 = phi x 60<br>k2 = phi x 84<br>k1 : k2<br></span><u>phi x 60</u>\u00a0= <u>60</u> = <u>10</u> = <u>5</u><br>phi x 84 \u00a0 \u00a084 \u00a0 \u00a014 \u00a0 \u00a07<br>k1 : k2<br>5 : 7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-siku-siku-panjang-hipotenusanya-310-459",
+            "question": "Diketahui sebuah segitiga siku-siku, panjang hipotenusanya 3\u221a10 cm dan panjang salah satu sissinya 3 cm. panjang sisi siku-siku yang lain adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hipotenusa=\u221a{(sisi 1)\u00b2+(sisi 2)\u00b2}<br>hipotenusa\u00b2=(sisi 1)\u00b2+(sisi 2)\u00b2<br>(3\u221a10)\u00b2=3\u00b2 + (sisi 2)\u00b2<br>90 = 9 + (sisi 2)\u00b2<br>81 = (sisi 2)\u00b2<br>(sisi 2)\u00b2 = 81<br>(sisi 2) = \u221a81<br>(sisi 2) = 9<br><br>hasilnya 9................ jadikan jawaban saya yang terbaik ya :D<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-4142-adalah-407",
+            "question": "Hasil dari 4\u207b\u00b9+4\u207b\u00b2 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{4} +  \\frac{1}{4^{2} }  = \\frac{1}{4} + \\frac{1}{16} =  \\frac{4+1}{16}  =  \\frac{5}{16} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukman-memanfaatkan-tanah-kosongnya-untuk-tempat-kandang-kambing-624",
+            "question": "Lukman memanfaatkan tanah kosongnya untuk tempat kandang kambing.luas tanah 100m.    ada empat kandang kambing yg akan dibuat dan tiap tiap kandang berbentuk sama yaitu persegi. berapa dm luas tiap tiap kandang kambing??? tolong caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika - satuan<br>Kelas : 6 SD<br><br><span>Pembahasan :\u00a0<br><br></span>Luas tanah = luas\u00a04 kandang kambing = 100m\u00b2<br>1 kandang kambing = 100 : 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 25\u00a0m\u00b2<br><br>konversikan satuan\u00a0m\u00b2 ke dm\u00b2 yaitu\u00a0turun 1 tingkat dengan mengalikan\u00a0100.<br><span>sehingga,<br><br></span><span>1 kandang kambing\u00a0</span><span>= 25 x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02500\u00a0dm\u00b2<br></span><br><span>Jadi,\u00a0luas tiap kandang kambing adalah\u00a0</span><span><strong>2500 dm\u00b2</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-layang-layang-adalah-135-cm2-jika-panjang-salah-satu-540",
+            "question": "Luas sebuah layang-layang adalah 135 cm2. Jika panjang salah satu diagonalnya 18 cm. maka panjang diagonal satunya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas layang-layang adalah diagonal1 x diagonal2 dibagi 2.<br>Rumus mencari d2 adalah luas layang-layang dikali 2 dibagi d1<br><span>=(135 </span>x 2) : 18<br>= 270 : 18 = 15 cm<br><br>Semoga membantu<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

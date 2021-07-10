@@ -1,0 +1,140 @@
+{
+    "question": "Apa yang dimaksud dengan laporan arus kas?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Laporan arus kas<span>\u00a0(</span><span>adalah bagian dari\u00a0</span>laporan keuangan<span>\u00a0suatu perusahaan yang dihasilkan pada suatu</span>periode akuntansi<span>\u00a0yang menunjukkan aliran masuk dan keluar\u00a0</span>uang<span>\u00a0(kas) perusahaan.</span>",
+            "attachments": []
+        },
+        {
+            "answer": "adalah bagian dari\u00a0laporan keuangan\n\u00a0suatu perusahaan yang dihasilkan pada suatuperiode akuntansi\n\u00a0yang menunjukkan aliran masuk dan keluar\u00a0uang\n\u00a0(kas) perusahaan.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fxx2-1-gx-2x-1-jika-hx-fxgx-maka-domain-h-901",
+            "question": "F(x)=\u221ax\u00b2-1 g(x)=\u00a0\u221a2x-1. jika h(x)= f(x).g(x) maka domain h(x) yang memenuhi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]h(x)= f(x).g(x) \\\\ h(x) = \\sqrt{ x^{2} -1} .  \\sqrt{2x-1}  \\\\ h(x) =  \\sqrt{ 2x^{3} -  x^{2} -2x+1 } [/tex]<br><br>Ingat di dalam akar tidak boleh\u00a0negatif..<br><br>[tex]2x^{3} -  x^{2} -2x+1 \\geq 0  \\\\  (x-1)(2x-1)(x+1)  \\geq 0[/tex]<br><br>buat garis bilangan sehingga diperoleh<br>[tex]-1 \\leq x \\leq \\frac{1}{2} ; x \\geq 1[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "{ ( x^2 - 1 ) . ( 2x - 1) }^1/2<br>( 2x^3 - x^2 - 2x +1 )^1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-fungsifx-5x-3-2x-1-x-528",
+            "question": "Jika diketahui fungsi\u00a0f(x) = ( 5x + 3 ) / (2x \u2013 1 ) ,\u00a0x\u00a0\u2260\u00a0 \u00bd\u00a0 dan\u00a0g(x) = 3x\u00a0+ 2 maka (f\u20131\u00a0o\u00a0g)(x) adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x - 1<br><br>y =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 2x - 1<br>y(2x-1) = 5x + 3<br>2xy - y = 5x +3<br>2xy\u00a0-\u00a05x = 3 + y<br>x(2y - 5) = 3 + y<br><br>x =<u> 3 + y\u00a0</u><br>\u00a0 \u00a0 \u00a02y - 5<br><br>f-1 =<u> 3 + x\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a02x - 5<br><br>(f-1 o g) = \u00a0<u> \u00a03 + 3x +\u00a02\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02(3x + 2) - 5<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u> \u00a03x + 5 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6x + 4 - 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u> 3x +\u00a05\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a06x - 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-umum-suku-ke-n-dari-barisan-bilangan-372113-933",
+            "question": "Tentukan rumus umum suku ke-n dari barisan bilangan ; 3,7/2,11/3,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus umumnya menurut saya Un=ar^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-n-jika-diketahui-a-2-b7-dan-un138-467",
+            "question": "Tentukan nilai n jika diketahui a= -2 b=7 dan un=138",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un = a+(n-1)b<br>138= -2 + (n-1)7<br>138 = -2 + 7n - 7<br>138 = 7n -9<br>138 + 9 = 7n<br>147 = 7n<br>147/7 = n<br>21 = n <br><br>jadi nilai n = 21<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un=a+(n-1)b<br>138=-2+(n-1)7<br>138+2=7n-7<br>140+7=7n<br>7n=147<br>n=21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-5-suatu-deret-geometri-adalah-15-dan-suku-ke-8-adalah-120-927",
+            "question": "Suku ke 5 suatu deret geometri adalah 15 dan suku ke 8 adalah 120.rasio deret itu adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u5=15\nu8=120\nu5=a.r^(5-1)\n=a.r^4\nu8=a.r^(8-1)\n=a.r^7\nu8/u5=(a.r^7)/(a.r^4)\n120/15=r^3\n8=r^3\nr=2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-6x-8-0-adalah-a-dan-v-p-618",
+            "question": "akar-akar persamaan kuadrat x\u00b2 + 6x + 8 = 0 adalah \u03b1 dan \u03b2 . persamaan kuadrat baru yang akar- akarnya 3\u03b1 dan 3\u03b2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menyusun persamaan baru <br>x\u00b2 + 6x + 8 <br>a = 1 <br>b = 6<br>c = 8 <br>akar-akar persamaannya <br>\u03b1 + \u03b2 = -b/a<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = - 6/1<br>\u00a0\u00a0 \u00a0  \u00a0 \u00a0 = - 6<br>\u03b1 . \u03b2\u00a0 = c/a<br>\u00a0\u00a0 \u00a0 \u00a0  \u00a0 = 8/1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 <br>karna di tentukan 3\u03b1 dan 3\u03b2<br>3\u03b1 + 3\u03b2 = 3 ( \u03b1 + b)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 3 ( -6)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -18<br>3\u03b1 . 3\u03b2 = 9 \u03b1\u03b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 9 ( 8 )<br><strong>\u00a0\u00a0 \u00a0  \u00a0\u00a0 \u00a0 \u00a0 = 72</strong><br><strong>rumus persamaan\u00a0 baru</strong><br>x \u00b2 - ( 3\u03b1+3\u03b2)x + \u03b1.b<br>= x\u00b2 - (-18)x + 72<br>= x\u00b2 + 18x + 72<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370",
+            "question": "Persamaan grafik fungsi kuadrat yang memotong sumbu x dititik ( -2,0) dan (2,0) serta melalui titik (0,- 4) adalah    \u00a0dijawab y bgi yang tahu sama carnya please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika digambarkan grafiknya, didapatkan Titik puncaknya itu, (0,-4) \u00a0(lihat gambar)\u00a0<br><br>Nah, rumus untuk mencari per.kuadrat yg memotong sumbu X adalah<br>y = a (X - X\u2081) (X\u00a0-\u00a0X\u2082)\u00a0<br>-4 = a (0+2) (0-2)<br>-4 = a (-4)<br>a = 1<br><br><br>Persamaan ---&gt; y= a (X + 2) (X-2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y= 1 (X\u00b2 - 4)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y = X\u00b2 - 4<br><br>",
+                    "attachments": [
+                        "answer-attachments/persamaan-grafik-fungsi-kuadrat-yang-memotong-sumbu-x-dititik-370-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "faktor-real-yang-mungkin-dari-suku-banyak-berikut-847",
+            "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

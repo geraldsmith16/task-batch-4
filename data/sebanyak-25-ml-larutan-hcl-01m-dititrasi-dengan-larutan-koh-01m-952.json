@@ -1,0 +1,136 @@
+{
+    "question": "Sebanyak 25 mL larutan HCL 0,1M dititrasi dengan larutan KOH 0,1M. Hitunglah pH larutan :    a. Sebelum ditambah KOH\r\nb. Setelah ditambah KOH sebanyak 5mL",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pH sebelum<br>-log 0,1 = 1<br><br>pH sesudah<br><br>HCl \u00a0 \u00a0 \u00a0 \u00a0\u00a0+ \u00a0 KOH ---&gt; \u00a0\u00a0KCl + H2O<br>2,5mmol \u00a0 \u00a0 \u00a0 5mmol<br>2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a02,5<br>-------------------------------------------------------------------<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5<br><br><br>2,5 x 10^-3 mol dalam 30 mL<br>0,83 x 10^-3 mol dalam 10 mL<br>0,83 x 10^-1 M<br><br><br>pOH larutan<br>-log 0,083 = 1,08<br><br><br>pH = 14 -1.08 = 12,92",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-10-ml-larutab-asam-sulfat-tepat-dinetralkan-oleh-5ml-larut-463",
+            "question": "jika\u00a0 10 mL larutab asam sulfat tepat dinetralkan oleh 5mL larutan KOH 1M,hitunglah molaritas larutan asam sulfat tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]V1 . M1 = V2 . M2\n10 . M1 = 5 . 1\n10 M1 = 5\nM1 =  \\frac{5}{10} \nM1 = 0,5M[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurutku, Molaritasnya sama 1M juga.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4al-3o2-gt-2al2o3-carilah-reducing-and-oxidation-agent-car-893",
+            "question": "4Al + 3O2 --&gt; 2Al2O3 carilah reducing and oxidation agent +cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>4Al + 3O2 --&gt; 2Al2O3\u00a0<br><br>Biloks Al dulu = 0<br>Biloks Al Sekarang = +3<br>\u00a0Karena biloks Al naik , maka dia itu reducing agent (reduktor)<br><br>Biloks O dulu = 0<br>Biloks O sekarang = -2<br>Karena biloks O turun , maka dia itu oxidation agent (Oksidator)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-reaksi-ion-dari-h2so4-885",
+            "question": "Tuliskan reaksi ion dari H2SO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 --&gt; 2H+\u00a0 + SO4 2-<br>......................................<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-masing-masing-tiga-contoh-zat-elektrolit-dan-zat-nonelek-602",
+            "question": "Sebutkan masing-masing tiga contoh zat elektrolit dan zat nonelektrolit di dalam kehidupan sehari-hari!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elektrolit: larutan garam, larutan asam klorida, larutan air seni (lemah)<br>non elektrolit: larutan gula, larutan asam cuka, air murni<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "non elektrolit : gula<br>elektrolit : garam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nyatakan-dalam-mol-1-1000-atom-karbon-2-301-x-1022-molekul-794",
+            "question": "Nyatakan dalam mol.!\r\n1. 1000 atom karbon\r\n2. 3,01 x 10\u00b2\u00b2 molekul air",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 1000 atom C ;<br>n = Jumlah partikel/ bil. avogadro<br>n = 1000/ 6.02 x 10^23<br>n = \u00a00.166 x 10^-20 mol<br><br>\u00a02.\u00a0 3,01 x 10^22 molekul air<br>n = Jumlah partikel/ bil. avogadro<br>n = 3.01 x 10^22\u00a0/ 6.02 x 10^23<br>n = \u00a00.05 mol\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-molaritas-larutan-jika-100-ml-hcl-01-m-ditambah-150ml-hcl-852",
+            "question": "Berapa molaritas larutan jika 100 ml HCL 0,1 M ditambah 150ml HCL 0,2 M?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mcampuran =<u> M\u2081V\u2081+M\u2082V\u2082\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V\u2081+V\u2082<br><br>Mcampuran =<u>\u00a00,1 x 100 + 0,2 x 150\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0100 + 150<br><br>Mcampuran =<u> 10 + 30\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0250<br><br>Mcampuran = 0,16 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-larutan-a-dan-b-diuji-dengan-alat-elektrolit-lampu-alat-uji-334",
+            "question": "dua larutan A dan B diuji dengan alat elektrolit. lampu alat uji menyala ketika menguji larutan A sedangkan ketika larutan B diuji lampu tidak menyala, tetapi ada gelembung-gelembung gas pada elektrodenya. dari pengamatan tersebut dapat disimpulkan bahwa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "larutan A merupakan elektrolit kuat, dikarenakan pada uji daya hantar listrik lampu menyala dan banyak gelembungnya, ini menandakan bahwa larutan A ion - ionnya terurai sempurna sehingga dapat menghantarkan listrik dengan baik<br>sedangkan pada larutan B, merupajan elktrolit lemah, dikarenakan dari uji daya hantar listrik lampu tidak menyala dan ada sedikit gelembung, menandakan ion - ion terurai sebagian, sehingga daya hantar listrik dari lartan B lemah<br><br><br>semoga bisa membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-ph-larutan-berikut-a-hno3-03-m-b-baoh2-001-m-634",
+            "question": "Hitung pH larutan berikut!\r\n a. HNO3 0,3 M\r\n b. Ba(OH)2 0,01 M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>hitung pH larutan berikut!\n</p><p>a. HNO\u2083 0,3 M \u00a0adalah<strong> 1 - log 3.</strong></p><p>b. Ba(OH)\u2082 0,01 M adalah <strong>12 + log 2.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>a. Diketahui : [HNO\u2083] = 0,3 M</p><p>Ditanya : pH ?</p><p>Jawab :</p><p>[H\u207a] = a \u00d7 Ma</p><p> \u00a0 \u00a0 \u00a0 = 1 \u00d7 3 \u00d7 10\u207b\u00b9</p><p> \u00a0 \u00a0 \u00a0 = 3 \u00d7 10\u207b\u00b9</p><p>pH = - log [H\u207a]</p><p> \u00a0 \u00a0 \u00a0= - log 3 \u00d7 10\u207b\u00b9</p><p> \u00a0 \u00a0 \u00a0= 1 - log 3</p><p><strong>\u2234 Kesimpulan pH larutan adalah 1 - log 3.</strong></p><p>b. Diketahui : [Ba(OH)\u2082] = 0,01 M</p><p>Ditanya : pH ?</p><p>Jawab :</p><p>[OH\u207b] = a \u00d7 Ma</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 \u00d7 10\u207b\u00b2</p><p>pOH = - log [OH\u207b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = - log 2 \u00d7 10\u207b\u00b2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = 2 - log 2</p><p>pH = 14 - pOH</p><p> \u00a0 \u00a0 \u00a0= 14 - (2 - log 2)</p><p> \u00a0 \u00a0 \u00a0= 12 + log 2</p><p><strong>\u2234 Kesimpulan pH larutan adalah 12 + log 2.</strong></p><p><strong>Pembahasan : \u00a0</strong></p><p><strong>pH (power of hydrogen) \u00a0</strong></p><p>pH (power of hydrogen) digunakan untuk mengukur tingkat keasaman suatu zat. Range nilai pH adalah dari 0 hingga 14, namun ada pH yang berada di bawah nol dan lebih tinggi dari 14 yang disebut pH ekstrim. rumus pH: \u00a0</p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Rentang pH terdiri dari 3, yaitu: \u00a0</p><ul><li>pH &lt; 7 = termasuk pH asam (asam kuat dan lemah) \u00a0</li><li>pH = 7 = termasuk pH netral (garam bersifat kuat dari asam kuat dan basa kuat) \u00a0</li><li>pH &gt; 7 = termasuk pH basa (basa kuat dan lemah) \u00a0</li></ul><p><strong>pOH \u00a0</strong></p><p>pOH digunakan untuk mengukur tingkat kebasaan suatu zat yang bersifat basa. contoh yang bersifat basa adalah sabun. kebasaan suatu zat kimia yang bersifat basa dihitung menggunakan pOH yang harus diubah ke pH. \u00a0</p><p>Rumus : \u00a0</p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = PKw - pOH \u00a0</strong></p><p><strong> \u00a0 \u00a0 \u00a0= 14 - pOH \u00a0</strong></p><p><strong>Perhitungan pH asam \u00a0</strong></p><p>Istilah asam berasal dari bahasa Latin \u201cAcetum\u201d yang berarti cuka, karena diketahui zat utama dalam cuka adalah asam asetat. secara umum asam yaitu zat yang berasa masam.\n</p><p>berikut ciri-ciri asam kuat: \u00a0</p><ul><li>Mengion sempurna (derajat ionisasi atau \u03b1 bernilai 1) \u00a0</li><li>pH-nya ditentukan dari konsentrasi larutan dan valensi asam (tentang valensi asam) \u00a0</li><li>Dapat merusak kulit \u00a0</li><li>Bersifat korosif \u00a0</li><li>Semakin mendekati pH bernilai 1, maka dikatakan asam kuat \u00a0</li><li>Terkecuali asam sulfat (H\u2082SO\u2084) dapat mengion sempurna pada konsentrasi yang sangat encer \u00a0</li></ul><p>Rumus menghitung asam kuat : \u00a0</p><p><strong>[H\u207a] = a \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Rumus menghitung asam lemah : \u00a0</p><p><strong>[H\u207a] = \u221aKa \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Keterangan : a = valensi asam \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ma = Konsentrasi asam\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ka = tetapan ionisasi asam lemah \u00a0</p><p><strong>Perhitungan pH basa\n</strong></p><p>Basa (alkali) berasal dari bahasa arab yang berarti abu. Secara umum basa yaitu zat yang berasa pahit bersifat kaustik.\n</p><p>Sifat-sifat basa yaitu sebagai berikut : \u00a0</p><ul><li>Mempunyai rasa pahit dan merusak kulit. \u00a0</li><li>Terasa licin seperti sabun bila terkena kulit. \u00a0</li><li>Dapat mengubah kertas lakmus merah menjadi kertas lakmus biru. \u00a0</li><li>Dapat menghantarkan arus listrik \u00a0</li><li>Dapat menetralkan asam \u00a0</li></ul><p>Rumus menghitung basa kuat : \u00a0</p><p><strong>[OH\u207b] = b \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Rumus menghitung basa lemah : \u00a0</p><p><strong>[OH\u207b] = \u221aKb \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Keterangan : b = valensi basa \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mb = Konsentrasi basa\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Kb = tetapan ionisasi basa lemah \u00a0</p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21652602\n</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21650779 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21157455 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21176838 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21126249 \u00a0</p><p>--------------------------------------------------------------------------------------------------- \u00a0</p><p><strong>Detail jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 5 \u00a0</p><p>Kode : 11.7.5 \u00a0</p><p>Kata Kunci : asam, basa, pH\n</p>",
+                    "attachments": [
+                        "answer-attachments/hitung-ph-larutan-berikut-a-hno3-03-m-b-baoh2-001-m-634-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kesimpulan-dari-konsep-mol-329",
+            "question": "Kesimpulan dari konsep mol ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Konsep mol adalah dasar untuk kimia, seperti untuk menentukan pH, Molaritas, dll menggunakan konsep mol<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "KONSEP MOL Setiap zat yang ada di alam tersusun atas partikel-partikel\n dalam bentuk atom, molekul, dan ion. Ukuran partikel-partikel zat \ntersebut sangat kecil sehingga kita sulit untuk menghitungnya. Jumlah \npartikel dalam suatu zat juga sangat banyak dan hal itu membuat kita \nsulit untuk menghitungnya. Para ahli kimia berhasil menemukan cara \nmenghitung jumlah partikel, massa zat, dan volume gas, yang disebut: \nSTOIKIOMETRI (Hubungan kuantitatif antara zat-zat yang terlibat dalam \nreaksi).<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-zat-elektrolit-dan-zat-nonelektrolit-tolong-sa-689",
+            "question": "Apa yang dimaksud zat elektrolit dan zat nonelektrolit, tolong sama contohnya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Larutan elektrolit : mengalami ionisasi, menghantarkan arus listrikLarutan nonelektrolit : tidak mengalami ionisasi, tidak dapat menghantarkan arus listrik<span>Jenis larutan elektrolit\u00a0\u2013 Khusus untuk larutan elektrolit terdiri dari 2 macam larutan, yaitu larutan elektrolit kuat dan lerutan elektrolit lemah :</span><span>Pengertian\u00a0larutan elektrolit kuat\u00a0adalah larutan elektrolit dimana zat yang larut dalam air mengalami\u00a0proses ionisasi sempurna\u00a0atau\u00a0terionisasi sempurna\u00a0dan menghasilkan larutan dengan\u00a0daya hantar listrik yang baik.</span><span>Pengertian\u00a0larutan elektrolit lemah\u00a0adalah larutan elektrolit dimana zat yang larut dalam air mengalami proses\u00a0ionisasi sebagian\u00a0atau\u00a0terionisasi sebagian\u00a0dan menghasilkan larutan dengan\u00a0daya hantar listrik yang buruk.</span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "suatu batang ac massanya 40 kg dan panjangnya 3 m ditumpu pada titik a dan b . seorang anak bermassa 25 kg berjalan dari a menuju c . jika jarak ab = 2 m dan percepatan gravitasi 10 m/s2 , berapakh jarak minimum anak tersebut dari titik\u00a0c agar papan tetep seimbang",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kesalahan soal ..#jarak AC adlah 2 m<br>poros di c<br>\u03b5\u03c4=0<br>0.5*400-250*x=0<br>x=0.2<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-tangki-berisi-air-berada-diatas-raksa-sebuah-kubus-berisi-965",
+            "question": "sebuah tangki berisi air berada diatas raksa. sebuah kubus berisi dengan sebuah rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. Tentukan tinggi kubus yang tercelup dalam setiap cairan. Massa jenis besi dan raksa berturut-turut adalah 7,7 x 10 (pangkat 3) kg/m kubik dan 13,6 x 10 (pangkat 3) kg/m kubik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Fluida <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-tangki-berisi-air-berada-diatas-raksa-sebuah-kubus-berisi-965-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bantu-dong-pake-caranya-ya-1-sebuah-batang-elastis-panjangnya-4-799",
+            "question": "Bantu dong pake caranya ya     1. sebuah batang elastis panjangnya 4 m dan luas penampang 1,5 cm\u00b2 . ketika batang tersebut di gantung beban 300 kg ternyata meregang 0,7 mm. tentukan modulus young bahan batang tersebut !\r\n2 sebuah batang alumunium panjang 30 cm, penampang berukuran 3 mm \u00d7 4 mm dan modulus elastisnya 7 x10 pangkat 10 N\\m\u00b2. hitunglah besar gaya unyuk menarik batang agar batang alumunium tersebut bertambah 2 mm !\r\n3. pegas dan luas penampang sebesar 0,5 mm\u00b2 ditarik dengan gaya 2,5 N. tentukan tegangan pada pegas tersebut !\r\n4. sebatang logam yang memiliki modulus young 6 \u00d7 10 pangkat 8 N\\m\u00b2, luas penampang logam 2 cm\u00b2 . jika di kenai gaya 400 N akan bertambah panjang 8 mm, tentukan panjang mula-mula kawat tersebut !\r\n5. kawat tembaga dengan luas penampang 4 mm\u00b2 dengan modulus elastic 6 \u00d7 1010 N\\m\u00b2 . kawat tersebut kemudian diregangkan sebesar 100 N . jika panjang kawat semula 20 cm, berapa pertambahan panjang kawat ?\r\n6. sebuah pegas meregang 5 cm , ketika di tarik dengan gaya 15 N, berapakah pertambahan panjang pegas jika di tarik dengan gaya 6 N ?\r\n7. berapakah beban yang harus diberikan pasa pegas, agarmempunyai energy 1 joule ? ( k = 50 N\\m )\r\n8. dua buah pegas berturut-turut mempunyai konstanta gaya pegas 200 N\\m dam 400 N\\m. jika kedua pegas di susun secara parallel dan ujungnya di beri beban 2 kg, berapakah pertambahan panjang pegas ? ( g = 10 m\\s\u00b2 )\r\n9. dua buah pegas di susun secara seri, dengan konstanta gaya masing-masing 100 N\\m dan 300 N\\m. jika pegas di beri beban 50 N, berapakah pertambahan panjang pegas ? g = 10 m\\s\u00b2 )\r\n\r\njawab :",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diketahui:<br>panjang awal batang (lo) = 4 m<br>Luas penampang batang (Ao) = \u00a01,5 cm\u00b2 = 1,5.10\u207b\u2074 m\u00b2<br>massa beban (m) = 300 kg<br>panjang peregangan (\u0394l) = 0,7 mm = 0,7.10\u207b\u00b3 m<br><br>Ditanya:<br>Modulus Young (Y) = ....?<br><br>Penyelesaian:<br>Rumus Modulus Young:<br>Y = F.lo/A.\u0394l<br>\u00a0<br>Jadi kita perlu cari dulu gaya berat (F) :<br>F = m.g = 300.10 = 3000 N<br><br>Modulus Young:<br>Y = 3000.4/1,5.10\u207b\u2074.0,7.10\u207b\u00b3<br>\u00a0= 12.10\u00b3/1,05.10\u207b\u2077<br>\u00a0= 11,4.10\u00b9\u2070 N/m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-yang-tingginya-160-cm-berdiri-di-depan-cermin-datar-yang-988",
+            "question": "Seorang yang tingginya 160 cm berdiri di depan cermin datar yang terpasang pada dinding. Anggap mata orang itu berada pada jarak 10 cm dari bagian atas kepalanya. Tentukan jarak minimum bagian bawah cermin dari lantai sehingga orang itu masih dapat melihat seluruh bagian badannya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tinggi cermin datar = [tex] \\frac{1}{2} [/tex] x tinggi benda<br>maka, tinggi cermin = [tex] \\frac{1}{2} [/tex] x 160<br>= 80 cm<br><br>karena jarak mata = [tex] \\frac{1}{2} [/tex] x 10<br>= 5 cm<br>maka, jarak minimum dari lantai = 160 - 5 --&gt; 155<br>155 - 80 = 75 cm dari lantai.. <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593",
+            "question": "batang AB homogen panjang 12m berat 200 N bersandar pada dinding vertikal yg licin di B &amp; bertumpu pada lantai horizontal di A yg kasar. Batang AB membentuk sudut 60' dg bidang horizontal. Jika batang tepat akan menggeser maka besar koefisien di A adl... tolongin ya pake crnya jg",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><u>Kesetimbangan Benda Tegar</u></h2><h3>UAN 2003</h3><p>Jawaban berupa Lampiran</p><p>Kelas : XI</p><p>Bab Dinamika Rotasi dan Keseimbangan Benda Tegar</p><br>",
+                    "attachments": [
+                        "answer-attachments/batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-tingkat-intensitas-sebuah-pesawat-jet-pada-jarak-30-m-adalah-1-708",
+            "question": "1. Tingkat intensitas sebuah pesawat jet pada jarak 30 m adalah 140 1.\u00a0Tingkat\r\n intensitas sebuah pesawat jet pada jarak 30 m adalah 140 dB. Berapakah tingkat\r\n intensitasnya pada jarak 300 m?\r\n2.\u00a0Cepat rambat gelombang\r\n seismik pada pada lapisan batuan tertentu adalah2000 m/s. Untuk mengetahui ketebalan lapisan tersebut dinamit diledakkan di\r\n suatu titik di bagian atas lapisan tersebut kemudian sinyal pantul ditangkap di\r\n titik yang lain. Jika jarak antara titik peledakan dan titik tempat sinyal\r\n ditangkap adalah 400 m dan selangwaktu antara peledakan dinamit dan penangkapan\r\n sinyal adalah 0,25 s, tentukan ketebalan lapisan batuan tersebut.\r\n3.\u00a0Sebuah\r\n mobil polisi membunyikan sirene dengan frekuensi fO. Kelajuan\r\n bunyi di udara diam adalah vo, sehingga panjang\r\n gelombangnya jika tidak ada gerak adalah \u03bbo. Jika mobil polisi\r\n tersebut diam sedangkan pengamat bergerak terhadap pengamat besaran apa saja\r\n yang berubah dan apa yang tetap? Jelaskan! Jika mobil polisi yang bergerak\r\n terhadap pengamat sedangkan pengamat diam, besaran apa saja yang berubah dan\r\n apa saja yang tetap? Jelaskan!\r\n4.\u00a0Jika\r\n dia mengayuh papan selancarnya sehingga bergerak dengan kecepatan 2 m/s searah\r\n dengan gelombang laut dia merasakan gelombang laut melaluinya setiap\r\n\r\n12 sekon. Tentukan frekuensi, panjang gelombang dan\r\n kecepatan gelombang laut tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nomer 1 keanya 120 dB<br>TIb = TIa + 10 log n ( r1/r2 )^2<br>TIb = 140 + 10 log ( 30/300 )^2<br>TIb = 140 + 10 (-2)<br>TIb = 120 dB<br><br>kalo nomer 4 keanya <br>untuk melakukan 1 gelombang dibutuhkan waktu 12s<br>berarti f = 1/12 = 0,083<br>panjang gelombang berarti 2m/s . 12 = 24 m<br>v = lamda . f = 24 . 0,083 = 1,992 m/s <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-penampang-a-adalah-13-kali-luas-penampang-b-jika-gaya-yang-179",
+            "question": "luas penampang a adalah 1/3 kali luas penampang b jika gaya yang bekerja pada piston a sebesar 6 n , berapakah gaya pada piston b .... N mohon bantuannya yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F1 :\u00a0A1 = F2 :\u00a0A2<br>6N : 1/3 b = F 2 : b<br>18 N = F2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287",
+            "question": "pompa hidrolik mempunyai perbandingan diameter pengisap 1:40. apabila pada pengisap besar dimuati beban 32000N, maka agar seimbang, pada pengisap kecil harus diberi gaya sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>\nBesar gaya yang dibutuhkan pada penampang kecil agar setimbang adalah 20 N</p><h3>Pembahasan \u00a0</h3><p>Pada soal ini dapat diselesaikan dengan konsep fluida statis \u00a0</p><p>Jawaban:\n</p><p>\nUntuk mencari besar gaya yang dibutuhkan pada penampang kecil kita gunakan hubungan tekanan pada bejane berhubungan</p><p>[tex]P_1=P_2\\\\\\frac{F_1}{A_1} =\\frac{F_2}{A_2} \\\\F_1A_2=F_2A_1\\\\F_1d_2^2=F_2d_1^2\\\\F_1*40^2=32000*1^2\\\\F_1=20\\; N[/tex]</p><p>Materi lebih lanjut terkait dengan fluida statis dapat dipelajari pada link berikut ini\n</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Archimedes https://brainly.co.id/tugas/20707089\n</p><p>2.Materi tentang Fluida statis https://brainly.co.id/tugas/5289680\n</p><p>3.Materi tentang Tegangan permukaan https://brainly.co.id/tugas/4439825\n</p><p>4.Materi tentang Fluida tidak bergerak https://brainly.co.id/tugas/20806499\n</p><p>5.Materi tentang fluida statis https://brainly.co.id/tugas/208110482\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 3 - Fluida Statis\n</p><p><strong>Kode</strong>: 11.6.3\n</p><p>\n</p><p><strong>Kata Kunci:</strong> Archimedes, pascal, fluida statis\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/pompa-hidrolik-mempunyai-perbandingan-diameter-pengisap-140-apa-287-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "yang-dipindahkan-gelombang-adalah-391",
+            "question": "Yang dipindahkan gelombang adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yg dipindahkan gelombang adalah ENERGI ,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820",
+            "question": "Dua piringan berjari jari sama memiliki massa masing\u00a0- masing: mA=0,8 kg dan mB=1,6 kg. Pada awalnya kedua piringan berputar dengan kecepatan sudut\u00a0\u03c9A = 32 rpm dan \u03c9B = 8 rpm. Jika kedua piringan digabungkan sepusat maka, Tentukan kecepatan sudutnya setelah digabung?    dibawah ini contoh dan carakerjanya!",
+            "attachments": [
+                "question-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jangan lupa divote terbaik ya!\u00a0",
+                    "attachments": [
+                        "answer-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-pengaruh-panjang-tali-terhadap-periode-gerak-harmonik-p-733",
+            "question": "Bagaimana pengaruh panjang tali terhadap periode gerak harmonik pada ayunan sederhana ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika tali pendek maka periode besar sedangkan jika tali panjang, periode mengecil. (maybe)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

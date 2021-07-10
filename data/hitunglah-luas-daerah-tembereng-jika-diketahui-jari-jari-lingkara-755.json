@@ -1,0 +1,138 @@
+{
+    "question": "Hitunglah luas daerah tembereng jika diketahui jari-jari lingkaran 10.5 cm\u00a0dan besar sudutnya 90 derajat?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "luas juring:<br>LJ = <u>\u00a0 a\u00a0 </u> \u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 360<br>LJ =<u>\u00a0 90\u00a0</u> \u00d7 <u>22\u00a0</u> \u00d7 10,5\u00a0 \u00d7 10,5<br>\u00a0\u00a0 \u00a0 \u00a0 360\u00a0 \u00a0  7<br>Lj = 86,625 cm\u00b2<br><br>luas segitiganya:<br>L = <u>a\u00a0 \u00d7\u00a0 t </u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>L =<u> 10,5 \u00d7 10,5</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>L = 55,125 cm\u00b2<br><br>Luas tembereng:<br>Luas juring - luas segitiga<br>86,625 - 55,125<br>31,5 cm\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fungsi-f-didefinisikan-dengan-rumus-fx-ax-b-jika-f-3-858",
+            "question": "Fungsi f didefinisikan dengan rumus f(x) = ax + b , jika f(-3) = -15 dan f(2) = 0 , nilai f(-5) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x) = ax + b <br>f(-3) = -3a + b =\u00a0-15 <br>f(2) = 2a + b = 0\u00a0<br>dieliminasi, -5a = -15, a = 3, jadi b = -6<br><br>nilai f(-5) = -5(3) - 6 = -21</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-mempunyai-sisi-sisi-yang-luasnya-60-cm272-cm2dan-3-970",
+            "question": "Sebuah balok mempunyai sisi-sisi yang luasnya 60 cm2,72 cm2,dan 30 cm2.Volume balok itu adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p.l = 60<br>p.t = 72<br>l.t = 30<br>p = 60/l<br>t = 30/l<br>maka :\u00a0[tex] \\frac{60}{l} .  \\frac{30}{l}  [/tex] = 72<br>l = 5<br>V = p l t =\u00a0[tex] \\frac{60}{l} [/tex] l\u00a0[tex] \\frac{30}{l} [/tex] = [tex] \\frac{1800}{l} [/tex] = 1800/5 = 360 cm3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengembang-membeli-sebuah-rumah-dengan-harga-tertenturum-682",
+            "question": "Seorang Pengembang membeli sebuah rumah dengan harga tertentu.Rumah tersebut diperbaiki dengan biaya Rp.500.000,0. Setelah rumah siap huni, rumah tersebut dijual lagi dengan harga Rp.104.000.000,00 . Jika dengan harga jual tersebut Pengembang mendapat keuntungan 30% , tentukan harga pembelihan rumah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga jual 104.000.000<br>harga perbaikan 500.000<br><br>keuntungan 30%<br>maka<br>104.000.000 - 500.000 = 103.500.000<br><br>100/130 x 103.500.000 = 79.615.385<br>maka harga belinya 79.615.385<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-lingkaran-yang-memiliki-ajari-jari-7-cm-bjar-205",
+            "question": "Hitunglah keliling lingkaran yang memiliki    a.jari jari 7 cm\r\n b.jari jari 50 cm \r\n c.diameter 21 cm\r\n d. diameter 10 cm\r\n e. luas 314 cm\r\n f. luas 616 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K= 2\u03c0r <br>K= 2 x 22/7 x 7<br>K = 44<br><br>b. K = 2\u03c0r<br>K = 2 x 3,14 x 50<br>K = 6,28 x 50<br>K = 314<br><br>c. K = \u03c0d<br>K = 22/7 x 21<br>K = 66<br><br>d. K = \u03c0d<br>K = 3,14 x 10<br>K = 31,4<br><br>e. L= \u03c0r\u00b2<br>314 = 3,14 x r\u00b2<br>r\u00b2 = 314/ 3,14<br>r\u00b2 = 100<br>r= \u221a100<br>r = 10<br><br>K= 2\u03c0r<br>K = 2 x 3,14 x 10<br>K = 62,8<br><br>f. L = \u03c0r\u00b2<br>616 = 22/7 x r\u00b2<br>r\u00b2 = 616/ 22/7<br>r\u00b2 = 196<br>r = \u221a196<br>r = 14<br><br>K = 2\u03c0r<br>K = 2 x 22/7 x 14<br>K = 88<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-qor-60-panjang-busur-qr2-724",
+            "question": "Pada gambar lingkaran, besar sudut QOR = 60\u00b0, panjang busur QR=24cm, dan panjang busur PQ = 36 cm. Hitunglah besar sudut POQ!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut QOR\u00a0</u> =\u00a0<u> PBusur QR</u><br>sudut POQ\u00a0 \u00a0\u00a0 PBusur PQ<br><br><u>60\u00b0\u00a0</u>  =<u>\u00a0 24</u><br>x\u00a0 \u00a0 \u00a0 \u00a0\u00a0 36<br><br>60 \u00d7 36 = 24 \u00d7 x<br>90 \u00b0 = x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631",
+            "question": "1. Sebuah mobil menghabiskan 8 liter bensin untuk menempuh jarak 56 km. Jika jarak yang\u00a0 ditempuh 84 km, maka bensin yang diperlukan adalah...?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2. Sudu pekerjaan diselesaikan oleh 30 orang tukang dalam 50 hari. Berapa harikah pekerjaan\u00a0 itu dapat diselesaikan oleh 20 orang tukang...?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3. Pembangunan sebuah gedung direncanakan selesai dalam waktu 22 hari bila dikerjakan oleh 20 orang. Setelah dikerjakan 10 hari, pekerjaan dihentikan selama 6 hari.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Supaya pembangunan itu selesai dapat pada waktunya, maka diperlukan tambahan pekerjaan sebanyak......?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Pliss tolong dijawab yha......\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori : Matematika -perbandingan<br>Kelas : 8 SMP<br>Pembahasan : jawabannya adalah<br>1) 12 liter<br>2) 33 hari<br>3) 20 orang<br>Penyelesaian dg cara terlampir",
+                    "attachments": [
+                        "answer-attachments/1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631-1.jpg",
+                        "answer-attachments/1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631-2.jpg",
+                        "answer-attachments/1-sebuah-mobil-menghabiskan-8-liter-bensin-untuk-menempuh-jarak-631-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-7-15-23-31-39-adalah-517",
+            "question": "Suku ke-50 dari barisan bilangan 7, 15, 23,    31, 39, \u2026 adalah \u2026\r\n(A) 392\r\n(B) 399\r\n(C) 407\r\n(D) 448",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: barisan bilangan 7,15,23,31,39<br>Dit: U50?<br>Jwb: a=7<br>         b=U2-U1<br>           = 15-7 =&gt; 8<br><br>          Un= a+(n-1)b<br>          U50= 7+(50-1)8<br>                 = 7+(49)8<br>                 = 7+392<br>                 = 399 (B)<br><br>sorry ya telat kali jawabnya hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319",
+            "question": "Diketahui dua lingkaran saling bersinggungan luar. jika panjang jari-jari lingkaran besar adalah 9cm dan panjang garis singgung _ persekutuan luarnya adalah 6/3. hitunglah jarak kedua pusat lingkaran dan panjang jari-jari lingkran kecil    _\r\n ket:6/3 = 6 akar kuadrat 3",
+            "attachments": [
+                "question-attachments/diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "aku bantu gambar aja ya baru males ngitung akar sama pytagoras",
+                    "attachments": [
+                        "answer-attachments/diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jarak-dari-bandung-ke-ciamis-pada-peta-8-cm-apabila-sk-991",
+            "question": "Diketahui jarak dari Bandung ke Ciamis pada peta 8 cm. Apabila skala yang digunakan oleh peta 1 : 1.500.000, maka jarak Bandung dengan Ciamis yang sebenarnya adalah.... pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aku ksh rumusnya aja nih<br>JS = JP.S<br><br>ket : JS - jrak sbnernya<br>\u00a0 \u00a0 \u00a0 \u00a0 JP - jarak pda peta<br>\u00a0 \u00a0 \u00a0 \u00a0 S - skala",
+                    "attachments": []
+                },
+                {
+                    "answer": "120 km<br>caranya=<br>8/1/1.500.000=8 dikali 1.500.000= 12.000.000 cm=120 km<br>insyaallah bener<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-50-buah-durian-dengan-harga-rp500000-t-801",
+            "question": "seorang pedagang membeli 50 buah durian dengan harga Rp5.000,00 tiap buah. sebanyak 25 buah terjual dengan harga Rp10.400,00 tiap buah, 20 buah dijual dengan harga Rp4.500,00 tiap buah dan sisanya busuk. untung atau rugikah pedagang itu? tentukan berapa persen untung atau ruginya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pedagang membeli buah durian = 50.@Rp 5.000 = 250.000<br>Terjual buah durian : Rp 10.400.@ 25 = 260.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 Rp 4.500.@ 20 = 90.000<br>Sisa busuk : 50-25+25 = @5.5.000 = 25.000<br>Jumlah yang terjual = 260.000 + 90.000 - 25.000 = Rp 325.000<br>Pedagang mengalami keuntungan = Hasil-modal = Rp 325.000-Rp250.000= Rp 125.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pedagang mengalami keuntungan sebesar 125.000",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

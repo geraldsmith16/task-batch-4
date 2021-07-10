@@ -1,0 +1,158 @@
+{
+    "question": "Jika jari jari lingkaran tersebut 10 cm dan panjang tali busurnya 16 cm, berapa panjang garis apotema?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Misal = apotema : c<br>jika dibuat sketsa tali busur akan terbagi menjadi dua<br><br>\u00a0c^2 = <u></u>10^2 - 8^2<br>c^2 \u00a0= 100 - 64<br>c^2\u00a0 = 36<br>\u00a0\u00a0c\u00a0\u00a0\u00a0=\u00a0\u221a36<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0= 6",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "selembar-kertas-folio-dipotong-menjadi-2-yg-sama-kemudian-potong-536",
+            "question": "Selembar kertas folio dipotong menjadi 2 yg sama, kemudian potongan yg satu ditumpuk diatas yg lain. tumpukan itu dipotong lagi menjadi 2 bagian yg sama, kemudian ditumpuk lagi, dan seterusnya.    a. brp banyak potongan kertas jika dilakukan 10 kali pemotongan?\r\nb. berapa kali pemotongan dilakukan jika banyak potongan kertas 256 lmbr?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] U_{10} [/tex]=a<u></u>[tex] r^{9} [/tex]<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =2 x [tex] 2^{9} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =1024<br>b. Un=a[tex] r^{n-1} [/tex]<br>\u00a0\u00a0  256=2 x [tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 256/2=[tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 128=[tex] 2^{n-1} [/tex]<br>\u00a0 [tex] 2^{n-1} [/tex]=[tex] 2^{7} [/tex]<br>\u00a0 n-1=7<br>\u00a0 n=8<br>Jadi,hasilnya 8 kali potongan<br><br>Mohon yang terbaiknya makasih..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-2-kota-sebenarnya-24kmjika-di-gambar-pada-peta-dewmgan-ska-511",
+            "question": "jarak 2 kota sebenarnya 24km.Jika di gambar pada peta dewmgan skala 1:300.000, maka jarak 2 kota pada peta?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "24km= 2.400.000cm<br>jarak pada peta=\u00a0jarak sebenarnya/skala<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2.400.000/300.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=8CM",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik :<br>skala : 1 :300.000<br>jarak sebenarnya : 24 km = 2.400.000<br>dit ; jarak pada peta..?<br><br>jarak pada peta = jarak sebenarnya : skala<br>=2400.000 : 300.000<br>= 8cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-sebuah-fungsi-adalah-fx-1-2x2-nilai-f-2-adalah-664",
+            "question": "Rumus sebuah fungsi adalah f(x) = 1-2x\u00b2\r\n nilai f (-2) adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(-2) =1-2(-2)^2\n         =1-8\n         =-7",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(-2)= 1-2(-2^2)<br>f(-2)= 1-2(4)<br>f(-2)= 1-8<br>f(-2)= -7<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-panjang-apotema-lingkaran-bagaimana-dan-tentang-car-580",
+            "question": "cara mencari panjang apotema lingkaran bagaimana? dan tentang cara mencari luas juring dan tembereng ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apotema bisa pake konsep luas segitiga dan dalil phytagoras<br>Cara mencari Tembereng :<br><span>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Panjang tali busur bisa dicari dengan rumus : <br><br>\n                          Panjang tali busur = besar sudut yg diapit dua jari2: 360 derajat *2*pi*r <br><br>\n Apotema : dicari dengan dalil pythagoras. <br><br>\nTembereng :  Luas juring - Luas segitiga ( keduanya dalam satu bidang datar yg dibentuk oleh dua jari2 suatu lingkaran.)  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-garis-singgung-persekutuan-dalam-dua-lingkaran-adalah-24-615",
+            "question": "Panjang garis singgung persekutuan dalam dua lingkaran adalah 24 cm dan jarak kedua pusatnya adalah 26 cm. Jika panjang salah satu jari-jari lingkaran 6 cm. Hitunglah panjang jari-jari yang lain",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas : VIII</strong><br><strong>Pelajaran : Matematika</strong><br><strong>Kategori : Lingkaran - Garis Singgung Persekutuan Dalam (GSPD)</strong><br><strong>Kata Kunci : lingkaran, GSPD, garis singgung persekutuan dalam</strong><br><strong></strong><br>Diketahui<br>Panjang GSPD = 24 cm<br>Jarak antar pusat = 26 cm<br>Panjang jari-jari salah satu lingkaran R =\u00a06 cm<br><br>Ditanya<br>Panjang jari-jari yang lain\u00a0(r)<br><br>Penyelesaian<br><br>Perhatikan gambar terlampir. <br>Garis singgung persekutuan dalam AB digeser menjadi PN.<br>AB\u00a0sejajar PN.<br>Jarak antar pusat adalah MN.<br><br>Misalkan,<br>jarak antar pusat = p, sebagai sisi miring<br>GSPD = d, dan total jari-jari (R + r), keduanya saling berpenyiku<br><br>Secara dalil Phytagoras, p\u00b2 = d\u00b2 + (R + r)\u00b2<br><br>Biasanya sering ditulis, d\u00b2 = p\u00b2 - (R + r)\u00b2<br><br>(R + r)\u00b2 = p\u00b2 - d\u00b2<br><br>(6 + r)\u00b2 = 26\u00b2 - 24\u00b2<br><br>Di sini kita coba mengingat salah satu tripel phytagoras yakni 5-12-13 yang menjadi 10-24-26<br><br>(6 + r)\u00b2 = 10\u00b2<br><br>6 + r = 10<br><br>r = 10 - 6<br><br><strong>Diperoleh panjang jari-jari yang lain sebesar r = 4 cm</strong><br><strong></strong><br><br>",
+                    "attachments": [
+                        "answer-attachments/panjang-garis-singgung-persekutuan-dalam-dua-lingkaran-adalah-24-615-1.jpeg"
+                    ]
+                },
+                {
+                    "answer": "Kelas : VIII<br>Mapel : Matematika <br>Bab : Persekutuan Lingkaran <br><br>Dik : <br>d=24 cm <br>p=26 cm <br>R=6 cm <br>Dit : <br>r=....?<br><br>Peny : <br>d=\u221ap\u00b2-(R+r)\u00b2<br>24\u00b2=(\u221a26\u00b2-(6+r)\u00b2)\u00b2<br>576=676-(6+r)\u00b2<br>-100=-(6+r)\u00b2<br>10\u00b2=(6+r)\u00b2<br>10=6+r<br>r=<strong>4 cm \u2192 Jawab</strong><br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-ciri-ciri-belah-ketupat-773",
+            "question": "Apakah ciri-ciri belah ketupat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ciri-ciri Belah Ketupat<br>1. mempunyai 4 rusuk yang sama panjang<br>2. mempunyai 2 buah sudut bukan siku-siku yang masing-masing sama besar dengan sudut yang berada di hadapannya<br>3. mempunyai 2 diagonal yang tidak sama panjang<br>4. mempunyai 2 simetri lipat dan dua simetri putar",
+                    "attachments": []
+                },
+                {
+                    "answer": "-smua sisiny sama\u00a0panjang<br>-diagonal2nya merupakan sumbu simetri<br>-sudut2 yg berhadapan sama besar dan kalau dibagi 2 dgn diagonal2nya\u00a0sama besar<br>-jumlah keempat sudutnya 360&#039;<br>-kedua diagonalnya saling tegak lurus dan membagi 2 sama panjang<br>-memiliki 2 sumbu simetri dan simetri putar tingkat 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-berikan-contoh-kata-pengantar-tentang-aritmetika-sosial-t-151",
+            "question": "Tolong berikan contoh kata pengantar tentang aritmetika sosial. thx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau untuk presentasi kayak gini<br>\u00a0pertama tama marilah kita panjat puja da puji syukur kepada Tuhan YME atas rahmat beliau kita dapat berkumpul disini untuk membahas tentang aritmetika sosial yang akan kami sajikan.<br><br>kalau untuk karya tulis<br>\u00a0pertama - tama kami panjatkan puja dan puji syukur kepada Tuhan YME atas rahmat-Nya karya tulis berjudul \"..................\" dapat terselesaikan pada waktunya.<br>dalam penyusunannya penulis menyadari bahwa masih terdapat kekurangan, jadi saran dan kritikan yang bersifat membangun sangat lah diharapkan",
+                    "attachments": []
+                },
+                {
+                    "answer": "<strong><em>kata pengantar</em></strong><br><strong><em>di bab yg sebelumnya kita sudah belajar mengenai ....</em></strong><br><strong><em>nah.. di bab yg ini kita aka mempelajari aritmatika sosial</em></strong><br><br><strong>langsung saja kita pelajari ya...</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-sisi-pada-limas-dengan-alas-segi-8-adalah-590",
+            "question": "Banyak sisi pada limas dengan alas segi 8 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "terdapat 10 sisi pada limas beralas segi delapan",
+                    "attachments": []
+                },
+                {
+                    "answer": "terdapat 16 sisi, karena segi-n dikali 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857",
+            "question": "Perhatikan gambar berikut .    S adalh pusat lingkaran \u00a0suut =21 derajat\r\nsudut SPR=27 derajat .teentukanlahsudut PRS.sudut SQR,sudut PRQdan sudut PSQ\r\n\r\n\r\nmohon bantuannya dengan cara :)",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "PRS = 21 Derajat<br>SQR = 27 Derajat<br>PRQ = 42 Derajat<br>PSQ = 84 Derajat",
+                    "attachments": []
+                },
+                {
+                    "answer": "&lt;PRS = 21\u00b0 karena menghadap busur PQ ( &lt;SRQ juga menghadap busur PQ )<br>&lt;SQR = 27\u00b0 <br>&lt;PRQ = 42\u00b0 karena jumlah suudut PRS dan sudut SRQ<br>&lt;PSQ = 84\u00b0 karena sudut pusat = 2 \u00d7 sudut keliling &lt;PRQ<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

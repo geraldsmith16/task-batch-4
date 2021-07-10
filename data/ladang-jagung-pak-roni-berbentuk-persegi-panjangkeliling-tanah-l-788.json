@@ -1,0 +1,148 @@
+{
+    "question": "ladang jagung pak roni berbentuk persegi panjang.keliling tanah ladang itu 81 m .panjang dan lebarnya berbanding 5:4.hitunglah luas ladang itu!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2p + 2l = 81<br>2.5x + 2.4x = 81<br>10x + 8x = 81<br>18x = 81<br>x = 81 / 15<br><u>x</u> = 4,5<br><br>p = 5. 4,5 = 22,5<br>l \u00a0= 4. 4,5 = 18<br><br>Luas = pl<br>\u00a0 \u00a0 \u00a0 \u00a0 = 22,5 . 18<br>\u00a0 \u00a0 \u00a0 \u00a0 = 405 cm2",
+            "attachments": []
+        },
+        {
+            "answer": "P = 5/(4+5) dikali 81 : 2 = 22,5m<br>L = 4/(4+5) dikali 81 : 2 = 18m<br>luas = p dikali lebar<br>\u00a0 \u00a0 \u00a0 \u00a0= 22, 5 dikali 18m<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0405 m<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "panjang-jari-jari-lingkaran-yang-berpusat-di-p-tiga-kali-panjang-474",
+            "question": "Panjang jari-jari lingkaran yang berpusat di P tiga kali panjang jari-jari lingkaran yang berpusat di Q. Jika panjang garis singgung persekutuan luar kedua lingkaran tersebut 24cm dan panjang perpusatannya 25cm, hitunglah panjang jari-jari kedua lingkaran tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara tripel phytagoras aja <br>7,24,25<br><br>R = 3r<br>GL = 24 cm<br>d = 25 cm<br>karena gl maka rumusnya <br>R-r = 7<br>3r-r = 7<br>2r = 7<br>r = 7/2 <br>\u00a0\u00a0 = 3,5 cm<br><br>R = 3r<br>\u00a0\u00a0\u00a0 = 3(3.5)<br>\u00a0\u00a0\u00a0 = 10,5 cm <br><br>keterangan <br>Gl = garis singgung luar<br>R = jari-jari di P<br>r = jari-jari di Q <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996",
+            "question": "Mohon jawab no 8    tentukanlah nilai p,q,r,pada massing-masing gambar berikut ,L adalah titik pusat lingkaran\r\na,b,c saja agar saya yang mengerjakan d\r\nbuat caranya ,makasih :)",
+            "attachments": [
+                "question-attachments/mohon-jawab-no-8-tentukanlah-nilai-pqrpada-massing-masing-gamb-996-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "gambar a<br>p = 90\u00b0 karena sudut keliling menghadap diameter<br>q = 60 (saya ragu, cuman segitiga siku\" yang saya tau untuk kelas 8 cuman 2 model, antara yang bersudut 90,60,30 dan yang bersudut 90,45,45)<br>r = 180 - 60 - 90\u00a0 = 30\u00b0<br><br>gambar b<br>p =\u00a0 150 \u00f7 2 (karena sudut keliling = sudut pusat \u00f7 2)<br>\u00a0\u00a0 = 75\u00b0<br>q = sudut reflek \u00f7 2<br>\u00a0 = (360 - 150 ) \u00f7 2<br>\u00a0\u00a0 = 105\u00b0<br><br>gambar c<br>p = 60\u00b0 karena segitiga sama kaki<br>q = 60\u00b0 \u00d7 2<br>\u00a0\u00a0 = 120\u00b0<br>r = (180 - 120 ) \u00f7 2<br>\u00a0 = 60 \u00f7 2 = 30\u00b0 (dibagi 2 karena segitiga yg kecil adalah segitiga sama kaki)<br><br>gambar d<br>p = 180\u00b0 - 110\u00b0 ( karena sifat segi 4 tali bsur sudut berhadapan total 180\u00b0)<br>\u00a0\u00a0 = 70\u00b0<br>q = 180\u00b0 - 60\u00b0<br>\u00a0\u00a0 = 120\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>p= 90<br>q= 60<br>r= 30<br><br>b<br>p= 75<br>q= 105<br><br>c<br>p= 60<br>q= 120<br>r= 30<br><br>d.<br>p= 70<br>q= 120<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-todong-memiliki-sebuah-mobil-box-pengangkut-barang-dengan-day-858",
+            "question": "Pak todong memiliki sebuah mobil box pengangkut barang dengan daya angkut maksimal 1 ton.berat pak todong adalah 50kg dan dia akan mengangkut kotak barang yg setiap kotak beratnya 25kg.    A. Berapakah kotak paling banyak dpt di angkut pak todung dalam sekali pengangkutan??\r\n Pliss jawab:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 ton=1000kg<br>brt pak todong=50kg<br>brt kotak=25kg<br>1000kg-50kg=950<br>banyak kotak=950:25=38<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tara5-kg-persentase-tara212-ditanya-berapa-kg-bru-551",
+            "question": "Diketahui:\r\nTara:5 kg\r\nPersentase tara:2,12%\r\n\r\nDitanya:\r\nBerapa kg bruto dan netto?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto =\n5 kg : 2,12%  = 5 : 2,12/100 \n= 5 x 100/2,12 = 500/2,12 = 235,8\njadi, brutonya adalah 235,8\nnetto = bruto - tara.\nnetto = 235,8 - 5 = 230,8\njadi, nettonya adalah 230,8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tara = Persentase tara \u00d7 bruto<br>5 = <u>2,12</u>\u00d7 bruto<br>\u00a0\u00a0 \u00a0 \u00a0 100<br>500 = 2,12 \u00d7 bruto<br>bruto =\u00a0 <u>500</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 2,12<br>bruto = 235,85 kg<br><br>netto = 235,85 - 5kg<br>netto = 230,85 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-panjang-sisi-sebuah-segitiga-sama-sisi-2x-5-cm-j-179",
+            "question": "diketahui panjang sisi sebuah segitiga sama sisi = (2x + 5 ) cm jika keliling segitiga itu 87 cm maka nilai X adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(2x+5)=87 <br>\n6x+15=87 <br>\n6x=72 <br>\nx=12 <br><br>\nSemoga Membantu^^",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena segitiga sama sisi semua sisinya sama panjang jadi <br>(2x+5)3 = 87<br>6x+15 = 87<br>6x= 87-15<br>6x= 72<br>x= 72 : 6<br>x = 12\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-500",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas 8 Matematika<br>Bab Garis dan Sudut<br><br>\u0394 PQR adalah segitiga sama kaki<br>PQ = QR, maka sudut P = sudut R<br><br>Sudut P + sudut Q + sudut R = 180\u00b0<br>Sudut P + 112\u00b0 + sudut P = 180\u00b0<br>2 . sudut P = 180\u00b0 - 112\u00b0<br>Sudut P = 68\u00b0/2<br>Sudut P = 34\u00b0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-bruto-dan-netto-jika-tara-5-kg-dan-presentase-tara-212-794",
+            "question": "Berapa bruto dan netto jika tara 5 Kg dan Presentase Tara 2.12%\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: tara= 5kg<br>\u00a0 \u00a0 \u00a0 persentase tara=2.12%<br><br>dit: *bruto<br>\u00a0 \u00a0 \u00a0*netto<br>jb:<u> persentase tara</u>\u00a0<u></u>\u21d2<u> 2.12 x 100\u00a0</u> \u00a0= 42,4 kg<br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0tara \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br>netto = bruto-tara\u00a0\u21d2 42,4 - 5 = 37.4 kg<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rata-rata-berat-badan-5-orang-anak-adalah-35-kg-setelah-seorang-652",
+            "question": "Rata-rata berat badan 5 orang anak adalah 35 kg. Setelah seorang anak masuk dalam kelompok tersebut, rata-ratanya menjadi 36 kg. Berat badan anak yang baru masuk adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 x 35 = 175<br>6 x 36 = 216<br>216-175 = 41 kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "35 kg : 5 orang = 7 kg \n36 kg : 5 anak + 1 anak = 6 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sebuah-panggung-berbentuk-setengah-lingkaran-akan-ditutupi-de-682",
+            "question": "1.) sebuah panggung berbentuk setengah lingkaran akan ditutupi dengan karpet. jika diameter panggung 20m,hitunglah luas karpet minimal yang diperlukan!!...    2.) sebuah taman berbentuk lingkaran memeiliki luas 346,5m\u00b2. disekeliling taman akan ditanam pohon cendana dengan jarak 3m. tenetukan banyaknya ohon cendana yang diperlukan!!\r\n\r\nMohon bantuan nya teman\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. phi \u00d7 r\u00b2 \u00d7 0,5 = 3,14 \u00d7 10\u00b2 \u00d7 0,5 = 314 \u00d7 0,5 = 157m\u00b2<br>2. luas lahan \u00f7 jarak pohon = 346,5 \u00f7 3 = 115 pohon yang akan ditanamkan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sudut-adb-35-derajat-dan-sudut-cbd-27-derajat-maka-bes-252",
+            "question": "Jika sudut ADB = 35 derajat dan sudut CBD = 27 derajat , maka besar sudut AEB adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini bangun appha ??????<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "360 - (35 + 27)\n360 - 62 = 298",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

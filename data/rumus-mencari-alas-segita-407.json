@@ -1,0 +1,142 @@
+{
+    "question": "Rumus mencari alas segita\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-x2-5x-6-0-prsamaan-kuadrat-berikut-dengan-cara-f-742",
+            "question": "Selesaikan x^2 - 5x +6 = 0 prsamaan kuadrat berikut dengan cara faktorisasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 - 5x + 6 = 0<br>faktornya adalah : <br>(x - 2)(x - 3) = 0 <br>x - 2 = 0 atau x - 3 = 0<br>x = 2 atau x = 3 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya adalah\u00a0(x-2)(x-3)=0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-permukaan-sebuah-kaleng-tanpa-tutup-tetapi-mempunyai-alas-de-336",
+            "question": "luas permukaan sebuah kaleng tanpa tutup tetapi mempunyai alas dengan diameter alas 20 cm dan tingginya 35 cm adalah ..\u00a0 \u00a0 (\u03c0=3,14)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas alas : <span>3,14 x 10 x 10 = 314<br>luas selimut : 3,14 x 20 x 35 = 2198<br>luas tabung tanpa tutup 314 + 2198 = 2512<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-g-r-r-ditentukan-oleh-gx-x2-3x-1-dan-f-r-196",
+            "question": "Fungsi g: R \u2192 R ditentukan oleh    g(x) = x2 \u2013 3x + 1 dan f: R \u2192 R sehingga (f o g)(x) = 2x2\r\n \u2013 6x \u2013 1\u00a0\r\n\r\nmaka f(x) = \u2026.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f o g)(x)= f(g(x)) \u00a0 \u00a0 \u00a0 \u00a0\u00a0=\u00a02x^2<span>\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1)\u00a0=\u00a0</span>2x^2\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x^2-3x+1)\u00a0=\u00a02x^2\u2013 6x + 2 -\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1) = 2(x^2-3x+1) -3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x-3 \u00a0(buktikan saja masukan ke f(g(x))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-integral-berikut-intgral-x-dx-602",
+            "question": "Selesaikan integral berikut...!!!\r\nintgral \u221ax dx ... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "integral dari<br>\u221ax dx = x ^1/2 dx<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/3 x ^3/2\u00a0<br><br><br>NB : ^ = berarti pangkat",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u221ax dx = \u00a0\u00a0</span>[tex] \\frac{2^{ \\frac{3}{2} } }{3} + C[/tex]<br><br>atau\u00a0<br><br>[tex] \\int\\limits^ \\pi _0 {sin x} \\, dx = 2[/tex] + C<br><br>Atau<br>[tex] \\int\\limits^a_b {sin x} \\, dx = - cos x + C [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fxmx22m-3xm3-berada-diatas-sumbu-x-batas-685",
+            "question": "Grafik fungsi f(x)=mx^2+(2m-3)x+m+3 berada diatas sumbu x. Batas-batas nilai m yang memenuhi adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = mx\u00b2 +(2m -3)x\u00a0 + m + 3<br>a = m<br>b = 2m -3<br>c = m + 3<br><br>syarat FK punya akar imajiner : D &lt; 0<br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m - 3)\u00b2 - 4.m.(m+3) &lt; 0<br>4m\u00b2 - 12m + 9 - 4m\u00b2 - 12 &lt; 0<br>-12m - 3 &lt; 0<br>-12m &lt; 3<br>m &gt; [tex] \\frac{3}{-12} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) berada di atas sumbu x, berarti D &lt; 0<br>a = m<br>b = (2m-3)<br>c = m+3<br><br>D = b\u00b2 - 4.a.c &lt; 0<br>\u00a0 \u00a0 \u00a0 (2m-3)\u00b2 - 4.m.(m+3) &lt; 0<br>\u00a0 \u00a0 \u00a0 4m\u00b2 - 12m + 9 - 4m\u00b2 - 12m &lt; 0<br>\u00a0 \u00a0 \u00a0 -24m + 9 &lt; 0 \u00a0dikali (-1) agm\u00a0ar tidak negatif, hati2 setelah dikali (-1) tanda berubah<br>\u00a0 \u00a0 \u00a0 \u00a024m - 9 &gt; 0 dibagi 3 agar lebih mudah mencari nilai m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a08m - 3 &gt; 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08m &gt; 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m &gt; 3/8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0<br><br>\u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "35-putaran-ada-berapa-derajat-846",
+            "question": "3/5 putaran ada berapa derajat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/5 putaran = 216 dejarat",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/5 X 360=216 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2x2-x12-dibagi-x-a-sisanya-15-maka-nilai-a-441",
+            "question": "Jika diketahui 2x\u00b2-x+12 dibagi (x-a) sisanya 15, maka nilai a?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x + 2a - 1<br>\u00a0 \u00a0 \u00a0 \u00a0____________<br>x-a /2x^2 -\u00a0x + 12<br>\u00a0 \u00a0 \u00a0 2x^2 - 2ax<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 2ax\u00a0- x + 12<br>\u00a0 \u00a0 \u00a0 2ax - 2a^2<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 -\u00a0x + 2a^2 +12<br>\u00a0 \u00a0 \u00a0 - x + a<br>\u00a0 \u00a0 \u00a0 ---------------- -<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a +12 = 15<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 + a +12 - 15 = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 2a^2 +\u00a0a - 3 = 0<br>\u00a0 \u00a0 (2a + 3) (a - 1)<br><br>\u00a0 \u00a0a = -3/2 atau a\u00a0= 1",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "1. hitunglah luas tembereng pada gambar berikut jika jari - jari lingkaran 14 cm",
+    "attachments": [
+        "question-attachments/1-hitunglah-luas-tembereng-pada-gambar-berikut-jika-jari-jari-481-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<strong>a) luas tembereng dg sudut 90 derajat </strong><br><strong>\u00a0\u00a0 \u00a0  = 2/7 x r^2</strong><br><strong>\u00a0\u00a0 \u00a0 = 2/7 x 14 x 14</strong><br><strong>\u00a0\u00a0 \u00a0 = 56 cm^2</strong><br><br><strong>b) luas tembereng dg sudut 60 derajat</strong><br><strong>\u00a0\u00a0 \u00a0 = luas juring - luas segitiga</strong><br><strong>\u00a0\u00a0 \u00a0 = 1/6 x 22/7 x 14 x 14 - 14^2/3 V3</strong><br><strong>\u00a0\u00a0 \u00a0 = 102 2/3 - 65 1/3 V3</strong><br>",
+            "attachments": []
+        },
+        {
+            "answer": "a. luas tembereng<br>= l. juring - l.segitiga<br>= l. lingkaran x sudut juring/360 - l. segitiga<br>= \u03c0r\u00b2 x 90/360 - a x t/2<br>= 22/7 x 14 x 14 x 90/360 - 14 x 14/2<br>= 154 - 98<br>= 56 cm\u00b2<br><br>b. luas tembereng<br>= l. lingkaran x sudut juring/360 - l. segitiga<br>= \u03c0r\u00b2 x 90/360 - a x t/2<br>= 22/7 x 14 x 14 x 60/360 - 14 x 7\u221a3/2<br>= 102,67 - 49\u221a3<br><br>ket :<br>t. segitiga didapat dari rumus phytagoras :<br>b = \u221a(c\u00b2 - b\u00b2)<br>b = \u221a(14\u00b2 - 7\u00b2)<br>b = \u221a(196 - 49)<br>b = \u221a147<br>b = \u221a49\u221a3<br>b = 7\u221a3, jadi t. segitiga adalah 7\u221a3<br><br>alas segitiga = 14, karena salah satu sudutnya 60\u2070, karena ada 2 sisi segitiga yang sama, maka sudut yang lainnya juga 60\u2070, sehingga semua sudutnya 60\u00b0, maka disebut segitiga sama sisi, jadi semua sisinya sama<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rata-rata-berat-badan-5-orang-anak-adalah-35-kg-setelah-seorang-652",
+            "question": "Rata-rata berat badan 5 orang anak adalah 35 kg. Setelah seorang anak masuk dalam kelompok tersebut, rata-ratanya menjadi 36 kg. Berat badan anak yang baru masuk adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 x 35 = 175<br>6 x 36 = 216<br>216-175 = 41 kg<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "35 kg : 5 orang = 7 kg \n36 kg : 5 anak + 1 anak = 6 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-4x-lebih-besar-sama-dengan-22-hasilnya-845",
+            "question": "2 - (4+x) lebih besar sama dengan -22 hasilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-4-x &gt;_ -22<br>-6 - x &gt;_ -22<br>-x &gt;_ -16<br>x &lt;_ 16<br><br>note : &lt;_ Lebih kecil atau sama dengan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0&gt;_ Lebih besar atau sama\u00a0dengan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemborong-memperkirakan-dapat-menyelesaikan-suatu-pekerja-102",
+            "question": "Seorang pemborong memperkirakan dapat menyelesaikan suatu pekerjaan dalam waktu 8 hari\u00a0    Dengan sekelompok Pekerja. Jika banyak pekerja ditambah 5 orang, maka pekerjaan itu dapat diselesaikan dlm waktu 6 hari. Banyak pekerja mula-mula? Jawab pake cara, lagi butuh banget",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah orang mula\" adalah x<br>jika x orang maka pekerjaan akan selasai dalam 8 hari<br>jika di tambah 5 orang maka akan menjai 6 hari<br><br>maka berlaku perbandingan berbalik nilai<br><br><u>x\u00a0</u>\u00a0 \u00a0 =\u00a0<u> 6</u><br>x+5\u00a0 \u00a0\u00a0 8<br>8x = 6x + 30<br>2x = 30<br>x = 15<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-dua-lingkaran-masing-masing-adalah-12cm-dan-5cm-498",
+            "question": "Panjang jari jari dua lingkaran masing masing adalah 12cm dan 5cm. jarak kedua titik pusatnya adalah 25cm. hitunglah    a. panjang garis singgung persekutuan dalam\r\nb. panjang garis singgung persekuuan luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R = 12 cm<br>r = 5 cm<br>p = 25 cm<br><br>a. <br>d\u00b2 = p\u00b2 - (R - r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 - 5)\u00b2<br>d\u00b2 = 625 - 49<br>d\u00b2 = 576<br>d = \u221a576<br>d = 24 cm<br><br>b. <br>d\u00b2 = p\u00b2 - (R + r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 + 5)\u00b2<br>d\u00b2 = 625 - 289<br>d\u00b2 = 336<br>d = \u221a336<br>d = 18,33 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-rasio-dari-suatu-barisan-geometri-696",
+            "question": "Cara mencari rasio dari suatu barisan geometri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "budi-membeli-sepeda-seharga-rp-600000-setelah-beberapa-hari-s-481",
+            "question": "Budi membeli sepeda seharga Rp 600.000. Setelah beberapa hari , sepeda tersebut dijual dengan harga Rp 578.500. Berapa persentase kerugian yang dialami Budi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rugi = harga pembelian - harga penjualan<br>\u00a0\u00a0 \u00a0\u00a0 = 600.000 - 578.500 = 21.500<br><br>%rugi = rugi : harga pembelian x 100%<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 21.500 : 600.000 x 100%<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = <strong>3,583%</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-jenis-makanan-kemasan-dengan-berat-bruto-berat-kotor-ap-429",
+            "question": "Contoh jenis makanan kemasan\u00a0dengan berat bruto (berat kotor) apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Setahuku sih sarden. Di kalengnya itu tertera brutonya.<br><br>Semoga bermanfaat :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-roda-berdiameter-63cm-berputar-menempuh-jarak-198m-roda-te-436",
+            "question": "Suatu roda berdiameter 63cm berputar menempuh jarak 198m. Roda tersebut berputar sebanyak......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 63 cm = 0,63 m<br>\u00a0 \u00a0 \u00a0 s = 198 m<br>Dit banyak putaran ?<br>jawab.<br>K O =\u00a0\u03c0d<br><br>\u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} x 0,63 = 1,98 m [/tex]<br><br>banyak putaran =\u00a0[tex] \\frac{S}{k O} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u00a0[tex] \\frac{198}{1,98} = 100 kali [/tex]<br><br><br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket,diameter\u00a0lingkaran 63cm<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 jarak\u00a0= 198 m\u00a0= 19800 cm<br>maka,\u00a0Keliling  = \u03c0 x d<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u></u><u>22</u> x 63<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0<u>1386</u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 7<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>maka,\u00a0roda\u00a0berputar sebanyak = 19800:198\u00a0= 100\u00a0<br>Kasik\u00a0bintangnya\u00a0yoo :)<u></u><br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-beserta-jawaban-dan-proses-berikan-contoh-2-soal-persamaan-267",
+            "question": "Soal beserta jawaban dan proses.    berikan contoh 2 soal persamaan linear satu variabel. beserta prosesnya dan jawabannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. -10+3(4-3X)=2(X+2)-10<br>5-12+9X = 2X+4-10<br>9X-2X + -10+4+12-5<br>7X = 1<br>X = 1/7<br><br>2.-4(3X-2)+38-2X<br>-12X+8 = 38-2X<br>-12+2X = 38-8<br>-10X=30<br>X=30/-10<br>X=-3",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 1 = 5<br>\u00a0 \u00a0 \u00a02x = 5+1<br>\u00a0 \u00a0 \u00a02x\u00a0= 6<br>\u00a0 \u00a0 \u00a0 x \u00a0= 3<br><br>3x\u00a0+ 12 = 7x - 8<br>3x-7x \u00a0 \u00a0= -8-12<br>-4x \u00a0 \u00a0 \u00a0 \u00a0= -20<br>x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 5<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-berjalan-di-jalan-raya-jika-roda-mobil-tersebut-ber-515",
+            "question": "Sebuah mobil berjalan di jalan raya, jika roda mobil tersebut berjari-jari 35 cm dan roda tersebut berputar 2000 kali, maka jarak yang ditempuh adalah?    a. 4,4 km\r\n b. 6,6 km\r\n c. 8,8 km\r\n d. 13,2 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hitung keliling rodanya dulu..<br>[tex]K = 2 \\pi r[/tex]<br>[tex]K = 2. \\frac{22}{7} . 35 [/tex]<br>[tex]K = 220[/tex]<br><br>K x\u00a0n<br>220 x 2000<br>440000cm<br>4,4km\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "kll lingkaran = 2 \u00d7 \u03c0 \u00d7 r = 2 \u00d7 22/7 \u00d7 35 = 220cm\u00b2<br>jarak tempuh = kll lingkaran \u00d7 banyak putaran = 220 \u00d7 2000 = 440.000cm = 4,4 KM jawabannya adalah A<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

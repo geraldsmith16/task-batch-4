@@ -1,0 +1,136 @@
+{
+    "question": "sejumlah gas ideal dalam tabung tertutup dipanaskan secara isokhorik sehingga suhunya naik menjadi empat kali suhu semula. energi kinetik rata-rata molekul gas ideal menjadi.....(caranya)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Energi kinetik rata-rata molekul gas hanya dipengaruhi suhu mutlak gas. Sehingga dibuat perbandingan:<br>Ek = 3/2 kT<br>Ek2/Ek1 = T2/T1 = 4T/T = 4kali semula<span><br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-suatu-bandul-sederhana-membuat20-ayunan-dalam-60-detik-maka-886",
+            "question": "jika suatu bandul sederhana membuat20 ayunan dalam 60 detik, maka panjang bandul tersebut adalah .... m.(g=9,8 m/s2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : n = 20, t = 60 det, g = 9,8 m / det2<br>dit : L?<br>Jawab = T = 2[tex] \\pi [/tex] \u221a[tex] \\frac{l}{g} [/tex]<br><br>maka mencari T = n / t<br>jadi T = 1/ 3<br>sehingga T2 = 4[tex] \\pi [/tex]2 [tex] \\frac{L}{g} [/tex]<br>1/9 = 4 x 9,8 L / 9,8<br>jadi L = 1 / 36 meter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermasa-50-kg-ditarik-dengan-tali-ke-atas-bidang-mi-196",
+            "question": "Sebuah benda bermasa 5,0 kg ditarik dengan tali ke atas bidang miring yang kasar oleh sebuah gaya 71 N (g=10 m.s-2 ,sin 37=0,6 .cos37= 0,8). Jika koefesien gesekan antara benda dan bidang adalah 0,4 percepatan yang dialami benda adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(Uraikan dulu gaya-gayanya)<br><br>* Cari nilai Fg\u00a0(Gaya Gesek)<br>Fg = \u03bc\u00a0\u00d7 N \u00a0 \u00a0 \u00a0 \u00a0\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 N\u00a0= W.cos.\u03b8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ket ;\u00a0\u03bc = Koefisien gesek<br>\u00a0 \u00a0 \u00a0= 0,4\u00a0\u00d7 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0N = 5.10.0,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = Gaya Normal<br>\u00a0 \u00a0 \u00a0= 16N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0N = 40N<br>* Masukkan ke rumus<br>\u00a0<strong> a =\u00a0</strong><u><strong>\u03a3F</strong></u><strong> \u00a0 \u00a0 </strong><br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u03a3m</strong><br> \u00a0 \u00a0 = <u>F-\u00a0( W sin\u00a0\u03b8 + Fg )</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m<u><br></u> \u00a0 \u00a0 = <u>71- ( 5.10.0,6+16)</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05<br> \u00a0 \u00a0 =\u00a0<u>71- 46<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br> \u00a0 \u00a0 =\u00a0<u>25<br></u> \u00a0 \u00a0 \u00a0 \u00a0 5<br> \u00a0 \u00a0 = <strong>5 m/s\u00b2</strong><u><br></u>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergerak-dg-kecepatan-awal-15-ms-diperlambat-dg-per-528",
+            "question": "Sebuah benda bergerak dg kecepatan awal 15 m/s diperlambat dg perlambatan tetap 3 m/s\u00b2. Kecepatan benda\u00a0itu ketika berpindah 31,5 m adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Kecepatan benda itu ketika berpindah 31,5 m adalah 6 m/s sesuai dengan perhitungan sebagai berikut. </strong></p><p><strong></strong></p><h2>PEMBAHASAN</h2><p><strong>Diketahui</strong></p><p>Vo = 15 m/s</p><p>a = 3 m/s\u00b2</p><p>s = 31,5 m</p><p></p><p><strong>Ditanya</strong></p><p>Vt = ?</p><p></p><p><strong>PENYELESAIAN</strong></p><p>Karena benda tsb mengalami perlambatan, maka nilai a = -3 m/s\u00b2. </p><p></p><p>Vt\u00b2 = Vo\u00b2 + 2as</p><p>Vt\u00b2 = 15\u00b2 + 2 \u2022 -3 \u2022 31,5</p><p>Vt\u00b2 = 225 - 189</p><p>Vt\u00b2 = 36</p><p>Vt = \u221a36</p><p><strong>Vt = 6 m/s</strong></p><p></p><h2>PEMBAHASAN MATERI GLB DAN GLBB</h2><p>Gerak Lurus dapat dibagi menjadi 2 bagian, yaitu Gerak Lurus Beraturan (GLB) dan Gerak Lurus Berubah Beraturan (GLBB). </p><p></p><p>[tex] \\boxed {GLB} [/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0GLB merupakan gerak lurus beraturan. Dimana kecepatan tidak mengalami percepatan ataupun perlambatan. Kecepatan akan terus konstan. </p><p></p><p>[tex] \\boxed {v = \\frac {s}{t}} [/tex]</p><p></p><p>v = kecepatan (m/s)</p><p>s = jarak yang ditempuh (m) </p><p>t = waktu yg diperlukan (s) </p><p></p><p>[tex] \\boxed {GLBB} [/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0GLBB merupakan gerak lurus berubah beraturan. Disini terdapat unsur percepatan yang membedakan antara GLB dan GLBB. GLBB memiliki percepatan, sehingga benda yg awalnya berkecepatan awal Vo akan berubah menjadi Vt baik itu bertambah cepat atau pun bertambah lambat. </p><p></p><p>[tex] \\boxed { Vt^{2} = Vo^{2} + 2as} [/tex] </p><p>[tex] \\boxed { s = Vot + \\frac{1}{2} at^{2}} [/tex]</p><p>[tex] \\boxed { Vt = Vo + at } [/tex]</p><p></p><p>Vo = Kecepatan awal (m/s)</p><p>Vt = Kecepatan akhir (m/s)</p><p>a = percepatan (m/s\u00b2)</p><p>s = jarak yg ditempuh (m) </p><p>t = waktu yg diperlukan (s) </p><p></p><p>-----------------------------</p><h2>Pelajari lebih lanjut </h2><p>1. Materi tentang GLB https://brainly.co.id/tugas/3860295</p><p>2. Materi tentang GLBB Diperlambat https://brainly.co.id/tugas/3766788</p><p>3. Materi tentang GLBB Dipercepat https://brainly.co.id/tugas/13395024</p><p>-----------------------------</p><p></p><h2>DETIL JAWABAN</h2><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 8 SMP</strong></p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Fisika</strong></p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : Gerak </strong></p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 8.6.1</strong></p><p><strong>Kata Kunci : Gerak Lurus, GLBB, GLB, Gerak Lurus Berubah Beraturan</strong></p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-benda-bergerak-dg-kecepatan-awal-15-ms-diperlambat-dg-per-528-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-sepatu-wanita-memiliki-hak-atau-tumit-kecil-lebih-memungk-176",
+            "question": "mengapa sepatu wanita memiliki hak atau tumit kecil lebih memungkinkan merusak lantai kayu daripada sepatu yang memiliki hak atau tumit besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena semakin kecil luas permukaan suatu benda maka tekanan yang diberikan semakin besar tetapi semakin besar luas permukaan benda maka tekanan yang diberikan semakin kecil sehingga diperoleh rumus P = F/A<br>jadi luas permukaan lebih sempit dapat menghasilkan kerusakan lebih besar dibanding luas permukaan benda yang lebih besar.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-definisi-standard-resistor-672",
+            "question": "Apa definisi standard resistor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "komponen elektronika dua saluran yg didesain untuk menahn arus listrik dg<br>memproduksi penurunn tegangn diantra kedua salurannya sesuai dg arus yg mengalirnya, berdasarkn hukum ohm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koefisien-momen-inersia-dari-batang-besi-yang-padat-dengan-panjan-254",
+            "question": "Koefisien momen inersia dari batang besi yang padat dengan panjang L adalah.........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Koefisien momen inersia benda tegar, untuk batang kalo sumbunya melalui pusat itu 1/12, sedangkan kalau sumbunya diujung itu 1/3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tergantung dari soal-soal nya\u00a0<br>kalau poros nya dari pusat \u00a0 I = 1/12 mLkuadrat<br>kalu poros nya dari ujung \u00a0 \u00a0 I = 1/3 mLkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "notasi-ilmiah-dari-0001-389",
+            "question": "Notasi ilmiah dari 0,001?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "notasi ilmiah dari 0,001 =\u00a01 x 10 pangkat -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "notasi ilmiah dari 0,001 = 10^-3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842",
+            "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+            "attachments": [
+                "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-958",
+            "question": "Sebuah baterai dihubungkan dengan sebuah resistor akan menghasilkan arus 0,6 ampere. Jika pada rangkaian tersebut ditambahkan sebuah resistor 4,0 ohm yang dihubungkan seri dengan resistor pertama maka arus akan turun menjadi 0,5 ampere. Gaya gerak listrik (ggl) baterai (dalam volt) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika <br>Materi: listrik <br>Kelas: XII SMA IPA <br>Kata kunci: Gaya gerak listrik <br><br><br><br><br>Perhitungan Terlampir",
+                    "attachments": [
+                        "answer-attachments/sebuah-baterai-dihubungkan-dengan-sebuah-resistor-akan-menghasilk-958-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

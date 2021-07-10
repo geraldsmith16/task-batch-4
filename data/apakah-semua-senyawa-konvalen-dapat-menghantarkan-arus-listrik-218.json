@@ -1,0 +1,143 @@
+{
+    "question": "Apakah semua senyawa konvalen dapat menghantarkan arus listrik ? Jelaskan !\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Tidak semua senyawa kovalen dapat menghantarkan listrik karena senyawa kovalen memiliki muatan 0 dan tergantung ion2 penyusunnya",
+            "attachments": []
+        },
+        {
+            "answer": "Tidak ,karena yang dapat menghantarkan listrik adalah senyawa kovalen polar sedangkan yang tidak dapat menghantarkan listrik adalah senyawa kovalen non polar",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-20-ml-larutan-koh-01-m-ditetesi-dengan-larutan-hcl-01-473",
+            "question": "Sebanyak 20 ml larutan KOH 0,1 M ditetesi dengan larutan HCL 0,1 M    a. perkirakan pH awal larutan KOH\r\nb. secara teori, berapa ml larutan hcl diperlukan untuk mencapai titik ekivalen\r\nc.berapa pH pada titik ekivalen.\r\nd.berapa ml larutan HCL yang diperlukan untuk membuat pH campuran menjadi 4 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tetapan ionisasi dari asam lemah HA adalah\n<span>Dengan menata ulang persamaan, diperoleh persamaan untuk konsentrasi ion H+, yaitu:</span>\n<span>Persamaan tersebut menyatakan konsentrasi ion H+ dalam bentuk Ka asam lemah dikalikan dengan perbandingan konsentrasi HA dan A\u2013pada keadaan kesetimbangan. Jika [HA] dan [A\u2013] sama maka konsentrasi ion H+ dari larutan penyangga sama dengan nilai Ka. Anda dapat menggunakan persamaan di atas untuk menentukan nilai pH larutan penyangga, yaitu:</span>\n<span>Ruas kiri persamaan menyatakan pH. Ruas kanan dapat disederhanakan menjadi pKa, dimana pKa = \u2013log Ka. Jadi, persamaan di atas dapat ditulis dalam bentuk sebagai berikut.</span>\n\nSecara umum, persamaan tersebut dapat dinyatakan sebagai berikut.\n<span> (berdasarkan teori Bronsted-Lowry)</span>\n<span> (berdasarkan teori Arrhenius)</span>\nUntuk larutan penyangga yang dibuat dari basa lemah dan asam konjugatnya, nilai pOH diperoleh dengan cara serupa.\n<span> (berdasarkan teori Bronsted-Lowry)</span>\n<span> (berdasarkan teori Arrhenius)</span>\n<span>Persamaan ini dikenal sebagai <span><span>persamaan Henderson-Hasselbalch</span>. </span>Untuk\n membuat larutan penyangga dengan pH sesuai keinginan, misalnya pH \u2248 \n4,75, dapat dilakukan dengan mencampurkan asam lemah yang memiliki nilai\n pKa sekitar 4,74. Kemudian, dicampurkan dengan garam yang konsentrasi molarnya sama dengan asam lemah agar</span>\n<span>Contoh pH Larutan Penyangga dari Asam Lemah dan Garamnya</span>\n<span>Berapa pH larutan yang dibuat dari campuran 50 mL CH3COOH 0,5 M dan 50 mL NaCH3COO 0,5 M? Diketahui Ka(CH3COOH) = 1,8 \u00d7 10\u20135.</span>\nJawab:\n<span>Dalam larutan terdapat: CH3COOH, CH3COO\u2013, H+, dan Na+. Reaksi kesetimbangannya:</span>\n<span>CH3COOH(aq) \u21c4 CH3COO\u2013(aq) + H+(aq)</span>\n<span>Konsentrasi CH3COO\u2013 lebih dominan dari garam dibandingkan hasil ionisasi asam asetat maka dalam perhitungan, konsentrasi CH3COO\u2013 ditentukan dari garamnya. Konsentrasi CH3COOH dalam campuran (100 mL):</span>\n<span>Konsentrasi CH3COO\u2013 dalam campuran (100 mL):</span>\n\nNilai pH larutan dihitung dengan rumus:\n<span>Jadi, pH larutan penyangga sebesar 4,74. Nilai ini berasal dari nilai pKa.</span>\n<span>Contoh pH Larutan Penyangga dari Campuran Garam</span>\n<span>Berapa pH larutan penyangga yang dibuat dari campuran 60 mL NaH2PO4 0,5 M dan 40 mL Na2HPO4 0,5 M. Diketahui Ka (H2PO4\u2013) = 7,5 \u00d7 10\u20133.</span>\nJawab:\n<span>Dalam larutan terdapat: Na+, H+, H2PO4\u2013, dan HPO42\u2013. Reaksi kesetimbangannya:</span>\n<span>H2PO4\u2013(aq) \u21c4 HPO42\u2013(aq) + H+(aq)</span>\n<span>Oleh karena kedua garam tersebut terionisasi sempurna maka konsentrasi H2PO4\u2013 dan HPO42\u2013 sama dengan konsentrasi garam-garamnya. Konsentrasi H2PO4\u2013 dalam campuran (100 mL):</span>\n<span>Konsentrasi HPO42\u2013 dalam volume campuran</span>\n\nNilai pH larutan\n\nJadi, pH larutan = 1,95.\nPengenceran Larutan Penyangga\n<span>Mengapa pH larutan penyangga tidak berubah jika diencerkan? Untuk memahami hal ini, dapat ditinjau dari persamaan Henderson-Hasselbalch.</span>\n<span>Nilai pH larutan penyangga hanya ditentukan oleh pKa dan perbandingan konsentrasi molar pasangan asam basa konjugat. Nilai Kaatau pKa dari\n asam lemah tidak bergantung pada konsentrasi asam, tetapi bergantung \npada suhu. Oleh sebab itu, pengenceran larutan penyangga tidak akan \nmengubah nilai pKa (lihat <span>Gambar 8.9</span>).</span>\n<span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. pH = 14 - log 0,02 x 0,1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14 - log 0,002<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11 + log 2<br>b. KOH = HCL<br>\u00a0 \u00a0 M1V1 = M2V2<br>\u00a0 \u00a0 0,1. 20 = 0.1 V2<br>\u00a0 \u00a0 V2 HCl\u00a0= 0,1 . 20 / 0,1 = 20 ml<br>c. karena yang direaksikan adalah basa kuat dan asam kuat jadi pH 7 netral",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-asam-metanoat-001m-ph-5-ditanya-harga-tetapan-asam-m-536",
+            "question": "Larutan asam metanoat 0,01M, pH = 5. ditanya harga tetapan asam metanoat? dengan pembahasan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui larutan asam metanoat 0,01M, pH = 5. Maka besarnya<strong> tetapan asam metanoat </strong>adalah Ka = 10\u207b\u2078</p><h3>Pembahasan</h3><p><strong>pH Larutan</strong></p><p>Derajad keasaman suatu larutan asam atau basa dari suatu larutan dapat dhitung dari besarnya nilai pH atau pOH larutan tersebut. Derajad keasamaan larutan bergantung pada jumlah konsentrasi ion H+ dalam larutan. Semakin besar konsentrasi ion H+ maka pH semakin kecil sehingga makin asam larutan tersebut. Hal ini karena pH sama dengan negatif logaritma konsnetrasi ion H+. \u00a0Begitu juga dengan pOH adalah negatif logaritma konsnetrasi ion OH-. Semakin besar pH, maka larutan akan semakin bersifat basa.</p><p>Ingat</p><p>Asam : \u00a0pH &lt; 7</p><p>Basa : pH &gt; 7 </p><p>pH = - log [H+]</p><p>pOH = - log [OH-]</p><p>pH + pOH = 14</p><br><p><strong>pH Asam Kuat </strong></p><p>Rumus : \u00a0 \u00a0 [tex]\\boxed{\\boxed{\\bold{[H^+]~=~a~.~Ma}}}[/tex]</p><p>pH = -log [H+] \u00a0 \u00a0dan \u00a0 \u00a0pOH = \u00a014 - pH \u00a0 </p><p>dengan \u00a0 \u00a0 \u00a0</p><p>a = banyak H+ yang diikat </p><p>Ma = Molaritas asam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><br><p><strong>pH Asam Lemah \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 </strong></p><p>Rumus : </p><p>[H+] = \u221a(Ka .Ma) \u00a0 </p><p>[H+] = \u00a0\u03b1 . Ma</p><p>\u03b1 = \u221a(Ka/Ma) \u00a0</p><p>pH = -log [H+] \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0 \u00a0pOH = \u00a014 - pH </p><p>dengan \u00a0 </p><p>Ka = Tetapan ionisasi asam</p><p>Ma = Molaritas asam</p><p>\u03b1 = derajat ionisasi</p><br><p><strong>pH Basa Kuat </strong></p><p>Rumus : \u00a0 \u00a0[tex]\\boxed{\\boxed{\\bold{[OH^-]~=~b~.~Mb}}}[/tex]</p><p>pOH = -log [OH-] \u00a0 \u00a0 dan \u00a0 \u00a0pH = 14 - pOH \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><p>dengan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 </p><p>b = banyak OH- \u00a0yang diikat</p><p>Mb = Molaritas basa </p><br><p><strong>pH Basa Lemah </strong></p><p>Rumus : </p><p>[OH-] = \u221a(Kb .Mb)</p><p>[OH-] = \u00a0\u03b1 . Mb \u00a0 </p><p>\u03b1 = \u221a(Kb/Mb) </p><p>pOH = -log [OH-] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0 \u00a0pH = 14 - pOH \u00a0 \u00a0 \u00a0 </p><p>dengan \u00a0 </p><p>Kb = Tetapan ionisasi basa</p><p>Mb = Molaritas basa</p><p>\u03b1 = derajat ionisasi</p><br><p>[tex]\\boxed{\\boxed{\\bold{Diket}}}[/tex]</p><p>[CH\u2083OH] = 0,01 M</p><p>pH = 5</p><br><p>[tex]\\boxed{\\boxed{\\bold{Ditanya}}}[/tex]</p><p>tetapan ionisasi asam metanoat</p><br><p>[tex]\\boxed{\\boxed{\\bold{Jawab}}}[/tex]</p><ul><li>Menentukan konsentrasi H\u207a</li></ul><p>pH = - log [H\u207a]</p><p>5 = - log [H\u207a]</p><p>[H\u207a] = antilog (5)</p><p>[H\u207a] = 1. 10\u207b\u2075 M</p><ul><li>Menentukan tetapan ionisasi asam (Ka)</li></ul><p>[H\u207a] = [tex]\\sqrt{Ka~x~Ma}[/tex]</p><p>1. 10\u207b\u2075 = [tex]\\sqrt{Ka~x~0,01}[/tex]</p><p>(1. 10\u207b\u2075)\u00b2 = Ka x 0,01</p><p>Ka = [tex]\\frac{1~x~10^{-10}}{0,01}[/tex]</p><p>Ka = [tex]\\frac{1~x~10^{-10}}{1~x~10^{-2}}[/tex]</p><p>Ka = 10\u207b\u2078</p><br><p>[tex]\\boxed{\\boxed{\\bold{Kesimpulan}}}[/tex]</p><p>Tetapan ionisasi asam metanoat (Ka) adalah 10\u207b\u2078</p><br><h3>Pelajari lebih lanjut</h3><p>pH asam, basa dan garam https://brainly.co.id/tugas/18330745</p><p>Rumus menentukan konsnetrasi H+ dan OH- https://brainly.co.id/tugas/19369085</p><p>Konsentrasi asam lemah https://brainly.co.id/tugas/20286675</p><p>Konsentrasi OH- https://brainly.co.id/tugas/5415760#</p><p>Menentukan pH asam kuat dan asam lemah https://brainly.co.id/tugas/732986, https://brainly.co.id/tugas/20903903</p><p>Menentukan pH larutan asam kuat dan basa kuat https://brainly.co.id/tugas/5710167</p><p>----------------------------------------------</p><h3>Detil Jawaban</h3><p>Mapel : Kimia</p><p>Bab : Larutan asam basa dan pH</p><p>Kelas : XI</p><p>Semester : 2</p><p>Kode : 11.7.5</p><p>Kata kunci : asam, \u00a0basa, pH, pOH, Ka, Kb, asam lemah, basa lemah, asam kuat, basa kuat</p>",
+                    "attachments": [
+                        "answer-attachments/larutan-asam-metanoat-001m-ph-5-ditanya-harga-tetapan-asam-m-536-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-10-ml-larutab-asam-sulfat-tepat-dinetralkan-oleh-5ml-larut-463",
+            "question": "jika\u00a0 10 mL larutab asam sulfat tepat dinetralkan oleh 5mL larutan KOH 1M,hitunglah molaritas larutan asam sulfat tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]V1 . M1 = V2 . M2\n10 . M1 = 5 . 1\n10 M1 = 5\nM1 =  \\frac{5}{10} \nM1 = 0,5M[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurutku, Molaritasnya sama 1M juga.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-allicin-adalah-senyawa-yang-menimbulkan-bau-khas-pada-bawang-808",
+            "question": "1.\u00a0Allicin adalah senyawa yang menimbulkan bau khas pada bawang. analisis kandungan alisin menunjukkan bahwa komposisinya adalah 44,4% C, 6,21% H, 39,5% S, dan 9,86% O. Tentukan rumus empiris alisin. Jika massa molekul relatifnya 162, bagaimana rumus molekulnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.buat perbandingan persen, <br>2. kemudian persen itu di bagi Ar masing - masing zat,<br>3. buat perbandingan paling sederhana dari hasil bagi tadi<br>4. jadi Rumus empiris<br><br>C : H : S : O = 44,4 : 6,21: 39,5: 9,86</span> <br>= 44,4/12 : 6,21/1: 39,5/32: 9,86/16<br>= 3,7 : 6,21 : 1,23 : 0,62 (bagi semua perbandingan dengan angka perbandingan terkecil)<br>= 5,9 : 10 : 1,98 : 1 (bulatkan)<br>= 6 : 10 : 2 : 1<br><br>C6H10S2O<br><br>jika Mr Rumus molekul = 162 maka<br>(Mr R empiris) x n = Mr R molekul<br>(6x12 + 10 x 1 + 32 x 2 + 16) x n = 162<br>162 x n = 162<br>n = 1<br><br>maka rumus molekul = rumus empiris<br>yaitu <br><br>C6H10S2O<br><br>semoga bermanfaat :)<br>kasih label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-larutan-yang-mengandung-01-mol-ch3cooh-ka10-5-dan-00-321",
+            "question": "Suatu larutan yang mengandung 0,1 mol CH3COOH (Ka=10^ -5) dan 0,01 mol CH3COONa mempunyai pH sebesar ??    Brp sihh ini guys hasil'a ?? ane nyari gk dapet .-.\r\ntrutama untuk reaksinya..\r\nThanks.. :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:<br>ada dua larutan :<br>CH\u2083COOH (0,1 mol)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 | \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH\u2083COONa \u00a0 (0,01 mol)<br>bersifat asam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 | \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Termasuk Garam<br><br>jika kamu menemukan soal seperti ini, ini adalah reaksi larutan Buffer Asam, ada di kelas XI Semester 2. salah satu rumus buffer:<br>[H\u207a] = Ka x\u00a0[tex] \\frac{mol Asam}{mol Garam} [/tex]<br>[H\u207a] = 10\u207b\u2075 x\u00a0<u></u>[tex] \\frac{0,1 mol}{0,01 mol} [/tex] = 10\u207b\u2074<br>maka Ph dari larutan tersebut : Ph = -log[H\u207a] =<strong> -log 10\u207b\u2074 = 4<br><br>klo kamu mau tau reaksinya :</strong><br>\u00a0 \u00a0CH\u2083COOH \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH\u2083COONa =====&gt; \u00a0 CH\u2083COONa \u00a0+ CH\u2083COOH<br>alias tidak berubah kedudukannya karena mereka berdua merupakan asam dan basa konjugasinya.<br>Semoga membantu!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "atom-12a-dan-atom-9b-akan-membentuk-senyawa-yang-aberikata-101",
+            "question": "Atom 12A dan atom 9B akan membentuk senyawa yang . . .    A.berikatan ion dengan rumus kimia AB2\r\n B.berikatan ion dengan rumus kimia A2B\r\n C.berikatan ion dengan rumus kimia AB\r\n D.berikan kovalen dengan rumus kimia AB2\r\n E.berikatan kovalen dengan rumus A2B\r\n Nb: dengan alasannya, sebelumnya saya ucapkan terima kasih :) (y)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perhatikan konfigurasi elektron dari masing-masing unsur serta kecenderungan untuk menjadi ion agar tercapai keadaan oktet (stabil)<br><br>\u2081\u2082A = 2 . 8 . 2 \u21d2 melepas 2 elektron terluar sehingga menjadi ion A\u00b2\u207a\u00a0<br>\u00a0<br>\u2089B\u00a0= 2 . 7\u00a0\u21d2 menangkap 1 elektron sehingga menjadi ion B\u207b<br><br><strong>Ion A\u00b2\u207a merupakan kation logam, sedangkan ion B\u207b adalah anion non logam, sehingga kedua ion akan berikatan membentuk senyawa yang berikatan ion (atau ionik).<br><br>Sesuai dengan aturan penamaan yakni muatan diletakkan secara bersilangan, maka rumus kimianya adalah AB\u2082</strong><br><br><em>Jawaban: A</em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titrasi-antara-10-ml-hcooh-dengan-koh-01-m-diperoleh-volume-ko-915",
+            "question": "Titrasi\u00a0 antara 10 mL HCOOH dengan KOH 0,1 M diperoleh volume KOH sebesar 10 mL. Apabila massa jenis HCOOH 1,2 GRAM/ml (Mr=49), kadar HCOOH sebesar...% ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dengan menggunakan<br>M1 V1 milik HCOOH<br>M2V2 milik KOH<br>M1V1 = M2V2<br>10 x V1 = 0,1 x 10<br>V1 = 0,1 M<br><br>hitung mol dari HCOOH<br>= M x mL = 0,1 x 10 = 1 milimol = 10^-3 mol ................... ^ dibaca pangkat<br>hitung massa HCOOH<br>= mol x Mr = 10^-3 x 49 = 49 x 10^-3 gram<br><br>hitung massa larutan 10 mL yang mengandung HCOOH dicari massanya<br>massa larutan HCOOH = volume x massa jenis = 10 x 1,2 = 12 gram<br><br>maka % massa HCOOH dalam larutan <br>= 49 x 10^-3 / 12 x 100%<br>= 0,408%<br><br><br>semoga bisa membantu :)<br>jika ada kesalahan mohon koreksi :)<br>beri label terbaik ya :D<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-ionisasi-dari-nahco3-caco3-kno3-k2co3na3po4-nh4cl-k2-947",
+            "question": "Reaksi ionisasi dari NaHCO3, CaCO3, KNO3, K2CO3,Na3PO4, NH4Cl, k2CO3, CaF2, CuSO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaHCO\u2083\u00a0\u2192 Na\u207a + HCO\u2083\u207b<br><br>CaCO\u2083\u00a0\u2192 Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br><br>KNO\u2083\u00a0\u2192 K\u207a + NO\u2083\u207b<br><br>K\u2082CO\u2083\u00a0\u2192 2K\u207a + CO\u2083\u00b2\u207b<br><br>Na\u2083PO\u2084\u00a0\u2192 3Na\u207a + PO\u2084\u00b3\u207b<br><br>NH\u2084Cl\u00a0\u2192 NH\u2084\u207a + Cl\u207b<br><br>CaF\u2082\u00a0\u2192 Ca\u00b2\u207a + 2F\u207b<br><br>CuSO\u2084\u00a0<span>\u2192 Cu</span>\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                },
+                {
+                    "answer": "NaHCO\u2083 --&gt; Na\u207a + HCO\u2083\u207b<br>CaCO\u2083 --&gt; Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br>KNO\u2083 --&gt; K\u207a + NO\u2083\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>Na\u2083PO\u2084 --&gt; 3Na\u207a + PO\u2084\u00b3\u207b<br>NH\u2084Cl --&gt; NH\u2084\u207a + Cl\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>CaF\u2082 --&gt; Ca\u00b2\u207a + 2F\u207b<br>CuSO\u2084 --&gt; Cu\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nama-senyawa-cuoh2-464",
+            "question": "Nama senyawa Cu(OH)2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tembaga (II) Hidroksida",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-50-ml-larutan-hcl-02-m-dan-50-ml-larutan-koh-01-m-dicampur-388",
+            "question": "Jika 50 mL larutan HCl 0,2 M dan 50 mL larutan KOH 0,1 M dicampurkan,pH larutan campuran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Apabila 50 mL larutan HCl 0,2 M dicampurkan dengan 50 mL larutan KOH 0,1 M. maka pH larutan campuran tersebut adalah <strong>2 - log 5.</strong></p><p><strong></strong></p><h3><strong>Pembahasan :</strong></h3><p>Diketahui : Volume HCl = 50 mL - 0,05 L</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Volume KOH = 50 mL = 0,05 L</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [HCl] = 0,2 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [KOH] = 0,1 M</p><p>Ditanya : pH campuran ?</p><p>Jawab :</p><p><strong>Tahap 1 :</strong></p><p>Terlebih dahulu hitung mol dari masing masing larutan. caranya yaitu :</p><p>mol HCl = V \u00d7 M = 0,05 L \u00d7 0,2 M = 0,01 mol</p><p>mol KOH = V \u00d7 M = 0,05 L \u00d7 0,2 M = 0,005 mol</p><p><strong>Tahap 2 :</strong></p><p>tentukan mol dari zat yang bereaksi dengan menggunakan cara berikut :</p><p>reaksi \u00a0 \u00a0 \u00a0 \u00a0 : \u00a0 \u00a0 HCl \u00a0 \u00a0 \u00a0+ \u00a0 \u00a0 KOH \u00a0 \u00a0 \u00a0 \u21d2 \u00a0 \u00a0 \u00a0 KCl \u00a0 \u00a0 \u00a0+ \u00a0 \u00a0 H\u2082O</p><p>mula mula \u00a0: 0,01 mol \u00a0 \u00a0 \u00a00,005 mol</p><p><u>bereaksi \u00a0 \u00a0 : 0,005 mol \u00a00,005 mol \u00a0 \u00a0 \u00a00,005 mol \u00a0 0,005 mol</u></p><p>sisa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 0,005 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,005 mol \u00a0 0,005 mol</p><p>Maka diperoleh zat yang bersisa adalah HCl, maka didapat untuk menghitung pH campuran dengan menggunakan rumus pH asam kuat :</p><p><strong>Rumus : [H\u207a] = a \u00d7 M</strong></p><p><strong>Tahap 3 :</strong></p><p>Hitung terlebih dahulu konsentrasi HCl setelah dicampurkan dengan menggunakan rumus : <strong>M = mol/V total</strong></p><p>Keterangan : M = molaritas (M)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mol = mol zat</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V total = volume total larutan</p><p>sehingga :</p><p>[HCl] = [tex]\\frac{mol}{V~total}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = [tex]\\frac{0,005~mol}{0,1~L}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = 0,05 M</p><p><strong>Tahap 4 :</strong></p><p>Selanjutnya hitung pH campuran dengan cara berikut :</p><p>[H\u207a] = a \u00d7 M</p><p> \u00a0 \u00a0 \u00a0 = 1 \u00d7 0,05 M</p><p> \u00a0 \u00a0 \u00a0 = 5 \u00d7 10\u207b\u00b2 M</p><p>pH = - log [H\u207a]</p><p> \u00a0 \u00a0 \u00a0= - log 5 \u00d7 10\u207b\u00b2</p><p> \u00a0 \u00a0 \u00a0= 2 - log 5</p><p><strong>\u21d2Kesimpulan pH larutan campuran adalah 2 - log 5.</strong></p><p><strong></strong></p><h3>Pelajari lebih lanjut : \u00a0</h3><p>Materi tentang perhitungan pH asam dan basa https://brainly.co.id/tugas/22617440\n</p><p>Materi tentang perhitungan pH asam dan basa https://brainly.co.id/tugas/10617261\n</p><p>Materi tentang perhitungan pH asam dan basa https://brainly.co.id/tugas/22503206\n</p><p>----------------------------------------------------------------------------------------</p><h3>Detail jawaban : \u00a0</h3><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : Asam basa</p><p>Kode : 11.7.5 \u00a0</p><p>Kata Kunci : pH asam basa</p>",
+                    "attachments": [
+                        "answer-attachments/jika-50-ml-larutan-hcl-02-m-dan-50-ml-larutan-koh-01-m-dicampur-388-1.jpg",
+                        "answer-attachments/jika-50-ml-larutan-hcl-02-m-dan-50-ml-larutan-koh-01-m-dicampur-388-2.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

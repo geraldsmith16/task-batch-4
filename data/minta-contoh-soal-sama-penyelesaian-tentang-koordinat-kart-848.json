@@ -1,0 +1,130 @@
+{
+    "question": "minta\u00a0contoh\u00a0soal\u00a0sama\u00a0penyelesaian\u00a0tentang\u00a0koordinat\u00a0kartesius\u00a0ke\u00a0kutub\u00a0&amp;\u00a0kutub\u00a0ke\u00a0koordinat\u00a0kartesius",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1) untuk koordinat kutub ke koordinat kartesius<br>Jika diketahui koordinat kutub (6\u221a3, 60\u00b0), maka koordinat kartesiusnya adalah.....<br>a. (3,3)<br>b. (3\u221a3, 9)<br>c. (3,\u00a0\u221a3)<br>d. (9, 3\u221a3)<br>e. (3, 3\u221a3)<br><br>Penyelesaian :<br><br>koordinat kutub\u00a0\u21d2 koordinat kartesius<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0(r ,\u00a0\u03b1)\u00a0\u21d2 ( x , y )<br><br>r\u00a0= 6\u221a3\u00a0; \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03b1 = 60\u00b0\u00a0<br>(Karena\u00a0\u03b1 sudut di kuadran I, maka x positif f dan y positif)<br><br>x = r cos\u00a0\u03b1<br>\u21d2 6\u221a3 x cos\u00a060\u00b0<br>\u21d2\u00a06\u221a3 x 1/2<br>\u21d2 3\u221a3<br><br>y = r sin\u00a0\u03b1<br>\u21d2\u00a06\u221a3 x sin 60\u00b0<br>\u21d2\u00a06\u221a3 x 1/2\u00a0\u221a3<br>\u21d2\u00a03\u00a0x 3<br>\u21d2 9<br><br>sehingga koordinat kartesiusnya ialah ( 3\u221a3\u00a0, 9) \u00a0(d)<br><br>2)\u00a0untuk koordinat kartesius ke koordinat\u00a0kutub<br>koordinat kutub titik (-4,4) ialah ...........<br>penyelesaian :<br>(x,y)\u21d2 (r,\u00a0\u03b1)<br><br>x = -4, y=4<br>(karena x negatif dan y positif, maka\u00a0\u03b1 sudut di kuadran II)<br>r =\u00a0[tex] \\sqrt{ x^{2} + y^{2} } [/tex]<br>\u21d2[tex] \\sqrt{ -4^{2} + 4^{2} } [/tex]<br>\u21d2[tex] \\sqrt{32} [/tex]<br>\u21d2[tex]4 \\sqrt{2} [/tex]<br><br>tan\u00a0\u03b1 = x/y<br>\u21d24/\u00a0-\u00a04<br>\u21d2 - 1<br><br>karena\u00a0\u03b1 sudut di kuadran II, maka :\u00a0\u03b1 = (180-45)\u00b0= 135\u00b0<br>maka koordinat kutubnya ialah ( 4\u221a2, 135\u00b0)<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "(3, 210 derajat) tentukan koordinat cartesiusnya\u00a0<br><span>b koordinat cartesius titik Q adalah (-2 akar 3, 2) tentukan koordinat kutubnya<br><br></span>a) \u03f4=120\u2070, r=3\u00a0<br><span>titik x = r cos \u03f4=&gt;\u00a0</span><br><span>= 3 cos 120 = 3 (-cos (180-60)) note: nilai cos pada kuadran II itu (-)\u00a0</span><br><span>= 3 (-cos 60)\u00a0</span><br><span>= 3 (-1/2)\u00a0</span><br><span>= -3/2\u00a0</span><br><span>titik y = r sin \u03f4=&gt;\u00a0</span><br><span>= 3 sin 120 = 3 sin (180-60) note: nilai sin pada kuadran II (+)\u00a0</span><br><span>= 3 sin 60\u00a0</span><br><span>= 3 1/2 akar 3\u00a0</span><br><span>= 3/2 akar 3\u00a0</span><br><span>jadi koordinat cartesiusnya (-3/2, 3/2 akar 3)\u00a0</span><br><br><span>b) x = -2 akar 3, y = 2\u00a0</span><br><span>r = akar (x^2 + y^2) =&gt;\u00a0</span><br><span>= akar ((-2 akar 3)^2 + 2^2)\u00a0</span><br><span>= akar (12 + 4)\u00a0</span><br><span>= akar 16 = 4\u00a0</span><br><span>\u03f4 = arc tan y/x =&gt;\u00a0</span><br><span>= arc tan 2/-2 akar 3\u00a0</span><br><span>= arc tan - 1/akar 3 = arc tan -1/3 akar 3 note: arc tan 1/akar 3 = 45\u2070, nilai tan (-) pada kuadran II dan IV\u00a0</span><br><span>= arc tan -1/akar 3 = 135\u2070 (kuadran II) note: menentukannya dengan uji titik x dan y\u00a0</span><br><span>koordinat kutubnya = (4, 135\u2070)</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "di-antara-bilangan-14-dan-224-disisipkan-3-bilangan-sehingga-terb-514",
+            "question": "Di antara bilangan 14 dan 224 disisipkan 3 bilangan sehingga terbentuk barisan geometri. Tentukanlah rasio dan jumlah deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  r_{baru} = \\sqrt[3+1]{224/14}  =  \\sqrt[4]{16} = 2[/tex]<br><br>[tex] S_{5} =  \\frac{14( 2^{5} - 1)}{2-1} = 448[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-pembagian-sukubanyak-81xpngkt39xpngkt2-9-860",
+            "question": "tolong beri jawabannya, pembagian sukubanyak 81xpngkt3+9xpngkt2-9x+4 dgn (3x-a) menghasilkan sisa 3a\u00a0pngt3+2.hitung nilai nilai a yang mungkin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4 dengan (3x\u00a0-\u00a0a) sisa 3a^3 + 2<br>(3x\u00a0-\u00a0a) -&gt;\u00a0x\u00a0=\u00a0a/3<br>f(a/3) =\u00a03a^3 + 2<br>3a^3 + 2\u00a0=\u00a081(a/3)^3 + 9(a/3)^2 - 9(a/3) + 4<br>3a^3 + 2\u00a0= 81(a^3 / 27) + 9(a^2 / 9) - 3a + 4<br>3a^3 + 2\u00a0= 3a^3 + a^2 - 3a + 4<br>a^2 - 3a + 2 = 0<br>(a - 2) (a - 1) = 0<br>a = 2 atau a = 1<br><br>untuk\u00a0a = 2<br><span>(3x-a)\u00a0=\u00a0(3x-2) -&gt; x = 2/3<br><br></span>sisanya dari soal\u00a03a^3 + 2 -&gt; 3(2)^3 + 2 = 24 + 2 = 26<br><br>f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4<br>f(2/3) = 81(2/3)^3 + 9(2/3)^2 - 9(2/3) + 4<br>f(2/3) = 81(8/27) + 9(4/9) - 6 + 4<br>f(2/3) = 24 + 4 - 2<br>f(2/3) = 26<br><br><span>jadi, nilai a yang mungkin adalah a =\u00a02/3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-20-suku-pertama-pada-deret-aritmatika-berikut-ini-460",
+            "question": "Tentukan jumlah 20 suku pertama pada deret aritmatika berikut ini.\r\na. 1+4+7+...\r\nb.40+37+34+...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a =1 b = 4-1=3<br>Sn = 20/2 (2(1)+(20-1)3)<br>\u00a0 \u00a0 \u00a0= 10 (2 + 57)<br>\u00a0 \u00a0 \u00a0= 590<br><br>2. a = 40 \u00a0b = 37-40 = -3<br>Sn = 20/2 (2(40) + (20-1) -3)<br>\u00a0 \u00a0 \u00a0= 10 (80 + (- 57))<br>\u00a0 \u00a0 \u00a0= \u00a0230",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7log-2a-dan-2log-3b-maka-6-log-14-258",
+            "question": "Jika 7log 2=a dan\u00a0\u00b2log 3=b maka 6 log 14=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>log 14</u> =\u00a0<u>log 2. 7</u><br>log 6 \u00a0 \u00a0 \u00a0log 2.3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>log 2 + log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 2 + log 3\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>2log 2 + 2 log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2log 2 + 2 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>1+a<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01 +b<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suatu-deret-aritmetika-ialah-sn-85n-5-595",
+            "question": "Jumlah n suku pertama suatu deret aritmetika ialah Sn = 85n\u00a0-\u00a05n\u00b2 . Tentukan suku pertama dan bedanya? Help ya kak, aku belum mengerti karna hanya diketahui Sn Y_Y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = S1<br>a = 85(1) - 5([tex] 1^{2} [/tex])<br>a = 80<br><br>Sn =\u00a085n - 5[tex] n^{2} [/tex]<br>Sn-1 = 85(n-1) - 5[tex] (n-1)^{2} [/tex]<br>Un = Sn - Sn-1<br>Un = 90 - 10n<br>Un = a + (n-1)b<br>U2 = a + b<br>90 - 10(2) = 80 + b<br>70 = 80 + b<br>b = -10<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-xyz-dengan-siku-siku-d-y-cos-z-20-per-24-tentuka-889",
+            "question": "Pada segitiga XYZ dengan siku siku d Y, cos Z =20 per 24, tentukan nilai tan X dan tan Z",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos Z = 20/24 jadi panjang ZY=20 dan ZX=24<br>cari panjang XY<br>[tex]XY =  \\sqrt{ ZX^{2} - ZY^{2} } =  \\sqrt{ 24^{2} - 20^{2} } =  \\sqrt{176} [/tex]<br><br>jadi,<br><br>[tex]tan Z =  \\frac{ \\sqrt{176} }{20}  \\\\  \\\\ tan X =  \\frac{20}{ \\sqrt{176} } = \\frac{20\\sqrt{176}}{176 }[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Jumlah n suku pertama suatu deret aritmetika ialah Sn = 85n\u00a0-\u00a05n\u00b2 . Tentukan suku pertama dan bedanya? Help ya kak, aku belum mengerti karna hanya diketahui Sn Y_Y",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a = S1<br>a = 85(1) - 5([tex] 1^{2} [/tex])<br>a = 80<br><br>Sn =\u00a085n - 5[tex] n^{2} [/tex]<br>Sn-1 = 85(n-1) - 5[tex] (n-1)^{2} [/tex]<br>Un = Sn - Sn-1<br>Un = 90 - 10n<br>Un = a + (n-1)b<br>U2 = a + b<br>90 - 10(2) = 80 + b<br>70 = 80 + b<br>b = -10<br><br>CMIIW :3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bu-salmah-menabung-uang-rp-2000000-di-koperasi-sentosa-selama-1-236",
+            "question": "Bu Salmah menabung uang RP 2.000.000 di koperasi SENTOSA selama 10 bulan. Jika bunga koperasi itu sebesar 12% per tahun, jumlah tabungan Bu Salmah adalah...    *tolong kasih tau caranya juga yaa, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga = 12% : 12 (12 bln) = 1 %. 10 bln = 10%, 10 % \u00d7 2000.000 = 200.000,,,, tabungan = 2200.000... maaf kalau salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-sebuah-lingkaran-adalah-200-cm2tentukan-besarnya-578",
+            "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2.tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut kerjakan dengan caranya.    a.10 cm\u00b2\r\nb.20 cm\u00b2\r\nc.40 cm\u00b2\r\nd.50 cm\u00b2\r\ne.100 cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring= luas derajat/360 kali luas lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selesaikan-x2-5x-6-0-prsamaan-kuadrat-berikut-dengan-cara-f-742",
+            "question": "Selesaikan x^2 - 5x +6 = 0 prsamaan kuadrat berikut dengan cara faktorisasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 - 5x + 6 = 0<br>faktornya adalah : <br>(x - 2)(x - 3) = 0 <br>x - 2 = 0 atau x - 3 = 0<br>x = 2 atau x = 3 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya adalah\u00a0(x-2)(x-3)=0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-interval-0-derajat-kurang-lebih-sama-dengan-x-kurang-lebih-s-956",
+            "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-dibagi-dengan-x-2-sisanya-24-sedangkan-jika-fx-777",
+            "question": "Jika f(x) dibagi dengan (x \u2013 2) sisanya 24, sedangkan jika f(x) dibagi dengan (2x \u2013 3) sisanya 20. Jika f(x) dibagi dengan (x \u2013 2) (2x \u2013 3), sisanya adalah ...    .A. 8x + 8\u00a0\r\nB. 8x \u2212 8\u00a0\r\nC. \u2212 8x + 8\u00a0\r\nD. \u2212 8x \u2212 8\u00a0\r\nE. \u2212 8x + 6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakek cara horner niy ,,, kalau buat disini agak sulit<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(2)= 24<br>f(3/2)=20<br>2a + b=24<br>3/2a + b = 20 X 2\u00a0 {3a + 2b= 40}<br>baru di elimenasi dapat a=8 dan b=8<br>ax +b = 8x + 8 {a}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-ditentukan-oleh-fx-4x-32x1-x-12-jika-inver-811",
+            "question": "fungsi f ditentukan oleh f(x) = 4x-3/2x+1, x \u2260 -1/2. jika invers dari f(x) dituliskan f pngkt min 1(x), maka f pngkat min 1 (x+1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x) =  \\frac{4x - 3}{2x + 1} [/tex]<br>[tex]f^{-1}(x) = \\frac{-x - 3}{2x - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{-(x +1) - 3}{2(x +1) - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{- x -4}{2x - 2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-teorema-faktor-dari-2x-3-adalah-faktor-dari-2x3-748",
+            "question": "\u00a0Tunjukkan\u00a0Teorema faktor dari (2x-3) adalah faktor dari 2x\u00b3 + 5x\u00b2 -\u00a06x -9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor faktornya 2x^3+5x^2-6x+9=0<br>=\u00a0(x+1)(x+3)(2x-3)=0<br><br>jadi 2x-3 benar faktor dari\u00a02x^3+5x^2-6x+9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x2-4x30-dan-x24x-210-mempunyai-sebuah-akar-perseku-949",
+            "question": "persamaan x2-4x+3=0 dan x2+4x-21=0, mempunyai sebuah akar persekutuan. akar persekutuan tersebut adalah? (bantu pake caranya ya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0x^2-4x+3=0 akarnya (x\u00a0-\u00a01)\u00a0(x\u00a0-\u00a03)<br>2.\u00a0</span><span>x^2+4x-21=0 akarnya (x\u00a0-\u00a03)\u00a0(x\u00a0+\u00a07)<br><br><br>akar yang sama (x-3) jadi nilai x = 3</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x^2 - 4x + 3 = 0<br>(x - 3)(x - 1) = 0<br>x1=3 \u00a0x2=1<br>jadi, akar-akarnya x=3 atau x=1<br><br>x^2 + 4x - 21 = 0<br>(x + 7)(x - 3) = 0<br>x1=-7 \u00a0x2=3<br>jadi akar-akarnya x=-7 atau x=3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

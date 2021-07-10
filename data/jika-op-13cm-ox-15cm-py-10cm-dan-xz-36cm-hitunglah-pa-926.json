@@ -1,0 +1,148 @@
+{
+    "question": "Jika OP = 13cm, OX = 15cm, PY = 10cm, dan XZ = 36cm. hitunglah panjang XY, panjang OZ, dan perbandingan luas segitiga OXZ dan segitiga PYZ    agar lebih jelas lihat gambar",
+    "attachments": [
+        "question-attachments/jika-op-13cm-ox-15cm-py-10cm-dan-xz-36cm-hitunglah-pa-926-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "a).\u00a0OP=XY<br>\u00a0 \u00a0 \u00a013= 13<br>\u00a0karena, OP dan XY bersebrangan otomatis sama<br><br>b). YZ\u00a0<u></u>- XY= 36-13= 23<br>\u00a0 \u00a0 DIK : YP = 10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 YZ = 23<br>\u00a0 \u00a0 DIT PZ = ?<br><br>\u00a0 \u00a0PZ =\u221a YZ\u00b2 - YP\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a 23\u00b2 - 10\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a 529 - 100<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a429<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a 20,72<br>panjng OZ = OP + PZ<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 + 20,72<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33,72<br>\u00a0 \u00a0 \u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "modus-data-875695765785-adalah-342",
+            "question": "Modus data 8,7,5,6,9,5,7,6,5,7,8,5 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "modus = nilai yg sering muncul<br>modusnya 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 = ada 4<br>6 = ada 2<br>7 = ada 3<br>8 = ada 2<br>9 = ada 1<br>Jadi modusnya angka 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oa-10-cm-dan-jarak-ob-26-cm-luas-segitiga-oab-ada-913",
+            "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-sepeda-dengan-harga-rp-210000-dari-444",
+            "question": "Seorang pedagang menjual sepeda dengan harga Rp. 210.000,-. Dari penjualan itu, memperoleh untung 20%. Berapa harga pembelian sepeda itu? Cara dan penjelasan.. Tolong, trimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20/100 x 210.000 = 42.000 \u00a0 \u00a0\u00a0 <br>210.000 - 42.000 = 168.000<br>harga pembelian sepeda tsb adalah 168.000<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau Caranya mungkin sulit untuk saya jelaskan<br>intinya<br>HJ = HB + u/R<br>HB = HJ- u/R<br>= 100 % / 120 % x 210.000<br>=175.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-dibuat-dengan-skala-1-1500000jika-jarak-dua-kota-541",
+            "question": "sebuah peta dibuat dengan skala 1 : 1.500.000.jika jarak dua kota pada peta adalah 7,5 cm,maka jarak sebenarnya dua kota tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau nggak salah caranya seperti ini\n1.500.000 x 7,5  =  11.250.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jarak sebenarnya=jarak pada peta x skala pada peta (skala kedua/yang belakang)<br>=7,5 X1500000<br>=11.250.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-kg-jeruk-rp-4000-lebih-mahal-dari-dua-kali-harga-1kg-sala-985",
+            "question": "harga 1 kg jeruk rp 4000 lebih mahal dari dua kali harga 1kg salak.harga 1kg jeruk rp 18000 .harga 1 kg salak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jeruk 18000-4000= 14000 \ndibagi 2 jadi 7000,  jadi 1kg salak itu 7000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-suku-berurutan-pada-sebuah-barisan-geometri-berturut-turut-390",
+            "question": "Dua suku berurutan pada sebuah barisan geometri berturut-turut \u00bc dan \u00bd. Jika suku kedelapan barisan tersebut 2, jumlah delapan suku pertama barisan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku berurutan 1/4dan 1/2, maka rasionya 1/2:1/4 = 2<br><br>jika r =2 maka<br>U8\u00a0= 2<br>ar\u2077 = 2<br>a.2\u2077= 2<br>a = 2/2\u2077<br>a = 1/2\u2076<br>a= 1/64<br><br>maka,\u00a0<br>Sn = a(r\u2078\u00a0- 1) / r - 1<br>S\u2088 = 1/64(2\u2078-1) / (2 - 1)<br>S\u2088 = 1/64 (256 - 1) / 1<br>S\u2078 = 255/ 64<br><br>semoga membantu<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] S_{8} [/tex]=n/2(a+[tex] U_{8} [/tex]<span>)</span><br>[tex] S_{8} [/tex]=8/2(1/4+2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =4(9/4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =9<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-kotak-coklat-dibagikan-kepada-24-anak-setiap-anak-mendapat-8-541",
+            "question": "Satu kotak coklat dibagikan kepada 24 anak setiap anak mendapat 8 coklat . jika coklat itu di bagikan kepada 16 anak banyak coklat yg diperoleh setiap anak adalah ,....    tolong pakai cara yaa..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "24 x 8 = 16/x<br><span>x = 24 x 8 : 16 = 12 anak<br></span><br>maaf kalo salah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-sebuah-jembatan-direncanakan-selesai-dalam-waktu-132-245",
+            "question": "pembangunan sebuah jembatan direncanakan selesai dalam waktu 132 hari oleh 72 pekerja. sebelum pekerjaan dimulai ditambah 24 orang pekerja. berapa waktu untuk menyelesaikan pembangunan jembatan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi Perbandingan<br>Kelas VII<br>UN MATEMATIKA SMP 2011<br><br>Waktu (hari)\u00a0\u21d2 Pekerja (orang)<br>132 \u21d2 72<br>x \u21d2 96<br>(Perbandingan berbalik nilai)<br><br>132 x 72 = 96x<br>96x = 9.504<br>x = 99 Hari<br><br>Jadi, waktu untuk menyelsaikan pembangunan jembatan tersebut menjadi<strong>\u00a099 hari</strong><br><br>Mohon maaf apabila ada kesalahan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sudut-aob-120-derajat-sudut-boc-150-derajat-dan-luas-956",
+            "question": "Diketahui sudut AOB 120 derajat , sudut BOC 150 derajat dan luas juring AOB 84 cm persegi .Luas Juring BOC = ... cm persegi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "150/120=BOS/84<br>BOC \u00a0= 150x84/120<br>BOC \u00a0= 105<br><br><br>Insyaallah betul",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{LJ AOB}{SP AOB} X  \\frac{LJ BOC}{SP BOC} [/tex]<br>=[tex] \\frac{84}{120}  X  \\frac{x}{150} [/tex]<br>= 12600\u00a0= 120 x<br>= x = 105 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

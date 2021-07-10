@@ -1,0 +1,146 @@
+{
+    "question": "suku ke-n barisan aritmatika dinyatakan dengan rumus Un = 5n-3. Jumlah 12 suku pertama dari deret yang bersesuaian dengam barisan itu adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Un = 5n-3\u00a0<br>U1 = 5 - 3 = 2 ---&gt; a<br>U2 = 10-3 = 7<br>Beda = U2-U1 = 7-2 = 5<br><br>Sn = n/2 ( 2a + (n-1)b )<br>S12 = 12/2 (2.2 + 11.5)<br>\u00a0 \u00a0 \u00a0 \u00a0= 6 ( 4 + 55 )<br>\u00a0 \u00a0 \u00a0 \u00a0= 354",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668",
+            "question": "Pada gambar dibawah, jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah........",
+            "attachments": [
+                "question-attachments/pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah 65\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah<span><span></span></span> 65 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-seluruh-permukaan-batu-pejal-yg-berbentuk-belahan-bola-108p-286",
+            "question": "luas seluruh permukaan batu pejal yg berbentuk belahan bola 108\u03c0 cm\u00b2. volume batu tersebut adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lp : 3[tex] \\pi [/tex] x r\u00b2<br>108 [tex] \\pi [/tex] = 3 x [tex] \\pi [/tex] x r\u00b2<br>r\u00b2 = 108 : 3 = 36<br>r = 6 cm<br><br>V = 4/3 x [tex] \\pi [/tex] x r\u00b3<br>4/3 x 3,14 x 6\u00b3<br>4/3 x 3,14 x 216<br>4/3 x 226,08<br>904,32<br><br>Semoga membantu ya!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-bentuk-paling-sederhana-7-4-12-7-4-12-204",
+            "question": "Carilah bentuk paling sederhana. (\u221a7 + 4\u00a0\u221a12) (\u221a7-4\u00a0\u221a12\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tujuh kurang enam puluh empat akar tiga",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-uang-danika-jumlah-uang-mereka-dan-dina-74-jika-s-669",
+            "question": "perbandingan uang danika\u00a0 jumlah uang mereka dan dina 7:4 jika selisih uang mereka 45000 jumlah uang mereka adalah ? pake cara ..please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VII (1 SMP)<br>Materi : Perbandingan<br>Kata Kunci : perbandingan, selisih, jumlah<br><br>Pembahasan :<br>Diketahui perbandingan\u00a0uang Danika dan Dina adalah 7 : 4.<br>Jika selisih\u00a0uang mereka\u00a0Rp45.000,00, maka perbandingan yang digunakan senilai.<br>Misalkan Danika = p<br>Dina = q<br>Sehingga perbandingannya<br>p : q = 7 : 4<br>\u21d4 p/q = 7/4<br>\u21d4 7q = 4p<br>\u21d4 q = 4/7 p<br>Kemudian,<br>p - q = 45.000<br>\u21d4 p = 45.000 + q<br>\u21d4 p = 45.000 + 4/7 p<br>\u21d4 p - 4/7 p = 45.000<br>\u21d4 7/7 p - 4/7 p = 45.000<br>\u21d4 3/7 p = 45.000<br>\u21d4 p = 45.000 x 7/3<br>\u21d4 p = 315.000/3<br>\u21d4 p = 105.000<br>Nilai p kita substitusikan ke persamaan<br>p - q = 45.000<br>\u21d4 q = p - 45.000<br>\u21d4 q = 105.000 - 45.000<br>\u21d4 q = 60000<br>p + q = 105.000 + 60.000 = 165.000<br>Jadi, jumlah uang mereka adalah Rp165.000,00<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-indra-membeli-2-jenis-kopiia-membeli-10-kg-jenis-kopi-a-dngn-914",
+            "question": "Pak indra membeli 2 jenis kopi.Ia membeli 10 kg jenis kopi A dngn seharga Rp.10000 per kg dan 15 kg jenis kopi B dngn harga Rp.12000 per kg.Pak Indra mencampur kedua kopi trsbt dan akan dijual lagi.Jika Pak Indra menginginkah keuntungan 25%,Tentukan harga jual kopi campuran per kg.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10* 10.000 = 100.000<br>15*12.000 = 180.000<br>100.000 + 180.000 = 280.000<br>280.000*25% = 70.000<br>280.000+70.000 = 350.000<br>350.000 : 25 = 14.000 / kg<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "hasil gabungan kopi A dan kopi B = 100.000 + 180.000 = 280.000<br>HJ = HB + (persen untung x harga beli)<br>\u00a0 \u00a0 \u00a0 \u00a0 280.000 + (25 persen x 280.000)<br>\u00a0 \u00a0 \u00a0 \u00a0 280.000 + 70.000<br>\u00a0 \u00a0 \u00a0 \u00a0 350.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gir-besar-berjari-jari-16cm-dan-gir-kecil-10cm-jika-jarak-pusat-448",
+            "question": "gir besar berjari jari 16cm dan gir kecil 10cm, jika jarak pusat dua gir 60cm, panjang rantai yang tidak melilit gir adalah?",
+            "attachments": [
+                "question-attachments/gir-besar-berjari-jari-16cm-dan-gir-kecil-10cm-jika-jarak-pusat-448-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex] \\sqrt{p ^{2} } - (R-r) ^{2} [/tex]<br>[tex] \\sqrt{60^{2} -(16-10)^{2} [/tex]<br>[tex]\\sqrt{3600}-(6^{2})[/tex])<br>[tex] \\sqrt{3600-36[/tex]<br>[tex] \\sqrt3564 [/tex]<br>18[tex] \\sqrt{11[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-115",
+            "question": "1/2x + 5 &gt; 15 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x+5&gt; 15<br>dikali 2<br>2/2x+5&gt;15<br>x+5&gt;15<br>x&gt;15-5<br>x&gt;10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x + &gt; 15<br>1/2x\u00a0 \u00a0 &gt; 15 - 5<br>1/2x\u00a0 \u00a0  &gt; 10<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 10 - 0,5<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 9,5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573",
+            "question": "Hitunglah Keliling dan luas bangun yang diarsir pada gambar itu ?",
+            "attachments": [
+                "question-attachments/hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "pake rumus juring aja lebih gampang<br><br>45 per 360 * luas lingkarannya<br><br>luasnya tadi udah dicari, hasilnya 379,94<br><br>45 per 360 * 379,94 = 47,49 (ini luas yang engga diarsir + yang di arsir)<br><br>sekarang kita cari luas yang ga di arsir dulu.<br>45 per 360 * 113,04 = 14,13<br><br>kurangin.. 47,49 - 14,13 = 33,36 (luas yang di arsir)<br>__________________________________________________<br>keliling = phi*2r<br>tapi berhubung itu bukan lingkaran utuh, maka harus dicari panjang busur dulu<br><br>45 per 360 * keliling<br>= 45 per 360 * 69,08<br>= 8,6<br><br>tinggal di jumlah... 5 + 5 + 8,6 = 18,6 (keliling yang di arsir)<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-antara-kota-padang-dan-jambi-372-km-jika-ingin-menggambar-915",
+            "question": "Jarak antara kota Padang dan Jambi 372 km. Jika ingin menggambar dengan panjang 1,5 cm pada buku gambar, skala yang harus digunakan adalah.............    tolong sama caranya yh...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas: 7</strong><br><strong>Mapel: Matematika</strong><br><strong>Kategori: Perbandingan dan Aritmatika Sosial</strong><br><strong>Kata kunci: perbandingan, skala</strong><br><strong>Kode: 7.2.5 (Kelas 7 Matematika Bab 5-Perbandingan dan Aritmatika Sosial)</strong><br><br><span>Jarak antara kota Padang dan Jambi 372 km. Jika ingin menggambar dengan panjang 1,5 cm pada buku gambar, skala yang harus digunakan adalah...<br><br>Pembahasan:<br><br>Skala adalah perbandingan antara jarak pada peta dengan jarak sebenarnya (satuan harus sama).<br>catatan :\u00a0<br>1 km = 100.000 cm<br><br>Skala = jarak pada peta : jarak sebenarnya\u00a0<br>Skala = 1,5 cm : 372 km<br>Skala = 1,5 cm : (372\u00a0</span>\u00d7 1<span>00.000) cm<br>Skala = 1,5 cm : 37.200.000 cm<br>Skala = 1 : 24.800.000<br><br><strong>Jadi, skala yang digunakan adalah\u00a0</strong></span><strong>\u00a01 : 24.800.000</strong><br><br>Semangat belajar!<br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/jarak-antara-kota-padang-dan-jambi-372-km-jika-ingin-menggambar-915-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-lingkaran-yang-berdiameter-50-cm-terdapat-sebuah-tali-374",
+            "question": "Pada sebuah lingkaran yang berdiameter 50 cm terdapat sebuah tali busur sepanjang 48 cm. Panjang apotema pada tali busur tersebut adalah...??\u00a0    tx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Buat sketsa\u00a0<br><span>Tali busur akan terbagi dua oleh jari-jari\u00a0</span><br><span>sehingga :\u00a0</span><br><span>Misal : Apotema = a\u00a0</span><br><span>a^2 = 25^2 - 24^2\u00a0</span><br><span>......= 625 - 576\u00a0</span><br><span>a^2 = 49</span><br><span>a = \u221a49\u00a0</span><br><span>a = 7 cm\u00a0</span><br><br><br><span>Jadi panjang apotema 7 cm\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menggunakan rumus segitiga siku2 dengan\u00a0 a = sisi alas , b = sisi datar dan c = hipotenusa <br><br>diketahui diameter 50 cm = 50 : 2 = 25 <br>panjang tali busur 48 : 2 = 24<br>berarti kita mencari apotema atau sisi datarnya yaitu b<br>b = \u221a25pangkat2 di kurang \u221a24pangkat2<br>b= \u221a625-\u221a576<br>b=\u221a49<br>b= 7 cm<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

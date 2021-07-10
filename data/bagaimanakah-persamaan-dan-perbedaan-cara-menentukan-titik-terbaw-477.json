@@ -1,0 +1,142 @@
+{
+    "question": "Bagaimanakah persamaan dan perbedaan cara menentukan titik terbawah dan titik teratas pada skala celcius dengan skala fahrenheit?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "titik tetap bawah pada angka 32\u00b0F\n yaitu suhu pada saat air murni membeku atau titik lebur es untuk \ntekanan 1 atmosfer, sedangkan titik tetap atasnya adalah pada saat air \nmendidih yaitu angka 212\u00b0F.",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-bergetar-sebanyak-100-kali-dalam-10-sekon-hitunglah-521",
+            "question": "sebuah benda bergetar sebanyak 100 kali dalam 10 sekon hitunglah: frekuensi getaran dan periode getarannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "frekuensi 100/10 = 10Hz\nperiode = 1/10 = 0.1 s",
+                    "attachments": []
+                },
+                {
+                    "answer": "frekuensi adalah jumalh getaan dalam satu satuan waktu jadi 100/10=10 Hz\nperiode adalah waktu yang dibutuhkan untuk melakukan satu getaran 10/100=0,1 sekon",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-transformator-step-up-mengubah-tegangan-50volt-menjadi-220-935",
+            "question": "Sebuah transformator step up mengubah tegangan 50volt menjadi 220volt. Kumparan sekunder dihubungkan dengan sebuah lampu 220volt/50watt. Berapa kuat arus yang mengalir pada kumparan primer?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Diketahui:</strong><br>Vp=50 volt<br>Vs=220 volt (karena step up ya)<br>kumparan sekunder 220 volt/50 watt=&gt;Ps=50 watt<br><strong>Ditanyakan:</strong> Ip ?<br><strong>Dijawab:<br></strong><u><strong>Gunakan rumus efisiensi:</strong></u><br>\u03b7 = <u>Ps</u>\u00a0x 100%<br>\u00a0 \u00a0 \u00a0 Pp<br>80% = <u>\u00a050 \u00a0 \u00a0 </u>\u00a0\u00a0\u00a0x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 220. Ip<br>0,8 =<u> \u00a0\u00a05 \u00a0 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a022.Ip<br>17,6.Ip = 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ip =<u> \u00a0\u00a05 \u00a0\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a017,6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ip = 0,284 A<br><br>Jelas ya.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-pada-trafo-tidak-terdapat-keuntungan-energi-729",
+            "question": "Mengapa pada trafo tidak terdapat keuntungan energi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena trafo berfungsi untuk membagi dan memperkecil energi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-suatu-daerah-adalah-400-m-dari-permukaan-laut-tekanan-a-360",
+            "question": "tinggi suatu daerah adalah 400 m\u00a0 dari permukaan laut .tekanan atmosfir di tempat tersebut adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui: Ketinggian tempat = 400 m<br>Ditanya: Tekanan udara (atmosfir) =...???<br>Jawab: a) Penurunan udara =\u00a0[tex] \\frac{ketinggian tempat}{10 m} . 1 mmHg[/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{400}{10} . 1 mmHg[/tex] = 40 mmHg = 4 cmHg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b) Jadi, tekanan udara di tempat tersebut adalah:<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Tekanan udara = tekanan udara di permukaan laut - penurunan udara di tmpt tsb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 76 cmHg - 4 cmHg = 72 cmHg<br><br><br>semoga bisa membantu ^_^,,,<br>maaf jika terdapat kesalahan dalam penghitungannya ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban saya di atas, silahkan ditanyakan ^_^,,,\u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "h=(Pu-Pt)kali 100<br>400=(76-Pt)100<br>Pt=76-400/100<br>\u00a0\u00a0 \u00a0 =76-4=72<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dengan-cara-yg-sama-rumuskan-konversi-skala-suhu-yang-lain-misal-164",
+            "question": "dengan cara yg sama ,rumuskan konversi skala suhu yang lain misalnya dari celcius ke reamur ,dari farenhit ke kelvin.maksudnya apa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Celcius ke Fahrenheit   =  (9/5 x celcius) + 32\n   \n  Celcius ke Reamur       =  4/5 x celcius\n   \n  Fahrenheit ke Celsius   =  5/9 x (fahrenheit - 32)\n   \n  Fahrenheit ke Reamur    =  4/9 x (fahrenheit - 32)\n   \n  Reamur ke Fahrenheit    =  (9/4 x reamur) + 32\n   \n  Reamur ke Celsius       =  5/4 x reamur</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "contoh:\n  derajat C ke derajat F:\n  yang mau di cari perbandingan nasional nya taruh di atas.\n    9/5xderajat C( yang di ketahui) + 32(dari 0 agar bsa ke 32 harus di tambah).\n   maaf klo jawabannya kurang jelas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-tiga-alat-yang-bekerja-berdasarkan-bimetal-982",
+            "question": "Sebutkan tiga alat yang bekerja berdasarkan bimetal",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pemanggang roti,oven,sakelar otomtis pada serika,(bonus)alat pemberitahu kebakaran<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Oven, pemanggang roti, saklar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bunyi-yang-frekuensinya-kurang-dari-20hz-adalah-bunyi-yang-fre-639",
+            "question": "bunyi yang frekuensinya kurang dari 20hz adalah... bunyi yang frekuensinya lebih dari 20khz adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kurang = infrasonik<br>lebih = ultrasonik",
+                    "attachments": []
+                },
+                {
+                    "answer": "suara dibawah\u00a020 Hz disebut <strong><u>Infrasonik</u></strong><br>suara diatas 20 kHz disebut <strong><u>Ultrasonik</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-antara-energi-keluaran-output-yang-bermanfaat-deng-612",
+            "question": "Perbandingan antara energi keluaran (output) yang bermanfaat dengan energi masukan (input) disebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Semua pesawat sederhana (tuas, katrol, bidang miring, dan gear) berfungsi untuk mengubah satu bentuk energi menjadi energi dalam bentuk lain. Menurut hukum kekekalan energi, energi yang masuk sama dengan energi yang keluar. Walaupun demikian, tidak seluruh energi yang keluar bisa dimanfaatkan. Perbandingan antara energi keluaran (output) yang bermanfaat dengan energi masukan (input) disebut sebagai efisiensi.\u00a0<br><span>efisiensi = energi keluaran bermanfaat / energi masukaan total<br>semoga bermanfaat\u00a0<br>jadiin jawabn terbaik dong</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-ditimbang-di-udara-dengan-neraca-pegas-beratnya-20-920",
+            "question": "sebuah benda ditimbang di udara dengan neraca pegas, beratnya 20 N. kemudian benda tersebut ditimbang di dalam air beratnya 17 N. gaya ke atas yang dilakukan oleh air terhadap benda itu sama dengan? tolong bantuannya... thanks :):)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Wb = 20 N<br>\u00a0 \u00a0 \u00a0 Wc = 17\u00a0N<br>Dit Fa ?<br>jawab Fa = Wc - Wb<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 20 N - 17 N<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bergetar-dengan-frekuensi-50-hertz-artinya-sebuah-be-512",
+            "question": "Sebuah benda bergetar dengan frekuensi 50 Hertz artinya    sebuah benda bergetar dengan periode 0,01 menit artinya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Artinya dalam satu detik benda itu bergetar sebanyak 50 kali<br>b. Artinya sebuah benda itu memerlukan waktu 0,01 menit untuk sekali bergetar<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

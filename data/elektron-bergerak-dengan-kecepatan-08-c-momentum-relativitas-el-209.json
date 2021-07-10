@@ -1,0 +1,134 @@
+{
+    "question": "Elektron bergerak dengan kecepatan 0,8 c. Momentum relativitas elektron tersebut adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik : mo ( massa diam elektron ) = [tex] 9 * 10^{-31} [/tex] kg<br>\u00a0\u00a0 \u00a0 \u00a0 v = 0,8 c<br>dit momentum relativitas (p)<br>peny<br><br>[tex]p =  \\frac{mo * v }{ \\sqrt{1-v^{2}/ c^{2}  } } [/tex]<br><br>[tex]p =  \\frac{9 * 10^{-31} * 0,8c }{ \\sqrt{1-(0,8c)^{2}/ c^{2}  } } [/tex]<br><br>[tex]p =  \\frac{7,2 * 10^{-31}c}{ \\sqrt{1-0.64} } [/tex]<br><br>[tex]p =  \\frac{7,2 *  10^{-31} }{ \\sqrt{0,36} } [/tex]<br><br>[tex]p =  \\frac{7,2 *  10^{-31}c }{0,6}  [/tex]<br><br>[tex]p = 12 * 10^{-31} c[/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418",
+            "question": "Batang homogaen AB yang panjangnya L dan beratnya 50 N berada dalam keadaan seimbang, seperti tampak pada gambar. batang diberi engsel pada A dan ditahan oleh tali OC pada kedudukan AC = 2/3 L dan sudut ACO = 30 derajat. jika pada ujung batang digantung beban 100 N, hitunglah:    a. tegangan tali\r\nb. komponen- komponen gaya yang dikerjakan engsel pada batang\r\nc. besar dan arah gaya engsel pada batang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi : torsi<br>Kata kunci : tegangan tali<br>Pembahasan : jawaban dan cara ada di lampiran",
+                    "attachments": [
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-1.jpg",
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-2.jpg",
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-seberkas-cahaya-monokromatis-diarahkan-pada-sebuah-kisi-yang-915",
+            "question": "Jika seberkas cahaya monokromatis diarahkan pada sebuah kisi yang mempunyai 10^4 garis/cm, garis terang pertama terjadi pada sudut deviasi 30 derajat\u00a0, maka panjang gelombang cahaya yang dipakai adalah \u2026\u2026\u2026\u2026 \u00c5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 n = 10^4 garis/cm<br>\u00a0sin\u00a0\u03b8 = 30 = 0,5<br>Dit\u00a0\u03bb ?<br>jawab.<br>d =\u00a0[tex] \\frac{1}{n} [/tex]<br><br>sehingga diperoleh rumus<br><br>d sin\u00a0\u03b8 = m .\u00a0\u03bb<br><br>\u03bb\u00a0=\u00a0[tex] \\frac{sin 0 }{n.m} [/tex]\u00a0<br><br>\u03bb =\u00a0[tex] \\frac{sin30}{10^4 . 1} [/tex]<br><br>\u03bb =\u00a0[tex] \\frac{0,5}{10^4}  = [/tex] = 5 x 10^-5 garis/cm = <strong>5 .000 \u00c0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-perenang-ingin-menyeberangi-sungai-yang-sangat-lebar-ia-224",
+            "question": "Seorang perenang ingin menyeberangi sungai yang sangat lebar. Ia berenang dengan kecepatan20 km/jam ke arah selatan. Jika arus sungai memiliki kecepatan 10 km/jam ke barat. Hitunglah\u00a0resultan kecepatan perenang tersebut dan ke mana arahnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 km/jam - 10 km/jam = 10 km/jam ke arah selatan <br>karena kecepatan yg paling besar ke arah selatan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cos-120-derajat-berapa-ya-818",
+            "question": "Cos 120 derajat berapa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari cos 120\u2070 adalah - \u00b9/\u2082.</p><h3><strong>Pembahasan</strong></h3><p>Diminta untuk menentukan nilai dari <strong>cos 120\u00b0</strong>.</p><p>Mari kita pahami terlebih dahulu mengenai <strong>kuadran</strong>. Sistim koordinat dapat terbagi ke dalam empat wilayah kuadran.</p><ul><li><strong>Kuadran-1 berada dalam interval 0\u00b0 \u2264 x \u2264 90\u00b0</strong></li><li><strong>Kuadran-2 berada dalam interval 90\u00b0 \u2264 x \u2264 180\u00b0</strong></li><li><strong>Kuadran-3 berada dalam interval 180\u00b0 \u2264 x \u2264 270\u00b0</strong></li><li><strong>Kuadran-4 berada dalam interval 270\u00b0 \u2264 x \u2264 360\u00b0</strong></li></ul><p>Perhatikan nilai-nilai dari sinus, cosinus, dan tangen pada setiap kuadran berikut ini.</p><ul><li><strong>Kuadran-1, semua nilai-nilai dari sin, cos, dan tan adalah positif</strong></li><li><strong>Kuadran-2, hanya nilai sin yang positif</strong></li><li><strong>Kuadran-3, hanya nilai tan yang positif</strong></li><li><strong>Kuadran-4, hanya nilai cos yang positif</strong></li></ul><p><u>Catatan:</u> fungsi tangen dapat ditulis sebagai tan atau tg.</p><p>Garis sumbu yang memisahkan antarkuadran dapat kita sebut sebagai pembatas kuadran.</p><ul><li><strong>Pembatas kuadran mendatar adalah 180\u00b0 dan 360\u00b0</strong></li><li><strong>Pembatas kuadran tegak adalah 90\u00b0 dan 270\u00b0</strong></li></ul><p>Ingatlah hal penting berikut ini yang terkait dengan relasi sudut:</p><p><strong>A. pembatas kuadran mendatar tidak mengubah fungsi</strong></p><ul><li>sin (180\u00b0 - \u03b1) = sin \u03b1</li><li>cos (180\u00b0 - \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 - \u03b1) = - tan \u03b1</li><li>sin (180\u00b0 + \u03b1) = - sin \u03b1</li><li>cos (180\u00b0 + \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 + \u03b1) = tan \u03b1</li><li>sin (360\u00b0 - \u03b1) = sin \u03b1</li><li>cos (360\u00b0 - \u03b1) = cos \u03b1</li><li>tan (360\u00b0 - \u03b1) = - tan \u03b1</li></ul><p><strong>B. pembatas kuadran tegak akan mengubah fungsi</strong></p><ul><li>sin (90\u00b0 - \u03b1) = cos \u03b1</li><li>cos (90\u00b0 - \u03b1) = sin \u03b1</li><li>tan (90\u00b0 - \u03b1) = cot \u03b1</li><li>sin (90\u00b0 + \u03b1) = cos \u03b1</li><li>cos (90\u00b0 + \u03b1) = - sin \u03b1</li><li>tan (90\u00b0 + \u03b1) = - cot \u03b1</li><li>sin (270\u00b0 - \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 - \u03b1) = - sin \u03b1</li><li>tan (270\u00b0 - \u03b1) = cot \u03b1</li><li>sin (270\u00b0 + \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 + \u03b1) = sin \u03b1</li><li>tan (270\u00b0 + \u03b1) = - cot \u03b1</li></ul><p>Kembali kepada soal yang ditanyakan, yakni diminta untuk menentukan nilai dari cos 120\u00b0. Sudut 120\u00b0 ini tentu berada di kuadran 2 sehingga nilai dari cosinusnya adalah negatif. Kita kerjakan dengan dua cara.</p><p><strong>CARA PERTAMA</strong></p><p><strong>Gunakan cos (180\u00b0 - \u03b1) = - cos \u03b1</strong></p><p>cos 120\u00b0 = cos (180\u00b0 - 60\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - cos 60\u00b0 (ingat, nilai dari cos 60\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>CARA KEDUA</strong></p><p><strong>Gunakan cos (90\u00b0 + \u03b1) = - sin \u03b1</strong></p><p>cos 120\u00b0 = cos (90\u00b0 + 30\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - sin 30\u00b0 (ingat, nilai dari sin 30\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>Kesimpulan</strong></p><p>Untuk dapat menjawab pertanyaan tentang penentuan nilai-nilai fungsi trigonometri, kita harus pahami terlebih dahulu mengenai:</p><p>a. kuadran dan pembatas-pembatas kuadran,</p><p>b. posisi sudut pada suatu kuadran, dan</p><p>c. relasi sudut.</p><h3>--------------------------</h3><p>Pelajari persoalan trigonometri lainnya di sini</p><ol><li>https://brainly.co.id/tugas/15359538</li><li>brainly.co.id/tugas/34048</li><li>brainly.co.id/tugas/8232394</li></ol><h3>______________</h3><h3>Detil Jawaban</h3><p><strong>Kelas:</strong> X</p><p><strong>Mapel: </strong>Matematika</p><p><strong>Kategori: </strong>Trigonometri</p><p><strong>Kata Kunci: nilai, cosinus, sinus, tangen, kuadran, pembatas, sistim, koordinat, relasi, sudut</strong></p><p></p><p><strong>Kode: </strong>10.2.6 </p>",
+                    "attachments": [
+                        "answer-attachments/cos-120-derajat-berapa-ya-818-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bermassa-20-kg-massa-jenis-4000-kgm3-diikat-dengan-490",
+            "question": "Suatu benda bermassa 20 kg, massa jenis 4000 kg/m3, diikat dengan tali dan dimasukkan ke dalam bak yang berisi minyak (massa jenis minyak 800 kg/m3) hingga benda dalam keadaan tergantung (g=10m/s2). maka tegangan tali pada sistem ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D1 : massa jenis benda= 4000 kg.m^3 \u00a0 \u00a0 \u00a0 \u00a0 m = 20kg<br>\u00a0 \u00a0 \u00a0 \u00a0massa jenis fluida= 800 kg/m^3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s^2<br>D2 : T=..?<br>D3 : <br>V benda = m benda/massa jenis benda<br>V benda = 20/4000<br>V benda = 1/200 m^3<br>sigma F = 0<br>T + Fa = W<br>T + massa jenis fluida.volume benda.g = massa benda.g<br>T + 800.1/200.10 = 20.10<br>T + 40 = 200<br>T = 200-40<br>T = 160 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540",
+            "question": "Lempengan Logam berbentuk persegi dengan ukuran seperti gambar dengan suhu 40 celcius. Tentukan pertambhan luas logam tersebut jika suhunya dinaikkan sampai 160 C (\u03b1 = 25 * 10^-6 / C)\u00a0",
+            "attachments": [
+                "question-attachments/lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]\\triangle{A} = A_0 \\beta T[/tex]<br>[tex]=A_0(2 \\alpha )(T_2-T_1)[/tex]<br>[tex]=(60)^2(2*25*10^{-6})(160-40)\n=21,6 cm^2[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-besar-momentum-sebuah-mobil-yang-massanya-1-ton-yang-be-165",
+            "question": "Berapakah besar momentum sebuah mobil yang massanya 1 ton yang bergerak dengan kelajuan 36 km/jam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket: m = 1 ton =1000 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v= 36km/jam= 10km/s<br>ditanya: p..?<br>jawab : p=m.v<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1000.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=10000 kg m/s<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui: m= 1 ton=1000 kg<br>360km/jam=36000/3600=10 m/s<br>ditanya: p=....?<br>p=m*v<br>p=1000*10<br>p=10000 kg m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kipas-berputar-sebanyak-20-putaran-per-menit-jika-ujung-k-900",
+            "question": "Sebuah kipas berputar sebanyak 20 putaran per menit. Jika ujung kipas berada 20 cm dari sumbu putranya, kecepatan tangensial ujung kipas adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Step-1 konversi satuan putaran/menit menjadi rad/s</strong><br><br><strong>1 putaran\u00a0= 2\u03c0 radian</strong><br><br>\u21d4 \u03c9 = 20 putaran/menit<br>\u21d4 \u03c9 = 20 x 2\u03c0/60 rad/s<br>\u21d4 \u03c9 = 2\u03c0/3 rad/s<br><br><strong>Step-2 menghitung kecepatan tangensial</strong><br><br>jari-jari r = 20 cm = 0,2 m<br><br><strong>\u21d4 v = \u03c9 x r</strong><br>\u21d4 v = [2\u03c0/3] x [0,2]<br>\u21d4 v = 2\u03c0/15 m/s<br><br><strong>\u2234 kecepatan tangensial adalah 2\u03c0/15 m/s</strong><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarnya-laju-radiasi-energi-yang-dipancarkanoleh-bola-berjari-ja-251",
+            "question": "Besarnya laju radiasi energi yang dipancarkanoleh bola berjari jari 2 cm pada suhu 2000 K dengan emisivitas 0,1 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>Keterangan</u><span>\u00a0:</span><br>P = daya radiasi (laju radiasi) (watt = joule/s)<br><span>e = emisivitas benda\u00a0</span><br>e = 1 \u2192 benda hitam sempurna<br>A = luas permukaan benda (m2)<br>T = suhu (Kelvin)<br>\u03c3 = Konstanta Stefan-Boltzman = 5,67 x 10\u22128<span>\u00a0W/mK</span>4<span>\u00a0<br><br>luas bola = </span>\u03c0r^2 = 0,02^2 .\u03c0\u00a0= 4x10^-4\u03c0<span><br><br>P = eQT4A<br>P = 0,1 . 5,67 x 10^-8. (2000)^4.4x10^-4</span>\u03c0<br>\u00a0\u00a0 = \u00a04 536x10^-8\u03c0<br>\u00a0 \u00a0= 4,536x10^-5\u00a0\u03c0 j/s",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

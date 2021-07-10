@@ -1,0 +1,150 @@
+{
+    "question": "Dua lingkaran masing masing berpusat di titik O dan P dengan panjang jari-jari 10cm dan 6cm .Jika jarak kedua titik pusat lingkaran adalah 34cm, tentukan garis singgung AB    Mhon dengan cara ,Trims~",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "AB =\u00a0\u221as\u00b2 - (R + r)\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a34\u00b2 - (10 + 6)\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a1156 - 256<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a900<br>\u00a0 \u00a0 \u00a0= 30 cm",
+            "attachments": []
+        },
+        {
+            "answer": "[tex]l =  \\sqrt{p^2 - (R-r)^2}  \\\\ l = \\sqrt{34^2 -(10-6)^2}  \\\\  l =  \\sqrt{1156-16}  \\\\ l = \\sqrt{1140} [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-limas-segiempat-beraturan-t-abcd-berikutjika-panjang-rusuk-802",
+            "question": "pada limas segiempat beraturan T ABCD berikut,jika panjang rusuk alasnya 6cm, sedangkan tinggi limas adalah 4 cm.hitunglah luas permukaan limas tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=6<br>t limas=4<br>lp=?<br>t selimut=akar 3kuadrat +4kuadra<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar 9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar 25=5<br>LP=luas alas+luas selimut(4Lsegitiga)<br>\u00a0 \u00a0 =6x6 + 1/2x4x6x5<br>\u00a0 \u00a0 \u00a0=36 + 2x6x5<br>\u00a0 \u00a0 \u00a0 =36 +60<br>\u00a0 \u00a0 \u00a0=96 cm persegi",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permk. limas = 2 x Luas alas + (keliling alas . T prisma )<br>= 2 x (4x4) + ( 4x6)\u00a0 . 4<br>=2x 16 + 24.4<br>=128<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tara5-kg-persentase-tara212-ditanya-berapa-kg-bru-551",
+            "question": "Diketahui:\r\nTara:5 kg\r\nPersentase tara:2,12%\r\n\r\nDitanya:\r\nBerapa kg bruto dan netto?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto =\n5 kg : 2,12%  = 5 : 2,12/100 \n= 5 x 100/2,12 = 500/2,12 = 235,8\njadi, brutonya adalah 235,8\nnetto = bruto - tara.\nnetto = 235,8 - 5 = 230,8\njadi, nettonya adalah 230,8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tara = Persentase tara \u00d7 bruto<br>5 = <u>2,12</u>\u00d7 bruto<br>\u00a0\u00a0 \u00a0 \u00a0 100<br>500 = 2,12 \u00d7 bruto<br>bruto =\u00a0 <u>500</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 2,12<br>bruto = 235,85 kg<br><br>netto = 235,85 - 5kg<br>netto = 230,85 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-lingkaran-adalah-1386-cm2-tentukan-jari-jari-tentuka-549",
+            "question": "Luas sebuah lingkaran adalah 1.386 cm2 \r\n tentukan jari jari\r\n tentukan diameter lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "LO=<em><u></u></em>\u03c0r\u00b2<br>r\u00b2=<u>1386 * 7<br></u> \u00a0 \u00a0 \u00a0 \u00a0 22<br><u></u>r=21 cm<br>d= 42 cm<em></em>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L = \u03c0r\u00b2 <br>1386 = 22/7 \u00d7 r\u00b2<br>r\u00b2 = 1386 \u00d7 7 \u00f7 22<br>r\u00b2 = 441<br>r =\u221a441<br>r = 21<br>dan diameternyanya adalah 2r = 2.21 = 42<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bola-dengan-diameter-6-cm-adalah-686",
+            "question": "Volume bola dengan diameter 6 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>22</u> \u00d73\u00d73=28.285<br>7<br>mencari r =diameter\u00f72<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus volume bola itu [tex] \\frac{4}{3} [/tex] . [tex] \\pi [/tex] . r\u00b3<br><br>itu feb -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-peternak-ikan-mempunyai-persediaan-makanan-cukup-untuk-80-693",
+            "question": "seorang peternak ikan mempunyai persediaan makanan cukup untuk 80 ekor ikan selama 15 hari . jika jumlah ikan bertambah 20 ekor persediaan makanan akan habis selama ? minta cranya ya plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80 + 20x = 15 x 80<br>100x = 1200<br>x = 1200/100<br>x = 12<br><br>12 hari",
+                    "attachments": []
+                },
+                {
+                    "answer": "x/15=80/100\nx.      =15.80/100\nx.      =12 hari",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pekerjaan-dapat-diselesaikan-dalam-waktu-15-hari-oleh-12-pe-280",
+            "question": "suatu pekerjaan dapat diselesaikan dalam waktu 15 hari oleh 12 pekerja .apabila banyak pekerja ditambah 6 orang, maka pekerjaan tersebut akan selesai dalam waktu berapa hari ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>perbandingan berbalik nilai</strong><br>15 hari = 12 orang<br>x hari = (12+6) orang<br><br>15 . 12 = x .18 <br>x = 180/18<br>x = 10 hari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-juring-lingkaran-berjari-jari-4-cm-dan-sudut-pusat-315-939",
+            "question": "Luas suatu juring lingkaran berjari-jari 4 cm dan sudut pusat 315 derajat dengan phi = 22/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L.juring = l. lingkaran x sudut juring/360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex][tex] r{2} [/tex] x 315/360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22/7 x\u00a0[tex] (4)^{2}  [/tex] x 0,875<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22/7 x 16 x 0,875<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 308/7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44<br><br>smoga bnar yah.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sudut-abdy-cbd2y-a-tentukan-nilai-y-btentukan-besar-su-968",
+            "question": "1. sudut ABD=y,\u00a0CBD=2y    a. Tentukan nilai y !\r\nb.Tentukan besar sudut ABD !\r\n\r\n2. Tentukan besar sudut komplemen dari:\r\na.\u00a056 derajat 41 menit\u00a055 detik !\r\n\r\n3. Tentukan besar sudut suplemen dari:\r\na.\u00a045 derajat\u00a035 menit 4 detik\r\nb. 173 derajat 47 menit 44 detik\r\n\r\n4. diketahui sudut DOC 5x,\u00a0sudut COB 5X+12 derajat, BOA 28 derajat\r\ntentukan nilai x !\r\n\r\ntolong beserta caranya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. y + 2y = 180 \u00a0 \u00a0 \u00a0 \u00a0b. y = 60\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a03y = 180()<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y \u00a0= 180 : 3<br>\u00a0 \u00a0 \u00a0a. \u00a0y \u00a0= 60<br><br>2.\u00a0<span>56 derajat 41 menit\u00a055 detik + 33 derajat\u00a018 menit\u00a05 detik = 90 derajat<br><br>3. a.\u00a0</span><span>45 derajat\u00a035 menit 4 detik + 134 derajat\u00a024 menit\u00a056 detik = 180 derajat<br>\u00a0 \u00a0 b.\u00a0</span>173 derajat 47 menit 44 detik + 6\u00a0derajat\u00a014\u00a0menit 16 detik =\u00a0180 derajat<br><br>4.\u00a0BOA + COB = 180 derajat (berpelurus)<br>\u00a0 \u00a0 (5x + 12) + 28 = 180<br>\u00a0 \u00a0 \u00a0 \u00a0 5x + 12 \u00a0 \u00a0 \u00a0\u00a0= 180 - 28<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0152 - 12\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 70 derajat<br><br><br>kira kira segitu hasilnya. jika ada salah saya mohon maaf",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-luas-lingkaran-yg-kelilingnya-sebagai-berikut-a-88c-529",
+            "question": "hitunglah luas lingkaran yg kelilingnya sebagai berikut \u00a0 a) 88cm\u00a0\u00a0\u00a0\u00a0 b) 94,2cm \u00a0 \u00a0 \u00a0 \u00a0 c) 188,4cm \u00a0\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) k = 2 \\pi r \\\\ 88=2 \\frac{22}{7} r \\\\ r=88 \\frac{7}{44}  \\\\ r=14 \\\\  \\\\ L= \\pi r^{2} \\\\ L= \\frac{22}{7} 14^{2}  \\\\ L=\\frac{22}{7}196 \\\\ L=616 cm^{2}  \\\\  \\\\ b) k = 2 \\pi r \\\\ 94,2=2 \u00d7 3,14r  \\\\ r=94,2:6,28 \\\\ r=15 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 15^{2}  \\\\ L=3,14 \u00d7  225 \\\\ L=706,5 cm^{2}  \\\\  \\\\ c) k = 2 \\pi r \\\\ 188,4=2 \u00d7 3,14r  \\\\ r=188,4:6,28 \\\\ r=30 \\\\  \\\\ L= \\pi r^{2} \\\\ L= 3,14 \u00d7 30^{2}  \\\\ L=3,14 \u00d7  900 \\\\ L=2.826 cm^{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lingkaran-luasnya-1256-cm2-jika-jari-jari-lingkaran-itu-d-133",
+            "question": "suatu lingkaran luasnya 1.256 cm2. jika jari jari lingkaran itu dikurangi 6 maka luas lingkaran sekarang adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "munkin klo di itung itung jasil nya 622 soalnta1256:2=628-6=622",
+                    "attachments": []
+                },
+                {
+                    "answer": "1256 : 3.14 = 400<span></span> .<br>Akar dari 400 = 20cm .<br>20-6 = 14 cm<br>22per7 dikali 14 dikali 14 = 616 cm persegi.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

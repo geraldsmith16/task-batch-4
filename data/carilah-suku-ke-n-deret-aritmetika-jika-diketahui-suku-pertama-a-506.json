@@ -1,0 +1,140 @@
+{
+    "question": "Carilah Suku ke-n deret aritmetika jika diketahui suku pertama (a) dan\u00a0beda (b) \u00a0berikut    a.) a=\u00a09, b= -3 , dan n = 24\r\nb.) a=\u00a012, b= -7 , dan n = 8\r\nc.) a= -4, b= 4 dan n = 100\r\nd.) a=\u00a02 , b=9 dan n=1\u00a05",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.\u00a0 Un = a + (n-1)b<br>Un = 9 + (n-1)(-3)<br>Un = 9 - 3n + 3<br>Un = 11 - 3n<br>n = 24<br>U24 = 11- 3.24 = 11 - 72 = - 61<br>",
+            "attachments": []
+        },
+        {
+            "answer": "a)a=9, b=3, n=24 jadi Un=24<br>Un=a+(n-1)b<br>24=9+(24-1)3<br>\u00a0\u00a0 =9+(23)3<br>\u00a0\u00a0 =78<br><span>b.) a=12, b=7, n=8 jadi Un=8<br>Un=a+(n-1)b<br>\u00a08= 12+(8-1)7<br>\u00a0\u00a0  =12+49<br>\u00a0\u00a0 =61<br>c) a=4, b=4, n=100 jadi Un=100<br>Un=a+(n-1)b<br>100=4+(100-1)4<br>\u00a0\u00a0 \u00a0 =4+396<br>\u00a0\u00a0 \u00a0 =400<br>d) a=2, b=9, n=15 jadi Un=15<br>Un=a+(n-1)b<br>15=2+(15-1)9<br>\u00a0\u00a0\u00a0 = 2+126<br>\u00a0\u00a0  =128<br></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-mencari-jarak-titik-pusat-bila-diket-jari-dua-lingkaran-bert-979",
+            "question": "cara mencari jarak titik pusat bila diket jari dua lingkaran berturut-turut 3cm dan 13 cm . dan garis singgung persekutuan luar 24 cm .\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "garis singgung persekutuan luar memiliki rumus:<br>L\u00b2 =\u00a0 p\u00b2 - ( r\u2081 -\u00a0 r\u2082 )\u00b2<br>24\u00b2 = p\u00b2 - (13 - 3 )\u00b2<br>576 = p\u00b2 - 100<br>p\u00b2 = 676<br>p = \u221a676<br>p = 26<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-di-bawah-panjang-ps-pr-rq-dan-besar-sudut-psr-627",
+            "question": "Pada gambar di bawah, panjang PS = PR = RQ, dan besar sudut PSR = 64\u00b0. nilai x + y = [pake cara]    a. 21\r\n b. 32\r\n c. 52\r\n d. 84",
+            "attachments": [
+                "question-attachments/pada-gambar-di-bawah-panjang-ps-pr-rq-dan-besar-sudut-psr-627-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "PSR = 64 derajat. Karena\u00a0\u0394 PSR adalah segitiga sama kaki, maka PRS = 64. <br>Maka besar 4y = 180 - (64 + 64) = 52<br>y = 52/4 = 13<br>besar PRQ = 180 - 64 = 116<br>\u0394PRQ juga segitiga sama kaki, maka besar RPQ = (180-116)/2 = 32<br>x = 32/4 = 8<br>x + y = 8 + 13 = 21 derajat (Opsi A)<br><br>Jadiin jwbn terbaik dong<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berbentuk-lingkaran-ketika-berputar-100-kali-benda-896",
+            "question": "Sebuah benda berbentuk lingkaran. Ketika berputar 100 kali, benda tersebut dapat menempuh jarak 176 cm. Hitunglah : a. Diameter benda dengan pi=3,14 b. Luas permukaan benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K = \u03c0d<br>176 = 100K<br>176 = 100(3,14d)<br>176 = 314d<br>d = 176/314 = 0,56<br><br>r = 1/2 d = 0.28<br><br>L = \u03c0r\u00b2<br><br>= 3,14(0.28)\u00b2<br>=3,14 x 0,0784<br>=0,246176<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2x-6-2-x4-cara-penyelesaiannya-gimana-2-438",
+            "question": "1 (2x-6) \u2265 2 (x+4) cara penyelesaiannya gimana ???\r\n2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-6 &gt; 2x + 8\n2x - 2x &gt; 8 + 6\nx &lt; 14",
+                    "attachments": []
+                },
+                {
+                    "answer": "1x-3\u22652/3x+8/3<br>1x-3x\u22658/3 +3<br>3x/3-2/3x\u22658/3+3/3<br>-1/3x\u226511/3<br>x\u226411/3\u00b73<br>x\u226411<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-aob-120-derajat-sudut-cod-72-derajat-jika-luas-juri-367",
+            "question": "Sudut AOB = 120 derajat , sudut COD = 72 derajat . Jika luas juring OCD = 30 cm persegi , luas juring OAB adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AOB \u00a0 \u00a0 \u00a0L. Juring OAB<br>------ \u00a0 = \u00a0----------<br>COD \u00a0 \u00a0 L. Juring OCD<br><br>120 \u00a0 \u00a0 \u00a0L. Juring OAB<br>----- \u00a0 = \u00a0-------------------<br>72 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 30<br><br>L. Juring OAB = 120 X 30 /\u00a072 = 3600 / 72 = 50 cm persegi<br><br>#Sekian<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-1-3-7-15-adalah-323",
+            "question": "Rumus suku ke-n dari barisan 1, 3, 7, 15 .....\u00a0 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong></strong>dik : a = 1<br>\u00a0 \u00a0 \u00a0 \u00a0 b =\u00a0U2-U1 = 3-1=2<br>Un = a+(n-1)b<br>\u00a0 \u00a0 \u00a0=1+(n-1)2<br>\u00a0 \u00a0 \u00a0=1+2n-2<br>\u00a0 \u00a0 \u00a0= 2n+1-2<br>\u00a0 \u00a0 \u00a0= <strong>2n-1<br>rumusnya yg di bold ya..</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-rumus-mencari-bruto-tara-netto-tara-netto-253",
+            "question": "Tolong rumus mencari bruto, tara, netto, %tara, %netto........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto=netto+tarra\nnetto=bruto-tarra\ntarra=bruto-netto",
+                    "attachments": []
+                },
+                {
+                    "answer": "bruto = netto + tarra<br>tarra = bruto - nett0<br>netto = bruto - tarra<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-berputar-sebanyak-500-kali-untuk-melintasi-jlan-sepan-238",
+            "question": "Sebuah roda berputar sebanyak 500 kali untuk melintasi jlan sepanjang\u00a0628 meter.hitunglah:    a.keliling roda.\r\nb.jari jari roda.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=628 \u00f7 500<br>\u00a0=<u>1,256</u><br>d= k \u00f7 \u03c0<br>\u00a0=1,256 \u00f7 3,14<br>\u00a0=0,4<br>r= d\u00f72<br>\u00a0=0,4 \u00f7 2<br>\u00a0=<u>0,2</u><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-kelilingnya-22-cm-diameter-lingkaran-adalah-994",
+            "question": "Sebuah lingkaran kelilingnya 22 cm. diameter lingkaran adalah ... cm\u00a0\r\nini rumus nya gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c0 x d = 22<br>22/7 x d = 22<br>d = 22 x 7/22<br>d = 7",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling adalah\u00a0phi dikali diameter -&gt; phi. D = keliling<br>Jadi, cara mencari diameter adalah dengan keliling dibagi phi -&gt; D= keliling : phi",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

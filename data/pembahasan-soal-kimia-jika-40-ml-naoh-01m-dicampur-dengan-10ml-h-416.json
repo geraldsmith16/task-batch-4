@@ -1,0 +1,133 @@
+{
+    "question": "Pembahasan soal kimia jika 40 ml NaOH 0,1M dicampur dengan 10ml H2SO4 0.1M tentukan pH campuran",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0\u00a0 2NaOH + H\u2082SO\u2084 ---&gt; Na\u2082SO\u2084 + 2H\u2082O<br>m 4mmol\u00a0 \u00a0 \u00a0 1mmol\u00a0 \u00a0 \u00a0  -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  -<br>b 2mmol\u00a0 \u00a0 \u00a0  1mmol\u00a0 \u00a0 \u00a0 1mmol\u00a0 \u00a0 2mmol<br>s 2mmol\u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 1mmol\u00a0 \u00a0  2mmol<br><br>mol sisa NaOH = 2mmol<br>M = 2/50 = 4x10\u207b\u00b2<br>\u00a0NaOH ----&gt; Na\u207a+OH\u207b<br>1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1\u00a0 \u00a0 \u00a0  1<br>[OH\u207b] = 1 x 4 x10\u207b\u00b2 = 4x10\u207b\u00b2<br>pOH = -log4x10\u207b\u00b2 = 2-log4<br>pH = 14 - (2 - log4)<br>\u00a0\u00a0 \u00a0 = 12 + log 4<br>\u00a0\u00a0 \u00a0 = 12 + 0,6 = <em><strong>12,6</strong></em><br>",
+            "attachments": []
+        },
+        {
+            "answer": "NaOH --&gt; mol OH-<br>=M.V.Valensi<br>=0,1.40.1<br>=4<br>H2SO4 --&gt; mol H+<br>=M.V.Valensi<br>=0,1.40.2<br>=8<br>Sisa mol H+ = 8-4 =4<br>[H+]sisa = mol sisa H+ per V.Campuran<br>=4/40 = 0,1<br>pH = -log 1 x\u00a010 pangkat -1 =<br>\u00a0 \u00a0 \u00a0= 1",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nacl-padat-tidak-dapat-menghantarkan-listrik-sedangkan-larutan-na-333",
+            "question": "NaCl padat tidak dapat menghantarkan listrik sedangkan larutan NaCl dapat menghantarkan listrik. Dari fakta tersebut dapat di simpulkan bahwa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>NaCl padat tidak dapat menghantarkan listrik sedangkan larutan NaCl dapat menghantarkan listrik. Dari fakta tersebut dapat di simpulkan bahwa NaCl bentuk padatan (solid) tidak dapat menghantarkan arus listrik karena ion \u2013 ionnya tidak dapat bergerak bebas disebabkan terperangkap dalam bentuk padatan atau kristal yang terikat kuat dan rapat. Sedangkan dalam bentuk larutan (aq) dapat menghantarkan listrik karena ion \u2013 ion nya dapat bergerak bebas. \u00a0Ion-ion yang terbentuk dalah kation (ion positif) dan anion (ion negatif). Bila arus listrik dihubungkan, kation bergerak menuju katode dan anion bergerak menuju anode sehingga arus listrik dapat mengalir.</p><h3>Pembahasan</h3><p>[tex]\\boxed{\\boxed{\\bold{ Larutan~Elektrolit~dan~Non~Elektrolit }}}[/tex]\n</p><p> [tex]\\mathbf{A.~Larutan~elektrolit }[/tex]\n</p><p>Larutan elektrolit adalah zat yang dapat membentuk ion-ion dalam pelarutnya sehingga larutannya dapat menghantarkan listrik. Hal ini dikarenakan larutan elektrolit terionisasi dalam pelarutnya.\n</p><p>1. Larutan elektrolit kuat adalah elektrolit yang dapat terionisasi sempurna atau hampir sempurna menjadi ion-ion dalam pelarutnya dan umumnya menghasilkan larutan dengan daya hantar listrik yang baik.\n</p><p>2. Larutan elektrolit lemah adalah elektrolit yang hanya terurai sebagian kecil menjadi ion-ion dalam pelarutnya dan menghasilkan larutan dengan daya hantar listrik yang buruk.\n</p><p>\n</p><p>[tex]\\mathbf{B.~Larutan~non~elektrolit }[/tex]\n</p><p>Larutan non elektrolit adalah zat yang tidak dapat membentuk ion-ion dalam pelarutnya sehingga larutannya tidak dapat menghantarkan arus listrik.\n</p><p>\n</p><p>[tex]\\mathbf{Ciri~-~Ciri~Larutan~Elektrolit~Kuat, ~Lemah, ~dan~Non~Elektrolit }[/tex] \u00a0</p><p>Larutan Elektrolit Kuat \u00a0</p><p>1. Senyawa ion \u00a0</p><p>2. Sneyawa kovalen polar \u00a0</p><p>3. Larutan asam atau basa kuat \u00a0</p><p>4. Larutan garam (asam kuat + basa kuat) \u00a0</p><p>5. Terionisais sempurna \u00a0</p><p>6. Daya hantar listrik yang baik \u00a0</p><p>7. Ciri percobaan : nyala lampu terang dan banyak gelembung gas \u00a0</p><p>Contoh : \u00a0</p><p>Asam : HCl, H\u2082SO\u2084 \u00a0</p><p>Basa: NaOH, Ca(OH)\u2082 \u00a0</p><p>Garam : NaCl, CaSO\u2084 \u00a0</p><p>Larutan Elektrolit Lemah \u00a0</p><p>1. Senyawa kovalen polar \u00a0</p><p>2. Larutan asam atau basa lemah \u00a0</p><p>3. Terionisasi sebagian \u00a0</p><p>4. Daya hantar listrik yang buruk \u00a0</p><p>5. Ciri percobaan : nyala lampu redup, sedikit gelembung gas atau lampu tidak menyala, sedikit gelembung gas \u00a0</p><p>Contoh : \u00a0</p><p>Asam : H\u2082CO\u2083, CH\u2083COOH \u00a0</p><p>Basa : NH\u2083\n</p><p>Larutan Non Elektrolit \u00a0</p><p>1. Senyawa kovalen non polar \u00a0</p><p>2. Tidak terionisasi \u00a0</p><p>3. Tidak menghantarkan arus listrik \u00a0</p><p>4. Ciri percobaan : lampu tidak menyala dan tidak ada gelembung gas \u00a0</p><p>Contoh : \u00a0</p><p>C\u2082H\u2085OH, C\u2086H\u2081\u2082O\u2086, C\u2081\u2082H\u2082\u2082O\u2081\u2081, CO(NH\u2082)\u2082 \u00a0</p><p>\n</p><p>[tex]\\mathbf{C.~Hubungan~Larutan~Elektrolit~dengan~Ikatan~Kimia }[/tex]\n</p><p>1. Senyawa ion\n</p><p>Untuk senyawa ion (ikatan ion) yaitu senyawa yang terbentuk dari logam dan non logam yang berikatan ion. Dalam bentuk padatan (solid), senyawa ion tidak dapat menghantarkan arus listrik karena ion \u2013 ionnya tidak dapat bergerak bebas. Sedangkan dalam bentuk lelehan (liquid) dapat menghantarkan listrik karena ion \u2013 ion nya dapat bergerak bebas. Begitu juga dengan dalam bentuk larutan (aq) dapat menghantarkan listrik karena ion \u2013 ion nya dapat bergerak bebas.\n</p><p>Contoh : NaOH, Ca(OH)\u2082 , NaCl, CaSO\u2084, \u00a0MgCl\u2082, KBr\n</p><p>\n</p><p>2. Senyawa kovalen polar\n</p><p>Untuk senyawa kovalen (iktan kovalen) yaitu senyawa yang terbentuk dari non logam dan non logam yang berikatan kovalen. Dalam bentuk pdatan (solid), tidak dapat menghantarkan listrik karena terdiri dari molekul \u2013 molekul netral. Sedangkan dalam bentuk lelehan (liquid) juga tidak dapat menghantarkan arus listrik karena juga terdiri dari molekul \u2013 molekul netral walaupun dapat bergerak. Tetapi berbeda jika dalam larutan (aq) molekul \u2013 molekulnya dapat terhidrolisis menjadi ion \u2013 ion yang dapat bergerak bebas.\n</p><p>Contoh : HCl, H\u2082SO\u2084, HNO\u2083, CH\u2083COOH\n</p><p>\n</p><p>3. Senyawa kovalen non polar\n</p><p>Baik dalam bentuk padatan, lelehan dan larutannya tidak dapat menghantarkan arus listrik karena terdiri dari molekul \u2013 molekul netral yang tidak dapat bergerak.\n</p><p>Contoh : C\u2082H\u2085OH, C\u2086H\u2081\u2082O\u2086, C\u2081\u2082H\u2082\u2082O\u2081\u2081, CO(NH\u2082)\u2082\n</p><br><p>[tex]\\mathbf{Pelajari~Lebih~Lanjut }[/tex]\n</p><ul><li>Pengertian larutan elektrolit dan non elektrolit https://brainly.co.id/tugas/1127157#\n</li><li>Ciri elektrolit kuat, lemah dan non elektrolit https://brainly.co.id/tugas/2372651\n</li><li>Larutan elektrolit https://brainly.co.id/tugas/20905606, https://brainly.co.id/tugas/1945533\n</li><li>Ciri elektrolit senyawa ion dan kovalen https://brainly.co.id/tugas/12586214, https://brainly.co.id/tugas/10448995#, https://brainly.co.id/tugas/9169734\n</li><li>Pengelompokkan larutan elektrolit dan non elektrolit https://brainly.co.id/tugas/2030067\n</li><li>Uji nyala lampu dan gelembung gas https://brainly.co.id/tugas/9484469#, https://brainly.co.id/tugas/9016630\n</li><li>Reaksi ionisasi senyawa elektrolit https://brainly.co.id/tugas/8873615#, https://brainly.co.id/tugas/20999102\n</li></ul><p>----------------------------------------------\n</p><p>[tex]\\mathbf{Detil~Jawaban }[/tex]\n</p><p>Mapel : Kimia\n</p><p>Bab : Larutan elektrolit dan non elektrolit\n</p><p>Kelas : X\n</p><p>Semester : 2\n</p><p>Kode : 10.7.5\n</p><p>Kata kunci : \u00a0elektrolit, non elektrolit, elektrolit kuat, elektrolit lemah, senyawa ion, senyawa kovalen</p>",
+                    "attachments": [
+                        "answer-attachments/nacl-padat-tidak-dapat-menghantarkan-listrik-sedangkan-larutan-na-333-1.jpg",
+                        "answer-attachments/nacl-padat-tidak-dapat-menghantarkan-listrik-sedangkan-larutan-na-333-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nh3-massa-nya-34-gr-tentukan-a-mol-b-753",
+            "question": "NH3 massa nya 3.4 gr    Tentukan: a)\u00a0mol\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b) jumlah partikel\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0c) volume(0\u00b0c,1 atm)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a)\u00a0\u00a0\u00a0\u00a0\u00a0\nn= m/Mr = 3,4/17 = 0,2</span>\n<br><span>b)\u00a0\u00a0\u00a0\u00a0\u00a0\nX= n . 6,022 . 1023 = 0,2 . 6,022 . 1023\n= 1,2044</span>\n\nX adalah jumlah partikel\n\nn adalah mol\n\n<span>c)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nMaaf, saya tidak tahu cara mencarinya...</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mr NH3=17<br>n=massa/Mr<br>n=3,4/17<br>n=0,2<br>X=n*6,02*10 pangkat 23<br>x=1,204*10 pngkat 23 partikel(atm)<br>kalau volumenya dalam STP<br>V=n*22,4<br>V=0,2*22,4<br>V=4,48 L<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-kimia-kupri-sulfat-pentahidrat-adalah-a-cuso4h2o-140",
+            "question": "Rumus kimia kupri sulfat pentahidrat adalah . . . .    A. CuSO4.H2O\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 D. 5 CuSO4.5 H2O\r\n\r\n B. CuSO4.(H2O)5\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 E. (CuSO4)5.H2O\r\n\r\n C. CuSO4.5 H2O",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mungkin jawabannya C. CuSO4. 5H2O<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-kimia-dan-fisika-dari-a-logam-mg-b-asam-klorida-841",
+            "question": "Sifat kimia dan fisika dari a) Logam Mg \r\nb) asam klorida",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat fisika logam mg<br>wujud zat,warna,kelarutan,daya hantar listrik,kemagnetan,titik didih,titik leleh.<br>sifat kimia logam mg<br>berkarat<br>sifat fisika asam klorida<br>wujud zat<br>titik didih,massa jenis,titik leleh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-liter-larutan-penyangga-mengandung-01-m-ch3cooh-dan-01-m-c-474",
+            "question": "satu liter larutan penyangga mengandung 0,1 M CH3COOH dan 0,1 M CH3COO- (Ka CH3COOH = 10-5 ). Bila ke dalam larutan ditambahkan 0,4 gram NaOH (Ar Na= 23, O= 16, H = 1), hitunglah pH larutan: a. sebelum ditambah NaOh b. setelah ditambah NaOH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. sebelum ditambahkan NaOH<br>\u00a0 \u00a0<br>[H+] = Akar Ka. M\u00a0CH3COOH = Akar 10^-5 . 0,1 M = Akar 10^-6 = 10^-3<br>ph = - log [H+] = - Log 10^-3 = 3- log1 = 3<br><br>b. sesudah ditambahkan NaOH<br><br>MOL NaoH = Gram/Mr = 0,4/40 = 0,01 mol<br>Mol CH3COOH = Molaritas\u00a0x\u00a0Liter = 0,1 x 1 = 0,1<br><br>CH3COOH + NAOH\u00a0\u21d2 CHA3COONA + H2O<br>\u00a0 \u00a00,1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01<br>\u00a0 0,01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,01\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -<br>\u00a0\u00a00,09 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01<br>\u00a0 \u00a0 \u00a0<br>maka H+ = Ka . Mol asam/mol garam<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10^-5 . 0,09/0,01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9.10^-5<br>\u00a0 \u00a0 \u00a0ph = - log H+ = - log 9.10^-5 = 5 - log\u00a09",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-awalnya-reaksi-redoks-dikaitkan-dengan-oksigen-kemudian-dgn-834",
+            "question": "Pada awalnya reaksi redoks dikaitkan dengan oksigen, kemudian dgn serah terima elektron dan perubahan bilangan oksidasi. apakah alasan mengaitkan reaksi redoks dengan :    a. serah terima elektron\r\nb. perubahan bilangan osidasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. serah terima redoks. jawabannya : peristiwa reduksi mengalami pengikatan elektron, sedangkan peristiwa oksidasi mengalami pelepasan elektron<br><br>b. perubahan bilangan redoks. jawabannya : bilangan oksidasi dari peristiwa reduksi biloksnya turun sedangkan peristiwa oksidasi biloksnya naik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-mol-basa-lemahasam-konjugasi51-kb1x10-5-ph-la-679",
+            "question": "Perbandingan mol basa lemah:asam konjugasi=5:1 (Kb=1x10-5). pH larutan tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dari pertanyaan kamu, larutan penyangga yang terbentuk adalah larutan penyangga basa<br>OH- = Kb (mol basa/mol asa konj)<br>OH - = 10^-5 (5/1)<br>OH- = 10^-5 x 5<br>maka\u00a0<br>pOH = - log 5 x 10^-5 = 5 - log 5<br>pH = 14 - (5 - log 5) = 9 + log 5<br><br>semoga bisa membant :D<br>beri label terbaik ya :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-100-ml-larutan-asam-format-mempunyai-ph4-dgn-derajat-392",
+            "question": "-.sebanyak 100 mL larutan asam format mempunyai Ph=4 DGN DERAJAT IONISASI 0,005.TENTUKAN\u00a0 harga Ka nya. \u00a0 -sebanyak 500 ml larutan asam NH4oh 0,1 M mempunyai Ph=10.Tentukan persentase derajat ionisasi basa tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. pH = 4 = -log [H\u207a]<br>\u00a0\u00a0\u00a0 pH = 4 - log 1 (log 1 sama dengan 0 sehingga jarang digunakan)<br>\u00a0\u00a0 \u00a0 pH = - log 1 x 10\u207b\u2074<br>\u00a0\u00a0 \u00a0 10\u207b\u2074 = \u03b1 M --&gt; M = 10\u207b\u2074/\u03b1 --&gt; M = 10\u207b\u2074/0.005 = 0.02M<br>\u00a0\u00a0 \u00a0 [H\u207a] = \u221aKa x M --&gt; 10\u207b\u2074 = \u221aKa x 0.02 --&gt; Ka = (10\u207b\u2074)\u00b2 / 0.02 = 5 x 10\u207b\u2077<br><br>2. 500ml NH\u2084OH (basa lemah) 0.1 M pH = 10<br>\u00a0\u00a0 \u00a0 pH = 14 - pOH --&gt; pOH = 14 - pH --&gt; pOH = 14 - 10 = 4<br>\u00a0\u00a0 \u00a0 pOH = -log[OH\u207b] = 4 - log 1 = -log 10\u207b\u2074 --&gt; [OH-] = 10\u207b\u2074<br>\u00a0\u00a0 \u00a0 [OH-] = \u03b1 M = \u03b1 0.1 --&gt; \u03b1 = 10\u207b\u2074/0.1 = 10\u207b\u00b3 = 1/1000<br><br>Semoga bermanfaat dan dapat membantu, mohon maaf apabila terdapat kesalahan atau kurang teliti.<br><br><br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-larutan-penyangga-penting-dalam-cairan-tubuh-418",
+            "question": "Mengapa larutan penyangga penting dalam cairan tubuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena larutan penyangga berfungsi untuk memepertahankan pH darah dan lain lain agar pH\u00a0tetap netral (7) tidak asam maupun basa.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membedakan-propanol-dengan-propanon-922",
+            "question": "Bagaimana cara membedakan propanol dengan propanon?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>cara membedakannya dengan menambahkan zat oksidator (KMnO4 atau K2CrO4 dll), ketika ditambahkan zat oksidator maka :<br>1 propanol akan teroksidasi menjadi aldehida (alkanal) yaitu 1 propanal<br>2 propanlo akan teroksidasi menjadi keton (2 - propanon)<br>2 metil 2 propanol tidak akan teroksidasi (tidak terjadi reaksi)<br><br>jika jawaban saya terbaik pilih jadi yang terbaik ya :)<br>semoga bermanfaat :)</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

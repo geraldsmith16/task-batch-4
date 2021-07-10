@@ -1,0 +1,146 @@
+{
+    "question": "sisi2 suatu segitiga sembarang membentuk barisan aritmatika . jika sisi terpendek 6cm dan sisi terpanjang 14 cm,maka sisi\u00a0keliling segitga tersebut adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Diketahui sisi terpendek =\u00a0U1 = a = 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi terpanjang =\u00a0U3 = 14<br>Ditanya keliling?<br><br>pertama harus mencari \u00a0beda,<br>Un = a + (n - 1)b misalkan menggunakan U3<br>U3 = 6 + (3 - 1)b<br>14 \u00a0= 6 + 2b<br>14 - 6 = 2b<br>\u00a0 \u00a0 \u00a0 8 = 2b<br>\u00a0 \u00a0 \u00a0 b = 8/2<br>\u00a0 \u00a0 \u00a0 b = 4<br><br>berarti sisi yang belum diketahui adalah U2<br>menggunakan rumus Un<br>Un = a + (n - 1)b<br>U2 = 6 + (2 - 1) 4<br>\u00a0 \u00a0 \u00a0= 6 + 4<br>\u00a0 \u00a0 \u00a0= 10<br><br>keliling segitiga = sisi + sisi + sisi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 6 + 10 + 14<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 30 cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "gradien-garis-dari-persamaan-3x-6y-5-0-adalah-220",
+            "question": "Gradien garis dari persamaan 3x - 6y + 5 = 0 adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a06y = 3x + 5<br><br>jadi gradienya 3<br>atau y = 1/2 x + 5/6<br>gradien y = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = -a/b = -3/-6 = 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-ayam-membeli-300-ekor-ayam-dari-peternak-dengan-238",
+            "question": "Seorang pedagang ayam membeli 300 ekor ayam dari peternak dengan harga rata-rata Rp.6.000,00 kemudian dijualnya dipasar. hari pertama ia menjual 180 ekor ayam dengan harga Rp.10.000,00 tiap ekor. ternyata pada hari kedua 100 ekor ayam mati karena flu burung dan sisanya berhasil di jual dengan harga Rp.9.000,00 tiap ekor.    jawablah pertanyaan di bawah ini!\u00a0\r\na. untung atau rugikah pedagang tersebut?\r\nb. berapakah presentase keuntungan atau kerugiannya?\r\n(jawabnya pake cara yahh...)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga beli = 6000 x 300 = 1.800.000<br>harga jual = penjualan1 Rp 10.000 x 180 = 1.800.000<br>penjualan2 Rp 9000 x 20 = 180.000<br><span>harga jual seluruhnya = 1.980.000\u00a0</span><br><span>a. penjual tersebut untung karena harga jualnya lebih banyak dibandingkan harga beli<br>b. presentase keuntungan = untung : harga beli x 100% = 180.000 : 1.800.000 x 100 % = <strong>10%</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-sisi-miring-25-cmjika-salah-s-132",
+            "question": "sebuah segitiga siku-siku memiliki sisi miring 25 cm.jika salah satu sisi siku-sikunya 7 cm,maka sisi siku-siku yang lain nya adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sisi yang lain =\u00a0\u221a25\u00b2 - 7\u00b2 =\u00a0\u221a625-49 =\u00a0\u221a576 = 24cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "(25 x 25) - (7 x 7)= 625 - 49= <span>\u221a</span>576 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-selembar-karton-berukuran-60cm-x-40cm-dibuat-sebuah-kerucut-644",
+            "question": "Dari selembar karton berukuran 60cm x 40cm dibuat sebuah kerucut dengan panjang diameter alas 20cm dan tinggi 10\u221a3 cm. tentukan luas sisa karton yang tidak terpakai!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L. karton - luas permukaan kerucut<br>L. karton = 60*40 = 2400 cm<br>luas permukaan kerucut = [tex] \\pi r (r+s)[/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = [tex]3,14*10 (10+20)[/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =942 cm<br>jd sisa = 2400 - 942 = 1458 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-perbandingan-jumlah-ayam-ali-degan-umi-adalah-4-7-jika-juml-435",
+            "question": "1. Perbandingan jumlah ayam Ali degan Umi adalah 4 : 7. Jika jumlah ayam Umi 63 ekor, maka jumlah ayam Ali dan Umi adalah..    2. Untuk menempuh jarak 135 km, sebuah\u00a0mobil\u00a0memerlukan bahan bakar 10 liter. Jika dalam tangki masih tersedia bahan bakar 10 liter dan mobil tersebut akan menempuh jarak 300km, maka bahan bakar\u00a0minimal\u00a0yg harus ditambahkan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. A : U = 4 :7<br>11/7 x 63 = 99 ekor jumlah ayam ali dan umi\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. ayam Ali:ayam umi<br>\u00a0\u00a0 \u00a0 4 : 7<br>jika,x = jlh ayam ali<br>maka,\u00a0 4/7 = x/63<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  x =\u00a0 (63 . 4) :7<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 36<br>sehingga, jumlah ay. ali +umi = 36 +63 = 99 ekor<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ciri-persamaan-linear-dengan-satu-variabel-769",
+            "question": "Ciri persamaan linear dengan satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ciri-ciri Persamaan Linear Satu Variabel adalah sebagai berikut :<br>1. Mempunyai satu variabel.<br>2. Variabel berpangkat satu.<br>3. Dihubungkan dengan relasi sama dengan (=).",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut aku sih<br>\u00a01.mempunyai 1 variabel<br>\u00a02. variabel berpangkatnya yaitu satu<br>\u00a03.dan mempunyai relasi berpangkat yaitu (=) klo &lt;,&gt;,lebih dari sama dengan dan kurang dari sama dengan itu perbedaan\u00a0linear satu variabel.<br>\u00a0mudh mudh bermanfaat\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kolam-ikan-mempunyai-volume-3600-literjika-kolam-tersebu-839",
+            "question": "Sebuah kolam ikan mempunyai volume 3.600 liter.jika kolam tersebut dialiri air dengan debit 40liter/menit,maka waktu yg diperlukan untuk mengisi kolam tersebut sampai penuh adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3.600 : 40 =90 menit",
+                    "attachments": []
+                },
+                {
+                    "answer": "3600 liter : 40 liter/menit = 90 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ladang-jagung-pak-roni-berbentuk-persegi-panjangkeliling-tanah-l-788",
+            "question": "ladang jagung pak roni berbentuk persegi panjang.keliling tanah ladang itu 81 m .panjang dan lebarnya berbanding 5:4.hitunglah luas ladang itu!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2p + 2l = 81<br>2.5x + 2.4x = 81<br>10x + 8x = 81<br>18x = 81<br>x = 81 / 15<br><u>x</u> = 4,5<br><br>p = 5. 4,5 = 22,5<br>l \u00a0= 4. 4,5 = 18<br><br>Luas = pl<br>\u00a0 \u00a0 \u00a0 \u00a0 = 22,5 . 18<br>\u00a0 \u00a0 \u00a0 \u00a0 = 405 cm2",
+                    "attachments": []
+                },
+                {
+                    "answer": "P = 5/(4+5) dikali 81 : 2 = 22,5m<br>L = 4/(4+5) dikali 81 : 2 = 18m<br>luas = p dikali lebar<br>\u00a0 \u00a0 \u00a0 \u00a0= 22, 5 dikali 18m<br>\u00a0 \u00a0 \u00a0 \u00a0= \u00a0405 m<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-suku-ke-5-34-dan-suku-ke-9-222",
+            "question": "diketahui barisan aritmetika dengan suku ke-5 =34 dan suku ke -9 = 18. suku ke 25 barisan itu adalah A.-46 \u00a0 \u00a0 \u00a0B.-36 C.-42 \u00a0 \u00a0 \u00a0C.-16",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: u5= 34<br>\u00a0 \u00a0 \u00a0 u9 = 18<br><br>u5=a+4b=34<br>u9=a+8b=18<br>\u00a0 \u00a0 dikurangkan menjadi -4b=16\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=16/-4=-4<br>u5= a+4b=34<br>\u00a0 \u00a0 = a+4.(-4)=34<br>\u00a0 \u00a0 = a+(-16)=34<br>\u00a0 \u00a0 = a= 34-(-16)= 50<br>u25=a+(n-1)b<br>\u00a0 \u00a0 \u00a0 = 50+(24)-4<br>\u00a0 \u00a0 \u00a0 \u00a0=50+(-96)=-46<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-tentang-lingkaranmohon-bantu-dengan-jawaban-yg-benar-sala-113",
+            "question": "Soal tentang lingkaran,mohon bantu dengan jawaban yg benar ,    salah satu sudut pusat dari segi n beraturana adalah 36 erajat,tentukanlah:\r\na. nilai n\r\nb.besar setiap sudut segi n beraturan\r\nc.jumlah sudut n beraturan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sudut pusat =<u>\u00a0 360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n<br>36 =\u00a0 <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  n<br>n = 10<br><br>b. besar tiap sudut segi n <br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n<br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10<br>= 180 - 36 = 144\u00b0<br><br>c. total sudut n beraturan<br>= besar sudut segi n \u00d7 n<br>= 144 \u00d7 10 = 1440\u00b0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

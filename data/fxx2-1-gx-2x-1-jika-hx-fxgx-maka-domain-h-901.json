@@ -1,0 +1,138 @@
+{
+    "question": "F(x)=\u221ax\u00b2-1 g(x)=\u00a0\u221a2x-1. jika h(x)= f(x).g(x) maka domain h(x) yang memenuhi?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]h(x)= f(x).g(x) \\\\ h(x) = \\sqrt{ x^{2} -1} .  \\sqrt{2x-1}  \\\\ h(x) =  \\sqrt{ 2x^{3} -  x^{2} -2x+1 } [/tex]<br><br>Ingat di dalam akar tidak boleh\u00a0negatif..<br><br>[tex]2x^{3} -  x^{2} -2x+1 \\geq 0  \\\\  (x-1)(2x-1)(x+1)  \\geq 0[/tex]<br><br>buat garis bilangan sehingga diperoleh<br>[tex]-1 \\leq x \\leq \\frac{1}{2} ; x \\geq 1[/tex]<br>",
+            "attachments": []
+        },
+        {
+            "answer": "{ ( x^2 - 1 ) . ( 2x - 1) }^1/2<br>( 2x^3 - x^2 - 2x +1 )^1/2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-kubus-abcdefgh-tentukan-a-garis-yang-memotong-menembus-b-563",
+            "question": "pada kubus ABCDEFGH tentukan a) garis\" yang memotong / menembus bidang ABCD b) garis\" yang berpotongan dengan garis AB c) garis\" yang bersilangan dengan garis AB d) bidang\" yg berpotongan dengan bidang ABFE",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. AE, BF, CG, DH<br>b. AE, AD, BF, BC<br>c. CG, DH<br>d. ABCD, BCGD, EFGH, ADHE<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-dadu-dilemparkan-bersamaan-peluang-muncul-jumlah-kedua-mata-703",
+            "question": "Dua dadu dilemparkan bersamaan. Peluang muncul jumlah kedua mata dadu lebih dari tiga adalah..?    a. 1/36 b. 1/12 c. 6/36 d. 30/36 e. 11/12",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori\nSoal : Matematika - Peluang<br></p><span>\nKelas : XI (2 SMA)<br>\nPembahasan :<br>\nRuang sampel adalah\u00a0himpunan semua\u00a0hasil yang mungkin pada suatu\npercobaan yang dilambangkan dengan S.<br>\nTitik sampel adalah anggota-anggota dari ruang sampel.<br>\nKejadian merupakan himpunan bagian dari ruang sampel atau bagian dari hasil\npercobaan yang diinginkan.<br>\nJika S adalah ruang sampel dari suatu kejadian dengan setiap anggota S memiliki\nkesempatan muncul yang sama dan A suatu kejadian dengan A\u00a0</span>\u2282<span> S, maka peluang kejadian A adalah<br>\nP(A) = n(A)/n(S)<br>\ndimana n(A) merupakan banyak anggota dalam himpunan kejadian A dan n(S)\nmerupakan banyak anggota dalam himpunan ruang sampel S.<br><br>\nMari kita perhatikan soal tersebut.<br></span><p>Dua buah dadu dilempar Undi bersama satu kali.\u00a0<span><br>S = {(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</span></p><p>n(S) = 6\u00b2 = 36.<span><br>A = himpunan kejadian muncul mata dadu berjumlah lebih dari 3 = {</span>(1, 3), (1, 4), (1, 5), (1, 6), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</p><p>n(A) = 33</p><p><span>Peluang\nkejadian muncul mata dadu berjumlah lebih dari 3 adalah P(A) = n(A)/n(S) = 33/36 = 11/12</span></p><p><span>Semangat!</span></p><p><span>\u00a0</span><br></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kebun-berbentuk-trapesium-sama-kaki-dengan-panjang-sisi-sejajar-1-834",
+            "question": "kebun berbentuk trapesium sama kaki dengan panjang sisi sejajar 15 m , dan 25 m serta panjang kakinya 13 m\u00a0 .\u00a0 di dalam kebun dibuat taman berbentuk lingkaran dengan diameter 10 m\u00a0 luas\u00a0 tanah di luar taman .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L trapesium = 240 m2\ndan L lingkaran = 78,5 m2\n. jadi, 240-78,5 = 161, 5 meterpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmetika-berikut-a-50-46-42-807",
+            "question": "Tentukan jumlah deret aritmetika berikut:     a.) 50\u00a0+\u00a046\u00a0+\u00a042\u00a0+\u00a038\u00a0+\u00a0... sampai dengan 10 suku.\r\nb.) -\u00a022\u00a0-\u00a016\u00a0-\u00a010\u00a0-\u00a04\u00a0-\u00a0... sampai dengan 20 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. S10\u00a0= 10/2 (2.50+(10-1) .\u00a0-4)<br>S10= 5 (100-36) =320<br>b. S20 = 20/2 (2. -22+(20-1)4)<br>S20 = 10(-44+76) = 320",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2(2a+(n-1)b)<br>s10=5(100+9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0  =5(100-36)<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =5(64)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =320<br>s20=10(2.-22+19.6)<br>\u00a0\u00a0 \u00a0 \u00a0  =10(-44+114)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =10(70)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =700<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-simbol-tak-terdefinisi-dan-tak-terhingga-itu-sama-dan-252",
+            "question": "apakah simbol \"tak terdefinisi\" dan \"tak terhingga\" itu sama? dan bagaimanakah bentuk lambang \"tak terdefinisi\"? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "engga , gak sama ..\nkalo tak terdefini tuh kayak ~/~ hasilnya pasti kita gak ketahui ~ \ntapi kalo tak terhingga tuh kayak 0/0 = 0 kalo kita mau tulis 1 juga bisa , mau tulis 2 juga dst",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

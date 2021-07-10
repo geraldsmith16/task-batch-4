@@ -1,0 +1,132 @@
+{
+    "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-salmah-menabung-uang-rp-2000000-di-koperasi-sentosa-selama-1-236",
+            "question": "Bu Salmah menabung uang RP 2.000.000 di koperasi SENTOSA selama 10 bulan. Jika bunga koperasi itu sebesar 12% per tahun, jumlah tabungan Bu Salmah adalah...    *tolong kasih tau caranya juga yaa, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga = 12% : 12 (12 bln) = 1 %. 10 bln = 10%, 10 % \u00d7 2000.000 = 200.000,,,, tabungan = 2200.000... maaf kalau salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-balokkubusdan-piramid-pada-bangun-ruang-819",
+            "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus bangun ruang <br>smoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "dua-dadu-dilemparkan-bersamaan-peluang-muncul-jumlah-kedua-mata-703",
+            "question": "Dua dadu dilemparkan bersamaan. Peluang muncul jumlah kedua mata dadu lebih dari tiga adalah..?    a. 1/36 b. 1/12 c. 6/36 d. 30/36 e. 11/12",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori\nSoal : Matematika - Peluang<br></p><span>\nKelas : XI (2 SMA)<br>\nPembahasan :<br>\nRuang sampel adalah\u00a0himpunan semua\u00a0hasil yang mungkin pada suatu\npercobaan yang dilambangkan dengan S.<br>\nTitik sampel adalah anggota-anggota dari ruang sampel.<br>\nKejadian merupakan himpunan bagian dari ruang sampel atau bagian dari hasil\npercobaan yang diinginkan.<br>\nJika S adalah ruang sampel dari suatu kejadian dengan setiap anggota S memiliki\nkesempatan muncul yang sama dan A suatu kejadian dengan A\u00a0</span>\u2282<span> S, maka peluang kejadian A adalah<br>\nP(A) = n(A)/n(S)<br>\ndimana n(A) merupakan banyak anggota dalam himpunan kejadian A dan n(S)\nmerupakan banyak anggota dalam himpunan ruang sampel S.<br><br>\nMari kita perhatikan soal tersebut.<br></span><p>Dua buah dadu dilempar Undi bersama satu kali.\u00a0<span><br>S = {(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</span></p><p>n(S) = 6\u00b2 = 36.<span><br>A = himpunan kejadian muncul mata dadu berjumlah lebih dari 3 = {</span>(1, 3), (1, 4), (1, 5), (1, 6), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}</p><p>n(A) = 33</p><p><span>Peluang\nkejadian muncul mata dadu berjumlah lebih dari 3 adalah P(A) = n(A)/n(S) = 33/36 = 11/12</span></p><p><span>Semangat!</span></p><p><span>\u00a0</span><br></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-kabel-akan-dipotong-menjadi-tujuh-bagian-panjang-dari-mas-661",
+            "question": "seutas kabel akan dipotong menjadi tujuh bagian. panjang dari masing-masing kabel membentuk\u00a0 barisan geometri . jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas kabel akan dipotong menjadi 7 bagian. Panjang dari masing-masing kabel membentuk \u00a0barisan geometri . Jika bagian yang terpendek 5 cm dan terpanjang 320 cm, maka panjang kabel tersebut adalah ...</p><p><strong>Barisan geometri </strong>adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p><strong>Deret geometri </strong>adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>Banyak kabel dipotong (n) = 7</p><p>Panjang kabel terpendek (a) = 5 cm</p><p>Panjang kabel terpanjang (Un) = 320 cm</p><p>Ditanya :</p><p>Panjang kabel semula (Sn)?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio</strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>320 = 5 r\u2077\u207b\u00b9</p><p>320 = 5 r\u2076</p><p> \u00a0 \u00a0r\u2076 = [tex]\\frac{320}{5}[/tex]</p><p> \u00a0 \u00a0r\u2076 = 64</p><p> \u00a0 \u00a0r\u2076 = 2\u2076</p><p> \u00a0 \u00a0 r = 2</p><p>Jadi rasio = 2</p><p></p><ul><li><strong>Menentukan panjang kabel semula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2087 = [tex]\\frac{5 (2^{7} - 1)}{2 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{5 (128 - 1)}{1}[/tex]</p><p> \u00a0 \u00a0 = 5 \u00d7 127</p><p> \u00a0 \u00a0 = 635</p><p>Jadi panjang kabel tersebut adalah 635 cm atau 6,35 m</p><p></p><p>-------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri </h3><ol><li>Seutas tali dipotong menjadi 5 bagian. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula \u2192 https://brainly.co.id/tugas/39374</li><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang kabel semula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

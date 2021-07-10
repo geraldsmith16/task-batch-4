@@ -1,0 +1,124 @@
+{
+    "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. GAYA GESEKAN<span><br>\nYaitu gaya sentuh yang muncul jika permukaan dua zat padat bersentuhan \nsecara fisik, dimana arah gaya gesekan sejajar dengan permukaan bidang \ndan selalu berlawanan dengan arah gerak relatif antara ke dua benda \ntersebut.\u00a0</span><span><br></span>Ada dua jenis gaya gesekan yang bekerja pada benda, yaitu:\u00a0<span><br></span>a. Gaya Gesekan Statis ( fs )Gaya\n gesekan statis bekerja saat benda dalam keadaan diam dan nilainya mulai\n dari nol sampai suatu harga maksimum. Jika gaya tarik/dorong yang \nbekerja pada suatu benda lebih kecil dari gaya gesekan statis maksimum, \nmaka benda masih dalam keadaan diam dan gaya gesekan yang bekerja pada \nbenda mempunyai besar yang sama dengan nilai gaya tarik/dorong pada \nbenda tersebut. Besarnya gaya gesekan statis maksimum adalah :<span><br></span><span><br><br><br><br>\ndimana \u00b5s adalah koefisien gesekan statis dan N adalah gaya Normal.<br><br>\nBesarnya gaya normal ( N ) tergantung besarnya gaya tekan benda terhadap\n bidang secara tegak lurus. Keterangan lebih lanjut tentang gaya Normal \nsilahkan baca lebih detail dalam artikel saya yang lain dengan mengklik \nlink di bawah ini :<br>Dinamika Gerak Lurus IDinamika Gerak Lurus IIdalam 2 artikel di atas sebenarnya rumus-rumus yang berkaitan \ndengan gaya gesekan telah dibahas. Sehingga pembahasan saya kali ini \nlebih menekankan pada aspek teoritis dan contoh soal untuk menambah \nkepahaman.<br><br>b. Gaya gesekan kinetis ( fk )<br>\nGaya gesekan kinetis yaitu gaya gesekan yang bekerja pada benda ketika \nbenda sudah bergerak. Nilai gaya gesekan kinetis selalu tetap, dan \ndirumuskan dengan :<br><br><br><br><br><br>\ndimana \u00b5k adalah koefisien gesekan kinetis benda <br><br>\nAntara koefisien gesekan statis dan kinetis mempunyai nilai yang \nberbeda, nilai koefisien gesekan statis selalu lebih besar daripada \nnilai koefisien gesekan kinetis benda. <br><br>\nUntuk sebuah benda diam yang terletak diatas sebuah bidang datar kasar dan diberi gaya F, maka :<br><br><br>2. GAYA GESEKAN DAN HUKUM NEWTON <br><br>Hukum Newton I : Benda yang diam akan tetap diam selama jumlah \ngaya yang bekerja padanya sama dengan nol atau benda yang bergerak \ndengan kecepatan tetap akan tetap bergerak dengan kecepatan tetap selama\n resultan gaya yang bekerja padanya sama dengan nol.<br><br><br><br><br><br>Hukum Newton II :  Percepatan yang ditimbulkan oleh gaya total \npada sebuah benda berbanding lurus dengan gaya total tersebut pada arah \nyang sama  dan berbanding terbalik dengan massa dari benda.<br><br><br><br><br><br>Hukum Newton III : Jika sebuah benda memberikan gaya pada benda \nlain, maka benda itu akan mendapat gaya dari benda lain itu dengan besar\n gaya yang sama dan arah yang berlawanan dari gaya pertama.<br><br><br><br><br><br>Contoh :<br><br>Sebuah balok bermassa 4 kg terletak diam pada\u00a0 bidang datar. Hitunglah: <br>\nGaya gesekan benda dan percepatan benda jika lantai kasar dengan \u00b5s = 0,4 dan \u00b5k = 0, 2 dan :<br>\na.\u00a0\u00a0 ditarik dengan gaya F = 10 N <br>\nb.\u00a0\u00a0 ditarik dengan gaya F = 16 N<br>\nc.\u00a0\u00a0 ditarik dengan gaya F = 20 N </span><span><br><br></span>Jawaban :<br><br>\nDiagram gaya untuk kasus ini adalah sebagai berikut :<br><br>Untuk kasus ini ( benda diam ), maka kita harus menguji besarnya gaya gesekan statis (fs) dan gaya gesekan kinetis (fk).<br><br><br><br><br><br><br><br>\nDari hukum Newton II yaitu \u03a3F = \u03a3ma <br>\nKearah vertikal (sumbu y), benda diam (a = 0) <br>\n\u03a3F = 0 <br>\nN \u2013 w = 0 sehingga N = w<br>\nN = m g  <br>\nN = 4 . 10 = 40 N <br><br>\n\u2022  Besarnya gaya gesekan statis fs adalah <br><br>\nfs   = \u00b5s.N = 0,4.40  = 16 N<br><br>\n\u2022  Besarnya gaya gesekan kinetis fk  adalah <br><br>\nfk = \u00b5k.N = 0,2.40  = 8 N<br><br>\na.  untuk F = 10 N <br>\nKarena gaya F &lt; fS maka balok masih dalam keadaan diam, sehingga gaya gesekan yang  bekerja pada benda adalah   fg = F = 10 N<br><br>\nb.  untuk F = 16 N<br>\nKarena F = fs, maka balok masih juga dalam keadaan diam (keadaan ini \nsering disebut dengan  benda tepat saat akan bergerak), maka besarnya \ngaya gesekan adalah   fg = F = fs = 16 N<br><br>\nc.  untuk  F = 20 N<br>\nKarena F &gt; fs maka balok dapat bergerak, sehingga gaya gesekan yang \ndigunakan adalah gaya gesekan kinetis, yaitu sebesar 8 N. Percepatan \nuntuk benda yang bergerak ini dapat dihitung dengan menggunakan Hukum \nNewton II, Karena benda bergerak pada arah sumbu x, maka :<br><br>\n\u03a3Fx\u00a0\u00a0\u00a0 = m.a <br>\nF \u2013 fk\u00a0 = m.a <br>\n20 \u2013 8 = 4a <br>\na\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 m/s2<br><br>\nDari sini dapat kita lihat, bahwa pada benda bekerja gaya gesekan statis\n atau kinetis, tergantung pada seberapa besar gaya yang bekerja pada \nbenda. Khusus untuk gaya gesekan statis sebenarnya memiliki nilai dari \nminimum hingga nilai maksimalnya yaitu fs (ketika benda tepat akan \nbergerak), sedangkan gaya gesekan kinetis hanya memiliki satu nilai \nsaja. Sehingga grafik hubungan antara gaya luar dan gaya gesekan yang \nmempengaruhi benda yang dalam keadaan diam, dapat digambarkan sebagai \nberikut :<br><br><span></span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "beban-75-gram-digantungkan-vertikal-pada-sebuah-pegas-bergetar-tu-210",
+            "question": "Beban 75 gram digantungkan vertikal pada sebuah pegas bergetar turun naik dengan frekuensi 3 Hz.Jika beban tersebut dikurangi sebesar 1/3 nya,maka frekuensinya menjadi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa beban mula-mula m <br>\nmassa beban setelah dikurangi sepertiganya m&#039; = \u2154 m <br><br><br>\nf = 1/2\u03c0 \u221a(k/m) <br><br><br>\nf &#039;....1/2\u03c0 \u221a(k/m&#039;) <br>\n-- = ------------------- <br>\nf......1/2\u03c0 \u221a(k/m) <br><br>\nf &#039; / f = \u221a(m/m&#039;) <br><br>\n....f&#039; = f \u221a(m/m&#039;) <br>\n......= 3 \u221a(m / \u2154m) <br>\n......= 3 \u221a(3/2) <br>\n......= 1,5 \u221a6 <br>\n......\u2248 3,67 Hz <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578",
+            "question": "benda x berada di depan cermin cekung dengan jari-jari kelengkungan 0,2m. jika bayangan terbentuk pada jarak 0,6m di depan cermin hitung jarak benda x di depan cermin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>PEMBAHASAN</h3><p><em>Marilah kita ingat kembali rumus yang berlaku di cermin sebagai berikut ini:</em></p><p>[tex]\\boxed{\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}}[/tex]</p><p><em>dimana :</em></p><p><em>S = jarak benda ( meter )</em></p><p><em>S&#039; = jarak bayangan ( meter )</em></p><p><em>f = fokus cermin ( meter )</em></p><p>[tex]\\texttt{ }[/tex]</p><p><u>Diketahui:</u></p><p>jarak bayangan = S&#039; = 0,6 m</p><p>jari-jari kelengkungan cermin = R = 0,2 m</p><p>jarak fokus cermin = f = R/2 = 0,2/2 = 0,1 m</p><p><u>Ditanyakan:</u></p><p>jarak benda = S = ?</p><p><u>Penyelesaian:</u></p><p><em>Kita akan mencari jarak benda dengan cara sebagai berikut ini:</em></p><p>[tex]\\frac{1}{S} + \\frac{1}{S&#039;} = \\frac{1}{f}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{1}{f} - \\frac{1}{S&#039;}[/tex]</p><p>[tex]\\frac{1}{S} = \\frac{S&#039; - f}{S&#039; \\times f}[/tex]</p><p>[tex]S = \\frac{S&#039; \\times f}{S&#039; - f}[/tex]</p><p>[tex]S = \\frac{0,6 \\times 0,1}{0,6 - 0,1}[/tex]</p><p>[tex]S = \\frac{0,06}{0,5}[/tex]</p><p>[tex]\\boxed{S = 0,12 \\texttt{ m}}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Kesimpulan :</h3><p>Jarak benda di depan cermin adalah sebesar <strong>0,12 meter</strong></p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut:</h3><p><strong>Lensa Cembung</strong> : https://brainly.co.id/tugas/20987845</p><p><strong>Cermin Cembung</strong> : https://brainly.co.id/tugas/21150959</p><p>[tex]\\texttt{ }[/tex]</p><p>-----------------------------</p><h3>Detil Jawaban:</h3><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : Fisika</p><p><strong>Bab</strong> : Alat-Alat Optik</p><p><strong>Kode</strong> : 11.6.11</p><p>#AyoBelajar</p>",
+                    "attachments": [
+                        "answer-attachments/benda-x-berada-di-depan-cermin-cekung-dengan-jari-jari-kelengkung-578-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-pernyataan-berikut-ini-yang-merupakan-teori-atom-menurut-dalto-169",
+            "question": "1. Pernyataan berikut ini yang merupakan teori atom menurut Dalton adalah \u2026    a. bagian terkecil dari suatu atom adalah elektron\r\n\r\n b. sebagian besar massa atom terkumpul pada intinya\r\n\r\n c. elektron dari suatu unsur sama dengan elektron dari unsur lain\r\n\r\n d. atom dari unsur-unsur yang sama mempunyai sifat yang juga sama\r\n\r\n e. elektron pada suatu unsur tidak dapat bergabung dengan atom unsur lain",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawaban nya A kalau gak salah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-4-kg-ditembak-dengan-sebutir-peluru-bermass-903",
+            "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-75-gram-air-yg-suhunya-0-derajat-c-dicampur-dengan-50-gram-a-297",
+            "question": "Jika 75 gram air yg suhunya 0 derajat C dicampur dengan 50 gram air yang suhunya 100 derajat C maka suhu akhir campuran itu adalah...    please tlong dijawab !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Saya coba jawab ya.<br>Q1=Q2<br>m.c.\u0394t=m.c.\u0394t<br>Karena c sama jadi dicoret<br>75.(tx-0)=50.(100-tx)<br>75tx=5000-50tx<br>75tx+50tx=5000<br>125tx=5000<br>tx=40<br>jadi suhu akhir campuran 40 derajat<br>MAAF KALAU SALAH :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-oleh-p-650",
+            "question": "batang panjangnya 1 m bergerak dengan kecepatan v. diamati oleh pengamat yang diam panjang batang menjadi 80 cm. bila c=kecepatan cahaya, maka kecepatan batang itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=80 cm&gt; 0.8 m<br>Lo = 1 m<br>L = Lo/y &gt; y= Lo/L &gt; y= 1/0.8 &gt; y= 5/4<br>dengan menggunakan rumus pitagoras maka V = 3/5c (0.6c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pipa-u-diisi-dengan-air-rho1000-kgm3-kemudian-ditambahkan-mi-873",
+            "question": "Pipa U diisi dengan air (rho=1000 kg/m\u00b3) kemudian ditambahkan minyak setinggi 20 cm. Jika selisih permukaan air pada kedua kaki 16 cm berat maja jenis minyak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rho minyak \u00d7 tinggi minyak = rho air \u00d7 tinggi air <br>rho minyak = 1000 \u00d7 4 \u00f7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4000 \u00f7 20<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 Kg / m\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-berapa-elektron-dalam-muatan-1-c-dan-berapakah-massa-elektro-584",
+            "question": "Ada berapa elektron dalam muatan 1 C, dan berapakah massa elektron elektron itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 columb =\u00a0<span>\u00a06.241</span>\u00d710^<span>18 elektron<br><br>massa elektron =\u00a0</span><span>\u00a09,109 \u00d7 10^\u221231 kilogram, <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0ataupun setara dengan 5,489 \u00d7 10^\u22124 satuan\u00a0</span>massa<span>\u00a0atom</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-fokus-sebuah-cermin-cekung-8-cm-tentukan-letak-perb-163",
+            "question": "1. \u00a0 \u00a0jarak fokus sebuah cermin cekung 8 cm tentukan letak perbesaran dan jarak \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bayangan jika jarak benda sejauh 2o cm. \u00a0 2. \u00a0 sebuah benda terletak 30 cm di depan cermin dengan jarak fokus 15 cm. tentukan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a. jarak bayangan \u00a0 \u00a0 \u00a0 \u00a0b. perbesaran bayangan \u00a0 \u00a0 \u00a0 \u00a0c. sifat sifat bayangan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk nomor 1 aja ya<br>1/8 = 1/20 + 1/s&#039;<br>1/s&#039; = 1/8 - 1/20<br>1/s&#039; = 5/40 - 2/40<br>s&#039; = 40/3 = <strong><em>13,3 cm</em></strong> <u>(pembuktiannya titik fokus berada di 8cm maka titik M berada di 16 cm sehingga benda berada di ruang 3, untuk cermin cekung titik O-F itu ruang 1, F-M ruang 2, M kebelakang ruang 3, dibelakang cermin ruang 4, rumus untuk letak benda dan perbesaran secara sederhana adalah ruang benda + ruang bayangan = 5, tadi benda ada di ruang 3, maka 3 + x = 5, maka x = 2, terbukti bahwa bayangan berada di ruang 2 karena jaraknya 13,3 cm)</u><br>Perbesaran s&#039;/s = 13,3/8 = <em><strong>1,6x</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

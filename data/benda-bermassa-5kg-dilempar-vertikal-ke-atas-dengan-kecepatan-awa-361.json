@@ -1,0 +1,140 @@
+{
+    "question": "benda bermassa 5kg dilempar vertikal ke atas dengan kecepatan awal 10m/s,besarnya energi potensial di titik tertinggi yang dicapai\u00a0benda adalah?(g= 10m/s2)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong><u>[USAHA ENERGI]</u></strong><br><br><strong>DIketahui:</strong><br>m=5 kg<br>vo= 5m/s<br>g=10 m/s\u00b2<br>\u03b1=90\u00b0\u21d2dilempar keatas<br><strong>Ditanyakan: </strong>Ep saat h max?<br><strong>Dijawab:</strong><br>Cari dahulu h max:<br>h max =<u> vo\u00b2.sin\u00b2\u03b1\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>10\u00b2 . sin\u00b2 (90)</u> \u00a0 \u00a0\u21d2 sin 90=1 maka 1\u00b2\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>100. 1\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 meter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>Maka energi potensial saat h max:<br>Ep = m. g . h\u00a0max\u00a0<br>\u00a0 \u00a0 \u00a0 = 5 . 10 . 5<br>\u00a0 \u00a0 \u00a0 = 250 J<br><br><strong>Jelas ya.\u00a0</strong>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bola-konduktor-berjari-jari-2-cm-dan-diberi-muatan-1mc-493",
+            "question": "sebuah bola konduktor berjari-jari 2 cm dan diberi\u00a0muatan 1\u03bcC. Besar potensial Listrik berjarak 3 cm dari pusat bola konduktor adalah.... ( 1\u00a0\u03bcC = 10\u207b\u2076 C )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik r1 = 2 cm = 0,02 m<br>\u00a0 \u00a0 \u00a0 r2= 3 cm = 0,03 m<br>\u00a0 \u00a0 \u00a0 \u00a0k = 9 x 10^9 N^2/C^2<br>\u00a0 \u00a0 \u00a0 \u00a0q = 1\u03bcC = 1x10^-6 C<br>Dit\u00a0\u0394V ?<br>jawab.<br><br>\u0394V = V1-V2 = k.[tex] \\frac{q}{r1} [/tex] - k .[tex] \\frac{q}{r2} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a09 x 10^9\u00a0([tex] \\frac{1x10^-6}{0,02} [/tex]) -\u00a09 x 10^9 ([tex] \\frac{1x10^-6}{0,03} [/tex])<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4,5 x 10^5 - 3 x 10^5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1,5 x\u00a010^5 Volt<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-gabus-berada-di-puncak-puncak-gelombang-keduanya-berger-852",
+            "question": "dua buah gabus berada di puncak-puncak gelombang. keduanya bergerak naik turun di atas permukaan air laut sebanyak 20 kali dalam waktu 4 detik mengikuti gelombang air laut. jika jarak kedua gabus 100 cm dan diantaranya terdapat 2 lembah dan satu bukit maka frekuensi gelombang dan ceoat rambat gelombang berturut-turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f : 20/4 =5\nv : f x (lambda / panjang gelombang)\nv : 5 x (100 cm = 1 m)\n     5 x 1 = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bandul-yabg-di-ikat-seutas-tali-1-m-di-putar-secara-horizo-570",
+            "question": "sebuah bandul yabg di ikat seutas tali 1 m di putar secara horizontal dan memiliki kecepatan sudut putaran bandul 20 rad/s . kecepatan sudut ketika tali diperpendek menjadi 0,5 meter yaitu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik :<br></span>R\u2081 = 1 m<br>w\u2081 = 20 rad/s<br>R\u2082 = 0,5<br>Dit :\u00a0w\u2082<br><span>Penyelesaian :\u00a0<br>L</span>\u2081\u00a0<span>=\u00a0L</span>\u2082<br>Iw\u2081=Iw\u2082<br>mR\u2081\u00b2\u00a0\u00b7\u00a0w\u2081=mR\u2082\u00b2\u00a0\u00b7\u00a0W\u2082<br><br>[tex] W_{2}= \\frac{W_{1}.R_{1}^{2}}{R_{2}^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20.1^{2}}{(0,5)^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20}{0,25}  [/tex]<br><br>[tex] W_{2}= 80  [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-sepatu-wanita-memiliki-hak-atau-tumit-kecil-lebih-memungk-176",
+            "question": "mengapa sepatu wanita memiliki hak atau tumit kecil lebih memungkinkan merusak lantai kayu daripada sepatu yang memiliki hak atau tumit besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena semakin kecil luas permukaan suatu benda maka tekanan yang diberikan semakin besar tetapi semakin besar luas permukaan benda maka tekanan yang diberikan semakin kecil sehingga diperoleh rumus P = F/A<br>jadi luas permukaan lebih sempit dapat menghasilkan kerusakan lebih besar dibanding luas permukaan benda yang lebih besar.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-yang-berisi-1200-m3-gas-panas-dan-dan-p-08-kgm3-670",
+            "question": "sebuah balon yang berisi 1200 m*3 gas panas dan dan p= 0,8 kg/m*3 diikat di tanah massa balon (tidak termasuk gas panas) 400 kg dan massa jenis udara 1,3 kg/m*3 :\u00a0 A. menapa balon akan naik jika tidak diikat ditanah B. hitung gaya tegangan tali yang menahan balon tetap ditanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. karena dalam balon terdapat gas, sehingga balon terangkat keatas",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-reaksi-fusi-berikut-diketahui-massa-943",
+            "question": "Perhatikan reaksi fusi berikut\u00a0    \r\n\r\nDiketahui : Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0 = 0,00055 sma\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 sma = 931 MeV\u00a0\r\n\r\nmaka nilai E (energi yang dihasilkan) pada reaski fusi tersebut adalah\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar defek massa adalah jumlah massa sebelah kiri tanda --&gt;, dikurangi massa sebelah kanan tanda --&gt;. Setiap 1 sma memiliki energi sebesar 931 MeV\u00a0<br><br>E =\u00a0[tex]\\triangle m . 931 MeV [/tex]\u00a0<br>\u00a0 \u00a0=\u00a0[tex][(m_{_1H^1}+m_{_1H^1})-(m_{_1d^2}+m_{_1^2e})].931 MeV[/tex]<br>\u00a0 \u00a0= [(1.0078+1.0078)-(2.01410+0.00055)].931<br>\u00a0 \u00a0= 0.88445\u00a0[tex]M_eV[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D<br><br>by : Crow Art.",
+                    "attachments": [
+                        "answer-attachments/perhatikan-reaksi-fusi-berikut-diketahui-massa-943-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-penampang-piston-i-sama-dengan-5-kali-piston-ii-j-742",
+            "question": "Diketahui luas penampang piston I sama dengan 5 kali piston II. Jika pada piston I diberi beban 4Kg, berapa beban yang harus diberikan pada pisto II agar sistem dalam keadaan seimbang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Penerapan hukum Pascal yaitu pada pengungkit hidrolik. Rumus pada hukum Pascal yaitu F\u2081/A\u2081 = F\u2082/A\u2082. </p><br><h3>Pembahasan</h3><p>Berdasarkan soal diatas diketahui bahwa:</p><ul><li>luas penampang piston I sama dengan 5 kali piston II -&gt; A\u2081 = 5, A\u2082 = 1</li></ul><ul><li>Jika pada piston I diberi beban 4Kg -&gt; m = 4 kg</li></ul><p>Adapun yang ditanyakan pada soal adalah menentukan gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang (F\u2082).</p><p>Untuk menyelesaikan soal diatas pertama - tama kita mencari gaya beban pada penampang I terlebih dahulu dengan cara sebagai berikut:</p><p>F\u2081= m \u00d7 g</p><p>F\u2081= 4 \u00d7 10</p><p>F\u2081 = 40 N</p><p>Nah, setelah diketahui gaya beban penampang piston I, maka langkah yang digunakan untuk mencari gaya beban pada penampang piston II yaitu sebagai berikut:</p><p>F\u2081/A\u2081 = F\u2082/A\u2082</p><p>40/5 \u00a0= F\u2082/1</p><p>40 \u00d7 1 = F\u2082 \u00d7 5</p><p>40 = F\u2082 \u00d7 5</p><p>F\u2082 = 40/5</p><p>F\u2082 = 8 N</p><p>Dengan demikian dapat disimpulkan bahwa besarnya gaya beban yang harus diberikan pada piston II agar sistem dalam keadaan seimbang adalah <strong>8 N.</strong></p><br><h3>Pelajari lebih lanjut</h3><p>1. gaya minimum pada penampang kecil: https://brainly.co.id/tugas/15635353</p><p>2. gaya untuk mengangkat mobil: https://brainly.co.id/tugas/15761778</p><p>3. gaya untuk mengangkat beban: https://brainly.co.id/tugas/15814409</p><br><h3>Detil jawaban</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> fluida</p><p><strong>Kode:</strong> 8.6.3</p><br><p><strong>Kata kunci:</strong> Hukum pascal, gaya tekan dan luas penampang</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-hubungan-yg-terjadi-antara-tanaman-sirih-yg-tumbuh-meramba-860",
+            "question": "bentuk hubungan yg terjadi antara tanaman sirih yg tumbuh merambat di pohon mangga sama dengan bentuk hubungan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggrek dengan tanaman jambu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau salah nggak apa apa ya?<br>anggrek dengan pohon,ikan badut dan anemon laut,ikan ramora dan ikan hiu,tumbuhan paku dan pohon jati<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-saja-yang-digunakan-untuk-membuat-galvanometer-dan-m-432",
+            "question": "jelaskan apa saja yang digunakan untuk membuat galvanometer dan motor listrik. apa yang diperlukan untuk membuat motor listrik , namun tidak diperlukan dalam pembuatan galvanometer ? mengapa alt tersebut diperlukan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan dan alat membuat motor litrik ;\u00a0<br>-kabel tembaga beremail\u00a0<br>- satu buah maget batang<br>-batery pack<br>-styrofoam<br>- kater<br>-spidol<br>-tusuk gigi<br>alasannya ; alt tersebut harus diperlukan agar buatan motor listrik tersebut jadi sempurna apabila tidak lengkap maka hasilnya akan kurang baik.",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada motor listrik butuh batrai sedangkan pada galvanometer tidak membutuhkan batre. karena sumber listrik dari motor listrik dari batre sedangkan  pada galvanometer sumber listrik dari rangkaian listrik yg di pasang pada galvanometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantujembatan-ponton-dibuat-dari-drum-yang-terapung-843",
+            "question": "Tolong dibantu....Jembatan ponton dibuat dari drum yang terapung diatas permukaan air. Setiap drum terisi udara sehingga terapung diatas permukaan air. Setiap drum terisi udara sehingga secara keseluruhan bermassa 20kg dan volume rata-rata 2m\u00b3. Tentukan berat beban maksimum yang dapat ditahan oleh drum tersebut...    a. 2x10\u2077 N\r\nb. 2x10\u2076 N\r\nc. 2x10\u2075 N\r\nd. 2x10\u2074 N\r\ne. 2x10\u00b3 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. m = 20 kg<br>\u00a0\u00a0 \u00a0 \u00a0 V = 2 [tex] m^{3} [/tex] = 2000 liter<br>Fa = V . g<br>\u00a0\u00a0 \u00a0 = 2.000 x 10<br>\u00a0\u00a0 \u00a0  = 2 x [tex] 10^{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

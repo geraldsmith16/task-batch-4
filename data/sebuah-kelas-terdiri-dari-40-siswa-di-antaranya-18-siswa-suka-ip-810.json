@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah kelas terdiri dari 40 siswa, di antaranya 18 siswa suka ipa, 23 suka ips, 8 siswa suka kedua-duanya dan x siswa yg tidak suka keduanya,tentukan;    a. nilai x\r\n\r\n#mohon bantuannya yah sebelumnya makasih banyak",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(40 - 10 -\u00a08 - 15 )=\u00a07 orang",
+            "attachments": []
+        },
+        {
+            "answer": "jumlah = 40<br>yang suka ipa=18<br>yang suka ips = 23<br>yang suka ipa dan ips =8<br>yang hanya suka ipa = 18-8 =10<br>yang hanya suka ips = 23-8 =15<br>yang tidak suka keduanya = 40 - (8+10+15)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 40 - 33<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-201714118adalah-963",
+            "question": "Suku ke-50 dari barisan bilangan 20,17,14,11,8.....adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p>Penjelasan dengan langkah-langkah:</p><p><em><strong>Diketahui:</strong></em></p><p>a = 20</p><p>b = -3</p><p><em><strong>Ditanya:</strong></em></p><p>U\u2085\u2080 = ... ?</p><p><em><strong>Jawab:</strong></em></p><p>Gunakan rumus \u2193</p><p>Un = a + (n - 1)b</p><p>U\u2085\u2080 = 20 + (50 - 1)(-3)</p><p> \u00a0 \u00a0 \u00a0= 20 + (49)(-3)</p><p> \u00a0 \u00a0 \u00a0= 20 - 147</p><p> \u00a0 \u00a0 \u00a0= -127</p><p><u><em><strong>suku ke-50 dari barisan bilangan 20, 17, 14, 11, 8 ..... adalah -127</strong></em></u></p><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>https://brainly.co.id/tugas/13398117</li><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-satelit-mengorbit-sejauh-900-km-di-atas-permukaan-bumi-pa-803",
+            "question": "Sebuah satelit mengorbit sejauh 900 km di atas permukaan bumi. panjang jari-jari bumi 6.400 km dan orbitnya dianggap lingkaran.    hitunglah:\r\na.panjang jari2 orbitnya\r\nb. jarak yang ditempuh satelit dalam satu kali orbit.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas: 8<br>Mapel: Matematika<br>Kategori: Ligkaran<br>Kata kunci: keliling lingkaran<br>Kode: 8.2.6 (Kelas 8 Matematika Bab 6-Lingkaran)<br><br><span>Sebuah satelit mengorbit sejauh 900 km di atas permukaan bumi. panjang jari-jari bumi 6.400 km dan orbitnya dianggap lingkaran.\u00a0<br>hitunglah:<br>a.panjang jari-jari orbitnya<br>b. jarak yang ditempuh satelit dalam satu kali orbit.<br><br>Pembahasan:<br>ketinggian satelit = 900 km<br>panjang jari-jari bumi = 6400 km<br>(orbitnya dianggap lingkaran)<br><br>a. panjang jari-jari orbit = panjang jari-jari bumi + ketinggian satelit<br>= 6.400 km + 900 km<br>= 7.300 km<br><br>Jadi, panjang jari-jari orbitnya adalah 7.300 km<br><br>b.\u00a0</span>Rumus keliling lingkaran:<span>\\boxed {K=2\\pi r}\u00a0</span>jarak yang ditempuh satelit dalam satu kali orbit\u00a0= 2\u00a0\u00d7 3,14\u00a0\u00d7 7.300 km\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 45.844 km<br><br>Jadi, jarak yang ditempuh satelit dalam satu kali orbit adalah 45.844 km<br><br>Soal lainnya tentang panjang lintasan yang ditempuh satelit :<br>https://brainly.co.id/tugas/14122794<br><br>Semangat belajar!<br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/sebuah-satelit-mengorbit-sejauh-900-km-di-atas-permukaan-bumi-pa-803-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "yono-mendapatkan-gaji-sebesar-rp-1800000-dengan-gaji-tidak-ken-318",
+            "question": "yono mendapatkan gaji sebesar Rp. 1.800.000 dengan gaji tidak kena pajak Rp. 400.000 besar pajak penghasilan (PPh) sebesar 15% Tentukan besar gaji yang diterima yono",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15/100 x Rp1.800.000 = Rp270.000\u00a0<br>Rp270.000+Rp400.000=Rp670.000\u00a0<br><br>Rp1.800.000 + Rp670.000 = Rp2.470.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-besar-salah-satu-sudut-pusat-segi-n-beraturan-adalah-15maka-162",
+            "question": "Jika besar salah satu sudut pusat segi-n beraturan adalah 15,maka jumlah besar sudut segi-n tersebut adalah. . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus : Besar sudut pusat segi n = 360/n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 15\u00a0 \u00a0 \u00a0\u00a0 = 360/n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n\u00a0 \u00a0 \u00a0\u00a0 = 360/15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n\u00a0 \u00a0 \u00a0\u00a0 = 24<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perseg kan ada 4 sisi yg\u00a0sama,mungkin 15x4=60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-panjang-op28cm-dan-busur-lingkaran-pq176hitung-luas-586",
+            "question": "Diketahui panjang OP=28cm dan busur lingkaran PQ=17,6.Hitung luas juring POQ",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>[tex]K = 2  \\pi r\n \\\\ K = 2~x~(22/7)~x~28~cm\n \\\\ K = 176~cm\n \\\\ \n \\\\ L =  \\pi r^2\n \\\\ L = (22/7)~x~(28~cm)^2\n \\\\ L = 2464~cm^2[/tex]<span><br><br><span>[tex]Cari~sudut~POQ[/tex]<br><span>\u2220\u00a0[tex]POQ~/\\angle~1~lingkaran = panjang~PQ~/~keliling~lingkaran[/tex]<br></span><span>\u2220\u00a0[tex]POQ~/~360^\\circ = 17,6~/~176 [/tex]<br></span><span><span>\u2220\u00a0[tex]POQ = (17,6~/~176 )~x~360^\\circ[/tex]<br>\u2220\u00a0[tex]POQ = 36^\\circ[/tex]<br></span><br></span></span></span></span>[tex]Luas~Juring~POQ~/~luas~lingkaran = \\angle POQ~/ \\angle~1~lingkaran[/tex]<br><span>[tex]Luas~Juring~POQ~/~2464~cm^2 = 36^\\circ~/~360^\\circ[/tex]<br></span><span>[tex]Luas~Juring~POQ = 0,1~x~2464~cm^2[/tex]<br></span>[tex]Luas~Juring~POQ = 246,4~cm^2[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pecahan-38-dapat-dinyatakan-dalam-bentuk-persen-menjadi-219",
+            "question": "Pecahan 3/8 dapat dinyatakan dalam bentuk persen menjadi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/8=0,375 lalu dikali 100% 0,375x100% = 37,5%<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/8 dikali 100 jadi 3x100/8 = 37,5%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-berjari-jari-5-cm-dan-15-cm-hitunglah-perband-219",
+            "question": "Dua buah lingkaran berjari-jari 5 cm dan 15 cm. Hitunglah perbandingan    a. Kedua kelilingnya;\r\n b. Selisih kelilingnya;\r\n c. Kedua luasnya;\r\n d. Selisih luasnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika-Bangun Datar<br>Kelas : 1 SMP/VII SMP<br>Pembahasan :<br><br>A. Perbandingan keliling<br>Keliling lingkaran 1 = K1 = 2\u03c0r\u2081 = 2.3,14.5 = 31,4 cm<br>Keliling lingkaran 2 =\u00a0K2\u00a0= 2\u03c0r\u2082 = 2.3,14.15 = 94,2 cm<br>K1 : K2 = 31,4 : 94,2 = 1 : 3<br><br>B. Selisih keliling<br>Selisih = K2 - K1 = 94,2 - 31,4 = 62,8 cm<br><br>C. Perbandingan Luas<br>Luas lingkaran 1 = L1 = \u03c0r\u2081\u00b2 = 3,14.5\u00b2 = 78,5 cm\u00b2<br>Luas lingkaran 2 = L2 = \u03c0r\u2082\u00b2 = 3,14.15\u00b2 = 706,5 cm\u00b2<br>L1 : L2 = 78,5 : 706,5 = 1 : 9<br><br>D. Selisih Luas<br>Selisih = L2 - L1 = 706,5 - 78,5 = 628 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469",
+            "question": "Diketahui:    S={bilangan asli kurang dari 15 }\r\nA={bilangan asli genap yang kurang dari 10}\r\nB={bilangan asli ganjil antara 1 dan 11}\r\nC={bilagan prima yang kurang dari 10}\r\nD={faktor dari 12 }\r\nnyatakan himpunan himpunan di atas dengan mendaftar anggotanya ! kemudian buatlah diagram venn untuk masing masing himpunan berikut dengan S sebagai himpunan semestanya!\r\na.S,A,DAN\u00a0B \u00a0 \u00a0 \u00a0d.S,B DAN C\r\nb.S,A DAN C \u00a0 \u00a0 \u00a0e.S,B,DAN D\r\nC.S,A DAN D \u00a0 \u00a0 \u00a0f.S,C DAN D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk anggota dari masing2 himpunannya adalah sebagai berikut<br>S={1,2,3,4,5,6,7,8,9,10,11,12,13,14 }<br>A={2,4,6,8}<br>B={3,5,7,9}<br>C={2,3,5,7}<br><span>D={1,2,3,4,6,12}<br><br>untuk diagram venn nya coba lihat gambarnya d google aja<br>diagram venn merupakan gambar diagram menggunakan lingkaran untuk masing2 himpunan,<br>jadi misalkan seperti soal A,ditanyakan adalah S, A dan B<br>karena S merupakan himpunana semstanya , maka S merupakan lingkaran terbesar<br>kemudian di dalamnya di gambar lingkaran A dan B , namun tidak bersinggungan , dikarenakan tidak memiliki anggota dengan nilai yg sama<br>dan di tiap lingkaran dituliskan masing2 anggotanya , untuk S anggota yg sdah berada di dalam A dan B , tidak ditulis kembali, dan yg belum ada di lingkaran A dan B, ditulis di luar lingkaran A dan B, namun tetap berada di dalam lingkaran S<br>untuk contoh soal a nya ada pada lampiran\u00a0<br>yg B dan seterusnya kayaknya bisa menyesuaikan :)</span>",
+                    "attachments": [
+                        "answer-attachments/diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "S= {1,2,3,4,5,6,7,8,9,10,11,12,13,14}\nA= {2,4,6,8}\nB= { 3,5,7,9}\nC= {2,3,5,7}\nD= {1,2,3,4,6,12}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-didefinisikan-dengan-rumus-fx-ax-b-jika-f-3-858",
+            "question": "Fungsi f didefinisikan dengan rumus f(x) = ax + b , jika f(-3) = -15 dan f(2) = 0 , nilai f(-5) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x) = ax + b <br>f(-3) = -3a + b =\u00a0-15 <br>f(2) = 2a + b = 0\u00a0<br>dieliminasi, -5a = -15, a = 3, jadi b = -6<br><br>nilai f(-5) = -5(3) - 6 = -21</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

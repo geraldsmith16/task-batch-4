@@ -1,0 +1,140 @@
+{
+    "question": "1.jika suatu ayunan sederhana bergetar sebanyak 60 kali dalam waktu 15 sekon . tentukan    a.frekuensi ayunan\r\nb.periode ayunan\r\n\r\n2.suatu getaran dalam suatu ayunan yang amplitudonya 2 cm memerlukan waktu 0,1 sekon, tentukan\r\na.hitunglah periode untuk simpanagn maksimun 5 cm\r\nb.hitunglah frekuensi untuk amplitudo 4 cm. \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. a. periode=n/t=60/15=4<br>\u00a0\u00a0  b. frekuensi=1/T=1/4=0,25<br>",
+            "attachments": []
+        },
+        {
+            "answer": "A<br>1. f =\u00a0[tex] \\frac{n}{t} [/tex] =\u00a0[tex] \\frac{60}{15} [/tex] = 4 Hz<br>2. T =\u00a0[tex] \\frac{t}{n} =  \\frac{15}{60} =  \\frac{1}{4} = 0,25 s[/tex]<br><br>B<br>yp = A sin 2\u03c0[tex] \\frac{t}{T} [/tex]<br>0,05 = 0,02 sin 2\u03c0\u00a0[tex] \\frac{0,1}{T} [/tex]<br>0,05 T = 0,02 sin 2\u03c0 0,1<br>T =\u00a0[tex] \\frac{0,02 . 0,01097}{0,05} = 0,0044 s [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balon-udara-berisi-udara-panas-memiliki-volume-500m3-bal-902",
+            "question": "sebuah balon udara berisi udara panas memiliki volume 500m^3. balon itu bergerak ke atas dengan kelajuan tetap di udara yang massa jenisnya 1,2 kg/m^3. massa jenis udara panas yang ada di dalam balon ketika itu adalah 0.80 kg/m^3. \u00a0 \u00a0 a. berapa massa total balon dan udara panas di dalamnya? b. berapa percepatan ke atas balon ketika suhu udara di dalam balon dinaikkan hingga massa jenisnya menjadi 0,7kg/m^3 ? \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jawab A.\u00a0<br><br>\u03a3F = 0\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = 0\u00a0<br>-m + (1.2)\u00a0500 - (0.8)\u00a0500 \u00a0 \u00a0= 0\u00a0<br>m = 200 kg\u00a0<br><br><br><br><br>Jawab B.\u00a0<br><br>\u03a3F = m a\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = M a\u00a0<br>-(200)(9.8) + (1.2)(9.8)(500) - (0.7)(9.8)(500) = (200 + 0.7 * 500) a\u00a0<br>a = 0.89 m/s\u00b2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-25-kg-dijatuhkan-tanpa-kecepatan-awal-dari-216",
+            "question": "sebuah bola bermassa 2,5 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas dan B dilantai bawah dengan perbedaan tinggui 4,0 meter. besar usaha oleh gaya berat untuk proses perpindahan bola dari A ke B adalah ... (g=10 ms)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : Vo = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 m = 2,5 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 h = 4\u00a0m<br>\u00a0 \u00a0 \u00a0 \u00a0 g = 10 m/s\u00b2<br>Dit : W?<br>Jwb : W =\u00a0\u0394Ep<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0W = m x\u00a0g x h<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0W = 2,5 x 10 x 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0W = 100 Joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tegangan-pada-seutas-kawat-yang-mendukung-sebuah-beban-tidak-berg-567",
+            "question": "Tegangan pada seutas kawat yang mendukung sebuah beban tidak bergantung pada...    a. panjang kawat\r\nb. luas penampang kawat\r\nc. masa beban\r\nd. percepatan gravitasi\r\ne. masa jenis beban",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI<br>Pelajaran : Fisika<br>Kategori : Elastisitas<br>Kata kunci : tegangan kawat,\u00a0<br><br>Pembahasan:<br><br>Berdasarkan hukum melde:<br><br>[tex]v= \\sqrt{F.l/A} [/tex]<br><br>maka :\u00a0<br>F = v\u00b2.A/l atau F = v\u00b2.\u03c1.A<br><br><br>Maka tegangan pada kawat bergantung pada:<br><br>1. Luas penampang (A)<br>2. Massa jenis kawat (\u03c1)<br>3. Panjang kawat (l)<br>4. massa beban (m), pada rumus F = kx, F = m.g<br><br>Jadi jawaban :D (percepatan gravitasi)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaa-sbuah-tabung-dengan-massa-180-kg-panjang-6-m-d-732",
+            "question": "Tolong bantu yaa    sbuah tabung dengan massa 180 kg. panjang 6 m, dan luas penampang 25 cm berdiri tegak di atas lantai maka besar tekanan berapa.... N/m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = F / A<br>= (180 . 9,8) / 0,25<br>= .... / 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "P = F/A<br>\u00a0 \u00a0= 180.10 / 0,25<br>\u00a0 \u00a0= 7200 Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-sepatu-wanita-memiliki-hak-atau-tumit-kecil-lebih-memungk-176",
+            "question": "mengapa sepatu wanita memiliki hak atau tumit kecil lebih memungkinkan merusak lantai kayu daripada sepatu yang memiliki hak atau tumit besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena semakin kecil luas permukaan suatu benda maka tekanan yang diberikan semakin besar tetapi semakin besar luas permukaan benda maka tekanan yang diberikan semakin kecil sehingga diperoleh rumus P = F/A<br>jadi luas permukaan lebih sempit dapat menghasilkan kerusakan lebih besar dibanding luas permukaan benda yang lebih besar.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gayayang-bekerjatiap-satuan-luas-disebut-121",
+            "question": "Gayayang bekerjatiap satuan luas disebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gaya yang bekerja tiap satuan luas disebut gaya tekan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gaya yang bekerja pada satuan luas adalah gaya tekanan<br><br>Semoga membantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-kohesi-dan-adhesi-400",
+            "question": "Apa yang dimaksud dengan kohesi dan adhesi \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kohesi adalah gaya tarik menarik antara partikel partikel yang sejenis. Kohesi dipengaruhi oleh kerapatan dan jarak antarpartikel dalam zat sedangkan adhesi adalah <span></span>gaya \ntarik menarik antara partikel partikel yang tidak sejenis, gaya adhesi \nakan mengakibatkan dua zat akan saling melekat bila dicampurkan.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kohesi adalah gaya tarik\u00a0antara<span>\u00a0molekul molekul zat yg sejenis.</span><br><span>contoh: gaya tarik antara molekul molekul\u00a0</span>air.<br><span>Adhesi adalah\u00a0gaya tarik menarik antara molekul molekul zat yg tidak sejenis\u00a0.</span><br><span>contoh:\u00a0 gaya tarik menarik antara molekul papan tulis dan molekul kapur dan gaya tarik menarik molekul\u00a0</span>pena<span>\u00a0dan molekul kertas</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-berada-diatas-raksa-sebuah-kubus-berisi-965",
+            "question": "sebuah tangki berisi air berada diatas raksa. sebuah kubus berisi dengan sebuah rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. Tentukan tinggi kubus yang tercelup dalam setiap cairan. Massa jenis besi dan raksa berturut-turut adalah 7,7 x 10 (pangkat 3) kg/m kubik dan 13,6 x 10 (pangkat 3) kg/m kubik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Fluida <br>Kelas: XI SMA IPA <br><br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/sebuah-tangki-berisi-air-berada-diatas-raksa-sebuah-kubus-berisi-965-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "benda-bermassa-5kg-dilempar-vertikal-ke-atas-dengan-kecepatan-a-344",
+            "question": "benda bermassa 5kg dilempar vertikal ke atas\u00a0 dengan kecepatan awal 10 m/s.kecepatan benda pada ketinggian 2,5 m di atas posisi saat melempar adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Em1=Em2<br>\u21d4Ek1+Ep1=Ek2+Ep2<br>\u21d40.5.m.10\u00b2+m.g.0=0.5.m.v\u00b2+m.g.2.5,semua ruas ada nilai m maka bisa dihilangkan,dan nilai dr Ep1=0.dan kalikan 0.5 agar setara tidak ada bil pecahan\u00a0sehingga didpt persamaan..<br>100=v\u00b2+50\u21d2v=5\u221a2.<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

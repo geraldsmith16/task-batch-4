@@ -1,0 +1,138 @@
+{
+    "question": "putri akan membuat nasi tumpeng berbentuk kerucut yang permukaannya (selimut) akan ditutup penuh dengan hiasan dari makanan. jika diameter tumpeng 28 cm dan tinggi 48 cm serta (phi : 22/7), luas tumpeng yang akan dihias makanan adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Diketahui :<br>d = 28 cm<br>r = 14 cm<br>t = 48 cm<br><br>Luas tumpeng yang akan dihias = phi x r x s<br><br>S =\u00a0\u221a14\u00b2 + 48\u00b2<br>\u00a0 \u00a0=\u221a196 + 2304 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(menggunakan konsep phytagoras)<br>\u00a0 \u00a0=\u00a050\u00a0<br><br>Luas tumpeng yang akan dihias = phi x r x\u00a0s\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u00a022\u00a0</u> x 14 x 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a07<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2200 cm\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dibantu-ya-2-jika-x-adalah-bilangan-asli-tentukanlah-himpunan-361",
+            "question": "Dibantu ya\u00a0    2. Jika x adalah bilangan asli, tentukanlah himpunan penyelesaian dari persamaan linear berikut.\u00a0:\r\na) 6x + 5 = 26 \u2013 x\u00a0\r\nb) 2 \u2013 4x = 3\u00a0\r\nc) x \u2013 12 = 2x + 36\r\n\u00a0d) -5x \u2013 4x + 10 = 1\u00a0\r\ne) 2 +\u00a04x = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Sistem persamaan linear</strong> satu variabel adalah persamaan yang hanya memiliki satu variabel yang berpangkat satu. Bentuk umumnya ax + b = c dengan a, b, c adalah bilangan bulat, a \u2260 0 dan x adalah variabel.\n</p><br><h3>Pembahasan\n</h3><br><p><strong>a) 6x + 5 = 26 \u2013 x </strong>-----&gt; kedua ruas ditambah x\n</p><p>6x + 5 + x = 26 \u2013 x + x \u00a0</p><p>7x + 5 = 26 -------------&gt; kedua ruas dikurang 5\n</p><p>7x + 5 \u2013 5 = 26 \u2013 5\n</p><p>7x = 21 ------------------&gt; kedua ruas dibagi 7\n</p><p>7x : 7 = 21 : 7\n</p><p>x = 3\n</p><p>HP = {3}\n</p><br><p><strong>b) 2 \u2013 4x = 3</strong> ------------&gt; kedua ruas dikurang 2\n</p><p>2 \u2013 4x \u2013 2 = 3 \u2013 2\n</p><p>\u20134x = 1 -------------------&gt; kedua ruas bagi (\u20134)\n</p><p>\u20134x : \u20134 = 1 : \u20134 \u00a0</p><p>x = \u2013\u00bc \u00a0</p><p>HP = {\u2013\u00bc}\n</p><br><p><strong>c) x \u2013 12 = 2x + 36</strong> -----&gt; kedua ruas dikurang 2x\n</p><p>x \u2013 12 \u2013 2x = 2x + 36 \u2013 2x\n</p><p>\u2013x \u2013 12 = 36 -------------&gt; kedua ruas ditambah 12\n</p><p>\u2013x \u2013 12 + 12 = 36 + 12\n</p><p>\u2013x = 48 --------------------&gt; kedua ruas kali (\u20131)\n</p><p>\u2013x . (\u20131) = 48 . (\u20131)\n</p><p>x = \u201348 \u00a0</p><p>HP = {\u201348}\n</p><br><p><strong>d) \u20135x \u2013 4x + 10 = 1 </strong> \u00a0</p><p>\u20139x + 10 = 1 --------------&gt; kedua ruas dikurang 10\n</p><p>\u20139x + 10 \u2013 10 = 1 \u2013 10\n</p><p>\u20139x = \u20139 --------------------&gt; kedua ruas dibagi (\u20139)\n</p><p>\u20139x : (\u20139) = \u20139 : (\u20139)\n</p><p>x = 1\n</p><p>HP = {1}\n</p><br><p><strong>e) 2 + 4x = 5</strong> ---------------&gt; kedua ruas dikurang 2\n</p><p>2 + 4x \u2013 2 = 5 \u2013 2\n</p><p>4x = 3 ------------------------&gt; kedua ruas bagi 4\n</p><p>4x : 4 = 3 : 4\n</p><p>x = \u00be \u00a0</p><p>HP = {\u00be}\n</p><br><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><br><p>Contoh soal tentang sistem persamaan linear dua variabel\n</p><p>https://brainly.co.id/tugas/1184793\n</p><br><p>--------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0\n</h3><br><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Persamaan dan pertidaksamaan satu Variabel\n</p><p><strong>Kode</strong> : 7.2.6\n</p><br><p><strong>Kata Kunci </strong>: Sistem Persamaan Linear</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-nama-nama-bulan-berawal-dari-huruf-j-314",
+            "question": "Himpunan nama\u00a0nama bulan berawal dari huruf J?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{ Januari,Juni,Juli }<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "J={Januari,juni,Juli} - metode tabulasi<br><br>J=[x|x nama nama bulan berawaln huruf J} - metode Rule<br><br>J={Nama nama bulan yang berawalan huruf J} - metode deskripsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-rasio-dari-suatu-barisan-geometri-696",
+            "question": "Cara mencari rasio dari suatu barisan geometri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-perlombaan-seorang-pembalap-sepeda-menempuh-lintasan-689",
+            "question": "Dalam suatu perlombaan, seorang pembalap sepeda menempuh lintasan berbentuk lingkaran dengan jari-jari 500m. jika pembalap tersebut menempuh jarak 15.700m, maka jumlah putaran yang ditempuh pembalap terbsebut adalah...    ad ayg bisa jawab? :D hehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling lintasan = 2 x 3,14 x 500<br>keliling lintasan =3140 m<br>banyak putaran = jarak yang ditempuh/ keliling lintasan<br>banyak putaran = 15.700/3140<br>banyak putaran = 5 kali<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-titik-p-di-luar-lingkaran-yang-berpusat-di-o-dibuat-garis-si-787",
+            "question": "Dari titik P di luar lingkaran yang berpusat di O dibuat garis singgung PA. jika panjang jari-jari 20cm dan jarak AP= 21cm maka panjang OP adalah...    pake cara yahhh :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik =\u00a0r = 20 cm<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0AP = 21 cm<br>dit = OP = ... cm<br>jwb = OP\u00b2 = AP\u00b2 + r\u00b2 = 21\u00b2 + 20\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 441 + 400<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 841<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 OP =\u00a0\u221a841 = 29<br>jadi panjang OP adalah 29",
+                    "attachments": []
+                },
+                {
+                    "answer": "21\u00b2 +\u00a0 20\u00b2<br>441 + 400<br>841 = \u221a841 = 29<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-penampung-air-berbentuk-silinder-dengan-panjang-jari2-201",
+            "question": "sebuah bak penampung air berbentuk silinder dengan panjang jari2 3 m dan tinggi 5 m. tentukan jumlah air maksimum yang dapat ditampung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V= La x t<br>V= phi r kuadrat x t<br>V= 3,14 x 3 x 3 x 5<br>V=141,3 meter kubik<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-jari-jari-lingkaran-tersebut-10-cm-dan-panjang-tali-busurnya-237",
+            "question": "Jika jari jari lingkaran tersebut 10 cm dan panjang tali busurnya 16 cm, berapa panjang garis apotema?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Misal = apotema : c<br>jika dibuat sketsa tali busur akan terbagi menjadi dua<br><br>\u00a0c^2 = <u></u>10^2 - 8^2<br>c^2 \u00a0= 100 - 64<br>c^2\u00a0 = 36<br>\u00a0\u00a0c\u00a0\u00a0\u00a0=\u00a0\u221a36<br>\u00a0 \u00a0 \u00a0\u00a0\u00a0= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-berputar-sebanyak-50-kalijika-roda-tersebut-memiliki-735",
+            "question": "sebuah roda berputar sebanyak 50 kali.jika roda tersebut memiliki diameter 10 cm.maka jarak yang ditempuh roda tersebut adalah...??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dicari kelilingnya dulu<br>kll = \u03c0.d = 3,14 \u00d7 10 = 31,4cm<br>maka jarak yang ditempuh adalah = 50 \u00d7 31,4 = 1570cm = 0,0157 km<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "S = K . 50<br>\u00a0 \u00a0=\u00a0[tex] \\pi [/tex] .\u00a0D . 50<br>\u00a0 \u00a0= 3,14 .\u00a010 . 50<br>\u00a0 \u00a0= 314 . 5<br>\u00a0 \u00a0= 1570cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-sisi-pada-limas-dengan-alas-segi-8-adalah-590",
+            "question": "Banyak sisi pada limas dengan alas segi 8 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "terdapat 10 sisi pada limas beralas segi delapan",
+                    "attachments": []
+                },
+                {
+                    "answer": "terdapat 16 sisi, karena segi-n dikali 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rasio-dan-suku-keempat-suatu-barisan-geometri-jika-diket-215",
+            "question": "Tentukan rasio dan suku keempat suatu barisan geometri jika diketahui:    a) a=2 dan U5=162\r\nb) a=4 dan U3=64",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "r?<br>u4?<br>a) a=2 ; u5=162<br>ar^4=162<br>2r^4=162<br>r^4=162/2<br>r^4=81<br><strong>r=3</strong><br><br><strong>u4=ar^3</strong><br><strong>2.3^3</strong><br><strong>2.27=54</strong><br><br>b)a=4 ; u3=64<br>ar^2=64<br>4r^2=64<br>r^2=64/4=16<br><strong>r=4</strong><br><br><strong>u4=ar^3</strong><br><strong>4.4^3=4^4</strong><br><strong>=256</strong><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

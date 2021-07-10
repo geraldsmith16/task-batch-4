@@ -1,0 +1,151 @@
+{
+    "question": "Tolong beserta caranya ya :) gambar ada dibawah biar lebi jelas !    Suatu sistem kesetimbangan yang terdiri atas 3 buah beban m1,m2, dan m3 dipasang pada dua katrol tetap . Bila sistem dalam keadaan setimbang , maka perbandingan m2 dengan m1 adalah ??",
+    "attachments": [
+        "question-attachments/tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387-1.png"
+    ],
+    "answers": [
+        {
+            "answer": "**saya lengkapi Gambarnya di bawah .<br><br>dari gambar dibawah, bisa dijadikan persamaan<br>[tex] \\frac{m1}{sin C } [/tex] =\u00a0[tex] \\frac{m2}{sin B} [/tex] =\u00a0[tex] \\frac{m3}{sin A} [/tex]<br><br>pertanyaannya, berapa perbandingan m2 :\u00a0m1?<br>gunakan persamaan :<br>[tex] \\frac{m2}{sin B} [/tex] =\u00a0[tex] \\frac{m1}{sin C } [/tex]<br>[tex] \\frac{m2}{Sin 120} [/tex] =\u00a0[tex] \\frac{m1}{Sin150} [/tex]<br>[tex] \\frac{m2}{1/2 \\sqrt{3} } [/tex] =\u00a0[tex] \\frac{m2}{1/2} [/tex]<br>1/2 m2 = 1/2[tex] \\sqrt{3} [/tex] m1<br>jadi ditemukan: \u00a0m2:m1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01/2 : 1/2[tex] \\sqrt{3}[/tex] \u00a0(setengahnya bisa dicoret)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 : [tex] \\sqrt{3} [/tex]\u00a0(A)<br>semoga membantu!!!<br><br><br>",
+            "attachments": [
+                "answer-attachments/tolong-beserta-caranya-ya-gambar-ada-dibawah-biar-lebi-jelas-387-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796",
+            "question": "bila sebuah benda dicelupkan ke dalam air, maka 1/3 bagiannya akan muncul di permukaan air. jika benda docelupkan ke dalam suatu larutan yang massa jenisnya 8/9 g/cm3, maka bagian yang akan muncul di permukaan larutan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kategori Soal :\nFisika \u2013 Mekanika Fluida<span><br>\nKelas : 2 SMA/XI SMA<br>\nPembahasan :</span></p>\n\n<p>Baik, saya\nakan mencoba membantu menjawab. Jawaban terlampir dalam file berikut :</p><p><br></p>",
+                    "attachments": [
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-1.png",
+                        "answer-attachments/bila-sebuah-benda-dicelupkan-ke-dalam-air-maka-13-bagiannya-aka-796-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540",
+            "question": "Lempengan Logam berbentuk persegi dengan ukuran seperti gambar dengan suhu 40 celcius. Tentukan pertambhan luas logam tersebut jika suhunya dinaikkan sampai 160 C (\u03b1 = 25 * 10^-6 / C)\u00a0",
+            "attachments": [
+                "question-attachments/lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]\\triangle{A} = A_0 \\beta T[/tex]<br>[tex]=A_0(2 \\alpha )(T_2-T_1)[/tex]<br>[tex]=(60)^2(2*25*10^{-6})(160-40)\n=21,6 cm^2[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-akibatnya-bila-kecepatan-bola-relatif-besar-terhadap-fluid-629",
+            "question": "Apakah akibatnya bila kecepatan bola relatif besar terhadap fluida?(hukum stokes)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan bertambahnya besar kecepatan bola maka bertambah pula gaya \nstokes pada bola tersebut sehingga pada akhirnya bola tersebut akan \nbergerak dengan kecepatan tetap<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-pelapukan-secara-biologi-dan-fisika-911",
+            "question": "Sebutkan pelapukan secara biologi dan fisika ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pelapukan fisik adalah suatu proses yang menyebabkan terjadinya \ndisintegrasi formasi bebatuan tanpa mengubah struktur kimia di dalamnya.\n Umumnya disebabkan oleh berbagai aktivitas fisik, seperti adanya gaya \ndan panas, namun tidak menampik adanya kemungkinan proses lain seperti \nkarena cahaya, listrik, dan radiasi elektromagnetik. Abrasi, erosi, dan \npengikisan itu adalah pelapukan fisik diakibatkan oleh adanya gaya. \nPenyinaran oleh matahari juga dapat menyebabkan bebatuan lapuk, yang \ndikategorikan pelapukan fisik oleh panas. Hancurnya bebatuan karena suhu\n yang dingin juga dikategorikan pelapukan termal; pelapukan fisik akibat\n perubahan panas. Oleh listrik misalnya petir. Oleh radiasi \nelektromagnetik sangat jarang terjadi di bumi, lebih sering terjadi di \nluar angkasa di mana benda langit banyak dikikis secara perlahan-lahan \noleh radiasi bintang-bintang (matahari juga bintang). <br>\u00a0<br><br><br>\nPelapukan biologi sebenarnya tidak dikategorikan, karena jika diteliti \nlebih dalam, pelapukan biologi sesungguhnya adalah pelapukan fisik dan \nkimia. Disebut pelapukan fisik jika proses fisik tumbuhan, mislanya \ngerakan akar yang menembus ke dalam bebatuan, maka itu dikategorikan \nsebagai pelapukan fisik. Disebut pelapukan kimia jika tanaman \nmenghasilkan substansi atau zat yang dapat menyebabkan bebatuan melapuk,\n misalnya liken yang melapukkan bebatuan untuk memperoleh nutrisi. \nPelapukan biologi, dalam text book biologi yang lama, dikategorikan \ntersendiri karena dilakukan oleh makhluk hidup, di mana kategori \npelapukan lainnya tidak. Namun jika dilihat lebih dalam, sesungguhnya \nitu adalah pelapukan kimia dan fisik. <br><br><br>semoga membantu :)\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pelapukan Biologi atau Organik\u00a0<br><span>merupakan pelapukan yang disebabkan oleh makhluk hidup.\u00a0</span><br><br><span>Penyebabnya adalah proses organisme yaitu binatang, tumbuhan dan manusia.\u00a0</span><br><span>1. Binatang yang dapat melakukan pelapukan antara lain cacing tanah, serangga.\u00a0</span><br><span>2. Pengaruh yang disebabkan oleh tumbuhan ini dapat bersifat mekanik atau kimiawi.\u00a0</span><br><span>* Pengaruh sifat mekanik yaitu berkembangnya akar tumbuh-tumbuhan\u00a0</span><br><span>di dalam tanah yang dapat merusak tanah disekitarnya.\u00a0</span><br><span>* Pengaruh zat kimiawi yaitu berupa zat asam yang dikeluarkan oleh akar-\u00a0</span><br><span>akar serat makanan menghisap garam makanan dapat merusak batuan.\u00a0</span><br><span>3. Manusia juga berperan dalam pelapukan melalui aktifitas penebangan\u00a0</span><br><span>pohon, pembangunan maupun penambangan.\u00a0</span><br><span><br>Pelapukan Fisika atau Mekanik\u00a0</span><br><span>merupakan pelapukan yang disebabkan oleh proses fisika .\u00a0</span><br><span>Pada proses ini batuan akan mengalami perubahan fisik baik bentuk maupun\u00a0</span><br><span>ukurannya.\u00a0</span><br><span>Pelapukan ini di sebut juga pelapukan mekanik sebab prosesnya berlangsung\u00a0</span><br><span>secara mekanik.\u00a0</span><br><br><span>Penyebab terjadinya pelapukan mekanik yaitu:\u00a0</span><br><span>1. Adanya perbedaan temperatur yang tinggi.\u00a0</span><br><span>Pelapukan ini terutama terjadi di daerah yang beriklim kontinental atau\u00a0</span><br><span>beriklim gurun. Pada siang hari bersuhu panas maka batuan menjadi\u00a0</span><br><span>mengembang, pada malam hari saat udara menjadi dingin, batuan\u00a0</span><br><span>mengerut, hal ini dapat mengakibatkan batuan pecah atau retak-retak.\u00a0</span><br><br><span>2. Adapun pembekuan air di dalam batuan.\u00a0</span><br><span>Pelapukan ini terjadi di daerah yang beriklim sedang. Jika air membeku\u00a0</span><br><span>maka volumenya akan mengembang dan menyebabkan tekanan, karena\u00a0</span><br><span>tekanan ini batu- batuan menjadi rusak atau pecah.\u00a0</span><br><br><span>3. Berubahnya air garam menjadi kristal.\u00a0</span><br><span>Pelapukan ini terjadi di daerah pantai. Jika air tanah mengandung garam,\u00a0</span><br><span>maka pada siang hari airnya menguap dan garam akan mengkristal, kristal\u00a0</span><br><span>garam ini yang merusak batuan.\u00a0</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-astronot-yang-bermassa-96-kg-di-bumi-berada-dalam-sebuah-452",
+            "question": "seorang astronot yang bermassa 96 kg di bumi berada dalam sebuah roket yang bergerak dengan kecepatan 0,8 c. Maka massa astronaut tersebut ketika berada dalam roket adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa dimana-mana tidak berubah / nilainya\u00a0tetap",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-mempengaruhi-besar-kecilnya-tekanan-hidrostatis-680",
+            "question": "Apa faktor yang mempengaruhi besar kecilnya tekanan hidrostatis? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas penampang dan besarnya gaya",
+                    "attachments": []
+                },
+                {
+                    "answer": "- massa jenis fluida<br>- tinggi atau kedalaman fluida dari bidang tekan (diukur dari permukaan fluida)<br>- gaya gravitasi bumi<br><br>semoga bermanfaat... :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820",
+            "question": "Dua piringan berjari jari sama memiliki massa masing\u00a0- masing: mA=0,8 kg dan mB=1,6 kg. Pada awalnya kedua piringan berputar dengan kecepatan sudut\u00a0\u03c9A = 32 rpm dan \u03c9B = 8 rpm. Jika kedua piringan digabungkan sepusat maka, Tentukan kecepatan sudutnya setelah digabung?    dibawah ini contoh dan carakerjanya!",
+            "attachments": [
+                "question-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jangan lupa divote terbaik ya!\u00a0",
+                    "attachments": [
+                        "answer-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-atmosfir-kira-kira-100-kpa-berapa-besar-gaya-yang-dikerj-331",
+            "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-persamaan-berikut-ini-a-3-kal-609",
+            "question": "Tentukan nilai x yang memenuhi persamaan berikut ini !\u00a0    a. 3 kali x pangkat 0,4 = 9 kali (1/3) pangkat 0,6\r\nb. 3 pangkat 5x-1 = 27 pangkat x+3\r\nc. akar 4 pangkat x+4 = (1/16) pangkat 5-x\r\nd. 3 akar 27 pangkat 2x-1 = (3 akar 1/243) pangkat 3x\r\n\r\n~Selamat menjawab~ tolong bantu saya :)\r\n# jangan jawab asal asalan yah.. poinnya tinggi loh.. ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x^{0.4} = 9(\\frac{1}{3})^{0.6} \\\\ 3x^{(\\frac{2}{5})} = 3^3 3^{-(\\frac{3}{5})} \\\\ 3x^{(\\frac{2}{5})} = 3^{3 - (\\frac{3}{5})} \\\\ x^{(\\frac{2}{5})} = 3^{(\\frac{7}{5})} \\\\ x^{(\\frac{2}{5})} = (3^{(\\frac{7}{2})})^{(\\frac{2}{5})} \\\\ x = 3^{(\\frac{7}{2})}[/tex]<br>Sesak gua jawabnya -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-dan-suku-ke-6-barisan-geometri-berturut-turut-adalah-36-352",
+            "question": "suku ke-3 dan suku ke-6 barisan geometri berturut-turut adalah 36 dan 972. nilai suku ke -5 dari barisan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U5 = 660 <br>apa ada jawabannya ?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya 324. ada?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-kearah-timur-seauh-30-mil-kemudian-kapal-m-401",
+            "question": "sebuah kapal berlayar kearah timur seauh 30 mil. kemudian kapal melanjutkan perjalanan dengan arah 030 derjat sejauh 60 mil. jarak kapal terhadap posisi saat kapal berangkat adalah...mil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "...................................................................................................................................................................................................................................................................<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau yang ditanya jarak, berarti tinggal \u00a030mil+60miltapi kalau yang ditanya perpindahan baru nyari jarak terdekat dari titik awl ke titik akhir.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-keranjang-berisi-25-salak-dan-2-diantaranya-busuk-jika-dia-768",
+            "question": "suatu keranjang berisi 25 salak dan 2 diantaranya busuk, jika diambil 3 salak sekaligus, maka peluang terambilnya salak yang baik semua adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iket: <br>\nn(S) = 25 <br>\nA = busuk  <br>\nn(A) = 2 \u2192 n(A\u2019) = 25 \u2013 2 = 23 <br><br>\nkejadian terambil 3 salak sekaligus, <br>\npeluang salak baik semua: <br>\n= 23C\u2083/25C\u2083 <br>\n= 1771 . /2300 <br>\n= 77/100 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-titik-a-bergerak-sedemikian-sehingga-jaraknya-00-senant-794",
+            "question": "sebuah titik A bergerak sedemikian sehingga jaraknya (0,0) senantiasa sama dengan dua kali jarak terhadap (3,0). tempat kedudukan titik A adalah lingkaran dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari jaraknya ke titik (0,0). kita misalkan jaraknya adalah r1.<br>r1\u00a0=\u00a0[tex] \\sqrt({x} -0) ^{2} +(y-0 )^{2} = \\sqrt{x} ^{2} + y^{2}[/tex]<br><br>kemudian kita cari jarak A ke titik (3,0). misalkan jaraknya adalah r2.<br>r2=[tex] \\sqrt({x} -3)^{2} + (y-0)^{2} =  \\sqrt{x} ^{2}-6x+9+y^{2}[/tex]<br>jarak titik A terhadap (0,0) sama dengan dua kali jaraknya terhadap (3,0), berarti r1\u00a0= 2r2.<br>[tex] \\sqrt{x} ^{2}+y^{2}=2 \\sqrt x^{2} - 6x+9+y^{2}[/tex], kuadratkan kedua ruas.<br>[tex]x^{2}+y^{2}=4( x^{2} -6x+9+y^{2}) \n[/tex]<br>[tex]\n x^{2}+y^{2}=4x^{2}-24x+36+4y^{2}[/tex]<br>[tex]0=4 x^{2}-24x+36+4y- x^{2} -y^{2} [/tex]<br>[tex]0=3 x^{2} -24x+36+3y^{2}[/tex]<br>[tex]3 x^{2} -24x+36+3y^{2}=0[/tex], bagi dengan 3<br>[tex] x^{2} -8x+12+y^{2}=0[/tex]\u00a0, pindahkan konstanta ke kanan<br>[tex] x^{2} -8x+y^{2}=-12[/tex]<br>[tex] x^{2} -8x+16+y^{2}=-12+6[/tex]<br>[tex](x-4) ^{2} +y ^{2} = 4[/tex]<br>jadi, pusatnya di (4,0) dan jari-jarinya 2.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilangan-terdiri-dari-4-angka-disusun-dari-angka-angka-12345-254",
+            "question": "Bilangan terdiri dari 4 angka disusun dari angka-angka 1,2,3,4,5,6 dan 7. Banyak susunan bilangan dengan angka-angka yang berlainan (angka-angkanya tidak boleh berulang) adalah.... \u00a0 A. 20 B. 40 C. 80 D. 120. E. 360 \u00a0 Mohon bantuan +caranya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika benar itu terdiri dari angka 1 sampai 7 , maka jawabannya :<br><br>7 x 6 x 5 x 4 = 840\u00a0<br>jawabannya tdk ada di opsinya<br><br>tp jika terdiri dari angka 1 sampai 6 , maka jawabannya :<br><br>6 x 5 x 4 x 3 = 360\u00a0<br>jawaban E\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 sampai 7 <br>7 x 6 x 5 x 4 =840<br><br>1 sampai 6 <br>6 x 5 x 4 x 3 = 360<br><br>1 sampai 5<br>5 x 4 x 3 x 2 = 120<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketuai-fx-2log-x13-dan-gx-2log-x7-maka-f5-g-514",
+            "question": "Diketuai f(x) = 2log (x+1/3) dan g(x) = 2log (x+7) maka f(5) + g(5) =...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(5) + g(5) = 2log (5+\u00a01/3) + 2log (5+7)<br>= 2log (16/3) + 2log (12)<br>= 2log (16/3 x 12)<br>= 2log 64<br>= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tg-x-p-maka-nilai-2-sin-xcos-x-adalah-293",
+            "question": "Jika tg x =p , maka nilai 2 sin x.cos x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x =p/1=de/sa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi2 = de2 + sa2=p2 + 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi = akar (p2+1)<br>sin x =de/mi=p/akar(p2+1)<br>cos x = sa/mi=1/akar(p2+1)<br>2 sin x.cos x= 2. p/akar(p2+1) . 1/akar(p2+1)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2p/(p2+1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan x=p<br>[tex] \\frac{sinx}{cosx} = \\frac{p}{1} [/tex]<br>cari sisi miringya dulu<br>miring=[tex] \\sqrt{p^2+1} [/tex]<br><br>sin x=\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex]<br>cos x=\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br><br>2 sin x cos x= 2.\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex] .\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02.\u00a0[tex] \\frac{p}{p^2+1} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

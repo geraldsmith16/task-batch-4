@@ -1,0 +1,136 @@
+{
+    "question": "Sebanyak 50 ml larutan H2SO4 0.005 M dicampur dengan 50 ml larutan NaOH 0.05 M. hitunglah ph larutan itu sebelum dan sesudah campuran",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "H2SO4 -&gt; 50 x 0,005 = 0,25 mmol<br>NaOH -&gt; 50 x 0,05 = 2,5 mmol<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0NaOH + H2SO4\n-&gt; Na2SO4 + 2 H2O<br></span><span>Mula2 \u00a0\u00a02,5\u00a0 \u00a0 \u00a0 \u00a0 0,25 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0-<br></span><span>Reaksi\u00a00,25\u00a0 \u00a0 \u00a0\u00a0 0,25\u00a0 \u00a0 \u00a0 \u00a0\u00a0\n0,25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,25<br></span><span>Sisa \u00a0 \u00a0\u00a02,25\u00a0 \u00a0 \u00a0 \u00a0\u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\n0,25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,25<br></span>Tersisa NaOH 2,25<br>[OH-] = M x Valensi<br>[OH-] = 2,25/100 x 1 = 0,0225<br>pOH = -log [OH-]<br>pOH= -log 2,25x10^-2<br>pOH= 2-log 2,25<br>pH = 14-(2-log 2,25)<br><span>pH = 12+log 2,25</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebutkan-masing-masing-tiga-contoh-zat-elektrolit-dan-zat-nonelek-602",
+            "question": "Sebutkan masing-masing tiga contoh zat elektrolit dan zat nonelektrolit di dalam kehidupan sehari-hari!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "elektrolit: larutan garam, larutan asam klorida, larutan air seni (lemah)<br>non elektrolit: larutan gula, larutan asam cuka, air murni<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "non elektrolit : gula<br>elektrolit : garam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukan-reaksi-oksidasi-dan-reduksi-dari-persamaan-reaksi-beriku-173",
+            "question": "Tunjukan reaksi oksidasi dan reduksi dari persamaan reaksi berikut:    a) MnO\u2082 + 4HCl ---&gt; MnCl\u2082 _ 2Cl + 2H\u2082O\r\nb) Cl\u2082 + 2KI ----------&gt; 2Kcl + I\u2082\r\nc) 5Fe\u00b2\u207a + MnO\u2084\u207b + 8H\u207a ---&gt; 5Fe\u00b2\u207a + Mn\u00b2\u207a + 4H\u2082O",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran : Kimia<br>Kelas : X SMA<br>Kategori : Reaksi redoks<br>Kode kategori berdasarkan kurikulum KTSP : 10.7.8<br>Kata kunci : reaksi reduksi, reaksi oksidasi<br><br>Jawaban :<br>a) MnO\u2082 + 4HCl --------&gt; MnCl\u2082 + Cl2 + 2H\u2082O<br>Mn mengalami reduksi dan Cl mengalami oksidasi<br>b) Cl\u2082 + 2KI ----------&gt; 2KCl + I\u2082<br>Cl mengalami reduksi dan I mengalami oksidasi<br>c) 5Fe\u00b2\u207a + MnO\u2084\u207b + 8H\u207a --------&gt; 5Fe\u00b3\u207a + Mn\u00b2\u207a + 4H\u2082O<br>Fe mengalami oksidasi dan Mn mengalami reduksi<br><br>Pembahasan :<br>Reaksi redoks adalah suatu reaksi yang terjadi karena suatu unsur mengalami reduksi dan oksidasi. Dalam satu persamaan reaksi redoks pasti terjadi reduksi dan oksidasi. Unsur yang mengalami oksidasi disebut sebagai reduktor atau pereduksi sedangkan unsur yang mengalami reduksi disebut sebagai oksidator atau pengoksidasi.<br><br>Secara umum, pengertian reduksi dan oksidasi dapat dilihat dari tiga hal yaitu :<br>1. Berdasarkan reaksi terhadap elektron<br>Reaksi reduksi reaksi penangkapan elektron sedangkan reaksi oksidasi adalah reaksi pelepasan elektron. Contohnya :<br>F2 + 2e ----------&gt; 2F- disebut sebagai reaksi reduksi<br>Ca --------&gt; Ca\u00b2+ + 2e disebut sebagai reaksi oksidasi<br><br>2. Berdasarkan reaksi terhadap oksigen<br>Reaksi reduksi adalah reaksi pelepasan oksigen sedangkan reaksi oksidasi adalah reaksi pengikatan oksigen. Pada reaksi reduksi, jumlah oksigen akan berkurang dari semula dan sebaliknya reaksi oksidasi terjadi karena jumlah oksigen bertambah. Contoh reaksinya :<br>Reduksi : MnO2 ---------&gt; Mn\u00b2+<br>Oksidasi : Cl- ---------&gt; ClO3-<br><br>3. Berdasarkan perubahan bilangan oksidasi<br>Reaksi reduksi adalah reaksi penurunan bilangan oksidasi sedangan reaksi oksidasi adalah reaksi kenaikan bilangan oksidasi. Bilangan oksidasi adalah bilangan yang menyatakan muatan atau valensi suatu atom dalam senyawa.<br>Contohnya :<br>Reduksi : Mg\u00b2+ -------&gt; Mg<br>Oksidasi : 2Br-  -------&gt; Br2<br><br>Sebelum dibahas lebih lanjut mengenai reaksi redoks, hal yang harus diperhatikan adalah beberapa aturan untuk menentukan biloks suatu atom sebagai berikut :<br>1. Biloks semua unsur bebas adalah nol.<br>Contohnya : Cl2, Br2, Mg, O2, Na dll.<br>2. Biloks atom H dalam senyawa umumnya +1 kecuali pada hidrida logam biloks H = -1. Contohnya : atom H dalam NaH, CaH2 memiliki biloks -1.<br>3. Biloks atom O dalam senyawa umumnya -2 kecuali pada peroksida biloks O = -1. Contohnya : atom O H2O2, Na2O2 memiliki biloks -1.<br>4. Total biloks suatu senyawa adalah nol sedangkan total biloks ion sama dengan muatan ionnya.<br>5. Biloks atom F selalu -1 dalam senyawa apapun.<br><br>Beberapa reaksi berikut dapat ditentukan oksidasi dan reduksinya dengan cara menentukan biloks atom selain O dan H.<br>a) MnO\u2082 + 4HCl --------&gt; MnCl\u2082 + Cl2 + 2H\u2082O<br>Biloks Mn dalam MnO2 = +4 dan dalam MnCl2 = +2 maka atom Mn mengalami reduksi. Biloks Cl dalam HCl = -1 dan dalam Cl2 = 0 maka atom Cl mengalami oksidasi.<br><br>b) Cl\u2082 + 2KI ----------&gt; 2KCl + I\u2082<br>Biloks Cl dalam Cl2 = 0 dan dalam KCl = -1 maka at Cl mengalami reduksi. Biloks I dalam KI = -1 dan dalam I2 = 0 maka atom I mengalami oksidasi.<br><br>c) 5Fe\u00b2\u207a + MnO\u2084\u207b + 8H\u207a --------&gt; 5Fe\u00b3\u207a + Mn\u00b2\u207a + 4H\u2082O<br>Biloks Fe dalam Fe\u00b2+ = +2 dan dalam Fe\u00b3+ = +3 maka atom Fe mengalami oksidasi. Biloks Mn dalam MnO4- = +7 dan dalam Mn\u00b2+ = +2 maka atom Mn mengalami reduksi.(SL)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebanyak-120-gram-karbon-dibakar-dengan-320-gram-oksigen-m-224",
+            "question": "Jika sebanyak 12,0 gram karbon dibakar dengan 32,0 gram oksigen maka akan diperoleh 44,0 gram karbon dioksida. jika sebanyak 3,0 gram karbon dibakar dengan 10 gram oksigen maka akan dihasilkan karbon dioksida dan 2 gram oksigen sisa.    a. berapa gram karbon dioksida yang akan diperoleh?\r\nb. Jelaskan keberlakuan hukum perbandingan tetap dalam percobaan ini.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. pada reaksi kedua 3 gram karbon bereaksi dengan 10 gram Oksigen sisa 2 gram oksigen, <br>oksigen yang bereaksi = 10 -2 = 8<br>maka karbon dioksida yang terbentuk :<br>= 3 + 8 = 11 gram<br><br>b. membuktikan hukum Proust.<br>reaksi pertama :<br>C : O = 12 : 32 = 3 : 8<br>reaksi kedua :<br>C : O = 3 : 8 <br><br>pada reaksi pertama dan kedua menunjukan bahwa karbon dioksida yang terbentuk diperoleh dari perbandingan C : O = 3 : 8, ini menunjukan bahwa perbandingan massa unsur - unsur penyusun suatu senyawa selalu sama dan tetap.<br><br><br>semoga bisa membantu :)<br>beri laebl terbaik ya, 25 % poin kamu akan kembali :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-ml-larutan-naoh-01-m-harus-dicampurkan-dengan-100-ml-laru-206",
+            "question": "Berapa mL larutan NaOH 0,1 M harus dicampurkan dengan 100 mL larutan HCl 0,1 M untuk membuat larutan dengan pH = 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Kimia bab larutan<br>Kelas: XI SMA IPA <br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/berapa-ml-larutan-naoh-01-m-harus-dicampurkan-dengan-100-ml-laru-206-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "balon-hydrogen-dapat-terbang-di-angkasakarena-diisi-dengan-gas-h-591",
+            "question": "Balon hydrogen dapat terbang di angkasa,karena diisi dengan gas hydrogen yangkerapatannya (massa jenisnya) lebih kecildari massa jenis udara. Gas hydrogen yangdiisikan pada balon tersebut dapat diperolehdari reaksi antara logam alumunium denganlarutan asam sulfat encer, menghasilkanalumunium sulfat dan gas hidrogen; Bersamaanreaksi setara yang menggambarkanproses produksi gas hidrogen adalah ....(A) Al(s) + H2 SO2 (aq) \u2192 AlSO4 (aq) + H2 (g)(B) A1(s) + H2 SO4 (aq) \u2192 A12 (SO1) 3(aq) +H2 (g)(C) 2A1(s) + 3H2 SO4 (aq) \u2192 A12 (SO4) 3(aq)+3H2 (g)(D) 2Al(s) +3H2 SO4 (aq) \u2192 Al3 (SO4)2 (aq)+3H2 (g)(E) 3A1(s) + 2H2 SO4 (aq) \u2192 Al3 (SO4)2 (aq) +2H2 (g)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gan,<br>pilihan gandanya agak susah di baca,<br>ni reaksi setaranta<br>2Al + 3H2SO4\u00a0 ---&gt;\u00a0 Al2(SO4)3 + 3H2O<br><br>semoga bermanfaat :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-ionisasi-caoh2-267",
+            "question": "Reaksi ionisasi Ca(OH)\u2082 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ca(OH)2 : Ca(2+) OH(-)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-koh-0125-m-dititrasi-dengan-25-ml-larutan-hcl-01-m-deng-817",
+            "question": "Larutan KOH 0,125 M dititrasi dengan 25 mL larutan HCL 0,1 M dengan menggunakan indikator fenolftalein (PP). Volume KOH yang diperlukan untuk menetralkan 25 mL HCL dalam titrasi tersebut adalah ...    A. 20 mL\r\nB. 25 mL\r\nC. 30 mL\r\nD. 40 mL\r\nE. 50 mL.\r\n\r\nBeri jalannya .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V1.M1 = V2.M2<br>V1.0.125=25.0,1<br>V1=2,5/0.125<br>V1= 20 mL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "zat-apa-saja-yg-terkandung-dalam-sabun-511",
+            "question": "Zat apa saja yg terkandung dalam sabun?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sabun sekarang memiliki bermacam-macam campuran zat, xat-xat tersebut terkadang ada dan terkadang tak ada. misalkan zat :\u00a0<br>\u21d2\u00a0Surfaktan merupakan zat aktif permukaan yang termasuk bahan kimia organik, berfungsi untuk\u00a0menurunkan tegangan air untuk mengangkat kotoran yang menempel pada tubuh<br>\u21d2\u00a0<span>zat tricloson berfungsi untuk mencegah infeksi bakteria<br></span>\u21d2\u00a0<span>zat emulgator mampu melarutkan \u00a0minyak dan lemak.<br></span>\u21d2 petrokimia sebagai pewangi buatan\u00a0<br>\u21d2 titanium diooxide sebagai pewarna buatan<br>\u21d2\u00a0<span>Rempah, herbal, talk, tepung kanji/maizena</span><br>\u21d2\u00a0<span>triclosan <br></span>\u21d2\u00a0<span>sodium lauryl and laureth sulfate(SLS) </span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tergantung sabun apa dulu. Jika sabun mandi, itu terbuat dari senyawa alkali (natrium hidroksida atau kalium hidroksida) yang dicampur dengan lemak nabati atau hewani serta pewangi. Campuran basa inilah yang nantinya bertugas menghilangkan minyak dan kotoran di permukaan kulit yang bersifat asam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-20-ml-larutan-koh-01-m-ditetesi-dengan-larutan-hcl-01-473",
+            "question": "Sebanyak 20 ml larutan KOH 0,1 M ditetesi dengan larutan HCL 0,1 M    a. perkirakan pH awal larutan KOH\r\nb. secara teori, berapa ml larutan hcl diperlukan untuk mencapai titik ekivalen\r\nc.berapa pH pada titik ekivalen.\r\nd.berapa ml larutan HCL yang diperlukan untuk membuat pH campuran menjadi 4 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tetapan ionisasi dari asam lemah HA adalah\n<span>Dengan menata ulang persamaan, diperoleh persamaan untuk konsentrasi ion H+, yaitu:</span>\n<span>Persamaan tersebut menyatakan konsentrasi ion H+ dalam bentuk Ka asam lemah dikalikan dengan perbandingan konsentrasi HA dan A\u2013pada keadaan kesetimbangan. Jika [HA] dan [A\u2013] sama maka konsentrasi ion H+ dari larutan penyangga sama dengan nilai Ka. Anda dapat menggunakan persamaan di atas untuk menentukan nilai pH larutan penyangga, yaitu:</span>\n<span>Ruas kiri persamaan menyatakan pH. Ruas kanan dapat disederhanakan menjadi pKa, dimana pKa = \u2013log Ka. Jadi, persamaan di atas dapat ditulis dalam bentuk sebagai berikut.</span>\n\nSecara umum, persamaan tersebut dapat dinyatakan sebagai berikut.\n<span> (berdasarkan teori Bronsted-Lowry)</span>\n<span> (berdasarkan teori Arrhenius)</span>\nUntuk larutan penyangga yang dibuat dari basa lemah dan asam konjugatnya, nilai pOH diperoleh dengan cara serupa.\n<span> (berdasarkan teori Bronsted-Lowry)</span>\n<span> (berdasarkan teori Arrhenius)</span>\n<span>Persamaan ini dikenal sebagai <span><span>persamaan Henderson-Hasselbalch</span>. </span>Untuk\n membuat larutan penyangga dengan pH sesuai keinginan, misalnya pH \u2248 \n4,75, dapat dilakukan dengan mencampurkan asam lemah yang memiliki nilai\n pKa sekitar 4,74. Kemudian, dicampurkan dengan garam yang konsentrasi molarnya sama dengan asam lemah agar</span>\n<span>Contoh pH Larutan Penyangga dari Asam Lemah dan Garamnya</span>\n<span>Berapa pH larutan yang dibuat dari campuran 50 mL CH3COOH 0,5 M dan 50 mL NaCH3COO 0,5 M? Diketahui Ka(CH3COOH) = 1,8 \u00d7 10\u20135.</span>\nJawab:\n<span>Dalam larutan terdapat: CH3COOH, CH3COO\u2013, H+, dan Na+. Reaksi kesetimbangannya:</span>\n<span>CH3COOH(aq) \u21c4 CH3COO\u2013(aq) + H+(aq)</span>\n<span>Konsentrasi CH3COO\u2013 lebih dominan dari garam dibandingkan hasil ionisasi asam asetat maka dalam perhitungan, konsentrasi CH3COO\u2013 ditentukan dari garamnya. Konsentrasi CH3COOH dalam campuran (100 mL):</span>\n<span>Konsentrasi CH3COO\u2013 dalam campuran (100 mL):</span>\n\nNilai pH larutan dihitung dengan rumus:\n<span>Jadi, pH larutan penyangga sebesar 4,74. Nilai ini berasal dari nilai pKa.</span>\n<span>Contoh pH Larutan Penyangga dari Campuran Garam</span>\n<span>Berapa pH larutan penyangga yang dibuat dari campuran 60 mL NaH2PO4 0,5 M dan 40 mL Na2HPO4 0,5 M. Diketahui Ka (H2PO4\u2013) = 7,5 \u00d7 10\u20133.</span>\nJawab:\n<span>Dalam larutan terdapat: Na+, H+, H2PO4\u2013, dan HPO42\u2013. Reaksi kesetimbangannya:</span>\n<span>H2PO4\u2013(aq) \u21c4 HPO42\u2013(aq) + H+(aq)</span>\n<span>Oleh karena kedua garam tersebut terionisasi sempurna maka konsentrasi H2PO4\u2013 dan HPO42\u2013 sama dengan konsentrasi garam-garamnya. Konsentrasi H2PO4\u2013 dalam campuran (100 mL):</span>\n<span>Konsentrasi HPO42\u2013 dalam volume campuran</span>\n\nNilai pH larutan\n\nJadi, pH larutan = 1,95.\nPengenceran Larutan Penyangga\n<span>Mengapa pH larutan penyangga tidak berubah jika diencerkan? Untuk memahami hal ini, dapat ditinjau dari persamaan Henderson-Hasselbalch.</span>\n<span>Nilai pH larutan penyangga hanya ditentukan oleh pKa dan perbandingan konsentrasi molar pasangan asam basa konjugat. Nilai Kaatau pKa dari\n asam lemah tidak bergantung pada konsentrasi asam, tetapi bergantung \npada suhu. Oleh sebab itu, pengenceran larutan penyangga tidak akan \nmengubah nilai pKa (lihat <span>Gambar 8.9</span>).</span>\n<span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. pH = 14 - log 0,02 x 0,1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14 - log 0,002<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11 + log 2<br>b. KOH = HCL<br>\u00a0 \u00a0 M1V1 = M2V2<br>\u00a0 \u00a0 0,1. 20 = 0.1 V2<br>\u00a0 \u00a0 V2 HCl\u00a0= 0,1 . 20 / 0,1 = 20 ml<br>c. karena yang direaksikan adalah basa kuat dan asam kuat jadi pH 7 netral",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-05-l-larutan-asam-asetat-01m-ditambah-05l-larutan-na-774",
+            "question": "Diketahui 0,5 L larutan asam asetat 0,1M ditambah 0,5L larutan natrium asetat 0,1M. (Ka=1,8x10-5) . Tentukan : a. Ph larutan tersebut setelah dicampur b.berapa ph larutan jika ditambah 5ml asam klorida 0,1M?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "asam asetat (CH3COOH)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br>natrium asetat (CH3COONa)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br><br>(CH3COOH, as lemah) ---&gt;\u00a0 CH3COO-\u00a0 \u00a0 +\u00a0 \u00a0  H+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br>CH3COONa\u00a0 ----&gt; (CH3COO-, basa konjugasi)+\u00a0 \u00a0 Na+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br><br>a. pH larutan<br>dari soal didapatkan bahwa larutan merupakan larutan penyangga asam.<br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,05 / 0,05)<br>H+ = 1,8 x 10^-5<br><br>pH = 5 - log 1,8 = 4,74<br><br>b. ditambah asam 5 ml (0,005 Liter) HCl 0,1 M<br>mol HCl = 0,005 x 0,1 = 0,0005 mol<br><br>karena adanya penambahan asam, maka asam akan bereaksi dengan garam asam lemah dan menghasilkan asam lemah, sehingga konsentrasi asam lemah bertambah dan konsentrasi garam asam lemah berkurang.<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3COONa\u00a0  +\u00a0 \u00a0 HCl\u00a0  -----&gt;\u00a0 \u00a0 CH3COOH\u00a0 \u00a0 +\u00a0 \u00a0 NaCl (abaikan NaCl)<br>M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,05<br>R\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005<br>S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,045\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,055<br><br>maka <br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,055 / 0,045)<br>H+ = 2,196 x 10^-5<br><br>pH = 5 - log 2,196 = 4,65<br><br><br>semoga membantu :)<br>beri label terbaik jika jawaban saya terbaik :)<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

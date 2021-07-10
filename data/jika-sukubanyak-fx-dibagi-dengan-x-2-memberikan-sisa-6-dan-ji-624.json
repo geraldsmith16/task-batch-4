@@ -1,0 +1,138 @@
+{
+    "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-px-x4-3x3-5x2-x-6-dibagi-dengan-x2-x-2-ma-385",
+            "question": "Jika p(x) = x4 - 3x3 - 5x2 + x - 6 dibagi dengan (x2 - x - 2), maka sisanya adalah...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara skematis, nanti hasilnya<br>p1.p2 = (x-2)(x+1)<br>s1 = -32<br>s2 = -8<br><br>jd, s(x) = p1s2 + s1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (x-2)-8 + -32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -8X+16-32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = -8X - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8X+16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fxmx22m-3xm3-berada-diatas-sumbu-x-batas-685",
+            "question": "Grafik fungsi f(x)=mx^2+(2m-3)x+m+3 berada diatas sumbu x. Batas-batas nilai m yang memenuhi adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = mx\u00b2 +(2m -3)x\u00a0 + m + 3<br>a = m<br>b = 2m -3<br>c = m + 3<br><br>syarat FK punya akar imajiner : D &lt; 0<br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m - 3)\u00b2 - 4.m.(m+3) &lt; 0<br>4m\u00b2 - 12m + 9 - 4m\u00b2 - 12 &lt; 0<br>-12m - 3 &lt; 0<br>-12m &lt; 3<br>m &gt; [tex] \\frac{3}{-12} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) berada di atas sumbu x, berarti D &lt; 0<br>a = m<br>b = (2m-3)<br>c = m+3<br><br>D = b\u00b2 - 4.a.c &lt; 0<br>\u00a0 \u00a0 \u00a0 (2m-3)\u00b2 - 4.m.(m+3) &lt; 0<br>\u00a0 \u00a0 \u00a0 4m\u00b2 - 12m + 9 - 4m\u00b2 - 12m &lt; 0<br>\u00a0 \u00a0 \u00a0 -24m + 9 &lt; 0 \u00a0dikali (-1) agm\u00a0ar tidak negatif, hati2 setelah dikali (-1) tanda berubah<br>\u00a0 \u00a0 \u00a0 \u00a024m - 9 &gt; 0 dibagi 3 agar lebih mudah mencari nilai m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a08m - 3 &gt; 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08m &gt; 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m &gt; 3/8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0<br><br>\u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "periksalah-sah-atau-tidak-argumen-berikut-pq-580",
+            "question": "Periksalah sah atau tidak argumen berikut!    \u00a0 \u00a0\r\n\u00a0~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0q\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 konsklusi r\r\n\u00a0\r\n~p\u21d2q\r\n~r\u21d2q\r\nkonsklusi\u00a0~p\u21d2r\r\n\r\n2. tuliskan kesimpulan yang sah dari premis premis berikut!\r\n\r\np1 : q\u21d2 ~r\r\np2 : s\u21d2r\r\nkesimpulan .......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "q =&gt; ~r<br>s =&gt;r<br>kesimpulannya, :<br><br>q=&gt;~s<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <u>q\u21d2r \u00a0\u00a0<br></u>\u00a0</span>~r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (sah)<br><br>~p\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0~p\u21d2q<br>~r\u21d2q \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sehingga \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0~q\u21d2r<br>konsklusi\u00a0~p\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0konsklusi\u00a0~p\u21d2r \u00a0 \u00a0(sah )<br><br>NB :\u00a0~r\u21d2q dirubah menjadi\u00a0~q\u21d2r<br><br>2)\u00a0p1 : q\u21d2\u00a0~r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0p1 : q\u21d2\u00a0~r<span>\u00a0\u00a0<br>\u00a0 \u00a0\u00a0p2 : s</span>\u21d2r \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 jadi menjadi \u00a0 \u00a0 \u00a0 \u00a0 \u00a0p2 :\u00a0~r\u21d2\u00a0s<span><br>\u00a0 \u00a0 k \u00a0 : \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k :\u00a0</span>q\u00a0\u21d2\u00a0s<span><br><br><br>NB :\u00a0</span>\u00a0p2 : s\u21d2r kita rubah menjadi \u00a0:\u00a0~r\u21d2\u00a0s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-interval-0-derajat-kurang-lebih-sama-dengan-x-kurang-lebih-s-956",
+            "question": "Pada interval 0 derajat kurang lebih sama dengan x kurang lebih sama dengan 360 derajat, nilai max dr y= 2 sin (x-40) diperoleh pada x?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai max terjadi pada y= 2 itu terjadi jika sin(x_40)= 1.kapan itu terjadi?jika x_40 =90 derajat. maka x =130....kLau salah maap y",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx2x5-dan-gx4-x-tentukan-a-fog-x-b-gof-780",
+            "question": "Diketahui = f(x)=2x+5 dan g(x)=4-x Tentukan = a. fog (x) b. gof (x) c. fog ( -2) d. gof (-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab :<br>a) fog (x) = f(g(x))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f(4-x)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2(4-x)+5 = 8-2x+5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =13-2x<br>b) gof (x) = g (f (x) )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (2x+5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1(2x+5)+4 = -2x-5 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = -2x-1<br>c)fog (-2) = f(g (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0\u00a0  f (4(2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2(8) + 5 = 21<br>d) gof (-2) = g (f (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g(5(-4))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1 (-20) +4 = 24<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-2x3-dan-gx-x2-1-maka-fg2-333",
+            "question": "Jika f(x) = 2x+3 dan g(x) =x2-1, maka (f.g)(2) =...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f.g(2))= 2(x2-1)+3\n            =2x2-2+1 = 2x2+1\n=2(2)2 +1 = 2(4)+1= 8+1=9",
+                    "attachments": []
+                },
+                {
+                    "answer": "(f.g)(x) = (2x + 3) (x2-1)<br>(f.g)(2) = (2(2) + 3) ((2)2-1)<br>(f.g)(2) = (4+3) (4-1)<br>(f.g)(2) = 7 . 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 21<br>kalo ga salah gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-a1x-2a-0-adalah-p-dan-q-727",
+            "question": "akar-akar persamaan kuadrat x2 + (a+1)x + 2a = 0 adalah p dan q. nilai minimum dari p2 + q2 dicapai untuk a sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p^2+q^2<br>(p+q)^2-2pq<br>(-a-1)^2-2.2a<br>a^2-2a+1=0<br>(a-1)(a-1)<br>a=1 <br>mklumin lw salah yea :D :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-permukaan-sebuah-kaleng-tanpa-tutup-tetapi-mempunyai-alas-de-336",
+            "question": "luas permukaan sebuah kaleng tanpa tutup tetapi mempunyai alas dengan diameter alas 20 cm dan tingginya 35 cm adalah ..\u00a0 \u00a0 (\u03c0=3,14)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas alas : <span>3,14 x 10 x 10 = 314<br>luas selimut : 3,14 x 20 x 35 = 2198<br>luas tabung tanpa tutup 314 + 2198 = 2512<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-seper-berapa-putaran-penuhkah-sudut-sudut-berikut-a-3-202",
+            "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

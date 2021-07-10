@@ -1,0 +1,130 @@
+{
+    "question": "Tolong bantuan nya ya?    1).\u00a0air sebanyak 60 gram bersuhu 90\u00a0\u00b0C( kalor jenis air = 1kal/gr\u00a0\u00b0C ) di campur\u00a040 gr air sejenis\u00a0bersuhu 25\u00a0\u00b0C. jika tidak ada faktor lain yang mempengaruhi proses ini, suhu akhir air campuran adalah.......\u00a0\u00b0C\r\n\r\n2). es massanya 100 gr bersuhu -5\u00b0C kemudian di beri kalor hingga menjadi air dengan suhu 15\u00b0C. ( kalor lebur es = 80 kal.g pangkat -1, kalor jenis es = 0,5 kal/g\u00b0C; kalor jenis air = 1 kal/g\u00b0C dan 1 kalori = 4,2 joule). Berapakah kalor yang diberikan pada es tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "m1=60g=0,6 kg<br>1)T1=90&#039;C<br>m2=40g=0,4kg<br>T2=25&#039;C=1 kal/gr&#039;C<br>Tc=?<br>Qlepas=Qterima<br>m1*C*(T1-Tc)=m2*C*(Tc-T2)<br>m1*(T1-Tc)=m2*(Tc-T2)<br>60(90-Tc) \u00a0=40(Tc-25)<br>60/40(90-Tc)=Tc-25<br>3/2(90-Tc)=Tc-25<br>135-3/2Tc=Tc-25<br>135+25=Tc+3/2Tc<br>160 \u00a0 \u00a0=5/2Tc<br>Tc \u00a0 \u00a0 \u00a0 =160/5/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =160*2/5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32*2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =64 &#039;C",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kipas-berputar-sebanyak-20-putaran-per-menit-jika-ujung-k-900",
+            "question": "Sebuah kipas berputar sebanyak 20 putaran per menit. Jika ujung kipas berada 20 cm dari sumbu putranya, kecepatan tangensial ujung kipas adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Step-1 konversi satuan putaran/menit menjadi rad/s</strong><br><br><strong>1 putaran\u00a0= 2\u03c0 radian</strong><br><br>\u21d4 \u03c9 = 20 putaran/menit<br>\u21d4 \u03c9 = 20 x 2\u03c0/60 rad/s<br>\u21d4 \u03c9 = 2\u03c0/3 rad/s<br><br><strong>Step-2 menghitung kecepatan tangensial</strong><br><br>jari-jari r = 20 cm = 0,2 m<br><br><strong>\u21d4 v = \u03c9 x r</strong><br>\u21d4 v = [2\u03c0/3] x [0,2]<br>\u21d4 v = 2\u03c0/15 m/s<br><br><strong>\u2234 kecepatan tangensial adalah 2\u03c0/15 m/s</strong><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-kubus-memiliki-volume-1-m3-volume-tangki-tersebut-355",
+            "question": "Sebuah tangki kubus memiliki volume 1 m3. Volume tangki tersebut menurut pengamat yang bergerak dengan kecepatan 0,8c sepanjang rusuk kubus adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt=panjang pengamat<br>L0=panjang diam<br>Lt=Lo(1-v^2/c^2)^1/2<br>Lt=Lo(1-0,64c^2/c^2)^1/2<br>Lt=Lo(0,36)^1/2<br>Lt=Lo(0,6)<br>1m^3=1000dm^3=1000 liter<br>panjangnya diamnya = (1000)^1/3 dm<br>=1 dm = 10 cm<br><span>Lt=10.0,6= 6cm</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-pertanyaan-yang-tepat-mengenai-materi-momen-gaya-torsi-438",
+            "question": "Apa pertanyaan yang tepat mengenai materi Momen Gaya (Torsi) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "momen gaya torsi timbul akibat gaya yang bekerja pada benda tidak tepat pada pusat masa.<br>T = F . d<br><br>pertanyaan : mengapa gaya torsi tidak bekerja pada pusat massa dan apasaja fakror yang mempengaruhi gaya torsi serta arah momengaya torsi ?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-benda-di-celupkan-kedalam-air-maka-13-bagiannya-mun-220",
+            "question": "jika sebuah benda di celupkan kedalam air, maka 1/3 bagiannya muncul ke permukaan. jika benda tsb dicelupkan ke dalam larutan yang besar massa jenisnya 8/9 g/cm^3, maka bagian yang muncul dipermukaan larutan adlah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pb = massa jenis benda<br>pf = massa jenis larutan<br>Vb = volum benda<br>Vbf = volum benda tercelup<br>pf air = 1 g/cm^3<br><br>Vbf = (1 - 1/3)Vb<br>Vbf = 2/3Vb<br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>(pb)(Vb) = (pf)(2/3Vb)<br>pb = 2/3 .... (1)<br><br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>subtitusi (1) ke persamaan, didapat<br>(2/3)(Vb) = (8/9)(Vbf)<br>Vb = 4/3Vbf<br>Vbf = 3/4Vb<br>yg muncul dipermukaan = Vb - Vbf = Vb - 3/4Vb = 1/4Vb (1/4 bagian)<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-proses-termodinamika-dalam-kehidupan-sehari-hari-721",
+            "question": "Contoh proses termodinamika dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh proses termodinamika dalam kehidupan sehari-hari adalahpanas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "balok-bermassa-10-kg-terletak-di-atas-permukaan-kasar-dengan-miu-709",
+            "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. GAYA GESEKAN<span><br>\nYaitu gaya sentuh yang muncul jika permukaan dua zat padat bersentuhan \nsecara fisik, dimana arah gaya gesekan sejajar dengan permukaan bidang \ndan selalu berlawanan dengan arah gerak relatif antara ke dua benda \ntersebut.\u00a0</span><span><br></span>Ada dua jenis gaya gesekan yang bekerja pada benda, yaitu:\u00a0<span><br></span>a. Gaya Gesekan Statis ( fs )Gaya\n gesekan statis bekerja saat benda dalam keadaan diam dan nilainya mulai\n dari nol sampai suatu harga maksimum. Jika gaya tarik/dorong yang \nbekerja pada suatu benda lebih kecil dari gaya gesekan statis maksimum, \nmaka benda masih dalam keadaan diam dan gaya gesekan yang bekerja pada \nbenda mempunyai besar yang sama dengan nilai gaya tarik/dorong pada \nbenda tersebut. Besarnya gaya gesekan statis maksimum adalah :<span><br></span><span><br><br><br><br>\ndimana \u00b5s adalah koefisien gesekan statis dan N adalah gaya Normal.<br><br>\nBesarnya gaya normal ( N ) tergantung besarnya gaya tekan benda terhadap\n bidang secara tegak lurus. Keterangan lebih lanjut tentang gaya Normal \nsilahkan baca lebih detail dalam artikel saya yang lain dengan mengklik \nlink di bawah ini :<br>Dinamika Gerak Lurus IDinamika Gerak Lurus IIdalam 2 artikel di atas sebenarnya rumus-rumus yang berkaitan \ndengan gaya gesekan telah dibahas. Sehingga pembahasan saya kali ini \nlebih menekankan pada aspek teoritis dan contoh soal untuk menambah \nkepahaman.<br><br>b. Gaya gesekan kinetis ( fk )<br>\nGaya gesekan kinetis yaitu gaya gesekan yang bekerja pada benda ketika \nbenda sudah bergerak. Nilai gaya gesekan kinetis selalu tetap, dan \ndirumuskan dengan :<br><br><br><br><br><br>\ndimana \u00b5k adalah koefisien gesekan kinetis benda <br><br>\nAntara koefisien gesekan statis dan kinetis mempunyai nilai yang \nberbeda, nilai koefisien gesekan statis selalu lebih besar daripada \nnilai koefisien gesekan kinetis benda. <br><br>\nUntuk sebuah benda diam yang terletak diatas sebuah bidang datar kasar dan diberi gaya F, maka :<br><br><br>2. GAYA GESEKAN DAN HUKUM NEWTON <br><br>Hukum Newton I : Benda yang diam akan tetap diam selama jumlah \ngaya yang bekerja padanya sama dengan nol atau benda yang bergerak \ndengan kecepatan tetap akan tetap bergerak dengan kecepatan tetap selama\n resultan gaya yang bekerja padanya sama dengan nol.<br><br><br><br><br><br>Hukum Newton II :  Percepatan yang ditimbulkan oleh gaya total \npada sebuah benda berbanding lurus dengan gaya total tersebut pada arah \nyang sama  dan berbanding terbalik dengan massa dari benda.<br><br><br><br><br><br>Hukum Newton III : Jika sebuah benda memberikan gaya pada benda \nlain, maka benda itu akan mendapat gaya dari benda lain itu dengan besar\n gaya yang sama dan arah yang berlawanan dari gaya pertama.<br><br><br><br><br><br>Contoh :<br><br>Sebuah balok bermassa 4 kg terletak diam pada\u00a0 bidang datar. Hitunglah: <br>\nGaya gesekan benda dan percepatan benda jika lantai kasar dengan \u00b5s = 0,4 dan \u00b5k = 0, 2 dan :<br>\na.\u00a0\u00a0 ditarik dengan gaya F = 10 N <br>\nb.\u00a0\u00a0 ditarik dengan gaya F = 16 N<br>\nc.\u00a0\u00a0 ditarik dengan gaya F = 20 N </span><span><br><br></span>Jawaban :<br><br>\nDiagram gaya untuk kasus ini adalah sebagai berikut :<br><br>Untuk kasus ini ( benda diam ), maka kita harus menguji besarnya gaya gesekan statis (fs) dan gaya gesekan kinetis (fk).<br><br><br><br><br><br><br><br>\nDari hukum Newton II yaitu \u03a3F = \u03a3ma <br>\nKearah vertikal (sumbu y), benda diam (a = 0) <br>\n\u03a3F = 0 <br>\nN \u2013 w = 0 sehingga N = w<br>\nN = m g  <br>\nN = 4 . 10 = 40 N <br><br>\n\u2022  Besarnya gaya gesekan statis fs adalah <br><br>\nfs   = \u00b5s.N = 0,4.40  = 16 N<br><br>\n\u2022  Besarnya gaya gesekan kinetis fk  adalah <br><br>\nfk = \u00b5k.N = 0,2.40  = 8 N<br><br>\na.  untuk F = 10 N <br>\nKarena gaya F &lt; fS maka balok masih dalam keadaan diam, sehingga gaya gesekan yang  bekerja pada benda adalah   fg = F = 10 N<br><br>\nb.  untuk F = 16 N<br>\nKarena F = fs, maka balok masih juga dalam keadaan diam (keadaan ini \nsering disebut dengan  benda tepat saat akan bergerak), maka besarnya \ngaya gesekan adalah   fg = F = fs = 16 N<br><br>\nc.  untuk  F = 20 N<br>\nKarena F &gt; fs maka balok dapat bergerak, sehingga gaya gesekan yang \ndigunakan adalah gaya gesekan kinetis, yaitu sebesar 8 N. Percepatan \nuntuk benda yang bergerak ini dapat dihitung dengan menggunakan Hukum \nNewton II, Karena benda bergerak pada arah sumbu x, maka :<br><br>\n\u03a3Fx\u00a0\u00a0\u00a0 = m.a <br>\nF \u2013 fk\u00a0 = m.a <br>\n20 \u2013 8 = 4a <br>\na\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 m/s2<br><br>\nDari sini dapat kita lihat, bahwa pada benda bekerja gaya gesekan statis\n atau kinetis, tergantung pada seberapa besar gaya yang bekerja pada \nbenda. Khusus untuk gaya gesekan statis sebenarnya memiliki nilai dari \nminimum hingga nilai maksimalnya yaitu fs (ketika benda tepat akan \nbergerak), sedangkan gaya gesekan kinetis hanya memiliki satu nilai \nsaja. Sehingga grafik hubungan antara gaya luar dan gaya gesekan yang \nmempengaruhi benda yang dalam keadaan diam, dapat digambarkan sebagai \nberikut :<br><br><span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310",
+            "question": "dua buah benda digantung seperti pada gambar dan sistem dalam keadaan setimbang.Massa katrol M=2 kg dan jari-jarinya R= 10 cm serta sumbu putar katrol tanpa gesekan. Tentukan massa beban m1,jika massa beban m2=20 kg dan percepatan gravitasi di tempat itu g=10 m/s\u00b2!",
+            "attachments": [
+                "question-attachments/dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<strong>mungkin jawabannya 5</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ketika-diam-di-bumi-mempunyai-panjang-100-m-roket-t-310",
+            "question": "sebuah roket ketika diam di bumi mempunyai panjang 100 m. roket tersebut bergerak dengan kecepatan 0,8 c ( c = kecepatan cahaya dalam vakum). menurut orang dibumi panjang roket tersebut selama bergerak adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dicari kan L aksen maka menggunakan rumus\nL aksen = Lo \u221a1-(v/c)^2 \n= 100 \u221a1-0.8c^2/c^2 \n=100 \u221a1-0.64c^2 / c^2\nkemudian c^2 di coret menjadi\n=100\u221a0.36\n=100 . 0.6\n= 60 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hubungan-hukum-archimedes-dengan-jembatan-ponton-ada-yang-tau-135",
+            "question": "Hubungan hukum archimedes dengan jembatan ponton? Ada yang tau? :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jembatan ponton adalah kumpulan drum-drum kosong yang berjajar sehingga \nmenyerupai jembatan. Jembatan ponton merupakan jembatan yang dibuat \nberdasarkan prinsip benda terapung. Drumdrum tersebut harus tertutup \nrapat sehingga tidak ada air yang masuk ke dalamnya. Jembatan ponton \ndigunakan untuk keperluan darurat. Apabila air pasang, jembatan naik. \nJika air surut, maka<br>\njembatan turun. Jadi, tinggi rendahnya jembatan ponton mengikuti pasang surutnya air<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Jembatan ponton adalah kumpulan drum-drum kosong yang berjajar sehingga menyerupai jembatan. Drum-drum itu biasanya terbuatdari besi dan di dalamnya diisi dengan udara sehingga massa jenisnya lebih kecil dari massa jenis zat cair. Jembatan ponton merupakan jembatan yang dibuat berdasarkan prinsip benda terapung. Drumdrum tersebut harus tertutup rapat sehingga tidak ada air yang masuk ke dalamnya. Jembatan ponton digunakan untuk keperluan darurat. Apabila air pasang, jembatan naik. Jika air surut, maka jembatan turun. Jadi, tinggi rendahnya jembatan ponton mengikuti pasang surutnya air</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Jika suku pertama suatu barisan geometri = 16 dan suku ketiga = 36, maka besar suku kelima adalah ..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : 12<br>Mapel : Matematika<br>Kategori : Barisan dan Deret<br>Kata Kunci : barisan geometri<br>Kode : 12.2.7 [<span>Kelas 12 Matematika KTSP - Bab 6 - Barisan dan Deret]<br></span><br>Pembahasan :<br><p>Barisan geometri adalah suatu barisan dengan rasio\n(pembanding atau pengali) antara dua suku yang berurutan selalu tetap atau\nkonstan.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum barisan geometri adalah</p>\n\n<p>U\u2081, U\u2082, ..., Un.</p>\n\n<p>U\u2081 =\na</p>\n\n<p>U\u2082 =\nar</p>\n\n<p>...</p>\n\n<p>Un = ar\u207f\u207b\u00b9,</p>\n\n<p>dengan r \u2260 0.</p>\n\n<p>\u00a0</p>\n\n<p>Sehingga berdasarkan definisi di atas berlaku hubungan</p>\n\n<p>\u00a0</p>\n\n<p>r = [tex] \\frac{U_n}{U_{n-1}} [/tex]</p>\n\n<p>\u00a0</p>\n\n<p>dengan r = rasio antara dua suku yang berurutan, a = suku\npertama, Un = suku ke-n, U(n-1) = suku ke n-1, dan n = banyak suku.</p>\n\n<p>\u00a0</p>\n\n<p>Deret geometri adalah jumlah suku-suku barisan geometri.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum deret geometri adalah</p>\n\n<p>Sn = U\u2081 +\nU\u2082 + U\u2083 + ... + U(n - 1) + Un</p>\n\n<p>\u21d4 Sn = a + ar + ar\u00b2 +\n... + ar\u207f \u207b \u00b9</p>\n\n<p>\u21d4 Sn = [tex]\n\\frac{a(r^n-1)}{r-1} [/tex] untuk r &gt; 1</p>\n\n<p>\u21d4 Sn = [tex] \\frac{a(1\n- r^n)}{1 - r} [/tex] untuk r &lt; 1</p>\n\n<p>\u00a0</p>\n\n<p>Mari kita lihat soal tersebut.</p><span>Jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah...<br><br>Jawab :<br>Diketahui\u00a0<br>U</span>\u2081 = 16<br>\u21d4 a = 16<br><br>U\u2083 = 36<br><p>\u21d4 36 = ar\u00b2<br></p><p>\u21d4 36 = 16 x r\u00b2<br></p><p>\u21d4 r\u00b2 =\u00a0[tex] \\frac{36}{16} [/tex]<br></p><p>\u21d4 r\u00b2 = [tex] \\frac{9}{4} [/tex]<br></p><p>\u21d4 r = [tex] \\frac{3}{2} [/tex]<br></p><p><br></p><p>U\u2085 = ar\u2074<br></p><p>\u21d4 U\u2085 = 16 x ([tex] \\frac{3}{2} [/tex])\u2074<br></p><p>\u21d4 U\u2085 = 16 x\u00a0[tex] \\frac{81}{16} [/tex]<br></p>\u21d4 U\u2085 = 81<br><br>Jadi, jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah 81.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5670317<br><br>Semangat!<br><br>Stop Copy Paste!",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-vektor-a-2i-j-k-dan-b-i-2j-k-nilai-sinus-su-280",
+            "question": "Diketahui vektor a= 2i - j + k\u00a0dan b= i - 2j + k. nilai sinus sudut antara vektor a dan b adalah..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "|a||b|cos A = (2)(1) + (-1)(-2) + (1)(1)<br>(\u221a6)(\u221a6)cos A = 5<br>cos A = 5/6<br>sin A =\u00a0[tex] \\sqrt{1-cos^2A} [/tex]<br>sin A =\u00a0[tex] \\sqrt{1- \\frac{25}{36} } [/tex]<br>sin A =\u00a0[tex] \\sqrt{ \\frac{11}{36} } [/tex]<br>sin A =[tex] \\frac{1}{6}  \\sqrt{11} [/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-salah-satu-akar-persamaan-x2-2x-m2-5m-adalah-4-604",
+            "question": "Diketahui salah satu akar persamaan x2 + 2x = m2 - \u00a05m adalah 4. Hituglah nilai m !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : x\u00b2 + 2x = m\u00b2 - 5m<br><br>salah satu akar\u00a0 4 ===&gt; f(4) = 0<br><br>4\u00b2 + 2.4 = m\u00b2 - 5m<br><br>16 + 8 = m\u00b2 - 5m<br><br>m\u00b2 - 5m - 24 = 0<br><br>(m + 3)(m- 8) = 0<br>m = -3 v m = 8 (diambil yang positif)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-mempunyai-luas-1200cm2-selain-it-774",
+            "question": "Diketahui layang-layang \u00a0ABCD mempunyai luas 1.200cm2. Selain itu, ada layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal-diagonal layang-layang ABCD. Tentukan luas layang-layang \u00a0PQRS !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : layang-layang, luas, panjang diagonal, dua kali<br><br>Pembahasan :<br>Layang-layang\u00a0adalah segi empat yang dibentuk dari gabungan dua buah segitiga sama kaki yang alasnya sama panjang dan berhimpit.<br>Sifat-sifat layang-layang, yaitu :<br>1. masing-masing sepasang sisinya sama panjang;<br>2. sepasang sudut yang berhadapan sama besar;<br>3. salah satu diagonalnya merupakan sumbu simetri;<br>4. salah satu diagonalnya membagi diagonal lainnya menjadi dua bagian sama panjang dan kedua diagonal tersebut salah tegak lurus.<br><br>Kelilingnya dengan panjang sisi pendek b dan panjang sisi panjang a adalah <br>K = 2(a + b)<br><br>Luasnya dengan diagonal masing-masing d\u2081 dan d\u2082 adalah <br>L = 1/2(d\u2081 .d\u2082).<br><br>Mari kita lihat soal tersebut.<br>Diketahui luas layang-layang ABCD adalah 1200 cm\u00b2. Artinya<br>luas layang-layang ABCD adalah<br>L = 1/2(d\u2081 . d\u2082)<br>\u21d4 1200 = 1/2(d\u2081 . d\u2082)<br>\u21d4 2400 = d\u2081 . d\u2082<br>Selain itu, suatu layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal layang-layang ABCD. Artinya,<br>masing-masing panjang diagonal PQRS adalah<br>d\u2083 = 2 . d\u2081<br>d\u2084 = 2 . d\u2082<br>Luas layang-layang PQRS adalah<br>L = 1/2(d\u2083 . d\u2084)<br>\u21d4 L = 1/2(2d\u2081 . 2d\u2082)<br>\u21d4 L = 1/2(4 . d\u2081 . d\u2082)<br>\u21d4 L = 2(d\u2081 . d\u2082)<br>\u21d4 L = 2. 2400<br>\u21d4 L = 4800<br><br>Jadi, jika luas layang-layang ABCD adalah 1200 cm\u00b2, maka luas layang-layang PQRS adalah 4800 cm\u00b2.<br><br>Semangat Belajar!<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sinta-mempunyai-uang-sebesar-rp6000000-besar-uang-adik-23-da-197",
+            "question": "Sinta mempunyai uang sebesar Rp.60.000,00. Besar uang adik 2/3 dari uang Sinta. Berapa rupiah besar uang Sinta dan adik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Uang Adik : Uang Sinta<br>2 : 3<br>maka jumlah uang mereka adalah<br>= [tex] \\frac{5}{3} x 60.000[/tex]<br><br>= 5 x 20.000<br>= 100.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60.000 + 40.000 = 100.000 rupiah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-dan-y-memenuhi-xy-yx-52-dan-x-3y-1-maka-5x-5y-887",
+            "question": "Jika x dan y memenuhi x/y + y/x = 5/2 dan x - 3y = 1    maka 5x + 5y = ...\r\n\r\na. -15 atau -3\r\nb. -3 atau -3/5\r\nc. -3 atau 15\r\nd. 3 atau 3/5\r\ne. 3 atau 15\r\n\r\nYang ini ada jawabannya sesuai objektif di atas gak? tolong kasih tau caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{x}{y} + \\frac{y}{x} =  \\frac{5}{2}  [/tex]<br>x - 3y = 1 ==&gt; x = 1 + 3y....1<br><br>[tex] \\frac{x^{2} + y^{2}}{xy} =  \\frac{5}{2}  [/tex]<br>x\u00b2 + y\u00b2 =\u00a0 5.......2<br>xy = 2.......3<br><br>subs 1 ke 3<br>x = 1 + 3y<br>(1 + 3y)y = 2<br>y + 3y\u00b2 = 2<br>3y\u00b2 + y - 2 = 0<br>(3y - 2)(y + 1) = 0<br>3y - 2 = 0 atau y + 1 = 0<br>y = [tex] \\frac{2}{3} [/tex] atau y = -1<br>untuk y = [tex] \\frac{2}{3} [/tex] <br>xy = 2<br>x.[tex] \\frac{2}{3} [/tex] = 2<br>x = 3<br><br>untuk y = -1<br>xy = 2<br>x.(-1) = 2<br>x = -2<br><br>5x + 5y = 5(x +y).. kalo ngambil x = -2 dan y = -1 didapat nilai -15<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derajat-suku-banyak-5x2-x2-3x34x-2-adalah-872",
+            "question": "Derajat suku banyak (5x\u00b2-x)\u00b2\u00a0 (3x\u00b3+4x-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(5x^2 - x)^2 (3x63 + 4x - 2) = (25x^4 -10x^3\u00a0+ x^2) (3x^3 + 4x - 2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 75x^7 + 100x^5 - 50x^4 - 30x^6 - 40x^4 + 20x^3 + 3x^5 + \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04x^3 - 2x^2<br><br>Karena pangkatnya yang paling besar adalah 7 maka persamaan di atas berderajat tujuh.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-fungsi-kuadrat-yang-memotong-sumbu-x-dititk-304",
+            "question": "tentukan persamaan fungsi kuadrat yang memotong sumbu x dititk (-3,0) dan (1,0) serta memotong sumbu y di titik (0,6)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = a (X-X1) (X-X2)<br>6 = a (0-(-3)) (0-1)<br>6 = a (3) (-1)<br>6 = -3a<br>-2 = a<br><br>maka f(x) = -2 (x+3) (x-1)<br>f (x) = -2 (x\u00b2+2x-3)<br>f(x) = -2x\u00b2-4x+6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-aritmetika-berikut-a-50-46-42-807",
+            "question": "Tentukan jumlah deret aritmetika berikut:     a.) 50\u00a0+\u00a046\u00a0+\u00a042\u00a0+\u00a038\u00a0+\u00a0... sampai dengan 10 suku.\r\nb.) -\u00a022\u00a0-\u00a016\u00a0-\u00a010\u00a0-\u00a04\u00a0-\u00a0... sampai dengan 20 suku.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. S10\u00a0= 10/2 (2.50+(10-1) .\u00a0-4)<br>S10= 5 (100-36) =320<br>b. S20 = 20/2 (2. -22+(20-1)4)<br>S20 = 10(-44+76) = 320",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2(2a+(n-1)b)<br>s10=5(100+9.-4)<br>\u00a0\u00a0 \u00a0 \u00a0  =5(100-36)<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 =5(64)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =320<br>s20=10(2.-22+19.6)<br>\u00a0\u00a0 \u00a0 \u00a0  =10(-44+114)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =10(70)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =700<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-kegunaan-sin-cos-dan-tan-dalam-matematika-dan-dalam-kehidupan-728",
+            "question": "Apa kegunaan sin cos dan tan dalam matematika dan dalam kehidupan sehari hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n    Ada banyak manfaat belajar Trigonometri. <br><br>\nManfaat trigoneometri utk kehidupan, antara lain: <br>\n1. utk menghitung sudut serang (angle of attack) yg paling optimal dari \nsuatu peluncur senjata, agar mampu melontarkan projektil sejauh mungkin,\n <br>\n2. menentukan berapa gradient tertinggi dari suatu tanjakan di jalan \numum di pegunungan, agar semua kendaraan (terutama sedan, dgn panjang \nsumbu badan yg tinggi, tetapi, ketinggian as roda rendah), dapat \nmelewatinya dgn selamat, <br>\n3. utk menghitung berapa \"lift force\" suatu sayap profil pesawat, dgn \nkecepatan tertentu, yg tidak boleh dilewati. Bila nilai ini dilewati, \nmaka pesawat akan mengalami stall (jatuh karena tidak memiliki daya \nangkat), khususnya perhitungan ini diperlukan pada pesawat pemburu. <br>\n4. pada olah gerak teknis kapal selam di bawah air, dgn mengetahui sudut\n hidroplane depan dan belakang, menginterpolarisasikannya dgn kecepatan \nkapal, kita lalu dapat memperkirakan, berapa kita harus mengisi \ncompensating tank, agar kapal welltrimm pada kecepatan tersebut. <br>\n5. pada pengukuran ketinggian/kontur tanah, dgn mengetahui jarak tiang \npengukur yg satu terhadap yg lain, dan beda ketinggian antara dua tempat\n tiang pengukur, maka kita akan dapat mengetahui, berapa gradien \nkenaikan tanah yg kita ukur. <br>\n6. contoh sederhana dalam kejadian sehari-hari, saat kamu menaiki tangga\n tentunya kamu tidak ingin membuat sudut bidang miringnya terlalu besar \nkarena tangga akan terlalu mendongak, atau sudutnya terlalu kecil karena\n daya jangkaunya hanya rendah.  </span>\n    <span><br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. mengukur tinggi pohon atau gedung atau menara <br>\n2. menentukan posisi kapal atau perahu dengan bantuan jurusan tiga angka <br>\n3. mengukur luas segitiga atau bangun segiempat  <br>\n4. menghitung luas segi banyak <br>\n5. digunakan dalam ilmu fisika dan teknik <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

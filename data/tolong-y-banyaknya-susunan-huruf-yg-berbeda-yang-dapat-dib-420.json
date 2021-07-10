@@ -1,0 +1,138 @@
+{
+    "question": "Tolong y,,,, :)    Banyaknya susunan huruf yg berbeda yang dapat dibentuk dari kata \"MATEMATIKA\" Adalah ....\r\n\r\na. 151.200\r\nb. 100.800\r\nc. 75.600\r\nd. 60.480\r\ne. 50.400",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Permutasi adalah penyusunan kembali suatu komponen objek dalam urutan yang berbeda dari urutan semula</p><p>Rumus : [tex]P^{n} _{r}=\\frac{n!}{(n-r)!}[/tex]</p><p>Kombinasi adalah menggabungkan beberapa objek dari suatu grup tanpa memperhatikan urutan</p><p>Rumus : \u00a0[tex]C^{n}_ {r}=\\frac{n!}{r!(n-r)!}[/tex]</p><p>2 = huruf T</p><p>3 = huruf A</p><p>2 = huruf M</p><p>10 = huruf matematika </p><p>P=10!/2!3!2!</p><p>P=10.9.8.7.6.5.4.3/3!.2.2</p><p>P=10.9.8.7.2.5.3</p><p>P=151200 (A)</p><p>Materi yang serupa : </p><p>https://brainly.co.id/tugas/16127092</p><p>Semoga Membantu</p><p>Mapel: \u00a0Matematika </p><p>Kelas: \u00a011</p><p>Materi: \u00a0Permutasi dan Kombinasi </p><p>Kata Kunci: \u00a0Permutasi </p><p>Kode soal: \u00a02</p><p>Kode Kategorisasi : 11.2.2 </p><p>#optitimcompetition</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kasik-tau-cara-cari-tan-660-derajat-tolong-203",
+            "question": "Kasik tau cara cari tan 660 derajat, tolong! :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal tan (720\u00b0-60\u00b0)<br>karena tan di kuadran 4 negatif berarti :<br>tan 660\u00b0 = -(tan 60\u00b0) = -\u221a3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pencerminan-titik-32-terhadap-garis-x7-adalah-377",
+            "question": "Hasil pencerminan titik (3,2) terhadap garis x=7 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk y akan tetap sedangkan untuk x akan bergeser\u00a0<br><br>x1 = 3\u00a0<br><br>jarak 3 ke 7 adalah 4\u00a0<br>sehingga bila dicerminkan menjadi\u00a0<br>(7 +4, y)<br>atau (11,2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-25-x-1-28-x-67-955",
+            "question": "2 2/5 x 1 2/8 x 6/7 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pecahan campurannya dijadikan pecahan biasa.<br>12/5 x 10/8 x 6/7 = 720/280 = 72/28= 2 16/28 = 2 4/7",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 2/5=12/5<br>1 2/8=10/8=5/4<br><br>12/5 x 10/8 x 6/7 =18/7 =2 4/7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-suku-pertama-suatu-barisan-geometri-16-dan-suku-ketiga-3-764",
+            "question": "Jika suku pertama suatu barisan geometri = 16 dan suku ketiga = 36, maka besar suku kelima adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 12<br>Mapel : Matematika<br>Kategori : Barisan dan Deret<br>Kata Kunci : barisan geometri<br>Kode : 12.2.7 [<span>Kelas 12 Matematika KTSP - Bab 6 - Barisan dan Deret]<br></span><br>Pembahasan :<br><p>Barisan geometri adalah suatu barisan dengan rasio\n(pembanding atau pengali) antara dua suku yang berurutan selalu tetap atau\nkonstan.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum barisan geometri adalah</p>\n\n<p>U\u2081, U\u2082, ..., Un.</p>\n\n<p>U\u2081 =\na</p>\n\n<p>U\u2082 =\nar</p>\n\n<p>...</p>\n\n<p>Un = ar\u207f\u207b\u00b9,</p>\n\n<p>dengan r \u2260 0.</p>\n\n<p>\u00a0</p>\n\n<p>Sehingga berdasarkan definisi di atas berlaku hubungan</p>\n\n<p>\u00a0</p>\n\n<p>r = [tex] \\frac{U_n}{U_{n-1}} [/tex]</p>\n\n<p>\u00a0</p>\n\n<p>dengan r = rasio antara dua suku yang berurutan, a = suku\npertama, Un = suku ke-n, U(n-1) = suku ke n-1, dan n = banyak suku.</p>\n\n<p>\u00a0</p>\n\n<p>Deret geometri adalah jumlah suku-suku barisan geometri.</p>\n\n<p>\u00a0</p>\n\n<p>Bentuk umum deret geometri adalah</p>\n\n<p>Sn = U\u2081 +\nU\u2082 + U\u2083 + ... + U(n - 1) + Un</p>\n\n<p>\u21d4 Sn = a + ar + ar\u00b2 +\n... + ar\u207f \u207b \u00b9</p>\n\n<p>\u21d4 Sn = [tex]\n\\frac{a(r^n-1)}{r-1} [/tex] untuk r &gt; 1</p>\n\n<p>\u21d4 Sn = [tex] \\frac{a(1\n- r^n)}{1 - r} [/tex] untuk r &lt; 1</p>\n\n<p>\u00a0</p>\n\n<p>Mari kita lihat soal tersebut.</p><span>Jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah...<br><br>Jawab :<br>Diketahui\u00a0<br>U</span>\u2081 = 16<br>\u21d4 a = 16<br><br>U\u2083 = 36<br><p>\u21d4 36 = ar\u00b2<br></p><p>\u21d4 36 = 16 x r\u00b2<br></p><p>\u21d4 r\u00b2 =\u00a0[tex] \\frac{36}{16} [/tex]<br></p><p>\u21d4 r\u00b2 = [tex] \\frac{9}{4} [/tex]<br></p><p>\u21d4 r = [tex] \\frac{3}{2} [/tex]<br></p><p><br></p><p>U\u2085 = ar\u2074<br></p><p>\u21d4 U\u2085 = 16 x ([tex] \\frac{3}{2} [/tex])\u2074<br></p><p>\u21d4 U\u2085 = 16 x\u00a0[tex] \\frac{81}{16} [/tex]<br></p>\u21d4 U\u2085 = 81<br><br>Jadi, jika suku pertama suatu barisan geometri adalah 16 dan suku ketiga adalah 36, maka besar suku kelima adalah 81.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5670317<br><br>Semangat!<br><br>Stop Copy Paste!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

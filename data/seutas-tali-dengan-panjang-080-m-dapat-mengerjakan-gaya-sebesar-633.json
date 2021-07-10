@@ -1,0 +1,152 @@
+{
+    "question": "seutas tali dengan panjang 0,80 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,50 kg dalam suatu lingkaran horizontal. tentukan periode minimum agar benda dapat diayunkan tanpa menyebabkan tali putus.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori: Fisika Bab gerak Melingkar\u00a0<br>Kelas: XI SMA IPA\u00a0<br><br><span>Pembahasan:<br><br></span><span>Periode minimum agar benda dapat diayun sehingga tali tidak putus adalah\u00a0<strong>1,98 detik.</strong><br></span><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+            "attachments": [
+                "answer-attachments/seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-bantuan-nya-ya-1-air-sebanyak-60-gram-bersuhu-90-c-228",
+            "question": "Tolong bantuan nya ya?    1).\u00a0air sebanyak 60 gram bersuhu 90\u00a0\u00b0C( kalor jenis air = 1kal/gr\u00a0\u00b0C ) di campur\u00a040 gr air sejenis\u00a0bersuhu 25\u00a0\u00b0C. jika tidak ada faktor lain yang mempengaruhi proses ini, suhu akhir air campuran adalah.......\u00a0\u00b0C\r\n\r\n2). es massanya 100 gr bersuhu -5\u00b0C kemudian di beri kalor hingga menjadi air dengan suhu 15\u00b0C. ( kalor lebur es = 80 kal.g pangkat -1, kalor jenis es = 0,5 kal/g\u00b0C; kalor jenis air = 1 kal/g\u00b0C dan 1 kalori = 4,2 joule). Berapakah kalor yang diberikan pada es tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m1=60g=0,6 kg<br>1)T1=90&#039;C<br>m2=40g=0,4kg<br>T2=25&#039;C=1 kal/gr&#039;C<br>Tc=?<br>Qlepas=Qterima<br>m1*C*(T1-Tc)=m2*C*(Tc-T2)<br>m1*(T1-Tc)=m2*(Tc-T2)<br>60(90-Tc) \u00a0=40(Tc-25)<br>60/40(90-Tc)=Tc-25<br>3/2(90-Tc)=Tc-25<br>135-3/2Tc=Tc-25<br>135+25=Tc+3/2Tc<br>160 \u00a0 \u00a0=5/2Tc<br>Tc \u00a0 \u00a0 \u00a0 =160/5/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =160*2/5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32*2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =64 &#039;C",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-bisa-menjelaskan-sifat-sifat-rangkaian-rlc-siapa-316",
+            "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "36-kmjam-dijadikan-ms-berapa-sih-tolong-yah-please-777",
+            "question": "36 km/jam dijadikan m/s berapa sih?....\r\n\r\ntolong yah please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "36 x \u00a01000<br>---------------- = 10 m/s<br>\u00a0 \u00a03600",
+                    "attachments": []
+                },
+                {
+                    "answer": "36x10\u00b3 / 3600 = 10 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berikan-10-contoh-fluida-dalam-kehidupan-sehari-hari-648",
+            "question": "Berikan 10 contoh fluida dalam kehidupan sehari-hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Air, minyak, oli, minyak tanah, bensin, solarr, susu,, cairan pembersih piring, detergen cair",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>contoh-contoh fluida diabtaranya adalah : Minyak peluma, Susu dan air, Udara, Gas, Cairan.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736",
+            "question": "Lintasan berkas sinar ketika melalui sistem optik teropong bintang ditunjukkan seperti pada gambar.\u00a0    Berdasarkan gambar berikut, perbesaran bayangan untuk mata tidak berakomodasi adalah?\u00a0",
+            "attachments": [
+                "question-attachments/lintasan-berkas-sinar-ketika-melalui-sistem-optik-teropong-bintan-736-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Pada teroping apabila mata tidak berakomodasi maka nilai perbesaran hanyalah membandingkan panjang fokus objecktif dengan fokus okuler saja\u00a0<br><br>[tex]M = \\frac{f_ob}{f_ok} = \\frac{160}{2} = 80 [/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "160 : 2 = 80 <br>maaf rumusnya gak di tulis <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-kohesi-beserta-contohnya-654",
+            "question": "Apa yang di maksud kohesi beserta contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-baja-angka-muai-panjang-105c-panjangnya-1000-325",
+            "question": "sebatang baja (angka muai panjang 10\u207b\u2075/\u2070C) panjangnya 100,0 cm pada suhu 30\u2070C. bila panjang batang baja itu sekarang menjadi 100,1 cm, maka suhunya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt = L0 x\u00a0\u03b1 x\u00a0\u0394T<br>0,1 = 100 x\u00a0[tex] 10^{-5} [/tex] x ( x-30)<br>0,1 =\u00a0[tex] 10^{-3} [/tex] (x-30)<br>0,1 =\u00a0[tex] 10^{-3}x[/tex] - 0,03<br>0,1 + 0,03 =\u00a0[tex] 10^{-3}x[/tex]<br>0,13 =\u00a0[tex] 10^{-3}x[/tex]<br>x = [tex] 130^{0} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229",
+            "question": "Jika bermassa m digantungkan pada pegas yang memiliki tetapan k, maka pegas akan bertambah panjang 1,5 cm. Tentukan pertambahan panjang pegas jika pegasi disusun seperti gambar berikut ini.",
+            "attachments": [
+                "question-attachments/jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lm = 5 kg<br>\u00a0 \u00a0 \u00a0 k = 8 k<br>\u00a0 \u00a0 \u00a0 l = 1,5 cm = 0,015<br>\u00a0 \u00a0 \u00a0 g = 10 m/s<br>Dit \u0394l ?<br><br>F = k.l<br>m.g = 8k .\u0394l<br>5.10 = 8k .\u00a0\u0394l<br><br>\u0394l = 50 / 8k<br>\u00a0 \u00a0 = 6,25 m<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-masing-masing-3-contoh-pembentukan-bayangan-gambar-pa-712",
+            "question": "buatlah masing-masing 3 contoh pembentukan bayangan ( gambar ) pada lensa cembung dan cermin cembung beserta sifatnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk cermin cekung dan lensa cembung itu pembentukan bayangan dan sifatnya sama, yaitu<br>bila benda di ruang 1 maka bayangan di ruang 4, sifatnya maya, diperbesar, tegak<br>bila benda di ruang 2 maka bayangan di ruang 3, sifatnya nyata, terbalik diperbesar<br>bila benda di ruang 3 maka bayangan di ruang 2, sifatnya nyata, terbalik, diperkecil<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-berjalan-lurus-2-m-kebarat-kemudian-belok-ke-selata-114",
+            "question": "seorang anak berjalan lurus 2 m kebarat, kemudian belok ke selatan sejauh 6 m, dan belok lagi ketimur sejauh 10 m. perpindahan yang dilakukan anak tersebut dari posisi awal adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 barat = 2 meter<br>selatan\u00a0 =\u00a0 6 meter<br>timur = 10 meter<br><br>\u00a0\u00a0 \u00a0 .\u00a0 \u00a0 \u00a0 \u00a0 &lt;= 2meter\u00a0 \u00a0\u00a0 .(titik awal)<br>\u00a0\u00a0 \u00a0 <br><br>\u00a0<br>\u00a0\u00a0 selatan<br>\u00a0\u00a0  6 meter<br><br><br><br>\u00a0\u00a0 \u00a0\u00a0 .\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  10 meter  =&gt;\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  .(titik akhir)<br><br>hubungkan titik awal dengan titik akhir, lalu cari dengan phytagoras...<br>a\u00b2 + b\u00b2 = c\u00b2<br>6\u00b2 + 8\u00b2 = c\u00b2<br>36 + 64 = c\u00b2<br>c = \u221a100 = 10<br><br>semoga membantu~ <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b 2m &lt;-- a<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 |\u00a0 \u00a0\u00a0 |<strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 | <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 |\u00a0 6m <strong>\\</strong>\u00a0 \u00a0 Perpindahan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 |\u00a0\u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  |\u00a0 \u00a0\u00a0 | \u00a0\u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 | \u00a0 \u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0  c\u00a0 \u00a0 ---------&gt; 10 m d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -8 m-<br>Maka, perpindahannya.. \u221a6\u00b2 + 8\u00b2<br>= \u221a100<br>= 10 m<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

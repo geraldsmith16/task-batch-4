@@ -1,0 +1,142 @@
+{
+    "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+            "attachments": [
+                "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-suku-berikutnya-dari-barisan-14916-383",
+            "question": "\u00a0tiga suku berikutnya dari barisan 1,4,9,16....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>1,4,9,16 ,..... ditanyakan 3 suku berikutnya .<br><br>Pola bilangan diatas merupakan pola bilangan bertingkat.<br><br><strong>1, 4, 9, 16</strong>\u00a0 \u00a0</span>\u2192 a = 1<br>\u00a0 3, 5,\u00a0 7\u00a0 \u00a0 \u00a0\u00a0\u2192 b = 3<br>\u00a0 \u00a0 2,\u00a0 2\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u2192 c = 2<br><br>Untuk Menentukan tiap suku berikutnya, digunakan rumus pola bilangan bertingkat seperti dibawah ini :<br><br>\u00a0 \u00a0Un = a + (n - 1)b + (n\u00b2 - 3n + 2)[tex] \\frac{c}{2} [/tex]<br><br>dari pola bilangan diatas, nilai a, b, dan c subtitusi pada persamaan pola bilangan.<br><br>\u00a0 \u00a0Un = 1 + (n - 1)(3) + (n\u00b2 - 3n + 2)[tex] \\frac{2}{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 + 3n - 3 + (n\u00b2 - 3n + 2)<br>\u00a0 \u00a0Un = n\u00b2\u00a0<br><br>Jadi Rumus Pola ke - 5 barisan tersebut :<br>\u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>Un\u00a0 = n\u00b2<br><br><br>Untuk tiga suku berikutnya yaitu :<br></strong><br><strong></strong>Suku ke - 5\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2085 = 5\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 25</strong><br><br>Suku ke - 6\u00a0\u2192 Un = n\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2086 = 6\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 36<br><br></strong>Suku ke - 7\u00a0\u2192 Un = n\u00b2<br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</strong>U\u2087 = 7\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>= 49<br><br></strong>Jadi, tiga suku berikutnya adalah<strong> 25, 36, 49<br><br></strong>\u2192 1, 4, 9, 16, <strong>25, 36, 49<br><br><br><br></strong>Soal Pola bilangan lain untuk dipelajari<br>\u2192\u00a0brainly.co.id/tugas/5534940<br>\u2192\u00a0brainly.co.id/tugas/15254892<br>\u2192\u00a0brainly.co.id/tugas/1589685<br><strong><br><br></strong><strong>_____________________________________________________________<br></strong><strong><br>Kelas : 10<br>Mapel : Matematika<br>Kategori : Barisan dan Deret Bilangan<br>Kata Kunci : Pola Bilangan Bertingkat<br>Kode : 10.2.9 [Kelas 10 Matematika Bab 9 - Barisan dan Deret Bilangan]<br></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-kuadrat-memotong-sumbu-x-di-dua-titik-549",
+            "question": "Jelaskan fungsi kuadrat memotong sumbu x di dua titik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsi kuadrat yang memotong sumbu x di dua titik adalah fungsi kuadrat yang D&gt;0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "proyeksi-vektor-a-300-pada-vektor-yang-sejajar-tetapi-berl-820",
+            "question": "Proyeksi vektor a = (-3,0,0) pada vektor yang sejajar tetapi berlawanan arah dengan vektor b = (1,-2,-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor yg berlawanan b&#039; = (-1,2,2)<br>proyeksi vektor\u00a0[tex]c =  \\frac{a.b&#039;}{|b&#039;|^{2} }b&#039; [/tex]<br>[tex]a.b&#039;=3+0+0[/tex]<br>[tex]a.b&#039;=3[/tex]<br>[tex] |b&#039;|^{2} = 1+4+4 [/tex]<br>[tex] |b&#039;|^{2} = 9[/tex]<br>sehingga<br>[tex]c= \\frac{3}{9} (-1,2,2)[/tex]<br>[tex]c= \\frac{1}{3} (-1,2,2)[/tex]<br>[tex]c=(- \\frac{1}{3} , \\frac{2}{3} , \\frac{2}{3} )[/tex]<br><br>CMIIW :3<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fxx2-1-gx-2x-1-jika-hx-fxgx-maka-domain-h-901",
+            "question": "F(x)=\u221ax\u00b2-1 g(x)=\u00a0\u221a2x-1. jika h(x)= f(x).g(x) maka domain h(x) yang memenuhi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]h(x)= f(x).g(x) \\\\ h(x) = \\sqrt{ x^{2} -1} .  \\sqrt{2x-1}  \\\\ h(x) =  \\sqrt{ 2x^{3} -  x^{2} -2x+1 } [/tex]<br><br>Ingat di dalam akar tidak boleh\u00a0negatif..<br><br>[tex]2x^{3} -  x^{2} -2x+1 \\geq 0  \\\\  (x-1)(2x-1)(x+1)  \\geq 0[/tex]<br><br>buat garis bilangan sehingga diperoleh<br>[tex]-1 \\leq x \\leq \\frac{1}{2} ; x \\geq 1[/tex]<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "{ ( x^2 - 1 ) . ( 2x - 1) }^1/2<br>( 2x^3 - x^2 - 2x +1 )^1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-salah-satu-akar-persamaan-x2-2x-m2-5m-adalah-4-604",
+            "question": "Diketahui salah satu akar persamaan x2 + 2x = m2 - \u00a05m adalah 4. Hituglah nilai m !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : x\u00b2 + 2x = m\u00b2 - 5m<br><br>salah satu akar\u00a0 4 ===&gt; f(4) = 0<br><br>4\u00b2 + 2.4 = m\u00b2 - 5m<br><br>16 + 8 = m\u00b2 - 5m<br><br>m\u00b2 - 5m - 24 = 0<br><br>(m + 3)(m- 8) = 0<br>m = -3 v m = 8 (diambil yang positif)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "question": "Tolong carikan tiga bilangan dari masing-masing barisan berikut:\r\na.1,27,125,343\r\nb.8,64,216,512",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a) 1 , 27 , 125 , 343 , ...\u00a0 \u00a0  polanya adalah : 1^3 , 3^3 , 5^3 , 7^3 , ...<br>\u00a0\u00a0 \u00a0 (pola bilangan ganjil pangkat 3)<br>\u00a0\u00a0 \u00a0 makan tiga bilangan selanjutnya adalah: <br>\u00a0\u00a0 \u00a0 9^3 = 729 <br>\u00a0\u00a0 \u00a0 11^3 = 1331<br>\u00a0\u00a0 \u00a0  13^3 = 2197 <br><br>b) 8 , 64 , 216 , 512 , ... polanya adalah : 2^3 , 4^3 , 6^3 , 8^3 , ... <br>\u00a0\u00a0  (pola bilangan genap pangkat 3)<br>\u00a0\u00a0 maka\u00a0 tiga bilangan selanjutnya adalah : <br>\u00a0\u00a0 10^3 = 1000 <br>\u00a0\u00a0  12^3 = 1728 <br>\u00a0\u00a0  14^3 = 2744<br>",
+            "attachments": []
+        },
+        {
+            "answer": "a.1,27,125,343 abenar atau salah<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-taman-bunga-berbentuk-lingkaran-dengan-luas-1386-m2-di-s-139",
+            "question": "suatu taman bunga berbentuk lingkaran dengan luas 1.386 m\u00b2. di sekeliling taman itu setiap 4 meter ditanami pohon cemara. banyak pohon cemara yang dapat ditanam adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas lingkaran = [tex] \\pi [/tex] x r\u00b2<br>1386 m\u00b2 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{22}{7} [/tex] x r\u00b2<br>1386 m\u00b2 x\u00a0[tex] \\frac{7}{22} [/tex] = r\u00b2<br>\u00a0[tex]\\sqrt{441} [/tex] m\u00b2 = r<br>\u00a0 \u00a0 21 m \u00a0 \u00a0 \u00a0 \u00a0 = r<br><br>keliling =\u00a0[tex] \\pi [/tex] x diameter<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x 2 x r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x 2 x 21 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 132 m<br><br>banyak pohon cemara yang ditanam = 132 m : 4 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas = [tex] \\pi [/tex].r2<br>1386 = 22/7 . r\u00b2<br>r\u00b2 = 1386 . 7 / 22<br>r = \u221a441<br>r = 21<br><br>K = 2.[tex] \\pi [/tex].r<br>K = 2.22/7.21<br>K = 44 . 3 = 132<br><br>banyak pohon = 132/4 = 33 pohon<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-sebuah-lingkaran-diketahui-20-cm-hitunglah-a-667",
+            "question": "Panjang jari-jari sebuah lingkaran diketahui 20 cm. Hitunglah:    a. panjang busur di hadapan sudut 30\u00b0;\r\nb. luas juring di hadapan sudut 45\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span><span>Jawab A.<br>Misal panjang busur di hadapan sudut 30\u00b0 adalah AB dan sudut 30\u00b0 =\u00a0</span>\u2220<span>AOB maka\u00a0:<br><span><span>panjang AB\u00a0/\u00a02\u00a0\u03c0r =\u00a0\u2220AOB/360\u00b0<br></span><span>panjang AB\u00a0/\u00a0(2 x\u00a03,14 x 20 cm)\u00a0=\u00a030\u00b0\u00a0/\u00a0360\u00b0<br></span><span>panjang AB\u00a0/\u00a0125,6\u00a0cm\u00a0=\u00a01\u00a0/\u00a012<br></span><span>panjang AB\u00a0= 125,6\u00a0cm\u00a0/\u00a012<br></span><span>panjang AB\u00a0= 10,5\u00a0<span>cm<br><br>Jawab B.<br><span><span>Misal luas juring di hadapan sudut 45\u00b0 = POQ dan sudut 45\u00b0 =\u00a0\u2220POQ maka\u00a0:<br></span><span>luas\u00a0POQ /\u00a0luas lingkaran =\u00a0\u2220POQ\u00a0/\u2220 1 lingkaran<br></span><span>luas\u00a0POQ /\u00a0\u03c0\u00a0r\u00b2=\u00a045\u00b0\u00a0/\u00a0360\u00b0<br></span><span>luas\u00a0POQ = (45\u00b0\u00a0/\u00a0360\u00b0) x\u00a0\u03c0\u00a0<span>r\u00b2<br></span></span><span>luas\u00a0POQ = 0,125\u00a0x\u00a03,14 x (20 cm)\u00b2<br></span><span>luas\u00a0POQ = 157\u00a0cm</span></span></span></span></span></span></span>\u00b2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dina-membeli-baju-seharga-rp131750-setelah-dia-memperoleh-potong-146",
+            "question": "dina membeli baju seharga Rp131.750 setelah dia memperoleh potongan harga 15%.Tentukan harga yang terter pada baju tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya 15:100 *131.750<br>#semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "131750*15%=19762.5 itu harga potongannya . nah harga setelah potongan 131750-19762.5= 111987.5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kolam-berbentuk-lingkaran-berjari-jari-40m-di-sekeliling-k-353",
+            "question": "sebuah kolam berbentuk lingkaran berjari-jari 40m di sekeliling kolam di buat jalan melingkar selebar 2 m jika biaya untuk membuat jalan tiap 1m\u00b2 adalah Rp20.000,00 hitunglah seluruh biaya untuk membuat jalan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L1 =\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 = 3,14 x 40 m x 40 m<br>\u00a0 \u00a0 = 5024 m\u00b2<br>L2 =\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 = 3,14 x 42 m x 42 m<br>\u00a0 \u00a0 = 5538,96 m\u00b2<br>L jalan = 5538, 96 m\u00b2 - 5024 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 514,96 m\u00b2<br>Biaya total = biaya awal x L jalan]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 20.000 x 514,96 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp\u00a010.299.200",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-dua-pecahan-yang-senilai-dari-pecahan-dibawah-ini-125-902",
+            "question": "Tentukan dua pecahan yang senilai dari pecahan dibawah ini    1.2/5 (dua perlima)\r\n2.3/7(tiga pertujuh)\r\n3.5/9(lima persembilan)\r\n4.9/21(sembilan perdua satu)\r\n5.14/15(empat belas perlima belas)\r\n6.4/25(empat perdua lima)\r\n7.7/11(tujuh persebelas)\r\n8.6/15(enam perlima belas)\r\n9.12/28(dua belas perdua lapan)\r\n10.13/39(tiga belas pertiga sembilan)\r\n11.18/20(delapan belas perdua puluh)\r\n12.8/12(delapan perdua belas)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/5 = 4/10 = 6/15<br>3/7 = 6/14= 12/28<br>5/9 = 10/18= 20/36<br>9/21 = 3/7 = 6/14<br>14/15 = 28/30= 56/60<br>4/25 = 8/50 = 16/100<br>7/11 = 14/22= 21/33<br>6/15= 2/5 = 4/10<br>12/28 = 6/14 =3/7<br>13/39 = 1/3 = 26/78<br>18/20 = 9/10 = 36/40<br>8/12 = 4/6 = 2/3<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaranjika-diketahui-luas-lingkaran-sama-d-202",
+            "question": "Tentukan jari jari lingkaran,jika diketahui luas lingkaran sama dengan 113,04 cm2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas linkaran=pi  r^{2}<br>113,04=3,14\u00a0. r^{2}<br>113,04/3,14= r^{2)<br>36= r^{2}<br>[tex] \\sqrt{36} [/tex]=r<br>6=r",
+                    "attachments": []
+                },
+                {
+                    "answer": "L=\u00a0\u03c0r\u00b2<br>113,04=3,14\u00d7r\u00b2<br>r\u00b2=113,04\u00f73,14<br>r\u00b2=36<br>r=\u221a36<br>r=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukman-memanfaatkan-tanah-kosongnya-untuk-tempat-kandang-kambing-624",
+            "question": "Lukman memanfaatkan tanah kosongnya untuk tempat kandang kambing.luas tanah 100m.    ada empat kandang kambing yg akan dibuat dan tiap tiap kandang berbentuk sama yaitu persegi. berapa dm luas tiap tiap kandang kambing??? tolong caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika - satuan<br>Kelas : 6 SD<br><br><span>Pembahasan :\u00a0<br><br></span>Luas tanah = luas\u00a04 kandang kambing = 100m\u00b2<br>1 kandang kambing = 100 : 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 25\u00a0m\u00b2<br><br>konversikan satuan\u00a0m\u00b2 ke dm\u00b2 yaitu\u00a0turun 1 tingkat dengan mengalikan\u00a0100.<br><span>sehingga,<br><br></span><span>1 kandang kambing\u00a0</span><span>= 25 x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02500\u00a0dm\u00b2<br></span><br><span>Jadi,\u00a0luas tiap kandang kambing adalah\u00a0</span><span><strong>2500 dm\u00b2</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-suatu-barisan-bilangan-adalah-un-n-n-3-nila-622",
+            "question": "Rumus suku ke-n suatu barisan bilangan adalah Un= \u00bdn (n-3). Nilai dari U12 - U8 = .... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un= 1/2n(n-3)<br>U12=1/2x12(12-3)<br>\u00a0\u00a0 \u00a0  =54<br>U8=1/2x8(8-3)<br>\u00a0\u00a0 \u00a0 =20<br><br>U12-U8= 54-20=34<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u12= 1/2*12 (12-3) = 6*9 = 54                                                                                                                               \nu8= 1/2*8 (8-3) = 4*5 = 20                                                                                                                                       u12-u8= 54-20 = 34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-4-rak-telur-dengan-harga-telur-rp2100000-tiap-rak-658",
+            "question": "ibu membeli 4 rak telur dengan harga telur rp.21.000,00 tiap rak.tiap rak berisi 30 butir telur.kemudian ibu menjual kembali dan setiap satu butir telur mendapatkan keuntungan rp100,00 berapakah harga jual telur seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 rak = 30 butir telur \u00d7 4 rak = 120 butir telur<br>1 rak = rp 21.000 \u00d7 4 rak = rp84.000<br>- keuntungan 1 butir telur = rp100 \u00d7 120 butir =rp12.000<br>- harga jual telur seluruhnya rp84.000 + rp12.000 = rp96.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4 rak telur rp.21.000,00<br>harga 1 biji telur =21.000,00:30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 rp.700,00<br>keuntungan rp.100,00<br>hara jual telur seluruhnya=rp.700,00+rp.100,00*30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =rp.800,00*30<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =rp.24000,00<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2x-4gt-3x9-175",
+            "question": "Himpunan penyelesaian dari 2x-4&gt; 3x+9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-4 &gt; 3x+9<br>2x-3x &gt; 9+4<br>\u00a0\u00a0 \u00a0 -1x &gt; 13<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 x &gt; -13<br><br><br>kalo ga salah yaaa<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 4 &gt; 3x\u00a0+ 9 = ...<br>2x - 3x &gt; 9 + 4 = ...<br>\u00a0\u00a0 - x \u00a0 \u00a0&gt; 13 \u00a0 = ....<br>\u00a0\u00a0 \u00a0x \u00a0 \u00a0 &gt; -13 \u00a0gg",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

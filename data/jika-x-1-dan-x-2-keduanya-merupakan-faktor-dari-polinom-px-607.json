@@ -1,0 +1,142 @@
+{
+    "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+            "attachments": []
+        },
+        {
+            "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tolong-y-banyaknya-susunan-huruf-yg-berbeda-yang-dapat-dib-420",
+            "question": "Tolong y,,,, :)    Banyaknya susunan huruf yg berbeda yang dapat dibentuk dari kata \"MATEMATIKA\" Adalah ....\r\n\r\na. 151.200\r\nb. 100.800\r\nc. 75.600\r\nd. 60.480\r\ne. 50.400",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Permutasi adalah penyusunan kembali suatu komponen objek dalam urutan yang berbeda dari urutan semula</p><p>Rumus : [tex]P^{n} _{r}=\\frac{n!}{(n-r)!}[/tex]</p><p>Kombinasi adalah menggabungkan beberapa objek dari suatu grup tanpa memperhatikan urutan</p><p>Rumus : \u00a0[tex]C^{n}_ {r}=\\frac{n!}{r!(n-r)!}[/tex]</p><p>2 = huruf T</p><p>3 = huruf A</p><p>2 = huruf M</p><p>10 = huruf matematika </p><p>P=10!/2!3!2!</p><p>P=10.9.8.7.6.5.4.3/3!.2.2</p><p>P=10.9.8.7.2.5.3</p><p>P=151200 (A)</p><p>Materi yang serupa : </p><p>https://brainly.co.id/tugas/16127092</p><p>Semoga Membantu</p><p>Mapel: \u00a0Matematika </p><p>Kelas: \u00a011</p><p>Materi: \u00a0Permutasi dan Kombinasi </p><p>Kata Kunci: \u00a0Permutasi </p><p>Kode soal: \u00a02</p><p>Kode Kategorisasi : 11.2.2 </p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-kuadrat-memotong-sumbu-x-di-dua-titik-549",
+            "question": "Jelaskan fungsi kuadrat memotong sumbu x di dua titik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsi kuadrat yang memotong sumbu x di dua titik adalah fungsi kuadrat yang D&gt;0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kali-dalam-1-hari-terbentuk-sudut-sudut-a90-derajat-b180-878",
+            "question": "Berapa kali dalam 1 hari terbentuk sudut sudut    a.90 derajat \r\n b.180 derajat \r\n c.30 derajat \r\n d. 120 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.90 derajat = 5 kali<br>b.180 derajat= 10 kali<br>c.30 derajat= 12 kali<br>d. 120 derajat= 3 kali",
+                    "attachments": []
+                },
+                {
+                    "answer": "Antara jarum jam dinding?<br><br>90 derajat 4 kali, 03.00 09.00 15.00 21.00<br>180 derajat 2 kali 06.00 18.00<br>30 derajat 4 kali 01.00 11.00 13.00 23.00<br>120 derajat 4 kali 04.00 08.00 16.00 20.00<br><br>Sudut antara jarum jam yang panjangnya tidak tepat di 12 karena selain saat itu sudutnya tidak pas. Bisa saja jarum pendek yang angkanya lebih sedikit sudutnya sudah tidak tepat.<br><br>Maaf kalau salah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dipotong-mnjadi-52-bagian-yg-masing-masing-potongan-m-419",
+            "question": "Seutas tali dipotong mnjadi 52 bagian yg masing-masing potongan membentuk deret aritmetika. Bila yg terpendek 3 cm dan yg terpanjang adalah 105 cm, maka panjang semula adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un=a+(n-1)b<br>U1=3<br>U1=a+(1-1)b=3<br>U1=a=3\u00a0<br><br>mencari b dengan memasukan ke\u00a0<br>\u00a0U52=a+(52-1)b=105<br>U52=a+51b=105<br>a tadi adalah 3<br>dimsukan \u00a0a+51b=105<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03+51b=105<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 51b=102<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=2<br><br>Sn=(n/2) (2a+(n-1)b)<br>S52=(52/2)(2(3)+(52-1)2)<br>S52=(26)(6+(51)2)<br>S52=26\u00a0(6+102)<br>S52=26(108)<br>S52=2808\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-bilangan-kuadrat-jika-dibagi-3-maka-kemunkinan-sisanya-bera-782",
+            "question": "Suatu bilangan kuadrat jika dibagi 3 maka kemunkinan sisanya berapa..???    tolong di jelaskan se detail mungkin... oke friend...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> jumlah dua bilangan berpangkat sama ganjil, habis dibagi jumlah bilangan yang dipangkatkan 3</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu bia<br>langan kuadrat dibagi 3 maka kemungkinan sisanya adalah <br>1 atau 0 <br>dibuat tabel aja <br><u>bil kuadrat</u>\u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0<u> sisa setelah dibagi 3 </u><br>4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>16\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 <br>25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>36\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>49\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>64\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>81\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>dst<br>jadi sisa pembagian bil kuadrat oleh 3 secara berurutan adalah <br>1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, ...<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rp-2650000-untuk-2-hari-senilai-dgn-untuk-5-hari-723",
+            "question": "Rp 26.500.00 untuk 2 hari senilai dgn ........... untuk 5 hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "26,500 : 2 = 13,250\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 13,250 x 5 = 66,250 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Jadi untuk 5 hari = Rp 66,250.00<br>\u00a0 \u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-dari-deret-geometri-dibawah-ini-a-1-2-4-766",
+            "question": "Tentukan nilai dari deret geometri dibawah ini :    a.) 1 + 2 + 4 + 8 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ( sampai 10 suku)\r\nb.) 54 + 18 + 6 + 2 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 (sampai 9 suku)\r\nc.) 81 + 27 + 9 + ... + 1/27 = ...\u00a0 \u00a0 \u00a0 \r\nd.) 5 - 15 + 45 - 135 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (sampai 8 suku)\r\ne.) 3 - 6 + 12 - 24 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 (sampai 10 suku)\r\nf.) 1 - 1 + 1 - 1 + 1 - 1 + ...\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(sampai 100 suku)\r\ng.) 1 + 1 + 3 + 2 + 9 + 4 + 27 + 8 +... (sampai 19 suku)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Un = ar^n-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1.\u00a02^10-1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 512",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 1,2,4,8,16,32,64,128,256,512<br>b. 54,18,6,2,2/3,2/9,2/27,2/81,2/243<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-2a3-4a-pangkat-23-426",
+            "question": "Bentuk sederhana dari (-2a)\u00b3 (4a) pangkat -2/3    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (32a pangkat 4) pangkat 1/3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{(-2a)^{4}  (4a)^{- \\frac{2}{3}}}{ (32a^{4}) ^{ \\frac{1}{3}}  } [/tex]<br><br>[tex]\\frac{(-2a)^{4} (2^{2} a)^{- \\frac{2}{3}}}{ (2^{5} a^{4}) ^{ \\frac{1}{3}} } [/tex]<br><br>[tex]\\frac{(-2^{4} a^{4}) (2^{ \\frac{-4}{3}} a^{- \\frac{2}{3}})}{ (2^{ \\frac{5}{3} } a^{ \\frac{4}{3} }) } [/tex]<br><br>[tex](2^{ \\frac{3}{3}} a^{ \\frac{6}{3}})}[/tex]<br><br>[tex]2a^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-diketahui-barisan-aritmetika-dengan-u3-3-dan-u8-13-363",
+            "question": "3. Diketahui barisan    aritmetika dengan U3 = 3 dan U8 = 13\r\n\r\n\u00a0\u00a0\u00a0 \r\nTentukan yang berikut ini !\r\n\r\n\u00a0 \r\n\u00a0 a. Nilai suku pertama dan bedanya\u00a0\r\n\r\n\r\n\u00a0 b. Suku ke-50\r\n\r\n\u00a0\u00a0 \r\n\u00a0 c. n jika Un = 147",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara cari bedanya seperti ini<br>U 3 = 3<br><u>U 8 = 13</u> -<br>-5 = -10<br>B = 2<br>Lalu<br>suku pertama tinggal dikurangin 4 hehe<br>jadi -1<br><br>Suku ke 50 = (3x50 ) - 3<br><br>yang ke c tinggal gunakan cara subtitusi bila masih ada yang ditanyakan silahkan bertanya di komentar thanks :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = a+2b = \u00a0 3<br><u>U8 = a+7b = 13</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  -  5b = -10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 2<br>b=2, U3 = a+(2x2) = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a+4 = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a = 3 - 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = -1<br><br>U50 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + (50 -1) 2<br>\u00a0\u00a0 \u00a0 \u00a0  = (-1) + (49) 2<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + 98<br>\u00a0\u00a0 \u00a0 \u00a0  = 97<br>Un\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 147<br>a+(n-1)b \u00a0\u00a0 = 147<br>(-1)+(n-1)2 = 147<br>(-1)+2n-2\u00a0\u00a0 = 147<br>2n-3\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 147<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 147+3<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 150<br>n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 75<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

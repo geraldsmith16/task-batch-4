@@ -1,0 +1,136 @@
+{
+    "question": "Bentuk sederhana dari \u00a0 1/\u00a01+ sin A",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex] \\frac{1}{1+sinA} [/tex]<br>[tex] \\frac{1}{1+sinA} ( \\frac{1-sinA}{1-sinA} )[/tex]<br>[tex] \\frac{1-sinA}{1-sin^2A} [/tex]<br>[tex] \\frac{1-sinA}{cos^2A} [/tex]<br>[tex]sec^2A-secAtanA[/tex]<br>[tex]secA(secA-tanA)[/tex]<br>gitu bukan maksudnya?<br><br>CMIIW :3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "3-bilangan-positif-membentuk-barisan-geometri-dengan-rasio-r-gt-798",
+            "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-persamaan-fungsi-kuadrat-yang-memotong-sumbu-x-dititk-304",
+            "question": "tentukan persamaan fungsi kuadrat yang memotong sumbu x dititk (-3,0) dan (1,0) serta memotong sumbu y di titik (0,6)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = a (X-X1) (X-X2)<br>6 = a (0-(-3)) (0-1)<br>6 = a (3) (-1)<br>6 = -3a<br>-2 = a<br><br>maka f(x) = -2 (x+3) (x-1)<br>f (x) = -2 (x\u00b2+2x-3)<br>f(x) = -2x\u00b2-4x+6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-merupakan-pasangan-invers-dari-fungsi-fxx43-adalah-422",
+            "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-pangkat-2-sama-artinya-dengan-302",
+            "question": "8 pangkat -2 sama artinya dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama artinya dengan 8^-2 =\u00a0[tex] \\frac{1}{8^2} =  \\frac{1}{64}  [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau tidak salah sama dengan pangkat 8 : pangkat 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "range-untuk-fungsi-f-x-x2-2x-3-untuk-daerah-asal-x-1lt-508",
+            "question": "Range\u00a0 untuk fungsi f (x) =x2-2x-3 untuk daerah asal {x/-1&lt;_ x &lt;_ 4, x E R} adalah.??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "daerah asalnya x= {1, 2, 3, 4} keterangan: R= bilangan asli.<br><br>range { -4, -3, 0, 5}<br><br>caranya daerah asalnya subtitusi ke persamaan f(x) = x^2 - 2x -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "x={-1,0,1,2,3,4}<br>f(x) = x\u00b2-2x-3<br>f(-1) = -1\u00b2-2*-1-3<br>\u00a0\u00a0 \u00a0\u00a0 = 1+2-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 0<br>f(0) = 0\u00b2-2*0-3<br>\u00a0\u00a0 \u00a0\u00a0 = -3<br>f(1) = 1-2-3<br>\u00a0\u00a0 \u00a0 = -4<br>f(2) = 4-4-3<br>\u00a0\u00a0 \u00a0  = -3<br>f(3) = 9-6-3<br>\u00a0\u00a0 \u00a0\u00a0 = 0<br>f(4) = 16-8-3<br>\u00a0\u00a0 \u00a0  = 5<br>range ={-3,-4,0,5}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-a-16-putaran-b-25-putaran-935",
+            "question": "Ubahlah ke bentuk satuan derajat dan a. 1/6 putaran b 2/5 putaran c 3/10 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/6 x 360=60 ,;b.2/5 x 360 = 72; c.3/10 x 360=108....\nmaaf bila salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-bilangan-14-dan-224-disisipkan-3-bilangan-sehingga-terb-514",
+            "question": "Di antara bilangan 14 dan 224 disisipkan 3 bilangan sehingga terbentuk barisan geometri. Tentukanlah rasio dan jumlah deret tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]  r_{baru} = \\sqrt[3+1]{224/14}  =  \\sqrt[4]{16} = 2[/tex]<br><br>[tex] S_{5} =  \\frac{14( 2^{5} - 1)}{2-1} = 448[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sehari-jarum-jam-membentuk-sudut-30-derajat-sebanyak-berapa-552",
+            "question": "Dalam sehari jarum jam membentuk sudut 30 derajat sebanyak berapa kali..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 hari 24 jam= 360 derajat. 360 derajat / 30 derajat = 12 kali<br>karna ada siang dan malam maka 720 derajat/ 30 derajat\u00a0 = 24 kali\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-deret-aritmatika-diketahui-a5-un29-dan-sn357-te-612",
+            "question": "Dari sebuah deret aritmatika, diketahui a=5, Un=29 dan Sn=357. Tentukan b dan n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn=n/2(a+un). 357=n/2(5+29). 357=n/2*34. 357=17n. n=21. Un=a+(n-1)b. 29=5+(21-1)b. 24=20b. b=6/5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>Un=a + (n-1) b<br>\u00a029 \u00a0= 5 + (29-1) b<br>29= 5 +28b<br>28b=24<br>b=24/28=6/7<br><br>29=5+(n-1)6/7<br>29=5+6/7n-6/7<br>29-5+6/7=6/7n<br>24+6/7=6/7n<br>168/7+6/7=6/7n<br>234/7=6/7n<br>n=234/7:6/7=234/7 x 7/6=39<br>\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

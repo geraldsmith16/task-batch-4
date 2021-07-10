@@ -1,0 +1,140 @@
+{
+    "question": "Buktikan identitas trigonometri berikut! \u00a0 sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>sec\u00b2 A + cosec\u00b2 A = 1/ sin\u00b2 A cos\u00b2 A<br></span><br><span>sec\u00b2 A + cosec\u00b2 A <br><br></span><br><span>(1/cos\u00b2 A) + (1/sin\u00b2 A)<br><br>sin\u00b2 A + cos\u00b2 A<br>-----------------------<br>sin\u00b2 A cos\u00b2 A<br><br>..........1..........<br>----------------------<br>sin\u00b2 A cos\u00b2 A...............terbukti<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-barisan-aritmatika-bedanya-5-suku-pertamanya-3-dan-banyak-334",
+            "question": "Suatu barisan aritmatika bedanya 5, suku pertamanya 3 dan banyak suku 99. tentukan suku tengahnyaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U99=a+98b<br>U99=3+98.5=493<br>Ut= 1/2(a+Un) = 1/2(3+493)=248",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena banyak suku ada 99,<br>maka suku tengah nya adalah suku (99+1)/2 = suku ke 50<br><br>[tex]U_{50}=a+49b=3+49(5)=3+245=248[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-seper-berapa-putaran-penuhkah-sudut-sudut-berikut-a-3-202",
+            "question": "Tentukan seper berapa putaran penuhkah sudut sudut berikut :    a. 30 derajat\r\nb. 216 derajat\r\nc. 315 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.30/360 = 1/12<br>b.216/360=3/5<br>c.315/360=7/8<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 30/360 = 3/36 = 1/12 putaran<br>b. 216/360 =\u00a0 6/10 = 3/5 putaran<br>c. 315/360 = 875/1000 = 35/40 = 7/8 putaran<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285",
+            "question": "1. jumlah semua bilangan ganjil antara 300 dan 750 yang bukan kelipatan 7 adalah 2. jumlah 3 suku pertama suatu deret geometri ialah 21 dan hasil kali 3 suku pertama itu ialah 64. nilai suku ketiga dan suku pertama deret itu berturut- turut adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Matematika Bab Deret <br>Kelas: XII SMA <br><br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/1-jumlah-semua-bilangan-ganjil-antara-300-dan-750-yang-bukan-kel-285-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1-ingkaran-dari-kalimat-jika-kamu-tidak-jadi-berangkat-ke-kota-788",
+            "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-deret-aritmatika-diketahui-a5-un29-dan-sn357-te-612",
+            "question": "Dari sebuah deret aritmatika, diketahui a=5, Un=29 dan Sn=357. Tentukan b dan n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn=n/2(a+un). 357=n/2(5+29). 357=n/2*34. 357=17n. n=21. Un=a+(n-1)b. 29=5+(21-1)b. 24=20b. b=6/5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>Un=a + (n-1) b<br>\u00a029 \u00a0= 5 + (29-1) b<br>29= 5 +28b<br>28b=24<br>b=24/28=6/7<br><br>29=5+(n-1)6/7<br>29=5+6/7n-6/7<br>29-5+6/7=6/7n<br>24+6/7=6/7n<br>168/7+6/7=6/7n<br>234/7=6/7n<br>n=234/7:6/7=234/7 x 7/6=39<br>\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-barisan-geometris-u312-u548-tentukan-asuku-pertama-dari-r-678",
+            "question": "Ada barisan geometris u3=12 u5=48 tentukan:    a.suku pertama dari rasio ( r&lt; 1)\r\nb. suku ke 10\r\nc. 5 bilangan pertama pada barisan geometri tsb\r\nTOLONG BANTU YA PLIESSSS",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3 = [tex] ar^{2} [/tex]= 12<br>u5 =\u00a0[tex]ar^{4} [/tex]= 48<br><br>u5 : u3 =\u00a0[tex]ar^{4} [/tex] :\u00a0[tex] ar^{2} [/tex] = 48 : 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]r^{2} [/tex] = 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = 2 atau -2<br><br>a)\u00a0karena r yang diminta &lt; 1,pakai r = -2.<br>u3 =\u00a0[tex] ar^{2} [/tex] = a x\u00a0[tex](-2) ^{2} [/tex] = 12<br>a = 3<br><br>b) u10 =\u00a0[tex] ar^{9} [/tex] = 3 x\u00a0[tex] (-2)^{9} [/tex] = 3 x (-512) = -1536<br><br>c) 5 bil pertama : 3,-6,12,-24,48<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-dan-keliling-segitiga-sama-sisi-706",
+            "question": "Luas dan Keliling segitiga sama sisi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas= alas kali tinggi bagi 2<br>Keliling= ab+bc+ca<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<em>Luas =\u00a0</em>[tex] \\frac{a^2}  {4} \\sqrt{3} [/tex]<br>Keliling= 3.a",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fxx2-gxx-2-dan-hxx1-tentukan-nilai-fogoh-968",
+            "question": "Diketahui f(x)=x2, g(x)=x-2, dan h(x)=x+1. tentukan nilai (fogoh) (x)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g (h(x)) = (x+1) - 2 = x + 1 - 2 = x - 1<br>f ( g\u00a0o\u00a0h ) =\u00a0\u00a0(x-1)\u00b2 = x\u00b2 - 2x + 1<br><br>Jadi (f o g o h) = x\u00b2 - 2x +1",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

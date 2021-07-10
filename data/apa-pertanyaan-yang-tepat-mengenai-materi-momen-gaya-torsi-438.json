@@ -1,0 +1,144 @@
+{
+    "question": "Apa pertanyaan yang tepat mengenai materi Momen Gaya (Torsi) ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "momen gaya torsi timbul akibat gaya yang bekerja pada benda tidak tepat pada pusat masa.<br>T = F . d<br><br>pertanyaan : mengapa gaya torsi tidak bekerja pada pusat massa dan apasaja fakror yang mempengaruhi gaya torsi serta arah momengaya torsi ?",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "yang-bisa-menjelaskan-sifat-sifat-rangkaian-rlc-siapa-316",
+            "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-yang-tingginya-160-cm-berdiri-di-depan-cermin-datar-yang-988",
+            "question": "Seorang yang tingginya 160 cm berdiri di depan cermin datar yang terpasang pada dinding. Anggap mata orang itu berada pada jarak 10 cm dari bagian atas kepalanya. Tentukan jarak minimum bagian bawah cermin dari lantai sehingga orang itu masih dapat melihat seluruh bagian badannya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tinggi cermin datar = [tex] \\frac{1}{2} [/tex] x tinggi benda<br>maka, tinggi cermin = [tex] \\frac{1}{2} [/tex] x 160<br>= 80 cm<br><br>karena jarak mata = [tex] \\frac{1}{2} [/tex] x 10<br>= 5 cm<br>maka, jarak minimum dari lantai = 160 - 5 --&gt; 155<br>155 - 80 = 75 cm dari lantai.. <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540",
+            "question": "Lempengan Logam berbentuk persegi dengan ukuran seperti gambar dengan suhu 40 celcius. Tentukan pertambhan luas logam tersebut jika suhunya dinaikkan sampai 160 C (\u03b1 = 25 * 10^-6 / C)\u00a0",
+            "attachments": [
+                "question-attachments/lempengan-logam-berbentuk-persegi-dengan-ukuran-seperti-gambar-de-540-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "[tex]\\triangle{A} = A_0 \\beta T[/tex]<br>[tex]=A_0(2 \\alpha )(T_2-T_1)[/tex]<br>[tex]=(60)^2(2*25*10^{-6})(160-40)\n=21,6 cm^2[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-tegar-dikenai-gaya-8-n-dengan-titik-tumpu-gaya-berja-360",
+            "question": "Sebuah benda tegar dikenai gaya 8 N dengan titik    tumpu gaya berjarak 24 cm dari pusat rotasi dan membentuk sudut 150 \r\n drajad. tentukanlah torsi yang terjadi pada benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "torsi= f x l<br>=8 x0,24m<br>=1,92<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-dengan-ringkas-apa-itu-sinar-x-tolong-dengan-kali-736",
+            "question": "Tolong jelaskan dengan ringkas apa itu Sinar X \r\ntolong dengan kalimat anda sendiri",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sinar-X atau X-Ray yaitu salah satu daripada sinaran Elektromagnet. yang dimana mempunyai gelombang yang pendek berukuran 10-7 hingga 10-9.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sinar X adalah sinar yang berbentuk X bagian dari gelombang elektromagnetik bisanya disebut sinar rontgen<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-dengan-cepat-rambat-bunyi-319",
+            "question": "Apa yang di maksud dengan cepat rambat bunyi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil bagi jarak antara sumber bunyi dan pendengar dengan selang waktu yang diperlukan bunyi untuk merambat",
+                    "attachments": []
+                },
+                {
+                    "answer": "getaran yg dpt ditransmisikan oleh air atau meterial lain sbgai medium (perantara)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-enegi-yg-tersimpan-dalam-induktor-bergantung-pada-332",
+            "question": "Besar enegi yg tersimpan dalam induktor bergantung pada ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n4. Energi yang Tersimpan pada Induktor</span>\n<span>\n<br></span>\n\n<strong><em>Energi yang tersimpan dalam induktor (kumparan) tersimpan dalam bentuk \nmedan magnetik.</em></strong> Energi U yang tersimpan di dalam sebuah induktansi L \nyang dilewati arus I, adalah:\n<span>\n<br></span>\n<span>\nU = \u00bd \u00a0LI2\u00a0............................................................ (5)</span>\n<span>\n<br></span>\n<span>\nEnergi pada induktor tersebut tersimpan dalam medan magnetiknya. \nBerdasarkan persamaan (4), bahwa besar induktansi solenoida setara \ndengan B =\u00a0<span>\u03bc0.N2</span>.A/l, dan medan magnet di dalam solenoida berhubungan dengan kuat arus I dengan\u00a0B =\u00a0\u03bc0.N.I/l,\u00a0Jadi,</span>\n<span>\n<br></span>\n<span>\n<span>I =\u00a0B.\u00a0l\u00a0/ \u03bc0.N</span></span>\n<span>\n<br></span>\n\nMaka, dari persamaan (5) akan diperoleh:\n<span>\n</span>\n<br><span>\nApabila energi pada persamaan (6) tersimpan dalam suatu volume yang dibatasi oleh lilitan Al, maka besar energi per satuan volume atau yang disebut kerapatan energi adalah:<br><br></span>\u00a0<span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "medan magnet yang di timbulkan dari arus listrik yang melewatinya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998",
+            "question": "Diagram berikut menggambarkan percobaang Young, d adalah jarak antar celah, P2 adalah garis terang orde 2. Jika panjang gelombang yang digunakan adlaah 400 Nm (1nm = 10^-9 m) maka jarak antar celah adalah\u00a0",
+            "attachments": [
+                "question-attachments/diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lamda = 400 Nm = 4x10^-9 m<br>\u00a0 \u00a0 \u00a0 \u00a0m \u00a0 \u00a0 \u00a0 = 2<br>Dit d ?\u00a0<br>jawab.<br>\u00a0d sin 0 = m\u00a0.\u00a0lamda<br>d sin 30 = m . lamd<br>d =\u00a0[tex] \\frac{2 . 4x10^-9}{0,5} [/tex] = 16 x 10^-9 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747",
+            "question": "Tentukan besar dan arah dari resultan vektor F\u2081, F\u2082, dan F\u2083 yg diperlihatkan pada gambar di bawah ini.\u00a0(sin 53\u00b0 = 0.8 dan sin 37\u00b0 = 0.6)",
+            "attachments": [
+                "question-attachments/tentukan-besar-dan-arah-dari-resultan-vektor-f1-f2-dan-f3-747-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "=-F1.sin53+F2.sin37+F3<br>=-2.0,8+4.0,6+5<br>=-1,6+2,4+5<br>=5,8",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "question": "Berapa nilai kpk dari 30 dan 48?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br>KPK= 2 x 2 x 2 x 2 x 3 x 5 = 240<br>FPB = 2 x 3 = 6<br>",
+            "attachments": []
+        },
+        {
+            "answer": "30= 2 x 3 x 5<br>48=\u00a0 2 x 2 x 2 x 2 x 3<br><br><br>kpk= 2 x 2 x 2 x 2 x 3 x 5 = 240<br><span><br>fpb = 2 x 3 = 6</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-diketahui-sudut-r110-derajat-sudut-q30-derajat-dan-sisi-p-708",
+            "question": "jika diketahui sudut R=110 derajat, sudut Q=30 derajat dan sisi p= 10 cm, maka LUAS SEGITIGA PQR adalah............",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=(p2 x sinQ x sinR) / 2 x sinP<br>\u00a0 = (10kuadrat x sin 30 x sin 110) / 2 x sin 40<br>\u00a0 = 100 x 0,5 x 0,9 / 2 x 0,6<br>\u00a0 =45 / 1,2<br>\u00a0 =37,5 cm2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-simpangan-rata-rata-dari-data-7-8-9-8-8-6-10-adalah-270",
+            "question": "1. Simpangan rata-rata dari data : 7, 8, 9, 8, 8, 6, 10 adalah... 2. Simpangan baku dari data : 5, 6, 7, 4, 8 adalah... 3. Peluang seorang suami dan istrinya akan hidup 25 tahun dari sekarang berturut-turut adalah... 4. Grafik fungsi f(x) = 1/3 x^3 - x^2 - 15x, naik pada interval...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1). X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>X =6+7+(8x3)+9+10/7 = 56/7 = 8<br><br>x-x = 6-8 + 7-8 + 3(8-8) + 9-8 + 10-8 = 2 + 1 + 0 + 1 + 2 = 6<br><br>SR = x-x/n = 6 / 7 = 0.85<br><br>f| x-x | =(6-8)2 + (7-8)2 + 3(8-8)2 + (9-8)2 + (10-8)2 = 4 + 1+ 0 + 1+ 4 = 10<br><br>S2 = f(x-x)/n = 10/ 7 = 1.42\u00a0<br><br>kyanya..\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-ekstrim-z-dari-fungsi-z2xy-dengan-syarat-10x5y6-393",
+            "question": "Tentukan nilai ekstrim Z dari fungsi Z=2XY dengan syarat 10x+5y=600",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>10x + 5y = 600<br>2x + y = 120<br>y = 120 - 2x<br><br>z= 2xy<br>z= 2x(120-2x)<br>z= 240x-4x2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-sudut-lancip-jika-sin-p-513-tan-p-364",
+            "question": "Diketahui P sudut lancip. Jika sin P = 5/13, tan P =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin P = 5/13\u00a0<br><span>(sin P)^2 = 25/169\u00a0</span><br><span>(cos P)^2 = 1 - (sin P)^2 + 1 - 25/169 = 144/169\u00a0</span><br><span>cos P = akar( 144/169 ) = 12/13\u00a0</span><br><span>Tan P = sin P / cos P = 5/13 : 12/13 = 5/12</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pertama: itu angka phytagoras 5,12,13\nkedua: rumus sin= depan/miring, cos= samping/miring, tan= depan/samping\nketiga: dik. sin=5/13 brrti. sesuai rumus 5 itu sisi dpn, 13 sisi miring, sisanya brrti 12 sisi sampingnya, tan = depan/samping jadi 5/12 hasilnya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sin-x-cos-x-3-dan-tan-x-1-tentukanlah-nilai-sin-182",
+            "question": "Diketahui sin x + cos x = 3 dan tan x = 1. tentukanlah nilai sin x dan cos x!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x = 1<br>depan /samping = 1/1<br>jadi , <br><strong>depan = 1</strong><br><strong>samping = 1</strong> otomatis,<br><strong>miring = 1\u221a2</strong> atau \u221a2<br><br>jadi, <br><strong>sin x = de/mi = 1/\u221a2 = 1/2 \u221a2</strong><br><strong>cos x = sa/mi = 1/\u221a2 = 1/2 \u221a2</strong><br>\u00a0semoga membantu,,<br>dan semoga tidak salah,,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin x + cos x = 3 =&gt; cos x = 3 - sin x<br><br>tan x = 1<br>[tex] \\frac{sin x}{cos x} [/tex] = 1<br>[tex] \\frac{sin x}{3 - sin x} [/tex] = 1<br>sin x = 3 - sin x<br>2 sin x = 3<br>sin x = [tex] \\frac{3}{2} [/tex]<br><br>cos x = 3 - sin x<br>cos x = 3 - [tex] \\frac{3}{2} [/tex]<br>cos x = [tex] \\frac{3}{2} [/tex]<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-soal-dan-jawaban-barisan-aritmatika-apa-saja-962",
+            "question": "10 contoh soal dan jawaban barisan aritmatika apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Diketahui barisan aritmetika\u00a0 3, 8, 13, \u2026<br>\u00a0\u00a0\u00a0 a. Tentukan suku ke-10 dan rumus suku ke-n barisan tersebut!<br>\u00a0\u00a0\u00a0 b. Suku keberapakah yang nilainya 198 ?</span><br><span><br>Jawab :</span><br><span>\u00a0<br>a. Dari barisan aritmetika 3, 8, 13, \u2026 diperoleh suku pertama a = 3 dan beda b = 8 \u2013 3 = 5.</span><br><span><br>Un\u00a0\u00a0\u00a0 = a + (n \u2013 1)b<br>U10\u00a0 = 3 + (10 \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 3 + 9 x 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 45<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>48</u></span><br><br>\u00a0Un\u00a0\u00a0 = a + (n \u2013 1)b<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + (n \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 5n \u2013 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>5n \u2013 2</u><br><span><br>b. Misalkan Un\u00a0 = 198, maka berlaku :</span><br><span><span><br>Un\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>5n \u2013 2 = 198<br>5n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 200<br>\u00a0n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>40</u><br>Jadi 198 adalah suku ke- 40</span>\u00a0</span><br><br><br><br><span>2. Diketahui U1 = a = 3 , U5 = 19 , Un = 31</span><br><span>\u00a0\u00a0\u00a0 a. Tentukan beda (b)</span><br>\n\u00a0\u00a0\u00a0 b. Tentukan n<br>\n\u00a0 \u00a0 c. Tentukan suku ke-20\u00a0<br><span>\u00a0\u00a0\u00a0 d. Tentukan n jika Un = 51</span><br><br><br><br>Jawab :<br><br><span>a. Cari U5 terlebih dahulu, setelah itu cari b dengan rumus U5 yang telah didapat :</span><br><span><br><span>\u00a0\u00a0\u00a0 Un = a + (n - 1)b</span></span><br>\u00a0\u00a0\u00a0 U5 = a + (5 - 1)b<br><span>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = <u>a + 4b</u></span><br><br><span>\n<span>\u00a0 \u00a0 b = a + 4b = 19</span></span><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 + 4b = 19<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4b = 19 - 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 16/4<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = <u>4</u> \u00a0</span><br><br><span>\n<span>\u00a0b. Gunakan rumus Un = a + (n - 1)b = 31 (diketahui Un = 31) :</span></span><br><br><span>\n<span>\u00a0 \u00a0 \u00a0 Un = 31</span></span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 31<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 31<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 31 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 32/4<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>8</u>\n<br><span><br><span>\u00a0c. suku ke-20 , dik: a = 3 , b = 4 :</span></span><br><br><span>\n\u00a0 \u00a0 \u00a0\u00a0 Un \u00a0 = a + (n - 1) b</span><br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + (20 - 1) 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + 80 - 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 80 - 1<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = <u>79</u>\u00a0<br><br><br><span>d. Jika Un = 51 :</span><br><br><span>\n\u00a0 \u00a0 \u00a0 Un = 51</span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 51<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 51<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 51 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 52/4<br><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>13</u></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-balokkubusdan-piramid-pada-bangun-ruang-819",
+            "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus bangun ruang <br>smoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

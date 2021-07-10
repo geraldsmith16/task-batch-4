@@ -1,0 +1,134 @@
+{
+    "question": "sebuah tangga yang panjangnya 12 m bersandar pada tembok sebuah rumah.Jika tangga itu berbentuk sudut 60 derajat dengan tanah.tentukan tinggi tembok!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sin 60 = tinggi tembok/ panjang tangga<br>\u221a3/2 = tinggi tembok/12<br>tinggi tembok = 12 x \u221a3/2<br>tinggi tembok = 6\u221a3 m<br>",
+            "attachments": []
+        },
+        {
+            "answer": "menggunakan perbandingan pada segituga istimewa<br>1:\u221a3:2<br>[tex] \\frac{\u221a3}{2} [/tex] x 12 = 6\u221a3 m<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-batas-batas-nilai-a-jika-diketahui-2a-terletak-di-l-449",
+            "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-bahwa-1-2-2-22-sampai-12-suku-adalah-441",
+            "question": "Tunjukkan bahwa 1 +\u00a0\u221a2 + 2 + 2\u221a2 + ... sampai 12 suku adalah 63(\u221a2 + 1).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "deret tersebut adalah deret geometri dengan r = u2/u1 = <span>\u221a2 <br>karena r &gt; 1, maka merupakan deret geometri konvergen<br>rumus jumlah 12 suku awal deret geometri konvergen<br><br>[tex]\\frac{a(r^{n}-1)}{r-1}  \\\\  \\frac{1( (\\sqrt{2})^{12}-1)}{ \\sqrt{2}-1}  \\\\  \\frac{2^{6}-1}{ \\sqrt{2}-1} [/tex]<br><br>= 63 /</span><span> (\u221a2 - 1) <br>rasionalkan<br>= 63 (</span><span>\u221a2 + 1</span>)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-irisan-sebuah-pipa-mendatar-dengan-garis-t-647",
+            "question": "Tolong bantu saya ..    \u00a0irisan sebuah pipa mendatar dengan garis tengah 1 m berituk:\r\n\r\nlebar pipa 1 m panjang pipa 10 cm\r\n\r\ndidalam pipa tersebut terdapat air yang dalamnya 10 cm ditengah-tengah penampang. lebar permukaan air adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 x 1000 cm....<br>trus di tambah 1..;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-1-cos-a-tentukan-nilai-tan-a-320",
+            "question": "Jika 1 - cos a =  , tentukan nilai tan a.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]1-cosa =  \\frac{9}{25(1+cosa)}[/tex]<br>kalikan kedua ruas dengan \u00a01 + cos a, didapat<br>[tex]1-cos^{2}a =  \\frac{9}{25}[/tex]<br>[tex]sin^{2}a =  \\frac{9}{25}[/tex]<br>[tex]sina =  \\frac{3}{5}[/tex]<br>[tex]1-cos^{2}a =  \\frac{9}{25}[/tex]<br>[tex]cos^{2}a =1-  \\frac{9}{25}[/tex]<br>[tex]cos^{2}a =  \\frac{16}{25}[/tex]<br>[tex]cosa =  \\frac{4}{5}[/tex]<br>sehingga<br>[tex]tana =  \\frac{sina}{cosa} = \\frac{3/5}{4/5} = \\frac{3}{4} [/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nama-nama-bangun-ruang-dalam-bahasa-inggris-691",
+            "question": "Nama-nama bangun ruang dalam bahasa inggris",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas\u00a0: 5 SDIT / 7 SMPIT\u00a0<br>mapel : matematika<br>kategori : bangun ruang<br>kata kunci : bangun ruang , bahasa inggris<br><br>Pembahasan :<br><br>nama\" bangun ruang dengan menggunakan bahasa inggris<br><br>1) kubus = cube<br>2) balok = cuboid<br>3) limas = pyramid<br>4) prisma = prism<br>5) tabung = sylinder<br>6) bola = sphere<br>7) kerucut = cone<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kan-kalo-kuadran-satu-cos-sin-tan-cot-sec-csc-itu-positif-giman-602",
+            "question": "Kan kalo kuadran satu, cos sin tan cot sec csc itu positif. gimana kalo kuadran 2,3,4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 2 : yg positif sin dan csc<br>kuadran 3 : yg positif tan dan cot<br>kuadran 4 : yg positif cos dan sec",
+                    "attachments": []
+                },
+                {
+                    "answer": "kuadran 2<br>sin = +\u00a0 \u00a0 cos= -\u00a0 \u00a0  tan= -\u00a0  cosec=+\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 \u00a0 cot= -<br>kuadran 3<br>sin= -\u00a0 \u00a0 \u00a0 cos= -\u00a0 \u00a0\u00a0 tan=+\u00a0 \u00a0  cosec= -\u00a0 \u00a0 \u00a0 sec= -\u00a0 \u00a0 \u00a0 cot=+<br>kuadran 4<br>sin= -\u00a0 \u00a0 \u00a0 cos=+\u00a0 \u00a0  tan= -\u00a0 \u00a0  cosec=-\u00a0 \u00a0 \u00a0 \u00a0 sec=+\u00a0 \u00a0 \u00a0  cot= -<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-matriks-2x-4-1-2-9-2-517",
+            "question": "jika matriks (2x \u00a04 ) \u00a0- \u00a0 (1 \u00a0 \u00a02) \u00a0 \u00a0 \u00a0= \u00a0 (9 \u00a0 \u00a0 2) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (7 \u00a0 \u00a0 y) \u00a0 \u00a0 \u00a0 (3 \u00a0 \u00a04) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (4 \u00a0 \u00a0 3) \u00a0 nilai x dan y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai x\n2x - 1 = 9\n2x = 10\nx = 10:2\nx = 5\n\nnilai y\ny - 4 = 3\ny = 3 + 4 = 7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "proyeksi-vektor-a-300-pada-vektor-yang-sejajar-tetapi-berl-820",
+            "question": "Proyeksi vektor a = (-3,0,0) pada vektor yang sejajar tetapi berlawanan arah dengan vektor b = (1,-2,-2) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "vektor yg berlawanan b&#039; = (-1,2,2)<br>proyeksi vektor\u00a0[tex]c =  \\frac{a.b&#039;}{|b&#039;|^{2} }b&#039; [/tex]<br>[tex]a.b&#039;=3+0+0[/tex]<br>[tex]a.b&#039;=3[/tex]<br>[tex] |b&#039;|^{2} = 1+4+4 [/tex]<br>[tex] |b&#039;|^{2} = 9[/tex]<br>sehingga<br>[tex]c= \\frac{3}{9} (-1,2,2)[/tex]<br>[tex]c= \\frac{1}{3} (-1,2,2)[/tex]<br>[tex]c=(- \\frac{1}{3} , \\frac{2}{3} , \\frac{2}{3} )[/tex]<br><br>CMIIW :3<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

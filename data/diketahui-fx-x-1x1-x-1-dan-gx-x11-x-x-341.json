@@ -1,0 +1,134 @@
+{
+    "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-bilangan-asli-antara-1-dan-200-yg-habis-dibagi-4-adalah-954",
+            "question": "Jumlah bilangan asli antara 1 dan 200 yg habis dibagi 4 adalah ? cara !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 + 8 + 12 + .... + 196<br>a = 4<br>b = 4<br>Un = 196<br><br>Un = a + (n - 1)b<br>Un = 4 + (n-1)4<br>Un =4 + 4n - 4<br>Un = 4n<br><br>196 = 4n<br>n = [tex] \\frac{196}{4} [/tex] = 49<br>Sn = [tex] \\frac{n}{2} [/tex] (a + Un)<br>S49 = [tex] \\frac{49}{2} [/tex] (4 + 4.49)<br>=&gt; [tex] \\frac{49}{2} [/tex](200)<br>=&gt; 49.100 = 4.900<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-derajat-lt-x-lt-90-derajat-hitunglah-ni-671",
+            "question": "Jika sin x = 2/3 (0 derajat &lt; x &lt; 90 derajat), hitunglah nilai cotan (90 derajat-alfa)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin x = 2/3. depan = 2, miring = 3. berarti samping = \u221a5. cotan x = samping/depan. cotan x = \u221a5/2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-kuadrat-memotong-sumbu-x-di-dua-titik-549",
+            "question": "Jelaskan fungsi kuadrat memotong sumbu x di dua titik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fungsi kuadrat yang memotong sumbu x di dua titik adalah fungsi kuadrat yang D&gt;0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-bilangan-3101724-adlah-a-un-571",
+            "question": "Rumus suku ke-n dari barisan bilangan 3,10,17,24 adlah..    A. Un = 7n-2\r\n B. Un = 7n-4\r\n C. Un= 7n+2\r\n D. Un = 7n+ 4\r\n E. Un= 7n+6",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un = a + (n-1)b<br>\u00a0 \u00a0 \u00a0 = 3 + (n-1) (10-3)<br>\u00a0 \u00a0 \u00a0 = 3 + 7n - 7<br>\u00a0 \u00a0 \u00a0 = 7n - 4",
+                    "attachments": []
+                },
+                {
+                    "answer": "B.Un = 7n-4\n\nMisal U2 = 7x2-4\n= 14-4\n=10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-soal-dan-jawaban-barisan-aritmatika-apa-saja-962",
+            "question": "10 contoh soal dan jawaban barisan aritmatika apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Diketahui barisan aritmetika\u00a0 3, 8, 13, \u2026<br>\u00a0\u00a0\u00a0 a. Tentukan suku ke-10 dan rumus suku ke-n barisan tersebut!<br>\u00a0\u00a0\u00a0 b. Suku keberapakah yang nilainya 198 ?</span><br><span><br>Jawab :</span><br><span>\u00a0<br>a. Dari barisan aritmetika 3, 8, 13, \u2026 diperoleh suku pertama a = 3 dan beda b = 8 \u2013 3 = 5.</span><br><span><br>Un\u00a0\u00a0\u00a0 = a + (n \u2013 1)b<br>U10\u00a0 = 3 + (10 \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 3 + 9 x 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 45<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>48</u></span><br><br>\u00a0Un\u00a0\u00a0 = a + (n \u2013 1)b<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + (n \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 5n \u2013 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>5n \u2013 2</u><br><span><br>b. Misalkan Un\u00a0 = 198, maka berlaku :</span><br><span><span><br>Un\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>5n \u2013 2 = 198<br>5n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 200<br>\u00a0n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>40</u><br>Jadi 198 adalah suku ke- 40</span>\u00a0</span><br><br><br><br><span>2. Diketahui U1 = a = 3 , U5 = 19 , Un = 31</span><br><span>\u00a0\u00a0\u00a0 a. Tentukan beda (b)</span><br>\n\u00a0\u00a0\u00a0 b. Tentukan n<br>\n\u00a0 \u00a0 c. Tentukan suku ke-20\u00a0<br><span>\u00a0\u00a0\u00a0 d. Tentukan n jika Un = 51</span><br><br><br><br>Jawab :<br><br><span>a. Cari U5 terlebih dahulu, setelah itu cari b dengan rumus U5 yang telah didapat :</span><br><span><br><span>\u00a0\u00a0\u00a0 Un = a + (n - 1)b</span></span><br>\u00a0\u00a0\u00a0 U5 = a + (5 - 1)b<br><span>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = <u>a + 4b</u></span><br><br><span>\n<span>\u00a0 \u00a0 b = a + 4b = 19</span></span><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 + 4b = 19<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4b = 19 - 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 16/4<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = <u>4</u> \u00a0</span><br><br><span>\n<span>\u00a0b. Gunakan rumus Un = a + (n - 1)b = 31 (diketahui Un = 31) :</span></span><br><br><span>\n<span>\u00a0 \u00a0 \u00a0 Un = 31</span></span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 31<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 31<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 31 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 32/4<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>8</u>\n<br><span><br><span>\u00a0c. suku ke-20 , dik: a = 3 , b = 4 :</span></span><br><br><span>\n\u00a0 \u00a0 \u00a0\u00a0 Un \u00a0 = a + (n - 1) b</span><br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + (20 - 1) 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + 80 - 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 80 - 1<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = <u>79</u>\u00a0<br><br><br><span>d. Jika Un = 51 :</span><br><br><span>\n\u00a0 \u00a0 \u00a0 Un = 51</span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 51<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 51<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 51 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 52/4<br><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>13</u></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-dari-dimensi-2-dan-tiga-berikan-masing-masing-6-contoh-587",
+            "question": "Pengertian dari dimensi 2 dan tiga berikan masing-masing 6 contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dimensi 2 = yaitu suatu benda dimana hanya memiliki panjang dan lebar, contohnya persegi, persegi panjang, lingkaran, segitiga, layang-layang.<br>Dimensi 3 = yaitu suatu benda dimana memiliki panjang, lebar dan tinggi, contohnya balok, kubus, kerucut, tabung, prisma, limas.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dimensi 2 hanya memiliki panjang dan lebar cth: persegi, layang layang, lingkaran, segitiga persegi panjang, jajargenjang, belah ketupat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-nilai-perbandingan-trigonometri-yang-lain-jika-diketa-924",
+            "question": "Tentukanlah nilai perbandingan trigonometri yang lain jika diketahui sudut lancipnya sebagai berikut ...    cos \u0443 = 0,8\r\n\r\ntolong yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos y = 0,8 = 8/10<br>cos y = sami(samping miring) = x/r<br>berarti x = 8 , r = 10 (sisi miring)<br>berarti mencari nilai y, dengan phytagoras didapat y = 6<br><br>sehingga sin y = y/r = 6/10 = 0.6<br>tan y = y/x = 6/8 = 0.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-2x2-4x-10-memiliki-akar-akar-x1-dan-x2-persa-445",
+            "question": "Persamaan kuadrat 2x^2-4x-1=0 memiliki akar-akar x1 dan x2. Persamaan kuadrat baru yang akar-akarnya 2x1 dan 2x2 adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Persamaan kuadrat 2x\u00b2 \u2013 4x \u2013 1 = 0 memiliki akar-akar x\u2081 dan x\u2082. Persamaan kuadrat baru yang akar-akarnya 2x\u2081 dan 2x\u2082</strong> adalah x\u00b2 \u2013 4x \u2013 2 = 0. Bentuk umum persamaan kuadrat adalah ax\u00b2 + bx + c = 0, dengan a \u2260 0. Jika x\u2081 dan x\u2082 adalah akar-akar persamaan kuadrat maka\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a}[/tex]\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a}[/tex]\n</li></ul><p>Menentukan persamaan kuadrat\n</p><ul><li>Cara 1: (x \u2013 x\u2081)(x \u2013 x\u2082) = 0\n</li><li>Cara 2: x\u00b2 \u2013 (x\u2081 + x\u2082)x + x\u2081 . x\u2082 = 0\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><h3>Cara Pertama\n</h3><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>a = 2\n</p><p>b = \u20134\n</p><p>c = \u20131\n</p><ul><li>x\u2081 + x\u2082 = [tex]-\\frac{b}{a} = -\\frac{(-4)}{2} [/tex] = 2\n</li><li>x\u2081 . x\u2082 = [tex]\\frac{c}{a} = \\frac{-1}{2} [/tex]\n</li></ul><p>misal\n</p><ul><li>p = 2x\u2081 dan q = 2x\u2082\n</li></ul><p>maka\n</p><ul><li>p + q = 2x\u2081 + 2x\u2082 = 2(x\u2081 + x\u2082) = 2(2) = 4\n</li><li>pq = (2x\u2081)(2x\u2082) = 4x\u2081x\u2082 = 4(\u2013\u00bd) = \u20132\n</li></ul><p>Jadi <strong>persamaan kuadrat baru yang akar-akarnya p dan q</strong> adalah\n</p><p>x\u00b2 \u2013 (p + q)x + p . q = 0\n</p><p>x\u00b2 \u2013 4x + (\u20132) = 0\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara kedua\n</h3><p>Misal \u00a0</p><ul><li>2x = y \u21d2 x = \u00bd y\n</li></ul><p><strong>Substitusikan ke persamaan kuadrat\n</strong></p><p>2x\u00b2 \u2013 4x \u2013 1 = 0\n</p><p>2(\u00bd y)\u00b2 \u2013 4(\u00bd y) \u2013 1 = 0\n</p><p>2(\u00bc y\u00b2) \u2013 2y \u2013 1 = 0\n</p><p>\u00bd y\u00b2 \u2013 2y \u2013 1 = 0\n</p><p>==&gt; <em>kedua ruas kali 2 </em>&lt;==\n</p><p>y\u00b2 \u2013 4y \u2013 2 = 0\n</p><p>Jadi <strong>persamaan kuadrat barunya </strong>adalah\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Cara ketiga\n</h3><p>Persamaan kuadrat baru pada ax\u00b2 + bx + c = 0 jika akar-akarnya nx\u2081 dan nx\u2082 adalah\n</p><ul><li>ax\u00b2 + bx . n + c . n\u00b2 = 0\n</li></ul><p>2x\u2081 dan 2x\u2082 sehingga <strong>n = 2</strong>, maka persamaan kuadrat barunya adalah\n</p><p>2x\u00b2 \u2013 4x . <strong>2</strong> \u2013 1 . <strong>2\u00b2 </strong>= 0\n</p><p>2x\u00b2 \u2013 8x \u2013 4 = 0\n</p><p>==&gt;<em> kedua ruas bagi 2 </em>&lt;==\n</p><p><strong>x\u00b2 \u2013 4x \u2013 2 = 0\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang persamaan kuadrat\n</p><ul><li>10 soal persamaan kuadrat: brainly.co.id/tugas/14079686\n</li><li>Menentukan akar-akar persamaan kuadrat: brainly.co.id/tugas/10091829\n</li><li>Menentukan nilai m pada persamaan kuadrat: brainly.co.id/tugas/15258404\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel </strong>: Matematika\n</p><p><strong>Kategori </strong>: Persamaan Kuadrat\n</p><p><strong>Kode</strong> : 10.2.5\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dari-fungsi-fxax2bxc-diketahui-f0-6-f1-dan-f22-796",
+            "question": "Jika dari fungsi f(x)=ax2+bx+c diketahui f(0)=-6, f(1) dan f(2)=28 maka f(x)=0 untuk x=...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(0)=a.0^2+b.0+c<br>-6=0+0+c<br>-6=c .............................nilai c<br><br>f(1)=a.1^2+b.1+c<br>28=a+b+(-6)<br>28+6=a+b<br>34=a+b ......................persamaan 1<br><br>f(2)=a.2^2+b.2+c<br>28=4a+2b+(-6)<br>28+6=4a+2b<br>34=4a+2b ......................persamaan 2\u00a0<br><br>f(1)=f(2)<br>a+b=4a+2b<br>a-4a=2b-b<br>-3a=b<br>b=-3a<br><br>34=2a+b\n\u00a0......................persamaan 1\n<br>34=2a+(-3a)<br>34=-a<br>a=-34<br><br>b=-3a<br>b=-3.34=-102<br><br>f(x)=0<br>-34x2-102x-6=0<br>-2.(17x2+51x+3)\u00a0=\u00a00<br>(17x+1) . (x+3)=0<br>x=\u00a0-1 / 17\u00a0\u00a0\u00a0\u00a0\u00a0 atau\u00a0\u00a0\u00a0 x= -\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

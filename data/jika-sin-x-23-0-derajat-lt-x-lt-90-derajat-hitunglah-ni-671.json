@@ -1,0 +1,138 @@
+{
+    "question": "Jika sin x = 2/3 (0 derajat &lt; x &lt; 90 derajat), hitunglah nilai cotan (90 derajat-alfa)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sin x = 2/3. depan = 2, miring = 3. berarti samping = \u221a5. cotan x = samping/depan. cotan x = \u221a5/2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "konversikan-36-derajat-r-derajat-c-derajat-f-k-464",
+            "question": "Konversikan\u00a0\r\n36 derajat R = ...derajat C = ...derajat F = ...K\u00a0\r\nbeserta cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C: 5/4 \u00d7 36 = 45 C \nF: 9/4 \u00d7 36 = 81+32=113 F\nK: 45+273=318 K inii yaa maff klo sllah",
+                    "attachments": []
+                },
+                {
+                    "answer": "C : 5/4 x 36 = 45 derajat C<br><br>F :9/4 x 36 + 32 = 113 derajat F<br><br>K : 36 + 273 = 309 derajat K<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-dengan-skala-1-200000-jarak-kota-r-dan-s-pada-peta-573",
+            "question": "Pada peta dengan skala 1 : 200,000, jarak kota R dan S pada peta adalah 5 cm. Berapakah jarak yang sebenarnya antara kedua peta tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumusnya ini : JP = JS : S<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1000000cm = 10 kilometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-sebuah-lingkaran-adalah-200-cm2tentukan-besarnya-578",
+            "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2.tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut kerjakan dengan caranya.    a.10 cm\u00b2\r\nb.20 cm\u00b2\r\nc.40 cm\u00b2\r\nd.50 cm\u00b2\r\ne.100 cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas juring= luas derajat/360 kali luas lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-bilangan-1011121399-dari-deret-diatas-te-608",
+            "question": "Diketahui deret bilangan 10+11+12+13+...+99. Dari deret diatas tentukan jumlah bilangan yg habis dibagi 2 tapi tidak habis dibagi 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Yang habis di bagi 2\n<br><span>Un = a + (n-1)b</span>\n\n<br>98 = 10 + 2n-2\n\n<br>98 = 8 +2n\n\n<br>2n = 90\n\n<br>n = 45<br>\u00a0Yang habis dibagi 3\n\n<span><br>Un = a + (n-1)b</span>\n\n<br>99 = 12 + 3n-3\n\n9<br>9 = 9 + 3n\n<br>\n3n = 90\n<br>\nn = 30\n\n<br>yang habis dibagi 2 tetapi tdk habis di bagi 3\n\n<br>n = 45 \u2013 30\u00a0<span>= 15</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-contoh-soal-sama-penyelesaian-tentang-koordinat-kart-848",
+            "question": "minta\u00a0contoh\u00a0soal\u00a0sama\u00a0penyelesaian\u00a0tentang\u00a0koordinat\u00a0kartesius\u00a0ke\u00a0kutub\u00a0&amp;\u00a0kutub\u00a0ke\u00a0koordinat\u00a0kartesius",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) untuk koordinat kutub ke koordinat kartesius<br>Jika diketahui koordinat kutub (6\u221a3, 60\u00b0), maka koordinat kartesiusnya adalah.....<br>a. (3,3)<br>b. (3\u221a3, 9)<br>c. (3,\u00a0\u221a3)<br>d. (9, 3\u221a3)<br>e. (3, 3\u221a3)<br><br>Penyelesaian :<br><br>koordinat kutub\u00a0\u21d2 koordinat kartesius<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0(r ,\u00a0\u03b1)\u00a0\u21d2 ( x , y )<br><br>r\u00a0= 6\u221a3\u00a0; \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03b1 = 60\u00b0\u00a0<br>(Karena\u00a0\u03b1 sudut di kuadran I, maka x positif f dan y positif)<br><br>x = r cos\u00a0\u03b1<br>\u21d2 6\u221a3 x cos\u00a060\u00b0<br>\u21d2\u00a06\u221a3 x 1/2<br>\u21d2 3\u221a3<br><br>y = r sin\u00a0\u03b1<br>\u21d2\u00a06\u221a3 x sin 60\u00b0<br>\u21d2\u00a06\u221a3 x 1/2\u00a0\u221a3<br>\u21d2\u00a03\u00a0x 3<br>\u21d2 9<br><br>sehingga koordinat kartesiusnya ialah ( 3\u221a3\u00a0, 9) \u00a0(d)<br><br>2)\u00a0untuk koordinat kartesius ke koordinat\u00a0kutub<br>koordinat kutub titik (-4,4) ialah ...........<br>penyelesaian :<br>(x,y)\u21d2 (r,\u00a0\u03b1)<br><br>x = -4, y=4<br>(karena x negatif dan y positif, maka\u00a0\u03b1 sudut di kuadran II)<br>r =\u00a0[tex] \\sqrt{ x^{2} + y^{2} } [/tex]<br>\u21d2[tex] \\sqrt{ -4^{2} + 4^{2} } [/tex]<br>\u21d2[tex] \\sqrt{32} [/tex]<br>\u21d2[tex]4 \\sqrt{2} [/tex]<br><br>tan\u00a0\u03b1 = x/y<br>\u21d24/\u00a0-\u00a04<br>\u21d2 - 1<br><br>karena\u00a0\u03b1 sudut di kuadran II, maka :\u00a0\u03b1 = (180-45)\u00b0= 135\u00b0<br>maka koordinat kutubnya ialah ( 4\u221a2, 135\u00b0)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(3, 210 derajat) tentukan koordinat cartesiusnya\u00a0<br><span>b koordinat cartesius titik Q adalah (-2 akar 3, 2) tentukan koordinat kutubnya<br><br></span>a) \u03f4=120\u2070, r=3\u00a0<br><span>titik x = r cos \u03f4=&gt;\u00a0</span><br><span>= 3 cos 120 = 3 (-cos (180-60)) note: nilai cos pada kuadran II itu (-)\u00a0</span><br><span>= 3 (-cos 60)\u00a0</span><br><span>= 3 (-1/2)\u00a0</span><br><span>= -3/2\u00a0</span><br><span>titik y = r sin \u03f4=&gt;\u00a0</span><br><span>= 3 sin 120 = 3 sin (180-60) note: nilai sin pada kuadran II (+)\u00a0</span><br><span>= 3 sin 60\u00a0</span><br><span>= 3 1/2 akar 3\u00a0</span><br><span>= 3/2 akar 3\u00a0</span><br><span>jadi koordinat cartesiusnya (-3/2, 3/2 akar 3)\u00a0</span><br><br><span>b) x = -2 akar 3, y = 2\u00a0</span><br><span>r = akar (x^2 + y^2) =&gt;\u00a0</span><br><span>= akar ((-2 akar 3)^2 + 2^2)\u00a0</span><br><span>= akar (12 + 4)\u00a0</span><br><span>= akar 16 = 4\u00a0</span><br><span>\u03f4 = arc tan y/x =&gt;\u00a0</span><br><span>= arc tan 2/-2 akar 3\u00a0</span><br><span>= arc tan - 1/akar 3 = arc tan -1/3 akar 3 note: arc tan 1/akar 3 = 45\u2070, nilai tan (-) pada kuadran II dan IV\u00a0</span><br><span>= arc tan -1/akar 3 = 135\u2070 (kuadran II) note: menentukannya dengan uji titik x dan y\u00a0</span><br><span>koordinat kutubnya = (4, 135\u2070)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-fungsi-f-dan-g-diketahui-fx2x23x-5-dan-gx3x-2-agar-g-544",
+            "question": "Dari fungsi f dan g diketahui f(x)=2x2+3x-5 dan g(x)=3x-2. Agar g0f(a)=-11. Tentukan nilai a positif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(gof)(a) = -11<br>(gof)(x) = g(f(x)) = g(2x^2 + 3x - 5)<br><br>=&gt; 3(2x^2 + 3x - 5) - 2<br>=&gt; 6x^2 + 9x - 15 - 2<br>=&gt; 6x^2 + 9x - 17<br>(gof)(a) = -11<br>6a^2 + 9a - 17 = -11<br>6a^2 + 9a - 17 + 11 = 0<br>6a^2 + 9a - 6 = 0<br>2a^2 + 3a - 2 = 0<br>(2a - 1\u00a0 )(a +2 ) = 0<br>2a - 1 =\u00a0 0 v a + 2 = 0<br>2a = 1 v a = -2<br>a = 1/2 v a = -2<br>karena a positif a = 1/2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tan-x-13-3-dan-x-tumpul-berapakah-nilai-dari-cos-x-210",
+            "question": "Jika tan x = -1/3 \u221a3, dan x tumpul berapakah nilai dari cos x ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalo nilai tan minus berarti tan itu ada di kuadran 2 atau ngga 4. terus karena nilainya 1/3\u221a3 berarti sudutnya 30\u00b0. karena sudutnya tumpul,berarti di kuadran 2. jadi nilai cosnya : cos (180\u00b0-30\u00b0) = -(cos 30\u00b0) = - 1/2\u221a3<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>x = -1/3 \u221a3 =\u00a0</span>[tex] \\frac{sin 2x}{cos 2x + 1} =  \\frac{-1}{ \\sqrt{3} } [/tex]<br><br><br><br><br>Semoga membantu :) D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-menyebabkan-pernyataan-jika-x2-x-6-maka-x2-922",
+            "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

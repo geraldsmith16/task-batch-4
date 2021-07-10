@@ -1,0 +1,146 @@
+{
+    "question": "Luas tembereng dari lingkaran yang kelilingnya 88 cm dan luas juringnya 154\u00a0cm adalah ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "K = \u03c0 \u00d7 d<br>88 = <u>22</u> \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 7<br>88 \u00d7<u> 7 </u>= d<br>\u00a0\u00a0 \u00a0 \u00a0 22<br>d = 28 cm<br><br>Luas juring =<u>\u00a0 a\u00a0 </u>\u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>154 = \u00a0\u00a0<u> a\u00a0</u>\u00a0  \u00d7<u>\u00a0 22\u00a0 </u>\u00d7 14\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 360 \u00a0\u00a0 \u00a0 7<br>55440 = a \u00d7 616<br>a = 90\u00b0<br><br>karena sudut pembentuk juring nya 90\u00b0, maka jari\"nya menjadi alas dan tinggi segitiga yang dibentuk dari talibusur.<br>Ltembereng = Luas juring - Luas segitiga<br>LT = 154 - (<u>14 \u00d7 14</u>)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>LT = 154 - 98<br>LT = 56 cm\u00b2",
+            "attachments": []
+        },
+        {
+            "answer": "keliling = 2\u03c0r<br>88 = 2.22/7.r<br>88 = 44r/7<br>r = 7\u00d788/44<br>r = 14 cm <br><br>Luas juring = \u03b1/360 \u00d7 \u03c0 \u00d7 r\u00b2<br>154 = \u03b1/360\u00d722/7\u00d714\u00b2<br>154 = 4312\u03b1/2520<br>\u03b1 = 2520\u00d7154/4312<br>\u03b1 = 90<br>Luas tembereng = luas juring - luas segitiga<br>luas tembereng =\u00a0 154 - 1/2\u00d714\u00d714\u00d7sin90<br>luas tembereng = 154 - 98 <br>luas tembereng = 56 cm<br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-sebuah-segitiga-abc-diketahui-sisi-sisinya-adalah-abdan-c-840",
+            "question": "Pada sebuah segitiga ABC diketahui sisi-sisinya adalah a,b,dan c. daripertanyaan berikut yg benar adalah ...    a. b\u00b2 = a\u00b2 + c\u00b2\r\nb. c\u00b2 = b\u00b2 + a\u00b2\r\nc. c\u00b2 = a\u00b2 + b\u00b2\r\nd. a\u00b2 = b\u00b2 + c\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika C adalah sisi miring. <br>\nMaka jawaban yang benar C. c\u00b2 = a\u00b2 + b\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "C. c pangkat 2= a pangkat 2 + b pangkat 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-trapesium-abcd-siku-siku-di-b-dengan-panjang-ab-21cm-258",
+            "question": "Diketahui trapesium ABCD siku-siku di B dengan panjang AB = 21cm , CD = 6cm dan luasnya108cm keliling trapesium ABCD adalah..    ket : pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15t+12t=216<br>27t=216<br>t=8<br><br>AD = \u221a15\u00b2+8\u00b2=\u221a289 = 17<br>kll = 21+6+8+17 = 52 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jarak-dari-bandung-ke-ciamis-pada-peta-8-cm-apabila-sk-991",
+            "question": "Diketahui jarak dari Bandung ke Ciamis pada peta 8 cm. Apabila skala yang digunakan oleh peta 1 : 1.500.000, maka jarak Bandung dengan Ciamis yang sebenarnya adalah.... pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aku ksh rumusnya aja nih<br>JS = JP.S<br><br>ket : JS - jrak sbnernya<br>\u00a0 \u00a0 \u00a0 \u00a0 JP - jarak pda peta<br>\u00a0 \u00a0 \u00a0 \u00a0 S - skala",
+                    "attachments": []
+                },
+                {
+                    "answer": "120 km<br>caranya=<br>8/1/1.500.000=8 dikali 1.500.000= 12.000.000 cm=120 km<br>insyaallah bener<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-pertandingan-lompat-tinggi-lompatan-amir-3m-lebihnya-dari-t-969",
+            "question": "pada pertandingan lompat tinggi, lompatan amir 3m lebihnya dari tinggi lompatan Jonatan. perbandingan tinggi lompatan amir dan jonatan 6 : 5. berapa tinggi lompatan jonatan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "amir = 6.  dan jonatan = 5.\n3m dikali 5 = 15 meter.\njadi, jonatan melompat setinggi 15 meter. kalau amir 18 meter, yaitu dari  3m dikali 6 = 18 meter.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-dari-124-x-12x-2x-2-adalahtlo-189",
+            "question": "Penyelesaian dari 1/2(4 - x) + 1/2x = 2(x + 2) adalah.........tlong buatin cranya ya plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2(4 - x) + 1/2x = 2(x + 2)<br>2 - 1/2x + 1/2x = 2x + 4<br>2 = 2x + 4<br>2 - 4 = 2x<br>-2 = 2x<br>x = -2/2<br>x = -1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-wadah-air-berbentuk-kubus-setengah-wadah-tersebut-berisi-231",
+            "question": "sebuah wadah air berbentuk kubus. Setengah wadah tersebut berisi air. Jika volume air tersebut 864cm\u00b3,panjang rusuk wadah tersebut berapa cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2V=864cm3<br>\u00a0V=2X864=1728cm3<br>V=r3<br>1728=r3<br>r=12 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "864 cm \u00b3 jadi jawaban 234 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-indah-membeli-2-lusin-gelas-seharga-192000gelas-tsb-akan-dij-245",
+            "question": "Bu indah membeli 2 lusin gelas seharga 192.000,gelas tsb akan dijual lagi dengan harga Rp.9500/biji.    a. tentukan besar keuntungan /kerugian bu indah \r\nb. agar diperoleh keuntungan 25%,berapa harga jual gelas perbiji?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Rp.9500 x 24 = Rp.228.000<br>keuntungan = Rp.228.000 - Rp.192.000 = Rp. 36.000<br><br>b. 25% x Rp.192.000 = Rp.48.000<br>harga jual dua lusin = Rp.192.000 + Rp.48.000 = Rp.240.000<br>jadi harus dijual dengan = Rp.240.000 : 24 = Rp.10.000 per buah.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>2 lusin = 2 x 12 = 24 gelas<br><br>harga jual = 24 x 9.500 = 228.000<br><br>keuntungan = harga jual - harga beli = 228.000 - 192.000 = 36.000<br><br>b.<br>harga beli 1 gelas = 192.000 : 24 = 8000<br>harga jual 1 gelas untuk 25% =\u00a0[tex] \\frac{125}{100}\\times 8000=10000 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-kotak-coklat-dibagikan-kepada-24-anak-setiap-anak-mendapat-8-541",
+            "question": "Satu kotak coklat dibagikan kepada 24 anak setiap anak mendapat 8 coklat . jika coklat itu di bagikan kepada 16 anak banyak coklat yg diperoleh setiap anak adalah ,....    tolong pakai cara yaa..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "24 x 8 = 16/x<br><span>x = 24 x 8 : 16 = 12 anak<br></span><br>maaf kalo salah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-stadion-berbentuk-lingkaran-dengan-diameter-84-meter-sepa-412",
+            "question": "Sebuah stadion berbentuk lingkaran dengan diameter 84 meter. Sepanjang stadion akan dipasang lampu dengan jarak 6 meter. Hitunglah banyak lampu yang akan diperlukan!    (kalobisapakecaranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = pi.d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7 * 84<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 264<br><br>banyak lampu = 264 : 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 44 buah lampu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling = \u03c0.d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7 x\u00a0 84<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 264 m<br><br>banyak lampu = 264 : 6<br><span>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 44 buah lampu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-tentang-lingkaranmohon-bantu-dengan-jawaban-yg-benar-sala-113",
+            "question": "Soal tentang lingkaran,mohon bantu dengan jawaban yg benar ,    salah satu sudut pusat dari segi n beraturana adalah 36 erajat,tentukanlah:\r\na. nilai n\r\nb.besar setiap sudut segi n beraturan\r\nc.jumlah sudut n beraturan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sudut pusat =<u>\u00a0 360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n<br>36 =\u00a0 <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  n<br>n = 10<br><br>b. besar tiap sudut segi n <br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n<br>= 180 - <u>360</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10<br>= 180 - 36 = 144\u00b0<br><br>c. total sudut n beraturan<br>= besar sudut segi n \u00d7 n<br>= 144 \u00d7 10 = 1440\u00b0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

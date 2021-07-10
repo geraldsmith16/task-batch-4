@@ -1,0 +1,130 @@
+{
+    "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pabrik-memproduksi-mobil-banyaknya-produksi-per-bulan-me-359",
+            "question": "Sebuah pabrik memproduksi mobil , banyaknya produksi per bulan merupakan deret aritmatika , produksi pada bulan ke 3 adalah 150 unit dan produksi pada bulan ke 6 adalah 225 unit tentukan    a. banyaknya produjsi pada bulan pertama \r\nb. pertambahan produksi pada tiap bulan\r\nc. jumlah produksi pada tahun pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] U_{3} = a + 2b = 150  \\\\  U_{6} = a + 5b = 225 [/tex]\u00a0\u21d2\u00a0[tex]a = 225 - 5b \\\\  U_{3} = 225 - 5b +2b \\\\ 150 = 225 - 3b \\\\ 3b = 75 \\\\ b = 25[/tex]<br><br>a)\u00a0[tex] U_{3} = a +2b \\\\ 150 = a + 2(25) \\\\ a = 100[/tex]<br><br>b) beda\u00a0= 25\u00a0<br><br>c)\u00a0[tex] S_{12} = 6 ( 2(100)+11(25) = 2850[/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pencerminan-titik-32-terhadap-garis-x7-adalah-377",
+            "question": "Hasil pencerminan titik (3,2) terhadap garis x=7 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk y akan tetap sedangkan untuk x akan bergeser\u00a0<br><br>x1 = 3\u00a0<br><br>jarak 3 ke 7 adalah 4\u00a0<br>sehingga bila dicerminkan menjadi\u00a0<br>(7 +4, y)<br>atau (11,2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fx-x-1x1-x-1-dan-gx-x11-x-x-341",
+            "question": "Diketahui \u00a0f(x) = x-1/x+1 , x \u2260 -1 dan g(x) = x\u00b2+1/1-x\u00b2, x \u2260 \u00b11 tentukan f\u1d0fg (x)    ?\r\n\r\ndiketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2)\u00a0diketahui f(x) = 2x\u00b2+5x dan g(x)=1/x tentukan (f o g) (2) ?<br>fog(x)<br>= f(g(x))<br>= f(1/x)<br>= 2(1/x)^2 + 5(1/x)<br>= 2(1/x^2) + 5/x<br>= 2/x^2 + 5x<br>= (2+5x)\u00a0/\u00a0x^2<br><br>nilai fog(x) = (2+5x) / x^2<br>fog(2) = ?<br>x = 2<br>fog(x) = (2+5x) / x^2<br>fog(2) = (2+10) / 4<br>fog(2) = 12 / 4<br>fog(2) = 3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-siswa-diwajibkan-mengerjakan-10-dari-12-soal-yang-tersedi-364",
+            "question": "Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?    a.7\r\nb.14\r\nc.21\r\nd.30\r\ne.42",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Seorang siswa diwajibkan mengerjakan 10 dari 12 soal yang tersedia, tp nomor 1-5 wajib dikerjakan. banyak pilihan yang dpt diambil ada?</h2><p>.</p><ul><li>Wajib mengerjakan 10 dari 12 soal</li><li>Nomor 1 s/d 5 WAJIB dikerjakan</li></ul><p>Berarti, ia hanya harus mengerjakan 5 soal lagi dari 7 soal yang tersisa</p><p>Rumus yang tepat untuk soal diatas ialah rumus kombinasi</p><p>= 7C5</p><p>[tex] =\\frac{7!}{5!(7-5)!} \u00a0 [/tex]</p><p>= [tex] \\frac{7.6.5!}{5!2!} \u00a0[/tex]</p><p>= 21</p><p>.</p><p><em><strong>Jadi banyak cara yg dapat dipilih ada 21 cara.</strong></em></p><p>______________</p><p>Pelajari soal lainnya</p><p>brainly.co.id/tugas/16613233</p><p>______________</p><p><strong>Mapel: Matematika</strong></p><p><strong>Kelas: 12</strong></p><p><strong>Materi: Peluang</strong></p><p><strong>Kata kunci: Kombinasi</strong></p><p><strong>Kode Soal: 2</strong></p><p><strong>Kode Kategorisasi: 12.2.8</strong></p><p>____________</p><p>#optitimcompetition</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-koordinat-a1-p-5-b2-4-4-dan-c-1-2-q-jik-179",
+            "question": "Diketahui koordinat A(1, p, 5), B(2, -4, 4), dan C(-1, 2, q). jika A, B, dan C segaris, nilai p+q = .......    pembahasan nya juga yaaa, tolong di bantu ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{}{AB} = \\left[\\begin{array}{ccc}1-2\\\\p-(-4)\\\\5-4\\end{array}\\right] = \\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right] [/tex]<br><br>[tex] \\frac{}{BC} = \\left[\\begin{array}{ccc}2-(-1)\\\\-4-2\\\\4-q\\end{array}\\right] = \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right] [/tex]<br><br>Sehingga :<br>Karena segaris maka :<br>AB segaris BC atau sama saja dengan AB = BC<br><br>[tex]\\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right]= k \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right][/tex]<br><br>Maka :<br>- 1 = k3<br>k = -1/3<br><br>Untuk nilai p :<br>p + 4 = -6k<br>p + 4 = -6(-1/3)<br>p + 4 = 2<br>p = 2 -\u00a04<br>p = - 2<br><br>Untuk nilai q :<br>1 = k (4 - q)<br>1 = (-1/3) ( 4 - q)<br>- 3\u00a0= 4 - q<br>- 3 - 4 = - q<br>- 7 = - q<br>q = 7<br>\u00a0<br><strong>Maka untuk p + q</strong><br><strong>= - 2 + 7</strong><br><span><strong>= 5</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-px-x4-3x3-5x2-x-6-dibagi-dengan-x2-x-2-ma-385",
+            "question": "Jika p(x) = x4 - 3x3 - 5x2 + x - 6 dibagi dengan (x2 - x - 2), maka sisanya adalah...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara skematis, nanti hasilnya<br>p1.p2 = (x-2)(x+1)<br>s1 = -32<br>s2 = -8<br><br>jd, s(x) = p1s2 + s1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (x-2)-8 + -32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -8X+16-32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = -8X - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8X+16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-2x-3-0-mempunyai-akar-x1-dan-x2-tentu-867",
+            "question": "persamaan kuadrat x\u00b2 - 2x - 3 = 0 mempunyai akar x1 dan x2 tentukan persamaan kuadrat yang akar-akarnya 4x1 dan 4x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pk. lama:<br><span> x\u00b2 - 2x - 3 = 0<br>a = 1<br>b = -2<br>c = -3<br>x1 + x2 = -b/a = -(-2)/1 = 2<br>x1 x x2 = c/a = -3/1 = -3<br><br>Pk. baru<br></span>\n\n<span>x\u00b2- (\u03b1 + \u03b2)x + (\u03b1 . \u03b2) = 0</span>\n<br><br>\n\u03b1 = 4x1\n<br>\n\u03b2 = 4x2\n<br><br>\n(\u03b1 + \u03b2) = 4x1 + 4x2 = 4 (x1 + x2) = 4 (2) = 8\n<br>\n(\u03b1 . \u03b2) = 4x1 . 4x2 = 4 (x1.x2) = 4 (-3) =\n-12\n<br><br>Pk. Baru =&gt;<span>x\u00b2</span> \u2013 8x \u2013 12 = 0\n\n<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] x^{2} [/tex] -2x - 3 = 0<br>(x - 3) (x\u00a0+ 1) = 0<br>[tex] x_{1} [/tex] = 3<br>[tex] x_{2} [/tex] = -1<br><br>menyusun persamaan kuadrat baru jika:<br>[tex] x_{1} [/tex] = 4[tex] x_{1} [/tex] = 4x3 = 12<br>[tex] x_{2} [/tex] = 4[tex] x_{2} [/tex] = 4x-1 = -4<br><br>(x-12) (x+4)<br>= [tex] x^{2} [/tex] + 4x - 12x - 48<br>= [tex] x^{2} [/tex] - 8x -48<br><br>menurut saya ini jawabannya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amoeba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-929",
+            "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+                    "attachments": []
+                },
+                {
+                    "answer": "(2*60)/15*30=240 amoeba",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

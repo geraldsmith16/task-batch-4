@@ -1,0 +1,142 @@
+{
+    "question": "Jumlah n bilangan bulat positif pertama sama dengan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "yang dimaksu n adalah bilangan positif 1",
+            "attachments": []
+        },
+        {
+            "answer": "contohnya aja ambil 2,4,6,8<br>nah ters kita anggap kalau 2 itu n<br>jadi kalau 4=n+2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06=n+4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>kalau mau dimasukin rumus juga bisa,kan rumusnya :<br>Un=a+(n-1)b<br>Un=2+(n-1)2<br><br>atau ada juga rumus yg gampang,yaitu Un=2n<br>kalau mau gampang sih mending pake yg Un=2n aja :)",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hasil-tan-660-sin-900-cos-390-532",
+            "question": "Hasil tan 660 - sin 900 + cos (-390)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 660 = tan (660-360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= tan 300 \u00a0berada di kuadran 4 berarti negatif<br>tan 300 = tan (360-60)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= -tan 60<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= - V3<br><br>sin 900 = sin (2x360 + 180)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= sin 180<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0<br><br>cos (-390) = cos (-390 + 360)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= cos (-30) berada dikuadran 4 cos positif<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/2V3<br><br>-V3 + 0 + 1/2V3 = - 1/2 V3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-6x-8-0-adalah-a-dan-v-p-618",
+            "question": "akar-akar persamaan kuadrat x\u00b2 + 6x + 8 = 0 adalah \u03b1 dan \u03b2 . persamaan kuadrat baru yang akar- akarnya 3\u03b1 dan 3\u03b2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menyusun persamaan baru <br>x\u00b2 + 6x + 8 <br>a = 1 <br>b = 6<br>c = 8 <br>akar-akar persamaannya <br>\u03b1 + \u03b2 = -b/a<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = - 6/1<br>\u00a0\u00a0 \u00a0  \u00a0 \u00a0 = - 6<br>\u03b1 . \u03b2\u00a0 = c/a<br>\u00a0\u00a0 \u00a0 \u00a0  \u00a0 = 8/1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 <br>karna di tentukan 3\u03b1 dan 3\u03b2<br>3\u03b1 + 3\u03b2 = 3 ( \u03b1 + b)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 3 ( -6)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -18<br>3\u03b1 . 3\u03b2 = 9 \u03b1\u03b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 9 ( 8 )<br><strong>\u00a0\u00a0 \u00a0  \u00a0\u00a0 \u00a0 \u00a0 = 72</strong><br><strong>rumus persamaan\u00a0 baru</strong><br>x \u00b2 - ( 3\u03b1+3\u03b2)x + \u03b1.b<br>= x\u00b2 - (-18)x + 72<br>= x\u00b2 + 18x + 72<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fx-m-1xpangkat-2-2mx-m2-berada-diatas-803",
+            "question": "Grafik fungsi f(x) = (m-1)xpangkat 2 + 2mx + (m+2) berada diatas sumbu X. nilai m yang memenuhi adalah    a. m&gt;-2 \r\n b. m&gt;-1 \r\n c. m&gt;2 \r\n d.m&lt;1\r\n e. m&lt;2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat D &lt; 0<br>(m-1)x\u00b2 + 2mx + (m+2) = 0<br><br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m)\u00b2 - 4(m-1).(m+2) &lt; 0<br>4m\u00b2 - 4(m\u00b2 + m - 2) &lt; 0<br>4m\u00b2 - 4m\u00b2 - 4m + 8 &lt; 0<br>-4m + 8 &lt; 0<br>-4m &lt; -8 ==&gt; kedua ruas kalikan -1/4(tanda pertidaksamaan berubah)<br>m &gt; 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-diketahui-barisan-aritmetika-dengan-u3-3-dan-u8-13-363",
+            "question": "3. Diketahui barisan    aritmetika dengan U3 = 3 dan U8 = 13\r\n\r\n\u00a0\u00a0\u00a0 \r\nTentukan yang berikut ini !\r\n\r\n\u00a0 \r\n\u00a0 a. Nilai suku pertama dan bedanya\u00a0\r\n\r\n\r\n\u00a0 b. Suku ke-50\r\n\r\n\u00a0\u00a0 \r\n\u00a0 c. n jika Un = 147",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara cari bedanya seperti ini<br>U 3 = 3<br><u>U 8 = 13</u> -<br>-5 = -10<br>B = 2<br>Lalu<br>suku pertama tinggal dikurangin 4 hehe<br>jadi -1<br><br>Suku ke 50 = (3x50 ) - 3<br><br>yang ke c tinggal gunakan cara subtitusi bila masih ada yang ditanyakan silahkan bertanya di komentar thanks :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = a+2b = \u00a0 3<br><u>U8 = a+7b = 13</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  -  5b = -10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 2<br>b=2, U3 = a+(2x2) = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a+4 = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a = 3 - 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = -1<br><br>U50 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + (50 -1) 2<br>\u00a0\u00a0 \u00a0 \u00a0  = (-1) + (49) 2<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + 98<br>\u00a0\u00a0 \u00a0 \u00a0  = 97<br>Un\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 147<br>a+(n-1)b \u00a0\u00a0 = 147<br>(-1)+(n-1)2 = 147<br>(-1)+2n-2\u00a0\u00a0 = 147<br>2n-3\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 147<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 147+3<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 150<br>n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-suatu-barisan-geometri-diketahui-u24-dan-u38tentukan-u10-821",
+            "question": "Dari suatu barisan geometri diketahui U2=4 dan U3=8.Tentukan U10!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui\u00a0 barisan geometri</span>\n\n<span>U2=4\u00a0\u00a0 U3=8</span>\n\nMaka U10=? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jawab:\n\nU3/U2=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na.r pangkat 2\u00a0/\u00a0a.r=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r=2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0a.r=4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.2=4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a=4/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na=2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U10= a.r pangkat n-1<br>\n\nU10= 2 . 2 pangkat 10-1\n<br>\nU10=2 . 2 pangkat 9<br>\n\nU10= 2.512<br>\n\nU10=1024\n<br>\nKet: titik = kali\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a : bilangan\npertama</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0r : rasio<br>(maaf klw salah)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-menabung-di-sebuah-bank-sebanyak-rp35000000-setelah-626",
+            "question": "Seseorang menabung di sebuah bank sebanyak Rp.350.000,00. Setelah 1 tahun menabung dan mendapat bunga, jumlah uang tabungannya menjadi Rp. 406.000,00. Bunga yang diterima dalam 1 tahun adalah    \u2026 %",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 406.000,00. - Rp 350.000,00 = Rp 56.000,00<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bunga = 406.000 - 350.000 = 56.000<br>presentase = 56.000/350.000 x 100% = 16%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-dan-suku-ke-6-barisan-geometri-berturut-turut-adalah-36-352",
+            "question": "suku ke-3 dan suku ke-6 barisan geometri berturut-turut adalah 36 dan 972. nilai suku ke -5 dari barisan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U5 = 660 <br>apa ada jawabannya ?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya 324. ada?",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

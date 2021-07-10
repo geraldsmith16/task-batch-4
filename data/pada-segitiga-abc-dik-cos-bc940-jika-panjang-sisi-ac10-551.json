@@ -1,0 +1,138 @@
+{
+    "question": "Pada segitiga ABC ,    DIK: cos (B+C)=9/40. jika panjang sisi AC=10 CM &amp; AB= 8CM , panjang sisi BC adalah ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Pada segitiga ABC, diketahui cos(B + C) = 9/40, jika panjang sisi AC = 10 cm dan AB = 8 cm, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>\u221a</strong><strong>2</strong><strong> </strong><strong>cm</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p>Permasalahan di atas dapat diselesaikan dengan menggunakan <strong>aturan</strong><strong> </strong><strong>cosinus</strong><strong> </strong>karena diketahui panjang dua sisi dan keterangan untuk menentukan sebuah sudut.</p><p><strong>Trigonometri</strong> adalah materi matematika yang berhubungan dengan perbandingan antara sudut dengan sisi pada segitiga.</p><p>Untuk menyelesaikan soal ini, kita akan menggunakan <strong>rumus</strong> berikut :</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf A + B + C = 180^{\\circ}}}[/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf B + C = 180^{\\circ} - A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf cos(180^{\\circ} - A) = -cos~A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf a^2 = b^2 + c^2 - 2bc~.~cos~A}}[/tex] </p><p>dimana :</p><p>\u25cb\u00a0<em>a</em>\u00a0= panjang sisi BC</p><p>\u25cb\u00a0<em>b</em>\u00a0= panjang sisi AC</p><p>\u25cb\u00a0<em>c</em>\u00a0= panjang sisi AB</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><ul><li>cos(B + C) = 9/40</li><li>AC (b) = 10 cm</li><li>AB (c) = 8 cm</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>BC (a) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2756 <strong>Menentu</strong><strong>kan</strong><strong> </strong><strong>nilai</strong><strong> </strong><strong>(</strong><strong>B</strong><strong> </strong><strong>+</strong><strong> </strong><strong>C</strong><strong>)</strong></p><p>Karena segitiga ABC, maka jumlah seluruh sudutnya ialah 180\u00b0.</p><p>[tex]\\displaystyle\\rm A + B + C = 180^{\\circ} \\\\ \\\\ \\displaystyle\\boxed{\\rm B + C = 180^{\\circ} - A}[/tex]</p><p>diperoleh: B + C = 180\u00b0 \u2013 A</p><p>\u2756 <strong>Menentukan</strong><strong> </strong><strong>nila</strong><strong> </strong><strong>cos</strong><strong> </strong><strong>A</strong></p><p>Untuk menghitung nilai cos A, kita substitusikan B + C = 180\u00b0 \u2013 A pada cos(B + C) = 9/40</p><p>[tex]\\displaystyle\\rm cos(B + C) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm cos(180^{\\circ} - A) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm -cos~A = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\boxed{\\rm cos~A = -\\dfrac{9}{40}}[/tex]</p><p>diperoleh: cos A = \u2013 9/40</p><p>\u2756 Sehingga, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong></p><p>Kita tentukan panjang sisi BC dengan menggunakan aturan cosinus.</p><p>[tex]\\displaystyle\\begin{array}{rcl}\\rm a^2 &amp;=&amp; b^2 + c^2 - 2bc~.~cos~A \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 10^2 + 8^2 - 2(10)(8)~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 100 + 64 - 160~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 4~.~9 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 36 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 200 \\end{array} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{200} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{100\\times2} \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm a = 10\\sqrt{2}}}[/tex]</p><p>\u2234 <strong>Kesi</strong><strong>mpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, panjang sisi BC adalah 10\u221a2 cm.</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>trigonometri</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Diketahui segitiga ABC dengan \u2220C = 60\u00b0. Jika a = 10 cm dan B = 5 cm, maka panjang c adalah brainly.co.id/tugas/2760573</li><li>Diketahui \u2206PQR, PQ = 20 cm, \u2220S = 90\u00b0, sin P = 3/5, dan tan R = 12/5. Maka luas segitiga PQR adalah brainly.co.id/tugas/10595351</li><li>Diketahui segitiga ABC, panjang sisi AC = 3, AB = 2, dan \u2220A = 60\u00b0. Nilai cos C adalah brainly.co.id/tugas/9736660</li><li>Sebuah segitiga ABC diketahui besar \u2220A = 60\u00b0 dan \u2220B = 45\u00b0 sedangkan panjang sisi BC = 12 cm, maka panjang sisi AC adalah brainly.co.id/tugas/10116623</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 7 - Trigonometri</p><p><strong>Kode :\u00a0</strong>10.2.7</p><p><strong>Kata kunci :</strong><strong> </strong>perbandingan sudut-sudut berelasi, aturan cosinus</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-fx2x5-dan-gx4-x-tentukan-a-fog-x-b-gof-780",
+            "question": "Diketahui = f(x)=2x+5 dan g(x)=4-x Tentukan = a. fog (x) b. gof (x) c. fog ( -2) d. gof (-2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab :<br>a) fog (x) = f(g(x))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f(4-x)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2(4-x)+5 = 8-2x+5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =13-2x<br>b) gof (x) = g (f (x) )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g (2x+5)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1(2x+5)+4 = -2x-5 + 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = -2x-1<br>c)fog (-2) = f(g (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \u00a0\u00a0  f (4(2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2(8) + 5 = 21<br>d) gof (-2) = g (f (-2))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 g(5(-4))<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -1 (-20) +4 = 24<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2m-2x90-mempunyai-nyata-nilai-yang-mem-729",
+            "question": "Persamaan kuadrat\u00a0x\u00b2+(m-2)x+9=0 mempunyai nyata. Nilai yang memenuhi adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Persamaan kuadrat (PK) : ax\u00b2 + bx + c = 0<br>Jenis-jenis PK berdasarkan nilai diskriminan D = b\u00b2 - 4ac, yaitu :<br>1. Jika D\u00a0\u2265 0, maka kedua akarnya real (nyata);<br>2. jika D &gt; 0, maka kedua akarnya real (nyata), berlainan, dan rasional atau irasional;<br>3. Jika D = 0, maka kedua akarnya real, kembar, dan rasional;<br>4. Jika D &lt; 0, maka kedua akarnya imajiner atau tidak real.<br><br>Cara menyelesaikan pertidaksamaan kuadrat, yaitu :<br>1. jadikan ruas kanan = 0;<br>2. jadikan koefisien variabel berpangkat dua bernilai positif;<br>3. uraikan ruas kiri atas faktor-faktor linear;<br>4. tetapkan nilai-nilai nolnya (misalkan x\u2081 = nilai nol terkecil dan x\u2082 = nilai nol terbesar, x\u2081 &lt; x\u2082);<br>5. lihat tanda ketidaksamaan.<br>Jika ax\u00b2 + bx + c\u00a0\u2265 0, maka HP = {x| x\u00a0\u2264 x\u2081 atau x\u00a0\u2265 x\u2082}<br>Jika ax\u00b2 + bx + c\u00a0\u2264 0, maka HP = {x| x\u2081\u00a0\u2264 x\u00a0\u2264 x\u2082}<br><br>Mari kita lihat soal tersebut.<br>PK :\u00a0<span>x\u00b2 + (m - 2)x + 9 = 0<br>a = 1, b = m - 2, dan c = 9<br>memiliki akar-akar real (nyata)<br>D\u00a0</span>\u2265 0<br>Kita jadikan ruas kanan = 0.<br>D = 0<br>\u21d4 0 = b\u00b2 - 4ac<br>\u21d4 0 = (m - 2)\u00b2 - 4.1.9<br>\u21d4 0 = m\u00b2 - 4m + 4 - 36<br>\u21d4 0 = m\u00b2 - 4m - 32<br>\u21d4 (m - 8)(m + 4) = 0<br>\u21d4 m - 8 = 0 V m + 4 = 0<br>\u21d4 m = 8 V m = -4<br>Karena -4 &lt; 8 maka penyelesaiannya m\u00a0\u2264 -4 atau m\u00a0\u2265 8.<br><br>Himpunan penyelesaiannya : HP = {m| m\u00a0\u2264 -4 V m\u00a0\u2265 8, m\u00a0\u2208 R}<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-grafik-y-2-sin-3x-271",
+            "question": "Gambarkan grafik : y = 2 sin 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar grafik y = 2 sin3x<br><br>Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/gambarkan-grafik-y-2-sin-3x-271-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "andra-megerjakan-soal-ipa-selama-1-jam-36-menit-43-detik-dan-mate-528",
+            "question": "andra megerjakan soal IPA selama 1 jam 36 menit 43 detik dan matematika selama 1 jam 48 menit 29 detik. waktu yang dibutuhkan andra seluruhnya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "berarti ditambahka jawabnnya 2jam \u00a025 menit 12 detik<br><br>semoga membantu :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "2jam 25 menit 12 detik....<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sin-45-sin-60cos-45-cos-30-tan-30-tan-60-981",
+            "question": "Sin 45\u00b0 sin 60\u00b0+cos 45\u00b0 cos 30\u00b0 / tan 30\u00b0 tan 60\u00b0 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : sinus, cosinus, sudut istimewa<br><br>Pembahasan :<br>Susut-sudut\u00a0pada trigonometri, yaitu :<br>sin 0\u00b0 = 0, cos 0\u00b0 = 1, tan 0\u00b0 = 0.<br>sin 30\u00b0 = 1/2, cos 30\u00b0 = 1/2\u00a0\u221a3, tan 30\u00b0 = 1/3\u00a0\u221a3.<span><br>sin 45\u00b0 = 1/2\u00a0\u221a2, cos 45\u00b0 = 1/2\u00a0\u221a2, tan 45\u00b0 = 1.<br>sin 60\u00b0 = 1/2\u00a0\u221a3, cos 60\u00b0 = 1/2, tan 60\u00b0 =\u00a0\u221a3.<br><span>sin 90\u00b0 = 1, cos 90\u00b0 = 0, tan 90\u00b0 =\u00a0\u221e.<br><br>Mari kita\u00a0lihat soal\u00a0tersebut.<br></span></span>[tex]\\frac{sin 45^o . sin 60^o + cos 45^o . cos 30^o}{tan 30^o . tan 60^o} \\\\= \\frac{ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}+ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}} { \\frac{1}{3} \\sqrt{3}. \\sqrt{3}} \\\\= \\frac{ \\frac{1}{4} \\sqrt{6}+ \\frac{1}{4} \\sqrt{6}} { \\frac{1}{3}.3} \\\\= \\frac{ \\frac{2}{4} \\sqrt{6} } {1}\\\\= \\frac{1}{2} \\sqrt{6} [/tex]<br><span><span><br>Semangat!<br></span></span><span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketuai-fx-2log-x13-dan-gx-2log-x7-maka-f5-g-514",
+            "question": "Diketuai f(x) = 2log (x+1/3) dan g(x) = 2log (x+7) maka f(5) + g(5) =...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(5) + g(5) = 2log (5+\u00a01/3) + 2log (5+7)<br>= 2log (16/3) + 2log (12)<br>= 2log (16/3 x 12)<br>= 2log 64<br>= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "nama-nama-bangun-ruang-dalam-bahasa-inggris-691",
+            "question": "Nama-nama bangun ruang dalam bahasa inggris",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas\u00a0: 5 SDIT / 7 SMPIT\u00a0<br>mapel : matematika<br>kategori : bangun ruang<br>kata kunci : bangun ruang , bahasa inggris<br><br>Pembahasan :<br><br>nama\" bangun ruang dengan menggunakan bahasa inggris<br><br>1) kubus = cube<br>2) balok = cuboid<br>3) limas = pyramid<br>4) prisma = prism<br>5) tabung = sylinder<br>6) bola = sphere<br>7) kerucut = cone<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

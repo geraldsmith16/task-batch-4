@@ -1,0 +1,138 @@
+{
+    "question": "Fungsi invers dari f(x) = (3x + 7) / (2x - 5) adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x) = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>y = [tex] \\frac{3 x+7}{2x-5} [/tex]<br><br>3x + 7 = 2xy - 5y<br>3x - 2xy = -5y - 7<br>x(3 - 2y) = -5y - 7<br>x = [tex] \\frac{-5y - 7}{3 - 2y} [/tex]<br><br>[tex] f^{-1} [/tex](x) = [tex] \\frac{-5x - 7}{3 - 2x} [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-11-dari-barisan-25612864-adalah-431",
+            "question": "Suku ke 11 dari barisan 256,128,64...\r\nadalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=256<br>r=1/2<br><br>U11= ar^10<br>= 256(1/2)^10<br>= 256:1024 <br>= 1/4 = 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2 . (2a+n-1)b<br>11=11/2.(2.256+11-1).2<br>276<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-suatu-segitiga-siku-siku-adalah-48cm-salah-satu-sudut-l-715",
+            "question": "keliling suatu segitiga siku-siku adalah 48cm. salah satu sudut lancipnya 36,8\u00b0. hitunglah panjang sisi-sisi segitiga tersebut ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satu sudut lancip = 36,8\u00b0 <br>\nsudut lancip yg lain  = 90 - 36,8 = 53,2\u00b0 <br>\ngunakan perbandingan sinus,  <br>\nx/sin 36,8 = y/sin53,2 = r/sin90 <br>\nx = rsin36,8 <br>\ny = rsin53,2 <br>\nkeliling = 48 <br>\nrsin36,8 + rsin53,2 + r = 48 <br>\nr = 48/(1+sin36,8+sin53,2) \u2248 20 <br>\ningat perbandingan phytagoras: <br>\n3 : 4 : 5 = 12 : 16 : 20 <br>\njadi panjang sisi-sisi segitiga tersebut adalah 12, 16 dan 20 cm. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-suku-pertama-4-dan-suku-ke-336-929",
+            "question": "diketahui deret geometri dengan suku pertama =4 dan suku ke-3=36 jumlah lima suku pertama deret tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "u3:u1=36:4<br>r^2=9<br>r=3<br>sn=4(-243-1)/2<br>s5=4(242)/2<br>s5=484<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U1 = a = 4<br>U3 = a\u00d7r\u00b2 = 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r\u00b2 = 36/a = 36 / 4= 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r =\u00a0\u221a9 = 3<br>Sn = a\u00a0\u00d7 (r\u00a0pangkat n - 1) / r -1<br>S5= 4\u00a0\u00d7 (3pankat 5 - 1)/3-1<br>= 4\u00a0\u00d7 (243 -1)/2<br>=2\u00d7242 = 484<br><br>insya Allah..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-y2x-4-di-cerminkan-terhadap-sumbu-y-kemudian-di-putar-de-315",
+            "question": "Garis y=2x-4 di cerminkan terhadap sumbu -y, kemudian di putar dengan R {0,90 drajat}persamaan bayangan garis itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 2x - 4 <br>dicerminkan terhadap sumbu Y = mengganti x menjadi -x<br>y = 2x - 4 ---&gt; y = 2(-x) - 4 ----&gt; y = -2x - 4<br>rotasi 90 = mengganti x menjadi y dan y menjadi -x<br>y = -2x - 4 ----&gt; -x = -2y - 4 <br>\u21d2 x = 2y + 4 <br>\u21d2 y = 1/2 x - 2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-mempunyai-sepasang-akar-berkebalikan-nilai-p-905",
+            "question": "Persamaan\u00a0 mempunyai sepasang akar berkebalikan.    Nilai p\u00a0= .......\r\na. 18\r\nb. 6\r\nc. 3\r\nd. -6\r\ne. -18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mempunyai sepasang akar berkebalikan artinya : x\u2081 . x\u2082 = 1<br>x\u2081 . x\u2082 . x\u2083 = -d/a<br>x\u2083 = -8/2 = -4 <br>masukkan x = -4 ke persamaan : 2x\u00b3 + 3x\u00b2 + px + 8 = 0<br>akan didapat : <br>2(-64) + 3(16) - 4p + 8 = 0<br>-128 + 48 + 8 = 4p<br>p = - 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-dua-sudut-yang-berkomplemen-adalah-474",
+            "question": "Besar dua sudut yang berkomplemen adalah ..??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "90 kalo ngakkk salahhhh dehhh...",
+                    "attachments": []
+                },
+                {
+                    "answer": "audut komplemen adalah dua buah sudut lancip yg besarnya 90derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-dengan-beda-3-ji-672",
+            "question": "tiga buah bilangan membentuk barisan aritmatika dengan beda 3. jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. rasio barisan tersebut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baris aritmatika misal a, a+b, a+2b <br>a, a+3-1,a+2.3<br>a,a+2,a+6 (menjadi baris geometri )<br>[tex] \\frac{a+6}{a+2} = \\frac{a+2}{a} [/tex]<br>a^2+4a+4=a^2+6a<br>2a=4<br>a=2<br>msk kan a=2<br>2,4,8<br>jdi rasionya 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-20-dari-barisan-420-2-adalah-824",
+            "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-pertama-suatu-deret-geometri-adalah-4-dan-suku-keempatnya-0-115",
+            "question": "suku pertama suatu deret geometri adalah 4 dan suku keempatnya 0,5. jumlah 5 suku pertama deret tsb adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sepertinya 10 deh..........................",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

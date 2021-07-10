@@ -1,0 +1,135 @@
+{
+    "question": "diketahui deret geometri dengan suku pertama =4 dan suku ke-3=36 jumlah lima suku pertama deret tersebut adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "u3:u1=36:4<br>r^2=9<br>r=3<br>sn=4(-243-1)/2<br>s5=4(242)/2<br>s5=484<br>",
+            "attachments": []
+        },
+        {
+            "answer": "U1 = a = 4<br>U3 = a\u00d7r\u00b2 = 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r\u00b2 = 36/a = 36 / 4= 9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r =\u00a0\u221a9 = 3<br>Sn = a\u00a0\u00d7 (r\u00a0pangkat n - 1) / r -1<br>S5= 4\u00a0\u00d7 (3pankat 5 - 1)/3-1<br>= 4\u00a0\u00d7 (243 -1)/2<br>=2\u00d7242 = 484<br><br>insya Allah..",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753",
+            "question": "Apa yang dimaksud dengan dua sudut berpenyiku dan dua sudut berpelurus? beri contoh dengan gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dua sudut penyiku, apabila kedua sudut di jumlahkan hasilnya 90 derajat (sudut siku siku)<br>contoh: 30 derajat + 60 derajat<br>dua sudut pelurus, apabila dijumlahkan hasilnya 180 derajat (sudut lurus)<br>contoh: 50 derajat + 130 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut berpenyiku adalah sudut2 yg jika dijumlahkan hasilnya 90\u2070 sedangkat sudut berpelurus adalah sudut2 yg jika dijumlahkan hasilnya 180\u2070.",
+                    "attachments": [
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-1.jpg",
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-m-yang-menyebabkan-fungsi-kuadrat-fxm1x2-2mxm-3-d-729",
+            "question": "Nilai m yang menyebabkan fungsi kuadrat f(x)=(m+1)x\u00b2-2mx+(m-3) definit negatif adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "syarat definit negatif a&lt; 0  dan D&lt;0  ,kedua syarat potongkan\ndalam hal ini \nsyarat 1 m+1&lt;0. ......maka m &lt; -1\nsyarat 2 nilai D\nD= 4m^2 -4(m+1)(m-3)&lt;0\n=4m^2 _4m^2+8m+12&lt;0\n=8m&lt;-12\n=m&lt;-4/3.........\n\nmaka dari syarat 1&amp;2\nm&lt;-4/3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-jenis-mesin-penggiling-padi-digunakan-untuk-menggiling-s-772",
+            "question": "Dua buah jenis mesin penggiling padi digunakan untuk menggiling satu peti padi. untuk menggiling satu peti padi, mesin jenis pertama lebih cepat 1/2 jan dari mesin jenis kedua. sementara jika kedua mesin digunakan sekaligus, dapat menggiling satu peti padi selama 6 jam.    a. berapa jam waktu yang digunakan mesin jenis pertama untuk menggiling satu peti padi\r\nb. berapa jam waktu yang digunakan mesin jenis kedua untuk menggiling satu peti padi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal<br>penggiling pertama=a<br>penggiling kedua=b<br>a lebih cepat1/2jam dari b, maka<br>a=b - 1/2 =&gt;a-b=1/2<br>adan b secara bersama 6 jam, maka<br>a + b = 6<br><br>a - b = 1/2 ditambah a + b =\u00a0 6<br><span>hasilnya 2a = 2 1/4\u00a0</span><br>maka lama yang dibutuhkan a 2 1/4 jam<br><br>a + b = 6<br>2 1/4 + b = 6<br>b= 3 3/4 jam<br><span>maka yang lama yang dibutuhkan b 3 1/4 jam<br><br>semoga bermanfaat :)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sin-45-sin-60cos-45-cos-30-tan-30-tan-60-981",
+            "question": "Sin 45\u00b0 sin 60\u00b0+cos 45\u00b0 cos 30\u00b0 / tan 30\u00b0 tan 60\u00b0 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : sinus, cosinus, sudut istimewa<br><br>Pembahasan :<br>Susut-sudut\u00a0pada trigonometri, yaitu :<br>sin 0\u00b0 = 0, cos 0\u00b0 = 1, tan 0\u00b0 = 0.<br>sin 30\u00b0 = 1/2, cos 30\u00b0 = 1/2\u00a0\u221a3, tan 30\u00b0 = 1/3\u00a0\u221a3.<span><br>sin 45\u00b0 = 1/2\u00a0\u221a2, cos 45\u00b0 = 1/2\u00a0\u221a2, tan 45\u00b0 = 1.<br>sin 60\u00b0 = 1/2\u00a0\u221a3, cos 60\u00b0 = 1/2, tan 60\u00b0 =\u00a0\u221a3.<br><span>sin 90\u00b0 = 1, cos 90\u00b0 = 0, tan 90\u00b0 =\u00a0\u221e.<br><br>Mari kita\u00a0lihat soal\u00a0tersebut.<br></span></span>[tex]\\frac{sin 45^o . sin 60^o + cos 45^o . cos 30^o}{tan 30^o . tan 60^o} \\\\= \\frac{ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}+ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}} { \\frac{1}{3} \\sqrt{3}. \\sqrt{3}} \\\\= \\frac{ \\frac{1}{4} \\sqrt{6}+ \\frac{1}{4} \\sqrt{6}} { \\frac{1}{3}.3} \\\\= \\frac{ \\frac{2}{4} \\sqrt{6} } {1}\\\\= \\frac{1}{2} \\sqrt{6} [/tex]<br><span><span><br>Semangat!<br></span></span><span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-luas-permukaan-prisma-segitiga-567",
+            "question": "Rumus luas permukaan prisma segitiga?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumusnya adalah Lp = (Luas alas segitiga x 2) + (keliling alas segitiga x tinggi prisma) *NB: - rumus luas alas segitiga = 1/2 x alas x tinggi. - keliling alas segitiga = sisi + sisi + sisi. Contoh: Sebuah prisma dengan alas segitiga 3cm dan tinggi segitiga 4cm. Hitung sisi miring alas segitiga dan Hitung luas permukaan jika tinggi prisma 10 cm! Jawab: Sisi miring alas segitiganya adalah 5cm (didapat dri phytagoras 3cm dan 4cm) Lp = (luas alas x 2) + (keliling alas x tinggi prisma) = ((1/2 x 3cm x 4 cm) 2) + (3cm + 4cm + 5cm) x 10cm) = (6 x 2) + (12 x 10cm) = 12 + 120cm = 132cm. Jadi jawabannya adalah 132cm. Semoga membantu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fx3-2x1-maka-fx-362",
+            "question": "F(x+3)= 2x+1, maka f(x)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika f(x + 3) = 2x + 1, <strong>maka</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>2</strong><strong>x</strong><strong> </strong><strong>\u2013</strong><strong> </strong><strong>5</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Fungsi</strong> atau pemetaan dari himpunan A ke himpunan B adalah hubungan yang memasangkan setiap anggota A dengan tepat ke satu anggota B. Artinya adalah anggota himpunan A tidak boleh memasangkan ke anggota himpunan B jika lebih dari satu atau kurang dari satu.</p><p>Mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketah</strong><strong>ui</strong><strong> </strong><strong>:</strong></p><p>f(g(x)) = 2x + 1 \u2192 f(x + 3) = 2x + 1</p><p>dengan demikian, diketahui bahwa :</p><ul><li>g(x) = x + 3</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>f(x) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2752 <strong>Menentukan</strong><strong> </strong><strong>g\u207b</strong><strong>\u00b9</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Asumsikan x + 3 = a, maka</p><p>[tex]\\displaystyle\\rm x + 3 = a \\\\ \\\\ \\displaystyle\\rm x = a - 3[/tex]</p><p>\u2752 Sehingga, <strong>nilai</strong><strong> </strong><strong>f</strong><strong>(</strong><strong>x</strong><strong>)</strong></p><p>Substitusi x = a \u2013 3 pada f(x + 3) = 2x + 1</p><p>[tex]\\displaystyle\\rm f(x + 3) = 2x + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2(a - 3) + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 6 + 1 \\\\ \\\\ \\displaystyle\\rm f(a) = 2a - 5 \\\\ \\\\ \\displaystyle\\sf Kembalikan~variabel~a~menjadi~x \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm f(x) = 2x - 5}}[/tex]</p><p>\u2234 <strong>Kesimpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, jika f(x + 3) = 2x + 1, maka f(x) = 2x \u2013 5</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>fungsi</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari nilai n yang memenuhi jika diketahui f(x) = 3x \u2013 10, g(x) = 4x + n dan (f o g)(x) = (g o f)(x) brainly.co.id/tugas/2851162</li><li>Mencari nilai (f o f)(x) dan (g o g)(x) jika diketahui f(x) = 2x + 1 dan g(x) = x\u00b2 \u2013 2x + 2 brainly.co.id/tugas/9431806</li><li>Mencari nilai (f o g o h)(x) jika diketahui f(x) = 5x\u00b2, g(x) = x\u00b2 + 6 dan h(x) = \u2013x\u00b2 brainly.co.id/tugas/9578764</li><li>Mencari nilai p jika (h o f o g)(p) = 2/3 brainly.co.id/tugas/23172816</li><li>Mencari rumus fungsi f(x) jika diketahui g(x) = x + 1 dan (f o g)(x) = x\u00b2 + 1 brainly.co.id/tugas/16160569</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 3 - Fungsi </p><p><strong>Kode :\u00a0</strong>10.2.3</p><p><strong>Kata kunci :</strong><strong> </strong>fungsi komposisi, misal, variabel</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kirimkan-cara-dan-jawaban-spm-matematika-paket-1-dan-2-unt-260",
+            "question": "tolong kirimkan cara dan jawaban SPM MATEMATIKA paket 1 dan 2 untuk smk kelompok paeiwisata.. secepatnya saya butuh plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Buka lik dibawah ini!<br>www.bukuerlangga.com/370-smk<br></span><span>www.bukuerlangga.com/<br><br>#Semoga menbantu<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

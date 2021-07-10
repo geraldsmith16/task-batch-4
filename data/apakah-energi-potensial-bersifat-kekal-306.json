@@ -1,0 +1,148 @@
+{
+    "question": "Apakah energi potensial bersifat kekal.?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Energi potensial tidak bersifat kekal karena dipengarui oleh energi mekanik<br><br>karena<br>Em = Ep + Ek = konstant<br><br>Ep dan Ek dapat berubah tetapi nilai Em tetap",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "yang-bisa-menjelaskan-sifat-sifat-rangkaian-rlc-siapa-316",
+            "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermasa-50-kg-ditarik-dengan-tali-ke-atas-bidang-mi-196",
+            "question": "Sebuah benda bermasa 5,0 kg ditarik dengan tali ke atas bidang miring yang kasar oleh sebuah gaya 71 N (g=10 m.s-2 ,sin 37=0,6 .cos37= 0,8). Jika koefesien gesekan antara benda dan bidang adalah 0,4 percepatan yang dialami benda adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(Uraikan dulu gaya-gayanya)<br><br>* Cari nilai Fg\u00a0(Gaya Gesek)<br>Fg = \u03bc\u00a0\u00d7 N \u00a0 \u00a0 \u00a0 \u00a0\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 N\u00a0= W.cos.\u03b8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ket ;\u00a0\u03bc = Koefisien gesek<br>\u00a0 \u00a0 \u00a0= 0,4\u00a0\u00d7 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0N = 5.10.0,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = Gaya Normal<br>\u00a0 \u00a0 \u00a0= 16N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0N = 40N<br>* Masukkan ke rumus<br>\u00a0<strong> a =\u00a0</strong><u><strong>\u03a3F</strong></u><strong> \u00a0 \u00a0 </strong><br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u03a3m</strong><br> \u00a0 \u00a0 = <u>F-\u00a0( W sin\u00a0\u03b8 + Fg )</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m<u><br></u> \u00a0 \u00a0 = <u>71- ( 5.10.0,6+16)</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05<br> \u00a0 \u00a0 =\u00a0<u>71- 46<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br> \u00a0 \u00a0 =\u00a0<u>25<br></u> \u00a0 \u00a0 \u00a0 \u00a0 5<br> \u00a0 \u00a0 = <strong>5 m/s\u00b2</strong><u><br></u>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667",
+            "question": "Hitunglah laju aliran volume air dalam pipa yang berjari-jari 5 cm dengan laju 10 cm/det ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Mekanika Fluida<br>Kelas : 2 SMA/XI SMA<br>Pembahasan :<br>Jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667-1.png"
+                    ]
+                },
+                {
+                    "answer": "Dik:<br>r = 5 cm --&gt; 0,05 m<br>v = 10 cm/s --&gt; 0,1 m/s<br>Dit:<br>Q = ...?<br>Jawab:<br>Q = A v<br>= \u03c0r\u00b2 . 0,1<br>= 3,14 (0,05)\u00b2 . 0,1<br>= 0,000785m\u00b3/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-dapat-menerbangkan-balon-udaramaka-udara-panas-harus-disik-781",
+            "question": "untuk dapat menerbangkan balon udara,maka udara panas harus disikan kedalam balon dengan alat penyembur panas. mengapa pengisi udara balon tersebut harus panas?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena kalor selalu melepas suhu ke lingkungan dan semakin besar kalor yang di buang ke lingkungan maka tekananya kalor\u00a0pada balon\u00a0semakin besar.<span>Udara yang lebih panas akan lebih ringan karena masa per unit volumenya lebih sedikit.</span><br>Balon udara panas dapat terangkat berdasarkan prinsip ilmiah dasar, udara yang lebih panas akan menaik di atas udara yang lebih dingin. Sederhananya, udara panas lebih ringan dari udara dingin karena masa udara perunit volumenya lebih sedikit. Satu kubik kaki udara yang dipanaskan dapat mengangkat 7 gram benda, tdak banyak memang, karena itulah balon udara yang dipanaskan berukuran sangat besar. Untuk mengangkat 450 kg beban dibutuhkan 65 000 kubik kaki udara panas. Semua partikel udara di atmosfer ditarik oleh gaya gravitasi ke bawah. Tapi tekanan di udara menciptakan gaya ke atas yang bekerja berlawanan dengan gravitasi. Kumpulan udara membangun keseimbangan gaya gravitasi, dimana pada titik ini gravitasi tidak cukup kuat untuk menarik ke bawah sejumlah besar partikel. Tingkat tekanan ini adalah tertinggi pada permukaan bumi dimana udara pada tingkat ini dapat menahan beban diudara diatasnya, jika lebih berat berarti lebih besar gaya gravitasi ke bawah. Ketika Anda bergerak ke atas atmosfer lebih tinggi lagi , massa udara semakin kurang, dan sehingga menyeimbangkan tekanan berkurang. Inilah sebabnya mengapa terjadi penurunan tekanan udara semakin naiknya ketinggian. Perbedaan tekanan udara menyebabkan gaya apung ke atas di udara di sekitar kita. Pada dasarnya, tekanan udara di bawah benda lebih besar daripada diatasnya, sehingga mendorong udara keatas lebih besar dibanding ke bawah. Tapi gaya apung ini adalah lemah dibandingkan dengan gaya gravitasi, hanya sekuat berat udara yang dipindahkan oleh suatu benda. Jelas, sebagian besar benda padat apa pun akan menjadi lebih berat daripada udara yang dipindahkan, sehingga gaya apung tidak bergerak sama sekali. Gaya apung hanya dapat memindahkan hal-hal yang lebih ringan daripada udara di sekitar mereka. Untuk membuat benda mengapung di udara, maka harus lebih ringan daripada volume yang sama udara di sekitarnya, yaitu dengan mengisi balon dengan udara yang tidak terlalu padat daripada udara sekitarnya. Karena udara dalam balon memiliki kurang massa per unit volume daripada udara di atmosfer yang membuatnya lebih ringan sehingga gaya apung akan mengangkat balon ke atas. Tetapi sekali lagi, lebih sedikit partikel per volume udara artinya tekanan udara lebih rendah, sehingga tekanan udara sekitar akan menekan balon udara sampai kepadatan di dalamnya sama dengan kepadatan udara di luar. Ada lebih sedikit partikel udara per satuan volume di dalam balon, tetapi karena partikel-partikel tersebut bergerak lebih cepat, dalam dan luar tekanan udara yang sama. Dengan asumsi bahwa udara di balon dan udara di luar balon ada di bawah kondisi yang persis sama. Maka, jika kita mengubah kondisi udara di dalam balon, kita dapat mengurangi kepadatan, sekaligus menjaga tekanan udara yang sama. Kekuatan tekanan udara pada objek tergantung pada seberapa sering berbenturan dengan partikel-partikel udara objek, serta gaya masing-masing tabrakan. Kita melihat bahwa secara keseluruhan kita dapat meningkatkan tekanan dalam dua cara: Meningkatkan jumlah partikel udara sehingga ada sejumlah besar partikel berdampak atas luas permukaan tertentu.Meningkatkan kecepatan partikel sehingga partikel menghantam daerah lebih sering dan setiap partikel bertabrakan dengan kekuatan yang lebih besar. Jadi, untuk menurunkan kerapatan udara dalam balon tanpa kehilangan tekanan udara, Anda hanya perlu meningkatkan kecepatan partikel udara. Anda dapat melakukannya dengan mudah dengan pemanasan udara. Partikel udara menyerap energi panas dan menjadi lebih bereaksi. Hal ini membuat mereka bergerak lebih cepat, yang berarti mereka bertabrakan dengan permukaan lebih sering, dan dengan kekuatan yang lebih besar. Udara panas memberi tekanan udara yang lebih besar per partikel daripada udara dingin. Jadi naiknya balon udara ke atas adalah karena balon tersebut dipenuhi dengan panas, udara menjadi kurang padat dan dikelilingi oleh udara lebih dingin namun lebih padat.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena kalor selalu melepas suhu, semakin besar tekanannya maka balon akan semakin besar",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-berbentuk-pipa-u-berisi-air-dan-minyak-tinggi-kolom-914",
+            "question": "Sebuah pipa berbentuk pipa U berisi air dan minyak. Tinggi kolom minyak 20 cm dan tinggi kolom air 10 cm. Jika maasa jenis air 1.000 kg/, maka hitunglah massa jenis minyak.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c1 = Rho<br><br>Diketahui : \u03c11 = 1000 kg/[tex] M^{3} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 h1 = 10 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  h2 = 20 cm<br>Ditanyai : \u03c12\u00a0 ?<br><br>Penyelesaian<br><br>\u03c11 . h1 = \u03c12 . h2<br>1000 . 10 = \u03c12 . 20<br>\u03c12 = <u>1000 . 10</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20<br>\u03c12 = <u>10000</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  20<br>\u03c12 = 500 kg/[tex] M^{3} [/tex]<br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "massa jenis minyak = 0,5 g/cm^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-penerapan-fluida-statis-dalam-kehidupan-sehari-hari-selain-142",
+            "question": "Contoh penerapan fluida statis dalam kehidupan sehari hari selain dongkrak hidrolik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-\u00a0pada penyemprot obat nyamuk<br>-\u00a0pada voluntrimeter<br>- pada\u00a0pompa air\u00a0hidrolok<br>- katrol hidrolik",
+                    "attachments": []
+                },
+                {
+                    "answer": "em cakram sepeda motor, memakai tekanan dari handle rem yang disalurkan \nmelalui cairan rem yang akhirnya menekan kampas pada cakram. <br>penerapannya ada pada sayap pesawat terbang. <br>N masih banyak lagi contoh penerapan fluida statis di kehidupan sehari-hari......  <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-a-dan-b-masing-bermassa-4kg-dan-3kg-dihubungkan-d-572",
+            "question": "dua buah benda A dan B masing\" bermassa 4kg dan 3kg dihubungkan dengan tali (massa tali diabaikan) melalui sebuah katrol bermassa 2kg dan berjari-jari 20cm. jika benda berputar dengan tali, percepatan setiap benda adalah... (g=10m/s\"kuadrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mA : 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0mB : 3 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 g \u00a0 : 10 m/s^2<br>dit : a ??<br><br>penyy : (mA-mB)/(mA+mB).g<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 1/7.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0: 1,42 = 1,5 \u00a0m/s^2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-akibatnya-bila-kecepatan-bola-relatif-besar-terhadap-fluid-629",
+            "question": "Apakah akibatnya bila kecepatan bola relatif besar terhadap fluida?(hukum stokes)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan bertambahnya besar kecepatan bola maka bertambah pula gaya \nstokes pada bola tersebut sehingga pada akhirnya bola tersebut akan \nbergerak dengan kecepatan tetap<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233",
+            "question": "tentukan letak titik berat sebuah kawat yang berupa busur lingkaran dari titik pusat kelengkungannya jika diketahui sudut busur tersebut 60 derajat dan jari jarinya R.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XI</strong><br><strong>Pelajaran \u00a0 \u00a0: Fisika</strong><br><strong>Kategori \u00a0 \u00a0 \u00a0: Titik Berat</strong><br><strong>Kata Kunci \u00a0: kawat, busur, letak titik berat</strong><br><br><em>Pembahasan pada gambar terlampir\u00a0</em><br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229",
+            "question": "Jika bermassa m digantungkan pada pegas yang memiliki tetapan k, maka pegas akan bertambah panjang 1,5 cm. Tentukan pertambahan panjang pegas jika pegasi disusun seperti gambar berikut ini.",
+            "attachments": [
+                "question-attachments/jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lm = 5 kg<br>\u00a0 \u00a0 \u00a0 k = 8 k<br>\u00a0 \u00a0 \u00a0 l = 1,5 cm = 0,015<br>\u00a0 \u00a0 \u00a0 g = 10 m/s<br>Dit \u0394l ?<br><br>F = k.l<br>m.g = 8k .\u0394l<br>5.10 = 8k .\u00a0\u0394l<br><br>\u0394l = 50 / 8k<br>\u00a0 \u00a0 = 6,25 m<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

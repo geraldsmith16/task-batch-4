@@ -1,0 +1,148 @@
+{
+    "question": "Hitunglah Keliling dan luas bangun yang diarsir pada gambar itu ?",
+    "attachments": [
+        "question-attachments/hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "pake rumus juring aja lebih gampang<br><br>45 per 360 * luas lingkarannya<br><br>luasnya tadi udah dicari, hasilnya 379,94<br><br>45 per 360 * 379,94 = 47,49 (ini luas yang engga diarsir + yang di arsir)<br><br>sekarang kita cari luas yang ga di arsir dulu.<br>45 per 360 * 113,04 = 14,13<br><br>kurangin.. 47,49 - 14,13 = 33,36 (luas yang di arsir)<br>__________________________________________________<br>keliling = phi*2r<br>tapi berhubung itu bukan lingkaran utuh, maka harus dicari panjang busur dulu<br><br>45 per 360 * keliling<br>= 45 per 360 * 69,08<br>= 8,6<br><br>tinggal di jumlah... 5 + 5 + 8,6 = 18,6 (keliling yang di arsir)<br><br>CMIIW",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-balok-mempunyai-panjang-dan-tinggi-masing-masing-15cm-dan-748",
+            "question": "Sebuah balok mempunyai panjang dan tinggi masing masing 15cm dan 10cm.jika panjang diagonal alas balok 17cm,luas permukaan balok adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = 15\u00a0<br>T = 10\u00a0<br>Diagonal = 17\u00a0<br>L = 289 - 225 = 64\u00a0<br>akar dari 64 = 8<br>L.Permukaan balok = 2{(pxl)+(pxt)+(lxt)}<br>\u00a0 \u00a0 = 2 {(15x8)+(15x10)+(8x10)}<br>\u00a0 \u00a0 = 2(120+150+80)<br>\u00a0 \u00a0 = 2x350<br>\u00a0 \u00a0 = 700",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-luas-tembereng-pada-gambar-berikut-jika-jari-jari-481",
+            "question": "1. hitunglah luas tembereng pada gambar berikut jika jari - jari lingkaran 14 cm",
+            "attachments": [
+                "question-attachments/1-hitunglah-luas-tembereng-pada-gambar-berikut-jika-jari-jari-481-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<strong>a) luas tembereng dg sudut 90 derajat </strong><br><strong>\u00a0\u00a0 \u00a0  = 2/7 x r^2</strong><br><strong>\u00a0\u00a0 \u00a0 = 2/7 x 14 x 14</strong><br><strong>\u00a0\u00a0 \u00a0 = 56 cm^2</strong><br><br><strong>b) luas tembereng dg sudut 60 derajat</strong><br><strong>\u00a0\u00a0 \u00a0 = luas juring - luas segitiga</strong><br><strong>\u00a0\u00a0 \u00a0 = 1/6 x 22/7 x 14 x 14 - 14^2/3 V3</strong><br><strong>\u00a0\u00a0 \u00a0 = 102 2/3 - 65 1/3 V3</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. luas tembereng<br>= l. juring - l.segitiga<br>= l. lingkaran x sudut juring/360 - l. segitiga<br>= \u03c0r\u00b2 x 90/360 - a x t/2<br>= 22/7 x 14 x 14 x 90/360 - 14 x 14/2<br>= 154 - 98<br>= 56 cm\u00b2<br><br>b. luas tembereng<br>= l. lingkaran x sudut juring/360 - l. segitiga<br>= \u03c0r\u00b2 x 90/360 - a x t/2<br>= 22/7 x 14 x 14 x 60/360 - 14 x 7\u221a3/2<br>= 102,67 - 49\u221a3<br><br>ket :<br>t. segitiga didapat dari rumus phytagoras :<br>b = \u221a(c\u00b2 - b\u00b2)<br>b = \u221a(14\u00b2 - 7\u00b2)<br>b = \u221a(196 - 49)<br>b = \u221a147<br>b = \u221a49\u221a3<br>b = 7\u221a3, jadi t. segitiga adalah 7\u221a3<br><br>alas segitiga = 14, karena salah satu sudutnya 60\u2070, karena ada 2 sisi segitiga yang sama, maka sudut yang lainnya juga 60\u2070, sehingga semua sudutnya 60\u00b0, maka disebut segitiga sama sisi, jadi semua sisinya sama<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-garis-singgung-lingkaran-163",
+            "question": "Apa yang dimaksud dengan garis singgung lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "garis yang menyinggung lingkaran yang memiliki dua titik untuk menggabungkan dua objek<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "6skala-sebuah-peta-1-1500000-jarak-kota-a-dan-b-pada-peta-i-595",
+            "question": "6.skala sebuah peta 1 : 1.500.000. jarak kota A dan B pada peta itu 6 cm. berapa jarak sebenarnya kota A dan kota B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya = 1.500.000 X 6cm = 9.000.000cm = 90km<br>Jarak Sebenarnya = 90km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "paman-memiliki-sebuah-taman-berbentuk-lingkaran-dengan-diameter-3-419",
+            "question": "paman memiliki sebuah taman berbentuk lingkaran dengan diameter 30 m. di sekeliling taman akan dibuat pagar , jika harga pagar Rp9.000,00/m maka biaya yang dibutuhkan paman untuk membuat pagar adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,14 x 30= 94,2m. 92,4m x Rp 9.000,00=Rp 847.800,00",
+                    "attachments": []
+                },
+                {
+                    "answer": "v = v\u00a0kali r\u00a0kali r\u00a0<br>v = 3,14 kali 15 kali 15<br>v =706,5m<br>1m = \u00a09000<br>jadi = 706,5 kali 9000 = Rp\u00a06.358.500 yang harus dibayar paman<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-981",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x = 1/2 akar3<br>2 sinx cosx = 1/2 akar 3<br>sinx cos x = 1/4 akar 3<br><br>Coba 30\u00a0<br><br>sin 30 cos 30 = \u00a0setengah * setengah akar 3 \u00a0(Ya)<br>sin 60 cos 60 \u00a0= setengah akar 3 * setengah (Ya)<br>sin 210 cos 210 = Ya<br><br><br>Jadi x = {30, 60, 210 }<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-tex-pi-314-tex-hitunglah-keliling-lingkaran-yang-916",
+            "question": "Untuk\u00a0 [tex] \\pi 3,14    [/tex]\u00a0 hitunglah keliling lingkaran yang luasnya sebagai berikut \r\na. 200,96cm b. 1.256cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) K = 2kali akar (luas x pi)<br>= 2kali akar (200.96 x 3.14)<br>= 2kali akar (631.0144)<br>= 2kali 25.12<br>= 50.24<br><br>b) rumus sama :)<br>= 2kali akar (1256 x 3.14)<br>= 2kali akar (3943.84)<br>= 2kali 62.8<br>= 125.6<br><br>\u00a0:D",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]a) L =  \\pi  r^{2}  \\\\ 200,96  = 3,14  r^{2}  \\\\  \\frac{200,96}{3,14} = r^{2}  \\\\ 64 = r^{2} \\\\ r = \\sqrt{64}  \\\\ r = 8 \\\\  \\\\ k =  2\\pi r \\\\ k =2 \u00d7 3,14 \u00d7 8 \\\\ k = 16 \u00d7 3,14 \\\\ k = 50,24cm \\\\ \\\\ \\\\ b) L =  \\pi  r^{2}  \\\\ 1.256  = 3,14  r^{2}  \\\\  \\frac{1256}{3,14} = r^{2}  \\\\ 400 = r^{2} \\\\ r = \\sqrt{400}  \\\\ r = 20 \\\\  \\\\ k =  2\\pi r \\\\ k=2 \u00d7 3,14 \u00d7 20 \\\\ k = 40 \u00d7 3,14 \\\\ k = 125,6 cm[/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-besar-sudut-opq-40-tentukan-a-besar-sid-545",
+            "question": "Perhatikan gambar!    Besar sudut OPQ = 40\u00b0\r\n tentukan :\r\n a. besar sidut POQ\r\n b. Besar sudut PQO\r\n C. Besar sudut PRQ",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-besar-sudut-opq-40-tentukan-a-besar-sid-545-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u0394POQ = sama kaki<br>&lt;OPQ = &lt; PQO = 40<br>&lt;POQ = 180 - 2(40)= 100<br>&lt;PRQ = 1/2 (OPQ) = 1/2(100) = 50<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-bandi-membeli-sebuah-rumah-seharga-rp125000setelah-dua-tahu-702",
+            "question": "Pak Bandi membeli sebuah rumah seharga Rp.125000.Setelah dua tahun rumah trsbt dijual lagi sehingga rugi 5%.Tentukan=    a.Besar Kerugian\r\n b.Harga Jual Rumah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. besar kerugian = 5/100 \u00d7 125.000.000 = 6.250.000<br>b. harga jual rumah = 125.000.000 - 6.250.000 = 118.750.000<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5/100 x125000=7250<br>a.Rp6250<br>b.125000-6250=118750",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-aritmetika-diketahui-suku-ke-3-14-dan-suku-ke-726-376",
+            "question": "Dari barisan aritmetika diketahui suku ke-3 =14 dan suku ke-7=26. jumlah 18 suku pertama adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus umum: <br>\nUn = a + (n-1)b <br>\nSn = n/2 [2a + (n-1)b] <br><br>\nDiketahui: <br>\nU3 = 4 <br>\nU7 = 26 <br><br>\n26 = a + 6b <br>\n14 = a + 2b <br>\n----------------- - <br>\n12  = 4b <br>\nb = 3 <br><br>\nMasukin nilai b ke pers. sebelumnya: <br>\n26 = a + 6b <br>\n26 = a + 6(3) <br>\na = 8 <br><br>\nJadi didapat a = 8 dan b = 3 <br><br>\nMasukin ke pers. Sn untuk n = 18 --&gt; <br><br>\nSn = n/2 [2a + (n-1)b] <br>\nS18 = 18/2 [2x8 + (18-1)3] <br>\n.......= 9(16 + 51) <br>\n.......= 603 <br><br>\nJadi jumlah 18 suku pertama = 603  <br>Kasih jadi the best dan ucapan terima kasih ya...<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

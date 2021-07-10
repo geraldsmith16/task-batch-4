@@ -1,0 +1,130 @@
+{
+    "question": "Faktor Real yang mungkin dari suku banyak berikut :",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "an = 1 <br>faktor bulat 1 : [tex] \\frac{+}[/tex] 1<br>ao = 6<br>faktor bulat 6 : [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br>k yang mungkin = [tex] \\frac{faktor bulat ao}{faktor bulat an}[/tex]<br><br>=&gt; [tex] \\frac{+}[/tex]1, [tex] \\frac{+}[/tex] 2, [tex] \\frac{+}[/tex] 3, [tex] \\frac{+}[/tex] 6<br><br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-contoh-aplikasi-soal-trigonometri-dalam-bidang-fisika-beserta-154",
+            "question": "Apa contoh aplikasi soal trigonometri dalam bidang fisika beserta pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gerak parabola : kan ada sudutnya. kalau diuraikan pada sumbu x, cos sudut. kalau diuraikan diuraikan pada SB y sin sudut<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x32x2-15xk0-mempunyai-sepasang-akar-samanilai-k-a-501",
+            "question": "Persamaan x^3+2x^2-15x+k=0 mempunyai sepasang akar sama.nilai k adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Persamaan x\u00b3 + 2x\u00b2 - 15x + k = 0 mempunyai sepasang akar sama. Nilai\nk adalah\n\n\u00a0\n<br><br>Pembahasan :\n\n\u00a0\n<br><br>x\u00b3 + 2x\u00b2 - 15x + k = 0\n<br>\na = 1, b = 2, c = \u201315, d = k\n\n\u00a0\n<br><br>misal akar \u2013 akarnya adalah x\u2081, x\u2082 dan x\u2083 dengan x\u2081 = x\u2082\u00a0\u00a0\n<br><br>\n1) x\u2081 + x\u2082 + x\u2083 = \u2013b/a\n<br>\nx\u2082 + x\u2082 + x\u2083 = \u20132/1\n<br>\n2x\u2082 + x\u2083 = \u20132\n<br>\nx\u2083 = \u20132x\u2082 \u2013 2\n\n\u00a0\n<br><br>2) x\u2081x\u2082 + x\u2081x\u2083 + x\u2082x\u2083 = c/a\n<br>\nx\u2082x\u2082 + x\u2082x\u2083 + x\u2082x\u2083 = \u201315/1\n<br>\nx\u2082\u00b2 + 2x\u2082x\u2083 = \u201315\n\n\u00a0\n<br><br>x\u2082\u00b2 + 2x\u2082(\u20132x\u2082 \u2013 2) = \u201315\n<br>\nx\u2082\u00b2 \u2013 4x\u2082\u00b2 \u2013 4x\u2082 = \u201315\n<br>\n\u20133x\u2082\u00b2 \u2013 4x\u2082 + 15 = 0\n<br>\n3x\u2082\u00b2 + 4x\u2082 \u2013 15 = 0\n<br>\n(3x\u2082 \u2013 5)(x\u2082 + 3) = 0\n<br>\nx\u2082 = 5/3 atau x\u2082 = \u20133\n\n\u00a0\n<br><br>Jika x\u2082 = 5/3 maka x\u2081 = 5/3\n<br>\nx\u2083 = \u20132x\u2082 \u2013 2 <br>\n\nx\u2083 = \u20132(5/3) \u2013 2 <br>\n\nx\u2083 = \u201310/3 \u2013 6/3\n<br>\nx\u2083 = \u201316/3\n\n\u00a0\n<br><br>x\u2081 . x\u2082 . x\u2083 = \u2013d/a\n<br>\n5/3 . 5/3 . \u201316/3 = \u2013k/1\n<br>\n\u2013400/27 = \u2013k\n<br>\nk = 400/27\n\n\u00a0\n<br><br>Jika x\u2082 = \u20133 maka x\u2081 = \u20133\n<br>x\u2083 = \u20132x\u2082 \u2013 2\n<br>x\u2083 = \u20132(\u20133) \u2013 2 <br>x\u2083 = 6 \u2013 2\n<br>\nx\u2083 = 4\n\n\u00a0\n<br><br>x\u2081 . x\u2082 . x\u2083 = \u2013d/a\n<br>\n\u20133 . \u20133 . 4 = \u2013k/1\n<br>\n36 = \u2013k\n<br>k = \u201336\n\n\u00a0\n<br><br>Jadi nilai \n\nk = 400/27 atau k = \u201336 \n\n\u00a0<br><span><br>=============================================<span><br><br></span></span>\n\nKelas : 11<span><br>\nMapel : Matematika<br>\nKategori : Suku Banyak<br>\nKata Kunci : Akar \u2013 akar persamaan polinomial<br><span>Kode : 11.2.5 (Kelas 11 Matematika Bab 5 \u2013 Suku\nBanyak)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-maksimum-fxax24xa-adalah-3-hitunglah-nilai-a-tolong-693",
+            "question": "Nilai maksimum f(x)=ax\u00b2+4x+a adalah 3. hitunglah nilai a!    Tolong di jawab dangan pnjelasannya yahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 3<br>y = [tex] \\frac{-D}{4a} [/tex]<br>y = [tex] \\frac{-(b^{2} - 4ac)}{4a} [/tex]<br>3 = [tex] \\frac{-(4^{2} - 4a.a)}{4a} [/tex]<br>12a = -(16 - 4a\u00b2)<br>12a = -16 + 4a\u00b2<br>4a\u00b2 - 12a - 16 = 0<br>a\u00b2 - 3a - 4 = 0<br>(a - 4)(a + 1) = 0<br>a = 4 atau a = -1<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-mean-suatu-data-7-4-6-7-8-7-x-8-5-8-7-6-9-adalah-709",
+            "question": "jika mean suatu data 7, 4, 6, 7, 8, 7, x. 8, 5, 8, 7, 6, 9 adalah 7, maka nilai x yg memenuhi adalah,,?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>7+ 4+ 6+ 7+ 8+ 7+ x+ 8 + 5 +\u00a0 8 +\u00a0 7 +\u00a0 6 + 9</span> per 13 = 7<br>82 + x per 13 = 7<br>82 + x = 7*13<br>82 + x = 91<br>x = 91-82<br>\u00a0\u00a0 = 9<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(7<span>+</span>4+6+7+8+7+x+8+5+8+7<span>+6+9</span>):13=7<br>(82+x):13=7<br>82+x=91<br>x=91-82<br>x=9<br><br>poinnya banyak dikit donk.. jadikan jawaban terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-rumus-skala-692",
+            "question": "Apa rumus-rumus skala?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya :jarak pada peta(SKALA)<br>Jarak sebenarnya:skala (JARAK PADA PETA)<br>Jarak pada peta\u00d7skala (JARAK SEBENARNYA)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-salmah-menabung-uang-rp-2000000-di-koperasi-sentosa-selama-1-236",
+            "question": "Bu Salmah menabung uang RP 2.000.000 di koperasi SENTOSA selama 10 bulan. Jika bunga koperasi itu sebesar 12% per tahun, jumlah tabungan Bu Salmah adalah...    *tolong kasih tau caranya juga yaa, makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga = 12% : 12 (12 bln) = 1 %. 10 bln = 10%, 10 % \u00d7 2000.000 = 200.000,,,, tabungan = 2200.000... maaf kalau salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-sudut-komplemen-dan-sudut-suplemen-369",
+            "question": "Pengertian sudut komplemen dan sudut suplemen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sudut komplemen = sudut yang berpenyiku (besarnya 90 derajat)<br>Sudut suplemen = sudut yang berpelurus (besarnya 180 derajat)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut komplemen yakni sudut saling berpenyiku , artinya jumlah kedua sudut = 90 derajat<br>sudut suplemen yakni sudut yang saling berpelurus, artinya jumlah kedua sudut = 180 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rp-2650000-untuk-2-hari-senilai-dgn-untuk-5-hari-723",
+            "question": "Rp 26.500.00 untuk 2 hari senilai dgn ........... untuk 5 hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "26,500 : 2 = 13,250\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 13,250 x 5 = 66,250 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Jadi untuk 5 hari = Rp 66,250.00<br>\u00a0 \u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukkan-teorema-faktor-dari-2x-3-adalah-faktor-dari-2x3-748",
+            "question": "\u00a0Tunjukkan\u00a0Teorema faktor dari (2x-3) adalah faktor dari 2x\u00b3 + 5x\u00b2 -\u00a06x -9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor faktornya 2x^3+5x^2-6x+9=0<br>=\u00a0(x+1)(x+3)(2x-3)=0<br><br>jadi 2x-3 benar faktor dari\u00a02x^3+5x^2-6x+9",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

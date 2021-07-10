@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui fungsi g(x) =2x-1 dan (fog)(x) =4x\u00b2+6x-2. rumus fungsi f(x) +=...?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span> g(x) = 2x-1 dan (fog)(x) = 4x\u00b2+6x-2<br>misal g(x) = y<br>y = 2x - 1<br>2x = y + 1<br>x = [tex] \\frac{1}{2} [/tex](y + 1)<br>f(g(x)) =</span>4x\u00b2+6x-2<br>f(y) = 4[tex] ( \\frac{y + 1}{2} )^{2} [/tex]\u00a0 + 6[tex] (\\frac{y + 1}{2} )[/tex] - 2<br>f(y) = 4[tex] ( \\frac{y^{2} + 2y + 1}{4} ) [/tex]\u00a0 + 6[tex] (\\frac{y + 1}{2} )[/tex] - 2<br>f(y) = [tex] y^{2} [/tex] + 2y + 1 + 3(y + 1) - 2<br>f(y) = [tex] y^{2} [/tex] + 2y + 1 + 3y + 3 - 2<br>f(y) = [tex] y^{2} [/tex] + 5y + 2<br>f(x) = [tex] x^{2} [/tex] + 5x + 2<br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-bilangan-asli-antara-1-sampai-100-yang-habis-diba-957",
+            "question": "Tentukan jumlah bilangan asli antara 1 sampai 100 yang habis dibagi 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bolangan kelipatan 3 antara 1- 100 <br>a = bilangan yang bisa di bagi 3 yang lebih besar dari pada 1<br>\u00a0\u00a0 = 3 <br>b = selisih bilangan <br>\u00a0\u00a0 = 3<br>Un = bilangan yang mendekati 100 dan dapat di bagi 3 <br>\u00a0\u00a0 \u00a0  = 99<br>Un = a + (n-1) b <br>99\u00a0 = 3 + (n-1) 3<br>99\u00a0 = 3 + 3n - 3<br>99\u00a0 = 3n<br>99/3 = n <br>\u00a0 33\u00a0 =<strong> n </strong><br><strong>jumlah bilnagan kelipatannya adalah</strong> <br>sn = n/2 (a +un)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 3+99)<br>\u00a0\u00a0 \u00a0  = 33/2 ( 102)<br>\u00a0\u00a0 \u00a0  = 33 x 51<br>\u00a0 \u00a0\u00a0 = 1683 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcdefgh-dengan-panjang-rusuk-6cm-jarak-titik-a-938",
+            "question": "Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Jawab</h2><p>Diketahui kubus ABCD.EFGH dengan panjang rusuk 6cm. Jarak titik A ke garis CF<strong> adalah 3\u221a6cm</strong></p><p></p><p></p><h2>Pembahasan </h2><h3><u>Ingat Kembali</u></h3><p>ok saya akan menjelaskan beberapa materi matematika yang berkaitan dengan soal ini </p><p></p><h3>-Luas Segitiga</h3><p>{ada 3 cara untuk mendapatkan luas suatu segitiga,</p><ul><li>dengan mengkalikan alas dan tinggi kemudian dibagi 2 biasa ditulis L\u0394 = a.t/2, dengan a(alas) dan t(tinggi)}</li></ul><ul><li>menggunakan rumus heron dimana L\u0394 = \u221a(s(s-a)(s-b)(s-c)), dengan s(setengah keliling segitga) a,b dan c(sisi sisi segitiga)</li></ul><ul><li>menggunakan rumus trigonometri(rumus ini hanya bisa digunakan jika salah satu sudut diketahui) dimana L\u0394 = a.b.sinC/2 atau L\u0394 = b.c.sinA/2 atau L\u0394 = a.c.sinB/2, dengan a,b, dan c adalah sisi sisi segitiga. untuk A,B dan C adalah sudut-sudut segitiga}\n</li></ul><h3>-Persamaan Pada Kubus</h3><p>{berikut adalah unsur-unsur penting pada kubus ABCD.EFGH:</p><p>rusuk-rusuk kubus yaitu, AB,BC,CD,DA,AE,BF,CG,DH,EF,FG,HE, dan GH. setiap rusuk memiliki panjang yang sama</p><p>Diagonal sisi kubus yaitu, AF, BE, BG, FC, CH, DG, AH, DE, BD, AC, HG dan EG. setiap diagonal sisi memiliki panjang yang sama</p><p>Diagonal ruang kubus yaitu, BH, DF, AG, dan EC. setiap diagonal ruang memiliki panjang yang sama</p><p>persamaan ketiga unsur tersebut adalah sebagai berikut :</p><p>Diagonal sisi = rusuk\u00d7\u221a2</p><p>Diagonal ruang = rusuk\u00d7\u221a3 }</p><h3>-Phytagoras</h3><p>{pada segitiga siku siku ABC berlaku rumus phytagoras atau persamaan phytagoras dimana c\u00b2=a\u00b2+b\u00b2 </p><p>(ket: </p><p>c adalah sisi yang berhadapan dengan sudut C dan juga hipotesa segitiga ABC, </p><p>a adalah sisi yang berhadapan dengan sudut A, </p><p>b adalah sisi yang berhadapan dengan sudut B)}\n</p><p></p><h3><u>Penyelesaian</u></h3><p>// diketahui //</p><p>r = 6cm</p><p>// jika kita gabungkan titik A,C dan F akan terbentuk segitiga ACF dengan sisi sisinya adalah AC,CF,AF //</p><p>// karena ketiga sisi segitiga ACF adalah diagonal sisi kubus ABCD.EFGH, sisi-sisi tersebut memiliki panjang yang sama //</p><p>AC = CF = AF = r\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6cm\u00d7\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 6\u221a2cm</p><p></p><p>// mencari L\u0394 ACF, karena ketiga sisi diketahui gunakan rumus heron //</p><p>// mencari s //</p><p>s = K/2</p><p> \u00a0 = (3AC)/2</p><p> \u00a0 = (3(6\u221a2cm))/2</p><p> \u00a0 = 3(3\u221a2cm)</p><p> \u00a0 = 9\u221a2cm</p><p></p><p>L\u0394 ACF = [tex]\\sqrt{s(s-a)(s-b)(s-c)}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{s(s-a)^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{(9\\sqrt{2})((9\\sqrt{2})-(6\\sqrt{2}))^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(3\\sqrt{2})^{3}}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(27 \\times 2\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{9\\sqrt{2}(54\\sqrt{2})}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{486\\times 2}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\sqrt{972}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 18\u221a3cm\u00b2</p><p></p><p>// mencari L\u0394 ACF, dengan mengkalikan CF dan tinggi segitiga ACF //</p><p> \u00a0L\u0394 ACF = CF\u00d7t/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0// substitusikan L\u0394 ACF //</p><p>18\u221a3cm\u00b2 = 6\u221a2cm\u00d7t/2</p><p>18\u221a3cm\u00b2 = 3\u221a2cm\u00d7t</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 18\u221a3cm\u00b2/3\u221a2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a3cm/\u221a2 \u00d7 \u221a2/\u221a2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t = 6\u221a6/2cm</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t =<strong> 3\u221a6cm</strong></p><p></p><p><strong>Jadi jarak titik A ke garis CF adalah 3\u221a6cm</strong></p><p></p><p>- untuk mempelajari materi ini lebih jauh kk dapat lihat di: \u00a0</p><p>soal tentang dimensi 3 https://brainly.co.id/tugas/10868295</p><p>soal tentang jarak titik ke bidang https://brainly.co.id/tugas/6061589</p><p>-----------------</p><p>kategorisasi</p><p>-----------------</p><p>Pelajaran \u00a0 \u00a0 \u00a0:Matematika</p><p>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:12</p><p>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :2</p><p>Nama Bab \u00a0 \u00a0:Geometri Bidang Ruang</p><p>kata kunci \u00a0 \u00a0:dimensi 3,kubus,persamaan,diagonal</p><p>Kode mapel :2</p><p>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :12.2.2</p><p></p><p>#optitimcompetition </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-823",
+            "question": "Pak daniel seorang karyawan\u00a0 perusahaan. Ia membeli sebuah mobil bekas seharga Rp 90.000.000,00. dan dikenakan pajak penjualan sebesar 5%.Berapa rupiah uang yang harus dibayar Pak Daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: IX</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Matematika perdagangan</p>\n\n<p>Kata kunci: pembelian, pajak, penjualan</p>\n\n<p>\u00a0</p>\n\n<p>Pak Daniel membeli sebuah mobil seharga Rp. 90.000.000,- </p>\n\n<p>Pak daniel juga harus membayar pajak sebesar 5% dari besar harga\npembelian mobil itu.</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>\u00a0</p>\n\n<p>Kita hitung dulu harga pajak yang harus dibayarkan:</p>\n\n<p>5/100 x 90.000.000 = Rp. 4500.000,-</p>\n\n<p>\u00a0</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>90.000.000 + 4.500.000 = Rp. 94.500.000,-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "konversikan-36-derajat-r-derajat-c-derajat-f-k-464",
+            "question": "Konversikan\u00a0\r\n36 derajat R = ...derajat C = ...derajat F = ...K\u00a0\r\nbeserta cara penyelesaiannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C: 5/4 \u00d7 36 = 45 C \nF: 9/4 \u00d7 36 = 81+32=113 F\nK: 45+273=318 K inii yaa maff klo sllah",
+                    "attachments": []
+                },
+                {
+                    "answer": "C : 5/4 x 36 = 45 derajat C<br><br>F :9/4 x 36 + 32 = 113 derajat F<br><br>K : 36 + 273 = 309 derajat K<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-soal-dan-jawaban-barisan-aritmatika-apa-saja-962",
+            "question": "10 contoh soal dan jawaban barisan aritmatika apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Diketahui barisan aritmetika\u00a0 3, 8, 13, \u2026<br>\u00a0\u00a0\u00a0 a. Tentukan suku ke-10 dan rumus suku ke-n barisan tersebut!<br>\u00a0\u00a0\u00a0 b. Suku keberapakah yang nilainya 198 ?</span><br><span><br>Jawab :</span><br><span>\u00a0<br>a. Dari barisan aritmetika 3, 8, 13, \u2026 diperoleh suku pertama a = 3 dan beda b = 8 \u2013 3 = 5.</span><br><span><br>Un\u00a0\u00a0\u00a0 = a + (n \u2013 1)b<br>U10\u00a0 = 3 + (10 \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 = 3 + 9 x 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 45<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>48</u></span><br><br>\u00a0Un\u00a0\u00a0 = a + (n \u2013 1)b<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + (n \u2013 1)5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3 + 5n \u2013 5<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>5n \u2013 2</u><br><span><br>b. Misalkan Un\u00a0 = 198, maka berlaku :</span><br><span><span><br>Un\u00a0\u00a0\u00a0\u00a0\u00a0 = 198<br>5n \u2013 2 = 198<br>5n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 200<br>\u00a0n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = <u>40</u><br>Jadi 198 adalah suku ke- 40</span>\u00a0</span><br><br><br><br><span>2. Diketahui U1 = a = 3 , U5 = 19 , Un = 31</span><br><span>\u00a0\u00a0\u00a0 a. Tentukan beda (b)</span><br>\n\u00a0\u00a0\u00a0 b. Tentukan n<br>\n\u00a0 \u00a0 c. Tentukan suku ke-20\u00a0<br><span>\u00a0\u00a0\u00a0 d. Tentukan n jika Un = 51</span><br><br><br><br>Jawab :<br><br><span>a. Cari U5 terlebih dahulu, setelah itu cari b dengan rumus U5 yang telah didapat :</span><br><span><br><span>\u00a0\u00a0\u00a0 Un = a + (n - 1)b</span></span><br>\u00a0\u00a0\u00a0 U5 = a + (5 - 1)b<br><span>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = <u>a + 4b</u></span><br><br><span>\n<span>\u00a0 \u00a0 b = a + 4b = 19</span></span><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 + 4b = 19<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4b = 19 - 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 16/4<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = <u>4</u> \u00a0</span><br><br><span>\n<span>\u00a0b. Gunakan rumus Un = a + (n - 1)b = 31 (diketahui Un = 31) :</span></span><br><br><span>\n<span>\u00a0 \u00a0 \u00a0 Un = 31</span></span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 31<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 31<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 31<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 31 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 32/4<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>8</u>\n<br><span><br><span>\u00a0c. suku ke-20 , dik: a = 3 , b = 4 :</span></span><br><br><span>\n\u00a0 \u00a0 \u00a0\u00a0 Un \u00a0 = a + (n - 1) b</span><br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + (20 - 1) 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 3 + 80 - 4<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = 80 - 1<br>\u00a0 \u00a0 \u00a0\u00a0 U20 = <u>79</u>\u00a0<br><br><br><span>d. Jika Un = 51 :</span><br><br><span>\n\u00a0 \u00a0 \u00a0 Un = 51</span><br>\u00a0 \u00a0 \u00a0 a + (n - 1)b = 51<br>\u00a0 \u00a0 \u00a0 3 + (n - 1)4 = 51<br>\u00a0 \u00a0 \u00a0 3 + 4n - 4\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n - 1\u00a0\u00a0 = 51<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 4n\u00a0 = 51 + 1<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = 52/4<br><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n\u00a0 = <u>13</u></span><span><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-tan-660-derajat-sin-900-derajatcos-390-derajat-ada-324",
+            "question": "Hasil dari tan 660 derajat-Sin 900 derajat+cos (-390 derajat) adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan 660-sin 900+ cos (-390)=tan 60 - sin 80 + (cos -30)<br>=akar 3 - sin 80 + (-1/2 akar 3)<br>=5/2 akar 3 - sin 80",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan 660 - sin 900 + cos (-390)<br>tan 660 - sin 900 + cos 390<br>tan (1.360 + 300) - sin(2.360 + 180) + cos(1.360 + 30)<br>tan 300 - sin 180 + cos 30<br>tan (360 - 60) - 0 + [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>- [tex] \\sqrt{3}[/tex] + [tex] \\frac{ \\sqrt{3} }{2} [/tex]<br>[tex]  - \\frac{3 \\sqrt{3} }{2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "minta-contoh-soal-sama-penyelesaian-tentang-koordinat-kart-848",
+            "question": "minta\u00a0contoh\u00a0soal\u00a0sama\u00a0penyelesaian\u00a0tentang\u00a0koordinat\u00a0kartesius\u00a0ke\u00a0kutub\u00a0&amp;\u00a0kutub\u00a0ke\u00a0koordinat\u00a0kartesius",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) untuk koordinat kutub ke koordinat kartesius<br>Jika diketahui koordinat kutub (6\u221a3, 60\u00b0), maka koordinat kartesiusnya adalah.....<br>a. (3,3)<br>b. (3\u221a3, 9)<br>c. (3,\u00a0\u221a3)<br>d. (9, 3\u221a3)<br>e. (3, 3\u221a3)<br><br>Penyelesaian :<br><br>koordinat kutub\u00a0\u21d2 koordinat kartesius<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0(r ,\u00a0\u03b1)\u00a0\u21d2 ( x , y )<br><br>r\u00a0= 6\u221a3\u00a0; \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u03b1 = 60\u00b0\u00a0<br>(Karena\u00a0\u03b1 sudut di kuadran I, maka x positif f dan y positif)<br><br>x = r cos\u00a0\u03b1<br>\u21d2 6\u221a3 x cos\u00a060\u00b0<br>\u21d2\u00a06\u221a3 x 1/2<br>\u21d2 3\u221a3<br><br>y = r sin\u00a0\u03b1<br>\u21d2\u00a06\u221a3 x sin 60\u00b0<br>\u21d2\u00a06\u221a3 x 1/2\u00a0\u221a3<br>\u21d2\u00a03\u00a0x 3<br>\u21d2 9<br><br>sehingga koordinat kartesiusnya ialah ( 3\u221a3\u00a0, 9) \u00a0(d)<br><br>2)\u00a0untuk koordinat kartesius ke koordinat\u00a0kutub<br>koordinat kutub titik (-4,4) ialah ...........<br>penyelesaian :<br>(x,y)\u21d2 (r,\u00a0\u03b1)<br><br>x = -4, y=4<br>(karena x negatif dan y positif, maka\u00a0\u03b1 sudut di kuadran II)<br>r =\u00a0[tex] \\sqrt{ x^{2} + y^{2} } [/tex]<br>\u21d2[tex] \\sqrt{ -4^{2} + 4^{2} } [/tex]<br>\u21d2[tex] \\sqrt{32} [/tex]<br>\u21d2[tex]4 \\sqrt{2} [/tex]<br><br>tan\u00a0\u03b1 = x/y<br>\u21d24/\u00a0-\u00a04<br>\u21d2 - 1<br><br>karena\u00a0\u03b1 sudut di kuadran II, maka :\u00a0\u03b1 = (180-45)\u00b0= 135\u00b0<br>maka koordinat kutubnya ialah ( 4\u221a2, 135\u00b0)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(3, 210 derajat) tentukan koordinat cartesiusnya\u00a0<br><span>b koordinat cartesius titik Q adalah (-2 akar 3, 2) tentukan koordinat kutubnya<br><br></span>a) \u03f4=120\u2070, r=3\u00a0<br><span>titik x = r cos \u03f4=&gt;\u00a0</span><br><span>= 3 cos 120 = 3 (-cos (180-60)) note: nilai cos pada kuadran II itu (-)\u00a0</span><br><span>= 3 (-cos 60)\u00a0</span><br><span>= 3 (-1/2)\u00a0</span><br><span>= -3/2\u00a0</span><br><span>titik y = r sin \u03f4=&gt;\u00a0</span><br><span>= 3 sin 120 = 3 sin (180-60) note: nilai sin pada kuadran II (+)\u00a0</span><br><span>= 3 sin 60\u00a0</span><br><span>= 3 1/2 akar 3\u00a0</span><br><span>= 3/2 akar 3\u00a0</span><br><span>jadi koordinat cartesiusnya (-3/2, 3/2 akar 3)\u00a0</span><br><br><span>b) x = -2 akar 3, y = 2\u00a0</span><br><span>r = akar (x^2 + y^2) =&gt;\u00a0</span><br><span>= akar ((-2 akar 3)^2 + 2^2)\u00a0</span><br><span>= akar (12 + 4)\u00a0</span><br><span>= akar 16 = 4\u00a0</span><br><span>\u03f4 = arc tan y/x =&gt;\u00a0</span><br><span>= arc tan 2/-2 akar 3\u00a0</span><br><span>= arc tan - 1/akar 3 = arc tan -1/3 akar 3 note: arc tan 1/akar 3 = 45\u2070, nilai tan (-) pada kuadran II dan IV\u00a0</span><br><span>= arc tan -1/akar 3 = 135\u2070 (kuadran II) note: menentukannya dengan uji titik x dan y\u00a0</span><br><span>koordinat kutubnya = (4, 135\u2070)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkan-grafik-y-2-sin-3x-271",
+            "question": "Gambarkan grafik : y = 2 sin 3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambar grafik y = 2 sin3x<br><br>Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/gambarkan-grafik-y-2-sin-3x-271-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-contoh-aplikasi-soal-trigonometri-dalam-bidang-fisika-beserta-154",
+            "question": "Apa contoh aplikasi soal trigonometri dalam bidang fisika beserta pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gerak parabola : kan ada sudutnya. kalau diuraikan pada sumbu x, cos sudut. kalau diuraikan diuraikan pada SB y sin sudut<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

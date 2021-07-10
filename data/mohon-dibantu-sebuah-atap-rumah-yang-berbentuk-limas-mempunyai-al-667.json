@@ -1,0 +1,142 @@
+{
+    "question": "Mohon dibantu    sebuah atap rumah yang berbentuk limas mempunyai alas berbentuk persegi dengan panjang sisi 8 m dan tinggi 3 m. atap tersebut akan ditutupi genteng berukuran 40 cm x 20 cm. banyak genteng yang diperlukan adalah ....\r\nA. 2.000 buah\r\nB. 1.600 buah\r\nC. 1.000 buah\r\nD. 800 buah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "s=8m<br>t=3m<br>T.limas=akar3kuadrat+4kuadrat<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar25=5m<br>luas permukaan atap =4*luas segitiga<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =4*1/2*8*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=4*4*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =80m persegi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=800.000cmpersegi<br>banyak genteng yg diperlukan=<br>=seluruh\u00a0luas atap genteng(4luas segitiga)/luas genteng<br>=800.000/40*20<br>=800.000/800<br>=1000<br>jadi jumlah genteng yg dibutuhkan 1000 buah\u00a0",
+            "attachments": []
+        },
+        {
+            "answer": "panjang bagian miring<br>=\u00a0[tex] \\sqrt{4^2 + 3^2}[/tex]<br>= 5 m<br>luas bagian atas<br>= 4\u00a0* 1/2 * 5 * 8<br>= 80 m^2<br>luas genteng<br>= 40 * 20<br>=800 cm^2<br>=0,08 m^2<br>total genteng yangdiperlukan<br>= 80 : 0,08<br>= 1000 buah genteng",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-x6111-merupakan-tripel-pythagoras-dan-61-bilangan-terbesa-532",
+            "question": "Jika\u00a0x,61,11 merupakan tripel pythagoras dan 61 bilangan terbesar maka nilai\u00a0x adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x + 11 = 61<br>x\u00a0 \u00a0  = 61 - 11<br>x\u00a0 \u00a0\u00a0 = 50<br><br>kalau tidak salah seperti itu<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x^2 + 11^2 = 61^2\nx^2 + 121=3721\nx^2=3721-121\nX^2 =3600\nX= 60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-cara-mencari-sudut-pusat-dan-sudut-keliling-lingkaran-322",
+            "question": "Jelaskan cara mencari sudut pusat dan sudut keliling lingkaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bersar sudut pusat= 2 x besar sudut keliling<br>besar sudut keliling= 1/2 x besar sudut pusat\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-sepasang-sepatu-rp900000-lebihnya-daripada-empat-kali-har-270",
+            "question": "Harga sepasang sepatu rp9.000,00 lebihnya daripada empat kali harga sepasang kaos kaki.Jika harga sepasang sepatu rp55.000,00, harga sepasang kaos kakki....    A. RP8.500,00\r\nB.RP10.500,00\r\nC.11.500,00\r\nD.16.000,00",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal: x=sepatu , y = kaos kaiki.<br>maka ;<br>x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 9000 + 4x<br>55.000\u00a0 = 9000 + 4x<br>55.000-9000 = 4x<br>46.000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4x<br>x\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 11.500<br>jadi, harga sebuah kaos kaki adalah Rp 11,500,- ( jawaban yang C )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-lingkaran-dengan-diameter-70-cm-dan-adalah-667",
+            "question": "Luas sebuah lingkaran dengan diameter 70 cm dan \r\n adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>d : 70 cm<br>r : 1/2 d = 1/2 x 70 = 35<br><br>jawab :<br>L = 3,14 x r kuadrat<br>L = 3,14 x 35\u00a0<br>\u00a0 \u00a0= 109,9<br><br>Mudah-mudahan bener :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran :<br>22/7 X 35 X 35 : 3850<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "anggi-dengan-mengendarai-mobil-dapat-menempuh-jarak-280km-selama-128",
+            "question": "Anggi dengan mengendarai mobil dapat menempuh jarak 280km selama 4jam 20menit. Jika Anggi akan menempuh jarak 360km, berapa yang diperlukan?    Pake cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket = jarak 280km, dengan waktu 260 menit.<br>jawab = 360/280 x 260 = 334 menit.<br>jadi waktu yang diperlukan jika menempuh jarak 360 km adalah 5 jam 34 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kerangka-prisma-samasisi-terbuat-dari-kawat-panjang-rusuk-alas-da-254",
+            "question": "Kerangka prisma samasisi terbuat dari kawat panjang rusuk alas dan tinggi prisma masing-masing 12cm dan 14cm . Jika tersedia kawat sepanjang 6m,banyak kerangka prisma yang dapat dibuat adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panas matahari menembus bumi, dan panas dari api unggun yang dapat kita rasakan langsung tanpa perantara",
+                    "attachments": []
+                },
+                {
+                    "answer": "jumlah rusuk alas = 6 rusuk<br>1 rusuk = 12 cm<br>6 rusuk = 12 cm x 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 72 cm<br>jumlah rusuk tinggi = 3 rusuk<br>1 rusuk = 14 cm<br>3 rusuk = 14 cm x 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 42 cm<br><br>satu prisma membutuhkan = 42 cm + 72 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 114 cm<br>kawat tersedia = 6m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 600 cm<br>prisma yang bisa dibuat =\u00a0[tex] \\frac{600 cm}{114 cm} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5 buah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-bruto-dan-netto-jika-tara-5-kg-dan-presentase-tara-212-794",
+            "question": "Berapa bruto dan netto jika tara 5 Kg dan Presentase Tara 2.12%\u00a0 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: tara= 5kg<br>\u00a0 \u00a0 \u00a0 persentase tara=2.12%<br><br>dit: *bruto<br>\u00a0 \u00a0 \u00a0*netto<br>jb:<u> persentase tara</u>\u00a0<u></u>\u21d2<u> 2.12 x 100\u00a0</u> \u00a0= 42,4 kg<br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0tara \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br>netto = bruto-tara\u00a0\u21d2 42,4 - 5 = 37.4 kg<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ladang-pak-tani-ditanami-3-jenis-bungaluas-tanah-yang-ditanami-a-858",
+            "question": "ladang pak tani ditanami 3 jenis bunga.luas tanah yang ditanami anggrek dua kali luas dari luas tanah yang ditanami bunga matahari.luas tanah yang ditanami bunga matahari 1/2 dari luas tanah yang ditanami bunga mawar.jika luas keseluruhan ladang 500 m2,berapa luas masing2tanaman bunga??tolong dijawab pake caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas tanaman anggrek = 2 luas tanaman matahari<br>Luas tanaman matahari = 1/2 luas tanaman mawar<br>Perbandingan = anggrek : matahari : mawar<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 : 1 : 2<br>Luas seluruh nya = ...?<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = T. anggrek = 2/ 5 * 500 = 200 m2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = T. matahari = 1/5 * 500 = 100 m2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = T. mawar = 2/5 * 500 = 200 m2<br><br>Semoga membantu ^^",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunga a= anggrek<br>\u00a0\u00a0 \u00a0 \u00a0 m -= matahari<br>r= mawar<br>dik a= 2m<br>m= 1/2 r \u00a0 ==&gt;<br>a + m +r = 500<br>2m + m +2m = 500<br>5m = 500<br>m = 100m2<br><br>a= 2m = 2.100 = 200m2<br>r= 2m = 2.100= 200 m2<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pada-gambar-besar-sudut-aob40-derajatamp-sudut-cod-150-437",
+            "question": "1. pada gambar , besar sudut AOB=40 derajat,&amp; sudut COD =150 derajat dan panjang busur AB=120 CM HITUNGLAH PANJANG BUSUR CD",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "40<u></u>\u00b0 :\u00a0150\u00b0 = 120 :\u00a0CD<br>4 :\u00a015 = 120 :\u00a0CD<br>4 x CD = 15 x 120 (dikali silang)<br>4 x CD = 1800<br>CD = 1800 : 4 = 450 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1jari-jari-sebuah-lingkaran-adalah-10cmtentukan-panjang-busur-l-626",
+            "question": "1.Jari-jari sebuah lingkaran adalah 10cm.tentukan panjang busur lingakran yang memiliki sudut pusat sebagai berikut :    a.30\u02da b.60\u02da c.90\u02da d.120\u02da e.180\u02da\r\n\r\n2.Diketahui keliling sebuah lingkaran adalah 100cm.tentukan besarnya sudut pusat yang dibentuk jika memiliki panjang busur sebagai berikut :\r\na.10cm b.20cm c.25cm d.40cm e.50cm\r\n\r\n3.Jari-jari suatu lingkaran adalah 20cm.tentukan luas juring lingakran yang dibentuk oleh sudut pusat sebagai berikut :\r\na.10cm\u02da b.45\u02da c.60\u02da d.50\u02da e.120\u02da\r\n\r\n4.Diketahui luas sebuah lingakran adalah 200cm\u00b2 tentukan besarnya sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut :\r\na.10cm\u00b2\r\nb.20cm\u00b2\r\nc.40cm\u00b2\r\nd.50cm\u00b2\r\ne.100cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a.30 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0 \u00a0=1/12.2.3,14.10<br>\u00a0 \u00a0 \u00a0 \u00a0=5,233<br>\u00a0 \u00a0b.60 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =1/6.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =10.46<br>\u00a0 \u00a0c.120 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =1/3.2.3,14.10<br>\u00a0 \u00a0 \u00a0 =20,93<br>\u00a0 \u00a0d.180 derajat/360 derajat.2.3,14.10<br>\u00a0 \u00a0 \u00a0=1/2.2.3,14.10<br>\u00a0 \u00a0 \u00a0=31,4\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

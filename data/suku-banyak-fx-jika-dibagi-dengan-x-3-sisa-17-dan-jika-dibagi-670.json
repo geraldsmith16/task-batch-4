@@ -1,0 +1,146 @@
+{
+    "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-layang-layang-abcd-mempunyai-luas-1200cm2-selain-it-774",
+            "question": "Diketahui layang-layang \u00a0ABCD mempunyai luas 1.200cm2. Selain itu, ada layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal-diagonal layang-layang ABCD. Tentukan luas layang-layang \u00a0PQRS !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : IX (3 SMP)<br>Materi : Bangun Datar<br>Kata Kunci : layang-layang, luas, panjang diagonal, dua kali<br><br>Pembahasan :<br>Layang-layang\u00a0adalah segi empat yang dibentuk dari gabungan dua buah segitiga sama kaki yang alasnya sama panjang dan berhimpit.<br>Sifat-sifat layang-layang, yaitu :<br>1. masing-masing sepasang sisinya sama panjang;<br>2. sepasang sudut yang berhadapan sama besar;<br>3. salah satu diagonalnya merupakan sumbu simetri;<br>4. salah satu diagonalnya membagi diagonal lainnya menjadi dua bagian sama panjang dan kedua diagonal tersebut salah tegak lurus.<br><br>Kelilingnya dengan panjang sisi pendek b dan panjang sisi panjang a adalah <br>K = 2(a + b)<br><br>Luasnya dengan diagonal masing-masing d\u2081 dan d\u2082 adalah <br>L = 1/2(d\u2081 .d\u2082).<br><br>Mari kita lihat soal tersebut.<br>Diketahui luas layang-layang ABCD adalah 1200 cm\u00b2. Artinya<br>luas layang-layang ABCD adalah<br>L = 1/2(d\u2081 . d\u2082)<br>\u21d4 1200 = 1/2(d\u2081 . d\u2082)<br>\u21d4 2400 = d\u2081 . d\u2082<br>Selain itu, suatu layang-layang PQRS yang masing-masing panjang diagonalnya dua kali panjang diagonal layang-layang ABCD. Artinya,<br>masing-masing panjang diagonal PQRS adalah<br>d\u2083 = 2 . d\u2081<br>d\u2084 = 2 . d\u2082<br>Luas layang-layang PQRS adalah<br>L = 1/2(d\u2083 . d\u2084)<br>\u21d4 L = 1/2(2d\u2081 . 2d\u2082)<br>\u21d4 L = 1/2(4 . d\u2081 . d\u2082)<br>\u21d4 L = 2(d\u2081 . d\u2082)<br>\u21d4 L = 2. 2400<br>\u21d4 L = 4800<br><br>Jadi, jika luas layang-layang ABCD adalah 1200 cm\u00b2, maka luas layang-layang PQRS adalah 4800 cm\u00b2.<br><br>Semangat Belajar!<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-barisan-aritmatika-bedanya-5-suku-pertamanya-3-dan-banyak-334",
+            "question": "Suatu barisan aritmatika bedanya 5, suku pertamanya 3 dan banyak suku 99. tentukan suku tengahnyaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U99=a+98b<br>U99=3+98.5=493<br>Ut= 1/2(a+Un) = 1/2(3+493)=248",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena banyak suku ada 99,<br>maka suku tengah nya adalah suku (99+1)/2 = suku ke 50<br><br>[tex]U_{50}=a+49b=3+49(5)=3+245=248[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-xyz3-x3-y3-z3-habis-dibagi-xyyzzx-te-960",
+            "question": "Buktikan (x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x). Tentukan juga hasil baginya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Terbukti bahwa</strong> [tex]\\rm (x+y+z)^3 - x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm(x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p></p><h2><u>Pendahuluan</u> </h2><p><strong><u>Aljabar</u></strong> merupakan konsep operasi bilangan yang memisalkan dalam sebuah variabel.</p><p><strong><u>\u00bb Beberapa sifat Manipulasi Aljabar</u></strong></p><p>[tex]\\footnotesize\\rm\\to x^2 - y^2 = (x + y)(x - y)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm \\to x^2 + y^2 &amp;=\\rm (x + y)^2 - 2xy\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x - y)\u00b2 + 2xy\\rm{\\blue{...Persamaan~2}}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3-y^3=(x-y)(x^2+xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3+y^3=(x+y)(x^2-xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^2+y^2+z^2 &amp;=\\rm(x+y+z)^2-2(xy+xz+yz)\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x-y-z)^2+2(xy+xz-yz)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^3+y^3+z^3 &amp;=\\rm (x+y+z)^3-3(x+y+z)(xy+xz+yz)+3xyz\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x^2+y^2+z^2)(x+y+z)-(x+y+z)(xy+xz-yz)+3xyz\\blue{...Persamaan~2}\\\\ &amp;=\\rm (x+y+z)\\left[(x^2+y^2+z^2)-(xy+xz+yz)\\right]+3xyz\\blue{...Persamaan~3}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^4+y^4+z^4 &amp;=\\rm (x^2+y^2+z^2)^2-2(xy+xz+yz)^2+4xyz(x+y+z)\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x^3+y^3+z^3)(x+y+z)-(x^2+y^2+z^2)(xy+xz+yz)+xyz(x+y+z)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p></p><h2><u>Pembahasan</u></h2><h3>\u261e Diketahui pernyataan :</h3><p>(x+y+z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 habis dibagi (x + y)(y + z)(x + z)</p><p></p><h3>\u261e Ditanya :</h3><p>Buktikan bahwa pernyataan tersebut benar atau salah, Jika benar tentukan hasil baginya!</p><p></p><h3>\u261e Jawab :</h3><p><strong><u>\u00bb Untuk (x + y)(y + z)(x + z) ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize\\begin{aligned}\\rm (x+y)(y+z)(x+z)&amp;=\\rm x^{2}y+xyz+x^{2}z+xz^{2}+xy^{2}+y^{2}z+xyz+yz^{2}\\\\&amp;=\\bf x^{2}y+x^{2}z+xz^{2}+xy^{2}+y^{2}z+yz^{2}+2xyz\\end{aligned}[/tex]</p><p></p><p><strong><u>\u00bb Untuk (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize=\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}[/tex]</p><p>[tex]\\footnotesize=\\rm (x+y+z)(x+y+z)(x+y+z)\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm x^3+x^2 y+x^2 z+x^2 y+xy^2+xyz+x^2 z+xyz+xz^2+x^2 y+xy^2+xyz+xy^2+y^3+y^2 z+xyz+y^2 z+yz^2+x^2 z+xyz+xz^2+xyz+y^2 z+yz^2+xz^2+yz^2+z^3\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm\\cancel{x^3+y^3+z^3}+3x^2 y+3x^2 z+3xz^2+3xy^2+3y^2 z+3yz^2+6xyz\\cancel{\\blue{-x^{3}-y^{3}-z^{3}}}[/tex]</p><p>[tex]\\footnotesize=\\bf 3(x^2y+x^2z+xz^2+xy^2+y^2z+yz^2+2xyz)[/tex]</p><p><strong><u>\u00bb Perhatikan bahwa</u></strong></p><p>[tex]\\footnotesize\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}=3(x+y)(y+z)(x+z)[/tex]</p><p><u><strong>\u00bb</strong><strong> </strong><strong>Dari sini dapat kita simpulkan bahwa pernyataan tersebut benar karena</strong></u></p><p>3(x + y)(y + z)(x + z) <strong>habis dibagi</strong> (x + y)(y + z)(x + z) <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Kesimpulan</u></h2><p></p><p><strong>\u2234 Jadi pernyataan tersebut benar bahwa</strong><strong> </strong>[tex]\\rm (x+y+z)^3-x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm (x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Pelajari Lebih Lanjut :</u></h2><p></p><ol><li>Operasi bentuk Aljabar (Penjumlahan, Pengurangan, Menyederhanakan, Perkalian): https://brainly.co.id/tugas/25699535</li><li>Operasi bentuk Aljabar (Bentuk Fraksi) : https://brainly.co.id/tugas/3542338</li><li>Operasi Bentuk Aljabar (Pengurangan dan Penyederhanaan) : https://brainly.co.id/tugas/25699589</li></ol><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Detail Jawaban</u></h2><p></p><p>Mapel : Matematika</p><p>Kelas : VIII</p><p>Materi : Operasi Bentuk Aljabar - Bab 1</p><p>Kode Kategorisasi : 8.2.1 (Kelas 8)</p><p>Kode Mapel : 2</p><p>Kata Kunci : Pembuktian Langsung, Manipulasi Aljabar, Habis bagi</p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h3>\u27a1\ufe0f Pendahuluan </h3><p>Perkalian aljabar dengan dua suku maka</p><p>(a +  b) (c + d) = a(c + d) + b(c + d)</p><p>Pemfaktoran</p><p>Aljabar ax\u00b2 + bx + c maka kita cari angka jika dikalin c dan jika ditambah b</p><p>Caranyaubah bentuk aljabar dengan perkalian a(c + d) terlebih dahulu setelah itu di sederhanakan</p><p>Kemudian kita cari angka yang bisa di faktorkan sehingga bisa ubah persamaan tersebut.</p><p>Yang ketiga hilangkan salah satu variabel untuk mencari variabel pertama setelah itu di substitusi kan</p><p>Dalam perkalian aljabar maka kita kalikan satu persatu setelah kita sederhanakan, dankita cari nilai dari pemangkatan aljabar tersebut setelah itu kita sederhanakan.</p><p></p><h3>\u27a1\ufe0fPenyelesaian soal </h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p>Buktikan : (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis..</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><ul><li>Pembuktian x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis </li></ul><p></p><p><strong> </strong><strong>Jawab</strong><strong> </strong><strong>:</strong></p><ul><li>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</li></ul><p></p><h3><strong>\u27a1\ufe0f</strong><strong> </strong><strong>P</strong><strong>embahasan</strong><strong> </strong></h3><p><strong># (x + y + z)\u00b3</strong></p><p>= (x + y + z)(x + y + z)(x + y + z)</p><p>=(x\u00b2 + xy + xz + xy + y\u00b2 + yz + xz + yz + z\u00b2)(x + y + z)</p><p>=(x\u00b2 + y\u00b2 + z\u00b2 +2xy + 2xz + 2yz)(x + y + z)</p><p>=x\u00b3 + x\u00b2y + x\u00b2z + xy\u00b2 + y\u00b3 + y\u00b2z + xz\u00b2 + yz\u00b2 + z\u00b3 + 2x\u00b2y + 2xy\u00b2 + 2xyz + 2x\u00b2z + 2xyz + 2xz\u00b2 + 2xyz + 2y\u00b2z + 2yz\u00b2</p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz</p><p><strong>#(x + y) (y + z) (z + x) =</strong></p><p>(xy + xz + y\u00b2 + yz) (z + x )</p><p>= xyz + x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + xyz</p><p>= x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p><strong>Maka </strong></p><p>= (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) </p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x)</p><p>= 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= 3(x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz) \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= <strong>3</strong></p><p></p><h3><strong>Kesimpulan</strong><strong> </strong><strong>:</strong></h3><p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h2>__________________</h2><h3>Pelajari lebih lanjut :</h3><ul><li>Rumus-Rumus Turunan Fungsi Aljabar https://brainly.co.id/tugas/22162107</li><li>Jelaskan pengertian yg paling mendasar dari Aljabar! https://brainly.co.id/tugas/23563280</li><li>Unsur unsur aljabar dan macam macam suku aljabar https://brainly.co.id/tugas/3725097</li></ul><p></p><h3>Detail Jawaban :</h3><p>Mapel       : Matematika </p><p>Materi       : 8 SMP </p><p>Bab            : Operasi Bentuk Aljabar </p><p>Kode Kategorisasi : 8.2.1</p><p>Kata Kunci : Manipulasi Bentuk Dari Aljabar.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-banyak-fx-jika-dibagi-x-1-sisanya-8-dan-491",
+            "question": "diketahui suku banyak f(X) jika dibagi\u00a0 ( x+ 1) sisanya 8 dan ( x-3 ) sisanya 4 suku banyak g(x) jika dibagi dengan (x+1) bersisa -9 dan jika dibagi (x-3) sisanya 15 jika h(x) = F(X) . G(X), maka sisa pembagian H(X) oleh \u00d7\u00b2 - 2\u00d7 - 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 11<br>Mapel : Matematika<br>Kategori : Suku Banyak<br>Kata Kunci : suku banyak, pembagi, hasil bagi, sisa<br>Kode : 11.2.5 [Kelas 11 Matematika KTSP Bab 5 - Sukubanyak]<br><br>Pembahasan :<br>Suku banyak atau polinomial p dalam k berderajat n memiliki bentuk umum :<br>[tex]a_n[/tex]x\u207f +\u00a0[tex]a_{n-1}[/tex]x\u207f\u207b\u00b9 + ... + [tex]a_2[/tex]x\u00b2 + [tex]a_1[/tex]x\u00b9 +\u00a0[tex]a_0[/tex]<br><span><br>dengan\u00a0</span>[tex]a_n[/tex], [tex]a_{n-1}[/tex], ..., [tex]a_2[/tex], [tex]a_1[/tex], [tex]a_0[/tex]\u00a0merupakan konstanta-konstanta real;<br><br>[tex]a_n[/tex] koefisien x\u207f, [tex]a_{n-1}[/tex]\u00a0koefisien x\u207f\u207b\u00b9, dan seterusnya;<br><br>[tex]a_0[/tex]\u00a0merupakan suku tetap;<br><span><br>n merupakan bilangan cacah yang menyatakan derajat suku banyak.<br><br>Misalnya suku banyak f(x) dibagi dengan P(x) memberikan hasil bagi H(x) dan sisanya S(x) maka diperoleh hubungan<br>f(x) = P(x) . H(x) + S(x)<br><br>Jika f(x) merupakan suku banyak berderajat n dan P(x) merupakan pembagi berderajat m dengan m\u00a0\u2264 n maka<br>1. H(x) adalah hasil bagi berderajat n - m<br>2. S(x) adalah sisa pembagian berderajat maksimum (m - 1).<br><br>Penerapan teorema sisa dapat dikembangkan untuk menentukan sisa pada pembagian suku banyak dengan suku banyak berderajat dua atau lebih yang dapat difaktorkan menjadi faktor-faktor linear.<br><br>Mari kita lihat soal tersebut.<br></span><span>Suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4. Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15. Jika suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah...<br><br>Jawab :<br>Diketahui s</span>uku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4.<br><br>Suku banyak g(x) dibagi x + 1 sisanya -9 dan dibagi x - 3 sisanya 15.<br><br>Suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3 = (x - 3)(x + 1).<br><br>Oleh karena pembagi (x - 3)(x + 1) berderajat dua, maka sisanya maksimum berderajat satu.<br><br>Misalkan pembagi P(x) = (x - 3)(x + 1), sisa S(x) = ax + b dan hasil bagi H(x), maka<br>h(x) = P(x) . H(x) + S(x)<br>h(x) = (x - 3)(x + 1) . H(x) + ax + b<br>f(x) . g(x) = (x - 3)(x + 1) . H(x) + ax + b<br><br>Kita substitusikan x = 3 dan sisa S(3) = 4 . 15 = 60<br>h(3) = f(3) . g(3) = 3a + b = 60 ... (1)<br><br>Kita substitusikan x = -1 dan sisa S(-1) = 8 . (-9) = -72<br>h(-1) = f(-1) . g(-1) = -a + b = -72 ... (2)<br><br>Kedua persamaan kita selesaikan dengan metode eliminasi dan substitusi, diperoleh<br>3a + b = 60<br>-a + b = -72<br>__________-<br>\u21d4 4a = 132<br>\u21d4 a =\u00a0[tex] \\frac{132}{4} [/tex]<br>\u21d4 a = 33<br><br>Kita substitusikan a = 33 ke persamaan (2), diperoleh<br>-a + b = -72<br>\u21d4 -33 + b = -72<br>\u21d4 b = -72 + 33<br>\u21d4 b = -39<br><br>S(x) = 33x - 39<br><br>Jadi, jika suku banyak f(x) dibagi x + 1 sisanya 8 dan dibagi x - 3 sisanya 4, suku banyak g(x) dibagi x + 1 sisanya -9dan dibagi x - 3 sisanya 15, dan suku banyak h(x) = f(x) . g(x) dibagi x\u00b2 - 2x - 3, maka sisanya adalah 33x - 39.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/5171052<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-236-dan-8-dibuat-bilangan-kurang-dari-500-yang-terdi-267",
+            "question": "Dari angka 2,3,6 dan 8 dibuat bilangan kurang dari 500 yang terdiri dari 3 angka berbeda. Banyak bilangan yang dapat dibentuk adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0n ={2, 3, 6, 8} = 4<br>banyaknya bilangan<br>==&gt; 2 x 3 x 2 = 12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Angka 2,3,6,8<br>membentuk bilangan terdiri dari angka kurang dari 500 adalah:<br>untuk ratusan ada 2 pilhan/cara yaitu 2 dan 3. Karena kita sdh pilih sau angka maka yang tersisa tinggal 3 angka untuk puluhan dan satuan, sehingga P(3,2) = 3!/(3-2)! = 6. Jadi banyaknya bilangan: 2. P(3,2) = 2.6 = 12 bilangan<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-invers-konvers-dan-kontraposisi-dan-juga-apa-461",
+            "question": "Apa yang di maksud invers, konvers, dan kontraposisi dan juga apa yang di maksud dengan ekuivalen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "invers, konvers, dan kontraposisi adalah bentuk lain dari implikasi<br>invers adalah pernyataan majemuk berbentuk ~p \u21d2~q<br>konvers adalah pernyataan majemuk berbentuk q \u21d2 p<br>kontraposisi adalah pernyataan majameuk berbentuk ~q \u21d2 ~p<br><br>dua pernyataan dikatakan ekuivalen (sama) jika pernyataan tersebut memiliki nilai kebenaran yang sama. dinotasikan dengan tanda \"\u2261\"<br><br>contoh : pernyataan : jika saya telat maka saya dihukum<br>invers : jika saya tidak telat maka saya tidak dihukum<br>konvers : jika saya dihukum maka saya telat<br>kontraposisi : jika saya tidak dihukum maka saya tidak telat<br><br><br>contoh ekuivalensi p \u21d2q \u2261 ~q\u21d2~p<br><br>implikasi ekuielen dengan kontraposisi<br>invers ekivalen dengan konvers<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ekuivalensi : yang sama<br>Invers : berubah tanda<br>konvers : berubah posisi<br>kontraposisi : berubah tanda dan posisi<br>Contoh :<br>Kalimat : Jika Tata menang, maka ia mendapatkan piala<br>Invers : Jika Tata tidak menang, maka ia tidak mendapatkan piala<br>Konvers : Jika Tata mendapatkan piala, maka ia menang<br>Kontraposisi : Jika Tata tidak mendapatkan piala, maka ia tidak menang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amoeba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-929",
+            "question": "Amoeba akan membelah diri menjadi dua setiap 15 menit. Jika mula-mula ada 30 amoeba, maka banyak amoeba selama 2 jam...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "240 amoeba yang tersisa kan 120 mnt d kali 2 ya?",
+                    "attachments": []
+                },
+                {
+                    "answer": "(2*60)/15*30=240 amoeba",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-bola-dijatuhkan-pada-ketinggian-20m-setiap-memantulkan-k-466",
+            "question": "1.sebuah bola dijatuhkan pada ketinggian 20m    setiap memantulkan ketinggiannya 3/5 dari tinggi semula.\r\npanjang lintasan bola sampai tak memantul lagi adalah . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "S = 20(1+3/5)/1-3/5<br>S = 20(8/5)/2/5<br>s = (160/5) :2/5<br>S = 80 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-x2-4x30-dan-x24x-210-mempunyai-sebuah-akar-perseku-949",
+            "question": "persamaan x2-4x+3=0 dan x2+4x-21=0, mempunyai sebuah akar persekutuan. akar persekutuan tersebut adalah? (bantu pake caranya ya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0x^2-4x+3=0 akarnya (x\u00a0-\u00a01)\u00a0(x\u00a0-\u00a03)<br>2.\u00a0</span><span>x^2+4x-21=0 akarnya (x\u00a0-\u00a03)\u00a0(x\u00a0+\u00a07)<br><br><br>akar yang sama (x-3) jadi nilai x = 3</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x^2 - 4x + 3 = 0<br>(x - 3)(x - 1) = 0<br>x1=3 \u00a0x2=1<br>jadi, akar-akarnya x=3 atau x=1<br><br>x^2 + 4x - 21 = 0<br>(x + 7)(x - 3) = 0<br>x1=-7 \u00a0x2=3<br>jadi akar-akarnya x=-7 atau x=3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

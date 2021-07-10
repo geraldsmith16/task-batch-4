@@ -1,0 +1,158 @@
+{
+    "question": "keliling sebuah segitiga sama kaki 36 cm, jika panjang alasnya 10 cm, maka tinggi segitiga itu adalah ...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "segitiga sama kaki<br>alas: 10 cm<br>berarti= 36-10=26<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =26/2(karena segitiga sama kaki)=18<br>jadi sisi segitiga adalah: sisi kaki kiri: 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi kaki kanan: 18<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 alas: 10<br><br>mencari tinggi: gunakan rumus pithagoras<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a2+b2=c2<br>sisi alas dipotong 2 karena akan mencari tinggi berarti ditarik garis dari titik puncak segitiga,sehingga sisi alas terbagi 2.\u00a0<br>jadi= a2+b2=c2<br>\u00a0 \u00a0 \u00a0 \u00a0a2= b2-c2<br>\u00a0 \u00a0 \u00a0 \u00a0a2= 18 pangkat 2-5 pangkat 2<br>\u00a0 \u00a0 \u00a0 \u00a0a2= 324-25<br>\u00a0 \u00a0 \u00a0 \u00a0a2= 299<br>\u00a0 \u00a0 \u00a0 \u00a0 a= 299 akar dua<br>\u00a0 \u00a0 \u00a0 \u00a0 a= 17,29 -&gt; dibulatkan jadi 17,30<br><br>jadi tinggi segitiga adalah 17,3\u00a0\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-a-panjang-busur-pr-dan-b-keliling-lingkaran-906",
+            "question": "Hitunglah: \r\n A. Panjang busur PR, dan\r\n B. Keliling lingkaran!",
+            "attachments": [
+                "question-attachments/hitunglah-a-panjang-busur-pr-dan-b-keliling-lingkaran-906-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "180-72= 108 derajat<br>72 derajat = 35 cm<br>108 derajat = ?<br>108/72 x 35cm= \u00a052,5 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668",
+            "question": "Pada gambar dibawah, jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah........",
+            "attachments": [
+                "question-attachments/pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah 65\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah<span><span></span></span> 65 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-lingkaran-25434-cm2-dan-p-314-tentukan-a-diam-893",
+            "question": "Luas sebuah lingkaran 254,34 cm2 dan \u03c0 = 3,14. tentukan:\r\n a. diameternya\r\n b. kelilingnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. L = \u03c0.r\u00b2<br>\u00a0\u00a0  254,34 = 3,14.r\u00b2<br>\u00a0\u00a0 \u00a0  r\u00b2\u00a0\u00a0 = 254,34/3,14<br>\u00a0\u00a0 \u00a0 r\u00b2\u00a0\u00a0  =\u00a0 81<br>\u00a0\u00a0 \u00a0 r\u00b2\u00a0  = \u221a81<br>\u00a0\u00a0 \u00a0 r\u00b2\u00a0 = 9 cm<br>jadi d = 2.9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 18 cm<br>b. k = \u03c0d<br>\u00a0\u00a0 \u00a0 \u00a0 = 3,14 . 18<br>\u00a0\u00a0 \u00a0 \u00a0  = 56,52 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. diameter 18<br>b. keliling 56,52",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-karyawan-memperoleh-gaji-sebulan-1400000dengan-penghasi-374",
+            "question": "seorang karyawan memperoleh gaji sebulan 1.400.000dengan penghasilan tidak kena pajak 480.000. jika besar pajak penghasilan 10% besar gaji yang diterima karyawan itu adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaji satu bulan = Rp 1.400.000<br>gaji tidak kena pajak = Rp\u00a0480.000<br>presentase pajak = 10%<br>gaji kotor = gaji 1 bulan - gaji tidak terkena pajak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 1.400.000 - Rp 480.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 920.000<br>gaji bersih =\u00a0[tex] \\frac{persentase gaji - persentase pajak}{y} [persentase gaji] x Rp920.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{100% - 10 %}{100%} [/tex] x Rp 920.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{90%}{100%} [/tex] x Rp 920.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 828.000<br>gaji total = gaji bersih + gaji tidak kena pajak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 828.000 + Rp 480.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 1.308.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.400.000 - 480.000 = 920.000\n? \u00d7 920.000\n? \u00d7 920.000 \n=828.000\n\n828.000 + 480.000\n1.308.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penyelesaian-persamaan-dari-4y-8-2y-adalah-157",
+            "question": "Penyelesaian persamaan dari\u00a04y + 8 = 2y adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4y+8= 2y<br>4y-2y= -8<br>2y =-8<br>y= -8/2<br>y=-4<br>maaf ya kalo salah <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4y + 8 = 2y<br>4y - 2y = -8<br>2y= -8<br>y = -8/2<br>y= -4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-pa-dan-pb-adalah-garis-singgung-lingkaran-jika-oa-6c-285",
+            "question": "Diketahui PA dan PB adalah garis singgung lingkaran. Jika OA = 6cm, OP = 10cm maka panjang PA =    pake cara yah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang PA = \u221a 10\u00b2 - 6\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a100 - 36<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a64<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 cm<br><br>jadi panjang PA = 8 cm<br>( smoga bermanfaat , maaf y klo slah )<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-segi-10-beraturan-adalah-tolong-jawab-bersama-peny-531",
+            "question": "Besar sudut segi-10 beraturan adalah... tolong jawab bersama penyelesaiannya ya,..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span><span></span></span><span><span>Setiap segi-n beraturan dapat dibagi menjadi n buah segitiga sama kaki, \nyang besar sudut antara sisi sama kakinya adalah 360 : n.  <br>\nMaka besar sudut pada kaki2nya adalah (180 - (360 : n)) : 2. <br>\nJadi besar tiap sudut segi n beraturan adalah : <br>\n= (180 - (360 : n)) : 2 x 2  <br>\n= 180 - (360 : n) <br><br>\nUntuk segi 10 = 180 - (360/10) = 180 - 36 = 94 derajat....</span></span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karna pada segi4 =90\u00b0, dan sudut total=360\u00b0. Maka 360\u00b0/4=90\u00b0. artinya rumusnya Sudut total dibagi banyaknya segi, jadi kalau segi10, maka 360\u00b0/10 = 36\u00b0...",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-a-7x-5-dan-b-2x-3-nilai-a-b-adalah-mohon-bantu-103",
+            "question": "Diketahui A= -7x + 5 dan B= 2x-3. Nilai A - B adalah? mohon bantuannya m(._.)m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A - B<br>= -7x+5 -\u00a0(2x-3)<br>= -7x+5 -2x+3<br>= -7x-2x +5+3<br>= -9x + 8<br><br>itu bukan???<br>kalo bukan maap ye",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>A-B =\u00a0(-7x + 5) - (2x-3)<br>\u00a0 \u00a0 \u00a0 \u00a0=\u00a0</span><span>-7x + 5 -\u00a02x +\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0= -7x -2x +5 +3<br>\u00a0 \u00a0 \u00a0 \u00a0= -\u00a09x + 8</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-pada-kebun-bunga-berbentuk-lingkaran-adalah-754385-m2-pan-145",
+            "question": "Luas pada kebun bunga berbentuk lingkaran adalah 754,385 m\u00b2. Panjang diameter lingkarannya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "754,385 = [tex] \\pi  \\pi [/tex]r\u00b2<br>754,385 = 3,14 x r\u00b2<br>r\u00b2 = 754,385/3,14<br>\u00a0\u00a0 = 240,25<br>r= \u221a240,25",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas = 1/4 \u03c0 d\u00b2<br>754,385 x 4 = \u03c0 d\u00b2<br>3017,54 = 3,14 d\u00b2<br>961 = d\u00b2<br>d = 31<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-sudut-p-adalah-dua-kali-besar-sudut-pelurusnya-t-261",
+            "question": "Diketahui besar sudut P adalah dua kali besar sudut pelurusnya, tentukan :    a. nilai P\r\nb. besar sudut pelurus dari P",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pelurus \u00a0p = 180 - p<br><br>a)<br>sudut p = 2 kali besar pelurusnya --&gt;p = 2 (180 - p)<br>p = 360 - 2p<br>p + 2p = 360<br>3p = 360<br>p = 360/3<br>p = 120<br><br>b) \u00a0besar pelurus dari p = 1/2 (p)= 1/2(120) = 60<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Bab Garis dan sudut<br>Matematika SMP Kelas VIII<br><br>a] p = 2 x (180 - p)<br>p = 360 - 2p<br>3p = 360<br>p = 120 derajat<br><br>b] pelurusnya<br>= 180 - 120<br>= 60 derajat",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

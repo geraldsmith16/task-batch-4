@@ -1,0 +1,144 @@
+{
+    "question": "1/2x + 5 &gt; 15 \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/2x+5&gt; 15<br>dikali 2<br>2/2x+5&gt;15<br>x+5&gt;15<br>x&gt;15-5<br>x&gt;10<br>",
+            "attachments": []
+        },
+        {
+            "answer": "1/2x + &gt; 15<br>1/2x\u00a0 \u00a0 &gt; 15 - 5<br>1/2x\u00a0 \u00a0  &gt; 10<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 10 - 0,5<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 9,5<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-besar-sudut-adc-55-hitunglah-besar-a-sudut-aoc-b-134",
+            "question": "Diketahui besar sudut ADC = 55\u00b7 hitunglah besar    a. Sudut AOC\r\n b. Sudut Refleks AOC\r\n c. Sudut OAC Dan Sudut ACD",
+            "attachments": [
+                "question-attachments/diketahui-besar-sudut-adc-55-hitunglah-besar-a-sudut-aoc-b-134-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a. Sudut AOC = 55 x 2 = 110 derajat<br>b. Sudut Refleks AOC = 360 - 110 derajat = 250 derajat<br>b. Sudut OAC = Diketahui Segitiga AOC sama kaki\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 180 - 110/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 70 : 2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 35 derajat<br><br>Sudut ACD = Diketahui Segitiga ADC sama kaki<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 180 - 55/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 125/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 62,5 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-panjang-plebar-ltinggi-t-dan-volume-vjika-548",
+            "question": "Sebuah balok dengan panjang p,lebar l,tinggi t dan volume v.jika panjang balok tersebut di perpanjang 20% ,lebarnya diperpanjang 50% serta tingginya bertambah 20% dari ukuran semula maka pertambahan volume balok yang terbentuk adalah........    a.60&amp;\r\n b.80%\r\n c .116%\r\n d.180%\r\n e.216%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Misal\u00a0<br>p\u00a0=\u00a0l\u00a0=\u00a0t\u00a0=\u00a010\u00a0cm<br>Volume awal = 1000\u00a0cm\u00b3<br>p + 20 % = 10 + (10 x 20\u00a0/\u00a0100) = 12 cm<br>l\u00a0\u00a0+ 50 % \u00a0= 10 + ( 10 x 50/100) = 15 cm<br>t \u00a0+ 20 % \u00a0= 10 + (10 x 20/100) = 12 cm<br>volume akhir = 12 x 15 x 12\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 2160 cm\u00b3<br>pertambahan volume = 2160 -\u00a01000\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 1160 cm\u00b3<br>persentase = 1160\u00a0/\u00a01000 x 100%\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0= 116 %</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-oa-ob-21-cm-jika-besar-sudut-aob72-luas-juring-ao-518",
+            "question": "Panjang OA = OB =21 cm. jika besar sudut AOB=72\u00b0, luas juring AOB?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72\u00b0/360\u00b0 x 22/7 x 21 x 21<br>= 1/5 x 1386<br>= 277,2 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-pelurus-sudut-p-tiga-kali-penyiku-sudut-pberapa-besar-550",
+            "question": "Diketahui pelurus sudut p tiga kali penyiku sudut p,berapa besar sudut p?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "180 - p = 3 (90 -p)<br>180 - p = 270 - 3p<br>2p = 270 - 180 = 90<br>p = 45<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60x3=180 kan 1, sudut di segitiga besarnya 90 drajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fpb-dari-4254dan78-adalah-534",
+            "question": "Fpb dari 42,54,dan78 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fpb dari 42,54,78 =\u00a0<br>42=2x3x7<br>54=2x3x3x3<br>78=2x3x13<br>FBP = 2x3=6<br>FPB = 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pagar-tanaman-di-halaman-pak-roni-tingginya-98-cmpak-roni-memang-207",
+            "question": "pagar tanaman di halaman pak roni tingginya 98 cm.pak roni memangkas pagar tersebut sehingga tingginya berkurang 2 dm.setelah se bulan,tinggi pagar tanaman tersebut bertambah 90mm.tinggi pagar tanaman di halaman pak roni sekarang berapa cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "98 cm = 98 cm<br>2 dm = 20 cm<br>90 mm = 9 cm<br>so, (98-20) + 8<br><br>Bener kan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span></span>tinggi=98 cm<br>dipangkas=2dm <u></u>dikali 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  98cm - 20 cm=78 cm<br>bertambah 1 bulan=90 mm/10 =9 cm<br>jadi,78+9=87 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sifat-jajaran-genjang-528",
+            "question": "Sifat jajaran genjang?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Sisi yang berhadapan sejajar dan sama panjang<br>\nb. Kedua diagonalnya berpotongan di tengah-tengah.<br>\nc. Sudut yang berhadapan sama besar.<br>\nd. Sudut yang berdekatan jumlahnya 180 derajat.<br>\ne. Menempati bingkainya dengan 2 cara.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sifat-sifat jajargenjang sebagai berikut.\n\n\nSisi-sisi yang berhadapan pada setiap jajargenjang sama panjang dan sejajar.\nSudut-sudut yang berhadapan pada setiap jajargenjang sama besar.\nJumlah pasangan sudut yang saling berdekatan pada setiap jajargenjang adalah\n180\u00b0.\n<span>Pada\nsetiap jajargenjang kedua diagonalnya saling membagi dua sama panjang.</span><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-aob-30-sudut-boc-90-245",
+            "question": "Pada gambar lingkaran, besar sudut AOB = 30\u00b0, sudut BOC = 90\u00b0, dan luas juring OAB = 60 cm\u00b2. Hitunglah luas juring OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut AOB</u> = <u>LJuring OAB</u><br>sudut BOC\u00a0 \u00a0 LJuring OBC<br><br><u>30</u> =<u> 60</u><br>90\u00a0 \u00a0 x<br>30x = 60 \u00d7 90<br>x = 180 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-pekerjaan-dapat-diselesaikan-dalam-waktu-15-hari-oleh-12-pe-280",
+            "question": "suatu pekerjaan dapat diselesaikan dalam waktu 15 hari oleh 12 pekerja .apabila banyak pekerja ditambah 6 orang, maka pekerjaan tersebut akan selesai dalam waktu berapa hari ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>perbandingan berbalik nilai</strong><br>15 hari = 12 orang<br>x hari = (12+6) orang<br><br>15 . 12 = x .18 <br>x = 180/18<br>x = 10 hari<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-2-4x-gt-22-709",
+            "question": "Cara menyelesaikan : 2 - (4+x)\u00a0&gt; -22 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2\u00a0-\u00a0(4+x) <u>&gt;</u> - 22<br>2 - 4 -x + 22 <u>&gt;</u> 0<br>20\u00a0-\u00a0x <u>&gt;</u> 0<br>20 <u>&gt;</u> x",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>2 - (4+x)\u00a0<u>&gt;</u><u></u> -22 </span><br>= - (2.4+ 2.x) \u2265 -22<br>= - (8 + 2x ) \u2265 -22<br>= -8 -2x \u2265 -22<br>= -2x \u2265 -22 + 8<br>= -2x \u2265 -14<br>= x \u2265 -14/-2<br>= x \u2265 7<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

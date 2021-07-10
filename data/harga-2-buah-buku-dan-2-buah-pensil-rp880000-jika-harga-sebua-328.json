@@ -1,0 +1,154 @@
+{
+    "question": "harga 2 buah buku dan 2 buah pensil Rp.8.800,00. jika harga sebuah buku Rp. 600,00 lebih murah dari harga sebuah pensil, maka harga sebuah buku adalah ..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misal b= buku dan p=pensil<br>jadi 2b + 2p = 8.800,00 dan b= p-600,00<br>maka 2(p-600,00) + 2p = 8.800,00<br>2p-1.200,00+2p = 8.800,00<br>4p=8.800,00 + 1.200,00<br>4p =10.000,00<br>p = 10.000,00 /4<br>p = 2.500,00<br>harga 1 pensil 2.500,0 maka harga 1 buku adalah = 2.500,00-600,00<br>= 1.900,00<br><br>semoga membantu :)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "Misalkan; b=harga buku dan p=harga pensil<br>Dik; 2b+2p=8800...............(1)<br>\u00a0\u00a0 \u00a0 \u00a0 b=p-600.....................(2)<br><br>2b+2p=8800<br>2(p-600)+2p=8800<br>2p-1200+2p=8800<br>4p=8800+1200<br>4p=10000<br>p=10000/4<br>p=2500<br><br>b=p-600<br>b=2500-600<br>b=1900<br><br>Jadi,harga sebuah buku adalah Rp 1900<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-contoh-aplikasi-soal-trigonometri-dalam-bidang-fisika-beserta-154",
+            "question": "Apa contoh aplikasi soal trigonometri dalam bidang fisika beserta pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gerak parabola : kan ada sudutnya. kalau diuraikan pada sumbu x, cos sudut. kalau diuraikan diuraikan pada SB y sin sudut<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-11-dari-barisan-25612864-adalah-431",
+            "question": "Suku ke 11 dari barisan 256,128,64...\r\nadalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=256<br>r=1/2<br><br>U11= ar^10<br>= 256(1/2)^10<br>= 256:1024 <br>= 1/4 = 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sn=n/2 . (2a+n-1)b<br>11=11/2.(2.256+11-1).2<br>276<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-n-jika-diketahui-a-2-b7-dan-un138-467",
+            "question": "Tentukan nilai n jika diketahui a= -2 b=7 dan un=138",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un = a+(n-1)b<br>138= -2 + (n-1)7<br>138 = -2 + 7n - 7<br>138 = 7n -9<br>138 + 9 = 7n<br>147 = 7n<br>147/7 = n<br>21 = n <br><br>jadi nilai n = 21<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un=a+(n-1)b<br>138=-2+(n-1)7<br>138+2=7n-7<br>140+7=7n<br>7n=147<br>n=21",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-peta-dengan-skala-1-200000-jarak-kota-r-dan-s-pada-peta-573",
+            "question": "Pada peta dengan skala 1 : 200,000, jarak kota R dan S pada peta adalah 5 cm. Berapakah jarak yang sebenarnya antara kedua peta tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumusnya ini : JP = JS : S<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1000000cm = 10 kilometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jago-matematika-masuk-1-pertumbuhan-ekonomi-dinyatakan-dalam-p-910",
+            "question": "Jago Matematika Masuk ?    1. Pertumbuhan ekonomi dinyatakan dalam persen. \r\n Misalnya, pertumbuhan ekonomi suatu negara sebesar 5% per tahun artinya \r\n terjadi pertambahan Produk Domestik Bruto (PDB) sebesar 5% dari PDB \r\n tahun sebelumnya. \r\nBerdasarkan analisis, ekonomi Indonesia akan mengalami pertumbuhan \r\n sebesar 6.5% per tahun selama tiga tahun ke depan. Tentukan PDB pada \r\n tahun ketiga apabila PDB tahun ini PDB-nya sebesar 125 triliun rupiah ? \r\n\r\n\r\n\r\n 2. kenaikan harga barang-barang disebut inflasi. Berdasarkan Analisis, \r\n ekonomi indonesia akan mengalami inflasi sebesar 8 % per tahun selama 5 \r\n tahun mendatang. Apabila harga emas sekarang ini adalah Rp 200.000 per gram, \r\nTentukan harga sabun tersebut empat tahun lagi ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= 1 tahun = 6,5%\u00a0<br>jadi tiga tahun = 6,5kali\u00a0 3= 19,5%<br>jadi\u00a0<u>19,5</u>kali 125 = 24,375<br>\u00a0 \u00a0 \u00a0 \u00a0100<br>jadi pdb tahun ke tiga =24,375<br>mungkin sih saya juga baru belajar ini\u00a0\u00a0<br><br><u></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-fungsi-fxmx22m-3xm3-berada-diatas-sumbu-x-batas-685",
+            "question": "Grafik fungsi f(x)=mx^2+(2m-3)x+m+3 berada diatas sumbu x. Batas-batas nilai m yang memenuhi adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = mx\u00b2 +(2m -3)x\u00a0 + m + 3<br>a = m<br>b = 2m -3<br>c = m + 3<br><br>syarat FK punya akar imajiner : D &lt; 0<br>D &lt; 0<br>b\u00b2 - 4ac &lt; 0<br>(2m - 3)\u00b2 - 4.m.(m+3) &lt; 0<br>4m\u00b2 - 12m + 9 - 4m\u00b2 - 12 &lt; 0<br>-12m - 3 &lt; 0<br>-12m &lt; 3<br>m &gt; [tex] \\frac{3}{-12} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "f(x) berada di atas sumbu x, berarti D &lt; 0<br>a = m<br>b = (2m-3)<br>c = m+3<br><br>D = b\u00b2 - 4.a.c &lt; 0<br>\u00a0 \u00a0 \u00a0 (2m-3)\u00b2 - 4.m.(m+3) &lt; 0<br>\u00a0 \u00a0 \u00a0 4m\u00b2 - 12m + 9 - 4m\u00b2 - 12m &lt; 0<br>\u00a0 \u00a0 \u00a0 -24m + 9 &lt; 0 \u00a0dikali (-1) agm\u00a0ar tidak negatif, hati2 setelah dikali (-1) tanda berubah<br>\u00a0 \u00a0 \u00a0 \u00a024m - 9 &gt; 0 dibagi 3 agar lebih mudah mencari nilai m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a08m - 3 &gt; 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08m &gt; 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m &gt; 3/8<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0<br><br>\u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-kearah-timur-seauh-30-mil-kemudian-kapal-m-401",
+            "question": "sebuah kapal berlayar kearah timur seauh 30 mil. kemudian kapal melanjutkan perjalanan dengan arah 030 derjat sejauh 60 mil. jarak kapal terhadap posisi saat kapal berangkat adalah...mil",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "...................................................................................................................................................................................................................................................................<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau yang ditanya jarak, berarti tinggal \u00a030mil+60miltapi kalau yang ditanya perpindahan baru nyari jarak terdekat dari titik awl ke titik akhir.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-px-x4-3x3-5x2-x-6-dibagi-dengan-x2-x-2-ma-385",
+            "question": "Jika p(x) = x4 - 3x3 - 5x2 + x - 6 dibagi dengan (x2 - x - 2), maka sisanya adalah...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara skematis, nanti hasilnya<br>p1.p2 = (x-2)(x+1)<br>s1 = -32<br>s2 = -8<br><br>jd, s(x) = p1s2 + s1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (x-2)-8 + -32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -8X+16-32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = -8X - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8X+16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tentukan-rumus-fungsi-f-dan-rumus-f-o-g-untuk-kondisi-g-o-f-302",
+            "question": "1. Tentukan rumus fungsi f dan rumus (f o g) untuk kondisi (g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1    2. Tentukan rumus fungsi f dan (g o f) untuk kondisi (f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1\r\n\r\n3. Tentukan rumus fungsi g dan rumus (g o f) untuk kondisi (f o g)(x) = akar 4x^2 + 12x + 14, f(x) = akar x^2 + 5, dan g(2) = 7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a0(g o f)(x) = 4x^2 + 4x dan g(x) = x^2 - 1<br></span>\u00a0x^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 - 1 \u00a0=\u00a04x^2 + 4x\u00a0<br>\u00a0 f^2 =\u00a04x^2 + 4x +1<br>\u00a0 f =\u00a0\u221a4x^2 + 4x +1<br>\u00a0 f = 2x+1<br><br>\u00a0 f o g =\u00a02(x^2 - 1)+1 = 2x^2-1<br><br><br><br>2.\u00a0<span>(f o g)(x) = 4x^2 - 6x + 5 dan g (x) = 2x + 1 \u00a0 \u00a0 g- = 1/2x -1/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f =\u00a0</span>4(1/2x -1/2)^2 - 6(1/2x -1/2) + 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 f = x^2 - 5x + 9<br><br>\u00a0 g o f =\u00a02(x^2 - 5x + 9) + 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2x^2 - 10x + 19<br><br><br>Semoga membantu :) D",
+                    "attachments": []
+                },
+                {
+                    "answer": "1)\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x dan g(x) = x\u00b2\u00a0- 1<br>\u21d2\u00a0(g o f)(x) = 4x\u00b2\u00a0+ 4x\u00a0<br>\u21d2 g(f(x)) =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 - 1 =\u00a04x\u00b2\u00a0+ 4x<br>\u21d2(f(x))\u00b2 =\u00a04x\u00b2\u00a0+ 4x + 1<br>\u21d2<br><br>2)\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5 dan g (x) = 2x + 1<br>\u21d2\u00a0(f o g)(x) = 4x\u00b2\u00a0- 6x + 5\u00a0<br>\u21d2 f(g(x)) =\u00a04x\u00b2\u00a0- 6x + 5<br>\u21d2 f( 2x+1) = 4x\u00b2 - 6x +5<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a02x (2x\u00a0+1) + 4x + 5<br>\u21d2 \u00a0 \u00a0 \u00a0\u00a0f(x)\u00a0\u00a0= 2x\u00b2 + 4 x + 5 \u00a0 \u00a0, sehingga :<br>\u21d2\u00a0(g o f)(x)\u00a0= g (f(x))<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= g (\u00a02x\u00b2 + 4 x + 5 )<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2\u00a0(\u00a02x\u00b2 + 4 x + 5 ) + 1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4x\u00b2 + 8x + 10 +1<br>\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a04x\u00b2 + 8x + 11<br><br><br><span>3)\u00a0(f o\ng)(x) =\u00a0\u221a4x\u00b2\u00a0+ 12x + 14, f(x) =\u00a0\u221ax\u00b2<span>\u00a0+\n5, dan g(2) = 7<br>\n\u00a0 \u00a0 \u00a0<span>\u221a4x\u00b2\n= 2x \u00a0 dan \u00a0 \u00a0\u221ax\u00b2\u00a0= x</span><br></span><span>\u21d2\u00a0(f o g)(x) =\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2 f (g(x)) \u00a0\n\u00a0=\u00a0\u221a4x\u00b2\u00a0+\n12x + 14</span><span><br></span><span>\u21d2\u00a0g(x) + 5\n\u00a0=\u00a02x\u00a0+ 12x + 14<br></span></span>\n\n<span>\u21d2\u00a0g(x)\n+ 5 \u00a0=\u00a02x\u00a0+\n12x + 14</span>\n<br><span>\u21d2 g(x) = 2x\u00a0+\n12x + 14 \u2013 5</span>\n<br><span>\u21d2 g(x) = 14x + 9 </span>\n\n\u00a0\n\n\u00a0\n<br><span><br>\u21d2\u00a0(g o f)(x)\u00a0= g\n(f(x))<span><br></span><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = g (x + 5)</span></span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = \u00a014 (x + 5) + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 14x + 60 + 9</span>\n<br><span>\u21d2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 =\u00a0 14 x + 69</span><br><br>NB : 1 dan 3 belum selesai",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

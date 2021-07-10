@@ -1,0 +1,140 @@
+{
+    "question": "Pada gambar di samping, luas juring OPQ = 19,25 cm2 dan luas juring ORS = 51,33 cm2. Jika besar sudut POQ 45 derajat maka besar sudut ROS adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pertama kita cari dulu panjang jari2 lingkaran. kenapa? karena untuk mencari besar sudut dengan rumus luas juring memuat panjang jari-jari lingkarang.\u00a0<br><br>bagaimana mencari panjang jari-jari? kita manfaatkan luas juring POQ, sehingga diperoleh pers<br>L POQ = &lt;POQ/360 x L lingkaran<br>19,25 = 45/360 x\u00a0[tex] \\pi [/tex] r\u00b2\u00a0<br>19,25 = 1/8 x 22/7 x r\u00b2<br>r\u00b2 = 19,25x8x7 / 22 = 1078/22 = 49\u00a0<br>r =\u00a0\u221a49 = 7\u00a0<br><br>selanjutnya kita cari besar sudut ROS, tapi sebelumnya kita ubah dulu luas busur ROS yaitu 51,33 dalam bentuk pecahan supaya lebih mudah dalam perhitungan nanti, jadi 51,33 = 51 + 0,33 = 51 + 1/3 = 154/3<br>L ROS = &lt;ROS / 360 x L lingkaran<br>154/3 = &lt;ROS/360 x 22/7 x 49\u00a0<br>&lt;ROS = 154 x 360 x 7 / (3x22x49) = (154x120) / (22 x 7) = 120\u00a0<br>jadi besar sudut ROS adalah 120 derajat<br><br>semoga membantu dan mudah dipahami<br>#FunWithMath<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "skala-sebuah-peta-115000000-jarak-kota-a-dan-b-pada-peta-itu-129",
+            "question": "Skala sebuah peta 1:1.5000.000. Jarak kota A dan B pada peta itu 6 cm .Jarak sebenarnya kota A dan B = ......... km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 1.500.000 cm = 90.000.000 km<br>= 900 km<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maaf yah klw slah <br>1:1.5000.000 .x. 6cm<br>900km<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukislah-pada-kertas-berpetak-lingkaran-dengan-pusat-di-titik-p3-772",
+            "question": "Lukislah pada kertas berpetak lingkaran    dengan pusat di titik P(3, 2) dan jari-jari\r\n4 satuan panjang. Selanjutnya, lukislah\r\ngaris singgung lingkaran yang melalui titik\r\nQ(\u20131, 2).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas : VIII SMP<br>mapel : matematika<br>kategori : garis singgung lingkaran<br>kata kunci : menggambar garis singgung lingkaran<br><br>kode : 8.2.7 [matematika SMP kelas 8 Bab 7 garis singgung lingkaran]<br><br>Pembahasan:<br><br>garis singgung lingkaran adalah garis yang menyinggung lingkaran dan tegak lurus dengan jari-jari lingkaran<br><br>dari ilustrasi soal, dapat kita gambar atau kita lukis garis singgung lingkarannya, atau garis singgung lingkaran yang melalui titik (-1, 2), dan pusat lingkaran di (3, 2) jari-jari lingkaran 4<br><br>silahkan lihat lampiran<br><br><br><br><br>selamat belajar<br>salam indonesia cerdas<br>bana",
+                    "attachments": [
+                        "answer-attachments/lukislah-pada-kertas-berpetak-lingkaran-dengan-pusat-di-titik-p3-772-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-jumlah-2-bilangan-adalah-3-dan-selisih-kuadrat-bilangan-itu-454",
+            "question": "Jika jumlah 2 bilangan adalah 3 dan selisih kuadrat bilangan itu adalah 6, bilangan apa sajakah itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0  2pangkat 10 dan 1 pangkat -4\u00a0 (2pangkat 10 dan 1 pangkat -4)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "x+y = 3<br>x=3-y<br><br>(x-y)\u00b2 = 6<br>(3-y-y)\u00b2 = 6<br>(3-2y)\u00b2 = 6<br>3-2y = \u221a6<br>3-\u221a6 = 2y<br>y= (1/2)(3-\u221a6)<br><br>x=3-y<br>x=3 - (1/2)(3-\u221a6)<br>x=3 - 3/2 - \u221a6/2<br>x=6/2 - 3/2 - \u221a6/2<br>x=3/2 - \u221a6/2<br>x=(1/2)(3-\u221a6)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-7-15-23-31-39-adalah-517",
+            "question": "Suku ke-50 dari barisan bilangan 7, 15, 23,    31, 39, \u2026 adalah \u2026\r\n(A) 392\r\n(B) 399\r\n(C) 407\r\n(D) 448",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: barisan bilangan 7,15,23,31,39<br>Dit: U50?<br>Jwb: a=7<br>         b=U2-U1<br>           = 15-7 =&gt; 8<br><br>          Un= a+(n-1)b<br>          U50= 7+(50-1)8<br>                 = 7+(49)8<br>                 = 7+392<br>                 = 399 (B)<br><br>sorry ya telat kali jawabnya hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-siku-siku-panjang-hipotenusanya-310-459",
+            "question": "Diketahui sebuah segitiga siku-siku, panjang hipotenusanya 3\u221a10 cm dan panjang salah satu sissinya 3 cm. panjang sisi siku-siku yang lain adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hipotenusa=\u221a{(sisi 1)\u00b2+(sisi 2)\u00b2}<br>hipotenusa\u00b2=(sisi 1)\u00b2+(sisi 2)\u00b2<br>(3\u221a10)\u00b2=3\u00b2 + (sisi 2)\u00b2<br>90 = 9 + (sisi 2)\u00b2<br>81 = (sisi 2)\u00b2<br>(sisi 2)\u00b2 = 81<br>(sisi 2) = \u221a81<br>(sisi 2) = 9<br><br>hasilnya 9................ jadikan jawaban saya yang terbaik ya :D<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tara5-kg-persentase-tara212-ditanya-berapa-kg-bru-551",
+            "question": "Diketahui:\r\nTara:5 kg\r\nPersentase tara:2,12%\r\n\r\nDitanya:\r\nBerapa kg bruto dan netto?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto =\n5 kg : 2,12%  = 5 : 2,12/100 \n= 5 x 100/2,12 = 500/2,12 = 235,8\njadi, brutonya adalah 235,8\nnetto = bruto - tara.\nnetto = 235,8 - 5 = 230,8\njadi, nettonya adalah 230,8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tara = Persentase tara \u00d7 bruto<br>5 = <u>2,12</u>\u00d7 bruto<br>\u00a0\u00a0 \u00a0 \u00a0 100<br>500 = 2,12 \u00d7 bruto<br>bruto =\u00a0 <u>500</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 2,12<br>bruto = 235,85 kg<br><br>netto = 235,85 - 5kg<br>netto = 230,85 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ciri-persamaan-linear-dengan-satu-variabel-769",
+            "question": "Ciri persamaan linear dengan satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ciri-ciri Persamaan Linear Satu Variabel adalah sebagai berikut :<br>1. Mempunyai satu variabel.<br>2. Variabel berpangkat satu.<br>3. Dihubungkan dengan relasi sama dengan (=).",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut aku sih<br>\u00a01.mempunyai 1 variabel<br>\u00a02. variabel berpangkatnya yaitu satu<br>\u00a03.dan mempunyai relasi berpangkat yaitu (=) klo &lt;,&gt;,lebih dari sama dengan dan kurang dari sama dengan itu perbedaan\u00a0linear satu variabel.<br>\u00a0mudh mudh bermanfaat\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-sebuah-jembatan-direncanakan-selesai-dalam-waktu-132-245",
+            "question": "pembangunan sebuah jembatan direncanakan selesai dalam waktu 132 hari oleh 72 pekerja. sebelum pekerjaan dimulai ditambah 24 orang pekerja. berapa waktu untuk menyelesaikan pembangunan jembatan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi Perbandingan<br>Kelas VII<br>UN MATEMATIKA SMP 2011<br><br>Waktu (hari)\u00a0\u21d2 Pekerja (orang)<br>132 \u21d2 72<br>x \u21d2 96<br>(Perbandingan berbalik nilai)<br><br>132 x 72 = 96x<br>96x = 9.504<br>x = 99 Hari<br><br>Jadi, waktu untuk menyelsaikan pembangunan jembatan tersebut menjadi<strong>\u00a099 hari</strong><br><br>Mohon maaf apabila ada kesalahan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pliss-bantu-misalnya-diberikan-deret-aritmatika-t23-t17-894",
+            "question": "Pliss bantu:)    Misalnya, diberikan deret aritmatika (t+23) + (t+17) + (t+11) + ..\r\na.tentukan pembeda pada deret tersebut\r\nb.tentukan U5 dan U6 pada deret tersebut\r\nc.hitunglah jumlah enam suku pertama deret tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.perbedaannya n-6 \nb.(t+23)+(t+17)+(t+11)+(t+5)+(t+(-1))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-barisan-aritmatika-diketahui-suku-ke-3-14-dan-suku-ke-7-2-629",
+            "question": "Dari barisan aritmatika diketahui suku ke-3 =14 dan suku ke-7 = 26. jumlah 18 suku pertama adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas : 12<span><br>\nMapel : Matematika<br>\nKategori : Bab 7 - Barisan dan Deret<br>\nKata Kunci : barisan. deret, aritmetika<br>\nKode : 12.2.7 [Kelas 12 Matematika Bab 7 -\nBarisan dan Deret]</span></p>\n\n<p>\u00a0</p>\n\n<p>Pembahasan :</p>\n\n<p><span>Barisan\naritmetika adalah suatu barisan dengan beda atau selisih antara dua suku\nberurutan selalu tetap atau konstan.<br><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083,\n..., Un atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un = a + (n - 1)b.<br><br>\nBeda atau selisih antara dua suku berurutan, yaitu :\u00a0<br>\nb = Un - U(n - 1).<br><br>\nDeret aritmetika adalah jumlah suku-suku barisan\naritmetika.<br><br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1) + Un<span><br></span>\u21d4 Sn = a + a + b + a +\n2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](2a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1)<span><br>\nSn - S(n - 1) = Un.</span></p><p><br></p><p>Mari kita lihat soal tersebut.</p><span>Jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah...<br><br>Jawab :<br>Diketahui suku ke-3 adalah 14, sehingga<br>U</span>\u2083 = 14<br>\u21d4 U\u2083 = a + (3 - 1)b<br>\u21d4 U\u2083 = a + 2b<br>\u21d4 14 = a + 2b ... (1)<br><br>dan suku ke-7 adalah 26, sehingga<br>U\u2087 = 26<br>\u21d4 U\u2087 = a + (7 - 1)b<br>\u21d4 U\u2087 = a + 6b<br>\u21d4 26 = a + 6b ... (2)<br><br>Persamaan (1) dan (2) membentuk sistem persamaan linear dan kita dapat menentukan nilai a dan b menggunakan metode eliminasi dan substitusi.<br>Pertama, kita eliminasi a, sehingga<br>14 = a + 2b<br>26 = a + 6b<br>__________-<br>\u21d4 -12 = -4b<br>\u21d4 b =\u00a0[tex] \\frac{-12}{-4} [/tex]<br>\u21d4 b = 3<br><br>Kemudian, nilai b = 3 kita substitusikan ke persamaan (1), diperoleh<br>a + 2b = 14<br>\u21d4 a + 2(3) = 14<br>\u21d4 a + 6 = 14<br>\u21d4 a = 14 - 6<br>\u21d4 a = 8<br><br>Selanjutnya, kita menentukan jumlah 18 suku pertama, diperoleh<br>S\u2081\u2088 =\u00a0[tex] \\frac{18}{2} [/tex](2(8) + (18 - 1) x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 17 x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 51)<br>\u21d4 S\u2081\u2088 = 9(67)<br>\u21d4 S\u2081\u2088 = 603<br><br>Jadi, jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah 603.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/1812844<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "besar energi yang dipancarkan elektron yang mengalami eksitasi dari n=4 ke n=2 spektrum atom hidrogen adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik E1 = 13,6 ev =energi\u00a0 hidrogen<br>\u00a0 \u00a0 \u00a0 n1 = 2<br>\u00a0 \u00a0 \u00a0 n2 = 4<br>Dit E2 ?<br>jawab.<br>E1 = - 13,6 / 4 = - 3,4<br>En2 = -13,6 / 16 = - 0,85<br><br>\u0394En = E2 - E1<br>\u00a0 \u00a0 \u00a0 \u00a0 = -0,85 + 3,4 = 2,55 EV",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Dik E1 = 13,6 ev =energi\u00a0 hidrogen<br>\u00a0 \u00a0 \u00a0 n1 = 2<br>\u00a0 \u00a0 \u00a0 n2 = 4<br>Dit E2 ?<br>jawab.<br>E1 = - 13,6 / 4 = - 3,4<br>En2 = -13,6 / 16 = - 0,85<br><br>\u0394En = E2 - E1<br>\u00a0 \u00a0 \u00a0 \u00a0 = -0,85 + 3,4 = 2,55 EV<br><br>jadi, energinya yaitu 2,55 EV<br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seorang-yang-tingginya-160-cm-berdiri-di-depan-cermin-datar-yang-988",
+            "question": "Seorang yang tingginya 160 cm berdiri di depan cermin datar yang terpasang pada dinding. Anggap mata orang itu berada pada jarak 10 cm dari bagian atas kepalanya. Tentukan jarak minimum bagian bawah cermin dari lantai sehingga orang itu masih dapat melihat seluruh bagian badannya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tinggi cermin datar = [tex] \\frac{1}{2} [/tex] x tinggi benda<br>maka, tinggi cermin = [tex] \\frac{1}{2} [/tex] x 160<br>= 80 cm<br><br>karena jarak mata = [tex] \\frac{1}{2} [/tex] x 10<br>= 5 cm<br>maka, jarak minimum dari lantai = 160 - 5 --&gt; 155<br>155 - 80 = 75 cm dari lantai.. <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500",
+            "question": "seberkas cahaya jatuh tegak lurus pada kisi yang terdiri dari 5000 goresan tiap cm.sudut devasi orde kedua adalah 30\u22270. panjang gelombang cahaya yang digunakan adalah...(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Panjang gelombang cahaya yang digunakan adalah 5.000 angstrom atau 500 nm.</strong> Hasil perhitungan tersebut diperoleh ketika sebesar cahaya jatuh tegak lurus pada kisi yang terdiri dari 5.000 goresan tiap cm, dengan sudut deviasi orde kedua adalah 30\u00b0.</p><h3>Pembahasan</h3><p><strong>Kisi difraksi </strong>menghasilkan pola interferensi yang tajam berbentuk garis, sehingga dapat dimanfaatkan untuk mengukur panjang gelombang cahaya dengan teliti.</p><p>Kisi difraksi adalah peralatan yang mirip dengan celah ganda Young. Peralatan ini mengandung celah yang lebih banyak atau disebut kisi. Tetapan kisi N adalah tetapan yang menyatakan banyak garis (goresan) tiap satuan panjang, misalnya di soal ini yaitu 5.000 goresan/cm, berarti N = 5.000 goresan/cm. Lebar celah d adalah lebar satu garis atau satu goresan. Dengan demikian, lebar celah adalah kebalikan dari tetapan kisi.</p><p><em><u>Diketahui</u></em></p><p>Garis terang orde kedua atau n = 2</p><p>Sudut deviasi (penyimpangan) \u03b8 = 30\u00b0</p><p>Tetapan kisi N = 5.000 goresan/cm </p><p><em><u>Ditanya</u></em></p><p>Panjang gelombang \u03bb \u00a0</p><p><em><u>Penyelesaian</u></em></p><p>Rumus yang digunakan adalah</p><p>[tex]\\boxed{d~sin~\\theta = n~\\lambda} [/tex]</p><p>Keterangan</p><p>d = lebar celah atau lebar satu garis atau satu goresan, sehingga lebar celah adalah kebalikan dari tetapan kisi N, yaitu [tex]\\boxed{d = \\frac{1}{N} }[/tex], dengan N dalam satuan goresan/cm \u00a0untk soal ini</p><p>\u03b8 = sudut deviasi orde ke-n</p><p>n = orde garis terang (n = 0 \u2192 terang pusat, n = 1 \u2192 garis terang orde ke-2. dan seterusnya)</p><p>\u03bb = panjang gelombang cahaya</p><p><strong>Siapkan lebar celah (d) dalam satuan meter</strong></p><p>[tex]d=\\frac{1}{5.000/cm}[/tex]</p><p>[tex]d=\\frac{1}{\\frac{5.000}{0,01~m}}[/tex]</p><p>[tex]d=\\frac{0,01}{5.000}[/tex]</p><p>[tex]d=\\frac{1}{500.000}[/tex]</p><p>[tex]d=2\\times 10^{-6}~m[/tex]</p><p><strong>Hitung panjang gelombang (\u03bb) dalam meter</strong></p><p>[tex]\\boxed{~\\lambda=\\frac{d~sin~\\theta}{n}~}[/tex]</p><p>[tex]\\lambda=\\frac{2\\times 10^{-6}~sin~30^o}{2}[/tex]</p><p>[tex]\\lambda=1\\times 10^{-6}~0,5[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m[/tex]</p><p>Ingat konversi satuan, [tex]\\boxed{~1~\\AA=10^{-10}~m}[/tex] dan [tex]\\boxed{~1~nm=10^{-9}~m~}[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m=5.000 \\AA=500~nm[/tex]</p><p><strong>Diperoleh panjang gelombang sebesar </strong>[tex]\\boxed{~\\lambda=5.000 \\AA=500~nm~}[/tex]</p><h3>Pelajari lebih lanjut</h3><p>1. Pelajari kasus serupa brainly.co.id/tugas/4799492</p><p>2. Sebuah persoalan menentukan kisi difraksi https://brainly.co.id/tugas/5064394 </p><p>3. Menghitung besarnya panjang gelombang \u00a0brainly.co.id/tugas/11880424</p><p>------------------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0: </strong>XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 :</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : </strong> Gelombang Cahaya</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 : </strong>11.6.10</p><br><p><strong>Kata Kunci :</strong> percobaan, cahaya, jatuh tegak lurus, tetapan, kisi, difraksi, goresan, panjang gelombang, garis, terang, \u00a0orde, kedua, sudut, 30\u00b0, garis, normal, garis tiap cm</p>",
+                    "attachments": [
+                        "answer-attachments/seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-olehba-682",
+            "question": "Batang Panjangnya 1 m bergerak dengan kecepatan v, diamati olehBatang Panjangnya 1 m bergerak dengan kecepatan v, diamati oleh pengamat yang diam panjang batang menjadi 80 cm. Bila c = kecepatan cahaya, maka kecepatan batang itu adalah ....    a. 1/5 c\r\nb. 2/5 c\r\nc. 3/5 c\r\nd. 4/5 c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0[tex] L_{0} [/tex][tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex]<br>0,8 = 1\u00a0[tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex] ... (kali kuadrat)<br>0,64 = 1 ( 1-[tex] \\frac{ v^{2} }{ c^{2} } [/tex] )<br>0,64 = 1 -\u00a0[tex] \\frac{ v^{2} }{ c^{2} } [/tex]<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 1 - 0,64<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 0,36<br>v\u00b2 = 0,36 c\u00b2<br>v =\u00a0[tex] \\sqrt{0,36 .  c^{2} } [/tex]<br>v = 0,6 c atau\u00a0[tex] \\frac{3}{5} [/tex] c<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cos-120-derajat-berapa-ya-818",
+            "question": "Cos 120 derajat berapa ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Nilai dari cos 120\u2070 adalah - \u00b9/\u2082.</p><h3><strong>Pembahasan</strong></h3><p>Diminta untuk menentukan nilai dari <strong>cos 120\u00b0</strong>.</p><p>Mari kita pahami terlebih dahulu mengenai <strong>kuadran</strong>. Sistim koordinat dapat terbagi ke dalam empat wilayah kuadran.</p><ul><li><strong>Kuadran-1 berada dalam interval 0\u00b0 \u2264 x \u2264 90\u00b0</strong></li><li><strong>Kuadran-2 berada dalam interval 90\u00b0 \u2264 x \u2264 180\u00b0</strong></li><li><strong>Kuadran-3 berada dalam interval 180\u00b0 \u2264 x \u2264 270\u00b0</strong></li><li><strong>Kuadran-4 berada dalam interval 270\u00b0 \u2264 x \u2264 360\u00b0</strong></li></ul><p>Perhatikan nilai-nilai dari sinus, cosinus, dan tangen pada setiap kuadran berikut ini.</p><ul><li><strong>Kuadran-1, semua nilai-nilai dari sin, cos, dan tan adalah positif</strong></li><li><strong>Kuadran-2, hanya nilai sin yang positif</strong></li><li><strong>Kuadran-3, hanya nilai tan yang positif</strong></li><li><strong>Kuadran-4, hanya nilai cos yang positif</strong></li></ul><p><u>Catatan:</u> fungsi tangen dapat ditulis sebagai tan atau tg.</p><p>Garis sumbu yang memisahkan antarkuadran dapat kita sebut sebagai pembatas kuadran.</p><ul><li><strong>Pembatas kuadran mendatar adalah 180\u00b0 dan 360\u00b0</strong></li><li><strong>Pembatas kuadran tegak adalah 90\u00b0 dan 270\u00b0</strong></li></ul><p>Ingatlah hal penting berikut ini yang terkait dengan relasi sudut:</p><p><strong>A. pembatas kuadran mendatar tidak mengubah fungsi</strong></p><ul><li>sin (180\u00b0 - \u03b1) = sin \u03b1</li><li>cos (180\u00b0 - \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 - \u03b1) = - tan \u03b1</li><li>sin (180\u00b0 + \u03b1) = - sin \u03b1</li><li>cos (180\u00b0 + \u03b1) = - cos \u03b1</li><li>tan (180\u00b0 + \u03b1) = tan \u03b1</li><li>sin (360\u00b0 - \u03b1) = sin \u03b1</li><li>cos (360\u00b0 - \u03b1) = cos \u03b1</li><li>tan (360\u00b0 - \u03b1) = - tan \u03b1</li></ul><p><strong>B. pembatas kuadran tegak akan mengubah fungsi</strong></p><ul><li>sin (90\u00b0 - \u03b1) = cos \u03b1</li><li>cos (90\u00b0 - \u03b1) = sin \u03b1</li><li>tan (90\u00b0 - \u03b1) = cot \u03b1</li><li>sin (90\u00b0 + \u03b1) = cos \u03b1</li><li>cos (90\u00b0 + \u03b1) = - sin \u03b1</li><li>tan (90\u00b0 + \u03b1) = - cot \u03b1</li><li>sin (270\u00b0 - \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 - \u03b1) = - sin \u03b1</li><li>tan (270\u00b0 - \u03b1) = cot \u03b1</li><li>sin (270\u00b0 + \u03b1) = - cos \u03b1</li><li>cos (270\u00b0 + \u03b1) = sin \u03b1</li><li>tan (270\u00b0 + \u03b1) = - cot \u03b1</li></ul><p>Kembali kepada soal yang ditanyakan, yakni diminta untuk menentukan nilai dari cos 120\u00b0. Sudut 120\u00b0 ini tentu berada di kuadran 2 sehingga nilai dari cosinusnya adalah negatif. Kita kerjakan dengan dua cara.</p><p><strong>CARA PERTAMA</strong></p><p><strong>Gunakan cos (180\u00b0 - \u03b1) = - cos \u03b1</strong></p><p>cos 120\u00b0 = cos (180\u00b0 - 60\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - cos 60\u00b0 (ingat, nilai dari cos 60\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>CARA KEDUA</strong></p><p><strong>Gunakan cos (90\u00b0 + \u03b1) = - sin \u03b1</strong></p><p>cos 120\u00b0 = cos (90\u00b0 + 30\u00b0)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = - sin 30\u00b0 (ingat, nilai dari sin 30\u00b0 = 0,5)</p><p>\u2234 [tex] \\boxed{cos \\ 120^o = -\\frac{1}{2}}  [/tex]</p><p><strong>Kesimpulan</strong></p><p>Untuk dapat menjawab pertanyaan tentang penentuan nilai-nilai fungsi trigonometri, kita harus pahami terlebih dahulu mengenai:</p><p>a. kuadran dan pembatas-pembatas kuadran,</p><p>b. posisi sudut pada suatu kuadran, dan</p><p>c. relasi sudut.</p><h3>--------------------------</h3><p>Pelajari persoalan trigonometri lainnya di sini</p><ol><li>https://brainly.co.id/tugas/15359538</li><li>brainly.co.id/tugas/34048</li><li>brainly.co.id/tugas/8232394</li></ol><h3>______________</h3><h3>Detil Jawaban</h3><p><strong>Kelas:</strong> X</p><p><strong>Mapel: </strong>Matematika</p><p><strong>Kategori: </strong>Trigonometri</p><p><strong>Kata Kunci: nilai, cosinus, sinus, tangen, kuadran, pembatas, sistim, koordinat, relasi, sudut</strong></p><p></p><p><strong>Kode: </strong>10.2.6 </p>",
+                    "attachments": [
+                        "answer-attachments/cos-120-derajat-berapa-ya-818-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bandul-yabg-di-ikat-seutas-tali-1-m-di-putar-secara-horizo-570",
+            "question": "sebuah bandul yabg di ikat seutas tali 1 m di putar secara horizontal dan memiliki kecepatan sudut putaran bandul 20 rad/s . kecepatan sudut ketika tali diperpendek menjadi 0,5 meter yaitu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Dik :<br></span>R\u2081 = 1 m<br>w\u2081 = 20 rad/s<br>R\u2082 = 0,5<br>Dit :\u00a0w\u2082<br><span>Penyelesaian :\u00a0<br>L</span>\u2081\u00a0<span>=\u00a0L</span>\u2082<br>Iw\u2081=Iw\u2082<br>mR\u2081\u00b2\u00a0\u00b7\u00a0w\u2081=mR\u2082\u00b2\u00a0\u00b7\u00a0W\u2082<br><br>[tex] W_{2}= \\frac{W_{1}.R_{1}^{2}}{R_{2}^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20.1^{2}}{(0,5)^{2}}  [/tex]<br><br>[tex] W_{2}= \\frac{20}{0,25}  [/tex]<br><br>[tex] W_{2}= 80  [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "es-bermassa-m-gram-bersuhu-0c-dimasukkan-ke-dlm-air-massa-340-g-183",
+            "question": "Es bermassa M gram bersuhu 0\u00b0C dimasukkan ke dlm air massa 340 gram suhu 20\u00b0C yang ditempatkan pada bejana khusus. anggap bejana tdk menyerap/melepaskan kalor.    jika L es = 80 kal g\u207b\u00b9 , C air = 1 kal \u00b0C\u207b\u00b9 , semua es mencair dan kesetimbangan termal dicapai pada suhu 5\u00b0C, maka massa es (M) adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:<br>T es =\u00a0<span>0\u00b0C\u00a0<br>m air = 340 gr<br>T air = 2</span><span>0\u00b0C\u00a0<br>L es = 80 kal g^-1<br>c air = 1 kal^-1\u00a0</span><span>\u00b0C^-1<br>T = 5</span><span>\u00b0C\u00a0</span><span><br><br>m es . . .?<br><br>Jawab:<br>m air . C air . (T air - T) = m es . L es + m es . C air (T - T es)<br>340 . 1 . (20 - 5) = m es . 80 + m es (5 - 0)<br>340 . 15 = 80 m es + 5 m es<br>5100 = 85 m es<br>m es = 5100/85<br>\u00a0 \u00a0 \u00a0 \u00a0 = 60 gr</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-atmosfir-kira-kira-100-kpa-berapa-besar-gaya-yang-dikerj-331",
+            "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-perenang-ingin-menyeberangi-sungai-yang-sangat-lebar-ia-224",
+            "question": "Seorang perenang ingin menyeberangi sungai yang sangat lebar. Ia berenang dengan kecepatan20 km/jam ke arah selatan. Jika arus sungai memiliki kecepatan 10 km/jam ke barat. Hitunglah\u00a0resultan kecepatan perenang tersebut dan ke mana arahnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 km/jam - 10 km/jam = 10 km/jam ke arah selatan <br>karena kecepatan yg paling besar ke arah selatan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-dimaksud-suhu-nol-mutlak-adalah-931",
+            "question": "Yang dimaksud suhu nol mutlak adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Suhu Nol Mutlak adalah Suhu 0 Kelvin pada suhu ini partikel Tidak bisa bergerak</strong><br><br><strong>\"Semoga Berguna\"</strong><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Suhu nol mutlak adalah suhu yang ditetapkan secara internasional pada tingkat 0 Kelvin dimana praktis partikel tidak bisa bergerak",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

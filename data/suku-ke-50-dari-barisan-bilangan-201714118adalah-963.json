@@ -1,0 +1,140 @@
+{
+    "question": "Suku ke-50 dari barisan bilangan 20,17,14,11,8.....adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Barisan Aritmatika</strong> adalah \u00a0suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : Un = a + (n - 1)b</p><p><strong>Deret Aritmatika</strong> adalah jumlah suku \u2013 suku barisan aritmatika</p><p>Rumus : Sn = \u00b9/\u2082 n (a + Un)</p><h3>Pembahasan</h3><p>Penjelasan dengan langkah-langkah:</p><p><em><strong>Diketahui:</strong></em></p><p>a = 20</p><p>b = -3</p><p><em><strong>Ditanya:</strong></em></p><p>U\u2085\u2080 = ... ?</p><p><em><strong>Jawab:</strong></em></p><p>Gunakan rumus \u2193</p><p>Un = a + (n - 1)b</p><p>U\u2085\u2080 = 20 + (50 - 1)(-3)</p><p> \u00a0 \u00a0 \u00a0= 20 + (49)(-3)</p><p> \u00a0 \u00a0 \u00a0= 20 - 147</p><p> \u00a0 \u00a0 \u00a0= -127</p><p><u><em><strong>suku ke-50 dari barisan bilangan 20, 17, 14, 11, 8 ..... adalah -127</strong></em></u></p><h3>Pelajari lebih lanjut</h3><p>Bab barisan dan deret aritmatika dapat disimak pula di</p><ul><li>https://brainly.co.id/tugas/13398117</li><li>brainly.co.id/tugas/13759951</li><li>brainly.co.id/tugas/4240841</li><li>brainly.co.id/tugas/1509694</li><li>brainly.co.id/tugas/12054249</li></ul><h3>===========================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><br><p><strong>Kata kunci </strong>: barisan aritmatika, deret aritmatika, suku pertama, beda, suku ke-n, jumlah n suku pertama</p><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "panjang-jari-jari-dua-lingkaran-masing-masing-adalah-12cm-dan-5cm-498",
+            "question": "Panjang jari jari dua lingkaran masing masing adalah 12cm dan 5cm. jarak kedua titik pusatnya adalah 25cm. hitunglah    a. panjang garis singgung persekutuan dalam\r\nb. panjang garis singgung persekuuan luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "R = 12 cm<br>r = 5 cm<br>p = 25 cm<br><br>a. <br>d\u00b2 = p\u00b2 - (R - r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 - 5)\u00b2<br>d\u00b2 = 625 - 49<br>d\u00b2 = 576<br>d = \u221a576<br>d = 24 cm<br><br>b. <br>d\u00b2 = p\u00b2 - (R + r)\u00b2<br>d\u00b2 = 25\u00b2 - (12 + 5)\u00b2<br>d\u00b2 = 625 - 289<br>d\u00b2 = 336<br>d = \u221a336<br>d = 18,33 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-berjalan-di-jalan-raya-jika-roda-mobil-tersebut-ber-515",
+            "question": "Sebuah mobil berjalan di jalan raya, jika roda mobil tersebut berjari-jari 35 cm dan roda tersebut berputar 2000 kali, maka jarak yang ditempuh adalah?    a. 4,4 km\r\n b. 6,6 km\r\n c. 8,8 km\r\n d. 13,2 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hitung keliling rodanya dulu..<br>[tex]K = 2 \\pi r[/tex]<br>[tex]K = 2. \\frac{22}{7} . 35 [/tex]<br>[tex]K = 220[/tex]<br><br>K x\u00a0n<br>220 x 2000<br>440000cm<br>4,4km\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "kll lingkaran = 2 \u00d7 \u03c0 \u00d7 r = 2 \u00d7 22/7 \u00d7 35 = 220cm\u00b2<br>jarak tempuh = kll lingkaran \u00d7 banyak putaran = 220 \u00d7 2000 = 440.000cm = 4,4 KM jawabannya adalah A<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-kelas-terdapat-48-siswa-mereka-memilih-dua-jenis-ol-740",
+            "question": "Dalam suatu kelas\u00a0terdapat 48 siswa. mereka memilih dua jenis olah raga yang mereka gemari . ternyata 29 siswa gemar bermain\u00a0basket, 27 siswa gemar bermain voli, dan 6 siswa tidak menggemari kedua olahraga tersebut. buatlah gambar diagram venn dari keterangan tersebut !!\u00a0    (yang bisa buat gambarnya yang benar dapat poin lebih banyak :)) )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dalam suatu kelas terdapat 48 siswa, mereka memilih dua jenis olah raga yang mereka gemari</strong>. Ternyata 29 siswa gemar bermain basket, 27 siswa gemar bermain voli, dan 6 siswa tidak menggemari kedua olahraga tersebut. Buatlah gambar diagram venn dari keterangan tersebut. Untuk menggambar diagram vennya kita harus mencari jumlah siswa yang menyukai kedua olahraga tersebut. Hal tersebut dapat diperoleh dengan menggunakan rumus gabungan dua buah himpunan atau bisa juga menggunakan diagram Venn.\n</p><p>Rumus gabungan dua buah himpunan:\n</p><ul><li>n(A U B) = n(A) + n(B) \u2013 n(A \u2229 B) \u00a0</li><li>n(S) = n(A U B) + n(A U B)\u2019\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><ul><li>Ada 48 siswa \u21d2 n(S) = 48\n</li><li>29 siswa gemar bermain basket \u21d2 n(A) = 29\n</li><li>27 siswa gemar bermain voli \u21d2 n(B) = 27\n</li><li>6 siswa tidak menggemari kedua olahraga tersebut \u21d2 n(A U B)\u2019 = 6\n</li></ul><p></p><p><strong>Ditanyakan\n</strong></p><p>Buat diagram Venn!\n</p><p></p><p><strong>Jawab\n</strong></p><p>Dengan menggunakan rumus gabungan dua himpunan, maka diperoleh <strong>banyak siswa yang gemar kedua olahraga tersebut</strong> yaitu:\n</p><p>n(S) = n(A U B) + n(A U B)\u2019\n</p><p>n(S) = n(A) + n(B) \u2013 n(A \u2229 B) + n(A U B)\u2019\n</p><p>48 = 29 + 27 \u2013 n(A \u2229 B) + 6\n</p><p>48 = 62 \u2013 n(A \u2229 B)\n</p><p>n(A \u2229 B) = 62 \u2013 48\n</p><p>n(A \u2229 B) = 14\n</p><p></p><p><strong>Banyak siswa yang </strong><u><strong>hanya</strong></u><strong> gemar bermain basket\n</strong></p><p>= n(A) \u2013 n(A \u2229 B)\n</p><p>= 29 \u2013 14\n</p><p>= 15\n</p><p></p><p><strong>Banyak siswa yang </strong><u><strong>hanya</strong></u><strong> gemar bermain Voli\n</strong></p><p>= n(B) \u2013 n(A \u2229 B)\n</p><p>= 27 \u2013 14\n</p><p>= 13\n</p><p></p><p>Setelah dapat data-data tersebut, maka kita bisa membuat diagram venn nya yaitu dapat dilihat dilampiran\n</p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang himpunan\n</p><ul><li>Banyak pembaca menyukai majalah politik: brainly.co.id/tugas/15514952\n</li><li>Banyak balita yang belum diimunisasi: brainly.co.id/tugas/15476069\n</li><li>Banyak siswa yang menyukai IPA dan IPS: brainly.co.id/tugas/20671007\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori</strong> : Himpunan\n</p><p><strong>Kode</strong> : 7.2.1\n</p><p></p><p><strong>Kata Kunci</strong> : memilih dua jenis olah raga yang mereka gemari, basket, voli\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/dalam-suatu-kelas-terdapat-48-siswa-mereka-memilih-dua-jenis-ol-740-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bu-indah-membeli-2-lusin-gelas-seharga-192000gelas-tsb-akan-dij-245",
+            "question": "Bu indah membeli 2 lusin gelas seharga 192.000,gelas tsb akan dijual lagi dengan harga Rp.9500/biji.    a. tentukan besar keuntungan /kerugian bu indah \r\nb. agar diperoleh keuntungan 25%,berapa harga jual gelas perbiji?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Rp.9500 x 24 = Rp.228.000<br>keuntungan = Rp.228.000 - Rp.192.000 = Rp. 36.000<br><br>b. 25% x Rp.192.000 = Rp.48.000<br>harga jual dua lusin = Rp.192.000 + Rp.48.000 = Rp.240.000<br>jadi harus dijual dengan = Rp.240.000 : 24 = Rp.10.000 per buah.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>2 lusin = 2 x 12 = 24 gelas<br><br>harga jual = 24 x 9.500 = 228.000<br><br>keuntungan = harga jual - harga beli = 228.000 - 192.000 = 36.000<br><br>b.<br>harga beli 1 gelas = 192.000 : 24 = 8000<br>harga jual 1 gelas untuk 25% =\u00a0[tex] \\frac{125}{100}\\times 8000=10000 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-lingkaran-yang-kelilingnya-314-cm-adalahcm2-343",
+            "question": "Luas lingkaran yang kelilingnya 314 cm adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "314/3,14=100/2=50\n50pangkat 2 kali 3,14=25\u00d7314=7850",
+                    "attachments": []
+                },
+                {
+                    "answer": "cari nilai jari-jari dulu :<br>k. lingkaran = 2[tex] \\pi [/tex]r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 2 x 3,14 x r<br>\u00a0 \u00a0 \u00a0 \u00a0314 \u00a0 \u00a0 \u00a0= 6,28r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r \u00a0= 314/6,28 = 50 cm<br><br>luas lingkaran =\u00a0[tex] \\pi [/tex][tex] r^{2} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x\u00a0[tex] 50^{2} [/tex] <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 2500 = 7850 [tex] cm^{2} [/tex]\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-aob-30-sudut-boc-90-245",
+            "question": "Pada gambar lingkaran, besar sudut AOB = 30\u00b0, sudut BOC = 90\u00b0, dan luas juring OAB = 60 cm\u00b2. Hitunglah luas juring OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut AOB</u> = <u>LJuring OAB</u><br>sudut BOC\u00a0 \u00a0 LJuring OBC<br><br><u>30</u> =<u> 60</u><br>90\u00a0 \u00a0 x<br>30x = 60 \u00d7 90<br>x = 180 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tempat-mainan-berbentuk-balok-dibuat-dari-tripleks-untuk-425",
+            "question": "sebuah tempat mainan berbentuk balok dibuat dari tripleks. untuk membuatnya diperlukan tripleks 8,64 m\u00b2. jika tinggi tempat mainan 2m dan lebarnya 0,6 m maka panjangnya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas permukaan balok = (panjang x lebar) + (Panjang x tinggi) + (tinggi x lebar)<br>\u00a08,64 = (p x l) + (p x t) + (2 x 0,6)<br>\u00a08,64 = 1,2 + p ( t x l)<br>8,64 - 1,2 = p(2 x 0,6)<br>7,44 = 1,2p<br>panjang = 7,44/1,2 = 6,2 m",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permukaan balok = \n&lt;=&gt; ((pxl) + (pxt) + (lxt)) x2\n&lt;=&gt; ((p(l+t) + (lxt))x2\n&lt;=&gt; ((p(0,6+2) + (0,6x2))x2=8,64\n&lt;=&gt; 2,6p +1,2=4,32   &lt;=&gt; 2,6p = 4,32 - 1,2\n&lt;=&gt; 2,6p=3,12  &lt;=&gt; p= 3,12/2,6\np=1,2\n\njd panjang balo adalah 1,2 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-981",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x = 1/2 akar3<br>2 sinx cosx = 1/2 akar 3<br>sinx cos x = 1/4 akar 3<br><br>Coba 30\u00a0<br><br>sin 30 cos 30 = \u00a0setengah * setengah akar 3 \u00a0(Ya)<br>sin 60 cos 60 \u00a0= setengah akar 3 * setengah (Ya)<br>sin 210 cos 210 = Ya<br><br><br>Jadi x = {30, 60, 210 }<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-yg-berputar-sebanyak-25-kali-dapat-menempuh-jarak-22-131",
+            "question": "sebuah roda yg berputar sebanyak 25 kali dapat menempuh jarak 22 m. jika \u03c0= 22/7, maka luas permukaan roda itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2200cm/25 (mau nyari 1puteran[1keliling])<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 88<br>keliling= d x\u00a0\u03c0<br>88 = d x 22/7<br>28 = d<br>jadi r nya itu 14<br>--<br>L =\u00a0\u03c0 x r\u00b2<br>L = 22/7 x 14 x 14<br>L = 616 cm\u00b2<br>aku harap ini membantu^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-di-depan-sudut-60derajat-adalah-20cm-kel-932",
+            "question": "Panjang busur lingkaran di depan sudut 60derajat adalah 20cm. keliling lingkaran itu adalah....cm    jika luas lingkaran 616 cm2 sedang luas juring AOB adalah 462 cm2, maka besar sudut pusat AOB adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 60 derajat/360 derajat = 20 cm; keliling= 6 x 20 cm = 120 cm<br>2) sudut AOB = 616/462 = 1/3 = 360/3 = 120 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

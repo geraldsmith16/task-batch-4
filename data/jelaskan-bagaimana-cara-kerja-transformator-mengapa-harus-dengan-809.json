@@ -1,0 +1,134 @@
+{
+    "question": "Jelaskan bagaimana cara kerja Transformator! Mengapa harus dengan\u00a0 teganggan arus bolak-balik? dapatkah menggunakan tegangan searah? mengapa demikian? tolong dijawab ya guys... Thanks :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "transformator step up dan step down harus dialiri arus ac karnajika ia menggunakan arus dc adanya kesulitan dalam pembuatan generator trafo dcnya sebenarnya bisa trafo menggunakan dc tetapi harus mengunakan cincin belah.<br><br>nih cara kerjanya cuy<br>transformator bekerja berdasarkan prinsip\u00a0induksi\u00a0elektromagneti<u>k</u><span>. Tegangan masukan bolak-balik yang membentangi primer menimbulkan\u00a0</span>fluks magnet<span>\u00a0yang idealnya semua bersambung dengan lilitan sekunder.\u00a0</span>Fluks<span>\u00a0bolak-balik ini menginduksikan\u00a0</span>GGL<span>\u00a0dalam lilitan sekunder. Jika efisiensi sempurna, semua daya pada lilitan primer akan dilimpahkan ke lilitan sekunder.</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrik-407",
+            "question": "1. Jelaskan prinsip kerja bimetal sebagai sensor suhu pada setrika listrik ?\u00a0    2. jelaskan dengan pakai cara :\r\n\u00a0 \u00a0 a. 77\u00b0F= ...\u00a0\u00b0C= ....\u00a0\u00b0R= .... K\r\n\u00a0 \u00a0 b. 333K= ...\u00a0\u00b0C= ....\u00b0R= ....\u00b0F",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Kalor merupakan energi panas yang dapat ditranfer melalui konduksi, konveksi dan radiasi. </strong>Pada materi ini ada beberapa poin yang perlu dipelajari diantaranya Asas Black, Pemuaian dan Laju Kalor \u00a0\n</p><p>Asas black berbunyi \u201cJumlah kalor yang dilepas oleh materi yang bersuhu lebih tinggi akan sama dengan jumlah kalor yang diterima oleh materi yang suhunya lebih rendah\u201d atau dapat disederhanakan bahwa kalor serap akan sama dengan kalor lepas suatu campuran. Asas ini memenuhi persamaan \u00a0\n</p><p>[tex]Q_{lepas} = Q_{terima}\\\\(mc\\Delta T)_{lepas} = (mc\\Delta T)_{terima}[/tex]\n</p><p>Pemuaian merupakan pertambahan dimensi panjang, luas maupun volume akibat adanya perubahan suhu. Setiap benda memiliki konstanta pemuaian yang berbeda sehingga pada benda yang berbeda meskipun perubahan suhunya sama akan mengalami perubahan dimensi yang berbeda beda\n</p><p>Sedangkan Laju kalor ada yang bersifat konduksi pada zat padat, konveksi pada zat cair atau gas dan radiasi tanpa perantara. Laju aliran kalor pada suatu benda juga akan berbeda beda, selain ditentukan dari perbedaan suhu juga ditentukan oleh karakteristik suatu bahan yang disebut koefisien konduksi, koefisien konveksi dan emisivitas pada radiasi\n</p><p>\n</p><h3>Pembahasan \u00a0</h3><p>1. Perhatikan gambar skema bimetal, bimetal terdiri dari dua logam p dan q dengan koefisien muai q lebih besar, sehingga ketika mencapai panas tertentu bimetal akan melengkung ke atas, sehingga setrika mati karena saklar terputus</p><p>2. Konversi suhu</p><p>[tex]a. 77 F=(77-32)*5/9 = 25 C\\\\\n</p><p>77 F= (77-32)*4/9 =20 R\\\\\n</p><p>77F=(77-32)*5/9+273=298 K\\\\\n</p><p>b. 333K=333-273=60 C\\\\\n</p><p>333 K=(333-273)*4/5=48 R\\\\\n</p><p>333 K=(333-273)*9/5 +32=140 F [/tex]</p><h3>Pelajari lebih lanjut \u00a0</h3><p>1.Materi tentang Pemuaian https://brainly.co.id/tugas/20730381\n</p><p>2.Materi tentang Laju kalor https://brainly.co.id/tugas/13315146\n</p><p>3.Materi tentang pemuaian https://brainly.co.id/tugas/19908574\n</p><p>\n</p><h3>Detail jawaban \u00a0</h3><p><strong>Kelas</strong>: 11\n</p><p><strong>Mapel</strong>: Fisika\n</p><p><strong>Bab</strong>: Bab 5 - Suhu dan Kalor\n</p><p><strong>Kode</strong>: 11.6.5\n</p><p>\n</p><p>Kata Kunci: Kalor, asas black, laju kalor\n</p><p>\n</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/1-jelaskan-prinsip-kerja-bimetal-sebagai-sensor-suhu-pada-setrik-407-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "batang-besi-akan-dibuat-menjadi-magnet-dengan-cara-digambar-kutu-749",
+            "question": "Batang besi akan dibuat menjadi magnet dengan cara digambar, kutub-kutub magnet yang terjadi dan sifat kemagnetan yang terbentuk pada batang    besi adalah...",
+            "attachments": [
+                "question-attachments/batang-besi-akan-dibuat-menjadi-magnet-dengan-cara-digambar-kutu-749-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawaban:</strong></p><p></p><p>Pada Gambar tersebut, bagian <strong>A akan menjadi kutub selatan dan B menjadi \u00a0kutub Utara.</strong></p><p></p><p><strong>Penjelasan:</strong></p><p></p><h3>Pembuatan magnet dengan Menggosok</h3><p></p><p>Gambar menunjukkan pembuatan magnet dengan cara menggosok, Bahan Magnet pada gambar adalah besi dengan bagian A dan B, dengan arah gosokkan dimulai dari A menuju ke B, dengan arah yang searah. Bagian magnet yang bersentuhan dengan besi adakah kutub selatan. Sehingga pada bagian yang tersentuh magnet terakhir, yaitu bagian B akan menjadi kutub yang berlawanan dengan bagian magnet yaitu menjadi kutub Utara.</p><p>Dan sifat kemagnetan dari besi yaitu bersifat sementara.</p><p></p><p>Pelajari Materi Lebih Lanjut Pada : \u00a0</p><ul><li>Materi Tentang Pembuatan Magnet dengan Cara Elektromagnetik : <strong>https://brainly.co.id/tugas/22821424</strong> \u00a0</li></ul><p> \u00a0</p><h3>#BelajarBersamaBrainly \u00a0</h3><p> </p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-besarnya-momentum-sebuah-benda-yang-bermassa-1-ton-yang-768",
+            "question": "Hitung besarnya momentum \u00a0sebuah benda yang bermassa 1 ton yang bergerak ke kanan dengan kelajuan 10 m/s (arah kanan sebagai acuan positif)!    tolong ya teman beserta jalannya..!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01 ton = 1000 kg<br>\u00a0 \u00a0 \u00a0\u00a0v = 10 m/s<br>Dit p ?<br>jawab\u00a0<br><br>p = m.v<br>\u00a0 \u00a0= 1000 . 10<br>\u00a0 \u00a0= 10 000 kg\u00a0m/s ke kanan<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-syarat-syarat-agar-kita-bisa-mendengar-bunyi-101",
+            "question": "Apa saja syarat syarat agar kita bisa mendengar bunyi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Syarat - syarat agar bisa mendengar bunyi :<br><br>&gt;&gt; </strong>Ada Sumber bunyi<br><strong>&gt;&gt;</strong> Ada zat medium/perantara<br><strong>&gt;&gt;</strong> Ada alat pendengar/penerima bunyi <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.memerlukan sumber bunyi<br>2.memerlukan medium<br>3.telinga normal<br>5.memiliki frekuensi antara 20-2000 hz",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1hitunglah-kalor-yang-dibutuhkan-untuk-mengubah-1-kg-es-batu-10-369",
+            "question": "1.Hitunglah kalor yang dibutuhkan untuk mengubah 1 Kg es batu -10\u00b0C menjadi air bersuhu 10\u00b0C?    C es= 2,1 kJ/kg\u00b0C\r\nC air= 4,2 kJ/kg\u00b0C\r\nL es= 336\u00a0kJ/kg\r\n\r\n2.Air Garam pada suhu 20\u00b0C,Dicampur dngan 10 Gram\u00a0air pada suhu 40\u00b0C.Berapa suhu campuran tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui\u00a0<br><br>M = 1 kg\u00a0</span><br><span>C = Kalor Jenis ( J/KgC )\u00a0<br></span>C<u></u><span>\u00a0es= 2,1 kJ/kg\u00b0C</span><br>C air= 4,2 kJ/kg\u00b0C<br><span>L es= 336 kJ/kg<br></span>Kalor jenis adalah banyaknya kalor yang dibutuhkan untuk menaikkan suhu 1 kg zat sebesar 1 derajat celcius. Alat yang digunakan untuk menentukan besar kalor jenis adalah kalorimeter.\u00a0<br><span>\u0394 T = Perubahan Suhu ( C )\u00a0</span><br><br><span>Q = M. L ( digunakan untuk menghitung energi kalor pada fase perubahan wujud )\u00a0</span><br><span>M = Massa ( Kg )\u00a0</span><br><span>L = Kalor Laten ( J/Kg )\u00a0</span><br><span>Kalor Laten adalah kalor yang digunakan untuk mengubah wujud suatu zat. Kalor laten ada dua macam Q = m.U dan Q = m.L. Dengan U adalah kalor uap (J/kg) dan L adalah kalor lebur (J/kg)\u00a0</span><br><br><span>Diketahui :\u00a0</span><br><br><span>1. Fase perubahan suhu es dari -10\u00b0C menjadi es bersuhu 0\u00b0C.\u00a0</span><br><span>2. Fase perubahan wujud es menjadi air pada suhu 0\u00b0C.\u00a0</span><br><span>3. Fase perubahan suhu air dari 0\u00b0C. menjadi es bersuhu 10\u00b0C.\u00a0</span><br><br><span>Cara menghitung setiap fase.\u00a0</span><br><br><span>Fase 1 :\u00a0</span><br><span>Q1 = M. C. \u0394 T\u00a0</span><br><span>Q1 = 1 x 2.10 x 10\u00a0</span><br><span>Q1 = 21 kJ</span><br><br><span>Fase 2 :\u00a0</span><br><span>Q2 = M. L\u00a0</span><br><span>Q2 = 1 x 3.36\u00a0</span><br><span>Q2 = \u00a03.36\u00a0kJoule\u00a0</span><br><br><span>Fase 3 :\u00a0</span><br><span>Q3 = 1. C. \u0394 T\u00a0</span><br><span>Q3 = 1 x 4.2x 10\u00a0</span><br><span>Q3 = \u00a042\u00a0kJoule\u00a0</span><br><br><span>Penjumlahan dari ketiga fase tersebut menghasilkan nilai akhir sbb :\u00a0</span><br><br><span>Q_total = Q1 + Q2 + Q3 = 21+3.36+42 =\u00a066.36 kJ</span><br><br>2. Rumusnya adalah MateMale / Mame\u00a0<br>\u00a0 \u00a0 air garam aku anggap massanya juga 0.1 kg\u00a0ya\u00a0<br>\u00a0 \u00a0\u00a0[tex] \\frac{M_1 \\triangle{T}-M_2 \\triangle{T}}{M_1+M_2} [/tex]<br><br>\u00a0 \u00a0\u00a0[tex] \\frac{0.1 (40)-0.1(20)}{0.1+0.1} = \\frac{2}{0.2}=10[/tex]<br><br>\u00a0 \u00a0 suhu menjadi 10 derajat celcius\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-pada-trafo-tidak-terdapat-keuntungan-energi-729",
+            "question": "Mengapa pada trafo tidak terdapat keuntungan energi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena trafo berfungsi untuk membagi dan memperkecil energi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "balok-besi-yang-massanya-3kg-dipanaskan-dari-30c-hingga-180c-230",
+            "question": "Balok besi yang massanya 3kg dipanaskan dari 30\u00b0C hingga 180\u00b0C.jika kalor yang diperlukan untuk memanaskan balok besi tersebut 202.500 joule, maka kalor jenis besi tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : m = 3kg , Q = 2022.500 J, dan delta T = 180-30 = 150 drajat<br>dit : berapa kalor jenisnya?<br>jawab :\u00a0<br>c =\u00a0[tex] \\frac{Q}{m.deltaT} [/tex]<br>c =\u00a0[tex] \\frac{202.500}{3x150} [/tex]<br>c = 202.500/450\u00a0<br>c =450 J/kgdrajatC",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-benda-mempunyai-suhu-sebesar-50-derajat-celciusjika-diu-413",
+            "question": "1.sebuah benda mempunyai suhu sebesar 50 derajat celcius.jika diukur dengan termometer fahrenheit,hitunglah besar suhu benda tersebut!!!!    2.jika termometer kelvin menunjukan suhu 343 k,berapa suhu yang di tunjukan oleh termometer celcius?\r\n\r\n3.jika diukur dengan termometer celsius,sebuah bena suhunya 75 derajat celsius.berapa suhu benda tersebut jika diukur dengan termometer fahrenhiet?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. Besar suhu benda tersebut dalam fahrenheit adalah <strong>122 \u00b0F</strong></p><p>2. Suhu yang ditunjukkan oleh termometer celcius adalah <strong>70 \u00b0C</strong></p><p>3. Suhu benda tersebut jika diukur dengan termometer fahrenheit adalah <strong>167 \u00b0F</strong></p><p>Untuk mendapatkan hasil tersebut, simak dalam pembahasan berikut</p><p></p><h3>Pembahasan</h3><p>Kita mengenal ada 4 jenis skala suhu, yaitu skala celcius, skala reamur, skala fahrenheit, dan skala kelvin. Rumus konversi perbandingan suhu antar skala tersebut adalah</p><p>Celcius \u21d2 Reamur</p><p>4/5 x C</p><p>Celcius \u21d2 Fahrenheit</p><p>9/5 x C + 32\u00b0</p><p>Celcius \u21d2 Kelvin</p><p>C + 273</p><p>Reamur \u21d2 Celcius</p><p>5/4 x R</p><p>Reamur \u21d2 Fahrenheit</p><p>9/4 x R + 32\u00b0</p><p>Reamur \u21d2 Kelvin</p><p>5/4 x R + 273</p><p>Fahrenheit \u21d2 Celcius</p><p>5/9 x (F - 32\u00b0)</p><p>Fahrenheit \u21d2 Reamur</p><p>4/9 x (F - 32\u00b0)</p><p>Fahrenheit \u21d2 Kelvin</p><p>5/9 x (F - 32\u00b0) + 273</p><p>Kelvin \u21d2 Celcius</p><p>K - 273</p><p>Kelvin \u21d2 Reamur</p><p>4/5 x (K - 273)</p><p>Kelvin \u21d2 Fahrenheit</p><p>9/5 x (K - 273) + 32\u00b0</p><p></p><p><u>Penyelesaian</u></p><p>Berdasarkan penjelasan di atas, maka</p><p><strong>No. 1</strong></p><p>Diketahui :</p><p>Suhu benda = 50 \u00b0C</p><p></p><p>Ditanya :</p><p>Besar suhu dalam Fahrenheit?</p><p></p><p>Jawab :</p><p>Suhu = 9/5 x 50 \u00b0C + 32\u00b0</p><p>Suhu = 90\u00b0 + 32\u00b0 = 122 \u00b0F</p><p></p><p><strong>No. 2</strong></p><p>Diketahui :</p><p>Suhu = 343 K</p><p></p><p>Ditanya :</p><p>Besar suhu dalam Celcius?</p><p></p><p>Jawab :</p><p>Suhu = 343 - 273</p><p>Suhu = 70 \u00b0C</p><p></p><p><strong>No. 3</strong></p><p>Diketahui :</p><p>Suhu benda = 75 \u00b0C</p><p></p><p>Ditanya :</p><p>Besar suhu dalam Fahrenheit?</p><p></p><p>Jawab :</p><p>Suhu = 9/5 x 75 \u00b0C + 32\u00b0</p><p>Suhu = 135\u00b0 + 32\u00b0 = 167 \u00b0F</p><p></p><h3>Pelajari lebih lanjut </h3><ol><li>Menghitung dalam reamur, fahrenheit, dan kelvin suhu 75 \u00b0C - https://brainly.co.id/tugas/22210105</li><li>Menghitung dalam skala termometer x suhu 50 \u00b0C - https://brainly.co.id/tugas/22183154</li></ol><p>-----------------------------\n</p><p> \u00a0</p><h3>Detil jawaban </h3><p>Kelas: VII SMP</p><p>Mapel: Fisika</p><p>Bab: 7 - Suhu, Pemuaian, dan Kalor</p><p>Kode: 7.6.7</p><p>Kata Kunci: suhu, pemuaian, kalor</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-nilai-suhu-pada-setrika-dan-dispenser-976",
+            "question": "Berapakah nilai suhu pada setrika dan dispenser?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sesuai sama tegangan listriknya dan suhu di tmpat tersebut",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Bimetal terdiri dari dua lapisan logam (metal) yang memiliki koefisien  \npengembangan sangat berbeda. Pada suhu kamar (normal) keduanya memiliki \npanjang sama. Jika bimetal suhunya naik akan membengkok kearah lapisan  \ndengan koefisien pengembangan lebih kecil dan jika didinginkan akan \nmembengkok kearah yang koefisien pengembangannya lebih besar, <br>\nPada salah satu ujungnya (A) bimetal di keling (direvet) pada bagian \nlogam yang terimbas panas dari heater atau tahanan yang merubah energi \nlistrik menjadi energi panas (pada seterika listrik  atau pemanas \ndispenser. Jika suhu naik ujung yang lain dari bimetal (B) akan \nmembengkok kearah lapisan logam dengan koefisein muai (pengembangan) \nlebih kesil. <br>\nPada ujung B terdapat titik pengumpil yang berguna untuk mengangkat \nterminal  bebas  (C) dari sekaklar listrik yang pada suhu normal \nterhubung dengan terminal (D) sekaklar yang dapat mengatur \n\"kelekatannya\" terhadap terminal C (Biasanya dengan sebuah baut pengatur\n yang dihubungkan dengan knop/piringan yang diberi skala pengatur). <br>\nPada suhu tertentu ujung B akan mengangkat terminal D sehingga skaklar \nterbuka dan menyebabkan  aliran listrik pada pemanas terputus. <br>\nUntuk menghindari timbulnya bunga api dan agar terminal skaklar tak \nmudah hangus/terbakar, terminal skaklar harus dibuat dari logam yang tak\n mudah teroksidasi dan tahan panas (sejenis platina) dan ada mekanik \nyang mengatur agar skalkar terbuka secara mendadak/kejut  (tak \nberangsur). <br>\nTermostat pada kulkas dad AC banyak  yang menggunakan tabung udara dan \nlempeng logam anti karat yang lebih peka terhadap perubahan suhu, bahkan\n kini  banyak yang menggunakan dioda serta perangkat skaklar elektronik.\n Dioda yang sangat kecil ini ditempelkan pada bagian pendinginan, atau \nbagian expanser.<br>\u00a0<br><br><br><br>semoga membantu :D</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-sebesar-800-n-mampu-menghasilkan-tekanan-32000-nm2-pada-l-338",
+            "question": "gaya sebesar 800 N mampu menghasilkan tekanan 32.000 N/m\u00b2 pada lantai. luas permukaan lantai yang dikenai gaya adalah?...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik= p = 32.000 N/m pangkat 2 \n          f= 800 N \ndit= A...? \npenye= A: f per p \n               A: 800 per 32.000 \n               A: 0,025",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

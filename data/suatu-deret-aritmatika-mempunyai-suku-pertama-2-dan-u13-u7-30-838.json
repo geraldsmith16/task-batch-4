@@ -1,0 +1,154 @@
+{
+    "question": "Suatu deret aritmatika mempunyai suku pertama 2 dan U13 - U7 = 30. Hitunglah S50.?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1 = 2 jadi a = 2<br>U13-U7 = U6 = 30<br><br>Un = a + (n-1)b<br>U6 = 2 + (6-1)b = 30<br>\u00a0 \u00a0 \u00a0= 2 + 5b = 30<br>\u00a0 \u00a0 \u00a0= 5b = 30 - 2\u00a0<br>\u00a0 \u00a0 \u00a0= b = 28/5 = 5,6<br><br>S 50 = 50/2 (2(2)+(50-1)5,6)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 25 (278,4)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 6\u00a0960",
+            "attachments": []
+        },
+        {
+            "answer": "u13-u7=30<br>(a+12b)-(a+6b) = 30<br>a+12b-a-6b = 30<br>a habis maka,\u00a0<br>6b=30<br>b=5<br>a=2<br><br>U50 = a+49b<br>\u00a0 \u00a0 \u00a0 \u00a0= 2+49(5)=247<br><br>Sn = n/2(a+Un)<br>S50= 50/2(2+247)<br>\u00a0 \u00a0 \u00a0 = 25(249)=6225",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-yang-dimaksud-dengan-garis-singgung-lingkaran-163",
+            "question": "Apa yang dimaksud dengan garis singgung lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "garis yang menyinggung lingkaran yang memiliki dua titik untuk menggabungkan dua objek<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besarltpoq72-derajat-dan-panjang-jari-jari-op20-cmhitunglah-240",
+            "question": "Besar&lt;POQ=72 derajat dan panjang jari-jari OP=20 cm.Hitunglah    a.panjang busur besar PQ\r\nb.luas juring besar POQ",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui besar \u2220POQ = 72\u00b0 dan panjang jari-jari OP = 20 cm. Hitunglah :</p><p>a. Panjang busur PQ = <strong>25,12 cm</strong></p><p>b. Luas juring POQ = <strong>251,2 cm\u00b2</strong></p><p>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p><strong>Lingkaran</strong> adalah bangun datar yang dimana setiap titik-titiknya mempunyai jarak yang sama dari pusatnya.</p><p>Untuk menyelesaikan soal ini, kita akan menggunakan <strong>rumus</strong> berikut :</p><p>[tex]\\displaystyle\\blacktriangleright\\sf Panjang~Busur~PQ : \\\\ \\\\ \\displaystyle\\boxed{\\bf Pb~PQ = \\dfrac{\\alpha}{360^{\\circ}} \\times 2 \\times \\pi \\times r}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\sf Luas~Juring~POQ : \\\\ \\\\ \\displaystyle\\boxed{\\bf Lj~POQ = \\dfrac{\\alpha}{360^{\\circ}} \\times \\pi \\times r^{2}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Pb</em><em> </em>= panjang busur </p><p>\u25cb <em>Lj</em><em> </em>= luas juring</p><p>\u25cb <em>\u03b1</em> = sudut</p><p>\u25cb <em>\u03c0</em> = phi (biasanya bernilai 22/7 atau 3,14)</p><p>\u25cb <em>r</em><em> </em>= jari-jari</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><ul><li>\u2220POQ (\u03b1) = 72\u00b0  </li><li>r = 20 cm</li><li>\u03c0 = 3,14 (karena r bukan kelipatan 7)</li></ul><p><strong>Di</strong><strong>t</strong><strong>a</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>:</strong><strong> </strong>Pb dan Lj = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2750 <strong>Menentu</strong><strong>kan</strong><strong> </strong><strong>panjang</strong><strong> </strong><strong>busur</strong><strong> </strong><strong>(</strong><strong>Pb</strong><strong>)</strong></p><p>[tex]\\displaystyle\\rm Pb~PQ = \\dfrac{\\alpha}{360^{\\circ}} \\times 2 \\times \\pi \\times r  \\\\ \\\\ \\displaystyle\\rm Pb~PQ = \\dfrac{72^{\\circ}}{360^{\\circ}} \\times 2 \\times 3,14 \\times 20 \\\\ \\\\ \\displaystyle\\rm Pb~PQ = \\dfrac{1}{5} \\times 125,6 \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm Pb~PQ = 25,12}}[/tex]</p><p>Diperoleh: panjang busur PQ = 25,12 cm</p><p>\u2750 <strong>Menentu</strong><strong>kan</strong><strong> </strong><strong>luas</strong><strong> </strong><strong>juring</strong><strong> </strong><strong>(</strong><strong>Lj</strong><strong>)</strong></p><p>[tex]\\displaystyle\\rm Lj~POQ = \\dfrac{\\alpha}{360^{\\circ}} \\times \\pi \\times r^{2} \\\\ \\\\ \\displaystyle\\rm Lj~POQ = \\dfrac{72^{\\circ}}{360^{\\circ}} \\times 3,14 \\times 20^{2} \\\\ \\\\ \\displaystyle\\rm Lj~POQ = \\dfrac{1}{5} \\times 1.256 \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm Lj~POQ = 251,2}}[/tex]</p><p>Diperoleh: luas juring POQ = 251,2 cm\u00b2</p><p>\u2234 <strong>Kesim</strong><strong>pulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, panjang busur PQ = 25,12 cm dan luas juring POQ = 251,2 cm\u00b2</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>lingkaran</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Mencari panjang busur jika diketahui besar sudut dan panjang busur lainnya brainly.co.id/tugas/28626231</li><li>Mencari panjang busur lingkaran jika diketahui jari-jari dan sudut pusat brainly.co.id/tugas/21484646</li><li>Mencari luas juring lingkaran brainly.co.id/tugas/25341451</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>VIII</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 7 - Lingkaran</p><p><strong>Kode :\u00a0</strong>8.2.7</p><p><strong>Kata kunci :</strong><strong> </strong>sudut pusat, jari-jari, panjang busur, luas juring</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-panjangnya-2-m-mwmpunyai-bayangan-75-cm-pada-saat-588",
+            "question": "Sebuah tongkat panjangnya 2 m mwmpunyai bayangan 75 cm. pada saat yg sama panjang bayangan sebuah menara tv 15 m. tinggi menara tv tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Sebuah tongkat panjangnya 2 m mempunyai bayangan 75 cm. Pada saat yang sama panjang bayangan sebuah menara TV 15 m, tinggi menara tv tersebut adalah 40 m. Hasil tersebut diperoleh dari perbandingan kesebangunan. Syarat dua bangun datar sebangun adalah</p><ul><li>sisi-sisi yang bersesuaian memiliki perbandingan yang sama</li><li>sudut-sudut yang bersesuaian memiliki besar yang sama</li></ul><br><h3>Pembahasan</h3><br><p><strong>Diketahui</strong></p><p>Panjang tongkat = 2 m</p><p>Panjang bayangan tongkat = 75 cm</p><p>Panjang bayangan menara TV = 15 m = 1.500 cm</p><br><p><strong>Ditanyakan</strong></p><p>Tinggi menara TV</p><br><p><strong>Jawab</strong></p><br><p><strong>dengan perbandingan kesebangunan,</strong> diperoleh:</p><p>[tex]\\frac{Tinggi \\: menara \\: TV}{panjang \\: tongkat} = \\frac{Panjang \\: bayangan \\: menara \\: TV}{panjang \\: bayangan \\: tongkat}[/tex]</p><p>[tex]\\frac{Tinggi \\: menara\\: TV}{2 \\: m} = \\frac{1.500 \\: cm}{75 \\: cm}[/tex]</p><p>[tex]\\frac{Tinggi \\: menara\\: TV}{2 \\: m}[/tex] = 20</p><p>Tinggi menara TV = 20 (2 m)</p><p><strong>Tinggi menara TV = 40 m</strong></p><br><h3>Pelajari lebih lanjut \u00a0 </h3><br><p>Contoh soal lain tentang kesebangunan</p><p>https://brainly.co.id/tugas/2612344</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 9</p><p><strong>Mapel</strong> : Matematika</p><p><strong>Kategori</strong> : Kesebangunan dan Kekongruenan</p><p><strong>Kode</strong> : 9.2.4</p><br><p><strong>Kata Kunci</strong> : panjang tongkat, bayangan menara TV</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-2-4x3-tolong-sama-caranya-686",
+            "question": "Berapa hasil 2-4x=3?\r\ntolong sama caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-4x=3<br>= 2+(-2) -4x=3+(-2)<br>=-4x= 1<br>=-4x . (-1/4x)= 1 . (-1/4x<br>=-x= -0,25<br>x= 0,25<br>kaloo ngga salah berarti benerXD<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]-4x=3-2<br>\u00a0-4x=1\n<br>-x= \\frac{1}{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-mililiter-sama-dengan-berapa-m-pangkat-3-652",
+            "question": "1 mililiter sama dengan berapa m pangkat 3?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 mL = 1\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "1ml=1cm^3\n\n\n\n1cm^3=1/10^-6m^3\n\n\nKETERANGAN\n^=Pangkat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dari-persamaan-3x-6y-5-0-adalah-220",
+            "question": "Gradien garis dari persamaan 3x - 6y + 5 = 0 adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a06y = 3x + 5<br><br>jadi gradienya 3<br>atau y = 1/2 x + 5/6<br>gradien y = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = -a/b = -3/-6 = 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-s101023-r2-u1-161",
+            "question": "Deret geometri. S10=1023 r=2. U1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1023 = a(2^10-1)/1<br>1023 =a (1023)<br>a=1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaranjika-diketahui-luas-lingkaran-sama-d-202",
+            "question": "Tentukan jari jari lingkaran,jika diketahui luas lingkaran sama dengan 113,04 cm2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas linkaran=pi  r^{2}<br>113,04=3,14\u00a0. r^{2}<br>113,04/3,14= r^{2)<br>36= r^{2}<br>[tex] \\sqrt{36} [/tex]=r<br>6=r",
+                    "attachments": []
+                },
+                {
+                    "answer": "L=\u00a0\u03c0r\u00b2<br>113,04=3,14\u00d7r\u00b2<br>r\u00b2=113,04\u00f73,14<br>r\u00b2=36<br>r=\u221a36<br>r=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-lingkaran-dengan-diameter-70-cm-dan-adalah-667",
+            "question": "Luas sebuah lingkaran dengan diameter 70 cm dan \r\n adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>d : 70 cm<br>r : 1/2 d = 1/2 x 70 = 35<br><br>jawab :<br>L = 3,14 x r kuadrat<br>L = 3,14 x 35\u00a0<br>\u00a0 \u00a0= 109,9<br><br>Mudah-mudahan bener :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran :<br>22/7 X 35 X 35 : 3850<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-sebuah-kerucut-yg-berdiameter-28-cm-dengan-panjang-garis-p-368",
+            "question": "Volume sebuah kerucut yg berdiameter 28 cm dengan panjang garis pelukis 50 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d = 28 r = 14<br>s = 50\u00a0<br>t = 50\u00b2 - 14\u00b2<br>\u00a0 = 2500 - 196 = 2304<br>\u00a0 =\u00a0[tex] \\sqrt{2304} = 48[/tex]<br><br>Vkerucut = 1/3\u00a0\u03c0 r\u00b2 . t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/3 . 22/7. 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9856 cm\u00b3",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diketahui : D = 28 cm, r = 14 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s = 50 cm<br>Ditanya : V = ....?<br>Jawab: a)\u00a0[tex] t^{2} =  s^{2} -  r^{2} \n[/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =  \\sqrt{ s^{2} -  r^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0[tex] t^{2} =   \\sqrt{ 50^{2} -  7^{2}  } [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 =\u00a0[tex] \\sqrt{2304} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0t \u00a0 \u00a0 = 48\u00a0cm<br>\u00a0 \u00a0 \u00a0 \u00a0b) \u00a0V =\u00a0[tex] \\frac{1}{3} [/tex] . \\pi [/tex]\u00a0. r .r .t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V =\u00a0[tex] \\frac{1}{3} .  \\frac{22}{7} [/tex] . 14 . 14 . 48<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = 22 . 14 . 16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V = 4928\u00a0[tex] cm^{3} [/tex]<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,<br>jika ada yang tidak dimengerti dari jawaban di atas, silahkan ditanyakan ^_^,,,<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

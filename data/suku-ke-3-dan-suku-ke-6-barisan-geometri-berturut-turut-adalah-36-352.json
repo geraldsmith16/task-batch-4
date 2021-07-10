@@ -1,0 +1,136 @@
+{
+    "question": "suku ke-3 dan suku ke-6 barisan geometri berturut-turut adalah 36 dan 972. nilai suku ke -5 dari barisan tersebut adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U5 = 660 <br>apa ada jawabannya ?<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "jawabannya 324. ada?",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916",
+            "question": "Perhatikan daerah segitiga I dan II.\r\nBandingkan luas I dan luas II. Jelaskan.",
+            "attachments": [
+                "question-attachments/perhatikan-daerah-segitiga-i-dan-ii-bandingkan-luas-i-dan-luas-i-916-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "perbandingannya = 1 : 1, karena memiliki alas dan tinggi yang sama",
+                    "attachments": []
+                },
+                {
+                    "answer": "misalkan tinggi segitiga I = y<br>maka, <br>1/2 x y : 1/2 x 1/2 y<br>xy/2 : xy/4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-u1-2-dan-s10-33s5-nilai-u6-304",
+            "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-g-r-r-ditentukan-oleh-gx-x2-3x-1-dan-f-r-196",
+            "question": "Fungsi g: R \u2192 R ditentukan oleh    g(x) = x2 \u2013 3x + 1 dan f: R \u2192 R sehingga (f o g)(x) = 2x2\r\n \u2013 6x \u2013 1\u00a0\r\n\r\nmaka f(x) = \u2026.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f o g)(x)= f(g(x)) \u00a0 \u00a0 \u00a0 \u00a0\u00a0=\u00a02x^2<span>\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1)\u00a0=\u00a0</span>2x^2\u2013 6x \u2013 1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x^2-3x+1)\u00a0=\u00a02x^2\u2013 6x + 2 -\u00a03<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0f(x^2-3x+1) = 2(x^2-3x+1) -3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = f(x) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x-3 \u00a0(buktikan saja masukan ke f(g(x))",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dan-akar-akar-dari-persamaan-2x33x2-17x120-362",
+            "question": "Faktor dan akar akar dari persamaan 2x^3+3x^2-17x+12=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x^3+3x^2-17x+12=0<br>(x - 1)(2x^2 +5x - 12) = 0<br>(x - 1)(2x - 3)(x + 4) = 0<br>x = 1 atau x = 3/2 atau x = -4<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-saya-irisan-sebuah-pipa-mendatar-dengan-garis-t-647",
+            "question": "Tolong bantu saya ..    \u00a0irisan sebuah pipa mendatar dengan garis tengah 1 m berituk:\r\n\r\nlebar pipa 1 m panjang pipa 10 cm\r\n\r\ndidalam pipa tersebut terdapat air yang dalamnya 10 cm ditengah-tengah penampang. lebar permukaan air adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "10 x 1000 cm....<br>trus di tambah 1..;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-kuadrat-dari-akar-akar-persamaan-suku-banyak-x3-767",
+            "question": "Tentukan jumlah kuadrat dari akar-akar persamaan suku banyak x\u00b3-2\u00d7\u00b2-23+k=0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x1\u00a0+\u00a0x2 = 2<br>x1.x2 =\u00a0-23+k<br><br>x1\u00b2 + x2\u00b2 = (x1+x2) - 2.x1.x2<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0- 2(-23+k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2 - (-46+2k)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2\u00a0+ 46 - 2k<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = -2k +48<br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

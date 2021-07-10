@@ -1,0 +1,148 @@
+{
+    "question": "Hasil dari 5/2:5/4-17/8 adalah... dan sebutkan langkah-langkah-x",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "=5/2 x 4/5 - 17/8<br>=2-17/8=16/8-17/8=-1/8",
+            "attachments": []
+        },
+        {
+            "answer": "(5/2 : 5/4) - 17/8 =<br>(5/2 x 4/5) - 17/8 =<br>20/10 - 17/8 = <br>2/1 - 17/8 =<br>16/8 - 17/8 = - 1/8<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469",
+            "question": "Diketahui:    S={bilangan asli kurang dari 15 }\r\nA={bilangan asli genap yang kurang dari 10}\r\nB={bilangan asli ganjil antara 1 dan 11}\r\nC={bilagan prima yang kurang dari 10}\r\nD={faktor dari 12 }\r\nnyatakan himpunan himpunan di atas dengan mendaftar anggotanya ! kemudian buatlah diagram venn untuk masing masing himpunan berikut dengan S sebagai himpunan semestanya!\r\na.S,A,DAN\u00a0B \u00a0 \u00a0 \u00a0d.S,B DAN C\r\nb.S,A DAN C \u00a0 \u00a0 \u00a0e.S,B,DAN D\r\nC.S,A DAN D \u00a0 \u00a0 \u00a0f.S,C DAN D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk anggota dari masing2 himpunannya adalah sebagai berikut<br>S={1,2,3,4,5,6,7,8,9,10,11,12,13,14 }<br>A={2,4,6,8}<br>B={3,5,7,9}<br>C={2,3,5,7}<br><span>D={1,2,3,4,6,12}<br><br>untuk diagram venn nya coba lihat gambarnya d google aja<br>diagram venn merupakan gambar diagram menggunakan lingkaran untuk masing2 himpunan,<br>jadi misalkan seperti soal A,ditanyakan adalah S, A dan B<br>karena S merupakan himpunana semstanya , maka S merupakan lingkaran terbesar<br>kemudian di dalamnya di gambar lingkaran A dan B , namun tidak bersinggungan , dikarenakan tidak memiliki anggota dengan nilai yg sama<br>dan di tiap lingkaran dituliskan masing2 anggotanya , untuk S anggota yg sdah berada di dalam A dan B , tidak ditulis kembali, dan yg belum ada di lingkaran A dan B, ditulis di luar lingkaran A dan B, namun tetap berada di dalam lingkaran S<br>untuk contoh soal a nya ada pada lampiran\u00a0<br>yg B dan seterusnya kayaknya bisa menyesuaikan :)</span>",
+                    "attachments": [
+                        "answer-attachments/diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "S= {1,2,3,4,5,6,7,8,9,10,11,12,13,14}\nA= {2,4,6,8}\nB= { 3,5,7,9}\nC= {2,3,5,7}\nD= {1,2,3,4,6,12}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-penampung-air-berbentuk-silinder-dengan-panjang-jari2-201",
+            "question": "sebuah bak penampung air berbentuk silinder dengan panjang jari2 3 m dan tinggi 5 m. tentukan jumlah air maksimum yang dapat ditampung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V= La x t<br>V= phi r kuadrat x t<br>V= 3,14 x 3 x 3 x 5<br>V=141,3 meter kubik<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-berputar-sebanyak-500-kali-untuk-melintasi-jlan-sepan-238",
+            "question": "Sebuah roda berputar sebanyak 500 kali untuk melintasi jlan sepanjang\u00a0628 meter.hitunglah:    a.keliling roda.\r\nb.jari jari roda.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=628 \u00f7 500<br>\u00a0=<u>1,256</u><br>d= k \u00f7 \u03c0<br>\u00a0=1,256 \u00f7 3,14<br>\u00a0=0,4<br>r= d\u00f72<br>\u00a0=0,4 \u00f7 2<br>\u00a0=<u>0,2</u><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-prisma-tegak-berbentuk-belah-ketupat-dengan-panjang-diagon-400",
+            "question": "Sebuah prisma tegak berbentuk belah ketupat dengan panjang diagonal 12 cm dan 16 cm. jika luas seluruh permukaan prisma 392 cm^2, volume prisma adalah...    pakai caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "d1 = 12 cm<br>d2 = 16 cm<br>luas seluruh permukaan= 392 cm\u00b2<br>untuk sisi belah ketupat pakai rumus pythagoras kelipatan\u00a03, 4, 5<br>alas = 1/2\u00a0.12 = 6 = 3<br>tinggi = 1/2 . 16 = 8 = 4<br>sisi miring/sisi belah ketupat = 5=10 cm<br><br>luas seluruh permukaan = 2 luas alas + t.keliling belah ketupat<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2 . 1/2 . d1 . d2 + t 4s<br>392 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0= 12 . 16 + 4 . t. 10<br>392 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0= 192 + 40t<br>40t \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0392\u00a0-\u00a0192<br>t \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = \u00a0200/40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0= 5 cm<br><br>volume = luas alas x\u00a0 tingi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/2 . d1 . d2 x t<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 1/2 . 12 . 16 . 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 480 cm\u00b3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-jumlah-semua-bilangan-bulat-antara-100-dan-500-yang-tid-609",
+            "question": "Hitunglah jumlah semua bilangan bulat antara 100 dan 500 yang tidak habis dibagi 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]jumlah seluruhnya \\\\ S_{400} = \\frac{400}{2} (2(100)+(399)1) \\\\ S_{400} = 200(599) \\\\ S_{400} = 119800 \\\\ \\\\ kelipatan5 \\\\ S_{400} = \\frac{80}{2} (100+500) \\\\ S_{400} = 40(600) \\\\ S_{400} = 2400 \\\\ \\\\ 119800-2400=117400 \\\\ \\\\ *CMIIW*[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jumlah suku dari 100-500 dikurangi jumlah suku yg habis dibagi 5. Logikanya spt itu saja.\nMisal: suku dari 100-500 dgn b=1 kita misal A dan suku dari 100-500 dgn b=5 kita misal B (dipahami B habis dibagi 5)\nSn(A) = 401/2 x (100+500) = 401/2 x 600 = 120300\nSn(B) = 81/2 x (100+500) = 81/2 x 600 = 24300\nMaka jumlah yg tdk habis dibagi 5 misalkan C\nSn(C) = Sn(A) - Sn(B) = 120300-24300 = 96000\nPenyelesaian soal ini menggunakan konsep suku ke n deret aritmatik+jumlah suku aritmatik dan himpunan.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-besar-angsuran-setiap-bulan-dengan-bungan-per-tahun-944",
+            "question": "Cara mencari besar angsuran setiap bulan dengan bungan per tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Cara mencari besar angsuran setiap bulan dengan bungan per tahun</p><p><strong>Angsuran</strong> adalah membayar hutang pinjaman secara berkala hingga lunas dalam jumlah dan waktu yang telah disepakati.</p><h2>Pembahasan</h2><p>Untuk menentukan besaran angsuran sebelumnya kita cari terlebih dulu bunga uangnya dalam bunga per tahun.</p><p>Bunga = p% \u00d7 [tex]\\frac{b}{12}[/tex] \u00d7 modal</p><p><u><strong>Mencari besar angsuran setiap bulan dengan bungan per tahun</strong></u></p><p>Angsuran = [tex]\\frac{bunga + modal}{lama}[/tex]</p><p>Angsuran = [tex]\\frac{(\\frac{p}{100} \\times \\frac{b}{12} \\times m) + modal}{b}[/tex]</p><p><u><strong>Contoh soal :</strong></u></p><p>Ihsan meminjam uang di koperasi sebesar Rp.1.200.000 dengan bunga 15% per tahun. Jika lama pinjaman 8 bulan, uang ansuran yang harus dibayar Ihsan adalah ...</p><p>Penjelasan :</p><p>Diketahui :</p><p>Pinjaman (m) = Rp 1.200.000</p><p>bunga (p) per tahun = 15</p><p>lama pinjaman (b) = 8</p><p>Ditanya : </p><p>Uang angsuran yang dibayar per bulan?</p><p><strong>Jawab : </strong></p><p>Bunga = p% \u00d7 [tex]\\frac{b}{12}[/tex] \u00d7 modal</p><p>bunga = [tex]\\frac{15}{100}[/tex] \u00d7 [tex]\\frac{8}{12}[/tex] \u00d7 Rp 1.200.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 15 \u00d7 8 \u00d7 Rp 1.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 120.000</p><p>Angsuran = [tex]\\frac{bunga + modal}{lama}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = [tex]\\frac{Rp~ 120.000 + Rp~ 1.200.000}{8}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = [tex]\\frac{Rp~ 1.320.000}{8}[/tex]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 165.000</p><p>Jadi uang angsuran yang dibayar per bulan adalah Rp 165.000,-</p><br><h3>Pelajari lebih lanjut tentang Aritmetika Sosial</h3><ol><li>Pak Yudi akan meminjam uang di Bank dengan persentase bunga sebesar 10% pertahun. Besar uang yang dipinjam oleh Pak Yudi adalah 12 juta rupiah. Angsuran tiap bulan \u2192 https://brainly.co.id/tugas/9006736</li><li>Angsuran yang dibayarkan per bulan \u2192 https://brainly.co.id/tugas/9006740</li><li>Lama mengangsur. Pak Eko meminjam uang di bank sejumlah rp 1.200.000, 00 dengan bunga 18% pertahun \u2192 https://brainly.co.id/tugas/9411421</li><li>Harga pembelian yg menderita kerugian (UN 2017) \u2192 brainly.co.id/tugas/10501599</li><li>Harga beli sepeda \u2192 brainly.co.id/tugas/11966182</li></ol><h3>Detil Jawaban </h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 7 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 7 - Aritmetika Sosial</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 7.2.7</li><li>Kata kunci : aritmetika sosial, mencari besar angsuran, setiap bulan, bungaan per tahun</li></ul><br><p>Semoga bermanfaat</p>",
+                    "attachments": [
+                        "answer-attachments/cara-mencari-besar-angsuran-setiap-bulan-dengan-bungan-per-tahun-944-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704",
+            "question": "Pada suatu lingkaran dengan pusat O diketahui titik A,B,C dan D pada keliling lingkaran , sehingga sudut AOB = 35\u00b0 dan sudut COD 140\u00b0 . Jika panjang busur AB = 14 cm , hitunglah panjang busur CD .",
+            "attachments": [
+                "question-attachments/pada-suatu-lingkaran-dengan-pusat-o-diketahui-titik-abc-dan-d-p-704-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Besar &lt;AOB /Besar &lt;COD =Panjang busur AB / Panjang busur CD<br>35/140 = 14/ panjang busur CD<br>\u00a0\u00a0 \u00a0 \u00a0 (dikali silang)<br>35*panjang busur CD = 140*14<br>35*panjang busur CD =1960<br>\u00a0\u00a0 \u00a0 panjang busur CD =1960/35<br>\u00a0\u00a0 \u00a0 panjang busur CD =56\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-4-rak-telur-dengan-harga-telur-rp2100000-tiap-rak-919",
+            "question": "ibu membeli 4 rak telur dengan harga telur Rp.21.000,00 tiap rak. berisi 30 butir telur. kemudian ibu menjual kembali dan setiap satu butir telur mendapatkan keuntungan Rp.100,00, berapakah harga jual telur seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 * 21.000= Rp 84.000<br>84.000 : (4 * 30)= 84.000 : 120 = 700<br>700 + 100 = 800<br>jadi, harga jual telur <u>Rp 800,00</u><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>semua telur yg dibeli = 21.000 x 4 = 84.000<br>jumlah telur = 30 x 4 = 120 butir=<br>harga 1 butir telur yg dibeli ibu = 21.000 : 30= 700<br>700 + 100= 800<br>harga jual seluruhnya= 800 x 120 = 96.000</span><br>untung = harga jual-harga beli<br>= 84.000-96.000<br>= 12.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-garis-singgung-lingkaran-berjari-jari-6cm-dari-titik-di-l-860",
+            "question": "Panjang garis singgung lingkaran berjari-jari 6cm dari titik di luar lingkaran yang berjarak 10cm dari pusat lingkaran adalah.... \u00a0 pake cara yah :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = r = 6 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 p = 10 cm<br>dit = panjang garis singgung (<em>\u00a0l</em>\u00a0) =... cm<br>jwb = l\u00b2 = p\u00b2 - r\u00b2 = 10\u00b2 - 6\u00b2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 100 - 36<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 l =\u00a0\u221a64<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8<br>jadi panjang garis singgung adalah 8 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-3-kambing-dengan-harga-rata-rata-rp3400-672",
+            "question": "seorang pedagang menjual 3 kambing dengan harga rata-rata Rp340.000,00.Bila dari seluruh penjualan pedagang mendapat untung 25%,tentukan harga beli kambing per ekor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h. jual 3 ekor kambing = 340.000<br>untung = 25%<br>h beli tiap ekor = ?<br>jawab<br>h. beli 3 ekor kambing = 100 : 125 x 340.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 272.000<br>h. beli tiap ekor kambing = 272.000 : 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 90.666<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 90.700<br>- maaf kalo jawabannya salah -",
+                    "attachments": []
+                },
+                {
+                    "answer": "3 x 340.000 = 1.020.000<br>25% = 25/100 x 1.020.000<br>\u00a0\u00a0 \u00a0 \u00a0  = rp.255000<br>mngkin sih itu jg<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

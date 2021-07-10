@@ -1,0 +1,148 @@
+{
+    "question": "diketahui panjang sisi sebuah segitiga sama sisi = (2x + 5 ) cm jika keliling segitiga itu 87 cm maka nilai X adalah..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "3(2x+5)=87 <br>\n6x+15=87 <br>\n6x=72 <br>\nx=12 <br><br>\nSemoga Membantu^^",
+            "attachments": []
+        },
+        {
+            "answer": "karena segitiga sama sisi semua sisinya sama panjang jadi <br>(2x+5)3 = 87<br>6x+15 = 87<br>6x= 87-15<br>6x= 72<br>x= 72 : 6<br>x = 12\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-luas-permukaan-kubus-dengan-sisi-8-cm-843",
+            "question": "Hitunglah luas permukaan kubus dengan sisi 8 cm ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 8 pangkat 2<br>6 x 64 = 384<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 x 8 x 8\u00a0<br>=6 x 64<br>=384",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-lingkaran-dengan-titik-pusat-o-dan-panjang-jari-jari-5-168",
+            "question": "Buatlah lingkaran dengan titik pusat\u00a0O\u00a0dan panjang jari jari 5 cm. Titik\u00a0A, B,\u00a0dan\u00a0C terletak pada keliling lingkaran, sehingga besar\u00a0\u2220AOB\u00a0= 40\u00b0 dan\u00a0\u2220BOC = 60\u00b0. Hitunglah:    a.Keliling Lingkaran,\r\nb.Panjang Busur\u00a0AB,\r\nc.Panjang Busur\u00a0BC,\r\nd.Luas Lingkaran,\r\ne.Luas juring\u00a0OAB, dan\r\nf.Luas juring\u00a0OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling lingkaran : 5*2*3,14 = \npanjang busur ab : keliling lingkaran * 40/360 \npanjang busur bc : keliling lingkaran * 40/360 \nluas lingkaran : 5*5*3,14 = \nluas juring oab : luas lingkaran * 40/360 \nluas juring obc : luas lingkaran * 60/360",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-berikut-lingkaran-yg-berpusat-di-o-merupakan-lingkar-620",
+            "question": "Pada gambar berikut ,lingkaran yg berpusat di O merupakan lingkaran dalam\u00a0\u0394ABC.panjang AB=13cm,AC=20cm dan BC=21cm    hitunglah :\r\na.keliling\u0394ABC\r\nb.panjang AF,CE dan BD\r\nc.jari-jari lingkaran dalam segutiga ABC\r\n\r\nkerjakan dgn menggunakan cara",
+            "attachments": [
+                "question-attachments/pada-gambar-berikut-lingkaran-yg-berpusat-di-o-merupakan-lingkar-620-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<u></u>s = <u>a + b + c</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>s = <u>13 + 21 + 20</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>s = <u>54</u><br>\u00a0\u00a0 \u00a0 \u00a0  2<br>s = 27<br><br>L\u0394[tex] \\sqrt{s (s - a)(s-b)(s-c)} \\\\  \\sqrt{27(27-13)(27-20)(27-21)}  [/tex]<br>L\u0394=\u221a15876<br>L\u0394=126<br><br>a.K\u0394 = a + b + c<br>K\u0394 = 13 + 20 + 21<br>K\u0394 = 54<br><br>b. rDalam =\u00a0<u> L</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 s<br>rDalam =<u> 126</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 27<br>rDalam = 4,67 cm<br><br>maka <br>panjang AF = AB - r<br>= 13 - 4,67 = 8,33 cm<br><br>Panjang CE = AC - r<br>=20 - 4,67 = 15,33 cm<br><br>panjang BD = BC - r<br>= 21 - 4,67 = 16,33 cm<br><br>c. rDalam = 4,67cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921",
+            "question": "PANJANG DIAMETER ALAS KALENG SUSU ADALAH 7.4 CM DAN TINGGI 7,5 CM LABEL KALENG SUSU YANG SEDANG DI BUKA TERBUAT DARI LEMBARAN KERTAS TENTUKAN:    * BENTUK LABEL\r\n*UKURAN LABEL\r\n*LUAS LABEL",
+            "attachments": [
+                "question-attachments/panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "* selimut tabung\n* 2pi.r.t = 2 . 3,14. 3,7 . 7,5 = 174,27\n* sama dengan ukuran label",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-juring-aob-35-cm-maka-luas-juring-boc-adalah-711",
+            "question": "Jika luas juring AOB = 35 cm, maka luas juring BOC adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini nggk bisa di jawab klo nggk ada gambarnya adek <br>ok !<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-yang-dilalui-jarum-panjang-sebuah-jam-beriku-137",
+            "question": "Tentukan besar sudut yang dilalui jarum panjang sebuah jam berikut ini : a. Bergerak dari pukul 12.15 sampai 12.34 b. Bergerak dari pukul 09.06 sampai 09.23",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)12.34-12.15=19<br>maka\u00a0[tex] \\frac{19}{60} [/tex]\u00d7360=114 derajat<br>b)09.23-09.06=17<br>maka\u00a0[tex] \\frac{17}{60} [/tex]\u00d7360=102 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-sepeda-dengan-harga-rp-210000-dari-444",
+            "question": "Seorang pedagang menjual sepeda dengan harga Rp. 210.000,-. Dari penjualan itu, memperoleh untung 20%. Berapa harga pembelian sepeda itu? Cara dan penjelasan.. Tolong, trimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20/100 x 210.000 = 42.000 \u00a0 \u00a0\u00a0 <br>210.000 - 42.000 = 168.000<br>harga pembelian sepeda tsb adalah 168.000<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau Caranya mungkin sulit untuk saya jelaskan<br>intinya<br>HJ = HB + u/R<br>HB = HJ- u/R<br>= 100 % / 120 % x 210.000<br>=175.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "toko-buku-samudera-membeli-100-eksemplar-buku-dengan-harga-rp375-223",
+            "question": "toko buku samudera membeli 100 eksemplar buku dengan harga Rp375.000,00.jika seperempat dari jumlah buku itu dijual dengan harga Rp4.000,00 per eksemplar dan sisanya dijual dengan harga Rp3.500,00 per eksemplar untung atau rugikah toko buku tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah total jual= 1/4 x 100= 25 X 4000=100.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =100-25=75X3500-262500<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =262500+100.000=362500<br>\u00a0\u00a0 \u00a0harga beli - harga jual = 375000-362500= -12.500<br>jadi pedagang tersebut mengalami kerugian",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rugi,, dikarenakan 1/4 dari 100 eksemplar dijual 4.000 = 25 \u00d7 4000 = 100.000<br>berarti sisanya 3/4 dari 100 eksemplar dijual 3.500 = 75 \u00d7 3.500 = 262.500<br>100.000 + 262.500 = 362.500<br>jadi ruginya adalah 375.000-362.500 = 12.500<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-juring-lingkaran-sudut-pusatnya-30-dan-jari-jarinya-20-cm-137",
+            "question": "Suatu juring lingkaran sudut pusatnya 30\u00b0 dan jari jarinya 20 cm maka luas juringnya adalah..    a. 104,67 cm2\r\n b. 209,33 cm2\r\n c. 376,80 cm2\r\n d. 628,00 cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = 30/360 x 3,14 x 20 x 20<br>\u00a0\u00a0 = 1/12 x 1256<br>\u00a0\u00a0 = 104,67<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668",
+            "question": "Pada gambar dibawah, jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah........",
+            "attachments": [
+                "question-attachments/pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah 65\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah<span><span></span></span> 65 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "sepotong kayu terapung dengan 3/5 bagian tercelup di dalam air. jika massa jenis air 1x10^3 kg/m3, massa jenis kayu adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p></p><p>Massa jenis kayu adalah <strong>600 kg/m\u00b3</strong></p><p></p><h3>PEMBAHASAN</h3><p><u>Diketahui :</u></p><p>Volume Kayu Tercelup = Vt = \u00b3/\u2085 V</p><p>Massa Jenis Air = \u03c1 = 1000 kg/m\u00b3</p><p><u>Ditanyakan :</u></p><p>Massa Jenis Kayu = \u03c1k = ?</p><p><u>Penyelesaian :</u></p><p><em>Untuk menyelesaikan soal ini , kita akan menggunakan hukum Archimedes sebagai berikut ini:</em></p><p>[tex]\\texttt{Gaya Angkat = Berat Benda}[/tex]</p><p>[tex]\\rho g V_t = m g[/tex]</p><p>[tex]\\rho g (\\frac{3}{5}V) = \\rho_k V g[/tex]</p><p>[tex]\\rho (\\frac{3}{5}V) = \\rho_k V[/tex]</p><p>[tex]\\rho \\times \\frac{3}{5} = \\rho_k[/tex]</p><p>[tex]\\rho_k = 1000 \\times \\frac{3}{5}[/tex]</p><p>[tex]\\rho_k = 600 \\texttt{ kg/m}^3[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Berat Benda dalam Air :</strong> https://brainly.co.id/tugas/20965985</p><p><strong>Gaya Apung :</strong> https://brainly.co.id/tugas/19232509</p><p>--------------------------</p><p></p><h3>Detil Jawaban :</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> Fluida</p><p><strong>Kode:</strong> 8.6.3</p><p></p><p><strong>Kata Kunci:</strong> Gaya Angkat , Archimedes, Apung , Kapal , Volume , Barang , Jumlah Penumpang</p>",
+            "attachments": [
+                "answer-attachments/sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-jatuh-bebas-dari-ketinggian-20-m-jika-percepatan-681",
+            "question": "sebuah benda jatuh bebas dari ketinggian\u00a020\u00a0m. jika percepatan grafitasi bumi 10\u00a0m/s2, maka kecepatan benda \u00a0pada saat berada 15 m di atas tanah adalah .....(caranya)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik ho = 20 m<br>\u00a0 \u00a0 \u00a0 h1 = 15 m<br>\u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s<br>Dit V ?<br>jawab<br>rumus V =\u00a0\u221a2 g\u00a0\u0394h<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u221a2.10\u00a0(20-15)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0\u221a100 = 10 m/s^2",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Vt2 = Vo2 + 2aS<br> Vt2 = (0) + 2 aS<br> Vt = \u221a(2aS) = \u221a[(2)(10)(20-15)] = 10 m/s</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kelemahan-teori-atom-rutherford-adalah-a-elektron-yg-mengelilin-831",
+            "question": "Kelemahan teori atom rutherford adalah?    A. elektron yg mengelilingi inti atom akan menyerap energi\r\nB. elektron menyebar merata di permukaan bola atom\r\nC. elektron berputar mengelilingi inti seperti tata surya\r\nD. elektron mengelilingi inti memancarkan gelombang elektromagnetik\r\nE. atom terdiri dr muatan positif dan negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya E.Atom terdiri dari muatan positif dan negatif",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998",
+            "question": "Diagram berikut menggambarkan percobaang Young, d adalah jarak antar celah, P2 adalah garis terang orde 2. Jika panjang gelombang yang digunakan adlaah 400 Nm (1nm = 10^-9 m) maka jarak antar celah adalah\u00a0",
+            "attachments": [
+                "question-attachments/diagram-berikut-menggambarkan-percobaang-young-d-adalah-jarak-an-998-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lamda = 400 Nm = 4x10^-9 m<br>\u00a0 \u00a0 \u00a0 \u00a0m \u00a0 \u00a0 \u00a0 = 2<br>Dit d ?\u00a0<br>jawab.<br>\u00a0d sin 0 = m\u00a0.\u00a0lamda<br>d sin 30 = m . lamd<br>d =\u00a0[tex] \\frac{2 . 4x10^-9}{0,5} [/tex] = 16 x 10^-9 m<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "roda-bermassa-3-kg-dan-berjarijari-20-cm-menggelinding-di-atas-bi-984",
+            "question": "Roda bermassa 3 kg dan berjarijari 20 cm menggelinding di atas bidang miring yang memiliki sudut kemiringan 30 derajat. Berapakah percepatan dan percepatan sudut roda tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = g sin 0<br>a = 10 . sin 30<br>a = 5 m/s<br><br>\u03b1 = a/r = 5/0,2 = 25 rad/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermassa-05-kg-jatuh-dari-ketinggian-4-m-hitungla-152",
+            "question": "Sebuah benda bermassa 0,5 kg, jatuh dari ketinggian 4 m. Hitunglah besar energi potensial gravitasi benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "EP = m x G x h<br>EP = 0.5 x 10 x 4<br>EP = 20 J",
+                    "attachments": []
+                },
+                {
+                    "answer": "potensial=m.g.h<br>h/m<br>4/0,5<br>=8 m/s<br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-bermasa-50-kg-ditarik-dengan-tali-ke-atas-bidang-mi-196",
+            "question": "Sebuah benda bermasa 5,0 kg ditarik dengan tali ke atas bidang miring yang kasar oleh sebuah gaya 71 N (g=10 m.s-2 ,sin 37=0,6 .cos37= 0,8). Jika koefesien gesekan antara benda dan bidang adalah 0,4 percepatan yang dialami benda adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(Uraikan dulu gaya-gayanya)<br><br>* Cari nilai Fg\u00a0(Gaya Gesek)<br>Fg = \u03bc\u00a0\u00d7 N \u00a0 \u00a0 \u00a0 \u00a0\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 N\u00a0= W.cos.\u03b8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ket ;\u00a0\u03bc = Koefisien gesek<br>\u00a0 \u00a0 \u00a0= 0,4\u00a0\u00d7 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0N = 5.10.0,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = Gaya Normal<br>\u00a0 \u00a0 \u00a0= 16N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0N = 40N<br>* Masukkan ke rumus<br>\u00a0<strong> a =\u00a0</strong><u><strong>\u03a3F</strong></u><strong> \u00a0 \u00a0 </strong><br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u03a3m</strong><br> \u00a0 \u00a0 = <u>F-\u00a0( W sin\u00a0\u03b8 + Fg )</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m<u><br></u> \u00a0 \u00a0 = <u>71- ( 5.10.0,6+16)</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05<br> \u00a0 \u00a0 =\u00a0<u>71- 46<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br> \u00a0 \u00a0 =\u00a0<u>25<br></u> \u00a0 \u00a0 \u00a0 \u00a0 5<br> \u00a0 \u00a0 = <strong>5 m/s\u00b2</strong><u><br></u>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-alat-yang-menerapkan-hukum-pascal-berupa-alat-pengepres-hi-116",
+            "question": "Sebuah alat yang menerapkan hukum pascal berupa alat pengepres hidrolik memiliki penghisap besar yang luas penampangnya A1=250 cm2 dan penghisap kecil A2=6cm2. jika gaya tekan pada F2=300 N diberikan pada penghisap kecil, berapa besar beban maksimum yang bisa diangkat pada penghisap besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui = Penghisap besar = 250 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Penghisap kecil = 6 cm2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  Gaya tekan penghisap kecil = 300 N<br>Ditanyakan = Beban maksimum penghisap besar?<br>[tex] \\frac{F1}{A1} =  \\frac{F2}{A2}  \\\\  \\frac{F1}{250} =  \\frac{300}{6}  \\\\  F1 =  \\frac{250 . 300}{6}  \\\\ F1 = \\frac{75000}{6}  \\\\ F1 = 12500 N[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-kubus-memiliki-volume-1-m3-volume-tangki-tersebut-355",
+            "question": "Sebuah tangki kubus memiliki volume 1 m3. Volume tangki tersebut menurut pengamat yang bergerak dengan kecepatan 0,8c sepanjang rusuk kubus adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt=panjang pengamat<br>L0=panjang diam<br>Lt=Lo(1-v^2/c^2)^1/2<br>Lt=Lo(1-0,64c^2/c^2)^1/2<br>Lt=Lo(0,36)^1/2<br>Lt=Lo(0,6)<br>1m^3=1000dm^3=1000 liter<br>panjangnya diamnya = (1000)^1/3 dm<br>=1 dm = 10 cm<br><span>Lt=10.0,6= 6cm</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-kalor-berdasarkan-pengertian-konvensional-dan-berdasar-593",
+            "question": "Pengertian kalor berdasarkan pengertian konvensional dan berdasarkan teori kinetik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor adalah energi panas yang berpindah sari benda yang bersuhu lebih tinggi ke benda yang bersuhu lebih randah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Konvensional : Energi yang muncul akibat perubahan suhu<br>Teori kinetik Zat :Energi yang muncul akibat adanya perubahan Tekanan dan Volume suatu zat pada massa dan Suhu tertentu</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

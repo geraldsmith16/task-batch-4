@@ -1,0 +1,146 @@
+{
+    "question": "jika matriks (2x \u00a04 ) \u00a0- \u00a0 (1 \u00a0 \u00a02) \u00a0 \u00a0 \u00a0= \u00a0 (9 \u00a0 \u00a0 2) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (7 \u00a0 \u00a0 y) \u00a0 \u00a0 \u00a0 (3 \u00a0 \u00a04) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (4 \u00a0 \u00a0 3) \u00a0 nilai x dan y ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "nilai x\n2x - 1 = 9\n2x = 10\nx = 10:2\nx = 5\n\nnilai y\ny - 4 = 3\ny = 3 + 4 = 7",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-bilangan-kuadrat-jika-dibagi-3-maka-kemunkinan-sisanya-bera-782",
+            "question": "Suatu bilangan kuadrat jika dibagi 3 maka kemunkinan sisanya berapa..???    tolong di jelaskan se detail mungkin... oke friend...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> jumlah dua bilangan berpangkat sama ganjil, habis dibagi jumlah bilangan yang dipangkatkan 3</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu bia<br>langan kuadrat dibagi 3 maka kemungkinan sisanya adalah <br>1 atau 0 <br>dibuat tabel aja <br><u>bil kuadrat</u>\u00a0 \u00a0\u00a0  \u00a0 \u00a0 \u00a0 \u00a0<u> sisa setelah dibagi 3 </u><br>4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>16\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 <br>25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>36\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>49\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>64\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>81\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0<br>dst<br>jadi sisa pembagian bil kuadrat oleh 3 secara berurutan adalah <br>1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, ...<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-log-3-a-dan-3-log-2-b-maka-nilai-6-log-10-575",
+            "question": "5 log 3 = a dan 3 log 2 = b maka nilai 6 log 10 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan 3 : <br>3\u00a0log 10 / 3 log 6\u00a0<br>3 log 2 + 3 log 5 / 3\u00a0log 2 + 3\u00a0log 3<br>b + 1/a / b + 1 (penyebut dan pembilang sma2 di kali a agr tdak ad pecahan)<br>ab + 1 / ab + a<br>(silahkan cek kembali)\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Diket :\u00a0<br>5 log 3 = a<br>3 log 2 =\u00a0b<br>Dit:\u00a0<br>6 log 10 ...?<br>jawab :<br>langkah pertama kita gabungkan persamaan a dan b menjadi persamaan ab\u00a0:<br>ab =\u00a05 log 3 x 3 log 2\u00a0<br>ab = 5 log 2<br>kemudian berdasarkan sifat logaritma, nah untuk mempermudah bilangan pokoknya disamakan dengan ab,menjadi bilpok 5<br>6 log 10 = 5 log 10 \u00f7 5 log 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 log 2 + 5 log 5 \u00f7 5 log 2 + 5 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= ab + 1 \u00f7<u></u> ab + a<br><br>apabila ada salah harap di benarkan ya,masih awam",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-balokkubusdan-piramid-pada-bangun-ruang-819",
+            "question": "RUMUS BALOK,KUBUS,DAN PIRAMID PADA BANGUN RUANG \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>rumus-rumus kubus</strong><br>volume = s x s x s <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = s\u00b3<br>luas permukaan tertutup <br>Lp = 6 x s x s<br>\u00a0\u00a0 \u00a0 = 6s\u00b2<br>luas permukaan tanpa tutup<br>Lp = 5 x s x s<br>\u00a0\u00a0 \u00a0  = 5s\u00b2<br>krangka <br>kra = 12 x s<br>\u00a0\u00a0 \u00a0\u00a0 = 12s<br>diagonal sisi<br>ds = s\u221a2<br>diagonal ruang <br>dr = s\u221a3<br><br><strong>rumus-rumus balok</strong><br>volume = p x l x t<br>luas permukaan tertutup<br>Lp = 2 (pxl + pxt + lxt) <br>luas permukaan tanpa tutup <br>Lp = 2 (pxt + lxt) + pxl <br>diagonal sisi ada 3 rumus <br>diagonal sisi pada alas <br>ds = \u221a (p\u00b2+l\u00b2)<br>diagonal sisi pada samping <br>ds = \u221a (l\u00b2 + t\u00b2)<br>diagonal sisi pada depan <br>ds = \u221a ( p\u00b2+t\u00b2)<br>diagonal ruang <br>dr = \u221a(p\u00b2+l\u00b2+t\u00b2)<br>krangka balok <br>kran = 4 (p+l+t) <br><br><strong>rumus-rumus piramit atau limas </strong><br>untuk bangun ruang ini bergantung pada bentuk bangun datar pada bidang alasnya atau sering di sebut segi-n <br>macam-macam limas seperti : limas segitiga, limas persegi, limas persegi pajang, limas belah ketupat, limas layang, layang, limas segi 5, dan lain sebagainya. rumus limat dapat di simpulkan seperti di bawah <br>rumus-rumu limas <br>volume = 1/3 x luas alas x Tlimas\u00a0 <br>luas permukaan <br>Lp = luas alas + jumlah luas sisi tegak <br>luas selimut<br>Ls = luas sisi tegak x banyak sisi tegak <br>krangka <br>krang= kliling alas + panjang banak rusuk tegak <br>banyak titik sudut <br>sudut = n + 1<br>banyak rusuk <br>rusuk = 2 x n\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus bangun ruang <br>smoga membantu<br>",
+                    "attachments": [
+                        "answer-attachments/rumus-balokkubusdan-piramid-pada-bangun-ruang-819-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-bilangan-1011121399-dari-deret-diatas-te-608",
+            "question": "Diketahui deret bilangan 10+11+12+13+...+99. Dari deret diatas tentukan jumlah bilangan yg habis dibagi 2 tapi tidak habis dibagi 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Yang habis di bagi 2\n<br><span>Un = a + (n-1)b</span>\n\n<br>98 = 10 + 2n-2\n\n<br>98 = 8 +2n\n\n<br>2n = 90\n\n<br>n = 45<br>\u00a0Yang habis dibagi 3\n\n<span><br>Un = a + (n-1)b</span>\n\n<br>99 = 12 + 3n-3\n\n9<br>9 = 9 + 3n\n<br>\n3n = 90\n<br>\nn = 30\n\n<br>yang habis dibagi 2 tetapi tdk habis di bagi 3\n\n<br>n = 45 \u2013 30\u00a0<span>= 15</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-mencatat-hsil-panenanya-slma-11-hari-jka-hsil-prt-526",
+            "question": "Seorang petani mencatat hsil panenanya slma 11 hari, jka hsil prtma 15 kg dan mengalami kenaikan tetap sbsr 2 kg setiap hari, maka jmlh hsil panen yg di catat adalah ???    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seorang petani mencatat hasil panenanya selama 11 hari, jika hasil pertama 15 kg dan mengalami kenaikan tetap sebesar 2 kg setiap hari, maka jumlah hasil panen yg di catat adalah ...</p><p><strong>Barisan aritmetika</strong> adalah barisan bilangan dengan hasil pengurangan setiap suku dengan suku sebelumnya selalu sama atau tetap.</p><p>Suku ke-n \u00a0\u00a0\u2192 \u00a0\u00a0Un = a + (n - 1) b</p><p><strong>Deret aritmetika</strong> adalah penjumlahan dari suku-suku suatu barisan aritmetika.</p><p>Jumlah n suku pertama \u2192 \u00a0\u00a0Sn = n/2 [2a + (n - 1) b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0atau Sn = n/2 (a + Un)</p><p></p><h2>Pembahasan</h2><p>Diketahui :</p><p>hasil panen pertama (a) = 15 kg</p><p>kenaikan hasil panen (b) = 2 kg</p><p>lama panen (n) = 11 hari</p><p>Ditanya :</p><p>jumlah hasil panen yg dicatat (Sn) ?</p><p><u><strong>Jawab :</strong></u></p><p><strong>Jumlah hasil panen yang dicatat selama 11 hari</strong></p><p>Sn = \u207f/\u2082 [2a + (n - 1) b]</p><p>S\u2081\u2081 = \u00b9\u00b9/\u2082 [2 (15) + (11 - 1) 2]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 [30 + 20]</p><p> \u00a0 \u00a0 = \u00b9\u00b9/\u2082 \u00d7 50</p><p> \u00a0 \u00a0 = 11 \u00d7 25</p><p> \u00a0 \u00a0 = 275</p><p>Jadi jumlah hasil panen yang dicatat adalah 275 kg</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan dan Deret</h3><ol><li>Andri berhutang pada Beny 20 bulan akan lunas, bulan pertama Andri membayar Rp. 25.000,00 , bulan kedua Rp. 27.000,00 dan seterusnya, maka hutang Andri \u2192 https://brainly.co.id/tugas/14993248</li><li>Suku ke-8 suatu deret aritmatika = 20, \u00a0jumlah suku ke-2 dengan suku ke-5 adalah 4. Jumlah 20 suku pertama \u2192 brainly.co.id/tugas/15253327</li><li>Hitunglah jumlah semua bilangan asli antara 16 dan 394 yang habis dibagi 3, tetapi tidak habis di bagi 5 \u2192 brainly.co.id/tugas/21032962</li><li>Jumlah tiga bilangan barisan aritmatika = 45, jika suku kedua di kurangi 1 dan suku ke 3 di tambah 5, maka barisan tersebut menjadi barisan geometri \u2192 brainly.co.id/tugas/6359670</li><li>Lima bilangan positif membentuk barisan aritmatika naik. Jika jumlahnya adalah 30 adalah hasil kalinya adalah 3840. \u2192 brainly.co.id/tugas/268190</li></ol><h3>Detil Jawaban \u00a0</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 11 SMA \u00a0</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 7 - Barisan dan Deret</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 11.2.7</li><li>Kata kunci : barisan aritmetika, soal cerita, jumlah hasil panen</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-merupakan-pasangan-invers-dari-fungsi-fxx43-adalah-422",
+            "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

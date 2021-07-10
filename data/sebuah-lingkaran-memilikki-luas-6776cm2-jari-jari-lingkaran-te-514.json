@@ -1,0 +1,148 @@
+{
+    "question": "Sebuah lingkaran memilikki luas 6.776cm\u00b2. jari-jari lingkaran tersebut adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "L= phi . r kuadrat <br>6776 = 22/7 . r kuadrat <br>r kuadrat = 6776 x 7/22 (dibalik)<br>r kuadrat = 2156 <br>jari - jari = 46,4 cm <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-sebuah-lingkaran-yang-berdiameter-50-cm-terdapat-sebuah-tali-374",
+            "question": "Pada sebuah lingkaran yang berdiameter 50 cm terdapat sebuah tali busur sepanjang 48 cm. Panjang apotema pada tali busur tersebut adalah...??\u00a0    tx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Buat sketsa\u00a0<br><span>Tali busur akan terbagi dua oleh jari-jari\u00a0</span><br><span>sehingga :\u00a0</span><br><span>Misal : Apotema = a\u00a0</span><br><span>a^2 = 25^2 - 24^2\u00a0</span><br><span>......= 625 - 576\u00a0</span><br><span>a^2 = 49</span><br><span>a = \u221a49\u00a0</span><br><span>a = 7 cm\u00a0</span><br><br><br><span>Jadi panjang apotema 7 cm\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menggunakan rumus segitiga siku2 dengan\u00a0 a = sisi alas , b = sisi datar dan c = hipotenusa <br><br>diketahui diameter 50 cm = 50 : 2 = 25 <br>panjang tali busur 48 : 2 = 24<br>berarti kita mencari apotema atau sisi datarnya yaitu b<br>b = \u221a25pangkat2 di kurang \u221a24pangkat2<br>b= \u221a625-\u221a576<br>b=\u221a49<br>b= 7 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857",
+            "question": "Perhatikan gambar berikut .    S adalh pusat lingkaran \u00a0suut =21 derajat\r\nsudut SPR=27 derajat .teentukanlahsudut PRS.sudut SQR,sudut PRQdan sudut PSQ\r\n\r\n\r\nmohon bantuannya dengan cara :)",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "PRS = 21 Derajat<br>SQR = 27 Derajat<br>PRQ = 42 Derajat<br>PSQ = 84 Derajat",
+                    "attachments": []
+                },
+                {
+                    "answer": "&lt;PRS = 21\u00b0 karena menghadap busur PQ ( &lt;SRQ juga menghadap busur PQ )<br>&lt;SQR = 27\u00b0 <br>&lt;PRQ = 42\u00b0 karena jumlah suudut PRS dan sudut SRQ<br>&lt;PSQ = 84\u00b0 karena sudut pusat = 2 \u00d7 sudut keliling &lt;PRQ<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-harga-sepasang-sepatu-dua-kali-harga-sepasang-sandal-s-930",
+            "question": "Diketahui harga sepasang sepatu dua kali harga sepasang sandal. Sepasang pedagang membeli 4 pasang sepatu dan 3 pasang sandal. Pedagang tersebut harus membayar Rp275.000,00.    a. Buatlah model matematika dari keterangan di atas.\r\nb. Selesaikanlah model matematika tersebut. Kemudian,tentukan harga 3 pasang sepatu dan 5 pasang sandal.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0Model matematika<br>\u00a0 \u00a0\u00a04.2x + 3.x = 275.000<br><br>b. \u00a0 \u00a0\u00a04.2x + 3.x = 275.000<br>&lt;=&gt; 8x + 3x \u00a0 \u00a0 \u00a0= 275.000<br>&lt;=&gt; 11x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 275.000<br>&lt;=&gt; x = <u>275.000</u> = 25.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11<br>harga sepasang sandal Rp 25.000<br>harga sepasang sepatu Rp 2\u00d725.000 = Rp 50.000<br><br>Jadi,3 pasang sepatu = 3\u00d750.000 = Rp\u00a0150.000<br>\u00a0 \u00a0 \u00a0 \u00a05 pasang sandal = 5\u00d725.000 = <u>Rp 125.000</u> +<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Rp 275.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "misal sepatu = x, sandal = y<br>a. x = 2y......1<br>4 pasang sepatu dan 3 sandal\u00a0 = 275.000<br>4x + 3y = 275.000.....2<br>substitusikan 1 ke 2<br><br>4(2y) + 3y = 275.000<br>8y + 3y = 275.000<br>11y = 275.000<br>y = 275.000/11 = 25.000 berarti x = 2y = 2 x 25.000 = 50.000<br>harga 3 pasang sepatu dan 5 pasang sandal = &gt; 3x + 5y = ?<br>3(50.000) + 5(25.000) = 150.000 + 75.000 = 225.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-alas-sebuah-segitiga-sama-kaki-20-cm-dan-panjang-salah-sa-144",
+            "question": "Panjang alas sebuah segiTiga sama kaki 20 cm Dan panjang salah satu kakinya 26 cm.\u00a0    A. Garis\u00a0 tinggi Dari titik puncak ke sisi alas adalah?\r\nB. Berapakah luas segitiga tersebut?\u00a0\r\nPlease dibantu sama caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A) karna segitiga sama kaki maka segitiga sama kaki tersebut dapat dibagi menjadi dua segitiga tegak lurus , sehingga alasnya 1/2 x 20 = 10<br>maka[tex]=  \\sqrt{ 26^{2}  - 10^{2} } =  \\sqrt{ 676 - 100 } =  \\sqrt{ 576}  = 24[/tex]<br><br>B) Untuk luas segitiga<br>[tex] \\frac{1}{2} * alas * tinggi =  \\frac{1}{2} * 20 cm * 24 cm =   240 cm^{2} [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barang-dengan-harga-rp12000-dibeli-dengan-harga-rp10200-672",
+            "question": "Sebuah barang dengan harga Rp12.000 dibeli dengan harga Rp10.200. Besar diskon untuk barang itu adalah...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12000x15/100 = 1800<br><br>12000-1800 = 10200<br><br>jadi,jumlah diskon adalah 15 persen<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-dengan-suku-ke-390-dan-ke-5-810-jum-444",
+            "question": "diketahui barisan geometri dengan suku ke- 3=90 dan ke-5 =810 jumlah 6 suku pertama barisan\u00a0 itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U3 = 90<br>U5 = 810<br>r\u00b2 = [tex] \\frac{810}{90} [/tex] = 9 \u21d4 r = 3<br><br>U1 = Un[tex] \\frac{Un}{r^{n-1} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{3^{3-1} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{3^{2} } [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{90}{9} [/tex]<br><br>\u00a0\u00a0 \u00a0 = 10<br><br>Sn = U1 x ([tex] r^{n} [/tex]-1)<br>S6 = 10 x ([tex] 3^{6} [/tex]-1)[tex] \\frac{10 \u00d7 (3^{6}-1)}{3-1} [/tex]<br><br>\u00a0\u00a0 \u00a0  = [tex] \\frac{10 x (729-1)}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{10 x 728}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = [tex] \\frac{7280}{2} [/tex]<br><br>\u00a0\u00a0 \u00a0 = 3.640<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-sejauh-30-km-ke-arah-timur-kemudian-40-km-k-828",
+            "question": "sebuah kapal berlayar sejauh 30 km ke arah timur kemudian 40 km ke arah utara. jarak kapal sekarang dari tempat semula adalah???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menggunakan rumus pitagoras<br>30^2+40^2=jawaban^2<br><br>900+1600= 2500<br>\u221a2500=50 jadi jawabanya adalah 50<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Gunakan timur dg ketetapan peta sehingga timur sebagai sb x dan utara sb sumbu y.<br>sumbu x=30 m dan sb y=40<br><br>maka dg rumus phytagoras didapatkan 50 m dari posisi semula",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "herman-meminjam-uang-di-bank-sebesar-rp900000-bank-tersebut-me-485",
+            "question": "Herman meminjam uang di bank\u00a0sebesar Rp900.000. Bank tersebut memberikan bunga pinjaman 15% per tahun. Jika Herman hendak mengembalikan pinjaman dengan cara menyicil selama 18 bulan, maka besar cicilan tiap bulannya adalah....    (pake cara yah.. yang jelas caranya!!)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "18 bln = 1 1/2 thn\u00a0 1 thn = 15%, 1/2 thn = 7,5%, 15+7,5=22,5, 1 1/2 thn = 22,5%<br>22,5%x900.000 = 22,5/100x900.000 = 20.250<br>20.250 : 18 bln = Rp.1.125,00 = bunga tiap bln<br>900.000 : 18 bln = Rp.50.000,00 = cicilan tiap bln<br>Rp.1.125,00 + Rp.50.000,00 = Rp. 51.125,00<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp900.000 x (15%+7.5%) = (Rp900.000 x 22.5%) + Rp900.000 : 18bulan<br>\u00a0= (Rp202.500 + Rp900.000) : 18 bulan<br>=Rp1.102.500 : 18 = Rp61.250<br><br>(moga benar)<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-sudut-berpelurus-dengan-perbandingan-7-5-salah-sudut-yg-d-107",
+            "question": "Dua sudut berpelurus dengan perbandingan 7 : 5 . Salah sudut yg d mksud adalah \r\n\r\nhelp me",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Berpelurus = 180\u00b0<br>[tex] \\frac{7}{7+5} [/tex] x 180\u00b0 = 105\u00b0<br>[tex] \\frac{5}{7+5} [/tex] x 180\u00b0 = 75\u00b0<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-umum-yang-menunjukkan-hubungan-antara-sudut-pusat-760",
+            "question": "Tuliskan rumus umum yang menunjukkan hubungan antara sudut pusat dan sudut keliling",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus sudut keliling : 1/2 . sudut pusat<br>Rumus sudut pusat : 2. sudut keliling",
+                    "attachments": []
+                },
+                {
+                    "answer": "sdt kliling : 1/2 sdt pusat<br>sudt pusat : 2 sudt klilng",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

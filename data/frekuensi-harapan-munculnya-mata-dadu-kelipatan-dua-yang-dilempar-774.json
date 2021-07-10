@@ -1,0 +1,156 @@
+{
+    "question": "Frekuensi harapan munculnya mata dadu kelipatan dua yang dilempar 480 kali adalah..?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "peluang : {2,4,6} = 3/6 = 1/2<br>frekuensi harapan = peluang x banyak percobaan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240",
+            "attachments": []
+        },
+        {
+            "answer": "peluang 2,4,6 = 3<br>frekuensi harapan = peluang x banyak percobaan<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-tempat-mainan-berbentuk-balok-dibuat-dari-tripleks-untuk-425",
+            "question": "sebuah tempat mainan berbentuk balok dibuat dari tripleks. untuk membuatnya diperlukan tripleks 8,64 m\u00b2. jika tinggi tempat mainan 2m dan lebarnya 0,6 m maka panjangnya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas permukaan balok = (panjang x lebar) + (Panjang x tinggi) + (tinggi x lebar)<br>\u00a08,64 = (p x l) + (p x t) + (2 x 0,6)<br>\u00a08,64 = 1,2 + p ( t x l)<br>8,64 - 1,2 = p(2 x 0,6)<br>7,44 = 1,2p<br>panjang = 7,44/1,2 = 6,2 m",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permukaan balok = \n&lt;=&gt; ((pxl) + (pxt) + (lxt)) x2\n&lt;=&gt; ((p(l+t) + (lxt))x2\n&lt;=&gt; ((p(0,6+2) + (0,6x2))x2=8,64\n&lt;=&gt; 2,6p +1,2=4,32   &lt;=&gt; 2,6p = 4,32 - 1,2\n&lt;=&gt; 2,6p=3,12  &lt;=&gt; p= 3,12/2,6\np=1,2\n\njd panjang balo adalah 1,2 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-31000-pangkat-3-hasil-dari-12-pangkat-minu-123",
+            "question": "Nilai dari : (3\u221a1000) pangkat 3\u00a0\r\nHasil dari (1/2) pangkat minus 3 x (1/2) pangkat 4\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u25a0(3akar1000)^3= 3\u00d73\u00d73=27, akar1000 pangkat 3=1,000,000. jadi hasil\nnya 27,000,000.\n\u25a0(1/2)^-3= 1/ 1/8= 8. sedangkan (1/2)^4= 1/16. jadi 8\u00d7 1/16= 8/16= 1/2= 0,5..",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](3 \\sqrt{1000} )^{3} = 27 * 1000 \\sqrt{1000} = 270000\\sqrt{10} \\\\ ( \\frac{1}{2} )^{-3} * ( \\frac{1}{2} )^4 = ( \\frac{1}{2} )^{-3 + 4} = \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-panjang-jari-jarinya-2-cm-dan-3-cm-tentukan-181",
+            "question": "Dua buah lingkaran panjang jari-jarinya 2 cm dan 3 cm\u00a0    tentukan 1. perbandingan jari-jarinya\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02. perbandingan kelilingnya\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03. \u00a0perbandingan luasnya\r\ndengan penjelasan ya karena saya tidak paham jika ada kata ttg lingkaran kok pakek perbandingan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "- perbandingan jari-jari = 2:3<br>- perbandingan keliling <br>=\u00a03, 14 . 4 : 3,14 . 6<br>= 12,56 : 18,84<br>- perbandingan luas<br>= 3, 14. 2. 2 : 3, 14. 3. 3<br>= 12,56: 28, 26<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "R1 = 2 cm\u00a0 \u00a0  R2 = 3 cm<br>a. perbandingan jari-jari<br>R1 : R2<br>2 : 3<br><br>b. perbandingan keliling<br>2 x [tex] \\pi [/tex] x R1 : 2 x [tex] \\pi [/tex] x R2<br>2 x [tex] \\pi [/tex] x 2 : 2 x [tex] \\pi [/tex] x 3<br>2 : 3<br><br>c. perbandingan luas<br>[tex] \\pi [/tex] x R1 x R1 : [tex] \\pi [/tex] x R2 x R2<br>2 x 2 : 3 x 3<br>4 : 9<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2x-6-2-x4-cara-penyelesaiannya-gimana-2-438",
+            "question": "1 (2x-6) \u2265 2 (x+4) cara penyelesaiannya gimana ???\r\n2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-6 &gt; 2x + 8\n2x - 2x &gt; 8 + 6\nx &lt; 14",
+                    "attachments": []
+                },
+                {
+                    "answer": "1x-3\u22652/3x+8/3<br>1x-3x\u22658/3 +3<br>3x/3-2/3x\u22658/3+3/3<br>-1/3x\u226511/3<br>x\u226411/3\u00b73<br>x\u226411<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kolam-berbentuk-lingkaran-berjari-jari-40m-di-sekeliling-k-353",
+            "question": "sebuah kolam berbentuk lingkaran berjari-jari 40m di sekeliling kolam di buat jalan melingkar selebar 2 m jika biaya untuk membuat jalan tiap 1m\u00b2 adalah Rp20.000,00 hitunglah seluruh biaya untuk membuat jalan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L1 =\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 = 3,14 x 40 m x 40 m<br>\u00a0 \u00a0 = 5024 m\u00b2<br>L2 =\u00a0\u03c0 x r\u00b2<br>\u00a0 \u00a0 = 3,14 x 42 m x 42 m<br>\u00a0 \u00a0 = 5538,96 m\u00b2<br>L jalan = 5538, 96 m\u00b2 - 5024 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 514,96 m\u00b2<br>Biaya total = biaya awal x L jalan]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 20.000 x 514,96 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp\u00a010.299.200",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-mempunyai-luas-juring-opq-1925cm2-dan-luas-j-518",
+            "question": "Sebuah lingkaran mempunyai luas juring OPQ = 19,25cm\u00b2 dan luas juring ORS = 51,33cm\u00b2. jika besar POQ = 45 derajat maka besar ROS adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "19,25 / 45 = 51,33 / ROS<br><br>ROS = 51,33 x 45 / 19,25<br>\u00a0 \u00a0 \u00a0 \u00a0 = 119,99<br>\u00a0 \u00a0 \u00a0 \u00a0 = 120\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-luas-lingkaran-616-cm2-sedang-luas-juring-aob-adalah-462-cm-546",
+            "question": "Jika luas lingkaran 616 cm\u00b2 sedang luas juring AOB adalah 462 cm\u00b2 ,maka besar sudut pusat AOB adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{Luas lingkaran}{Luas Juring} =  \\frac{360}{besar sudut AOB} [/tex]<br>[tex] \\frac{616}{462} = \\frac{360}{besar sudut AOB}[/tex]\u00a0<br>616xAOB=462X360\u00a0(Kali Silang )<br>616AOB=166320<br>AOB=166320 : 616<br>AOB=[tex] 270^{o} [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "616xAOB = 462x360<br>616 AOB = 166320<br>AOB =\u00a0[tex] \\frac{166320}{616} [/tex]<br>AOB = 270",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-tembereng-dari-lingkaran-yang-kelilingnya-88-cm-dan-luas-jur-888",
+            "question": "Luas tembereng dari lingkaran yang kelilingnya 88 cm dan luas juringnya 154\u00a0cm adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = \u03c0 \u00d7 d<br>88 = <u>22</u> \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 7<br>88 \u00d7<u> 7 </u>= d<br>\u00a0\u00a0 \u00a0 \u00a0 22<br>d = 28 cm<br><br>Luas juring =<u>\u00a0 a\u00a0 </u>\u00d7 \u03c0 \u00d7 r\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>154 = \u00a0\u00a0<u> a\u00a0</u>\u00a0  \u00d7<u>\u00a0 22\u00a0 </u>\u00d7 14\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 360 \u00a0\u00a0 \u00a0 7<br>55440 = a \u00d7 616<br>a = 90\u00b0<br><br>karena sudut pembentuk juring nya 90\u00b0, maka jari\"nya menjadi alas dan tinggi segitiga yang dibentuk dari talibusur.<br>Ltembereng = Luas juring - Luas segitiga<br>LT = 154 - (<u>14 \u00d7 14</u>)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2<br>LT = 154 - 98<br>LT = 56 cm\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling = 2\u03c0r<br>88 = 2.22/7.r<br>88 = 44r/7<br>r = 7\u00d788/44<br>r = 14 cm <br><br>Luas juring = \u03b1/360 \u00d7 \u03c0 \u00d7 r\u00b2<br>154 = \u03b1/360\u00d722/7\u00d714\u00b2<br>154 = 4312\u03b1/2520<br>\u03b1 = 2520\u00d7154/4312<br>\u03b1 = 90<br>Luas tembereng = luas juring - luas segitiga<br>luas tembereng =\u00a0 154 - 1/2\u00d714\u00d714\u00d7sin90<br>luas tembereng = 154 - 98 <br>luas tembereng = 56 cm<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-a-panjang-busur-pr-dan-b-keliling-lingkaran-906",
+            "question": "Hitunglah: \r\n A. Panjang busur PR, dan\r\n B. Keliling lingkaran!",
+            "attachments": [
+                "question-attachments/hitunglah-a-panjang-busur-pr-dan-b-keliling-lingkaran-906-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "180-72= 108 derajat<br>72 derajat = 35 cm<br>108 derajat = ?<br>108/72 x 35cm= \u00a052,5 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-adik-3-tahun-lebih-muda-dari-umur-kakak-jika-jumlah-umur-me-720",
+            "question": "Umur adik 3 tahun lebih muda dari umur kakak. jika jumlah umur mereka 19 tahun. tentukan umur adik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Misalkan, umur kakak = K<br>Umur adik berarti, K - 3<br><br>Karena jumlah umur mereka = 19 tahun.<br>Maka, K + K - 3 = 19 tahun<br>2 K = 22 tahun<br>K = 11 tahun<br><br>Jadi, adik = K -3 = 11 -\u00a03 = 8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Adik = K - 3<br>Jumlah umur mereka : A + K = 19<br>A ?<br>A + K = 19<br>(K - 3) + K = 19<br>2K - 3 = 19<br>2K = 19 + 3<br>K = 22 : 2<br>K = 11<br><br>Adik : K - 3 =&gt; 11 - 3 = 8<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

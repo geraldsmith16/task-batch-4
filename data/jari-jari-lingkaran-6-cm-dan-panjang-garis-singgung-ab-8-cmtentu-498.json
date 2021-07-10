@@ -1,0 +1,144 @@
+{
+    "question": "Jari jari lingkaran 6 cm dan panjang garis singgung AB 8 cm.tentukan jarak titik pusat O ke titik B",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Garis singgung luar pada satu lingkaran<br><br>OB\u00b2 = AB^2 + r^2<br>OB^2 = 8^2 + 6^2<br>OB^2 = 64 + 36<br>OB^2 = 100<br>OB = \u221a100<br>OB = 10 cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-deret-aritmatika-mempunyai-suku-pertama-2-dan-u13-u7-30-931",
+            "question": "Suatu deret aritmatika mempunyai suku pertama 2 dan U13 - U7 = 30. Hitunglah S50.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2<br>a+12b-(a+6b)=30<br>2+12b-2-6b=30<br>6b= 30<br>b= 5<br><br>sn= n/2 (a +(n-1)5<br>S50= 25 (2+ (49)5<br>S50 = 25(2+ 245)<br>\u00a0\u00a0 \u00a0  = 25 x 247<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-108-km-jam-m-s-2-72-kmjam-ms-3-5-242",
+            "question": "1.) 108 km / jam =......... m /s 2.) 72 km/jam =....... m/s 3.) 50 m/s =......... km/jam 4.) 10 m/s =......... km/jam \u00a0 dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a072km/jam = 20m/s\u00a0<br>(72x1000) : 3600s = 20m/s<br>2.\u00a0108km/jam = 30m/s<br>(108x1000) : 3600s = 30m/s<br>3. 50m/s = 50 :1000/3600<br>\u00a050 x 3600/1000 = `180 km/jam<br>4. 10m/s = 36 km/jam<br>10x 3600/1000 = 36<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membagi-06-05-mohon-penjelasannya-167",
+            "question": "Bagaimana cara membagi 0,6 : 0,5\r\n mohon penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,6 dan 0,5 dijadikan pecahan dulu :<br>6/10 dibagi 5/10<br>setelah itu jadinya :<br>6/10 dikali 10/5 (dibalik) = 60/50 = 6/5 = 1,2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0,6 : 0,5\u00a0<br>=&gt; 6/10 : 5/10<br>=&gt;6/10 x 10/5<br>=&gt;60/50 disderhanakan menjadi<br>=&gt;6/5<br>=&gt;1,2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-himpunan-a-dan-b-sebagai-berikut-a-x-3-x-lt-712",
+            "question": "DIKETAHUI himpunan A dan B sebagai berikut.    A = {x | 3 \u2264 x &lt; 10, x bilangan bulat}\r\nB = {x | x &lt; 12, x bilangan ganjil}\r\nhasil dari A - B adalah........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maka A B adalah 125...............\n\n\n......",
+                    "attachments": []
+                },
+                {
+                    "answer": "A={3,4,5,6,7,8,9}<br>B={1,3,5,7,9,11}<br>A-B={1,4,6,8,11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-besar-salah-satu-sudut-pusat-segi-n-beraturan-adalah-15maka-162",
+            "question": "Jika besar salah satu sudut pusat segi-n beraturan adalah 15,maka jumlah besar sudut segi-n tersebut adalah. . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus : Besar sudut pusat segi n = 360/n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 15\u00a0 \u00a0 \u00a0\u00a0 = 360/n<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n\u00a0 \u00a0 \u00a0\u00a0 = 360/15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n\u00a0 \u00a0 \u00a0\u00a0 = 24<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perseg kan ada 4 sisi yg\u00a0sama,mungkin 15x4=60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-satu-set-sofa-dijual-dengan-potongan-harga-rp45000000-pak-647",
+            "question": "1. satu set sofa dijual dengan potongan harga Rp.450.000,00 . pak Bayu membeli satu set sofa tersebut dengan membayar Rp.2.100.000,00 dan mendapat kembalian Rp.50.000,00.Tentukan :    a) harga satu set sofa sebelum mendapat potongan harga \r\nb) persentase potongan harga \r\n\r\ntolongggg dijawab yaaaaaaaa........please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) 2.100.000-50.000=2.050.000\nb) 2.050.000+450.000=2.095.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]a) Rp 2.100.000 - Rp 50.000 + Rp 450.000 = Rp 2.500.000 \\\\ b) Rp 2.500.000 \u00d7\\frac{x}{100} = Rp 450.000 \\\\ x = \\frac{Rp 450.000\u00d7100}{Rp 2.500.000} \\\\ x = 18%[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-4x-lebih-besar-sama-dengan-22-hasilnya-845",
+            "question": "2 - (4+x) lebih besar sama dengan -22 hasilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-4-x &gt;_ -22<br>-6 - x &gt;_ -22<br>-x &gt;_ -16<br>x &lt;_ 16<br><br>note : &lt;_ Lebih kecil atau sama dengan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0&gt;_ Lebih besar atau sama\u00a0dengan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-mempunyai-luas-permukaan-376-cm2-jika-panjang-balok-827",
+            "question": "Sebuah balok mempunyai luas permukaan 376 cm2. jika panjang balok 10 cm, lebar balok 6 cm, berapakah tinggi balok tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Sebuah balok mempunyai luas permukaan 376 cm\u00b2. jika panjang balok 10 cm, lebar balok 6 cm, berapakah tinggi balok tersebut?</p><h3>Pendahuluan</h3><p>Balok adalah bangun ruang yang dibatasi oleh enam buah bidang berbentuk persegi panjang.</p><p><strong>Rumus Balok</strong></p><p>[tex]\\boxed {Volume = p \\times l \\times t}[/tex]</p><p>[tex]\\boxed {LP~ Balok = 2 [(p \\times l) + (p \\times t) + (l \\times t)]}[/tex]</p><p></p><h2>Pembahasan </h2><p>Diketahui : </p><p>Luas permukaan balok = 376 cm\u00b2</p><p>panjang balok = 10 cm</p><p>lebar balok = 6 cm</p><p>Ditanya : </p><p>Tinggi balok ?</p><p></p><h3>Jawab : </h3><ul><li><strong>Menentukan tinggi balok</strong></li></ul><p>LP = 2 [(p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t)]</p><p>376 = 2 [(10 \u00d7 6) + (10 \u00d7 t) + (6 \u00d7 t)]</p><p>[tex]\\displaystyle \\frac{376}{2}[/tex] = 60 + 10t + 6t</p><p>188 = 60 + 16t</p><p>16 t = 188 - 60</p><p>16 t = 128</p><p> \u00a0 \u00a0t = [tex]\\displaystyle \\frac{128}{16}[/tex] </p><p> \u00a0 \u00a0t = 8 cm</p><p>Jadi tinggi balok tersebut adalah 8 cm</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Bangun Ruang Sisi Datar</h3><ol><li>Luas permukaan gabungan balok dan 1/2 tabung \u2192 brainly.co.id/tugas/20793770</li><li>Volume sebuah tenda yang berbentuk prisma tegak segitiga \u2192 brainly.co.id/tugas/8026010</li><li>Luas permukaan limas segiempat \u2192 brainly.co.id/tugas/14410864</li><li>Luas permukaan prisma trapesium \u2192 brainly.co.id/tugas/9624288</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 8 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 8 - Bangun Ruang Sisi Datar</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 8.2.8</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/sebuah-balok-mempunyai-luas-permukaan-376-cm2-jika-panjang-balok-827-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berapa-jumlah-dari-a-sembilan-bilangan-ganjil-yg-pertama-b-se-267",
+            "question": "Berapa jumlah dari :    a. sembilan bilangan ganjil yg pertama\r\n b. sebelas bilangan ganjil yg pertama\r\n c. lima belas bilangan ganjil yg prtma\r\n d. dua puluh dua bilangan ganjil yg prtma",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong><em>Bab Barisan &amp; Deret Aritmatika</em></strong><br><strong><em>Matematika SMP Kelas IX</em></strong><br><strong><em></em></strong><br><br><br>Diketahui:<br>Suku pertama barisan bilangan ganjil adalah U\u2081 atau a = 1<br>Beda b = 2<br><br>Ditanya: S\u2089, S\u2081\u2081, S\u2081\u2085, S\u2082\u2082<br><br>Penyelesaian:<br><br><em>Makna dari \"jumlah n suku yang pertama\" adalah Sn</em><br><em></em><br><strong>Sn = \u207f/\u2082.[2a + (n - 1)b]</strong><br><strong></strong><br>[a]<br><br>S\u2089 = \u2079/\u2082.[2(1) + (9 - 1)(2)]<br>\u00a0\u00a0\u00a0 <br>\u00a0\u00a0\u00a0 = 9.[1 + 8]<br><br>\u00a0\u00a0\u00a0 = 81\u00a0\u00a0<br><br>[b]<br><br>S\u2081\u2081 = \u00b9\u00b9/\u2082.[2(1) + (11 - 1)(2)]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 11.[1 + 10]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 121<br><br>[c]<br><br>S\u2081\u2085 = \u00b9\u2075/\u2082.[2(1) + (15 - 1)(2)]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 15.[1 + 14]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 225\u00a0<br><br>[d]<br><br>S\u2082\u2082 = \u00b2\u00b2/\u2082.[2(1) + (22 - 1)(2)]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 22.[1 + 21]<br><br>\u00a0\u00a0\u00a0\u00a0\u00a0 = 484<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "gunakan rumus Sn aritmatika\u00a0<br><br>dg b = 2 krn setiap bilangan ganjil bedanya 2<br><br>rumus umum<br>Sn = n/2 ( 2a + (n-1)b)<br><br>a) masukkan angka 9 pada n<br>\u00a0 \u00a0 S9 = 9/2 (2 + (9-1)2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9/2 (2 + 16)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9 (9)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 81<br><br>b) S11 = 11/2 (2a + 10.2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11/2 (2 + 20)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11 (11)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 121<br><br>c) S15 = 15/2 (2a + 28)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 15(1+ 14)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 225<br><br>d) S22 = 22/2 (2.1 + 21.2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11(2+42)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 484",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-847",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika sin x = sin alfa, maka :\u00a0<br><br><span>x = alfa + k . 360, dan\u00a0</span><br><span>x = (180 - alfa) + k . 360\u00a0</span><br><br><span>k = bilangan bulat\u00a0</span><br><br><span>sin 2x = 1/2\u00a0</span><br><span>sin 2x = sin 30\u00a0</span><br><br><span>i)\u00a0</span><br><span>2x = 30 + k . 360\u00a0</span><br><span>x = 15 + k . 180\u00a0</span><br><br><span>k = 0 -&gt; x = 15\u00a0</span><br><span>k = 1 -&gt; x = 195\u00a0</span><br><br><span>ii)\u00a0</span><br><span>2x = (180 - 30) + k . 360\u00a0</span><br><span>2x = 150 + k . 360\u00a0</span><br><span>x = 75 + k . 180\u00a0</span><br><br><span>k = 0 -&gt; x = 75\u00a0</span><br><span>k = 1 -&gt; x = 255\u00a0</span><br><br><span>HP : {15, 75, 195, 255}<br><br>Semoga Membantu,,,</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

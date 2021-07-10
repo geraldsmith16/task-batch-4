@@ -1,0 +1,145 @@
+{
+    "question": "Sebuah benda tegar dikenai gaya 8 N dengan titik    tumpu gaya berjarak 24 cm dari pusat rotasi dan membentuk sudut 150 \r\n drajad. tentukanlah torsi yang terjadi pada benda tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "torsi= f x l<br>=8 x0,24m<br>=1,92<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-transformator-menurunkan-tegangan-listrik-bolak-balik-dari-861",
+            "question": "sebuah transformator menurunkan tegangan listrik bolak-balik dari 220 volt menjadi 10 volt. efisiensi transformator 60%. bila kuat arus pada kumparan sekunder 6,6 ampere, maka kuat arus pada kumparan primernya adalah... A",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Efisiensi = [tex] \\frac{P s}{P p} [/tex]<br>P = V . I<br><br>Jadi, Efisiensi = [tex] \\frac{Vs . Is}{Vp . Ip} [/tex]<br>60 % = [tex] \\frac{10.6,6}{220.x} [/tex]<br>x = [tex] \\frac{6600}{13200} [/tex]<br>x = 0,5 A<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "efisiensi=[tex] \\frac{Pkeluaran}{Ptotal} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = [tex] \\frac{Vs.Is}{Vp.Ip} [/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 60%\u00a0 =\u00a0  [tex] \\frac{10x6,6}{220xIp} [/tex] <br>\u00a0\u00a0 Ip\u00a0 \u00a0 \u00a0\u00a0 =\u00a0   [tex] \\frac{10x6,6}{220x60%} [/tex]\u00a0 = 0,5 A <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-koefisin-restitusi-pada-a-tumbukan-lentingelas-398",
+            "question": "Tuliskan rumus koefisin restitusi pada :     a. tumbukan lenting(elastis) sempurna\r\nb. tumbukan lenting(elastis) sebagian\r\nc. tumbukan lbola dengan lantai",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus koefisien restitusi untuk tumbukan di bidang mendatar adalah <br><br>[tex]e=- \\frac{v&#039;_{2}-v&#039;_{1}}{v_{2}-v_{1}} [/tex] <br><br>(a). Untuk <span>tumbukan lenting (elastis) sempurna<br>\u00a0\u00a0 \u00a0 \u00a0  e = 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga v&#039;\u2082 - v&#039;\u2081 = v\u2081 - v\u2082<br><br>(b). </span><span>tumbukan lenting (elastis) sebagian</span><span><br>\u00a0\u00a0 \u00a0 \u00a0 0 &lt; e&lt; 1<br>\u00a0\u00a0 \u00a0 \u00a0 sehingga rumus koefisien restitusi di atas akan memiliki nilai sesuai nilai e\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 di soal\u00a0 \u00a0 \u00a0 <br><br>(c). tumbukan bola dengan lantai<br>\u00a0\u00a0 \u00a0 \u00a0 rumus koefisien restitusinya adalah <br>\u00a0\u00a0 \u00a0 \u00a0  [tex]e= \\sqrt{ \\frac{h&#039;}{h} } [/tex]<br>\u00a0 \u00a0 \u00a0\u00a0 dengan h = ketinggian sebelum memantul (mengarah ke bawah)<br>\u00a0\u00a0 \u00a0 \u00a0 dan h&#039; = ketinggian sesudah pantulan</span> <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-teropong-bintang-dapat-menghasilkan-perbesaran-bayangan-10-226",
+            "question": "sebuah teropong bintang dapat menghasilkan perbesaran bayangan 10kali. jika jarak fokus lensa obyektifnya 100cm, maka jarak antara lensa obyektif dan lensa okuler teropong itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=fob:fok<br>fok=fok:M<br>fok=100:10<br>fok=10<br>d=fob+fok<br>\u00a0 =100+10<br>\u00a0 =110 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686",
+            "question": "Gaya listrik yang dialami q dari titik A adalah 12 N. Jika muatan q digeser mendekati titik A sejauh 5mm, ma gaya listrik yang dialamai muatan q adalah .... ()",
+            "attachments": [
+                "question-attachments/gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Gunakan perbandingan antar variabel\u00a0<br>[tex]F = k \\frac{qq&#039;}{r^2} = F \\alpha \\frac{1}{r^2}\n\n\n[/tex]<br><br>Artinya besar gaya listrik berbanding terbalik dengan kuadrat jarak\u00a0<br><br>Berdasar gambar di atas jarak nya 10 mm, digeser mendekati titik A sejauh 5 mm, artinya jarak menjadi 1/2 lebih dekat yang berakibat listrik menjadi 4 kali semua yaitu 12 x 4 = 48 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pejalan-kaki-melakukan-usaha-25-x-105-j-dalam-suatu-lat-302",
+            "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-yaa-sbuah-tabung-dengan-massa-180-kg-panjang-6-m-d-732",
+            "question": "Tolong bantu yaa    sbuah tabung dengan massa 180 kg. panjang 6 m, dan luas penampang 25 cm berdiri tegak di atas lantai maka besar tekanan berapa.... N/m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = F / A<br>= (180 . 9,8) / 0,25<br>= .... / 0,25<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "P = F/A<br>\u00a0 \u00a0= 180.10 / 0,25<br>\u00a0 \u00a0= 7200 Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667",
+            "question": "Hitunglah laju aliran volume air dalam pipa yang berjari-jari 5 cm dengan laju 10 cm/det ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Mekanika Fluida<br>Kelas : 2 SMA/XI SMA<br>Pembahasan :<br>Jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667-1.png"
+                    ]
+                },
+                {
+                    "answer": "Dik:<br>r = 5 cm --&gt; 0,05 m<br>v = 10 cm/s --&gt; 0,1 m/s<br>Dit:<br>Q = ...?<br>Jawab:<br>Q = A v<br>= \u03c0r\u00b2 . 0,1<br>= 3,14 (0,05)\u00b2 . 0,1<br>= 0,000785m\u00b3/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285",
+            "question": "1. air laut termasuk senyawa atau tidak?jelaskan    2. darah manusia senyawa atau campuran?jelaskan\r\n3. mengapa obat sirup dikocok dulu sebelum diminum,jelaskan?\r\n4. jell termasuk zat padat,cair atau gas?jelaskan\r\n5. pada kutub utara mengapa ikan dan tumbuhan masih bisa hidup,jelaskan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lihat dalam tabel<br><br>Semoga membantu :)\u00a0D",
+                    "attachments": [
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-1.png",
+                        "answer-attachments/1-air-laut-termasuk-senyawa-atau-tidakjelaskan-2-darah-manusia-285-2.png"
+                    ]
+                },
+                {
+                    "answer": "1.air laut merupakan campuran karna terdapat dil dalam laut ema,minyak bumi,hasil tambang alainnya yang membuat air laut merupakan campuran.<br><br>2.darah merupakan senyawa karna di dalam darah juga terkandung senyawa yang di kenal dengan oksigen atau o2.<br><br>3.sirup dikocok dahulu sebelum di minum karna sirup meerupakan campuran yang harus tercampur.<br>melalui proses percampuran.<br><br>4.jel pada sudah di bekukan adalah zat padat tapi saat di lelehkan merupakan zat cair.<br><br>5.karna adanya daerah nya yang memungkinkan makhluk hidup tinggal dan hidup dan terdiri dari air yang menjadi es di kutub utara<br><br><br><br>semoga membantu dan bermanfaat :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "elektron-bergerak-dengan-kecepatan-08-c-momentum-relativitas-el-209",
+            "question": "Elektron bergerak dengan kecepatan 0,8 c. Momentum relativitas elektron tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : mo ( massa diam elektron ) = [tex] 9 * 10^{-31} [/tex] kg<br>\u00a0\u00a0 \u00a0 \u00a0 v = 0,8 c<br>dit momentum relativitas (p)<br>peny<br><br>[tex]p =  \\frac{mo * v }{ \\sqrt{1-v^{2}/ c^{2}  } } [/tex]<br><br>[tex]p =  \\frac{9 * 10^{-31} * 0,8c }{ \\sqrt{1-(0,8c)^{2}/ c^{2}  } } [/tex]<br><br>[tex]p =  \\frac{7,2 * 10^{-31}c}{ \\sqrt{1-0.64} } [/tex]<br><br>[tex]p =  \\frac{7,2 *  10^{-31} }{ \\sqrt{0,36} } [/tex]<br><br>[tex]p =  \\frac{7,2 *  10^{-31}c }{0,6}  [/tex]<br><br>[tex]p = 12 * 10^{-31} c[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-gabus-berjarak-2-m-berada-mengapung-di-bukit-dan-lembah-gelom-980",
+            "question": "Dua gabus berjarak 2 m berada mengapung di bukit dan lembah gelombang laut yang berdekatan. Butuh waktu 1 sekon untuk kedua gabus berubah posisi dari bukit ke lembah gelombang. Panjang gelombang dan kecepatan rambat gelombang laut tersebut adalah ..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak bukit dan lembah adalah setengah jarak bukit ke bukit (4m) bila dalam 2m per 1 second maka kecepatannya 2 m /s\u00a0<br><br>\u00a0-&gt;\u00a0[tex] \\frac{1}{2} \\lambda = 2 m = \\lambda =4m [/tex]<br>\u00a0Dari bukit ke lembah butuh 1 second maka\u00a0[tex]\\frac{1}{2}T = 1s =&gt; T = 2s [/tex]<br><br>Kecepatan rambat gelombang adalah\u00a0[tex]v = \\frac{\\lamda}{T} = \\frac{4}{2} = 2 m /s[/tex]",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

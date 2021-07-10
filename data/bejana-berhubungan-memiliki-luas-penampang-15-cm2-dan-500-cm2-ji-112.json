@@ -1,0 +1,136 @@
+{
+    "question": "Bejana berhubungan memiliki luas penampang 15    cm2 dan 500 cm2. Jika pada penampang kecil ditekan\r\ndengan gaya 10 N maka berapakah massa beban yang\r\ndapat diangkat pada penampang besar?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Rumus dari bejana berhubungan bila diketahui luas penampang nya adalah\u00a0<br><br>[tex]P = \\frac{F}{A} [/tex]<br><br>P = tekanan\u00a0<br>F = Gaya<br>A = luas penampang\u00a0<br><br>Konsep dari bejana berhubungan adalah memiliki tekanan hidrostatis yang sama.<br><br>p1 = p2\u00a0<br>p1 =\u00a0[tex] \\frac{10}{15} = 0.6[/tex]<br><br>Maka gaya pada F2 adalah<br>p2 = F2 / A2\u00a0<br><br>0.6 = F2 / 500\u00a0<br>F2 = 0.6 * 500\u00a0<br>F2 = 300\u00a0<br><br>F2 = m.g\u00a0<br>300 = m.10<br>m = 30\u00a0<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "P1 = P2\u00a0<br>udah bandingkan aja dua duanya dapet deh :D\u00a0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "balok-bermassa-10-kg-terletak-di-atas-permukaan-kasar-dengan-miu-296",
+            "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "N= w<br>N= 10x10 &gt; 100N<br>\u03a3F= m.a<br>F-f=m.a<br>100-(100x0,4)=10a<br>100-40=10a<br>a=60/10<br>a=6 m/s2<br>mencari kecepatan menggunakan rumus kecepatan dan jarak:<br>Vt\u00b2=Vo\u00b2+2as<br>Vt\u00b2=0\u00b2+2.6.3 (kecepatan awal 0 m/s)<br>Vt\u00b2= 36<br>Vt= \u221a36 &gt; 6 m/s.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kabel-baja-yang-berdiameter-127-cm-diregangkan-dengan-gay-695",
+            "question": "Sebuah kabel baja yang berdiameter 1,27 cm diregangkan dengan gaya sebesar \u00a0N sehingga kabel baja tersebut mengalami pertambahan panjang sebesar 8,7 mm. Berapakah panjang mula-mula kabel baja sebelum diregangkan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik d = 1,27 cm = 0,0127 m = 1,27x10^-2 m<br>\u00a0 \u00a0 \u00a0l1 = 8,7 mm = 0,0087 m = 8,7 x 10^-3 m<br>\u00a0 \u00a0 \u00a0\u00a0\u03b5 = 6,27 x 10^4 N<br>Dit lo ?<br>jawab.<br><br>\u03b5 =\u00a0[tex] \\frac{l - lo}{lo} [/tex]<br><br>6,27x10^4 =\u00a0[tex] \\frac{8,7x10^-3  -  lo}{lo} [/tex]<br><br>6,27 x 10^4 \u00a0. lo \u00a0= 8,7x10^-3 kurang lo<br><br>6,27 x 10^4 \u00a0. lo + lo \u00a0= 8,7x10^-3<br><br>2 lo =\u00a08,7x10^-3 dibagi 6,27x10^4<br><br>2 lo\u00a0= 1,38756 x 10^-7<br><br>\u00a0 \u00a0lo =\u00a01,38756 x 10^-7 dibagi 2<br><br>\u00a0 \u00a0lo \u00a0= 0,69378 x 10^-7 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seutas-kawat-piano-yang-terbuat-dari-baja-mempunyai-panjang-1-886",
+            "question": "1. seutas kawat piano yang terbuat dari baja, mempunyai panjang 1,6 m dengan garis tengah 0,2 cm. berapa besar tegangan kawat jika kawat tersebut mengalami perubahan panjang sebesar 0,3 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik lo =1,6 m \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 0,3 cm = 0,003 m<br>\u00a0 \u00a0\u00a0 d = 0,2 cm = 0,002 m<br>Dit tegangan ?<br>jawab.<br>LO=\u03c0r^2 = 3,14 x 0,001^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x10^-6 m<br>E = tegangan / regangan<br>\u00a0 \u00a0= F.l / A.\u0394l<br><br><br>tegangan = F.l0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,6 F",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-reaksi-kimia-dan-reaksi-fisika-yang-nda-tahu-nda-usah-906",
+            "question": "Perbedaan reaksi kimia dan reaksi fisika? Yang nda tahu nda usah pura pura jawab cuma buat dapat poin ya! akan aku laporkan ke moderator loh!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reaksi kimia menghasilkan zat baru, terjadi perubahan bentuk, warna dan bau, contohnya meletusnya kembang api, nasi basi dan kayu yang dibakar.        sedangkan perubahan fisika tidak menghasilkan zat baru, hanya terjadi perubahan wujud/bentuk, contohnya air jadi es, beras dihaluskan jadi tepung.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500",
+            "question": "seberkas cahaya jatuh tegak lurus pada kisi yang terdiri dari 5000 goresan tiap cm.sudut devasi orde kedua adalah 30\u22270. panjang gelombang cahaya yang digunakan adalah...(caranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Panjang gelombang cahaya yang digunakan adalah 5.000 angstrom atau 500 nm.</strong> Hasil perhitungan tersebut diperoleh ketika sebesar cahaya jatuh tegak lurus pada kisi yang terdiri dari 5.000 goresan tiap cm, dengan sudut deviasi orde kedua adalah 30\u00b0.</p><h3>Pembahasan</h3><p><strong>Kisi difraksi </strong>menghasilkan pola interferensi yang tajam berbentuk garis, sehingga dapat dimanfaatkan untuk mengukur panjang gelombang cahaya dengan teliti.</p><p>Kisi difraksi adalah peralatan yang mirip dengan celah ganda Young. Peralatan ini mengandung celah yang lebih banyak atau disebut kisi. Tetapan kisi N adalah tetapan yang menyatakan banyak garis (goresan) tiap satuan panjang, misalnya di soal ini yaitu 5.000 goresan/cm, berarti N = 5.000 goresan/cm. Lebar celah d adalah lebar satu garis atau satu goresan. Dengan demikian, lebar celah adalah kebalikan dari tetapan kisi.</p><p><em><u>Diketahui</u></em></p><p>Garis terang orde kedua atau n = 2</p><p>Sudut deviasi (penyimpangan) \u03b8 = 30\u00b0</p><p>Tetapan kisi N = 5.000 goresan/cm </p><p><em><u>Ditanya</u></em></p><p>Panjang gelombang \u03bb \u00a0</p><p><em><u>Penyelesaian</u></em></p><p>Rumus yang digunakan adalah</p><p>[tex]\\boxed{d~sin~\\theta = n~\\lambda} [/tex]</p><p>Keterangan</p><p>d = lebar celah atau lebar satu garis atau satu goresan, sehingga lebar celah adalah kebalikan dari tetapan kisi N, yaitu [tex]\\boxed{d = \\frac{1}{N} }[/tex], dengan N dalam satuan goresan/cm \u00a0untk soal ini</p><p>\u03b8 = sudut deviasi orde ke-n</p><p>n = orde garis terang (n = 0 \u2192 terang pusat, n = 1 \u2192 garis terang orde ke-2. dan seterusnya)</p><p>\u03bb = panjang gelombang cahaya</p><p><strong>Siapkan lebar celah (d) dalam satuan meter</strong></p><p>[tex]d=\\frac{1}{5.000/cm}[/tex]</p><p>[tex]d=\\frac{1}{\\frac{5.000}{0,01~m}}[/tex]</p><p>[tex]d=\\frac{0,01}{5.000}[/tex]</p><p>[tex]d=\\frac{1}{500.000}[/tex]</p><p>[tex]d=2\\times 10^{-6}~m[/tex]</p><p><strong>Hitung panjang gelombang (\u03bb) dalam meter</strong></p><p>[tex]\\boxed{~\\lambda=\\frac{d~sin~\\theta}{n}~}[/tex]</p><p>[tex]\\lambda=\\frac{2\\times 10^{-6}~sin~30^o}{2}[/tex]</p><p>[tex]\\lambda=1\\times 10^{-6}~0,5[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m[/tex]</p><p>Ingat konversi satuan, [tex]\\boxed{~1~\\AA=10^{-10}~m}[/tex] dan [tex]\\boxed{~1~nm=10^{-9}~m~}[/tex]</p><p>[tex]\\lambda=5\\times 10^{-7}~m=5.000 \\AA=500~nm[/tex]</p><p><strong>Diperoleh panjang gelombang sebesar </strong>[tex]\\boxed{~\\lambda=5.000 \\AA=500~nm~}[/tex]</p><h3>Pelajari lebih lanjut</h3><p>1. Pelajari kasus serupa brainly.co.id/tugas/4799492</p><p>2. Sebuah persoalan menentukan kisi difraksi https://brainly.co.id/tugas/5064394 </p><p>3. Menghitung besarnya panjang gelombang \u00a0brainly.co.id/tugas/11880424</p><p>------------------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0: </strong>XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 :</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : </strong> Gelombang Cahaya</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 : </strong>11.6.10</p><br><p><strong>Kata Kunci :</strong> percobaan, cahaya, jatuh tegak lurus, tetapan, kisi, difraksi, goresan, panjang gelombang, garis, terang, \u00a0orde, kedua, sudut, 30\u00b0, garis, normal, garis tiap cm</p>",
+                    "attachments": [
+                        "answer-attachments/seberkas-cahaya-jatuh-tegak-lurus-pada-kisi-yang-terdiri-dari-500-500-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apakah-rumus-momen-gaya-526",
+            "question": "Apakah rumus momen gaya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Besar momen gaya (t) adalah hasil kali gaya (F) dengan lengan momen (l). Rumusnya ini:<br></span>l: L kecil bukan i<br><br>t: F. l<br><br>Keterangan:<br><span>t\u00a0: Momen Gaya (Nm)<br></span><span>F: Gaya (N)<br></span><span>l : lengan momen (m)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-bermassa-4-kg-ditembak-dengan-sebutir-peluru-bermass-903",
+            "question": "sebuah balok bermassa 4 kg ditembak dengan sebutir peluru bermassa 0,2 kg sehingga peluru bersarang di dalam balok. jika kecepatan peluru dan balok 10m/s, maka berapakah kecepatan peluru sebelum bersarang dalam balok tersebut ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket : m1 (balok) = 4 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m2 (peluru) = 0,2 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v1 (balok)= 0 m/s<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v&#039;(peluru) dan\u00a0(balok) = 10 m/s<br>dit : v2(peluru) = ?<br>m1 . v1 + m2 . v2 = (m1+m2) v&#039;<br>1 . 0 + \u00a00,2 v2 = (4+0,2) 10<br>0,2 v2 = 42<br>v2= 42/0,2<br>v2 =\u00a0210 m/s<br><br>silahkan koreksi lagi :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-oleh-p-650",
+            "question": "batang panjangnya 1 m bergerak dengan kecepatan v. diamati oleh pengamat yang diam panjang batang menjadi 80 cm. bila c=kecepatan cahaya, maka kecepatan batang itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=80 cm&gt; 0.8 m<br>Lo = 1 m<br>L = Lo/y &gt; y= Lo/L &gt; y= 1/0.8 &gt; y= 5/4<br>dengan menggunakan rumus pitagoras maka V = 3/5c (0.6c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667",
+            "question": "Hitunglah laju aliran volume air dalam pipa yang berjari-jari 5 cm dengan laju 10 cm/det ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Mekanika Fluida<br>Kelas : 2 SMA/XI SMA<br>Pembahasan :<br>Jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667-1.png"
+                    ]
+                },
+                {
+                    "answer": "Dik:<br>r = 5 cm --&gt; 0,05 m<br>v = 10 cm/s --&gt; 0,1 m/s<br>Dit:<br>Q = ...?<br>Jawab:<br>Q = A v<br>= \u03c0r\u00b2 . 0,1<br>= 3,14 (0,05)\u00b2 . 0,1<br>= 0,000785m\u00b3/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310",
+            "question": "dua buah benda digantung seperti pada gambar dan sistem dalam keadaan setimbang.Massa katrol M=2 kg dan jari-jarinya R= 10 cm serta sumbu putar katrol tanpa gesekan. Tentukan massa beban m1,jika massa beban m2=20 kg dan percepatan gravitasi di tempat itu g=10 m/s\u00b2!",
+            "attachments": [
+                "question-attachments/dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<strong>mungkin jawabannya 5</strong><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

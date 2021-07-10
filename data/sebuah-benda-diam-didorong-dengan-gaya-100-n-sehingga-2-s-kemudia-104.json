@@ -1,0 +1,138 @@
+{
+    "question": "Sebuah benda diam didorong dengan gaya 100 N sehingga 2 s kemudian kecepatannya menjadi 20 m/s . Empat sekon kemudian benda menabrak dinding dan memantul . Kecepatan benda sekarang menjadi 2o m/s . tentukan :    a. kecepatan benda sesaat sebelum menabrak dinding\r\nb. momentum benda saat menabrak dinding\r\nc. impuls yang diberikan dinding pada benda\r\nd. selang waktu benda bersentuhan dengan dinding",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1.t = 4 s<br>\u00a0a= 20m/s\u00f72s = 10m/s\u00b2 <br>\u00a0 V= Vo+ a.t= 20m/s + 10m/s\u00b2.4s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20m/s + 40m/s<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60 m/s<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-bus-bermassa-5-ton-bergerak-dengan-kecepatan-tetap-10-ms-285",
+            "question": "Sebuah bus bermassa 5 ton bergerak dengan kecepatan tetap 10 m/s. Berapa\u00a0momentum\u00a0yang dimiliki bus tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p=mv<br>p=5000kg x 10 m/s .......... (5 ton = 5000 kg)<br>p=50.000 kg m/s................(50ribu)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1 ton :1000 kg<br>10 m/s:?<br>1000/10:100<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-yang-tingginya-160-cm-berdiri-di-depan-cermin-datar-yang-988",
+            "question": "Seorang yang tingginya 160 cm berdiri di depan cermin datar yang terpasang pada dinding. Anggap mata orang itu berada pada jarak 10 cm dari bagian atas kepalanya. Tentukan jarak minimum bagian bawah cermin dari lantai sehingga orang itu masih dapat melihat seluruh bagian badannya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Tinggi cermin datar = [tex] \\frac{1}{2} [/tex] x tinggi benda<br>maka, tinggi cermin = [tex] \\frac{1}{2} [/tex] x 160<br>= 80 cm<br><br>karena jarak mata = [tex] \\frac{1}{2} [/tex] x 10<br>= 5 cm<br>maka, jarak minimum dari lantai = 160 - 5 --&gt; 155<br>155 - 80 = 75 cm dari lantai.. <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-10-ppm-berapa-mililiter-132",
+            "question": "Dalam 10 ppm berapa mililiter",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1 mg / L = 1 PPM<br>10ppm= 10mg/l<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "satuan 1 mg / L diubah kedalam ppm adalah\u00a0\u00a01 ppm<br>jika ditanya\u00a010ppm diubah ke\u00a0mg/l\u00a0<br>maka hasilnya adalah\u00a010mg/l<br><br>jadi ,10 ppm= 10 mg/l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-tipis-dengan-panjang-l-dan-massa-m-dapat-berputar-pa-267",
+            "question": "suatu batang tipis dengan panjang L dan massa m dapat berputar pada sumbu yang terletak di ujung batang. pada awalnya batang berada pada posisi horizontal dan kemudian di lepas. pada saat batang membuat sudut \u0424 (tetha) dengan arah vertikal, percepatan sudut rotasi batang adalah???? GPL (GAK PAKE LAMA)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyelesaian :<br>letak titik pusat massa batang L/2 dari sumbu rotasi<br>I batang terhadap ujung = 1/3 mL\u00b2<span><br>Maka persamaannya :<br>\u03a3T = I \u03b1\u00a0, atau :</span><br>mg sin \u03b8\u00a0\u00d7<span>\u00a0L/2 = 1/3 m L\u00b2 \u03b1\u00a0\u00a0(hilangkan massanya (m))</span><br>maka menjadi :<br><br>[tex]g.sin\\theta* \\frac{L}{2}  =  \\frac{1}{3}  L^{2}  \\alpha [/tex]<br><br>[tex] \\frac{g.sin\\theta}{1/3} =  \\frac{L^{2} \\alpha }{L/2}  [/tex]<br><br>[tex]  \\alpha = \\frac{3.g.Sin\\theta}{2L} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dibantujembatan-ponton-dibuat-dari-drum-yang-terapung-843",
+            "question": "Tolong dibantu....Jembatan ponton dibuat dari drum yang terapung diatas permukaan air. Setiap drum terisi udara sehingga terapung diatas permukaan air. Setiap drum terisi udara sehingga secara keseluruhan bermassa 20kg dan volume rata-rata 2m\u00b3. Tentukan berat beban maksimum yang dapat ditahan oleh drum tersebut...    a. 2x10\u2077 N\r\nb. 2x10\u2076 N\r\nc. 2x10\u2075 N\r\nd. 2x10\u2074 N\r\ne. 2x10\u00b3 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik. m = 20 kg<br>\u00a0\u00a0 \u00a0 \u00a0 V = 2 [tex] m^{3} [/tex] = 2000 liter<br>Fa = V . g<br>\u00a0\u00a0 \u00a0 = 2.000 x 10<br>\u00a0\u00a0 \u00a0  = 2 x [tex] 10^{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tingkat-intensitas-sebuah-pesawat-jet-pada-jarak-30-m-adalah-1-708",
+            "question": "1. Tingkat intensitas sebuah pesawat jet pada jarak 30 m adalah 140 1.\u00a0Tingkat\r\n intensitas sebuah pesawat jet pada jarak 30 m adalah 140 dB. Berapakah tingkat\r\n intensitasnya pada jarak 300 m?\r\n2.\u00a0Cepat rambat gelombang\r\n seismik pada pada lapisan batuan tertentu adalah2000 m/s. Untuk mengetahui ketebalan lapisan tersebut dinamit diledakkan di\r\n suatu titik di bagian atas lapisan tersebut kemudian sinyal pantul ditangkap di\r\n titik yang lain. Jika jarak antara titik peledakan dan titik tempat sinyal\r\n ditangkap adalah 400 m dan selangwaktu antara peledakan dinamit dan penangkapan\r\n sinyal adalah 0,25 s, tentukan ketebalan lapisan batuan tersebut.\r\n3.\u00a0Sebuah\r\n mobil polisi membunyikan sirene dengan frekuensi fO. Kelajuan\r\n bunyi di udara diam adalah vo, sehingga panjang\r\n gelombangnya jika tidak ada gerak adalah \u03bbo. Jika mobil polisi\r\n tersebut diam sedangkan pengamat bergerak terhadap pengamat besaran apa saja\r\n yang berubah dan apa yang tetap? Jelaskan! Jika mobil polisi yang bergerak\r\n terhadap pengamat sedangkan pengamat diam, besaran apa saja yang berubah dan\r\n apa saja yang tetap? Jelaskan!\r\n4.\u00a0Jika\r\n dia mengayuh papan selancarnya sehingga bergerak dengan kecepatan 2 m/s searah\r\n dengan gelombang laut dia merasakan gelombang laut melaluinya setiap\r\n\r\n12 sekon. Tentukan frekuensi, panjang gelombang dan\r\n kecepatan gelombang laut tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nomer 1 keanya 120 dB<br>TIb = TIa + 10 log n ( r1/r2 )^2<br>TIb = 140 + 10 log ( 30/300 )^2<br>TIb = 140 + 10 (-2)<br>TIb = 120 dB<br><br>kalo nomer 4 keanya <br>untuk melakukan 1 gelombang dibutuhkan waktu 12s<br>berarti f = 1/12 = 0,083<br>panjang gelombang berarti 2m/s . 12 = 24 m<br>v = lamda . f = 24 . 0,083 = 1,992 m/s <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-yang-berisi-1200-m3-gas-panas-dan-dan-p-08-kgm3-670",
+            "question": "sebuah balon yang berisi 1200 m*3 gas panas dan dan p= 0,8 kg/m*3 diikat di tanah massa balon (tidak termasuk gas panas) 400 kg dan massa jenis udara 1,3 kg/m*3 :\u00a0 A. menapa balon akan naik jika tidak diikat ditanah B. hitung gaya tegangan tali yang menahan balon tetap ditanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. karena dalam balon terdapat gas, sehingga balon terangkat keatas",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "letak-kutub-kutub-magnet-bumi-tidak-berimpit-dengan-kutub-geograf-486",
+            "question": "Letak kutub-kutub magnet bumi tidak berimpit dengan kutub geografis bumi\u00a0karena ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bumi memiliki 2 sumbu, dengan searah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

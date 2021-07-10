@@ -1,0 +1,148 @@
+{
+    "question": "jumlah tiga bilangan barisan aritmatika adalah 45, jika suku kedua dikurangi 1 dan suku ketiga di tambah 5 maka, barisan tersebut menjadi barisan geometri, rasio barisan geometri tersebut adalah ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Anggap suku suku itu adalah\u00a0<br>suku 1 = a-b<br>suku 2 = a<br>suku 3 = a+b<br>dan jumlahnya adalah 45<br><br>maka didapatkan : (a-b) + a +(a+b) = 45<br>b habis dan tersisa 3a = 45, maka a=15.<br><br>maka baris geometrinya menjadi 15-b + 15 + 15+b dan ketentuan soalnya adalah suku 2 dikurang 1 dan suku 3 ditambah 5 maka menjadi:<br>15-b + 14 + 20+b\u00a0<br><br>untuk mencari rasio, kita cari dulu kan biasanya b itu nah b itu didapetin dari cara silang kita yaitu:<br><br>suku2/suku1 = suku3/suku2 (rumus umumnya)<br>hasil kali silangnya dapet kan tuh -b^2 - 5b + 300 = 196 (\u00a0^\u00a0= kudarat ya ahaha)<br>kita turunin lagi tuh jadinya -b^2 - 5b + 104 atau sama juga b^2 + 5b - 104 biar ga bingung negatif dipangkat b^2 nya.<br><br>dapet kan tuh (b-8) (b+13) maka b bisa 8 atau -13<br><br>karna rasio, masukkan aja suku2/suku1<br>14\u00a0/\u00a015-b<br><br>*b nya kita ganti dengan 8 dan -13<br><br>hasilnya adalah untuk b = 8 rasionya 2<br>untuk b = -13 rasionya adalah 1/2<br><br>CMIIW ya hhe<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "selesaikan-integral-berikut-intgral-x-dx-602",
+            "question": "Selesaikan integral berikut...!!!\r\nintgral \u221ax dx ... ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "integral dari<br>\u221ax dx = x ^1/2 dx<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a01/3 x ^3/2\u00a0<br><br><br>NB : ^ = berarti pangkat",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u221ax dx = \u00a0\u00a0</span>[tex] \\frac{2^{ \\frac{3}{2} } }{3} + C[/tex]<br><br>atau\u00a0<br><br>[tex] \\int\\limits^ \\pi _0 {sin x} \\, dx = 2[/tex] + C<br><br>Atau<br>[tex] \\int\\limits^a_b {sin x} \\, dx = - cos x + C [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866",
+            "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "rumus-median-dan-contohnya-892",
+            "question": "Rumus median dan contohnya \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak semua data /2<br>contoh=1,2,3,<br>banyak semua data = 3<br>berarti 3/2=1,5<br>berarti angka ke 2(pembulatan 1,5)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D",
+                    "attachments": [
+                        "answer-attachments/rumus-median-dan-contohnya-892-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "faktor-dari-104-itu-berapa-sih-210",
+            "question": "Faktor dari 104 itu berapa sih ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 , 2 , 4 , 8 , 13 , 26 , 52 , 104.   Semoga membantu:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "faktornya : 2\u00b3\u00d713 atau 2\u00d72\u00d72\u00d713",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rumus-suku-ke-n-suatu-bilangan-adalah-un-2n-1-suku-k-900",
+            "question": "Diketahui rumus suku ke-n suatu bilangan adalah Un = 2n-1. Suku keberapakah 147 pada barisan itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.147 -1 =... ituhasilnya",
+                    "attachments": []
+                },
+                {
+                    "answer": "Un = 2n-1<br>147 = 2n-1<br>147+1 = 2n<br>148 = 2n<br>74 = n<br><strong><u>n = 74</u></strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-nilai-trigonometri-berikut-sin-90-745",
+            "question": "Hitung nilai trigonometri berikut sin(-90)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= sin (-90)<br>= - (sin 90)<br>= - 1<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak ada jawaban dan caranya untuk mencari sin (-90)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2n-1x-n40-mempunyai-dua-akar-rel-ya-432",
+            "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894",
+            "question": "Himpunan penyelesaian dari 36 log (x-4) + 36 log (x+1) &lt; 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2</strong> adalah {x | 4 &lt; x &lt; 5, x \u2208 R}. Logaritma merupakan salah satu invers dari perpangkatan. Definisinya\n</p><p><strong>\u1d43log b = n </strong>artinya <strong>a\u207f = b\n</strong></p><p>dengan syarat <strong>a &gt; 0, b &gt; 0, a \u2260 1\n</strong></p><p><u>Sifat-sifat logaritma</u>\n</p><ul><li>\u1d43log bc = \u1d43log b + \u1d43log c\n</li><li>\u1d43log (b/c) = \u1d43log b \u2013 \u1d43log c\n</li><li>\u1d43log b\u207f = n . \u1d43log b\n</li><li>[tex]^{a^{m}}log\\:b^{n} = \\frac{n}{m}[/tex] \u1d43log b \u21d2 [tex]^{a^{n}}log\\:b^{n}[/tex] = \u1d43log b\n</li><li>\u1d43log b = [tex]\\frac{^{c}log\\:b}{^{c}log\\:a}[/tex] \u21d2 \u1d43log b = [tex]\\frac{1}{^{b}log\\:a}[/tex]\n</li><li>\u1d43log b . \u1d47log d . \u1d48log n = \u1d43log n\n</li><li>[tex]a^{^{a}log\\:b} = b[/tex]\n</li><li>\u1d43log a = 1\n</li><li>\u1d43log 1 = 0\n</li><li>\u00b9\u2070log b = log b\n</li></ul><p><strong>Pertidaksamaan logaritma\n</strong></p><p>\u1d43log f(x) &gt; \u1d43log g(x)\n</p><ul><li>Jika 0 &lt; a &lt; 1 maka <strong>f(x) &lt; g(x)</strong> ==&gt; (Tanda &gt; berubah menjadi &lt;)\n</li><li>Jika a &gt; 1 maka <strong>f(x) &gt; g(x) </strong>==&gt; (Tanda &gt; tetap, tidak berubah)\n</li><li>Syarat: <strong>f(x) &gt; 0, g(x) &gt; 0\n</strong></li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p></p><p>Syarat: \u00a0</p><ul><li>1) (x \u2013 4) &gt; 0 \u21d2 <strong>x &gt; 4\n</strong></li><li>2) (x + 1) &gt; 0 \u21d2 <strong>x &gt; \u20131\n</strong></li></ul><p></p><p><strong>Penyelesaian\n</strong></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p>\u00b3\u2076log (x \u2013 4)(x + 1) &lt; \u00b3\u2076log [tex]36^{\\frac{1}{2}}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 + x \u2013 4x \u2013 4) &lt; \u00b3\u2076log [tex]\\sqrt{36}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 \u2013 3x \u2013 4) &lt; \u00b3\u2076log 6\n</p><p>(x\u00b2 \u2013 3x \u2013 4) &lt; 6\n</p><p>x\u00b2 \u2013 3x \u2013 10 &lt; 0\n</p><p>(x \u2013 5)(x + 2) &lt; 0\n</p><p>x = 5 atau x = \u20132\n</p><p></p><p><u>Garis bilangan\n</u></p><p>++++++ (\u20132) <strong>----------</strong> (5) ++++++\n</p><p>Karena kurang dari nol, maka ambil daerah yang negatif (antara \u20132 dan 5)\n</p><p></p><p><u>Irisan garis bilangan dengan syarat\n</u></p><p>.......... (\u20132) <strong>xxxxxxxxxxxxxxxxxx</strong> (5) .............\n</p><p>1) ............................. (4) <strong>xxxxxxxxxxxxxxxxx\n</strong></p><p>2) ...............( \u20131) <strong>xxxxxxxxxxxxxxxxxxxxxxxx\n</strong></p><p>Jadi irisannya adalah antara 4 dan 5, sehingga <strong>himpunan penyelesaiannya</strong> adalah:\n</p><p><strong>HP = {x | 4 &lt; x &lt; 5, x \u2208 R}\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang pertidaksamaan logaritma untuk 0 &lt; a &lt; 1\n</p><p>https://brainly.co.id/tugas/14458200\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel</strong> : Matematika Peminatan\n</p><p><strong>Kategori</strong> : Pangkat, Bentuk Akar dan Logaritma\n</p><p><strong>Kode</strong> : 10.2.3\n</p><p></p><p><strong>Kata Kunci</strong> : Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2\n</p>",
+                    "attachments": [
+                        "answer-attachments/himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-kirimkan-cara-dan-jawaban-spm-matematika-paket-1-dan-2-unt-260",
+            "question": "tolong kirimkan cara dan jawaban SPM MATEMATIKA paket 1 dan 2 untuk smk kelompok paeiwisata.. secepatnya saya butuh plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Buka lik dibawah ini!<br>www.bukuerlangga.com/370-smk<br></span><span>www.bukuerlangga.com/<br><br>#Semoga menbantu<br></span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

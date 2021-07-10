@@ -1,0 +1,140 @@
+{
+    "question": "di depan cermin cekung yang titik fokusnya 10 cm diletakkan sebuah benda x, agar bayangan benda x berukuran 2 kali lebih besar dari nyata, benda harus diletakkan ..... dari cermin.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik : f = 10 cm\u00a0  ; s&#039; = 2s <br>Dit : s = ...<br>Jawab : <br>1/s = 1/f - 1/s<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-batang-homogen-massa-4-kg-dan-panjangnya-120-cm-batang-ter-613",
+            "question": "sebuah batang homogen massa 4 kg dan panjangnya 120 cm batang tersebut diputar dengan sumbu putar terletak pada 40 cm dari salah satu ujungnya hitunglah momen inersia dari batang homogen itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan teorema sumbu sejajar,\n\nI = Io + m r\u00b2\n\nI = (1/12)mL\u00b2 + m r\u00b2\n\nI = (1/12)(4)(1.2)\u00b2 + 4 (\u00bd * 1.2 - 0.4)\u00b2\n\nI = 0.64 kg m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-bermassa-m-20-gram-ditembakkan-kearah-balok-ayunan-925",
+            "question": "sebuah peluru bermassa M= 20 gram ditembakkan kearah balok ayunan bermassa 980 gram. setelah ditembakkan, peluru menumbuk balok dan tertanam didalam balok sehingga berayun mencapai ketinggian 10 cm. jika percepatan gravitasi bumi sebesar g = 9,8 m/s^2, kecepatan peluru sebelum menumbuk balok sebesar......m/s^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui : <br>massa peluru = mp = 20 g = 0,02 kg<br>massa balok = mb = 980 g = 0,98 kg <br>sebelum menumbuk balok : vb = 0 <br>h = 10 cm = 0,1 m<br>g = 9,8 m/s^2<br>Ditanya : <br>vp = ...?<br>Jawab : <br>karena peluru bersarang di dalam balok, maka jenis tumbukannya adalah tumbukan tidak lenting samasekali <br>mp . vp + mb . vb = (mp + mb) . v&#039; <br>v&#039;\u00a0 = \u221a(2.g.h) = \u221a(2 . 9,8 . 0,1) = 1,4 m/s<br>0,02 vp + 0 = (0,02 + 0,98).1,4<br>0,02 vp = 1,4 <br>vp = 1,4 : 0,02 = 70 m/s\u00a0 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-faktor-yang-mempengaruhi-besar-kecilnya-tekanan-hidrostatis-680",
+            "question": "Apa faktor yang mempengaruhi besar kecilnya tekanan hidrostatis? jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas penampang dan besarnya gaya",
+                    "attachments": []
+                },
+                {
+                    "answer": "- massa jenis fluida<br>- tinggi atau kedalaman fluida dari bidang tekan (diukur dari permukaan fluida)<br>- gaya gravitasi bumi<br><br>semoga bermanfaat... :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-kayu-memiliki-rapat-massa-800-kgm3-dan-berukuran-3-502",
+            "question": "Sebuah balok kayu memiliki rapat massa 800 kg/m3 dan berukuran (30 cm x 40 cm x 50 cm . tekanan maksimum yang dapat diberikan balok pada permukaan tempat balok berdiri adalah..    jwab please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V= 30*40*50<br>= 60.000cm^3<br>=0,06m^3<br><br>massa =\u00a0\u03c1*V<br>= 800*0,06<br>=48kg<br><br>g=10m/s^2<br>F= W=m*g<br>=48*10<br>=480N<br><br>tekanan terbesar, jadi luasnya harus yang terkecil<br>A terkecil = 30*40<br>=1200cm^2<br>=0,12m^2<br>P=F/A<br>=480/0,12<br>=\u00a04000Pa<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310",
+            "question": "dua buah benda digantung seperti pada gambar dan sistem dalam keadaan setimbang.Massa katrol M=2 kg dan jari-jarinya R= 10 cm serta sumbu putar katrol tanpa gesekan. Tentukan massa beban m1,jika massa beban m2=20 kg dan percepatan gravitasi di tempat itu g=10 m/s\u00b2!",
+            "attachments": [
+                "question-attachments/dua-buah-benda-digantung-seperti-pada-gambar-dan-sistem-dalam-kea-310-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<strong>mungkin jawabannya 5</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-pengaruh-panjang-tali-terhadap-periode-gerak-harmonik-p-733",
+            "question": "Bagaimana pengaruh panjang tali terhadap periode gerak harmonik pada ayunan sederhana ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jika tali pendek maka periode besar sedangkan jika tali panjang, periode mengecil. (maybe)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-yang-berisi-1200-m3-gas-panas-dan-dan-p-08-kgm3-670",
+            "question": "sebuah balon yang berisi 1200 m*3 gas panas dan dan p= 0,8 kg/m*3 diikat di tanah massa balon (tidak termasuk gas panas) 400 kg dan massa jenis udara 1,3 kg/m*3 :\u00a0 A. menapa balon akan naik jika tidak diikat ditanah B. hitung gaya tegangan tali yang menahan balon tetap ditanah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. karena dalam balon terdapat gas, sehingga balon terangkat keatas",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-bunyi-hukum-kekekalan-momentum-dan-tuliskan-persamaannya-176",
+            "question": "Sebutkan bunyi hukum kekekalan momentum dan tuliskan persamaannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunyi : \"Jumlah momentum kedua benda sebelum tumbukan sama dengan jumlah momentum kedua benda setelah tumbukan\"<br><br>Persamaannya ---&gt; m1 x v1 + m2 x v2 = m1\u00a0v\u00a0&#039;1 + m2 v &#039;2",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunyi hukum kekekalan momentum\"pda peristiwa tumbukan jumlah momentumbenda-benda sebelum dan sesudah tumbukan adalah tetap,asalkan tidak ada gaya luar yang bekerja pada benda-benda itu\"<br>secara matematis ditulis:<br>p1+p2=p&#039;1+p&#039;2<br>m1v1+m2v2=m1v&#039;1+m2v&#039;2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-saja-faktor-yang-mempengaruhi-peluncuran-roket-air-505",
+            "question": "Apa saja faktor yang mempengaruhi peluncuran roket air ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suMBER GAS , FIN , NOZEL, TABUNG PELUNCUR<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Wings (sayap)Ukuran wings yang bagus adalah yang tidak terlalu lebar atau tidak terlalu sempit, karena dapat berpengaruh pada kestabilan roket saat meluncur. Makin lebar sayap maka makin lebar pula luas penampang roket. Makin lebar luas penampang roket, makin mudah bagi roket untuk mengalirkan udara tetapi juga makian besar hambatan yang diterima roket. Bahannya bisa dari polycarbonate (dipakai untuk pintu kanopi), fiber atau bisa juga menggunakan sterofoam. Tetapi apabila kita menggunakan sterofoam, bisa cepat rusak karena tidak kuat.Jumlah sayap dapat tiga atau empat buah tetapi yang bagus adalah tiga buah. Apabila roket meluncur di udara berbelok atau berputar-putar seperti baling-baling, mungkin terjadi kesalahan pada jumlah sayap, bentuk dan ukuran yang tidak sama, sehingga akan menyebabkan roket jatuh sebelum mencapai jarak yang maksimal. Fungsi dari wings adalah sebagai pengarah aliran udara dari ujung roket menuju belakang. Selain itu juga, sebagai penyeimbang ketika roket meluncur di udara agar tetap stabil.2. Body ( Botol)Body roket terdiri dari satu atau dua botol air minum bekas baik yang bersoda maupun air minum biasa. Tetapi botol yang bagus di gunakan untuk membuat roket adalah botol bersoda ukuran besar (1 liter). Alasannya karena mampu menampung lebih banyak udara dan air serta mempunyai tekanan yang lebih kuat, sehingga roket akan meluncur lebih jauh. Dalam pembuatan roket seringnya ruang kompresi digunakan sebagai body roket pula. Alur pada permukaan botol juga berpengaruh pada hambatan angin yang diterima roket.3. Nose coneNose cone adalah bagian paling ujung dari roket. Bentuknya bermacam-macam, mulai dari bentuk kerucut, kerucut tumpul, sampai yang tidak mempunyai nose cone (hanya ujung botol saja). Bentuk Nose cone yang bagus adalah bentuk kerucut, karena lebih mudah membelah udara saat roket meluncur. Bahan untuk membuat nose cone hendaknya lebih lunak dari pada bahan untuk membuat wings supaya lebih mudah untuk dibentuk, seperti bahan fiber. Sebelum nose cone dipasang pada botol, masukkan pemberat ke dalamnya. Pemberatnya bisa dari kerikil atau yang lainya, kemudian rekatkan pada ujung kerucut. Tujuannya adalah supaya apabila roket mendarat maka bagian nose cone berada di bawah.4. Volume AirBahan bakar dari roket air adalah air. Volume air dalam botol yang paling ideal adalah 1/3 volume botol. Apabila volumenya terlalu banyak maka akan membutuhkan waktu pemompaan yang lama dan roket biasanya menjadi tidak stabil. Sebaliknya jika volumenya kurang dari 1/3 maka roket akan meluncur sebelum waktunya sehingga jarak tempuh roket kurang maksimal.5. Cara MemompaPompa yang digunakan adalah pompa sepeda yang memiliki tekanan udara yang kuat. Teknik memompa diawali dengan pelan-pelan kemudian cepat, hingga botol terlepas dari peluncurnya. Apabila proses memompa berhenti dan botol belum terlepas atau tidak segera diluncurkan maka udara dalam botol akan habis, sehingga roket tidak dapat meluncur secara maksimal.6. Sudut Peluncuran<span>Sudut peluncuran yang mampu membuat roket mencapai jarak maksimal adalah 450. Apabila sudutnya lebih dari itu maka roket akan meluncur ke atas dan jarak yang di tempuh jadi kurang maksimal. Begitu juga sebaliknya apabila sudutnya kurang dari itu, roket akan jatuh dalam jarak yang masih lumayan dekat.</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "question": "Menjawab limit fungsi menggunakan tabel dan grafik?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "menjawab limit berarti menjawab pertanyaan dengan waku yang telah ditentukan",
+            "attachments": []
+        },
+        {
+            "answer": "grafik tu apa.............................",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-dengan-beda-3-ji-672",
+            "question": "tiga buah bilangan membentuk barisan aritmatika dengan beda 3. jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. rasio barisan tersebut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baris aritmatika misal a, a+b, a+2b <br>a, a+3-1,a+2.3<br>a,a+2,a+6 (menjadi baris geometri )<br>[tex] \\frac{a+6}{a+2} = \\frac{a+2}{a} [/tex]<br>a^2+4a+4=a^2+6a<br>2a=4<br>a=2<br>msk kan a=2<br>2,4,8<br>jdi rasionya 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-umum-suku-ke-n-dari-barisan-bilangan-372113-933",
+            "question": "Tentukan rumus umum suku ke-n dari barisan bilangan ; 3,7/2,11/3,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus umumnya menurut saya Un=ar^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suatu-deret-aritmetika-ialah-sn-85n-5-595",
+            "question": "Jumlah n suku pertama suatu deret aritmetika ialah Sn = 85n\u00a0-\u00a05n\u00b2 . Tentukan suku pertama dan bedanya? Help ya kak, aku belum mengerti karna hanya diketahui Sn Y_Y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = S1<br>a = 85(1) - 5([tex] 1^{2} [/tex])<br>a = 80<br><br>Sn =\u00a085n - 5[tex] n^{2} [/tex]<br>Sn-1 = 85(n-1) - 5[tex] (n-1)^{2} [/tex]<br>Un = Sn - Sn-1<br>Un = 90 - 10n<br>Un = a + (n-1)b<br>U2 = a + b<br>90 - 10(2) = 80 + b<br>70 = 80 + b<br>b = -10<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-diketahui-barisan-aritmetika-dengan-u3-3-dan-u8-13-363",
+            "question": "3. Diketahui barisan    aritmetika dengan U3 = 3 dan U8 = 13\r\n\r\n\u00a0\u00a0\u00a0 \r\nTentukan yang berikut ini !\r\n\r\n\u00a0 \r\n\u00a0 a. Nilai suku pertama dan bedanya\u00a0\r\n\r\n\r\n\u00a0 b. Suku ke-50\r\n\r\n\u00a0\u00a0 \r\n\u00a0 c. n jika Un = 147",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara cari bedanya seperti ini<br>U 3 = 3<br><u>U 8 = 13</u> -<br>-5 = -10<br>B = 2<br>Lalu<br>suku pertama tinggal dikurangin 4 hehe<br>jadi -1<br><br>Suku ke 50 = (3x50 ) - 3<br><br>yang ke c tinggal gunakan cara subtitusi bila masih ada yang ditanyakan silahkan bertanya di komentar thanks :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = a+2b = \u00a0 3<br><u>U8 = a+7b = 13</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  -  5b = -10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 2<br>b=2, U3 = a+(2x2) = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a+4 = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a = 3 - 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = -1<br><br>U50 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + (50 -1) 2<br>\u00a0\u00a0 \u00a0 \u00a0  = (-1) + (49) 2<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + 98<br>\u00a0\u00a0 \u00a0 \u00a0  = 97<br>Un\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 147<br>a+(n-1)b \u00a0\u00a0 = 147<br>(-1)+(n-1)2 = 147<br>(-1)+2n-2\u00a0\u00a0 = 147<br>2n-3\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 147<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 147+3<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 150<br>n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-y2x-4-di-cerminkan-terhadap-sumbu-y-kemudian-di-putar-de-315",
+            "question": "Garis y=2x-4 di cerminkan terhadap sumbu -y, kemudian di putar dengan R {0,90 drajat}persamaan bayangan garis itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = 2x - 4 <br>dicerminkan terhadap sumbu Y = mengganti x menjadi -x<br>y = 2x - 4 ---&gt; y = 2(-x) - 4 ----&gt; y = -2x - 4<br>rotasi 90 = mengganti x menjadi y dan y menjadi -x<br>y = -2x - 4 ----&gt; -x = -2y - 4 <br>\u21d2 x = 2y + 4 <br>\u21d2 y = 1/2 x - 2 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-ingkaran-dari-kalimat-jika-kamu-tidak-jadi-berangkat-ke-kota-788",
+            "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

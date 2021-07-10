@@ -1,0 +1,142 @@
+{
+    "question": "Suku ke 6 dan 7 dari barisan 1,1,2,3,5,8,...\r\nsejalian caranya ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "[tex]U_1 = 1 \\\\ U_2 = 1 \\\\ U_n = U_{n-2} + U_{n-1} \\\\ U_6 = U_4 + U_5 = U_4 + U_3 + U_4 = 2U_4 + U_3 = 2U_2 + 3U_3 \\\\ = 5U_2 + 3U_1 = 5*1 + 3*1 = 8 \\\\ U_7 = U_5 + U_6 = U_3 + U_4 + 8 = 2U_3 + U_2 + 8 \\\\= 2U_1 + 3U_2 + 8 = 2*1 + 3*1 + 8 = 13[/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "dik : U1 / a=1<br>\u00a0\u00a0 \u00a0 \u00a0 U2 /b =2<br>dit: U6 dan U7?<br>jawab :<br>b= U2-U1= 2-1=1\u00a0 \u00a0 U7=1+(7-1)1<br>\u00a0U6= 1+(6-1)1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>\u00a0\u00a0 \u00a0 =6<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-bantuannyaperhatikan-gambar-besar-sudut-poq86-derajat-bes-302",
+            "question": "Mohon bantuannyaperhatikan gambar,    besar sudut POQ=86 derajat besar sudut PSQ sama dengan ?\r\nmohon bantuannya dengan lengkap agar saya mengerti:)",
+            "attachments": [
+                "question-attachments/mohon-bantuannyaperhatikan-gambar-besar-sudut-poq86-derajat-bes-302-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "POQ itu kan sudut pusat. Sedangkan PSQ itu sudut keliling dari Sudut pusat POQ. Sudut kel. = sudut pusat/2=86/2=43",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-jelaskan-tentang-yang-di-maksud-garis-singgung-lingkaran-b-432",
+            "question": "Tolong jelaskan tentang yang di maksud garis singgung lingkaran beserta penjelasannya    Terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran hanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada titik singgung lingkaran itu. Kasih 5 bintang ya.<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Untuk memahami pengertian garis singgung lingkaran, perhatikan Gambar di bawah ini.<span>\u00a0</span><span>Lingkaran pusat di O dengan diameter AB tegak lurus dengan diameter CD (garis k). Jika garis k digeser ke kanan sedikit demi sedikit sejajar k maka\u00a0</span>\u00a0<span>pada posisi k1 memotong lingkaran di dua titik (titik E dan F) dengan k1\u00a0</span>\u22a5<span>\u00a0OB.</span>pada posisi k2 memotong lingkaran di dua titik (titik G dan H) dengan k2\u00a0\u22a5<span>\u00a0OB.</span>pada posisi k3 memotong lingkaran di satu titik, yaitu titik B (menyinggung lingkaran di B). Selanjutnya, garis k3 disebut garis singgung lingkaran.<br><br>Sekarang perhatikan Gambar di bawah ini!<span>\u00a0</span>Jika garis k diputar dengan pusat perputaran titik A ke arah busur AB\u2019<span>\u00a0yang lebih kecil dari busur AB maka kita peroleh\u00a0</span>\u0394OAB\u2019<span>\u00a0sama kaki. (Mengapa?)</span><br><br>\u2220<span>OAB =\u00a0</span>\u2220OB\u2019A = \u00bd x (\u2220180 \u2013 AOB\u2019)<br><br><br><br><span><span>Jika kita terus memutar garis k ke arah busur yang lebih kecil dan lebih kecil lagi maka\u00a0</span>\u2220OAB\u2019\u00a0=\u00a0\u2220OB\u2019<span>A akan makin besar dan\u00a0</span>\u2220AOB\u2019<span>\u00a0makin kecil. Pada suatu saat garis k akan menyinggung lingkaran di titik A dengan titik B</span>\u2019<span>\u00a0berimpit dengan titik A dan saat itu berlaku</span></span><span>\u2220OAB\u2019 =\u2220OB\u2019<span>A = \u00bd (180\u00b0 -\u00a0</span>\u2220AOB\u2019)</span><span>\u2220OAB\u2019 =\u2220OB\u2019<span>A = \u00bd (180\u00b0 -\u00a0</span>0\u00b0)</span><span>\u2220OAB\u2019 =\u2220OB\u2019A = 90\u00b0</span><span>Hal ini menunjukkan bahwa jari-jari OA tegak lurus dengan garis singgung k di titik A.<br><br><span>Jadi, garis singgung lingkaran adalah garis yang memotong suatu lingkaran di satu titik dan berpotongan tegak lurus dengan jari-jari di titik singgungnya.</span><br><br>Perhatikan gambar di bawah ini.\u00a0<br><br><span>\u00a0</span>Pada Gambar di atas tampak bahwa garis k tegak lurus dengan jari-jari OA. Garis k adalah garis singgung lingkaran di titik A, sedangkan A disebut titik singgung lingkaran.<br><br><span>Karena garis k\u00a0</span>\u22a5<span>\u00a0\u00a0OA, hal ini berarti sudut yang dibentuk kedua garis tersebut besarnya 90\u00b0. Dengan demikian secara umum dapat dikatakan bahwa setiap sudut yang dibentuk oleh garis yang melalui titik pusat dan garis singgung lingkaran besarnya 90\u00b0.</span><br><br><span>\u00a0</span>Gambar di atas merupakan lingkaran yang berpusat di O. Lingkaran tersebut bersinggungan dengan garis g dan h. Garis g memotong lingkaran di satu titik, yaitu di titik A. Sedangkan garis h memotong lingkaran di satu titik, yaitu di titik B. Garis g dan h inilah yang dinamakan garis singgung. Sedangkan titik B dan titik A dinamakan titik singgung. Jadi yang dimaksud dengan garis singgung lingkaran adalah suatu garis yang memotong lingkaran tepat di satu titik. Coba jelaskan mengapa garis l bukan termasuk garis singgung lingkaran?<br><br>Perhatikan kembali gambar di atas. Garis g dan garis h tegak lurus OB dan OA, sedangkan OB dan OA adalah jari-jari lingkaran. Jadi, garis singgung lingkaran akan tegak lurus dengan jari-jari lingkaran yang melalui titik singgungnya. Dapatkah kita membuat garis singgung lainnya di titik A dan di titik B? Ternyata, bagaimanapun caranya, kita tidak akan bisa membuat garis singgung yang lain di titik A dan di titik B. Dengan demikian, kita hanya dapat membuat satu garis singgung lingkaran dari satu titik pada sebuah lingkaran.</span><br><span>Perhatikan gambar di bawah ini!\u00a0<br><span>\u00a0</span><span>Garis c, e, dan f adalah garis singgung lingkaran karena memotong lingkaran di satu titik dan tegak lurus dengan jari-jari melalui titik singgungnya. Sedangkan garis a, b, d, g, dan h bukan garis singgung lingkaran karena jika garisnya di perpanjang, akan memotong lingkaran di dua titik.<br>TOLONG KASIH BINTANG!!!!!</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tunjukan-dengan-gamabar-apa-yang-di-maksud-dengan-a-sudut-pusa-879",
+            "question": "Tunjukan dengan gamabar apa yang di maksud dengan : A. sudut pusat B. sudut keliling",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini dia, gambarnya yang sudut pusat sama sudut keliling.........................",
+                    "attachments": [
+                        "answer-attachments/tunjukan-dengan-gamabar-apa-yang-di-maksud-dengan-a-sudut-pusa-879-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "seorang-nasabah-menabung-uang-di-bank-sebesar-rp1200000-setela-614",
+            "question": "seorang nasabah menabung uang di bank sebesar Rp.1.200.000 setelah 10 bulan tabungan nasabah tersebut menjadi Rp.1.380.000 berapa prosentase bunga per tahun bank tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga perbulan dalam 10 bulan = (1.380.000-1.200.000)/10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 18000<br>bunga dalam setahun = 18000.12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 216.000<br>persentase= 216.000/1.200.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 18 %<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-yang-dilalui-jarum-panjang-sebuah-jam-beriku-137",
+            "question": "Tentukan besar sudut yang dilalui jarum panjang sebuah jam berikut ini : a. Bergerak dari pukul 12.15 sampai 12.34 b. Bergerak dari pukul 09.06 sampai 09.23",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)12.34-12.15=19<br>maka\u00a0[tex] \\frac{19}{60} [/tex]\u00d7360=114 derajat<br>b)09.23-09.06=17<br>maka\u00a0[tex] \\frac{17}{60} [/tex]\u00d7360=102 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-jumlah-7-suku-pertama-dari-deret-geometri-berikut-a-635",
+            "question": "1) hitunglah jumlah 7 suku pertama dari deret geometri berikut:    a. 27+9+3+1+...\r\nb. 4+2+1+setengah + seper empat +...\r\nplisss yang tahu jawab dooonnkk :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 27+<span>9+3+1+1/3+1/9+1/27 = <br>\u00a0 \u00a0\u00a040+9/27+3/27+1/27 = <strong>40\u00a013/27</strong><br>b.\u00a0</span><span>4+2+1+1/2+1/4+1/8+1/16 =<br>\u00a0 \u00a0\u00a07+8/16+4/16+2/16+1/16 = <strong>7\u00a015/16</strong></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. 40 13/27<br>b.7 15/16<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengembang-membeli-sebuah-rumah-dengan-harga-tertenturum-682",
+            "question": "Seorang Pengembang membeli sebuah rumah dengan harga tertentu.Rumah tersebut diperbaiki dengan biaya Rp.500.000,0. Setelah rumah siap huni, rumah tersebut dijual lagi dengan harga Rp.104.000.000,00 . Jika dengan harga jual tersebut Pengembang mendapat keuntungan 30% , tentukan harga pembelihan rumah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga jual 104.000.000<br>harga perbaikan 500.000<br><br>keuntungan 30%<br>maka<br>104.000.000 - 500.000 = 103.500.000<br><br>100/130 x 103.500.000 = 79.615.385<br>maka harga belinya 79.615.385<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-lingkaran-yang-berdiameter-50-cm-terdapat-sebuah-tali-374",
+            "question": "Pada sebuah lingkaran yang berdiameter 50 cm terdapat sebuah tali busur sepanjang 48 cm. Panjang apotema pada tali busur tersebut adalah...??\u00a0    tx",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Buat sketsa\u00a0<br><span>Tali busur akan terbagi dua oleh jari-jari\u00a0</span><br><span>sehingga :\u00a0</span><br><span>Misal : Apotema = a\u00a0</span><br><span>a^2 = 25^2 - 24^2\u00a0</span><br><span>......= 625 - 576\u00a0</span><br><span>a^2 = 49</span><br><span>a = \u221a49\u00a0</span><br><span>a = 7 cm\u00a0</span><br><br><br><span>Jadi panjang apotema 7 cm\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menggunakan rumus segitiga siku2 dengan\u00a0 a = sisi alas , b = sisi datar dan c = hipotenusa <br><br>diketahui diameter 50 cm = 50 : 2 = 25 <br>panjang tali busur 48 : 2 = 24<br>berarti kita mencari apotema atau sisi datarnya yaitu b<br>b = \u221a25pangkat2 di kurang \u221a24pangkat2<br>b= \u221a625-\u221a576<br>b=\u221a49<br>b= 7 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-625-125-25-5-tentukan-rasio-dan-u7-806",
+            "question": "Diketahui deret 625-125-25-5+\r\nTentukan Rasio dan U7 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu serius kurang-kurangan? kok akhirnya jadi tambah?<br>r = 625/-125 =-5<br>U7 = 625.(-5)^5 = -1953125<br>maaf kalau salah, saya kurang memahami soal<br>\u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-prisma-berbentuk-segitiga-sama-kaki-dengan-panjang-si-320",
+            "question": "alas sebuah prisma berbentuk segitiga sama kaki dengan panjang sisi alas 12 cm,dan panjang kaki-kakinya 10 cm.Hitunglah volume prisma tersebut,jika tingginya 9 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>volume prisma = luas alas\u00a0</span>\u00d7 tinggi<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (\u00a01/2 x</span>\u00a0a x t ) x 9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = ( 1/2 x 12 x10 ) x 9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 60 x 9<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 540 cm\u00b3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

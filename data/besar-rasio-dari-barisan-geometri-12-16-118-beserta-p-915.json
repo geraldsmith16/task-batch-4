@@ -1,0 +1,132 @@
+{
+    "question": "Besar rasio dari barisan geometri 1/2, 1/6, 1/18. \u2026.? beserta penyelesaiannya.",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "diketahui u1 = 1/2 dan u2= 1/6\nmaka \nr= u2 : u1\nr= 1/6 : 1/2\nr= 1/6 x 2/1\nr= 2/6\nr= 1/3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-sin-30-derajat-cos-60-derajat-tan-45-derajat-529",
+            "question": "Hitunglah\r\nsin 30 derajat + cos 60 derajat - tan 45 derajat =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 -1 = 0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin 30 + cos 60 - tan 45 = 1/2 + 1/2 - 1 = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-cosinus-tangen-untuk-setiap-titik-yang-di-497",
+            "question": "Tentukan nilai sinus, cosinus, tangen untuk setiap titik yang di sajikan berikut :    A. P( 5.12 )\r\n B. Q(-5.2 , 7.2)\r\n C. R(-5.2-)\r\n D. T(3.5 , -7.75)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. P(5, 12) ==&gt; P(x, y)<br>x = 5, y = 12, dengan teorema phytagoras didapat r = 13<br>sin a = y/r = 12/13<br>cos a = x/r = 5/13<br>tan a = y/x = 12/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rumus-umum-suku-ke-n-dari-barisan-bilangan-372113-933",
+            "question": "Tentukan rumus umum suku ke-n dari barisan bilangan ; 3,7/2,11/3,...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus umumnya menurut saya Un=ar^(n-1)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516",
+            "question": "Seorang petani memetik buah coklat setiap hari dan mencatatnya. buah cokelat pada hari ke-n memenuhi Un=30+10n. Banyak buah cokelat yang dipetik selama 20 hari pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : matematika<br>Kelas : 12 SMA<br>Materi : deret<br>Kata kunci : barisan aritmatika<br><br>Pembahasan : Banyak buah cokelat yang dipetik selama 20 hari pertama adalah 2700 buah.<br>Perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/seorang-petani-memetik-buah-coklat-setiap-hari-dan-mencatatnya-b-516-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-fxx2-gxx-2-dan-hxx1-tentukan-nilai-fogoh-968",
+            "question": "Diketahui f(x)=x2, g(x)=x-2, dan h(x)=x+1. tentukan nilai (fogoh) (x)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "g (h(x)) = (x+1) - 2 = x + 1 - 2 = x - 1<br>f ( g\u00a0o\u00a0h ) =\u00a0\u00a0(x-1)\u00b2 = x\u00b2 - 2x + 1<br><br>Jadi (f o g o h) = x\u00b2 - 2x +1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "soal-cerita-tentang-barisan-dan-deret-aritmatika-dalam-bidang-fis-306",
+            "question": "Soal cerita tentang barisan dan deret aritmatika dalam bidang fisika , teknologi informasi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "soalnya saja pa ma jawabannya?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-ekstrim-z-dari-fungsi-z2xy-dengan-syarat-10x5y6-393",
+            "question": "Tentukan nilai ekstrim Z dari fungsi Z=2XY dengan syarat 10x+5y=600",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<br>10x + 5y = 600<br>2x + y = 120<br>y = 120 - 2x<br><br>z= 2xy<br>z= 2x(120-2x)<br>z= 240x-4x2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-permukaan-sebuah-kaleng-tanpa-tutup-tetapi-mempunyai-alas-de-336",
+            "question": "luas permukaan sebuah kaleng tanpa tutup tetapi mempunyai alas dengan diameter alas 20 cm dan tingginya 35 cm adalah ..\u00a0 \u00a0 (\u03c0=3,14)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas alas : <span>3,14 x 10 x 10 = 314<br>luas selimut : 3,14 x 20 x 35 = 2198<br>luas tabung tanpa tutup 314 + 2198 = 2512<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-5x-7-gt-7x5-maka-840",
+            "question": "Jika 5/x-7 &gt; 7/x+5, maka...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/ x-7 &gt; 7/x+5\u00a0<br>5x+25/(x-7)(x+5) &gt; 7x-49/(x-7)(x+5)\u00a0<br>5x+25 &gt; 7x-49\u00a0<br>25+49 &gt; 7x - 5x\u00a0<br>74 &gt; 2x\u00a0<br>37 &gt; x\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-derajatkah-pada-saat-jam-menunjukkan-pukul-1145-421",
+            "question": "Berapa derajatkah\u00a0pada saat jam menunjukkan pukul 11.45 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "300 derajat...............",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada saat jarum jam menunjuk 11.45,maka derajatnya adalah 90 derajat :-)\n  semoga bermanfaat!!",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

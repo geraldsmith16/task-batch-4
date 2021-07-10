@@ -1,0 +1,137 @@
+{
+    "question": "jika mean suatu data 7, 4, 6, 7, 8, 7, x. 8, 5, 8, 7, 6, 9 adalah 7, maka nilai x yg memenuhi adalah,,?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>7+ 4+ 6+ 7+ 8+ 7+ x+ 8 + 5 +\u00a0 8 +\u00a0 7 +\u00a0 6 + 9</span> per 13 = 7<br>82 + x per 13 = 7<br>82 + x = 7*13<br>82 + x = 91<br>x = 91-82<br>\u00a0\u00a0 = 9<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "(7<span>+</span>4+6+7+8+7+x+8+5+8+7<span>+6+9</span>):13=7<br>(82+x):13=7<br>82+x=91<br>x=91-82<br>x=9<br><br>poinnya banyak dikit donk.. jadikan jawaban terbaik ya :D<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "rumys-triogonometri-sudut-negatif-548",
+            "question": "Rumys triogonometri sudut negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Kuadran IV : sudut dalam derajat 270\u00b0 &lt;\u00a0\u03b1 &lt; 360\u00b0 atau <br>sudut dalam radian 3\u03c0/2 &lt;\u00a0\u03b1 &lt; 2\u03c0<span><br>sin (360\u00b0 -\u00a0\u03b1) = sin (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sin (-\u03b1) = -sin \u03b1<br>cos (360\u00b0 -\u00a0\u03b1) = cos (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cos (-\u03b1) = cos \u03b1<br>tan (360\u00b0 -\u00a0\u03b1) = tan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>tan (-\u03b1) = -tan\u00a0\u03b1<br>cotan (360\u00b0 -\u00a0\u03b1) = cotan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>cotan (-\u03b1) = -cotan\u00a0\u03b1<br>secan (360\u00b0 -\u00a0\u03b1) = secan (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>secan (-\u03b1) = -secan \u03b1<br>sec (360\u00b0 -\u00a0\u03b1) = sec (2</span>\u03c0 -\u00a0\u03b1) =\u00a0<span>sec (-\u03b1) = sec\u00a0\u03b1<br><br>Contoh :\u00a0<br></span><span>sin (-35)</span>\u00b0 = -sin 35\u00b0<br><span>cos (-26)</span>\u00b0 = cos 26\u00b0<br><span>tan (-</span>\u03c0/5) = -tan\u00a0\u03c0/5<br><span><br>Semangat!<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sin-45-sin-60cos-45-cos-30-tan-30-tan-60-981",
+            "question": "Sin 45\u00b0 sin 60\u00b0+cos 45\u00b0 cos 30\u00b0 / tan 30\u00b0 tan 60\u00b0 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : sinus, cosinus, sudut istimewa<br><br>Pembahasan :<br>Susut-sudut\u00a0pada trigonometri, yaitu :<br>sin 0\u00b0 = 0, cos 0\u00b0 = 1, tan 0\u00b0 = 0.<br>sin 30\u00b0 = 1/2, cos 30\u00b0 = 1/2\u00a0\u221a3, tan 30\u00b0 = 1/3\u00a0\u221a3.<span><br>sin 45\u00b0 = 1/2\u00a0\u221a2, cos 45\u00b0 = 1/2\u00a0\u221a2, tan 45\u00b0 = 1.<br>sin 60\u00b0 = 1/2\u00a0\u221a3, cos 60\u00b0 = 1/2, tan 60\u00b0 =\u00a0\u221a3.<br><span>sin 90\u00b0 = 1, cos 90\u00b0 = 0, tan 90\u00b0 =\u00a0\u221e.<br><br>Mari kita\u00a0lihat soal\u00a0tersebut.<br></span></span>[tex]\\frac{sin 45^o . sin 60^o + cos 45^o . cos 30^o}{tan 30^o . tan 60^o} \\\\= \\frac{ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}+ \\frac{1}{2} \\sqrt{2}. \\frac{1}{2} \\sqrt{3}} { \\frac{1}{3} \\sqrt{3}. \\sqrt{3}} \\\\= \\frac{ \\frac{1}{4} \\sqrt{6}+ \\frac{1}{4} \\sqrt{6}} { \\frac{1}{3}.3} \\\\= \\frac{ \\frac{2}{4} \\sqrt{6} } {1}\\\\= \\frac{1}{2} \\sqrt{6} [/tex]<br><span><span><br>Semangat!<br></span></span><span><span><br></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-30-suku-pertama-dari-deret-aritmatika-berikut-i-557",
+            "question": "Tentukan jumlah 30 suku\u00a0 pertama dari deret aritmatika berikut ini : \r\na. 1 + 5 + 9 + +13",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik a = 1 \u00a0 b = 5-1 = 4 \u00a0\u00a0<br>Dit Sn =\u00a030\u00a0?<br>jawab.<br><br>Sn =\u00a0[tex] \\frac{n}{2} (2a + (n-1)b)[/tex]<br><br>S30 =\u00a0[tex] \\frac{30}{2} (2(1)+ (30-1)4)[/tex]<br><br>S30 =\u00a0[tex]15 (2 + 116) = 1770[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-ingkaran-dari-kalimat-jika-kamu-tidak-jadi-berangkat-ke-kota-788",
+            "question": "1. Ingkaran dari kalimat    \" Jika kamu tidak jadi berangkat ke Kota Solo, maka kamu mentraktir saya\" adalah?\r\n\r\n2. Pernyataan di bawah ini yang mempunyai nilai kebenaran BBBB adalah...\r\na. p ^ ~q\r\nb. ~p v ~q\r\nc. p =&gt; ~q\r\nd. ~p v q\r\ne. ~p &lt;=&gt; q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.\u00a0kamu berangkat ke solo dan kamu tidak mentraktir saya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753",
+            "question": "Apa yang dimaksud dengan dua sudut berpenyiku dan dua sudut berpelurus? beri contoh dengan gambar.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dua sudut penyiku, apabila kedua sudut di jumlahkan hasilnya 90 derajat (sudut siku siku)<br>contoh: 30 derajat + 60 derajat<br>dua sudut pelurus, apabila dijumlahkan hasilnya 180 derajat (sudut lurus)<br>contoh: 50 derajat + 130 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sudut berpenyiku adalah sudut2 yg jika dijumlahkan hasilnya 90\u2070 sedangkat sudut berpelurus adalah sudut2 yg jika dijumlahkan hasilnya 180\u2070.",
+                    "attachments": [
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-1.jpg",
+                        "answer-attachments/apa-yang-dimaksud-dengan-dua-sudut-berpenyiku-dan-dua-sudut-berpe-753-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-jenis-mesin-penggiling-padi-digunakan-untuk-menggiling-s-772",
+            "question": "Dua buah jenis mesin penggiling padi digunakan untuk menggiling satu peti padi. untuk menggiling satu peti padi, mesin jenis pertama lebih cepat 1/2 jan dari mesin jenis kedua. sementara jika kedua mesin digunakan sekaligus, dapat menggiling satu peti padi selama 6 jam.    a. berapa jam waktu yang digunakan mesin jenis pertama untuk menggiling satu peti padi\r\nb. berapa jam waktu yang digunakan mesin jenis kedua untuk menggiling satu peti padi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal<br>penggiling pertama=a<br>penggiling kedua=b<br>a lebih cepat1/2jam dari b, maka<br>a=b - 1/2 =&gt;a-b=1/2<br>adan b secara bersama 6 jam, maka<br>a + b = 6<br><br>a - b = 1/2 ditambah a + b =\u00a0 6<br><span>hasilnya 2a = 2 1/4\u00a0</span><br>maka lama yang dibutuhkan a 2 1/4 jam<br><br>a + b = 6<br>2 1/4 + b = 6<br>b= 3 3/4 jam<br><span>maka yang lama yang dibutuhkan b 3 1/4 jam<br><br>semoga bermanfaat :)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tlong-gan-jika-hx2-x2-2x-maka-hx-2x-x2-2x-465",
+            "question": "Tlong gan: Jika h(x+2) = x\u00b2 + 2x maka h(x)=....... 2x + X\u00b2 2x - x\u00b2 -x\u00b2 + 2x -x\u00b2 - 2x x\u00b2 - 2x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(x + 2) = x\u00b2 + 2x <br>h(x) =\u00a0 (x - 2)\u00b2 + 2(x - 2)<br>h(x) = x\u00b2 - 4x + 4 + 2x - 4 <br>h(x) = x\u00b2 - 4x + 2x + 4 - 4 <br>h(x) = x\u00b2 - 2x\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "2. pH = 4 ---&gt; [H+] = 1 x 10^-4 \n[H+] = derajat ionisasi x M asam \n10^-4 = 0,005 x M asam \nM asam = 0,02 M \n\n[H+] = \u221a Ka x M asam \n10^-4 = \u221a Ka x 0,02 \n(10^-4)^2 = Ka x 0,02 ..\n10^-8 = Ka x 0,02 \nKa = 5 x 10^-7",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

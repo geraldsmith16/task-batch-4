@@ -1,0 +1,142 @@
+{
+    "question": "Pertumbuhan penduduk biasanya dinyatakan dalam persen.    Misalnya, pertumbuhan penduduk adalah 2% per tahun artinya jumlah penduduk\r\n bertambah sebesar 2% dari jumlah penduduk tahun sebelumnya. Pertambahan\r\n penduduk menjadi dua kali setiap 10 tahun. Jumlah penduduk desa pada awalnya\r\n 500 orang, berapakah jumlah penduduknya setelah 70 tahun apabila pertumbuhannya\r\n 2,5%?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "dik = jumlah penduduk mula-mula = 500 jiwa<br>\u00a0 \u00a0 \u00a0 \u00a0 pertumbuhannya = 2,5 %<br>dit = jumlah penduduk akhir pd 70 th = ...\u00a0<br>jwb = (500 jiwa x 2,5 %) x 70 th = 437500",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-nilai-dari-asin-45-derajat-cos-45-derajat-b-cos-pan-803",
+            "question": "Tentukan nilai dari\u00a0    a.sin 45 derajat + cos 45 derajat\r\nb cos pangkat 2 60 derajat + sin 2 30 derajat\r\nc sin 60 derajat cos 30 derajat + cos 60 derajat sin 30 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Trigonometri<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui sin 30\u00b0 = 1/2, <br>cos 30\u00b0 = 1/2 \u221a3, <br>sin 45\u00b0 = 1/2 \u221a2, <br>cos 45\u00b0 = 1/2 \u221a2, <br>sin 60\u00b0 = 1/2\u00a0\u221a3, <br>cos 60\u00b0 = 1/2<br>Mari kita lihat soal tersebut.<br><span>a. sin 45</span>\u00b0 +\u00a0<span>cos 45</span>\u00b0 <br>= 1/2\u00a0\u221a2 + 1/2\u00a0\u221a2 <br>=\u00a0\u221a2.<br><span><br>b. cos</span>\u00b2\u00a0<span>60</span>\u00b0<span>\u00a0+ sin</span>\u00b2<span>\u00a030</span>\u00b0 <br>= (1/2)\u00b2 + (1/2)\u00b2 <br>= 1/4 + 1/4 <br>= 2/4 <br>= 1/2.<br><span><br>c sin 60</span>\u00b0 x\u00a0<span>cos 30</span>\u00b0<span>\u00a0+ cos 60</span>\u00b0 x\u00a0<span>sin 30</span>\u00b0 <br>= (1/2\u00a0\u221a3 x 1/2\u221a3) + (1/2 x 1/2) <br>= 1/4 x \u221a9 + 1/4 <br>= 1/4 x 3 + 1/4 <br>= 3/4 + 1/4 = 4/4 <br>= 1.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-menyebabkan-pernyataan-jika-x2-x-6-maka-x2-922",
+            "question": "Nilai x yang menyebabkan pernyataan, ''jika x2 + x = 6 maka x2 + 3x &lt; 9 \" bernilai salah adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x\u00b2 + x - 6 = 0<br>(x + 3)(x - 2) = 0<br>x = -3 v x = 2<br><br>implikasi akan bernilai salah jika p benar dan q salah<br><br>x\u00b2 + 3x &lt; 9 bernilai salah untuk x = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-pangkat-2-sama-artinya-dengan-302",
+            "question": "8 pangkat -2 sama artinya dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama artinya dengan 8^-2 =\u00a0[tex] \\frac{1}{8^2} =  \\frac{1}{64}  [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau tidak salah sama dengan pangkat 8 : pangkat 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "garis-ab-garis-ba-apakah-sinar-abba-butuh-jawaban-776",
+            "question": "Garis AB = garis BA, apakah sinar AB=BA? butuh jawaban.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tidak, karna garis dan sinar itu berbeda, kalau sinar AB artinya a yg memancarkan sinar ke b, sdangkan sinar BA artinya b yg memancarkan sinar mnuju ke a,, jadi beda,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "iya sinar AB=BA jadi itu sama <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-mencari-alas-segita-407",
+            "question": "Rumus mencari alas segita\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus dasar mencari luas segi tiga adalah :<br>L = 1/2 x a x t\u00a0<br>jadi kita berpatokan pada rumus tsb\u00a0dapat dikembangkan menjadi rumus turunan untuk mencari alas dan tinggi segitiga sebagai berikut :<br>a = L/t x 2<br><span>t = L/a x 2</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 kali luas bagi tinggi(hasil bolak-balik rumus luas segitiga) maaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-253-derajat-jika-diubah-kedalam-satuan-menit-dan-detik-a-764",
+            "question": "Sudut 25,3\u00a0 derajat jika diubah kedalam satuan menit dan detik adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "taunya yg menit aja yg detik gk tw<br><br>menit : 25,3\u00b0 = 25\u00b0 + (3:10x60&#039;)<br>= 25\u00b0 + 18&#039;<br>25\u00b018&#039;<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 menit = 30 drajat\u00a0<br>1 menit = 30/5\u00a0= 6 drajat\u00a0<br>25,3 /6 = 4.21667 menit\u00a0<br>4,21667 menit * 60 = 253 detik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2-liter-bensin-untuk-50-km-senilai-dgn-liter-untuk-75-km-600",
+            "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-20-dari-barisan-420-2-adalah-824",
+            "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-proyeksi-vektor-orthogonal-pxi-2j-4k-pada-q-2i-762",
+            "question": "diketahui proyeksi vektor orthogonal p=xi - 2j + 4k pada q = 2i + 2j + k adalah r = 4i + 4 j + 2k. nilai x =....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]r= \\frac{p.q}{|q|^2}.p\\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right]= \\frac{(x.2)+(-2.2)+(4.1)}{( \\sqrt{4+4+1)^2} }  \n\\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n\\left[\\begin{array}{ccc}4\\\\4\\\\2\\end{array}\\right] =  \\frac{2x}{9} \\left[\\begin{array}{ccc}2\\\\2\\\\1\\end{array}\\right] \\\\\n4= \\frac{2x}{9}2 \\\\\n \\frac{4.9}{2}=2x\\\\\nx=9   [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-mempunyai-sepasang-akar-berkebalikan-nilai-p-905",
+            "question": "Persamaan\u00a0 mempunyai sepasang akar berkebalikan.    Nilai p\u00a0= .......\r\na. 18\r\nb. 6\r\nc. 3\r\nd. -6\r\ne. -18",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mempunyai sepasang akar berkebalikan artinya : x\u2081 . x\u2082 = 1<br>x\u2081 . x\u2082 . x\u2083 = -d/a<br>x\u2083 = -8/2 = -4 <br>masukkan x = -4 ke persamaan : 2x\u00b3 + 3x\u00b2 + px + 8 = 0<br>akan didapat : <br>2(-64) + 3(16) - 4p + 8 = 0<br>-128 + 48 + 8 = 4p<br>p = - 18<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

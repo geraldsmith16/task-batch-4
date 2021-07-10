@@ -1,0 +1,142 @@
+{
+    "question": "Pengertian sudut komplemen dan sudut suplemen",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Sudut komplemen = sudut yang berpenyiku (besarnya 90 derajat)<br>Sudut suplemen = sudut yang berpelurus (besarnya 180 derajat)<br>",
+            "attachments": []
+        },
+        {
+            "answer": "sudut komplemen yakni sudut saling berpenyiku , artinya jumlah kedua sudut = 90 derajat<br>sudut suplemen yakni sudut yang saling berpelurus, artinya jumlah kedua sudut = 180 derajat",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-koordinat-a1-p-5-b2-4-4-dan-c-1-2-q-jik-179",
+            "question": "Diketahui koordinat A(1, p, 5), B(2, -4, 4), dan C(-1, 2, q). jika A, B, dan C segaris, nilai p+q = .......    pembahasan nya juga yaaa, tolong di bantu ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{}{AB} = \\left[\\begin{array}{ccc}1-2\\\\p-(-4)\\\\5-4\\end{array}\\right] = \\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right] [/tex]<br><br>[tex] \\frac{}{BC} = \\left[\\begin{array}{ccc}2-(-1)\\\\-4-2\\\\4-q\\end{array}\\right] = \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right] [/tex]<br><br>Sehingga :<br>Karena segaris maka :<br>AB segaris BC atau sama saja dengan AB = BC<br><br>[tex]\\left[\\begin{array}{ccc}-1\\\\p+4\\\\1\\end{array}\\right]= k \\left[\\begin{array}{ccc}3\\\\-6\\\\4-q\\end{array}\\right][/tex]<br><br>Maka :<br>- 1 = k3<br>k = -1/3<br><br>Untuk nilai p :<br>p + 4 = -6k<br>p + 4 = -6(-1/3)<br>p + 4 = 2<br>p = 2 -\u00a04<br>p = - 2<br><br>Untuk nilai q :<br>1 = k (4 - q)<br>1 = (-1/3) ( 4 - q)<br>- 3\u00a0= 4 - q<br>- 3 - 4 = - q<br>- 7 = - q<br>q = 7<br>\u00a0<br><strong>Maka untuk p + q</strong><br><strong>= - 2 + 7</strong><br><span><strong>= 5</strong></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2n-1x-n40-mempunyai-dua-akar-rel-ya-432",
+            "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-bilangan-bulat-positif-pertama-sama-dengan-143",
+            "question": "Jumlah n bilangan bulat positif pertama sama dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dimaksu n adalah bilangan positif 1",
+                    "attachments": []
+                },
+                {
+                    "answer": "contohnya aja ambil 2,4,6,8<br>nah ters kita anggap kalau 2 itu n<br>jadi kalau 4=n+2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06=n+4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br>kalau mau dimasukin rumus juga bisa,kan rumusnya :<br>Un=a+(n-1)b<br>Un=2+(n-1)2<br><br>atau ada juga rumus yg gampang,yaitu Un=2n<br>kalau mau gampang sih mending pake yg Un=2n aja :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-nilai-perbandingan-trigonometri-yang-lain-jika-diketa-924",
+            "question": "Tentukanlah nilai perbandingan trigonometri yang lain jika diketahui sudut lancipnya sebagai berikut ...    cos \u0443 = 0,8\r\n\r\ntolong yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos y = 0,8 = 8/10<br>cos y = sami(samping miring) = x/r<br>berarti x = 8 , r = 10 (sisi miring)<br>berarti mencari nilai y, dengan phytagoras didapat y = 6<br><br>sehingga sin y = y/r = 6/10 = 0.6<br>tan y = y/x = 6/8 = 0.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-akar-akar-dari-persamaan-suku-banyak-fxx3-6x2-9-632",
+            "question": "Tentukan akar-akar dari persamaan suku banyak f(x)=x^3 - 6x^2 + 9x - 2 = 0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>f(x)=x^3 - 6x^2 + 9x - 2 = 0<br>ambil dari koef derajat tertinggi -&gt; +-1<br>ambil dari suku tetap -&gt; +-1, +-2<br>akar akar <em><strong>yang mungkin\u00a0</strong></em><strong></strong>+-1/+-1 , +-2/+-1 -&gt; 1,-1,2,-2<br>f(1) = (1)</span>\u00b3\u00a0-\u00a06\u00a0(1)\u00b2\u00a0+\u00a09\u00a0(1)\u00a0-\u00a02<br><span>\u00a0 \u00a0 \u00a0\u00a0= 1 - 6 + 9 -2\u00a0<br>\u00a0 \u00a0 \u00a0 = 2\u00a0</span>\u2260\u00a00 (bukan akar dari pers)<br><span>f(-1) = (-1)</span>\u00b3 - 6 (-1)\u00b2 + 9 (-1) -2<br><span>\u00a0 \u00a0 \u00a0 = -1 - 6 -9 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span>f(2) = (2)</span>\u00b3 -6 (2)\u00b2 + 9 (2) -2<br><span>\u00a0 \u00a0 \u00a0 = 8 -24 +18 -2<br>\u00a0 \u00a0 \u00a0 = 26 - 26 = 0 (benar)<br></span><span>f(-2) = (-2)</span>\u00b3 - 6 (-2)\u00b2 +9 (-2) -2<br><span>\u00a0 \u00a0 \u00a0 \u00a0= -8 -24 -18 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span><br>akarnya hanya 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-kecepatan-80kmjam-memerlukan-waktu-2-jam-15-774",
+            "question": "sebuah mobil dengan kecepatan 80km/jam memerlukan waktu 2 jam 15 menit . jika kecepatan mobil 100km/jam waktu yang diperlukan untuk menempuh jarak yang sama .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jarak tempuh = 80/60x135 = 180.\njadi waktu yg diperlukan = 180 : 100/60 = 180 x 60/100 = 108 menit atau 1 jam 48 menit. (tolong bedakan tanda : dan / ya)",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebuah mobil dgn kecepatan 80km/jam memerlukan waktu 2jam 15 menit. jika mobil tsb melaju dgn kecepatan 100km/jam maka waktu yg diperlukan adalah 1 jam 48 menit.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-balok-luas-permukaan-balok-luas-selimut-balok-951",
+            "question": "Volume balok ?\r\n luas permukaan balok ?\r\n luas selimut balok ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume Balok : Panjang Lebar Tinggi<br>LP Balok : 2(p.l) + 2(p.t) + 2(l.t)<br>Tidak ada luas selimut balok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-magga-dan-apel-75-buah-jika-perbandingan-78-banyak-buah-a-560",
+            "question": "Jumlah Magga dan Apel 75 Buah jika perbandingan 7:8 Banyak Buah Apel adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawabannya mangga=35<br>apel=40<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Mangga = m<br>Apel = a<br>\u00a0<br>m + a = 75<br>\u00a0m : a\u00a0= 7 : 8\u00a0<br>\u00a0Apel = 8/7 x \u00a075\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= \u00a085 , 71 \u00a0 ( dibulatkan )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0= 86\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

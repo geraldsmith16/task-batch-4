@@ -1,0 +1,162 @@
+{
+    "question": "Jika pengurangan 2x dari 3 hasilnya tidak kurang dari 5, maka nilai x adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "3-2x \u2265 5<br>-2x\u00a0\u2265 5-3<br>-2x \u2265 2<br>x \u2264 2/-2<br>x \u2264 -1<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "debit-aliran-air-dari-sebuah-selang-adalah-2200-cm-kubikmenit-337",
+            "question": "Debit Aliran air dari sebuah selang adalah 2.200 cm kubik/menit. Air tersebut ditampung dalam sebuah kolam. Jika waktu pengisian dilakukan selama 25 menit, maka Volume air yang tertampung ada..... liter",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "volume = debit x waktu<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2.200 x 25<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 55.000 cm\u00b3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 55 liter<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Debit = [tex] \\frac{Volume}{Waktu} [/tex]<br>maka, Volume = Debit x Waktu<br>V = 2200 cm\u00b3/menit x 25 menit<br>V = 55000 cm\u00b3 --&gt; 55 liter<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-persegi-panjang-panjangnya-17-25-cm-lebarnya-12-14-cm-618",
+            "question": "Suatu persegi panjang, panjangnya 17\u00a02/5 cm , lebarnya 12 1/4 cm, berapa keliling dan luasnya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2 x (Panjang + Lebar)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2\u00d7(17 2/5 + 12 1/4)<br><strong></strong><strong></strong>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2\u00d7(29.65)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =59.3<br>luas= panjang \u00d7 lebar<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  17 2/5 \u00d7 12 1/4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =213.15<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "k=2\u00d7(17 2/5+12 1/4)\n=2\u00d7(29 13/20)\n=593/10=59,3cm\nl=17 2/5\u00d712 1/4\n=87/5\u00d749/4\n=17,4\u00d712,25\n=213.15cmkuadrat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-kayu-berbentuk-tabung-berjari-jari-r-dan-tingginya-t-lu-637",
+            "question": "sebatang kayu berbentuk tabung berjari jari r dan tingginya t. luas permukaan tabung tersebut dirumuskan .....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Volume tabung = luas alas x tinggi<br><br>Luas alas = luas lingkaran = \u03c0r2<br><br>Volume tabung = \u03c0 r 2 t<span><br><br>Keliling lingkaran alas/tutup = 2\u03c0r<br><br>Luas Selimut= 2\u03c0rt<br><br>Luas Permukaan Tabung = 2 x luas alas + Luas selimut tabung<br><br>Luas Permukaan Tabung = 2 (\u03c0 r 2 )+ 2 \u03c0 r t = 2 \u03c0 r ( r + t )</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2\u00d7<span>\u00d7r\u00d7(r+t)=atau2\u00d73.14\u00d7r\u00d7(r+t)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-candi-telah-berumur-6-abad-7-dasawarsa-4-windu-berarti-ca-418",
+            "question": "Sebuah candi telah berumur 6 abad 7 dasawarsa 4 windu. berarti candi tersebut telah berumur?    buat penyelesaiannya yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 abad = 100 tahun berarti 6 abad = 600 tahun<br>1 dasawarsa = 10 tahun berarti 7 dasawarsa = 70 tahun<br>1 windu =8 tahun berarti 4 windu = 24 tahun<br><br>600+70+24 = 694 tahun",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 abad = 600 tahun<br>7 dasawarsa = 70 tahun<br>4 windu = 32 tahun<br>Maka 600 + 70 + 32 = 702 tahun",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lantai-sebuah-ruangan-berbentuk-persegi-dengan-ukuran-sisi-5-mete-710",
+            "question": "lantai sebuah ruangan berbentuk persegi dengan ukuran sisi 5 meter . ruangan tersebut akan dipasang ubin yang berukuran 25 cm x 25 cm. berapa banyak ubin yang diperlukan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L. Lantai= 5*5=25m\u00b2= 250.000cm\u00b2 <br> L.Ubin= 25x25=625cm\u00b2 <br> Banyak Ubin=L.Lantai : L.Ubin= 400Ubin",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>jawabannya adalah L.Ubin= 400Ubin</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-mengubah-067-ke-pecahan-biasa-dan-ke-persen-840",
+            "question": "Bagaimana cara mengubah 0,67 ke pecahan biasa dan ke persen",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pecahan biasa = 0,67 = 67/100<br>persen = 0,67 = 67/100 x 100% = 67%<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "pecahan biasa 0,67 = [tex] \\frac{67}{100} [/tex]<br>persen = [tex] \\frac{67}{100} * 100 %[/tex]<br>= 67%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-1-16-22-55-2-35-1-15-08-3-2-12-852",
+            "question": "1. \u00a0 1 1/6 + 2,2 - 55%    2.\u00a0\u00a0\u00a0 35% + 1 1/5 - 0,8\r\n3\u00a0 \u00a0\u00a0 2 1/2 - 0,57 - 65%\r\n4.\u00a0 \u00a0 5 3/4 - 2,5 + 24%\r\n5.\u00a0 \u00a0 4,85 - 65% + 7/10\r\nDi jadi'in Pecahan biasa,desimal,persen \r\nTolong.......yaaa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. desimal nya 2,816<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1) pecahan = 7/6 + 22/10 - 55/100 = 700/600 + 1320/600 - 330/600 = 1690/600 atau 2 490/600 atau 2 49/60<br>desimal = 2,816666.... = 2,8167 atau 2,817 atau 2,82<br>persen = 281,67%<br>2) persen = 35% + 120% - 80% = 75%<br>pecahan = 75/100 = 3/4<br>desimal = 0,75<br>3) desimal = 2,5 - 0,57 - 0,65 = 1,28<br>pechan = 128/100 atau 1 28/100 atau 1 7/25<br>persen = 128/100 x 100% = 128%<br>4) desimal = 5,75 - 2,5 + 0,24 = 3,49<br>pcahan = 3 49/100 atau 349/100<br>persen = 349/100x100% = 349%<br>5) desimal = 4,85 - 0,65 + 0,7 = 4,9<br>pecahan = 4 9/10 atau 49/10<br>persen = 49/10x100% = 490%<br><br>semoga membantu, maaf kalo ada kesalahan . jangan lupa jadikan jawaban trbaik ;)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "59-per-3213-per-24-659",
+            "question": "5,9 per 32+13 per 24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5,9/32+13/24 = 566,4/96+52/96 = 618,4/96<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawaban dari 5,9 per 32 + 13 per24 adalah : 2 63/96<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-pecahan-paling-sederhana-dari-16-adalah-349",
+            "question": "Bentuk pecahan paling sederhana dari 16\u00a0\u00a0% adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bentuk pecahan paling sederhana<br><br>16% =\u00a016 / 100 = 4/25 = 0,16",
+                    "attachments": []
+                },
+                {
+                    "answer": "16% = 16/100<br>16/100 disederhanakan menjadi 4/25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-kelereng-a-terhadap-b-34-kelereng-terhadap-c-25-jumlah-494",
+            "question": "jumlah kelereng a terhadap b 3:4 kelereng terhadap c 2:5. jumlah kelereng mereka bertiga 102 butir. berapa banyak kelereng mereka masing - masing?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A : B ...... = 3 : 4<br>..... B : C \u00a0=..... 2 :\u00a05<br><br>A : B : C = 6 : 8 : 20 = 34<br><br>A = 6/34 x 102 =18<br>B = 8/34 x 102 = 24<br>C = 20/34 x 102 = 60<br><br>A + B + C<br>18 + 24 + 60 = 102<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kelereng a=18<br>kelereng b=24<br>kelereng c=60",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

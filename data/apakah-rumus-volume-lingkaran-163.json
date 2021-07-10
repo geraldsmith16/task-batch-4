@@ -1,0 +1,140 @@
+{
+    "question": "Apakah rumus volume lingkaran ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Volume lingkaran (V) tidak memiliki rumus.</p><h2><strong>Pembahasan :</strong></h2><p><strong>Lingkaran </strong>adalah gabungan titik titik yang ada pada bidang datar dengan jarak yang sama. Titik titik tersebut akan menggambarkan suatu garis lengkung dengan berpusat pada pusat lingkaran.</p><p>Bagian Bagian Pada Lingkaran \u00a0</p><ul><li>Pusat lingkaran \u21d2 terletak pada titik tengah yang memiliki jarak yang sama terhadap titik terluar. \u00a0</li><li>Jari - jari lingkaran \u21d2 jarak dari pusat lingkaran (titik tengah) ke titik terluar. \u00a0</li><li>Diameter lingkaran \u21d2 jarak dari titik terluar kanan dan kiri lingkaran yang melewati titik pusat. Atau dengan kata lain diameter lingkaran adalah 2 kali dari jari - jari. </li></ul><p>Untuk menghitung unsur lingkaran dapat dilakukan dengan beberapa cara :</p><ul><li>Jika yang diketahui adalah Keliling (K) lingkaran maka menggunakan rumus berikut :</li></ul><h3>K = 2\u03c0r \u00a0</h3><p>keterangan : \u00a0K = Keliling (cm)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u03c0 = \u00b2\u00b2/\u2087 atau 3,14\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = panjang jari - jari lingkaran (cm)</p><ul><li>Jika yang diketahui adalah luas lingkaran (L), maka menggunakan rumus berikut :</li></ul><h3>L = \u03c0 \u00d7 r\u00b2 \u00a0</h3><p>Keterangan: L = Luas Lingkaran (cm\u00b2)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u03c0 = 3,14 atau \u00b2\u00b2/\u2087 \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = jari - jari dari lingkaran (cm)</p><ul><li>Jika yang diketahui adalah luas juring lingkaran, maka menggunakan rumus berikut :</li></ul><h3>Luas Juring Lingkaran = (\u03b1/360\u00b0) \u00d7 \u03c0r\u00b2\n</h3><p>Keterangan : \u03b1 = besar sudut juring\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u03c0 = 22/7 atau 3,14 \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r = jari - jari lingkaran</p><h2>Pelajari lebih lanjut : \u00a0</h2><p>Materi tentang Luas dan keliling lingkaran https://brainly.co.id/tugas/18154443\n</p><p>Materi tentang keliling lingkaran https://brainly.co.id/tugas/20984696 \u00a0</p><p>Materi tentang jumlah putaran roda https://brainly.co.id/tugas/961753</p><p>Materi tentang contoh soal luas juring lingkaran https://brainly.co.id/tugas/19557148\n</p><p>Materi tentang contoh soal luas juring lingkaran https://brainly.co.id/tugas/4720202\n</p><h3>---------------------------------- \u00a0</h3><h2>Detail Jawaban : \u00a0</h2><p>Kelas : 8 \u00a0</p><p>Mapel : Matematika \u00a0</p><p>Bab : 7 \u00a0</p><p>Kode : 8.2.7 \u00a0</p><p><strong>#AyoBelajar</strong></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-berikut-besar-sudut-abc60-derajat-dan-sudut-bdc25-d-822",
+            "question": "Pada gambar berikut besar sudut ABC=60 derajat    dan sudut bdc=25 derajat maka besar sudut aec \u00a0adalah\u00a0\r\n\r\ngambarnya yg no 14",
+            "attachments": [
+                "question-attachments/pada-gambar-berikut-besar-sudut-abc60-derajat-dan-sudut-bdc25-d-822-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "BCD : 180 - 60 = 120<br>AEC : 180 - 120 - 25 = 35",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cuma mengurangi saja<br>60 derajat - 25 derajat = 35 derajat<br><br>Caranya? Ini mengenai sudut di luar lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-layang-layang-adalah-135-cm2-jika-panjang-salah-satu-540",
+            "question": "Luas sebuah layang-layang adalah 135 cm2. Jika panjang salah satu diagonalnya 18 cm. maka panjang diagonal satunya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Luas layang-layang adalah diagonal1 x diagonal2 dibagi 2.<br>Rumus mencari d2 adalah luas layang-layang dikali 2 dibagi d1<br><span>=(135 </span>x 2) : 18<br>= 270 : 18 = 15 cm<br><br>Semoga membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "koperasi-sekolah-membeli-2-kardus-buku-tulis-dangan-harga-rp5400-138",
+            "question": "Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah , tentukan :    a.harga penjualan\r\nb.Harga pembelian\r\nc.keuntungan\r\nd.persentase keuntungan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Koperasi sekolah membeli 2 kardus buku tulis</strong> dangan harga Rp54.000,00 per kardus. Setiap kardus berisi 50 buah buku tulis. Setiap buku tulis dijual ke para siswa dengan harga Rp1.350,00 per buah, maka\n</p><ul><li>a. harga penjualan = Rp135.000,00\n</li><li>b. harga pembelian = Rp108.000,00\n</li><li>c. keuntungan = Rp27.000,00\n</li><li>d. persentase keuntungan = 25%\n</li></ul><p>Seseorang akan <strong>mengalami keuntungan</strong> jika <em>harga penjualan lebih besar dari harga pembelian</em> atau <em>harga pembelian lebih kecil dari harga penjualan</em>, maka\n</p><ul><li>Untung = Harga jual \u2013 harga Beli\n</li><li>Untung = persentase untung \u00d7 harga beli\n</li></ul><p>maka\n</p><p>Persentase untung = [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100% \u00a0</p><p></p><h3>Pembahasan\n</h3><p></p><p><strong>Diketahui\n</strong></p><p>Harag beli buku tulis = Rp54.000,00 per kardus\n</p><p>Setiap kardus berisi 50 buku tulis\n</p><p>Harga jual 1 buku tulis = Rp1.350,00\n</p><p></p><p><strong>Ditanyakan</strong>\n</p><p>a. harga penjualan\n</p><p>b. harga pembelian\n</p><p>c. keuntungan\n</p><p>d. persentase keuntungan\n</p><p></p><p><strong>Jawab\n</strong></p><p>Banyak total buku tulis\n</p><p>= 2 kardus \u00d7 50 buku\n</p><p>= 100 buku\n</p><p></p><p><strong>a. Harga Penjualan buku tulis\n</strong></p><p>= 100 buku \u00d7 Rp1.350,00\n</p><p>= <strong>Rp135.000,00\n</strong></p><p></p><p><strong>b. Harga pembelian buku tulis\n</strong></p><p>= 2 kardus \u00d7 Rp54.000,00\n</p><p>= <strong>Rp108.000,00\n</strong></p><p></p><p><strong>c. Keuntungan yang diperoleh\n</strong></p><p>= harga jual \u2013 harga beli\n</p><p>= Rp135.000,00 \u2013 Rp108.000,00\n</p><p>= <strong>Rp27.000,00\n</strong></p><p></p><p><strong>d. Persentase keuntungan yang diperoleh\n</strong></p><p>= [tex]\\frac{untung}{harga \\: beli}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27.000}{108.000}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{27}{108}[/tex] \u00d7 100%\n</p><p>= [tex]\\frac{1}{4}[/tex] \u00d7 100%\n</p><p>= <strong>25%\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0</h3><p></p><p>Contoh soal lain tentang keuntungan\n</p><p>https://brainly.co.id/tugas/21047303\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel </strong>: Matematika \u00a0\n</p><p><strong>Kategori</strong> : Aritmatika Sosial\n</p><p><strong>Kode</strong> : 7.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Koperasi sekolah membeli 2 kardus buku tulis dangan harga Rp54.000,00 per kardus\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dermawan-berbelanja-di-bebeapa-koperasi-yang-berbeda-drm-666",
+            "question": "seorang dermawan berbelanja di bebeapa koperasi yang berbeda. drmawan tersebut masuk ke toko 1 memberi uang pada \u00a0pengemis Rp 500. kemudian ia membelanjakan setengah dari seluruh uang sisanya. saat ia keluar dari toko ,ia memberi uang pada penjaga toko Rp1000.dermawan melalukan hal tersebut terhadap toko-toko yang ia kunjungi .setelah dermawan tersebut memberi uang Rp 1000 pada toko ke-6,uangnya habis.berapa uang yang dibawa dermawan mula-mula saat ia akan masuk ke toko ke- 1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui: uang yang di berikan dermawan kepada pengemis= Rp.500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 uang yang di berikan kepada setiap penjaga toko=Rp.1000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0uang yang di belanjakan= 1/2 dari uang yang dibawa dermawan<br>diatanya:uang yang di bawa dermawan keseluruhan?<br>jawab:<br>jumlah yang diberikan dermawan pada pengemis dan penjaga toko<br>=500+((1000 x 6)-1000)<br>=500+(6000-1000)<br>\u00a0=5500<br>karena uang yang di belanjakan 1/2 dari yang di bawa maka,<br>jumlah yang diberikan dermawan pada pengemis dan penjaga toko x 2=5500 x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =Rp.11000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-carikan-tiga-bilangan-dari-masing-masing-barisan-berikut-472",
+            "question": "Tolong carikan tiga bilangan dari masing-masing barisan berikut:\r\na.1,27,125,343\r\nb.8,64,216,512",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) 1 , 27 , 125 , 343 , ...\u00a0 \u00a0  polanya adalah : 1^3 , 3^3 , 5^3 , 7^3 , ...<br>\u00a0\u00a0 \u00a0 (pola bilangan ganjil pangkat 3)<br>\u00a0\u00a0 \u00a0 makan tiga bilangan selanjutnya adalah: <br>\u00a0\u00a0 \u00a0 9^3 = 729 <br>\u00a0\u00a0 \u00a0 11^3 = 1331<br>\u00a0\u00a0 \u00a0  13^3 = 2197 <br><br>b) 8 , 64 , 216 , 512 , ... polanya adalah : 2^3 , 4^3 , 6^3 , 8^3 , ... <br>\u00a0\u00a0  (pola bilangan genap pangkat 3)<br>\u00a0\u00a0 maka\u00a0 tiga bilangan selanjutnya adalah : <br>\u00a0\u00a0 10^3 = 1000 <br>\u00a0\u00a0  12^3 = 1728 <br>\u00a0\u00a0  14^3 = 2744<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.1,27,125,343 abenar atau salah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pinjaman-awal-sebesar-rp-400000-akan-diangsur-tiap-bulan-selama-432",
+            "question": "pinjaman awal sebesar rp 400.000 akan diangsur tiap bulan selama 8 bulan. jika besar pinjamanya 18% per tahun,maka sisa angsuran beserta bunganya setelah angsuran ke 6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "iya jawabannya C, Rp.\u00a0112.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-paling-sederhana-yang-ekivalen-dengan-persamaan-x-28-x-183",
+            "question": "Persamaan paling sederhana yang ekivalen dengan persamaan x-2=8-x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x -2 = 8-x<br>x + x = 8 + 2<br>2x = 10<br>x = 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Persamaan<br>x-2=8-x<br>x + x = 8 + 2<br>2 x = 10<br>\u00a0 \u00a0x = 5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kolam-ikan-mempunyai-volume-3600-literjika-kolam-tersebu-839",
+            "question": "Sebuah kolam ikan mempunyai volume 3.600 liter.jika kolam tersebut dialiri air dengan debit 40liter/menit,maka waktu yg diperlukan untuk mengisi kolam tersebut sampai penuh adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3.600 : 40 =90 menit",
+                    "attachments": []
+                },
+                {
+                    "answer": "3600 liter : 40 liter/menit = 90 menit",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-4142-adalah-407",
+            "question": "Hasil dari 4\u207b\u00b9+4\u207b\u00b2 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{4} +  \\frac{1}{4^{2} }  = \\frac{1}{4} + \\frac{1}{16} =  \\frac{4+1}{16}  =  \\frac{5}{16} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-sebuah-segitiga-26cm-28cm-30cm-luas-lingkaran-luar-599",
+            "question": "Panjang sisi sebuah segitiga 26cm 28cm 30cm .luas lingkaran luar segitiga \\pi = 3,14 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = 1/2 K<br>s = 1/2(26 + 28 + 30) = 42<br><br>Luas segitiga = [text]sqrt{s(s-a)(s-b)(s-c)}[/text]<br>luas segitiga = [text]sqrt{42(42-26)(42-28)(42-30)}[/text]<br>luas segitiga = [text]sqrt{42(16)(14)(12)}[/text]<br>luas segitiga = [text]sqrt(112896)[/text]<br>luas = 336<br><br>r = (a.b.c)/4 x L<br>selanjutnya sendiri gan...ganbate..<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

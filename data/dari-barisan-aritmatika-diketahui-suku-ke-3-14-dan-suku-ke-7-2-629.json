@@ -1,0 +1,142 @@
+{
+    "question": "Dari barisan aritmatika diketahui suku ke-3 =14 dan suku ke-7 = 26. jumlah 18 suku pertama adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Kelas : 12<span><br>\nMapel : Matematika<br>\nKategori : Bab 7 - Barisan dan Deret<br>\nKata Kunci : barisan. deret, aritmetika<br>\nKode : 12.2.7 [Kelas 12 Matematika Bab 7 -\nBarisan dan Deret]</span></p>\n\n<p>\u00a0</p>\n\n<p>Pembahasan :</p>\n\n<p><span>Barisan\naritmetika adalah suatu barisan dengan beda atau selisih antara dua suku\nberurutan selalu tetap atau konstan.<br><br>\nBentuk umum barisan aritmetika adalah<br>\nU</span>\u2081, U\u2082, U\u2083,\n..., Un atau a, a + b, a + 2b, ..., a + (n - 1)b<span><br><br>\nSuku ke-n dari barisan aritmetika, yaitu : Un = a + (n - 1)b.<br><br>\nBeda atau selisih antara dua suku berurutan, yaitu :\u00a0<br>\nb = Un - U(n - 1).<br><br>\nDeret aritmetika adalah jumlah suku-suku barisan\naritmetika.<br><br>\nBentuk umum deret aritmetika adalah<br>\nSn = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1) + Un<span><br></span>\u21d4 Sn = a + a + b + a +\n2b + ... + a + (n - 1)b<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](2a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + a + (n - 1)b)<span><br></span>\u21d4 Sn = [tex]\n\\frac{n}{2} [/tex](a + Un)<span><br>\nS(n - 1) = U</span>\u2081 + U\u2082 + U\u2083 +\n... + U(n - 1)<span><br>\nSn - S(n - 1) = Un.</span></p><p><br></p><p>Mari kita lihat soal tersebut.</p><span>Jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah...<br><br>Jawab :<br>Diketahui suku ke-3 adalah 14, sehingga<br>U</span>\u2083 = 14<br>\u21d4 U\u2083 = a + (3 - 1)b<br>\u21d4 U\u2083 = a + 2b<br>\u21d4 14 = a + 2b ... (1)<br><br>dan suku ke-7 adalah 26, sehingga<br>U\u2087 = 26<br>\u21d4 U\u2087 = a + (7 - 1)b<br>\u21d4 U\u2087 = a + 6b<br>\u21d4 26 = a + 6b ... (2)<br><br>Persamaan (1) dan (2) membentuk sistem persamaan linear dan kita dapat menentukan nilai a dan b menggunakan metode eliminasi dan substitusi.<br>Pertama, kita eliminasi a, sehingga<br>14 = a + 2b<br>26 = a + 6b<br>__________-<br>\u21d4 -12 = -4b<br>\u21d4 b =\u00a0[tex] \\frac{-12}{-4} [/tex]<br>\u21d4 b = 3<br><br>Kemudian, nilai b = 3 kita substitusikan ke persamaan (1), diperoleh<br>a + 2b = 14<br>\u21d4 a + 2(3) = 14<br>\u21d4 a + 6 = 14<br>\u21d4 a = 14 - 6<br>\u21d4 a = 8<br><br>Selanjutnya, kita menentukan jumlah 18 suku pertama, diperoleh<br>S\u2081\u2088 =\u00a0[tex] \\frac{18}{2} [/tex](2(8) + (18 - 1) x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 17 x 3)<br>\u21d4 S\u2081\u2088 = 9(16 + 51)<br>\u21d4 S\u2081\u2088 = 9(67)<br>\u21d4 S\u2081\u2088 = 603<br><br>Jadi, jika suku ke-3 dan suku ke-7 dari barisan aritmatika berturut-tutur adalah 14 dan 26, maka jumlah 18 suku pertama adalah 603.<br><br>Soal lain untuk belajar :\u00a0https://brainly.co.id/tugas/1812844<br><br>Semangat!<br><br>Stop Copy Paste!<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-sebuah-lingkaran-4396-cmjika-p314-maka-panjang-jari-218",
+            "question": "Keliling sebuah lingkaran 43,96 cm.jika \u03c0=3,14 maka panjang jari jarinya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K = 2.phi. r<br>43,96 = 2.3,14.r<br>43,96=6,28 r<br>r= 43,96/6,28<br>r= 7 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "K = 2[tex] \\pi [/tex]r<br>43,96= 2 x 3,14 x r<br>43,96= 6,24 x r<br>r= 43,96/6,24<br>r= 7,044 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-juring-pada-lingkaran-adalah-123-2-jika-besar-s-179",
+            "question": "diketahui luas juring pada lingkaran adalah 123, 2 , jika besar sudut pusat juring itu 72 derajat , panjang jari-jari lingkaran tersebut adalah!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L juring = sudut/360 \u00d7 \u03c0 r^2<br>123,2 = 72/360 \u00d7 22/7 \u00d7 r^2<br>123,2 = 1/5 \u00d7 22/7 r^2<br>123,2 = 22/35 r^2<br>r^2 = 123,2 \u00d7 35/22<br>r^2 = 196<br>r = \u221a196<br>r = 14<br><br>Jadi jari-jari lingkaran tersebut adalah 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yono-mendapatkan-gaji-sebesar-rp-1800000-dengan-gaji-tidak-ken-318",
+            "question": "yono mendapatkan gaji sebesar Rp. 1.800.000 dengan gaji tidak kena pajak Rp. 400.000 besar pajak penghasilan (PPh) sebesar 15% Tentukan besar gaji yang diterima yono",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15/100 x Rp1.800.000 = Rp270.000\u00a0<br>Rp270.000+Rp400.000=Rp670.000\u00a0<br><br>Rp1.800.000 + Rp670.000 = Rp2.470.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derah-tempat-asal-besi-428",
+            "question": "Derah tempat asal besi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar kemungkinan daerah-daerah penghasil bijih besi tersebut dahulunya\n adalah daerah-daerah yang terjatuhi oleh meteorit-meteorit yang \nmengandung besi tersebut. Daerah penghasil besi yaitu Sumatera, sulawesi, sumbawa, sumba, flores, dan timor.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-abcd-dan-l-12345-banyak-pemetaan-yang-446",
+            "question": "Diketahui K = {a,b,c,d} dan L = {1,2,3,4,5}. banyak pemetaan yang mungkin dari K ke L adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak pemetaan<br>[tex] l^{k} [/tex]=[tex] 5^{4} [/tex]=625<br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-faktor-24-adalah-640",
+            "question": "Himpunan faktor 24 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(1, 2, 4, 6, 12, 24)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maksudnya himpunan faktor adalah semua angka yang bisa membagi 24<br>yaitu: {1,2,3,4,6,8,12,24}\u00a0<br><br>himpunan harus menggunakan kurung kurawal \"{}\"",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-nasabah-mendapat-bunga-rp22400000-selama-4-bulan-bunga-631",
+            "question": "Seorang nasabah mendapat bunga Rp224.000,00 selama 4 bulan, bunganya 14% dari modal yang disimpan. Berapakah modal yang disimpan ? Jelaskan caranya juga!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp.400.000,00 \u00d7 14/100 =56000\n56000 \u00d7 4 = 224.000,00",
+                    "attachments": []
+                },
+                {
+                    "answer": "4/12 x 14/100 x m = 224.000\n14/300 x m = 224.000\n14/300m = 224.000\nm = 4.800.000\nmaaf kalo salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menentukan-besar-sudut-penyiku-dari-10-derajat-188",
+            "question": "Menentukan besar sudut penyiku dari 10 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sudut penyikunya = sudut siku-siku - 10&#039; = 90&#039; - 10&#039; = 80&#039;<br>maka sudut penyikunya adalah 80 derajat<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "90 derajat - 10 derajat = 80 derajat.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-memiliki-seutas-tali-yang-panjangnya-24mjika-tali-tsb-dipot-336",
+            "question": "andi memiliki seutas tali yang panjangnya 24m.Jika tali tsb dipotong-potong dengan panjang masing-masing 3/4m,maka banyak potongan tali adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak tali = 24 : 3/4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  =24 \u00d7 4/3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32 potongan tali<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24 x 3 / 4 = 72 / 4 = 18<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-persamaan-sin-2x-12-3-untuk-0-847",
+            "question": "Himpunan penyelesaian dari persamaan \u00a0sin 2x = 1/2\u00a0\u221a3 untuk 0\u00b0\u00a0\u2264 x\u00a0\u2264 360\u00b0 adalah...    tolong bangettt yang bisa segera jawab pertanyaan iniiii\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika sin x = sin alfa, maka :\u00a0<br><br><span>x = alfa + k . 360, dan\u00a0</span><br><span>x = (180 - alfa) + k . 360\u00a0</span><br><br><span>k = bilangan bulat\u00a0</span><br><br><span>sin 2x = 1/2\u00a0</span><br><span>sin 2x = sin 30\u00a0</span><br><br><span>i)\u00a0</span><br><span>2x = 30 + k . 360\u00a0</span><br><span>x = 15 + k . 180\u00a0</span><br><br><span>k = 0 -&gt; x = 15\u00a0</span><br><span>k = 1 -&gt; x = 195\u00a0</span><br><br><span>ii)\u00a0</span><br><span>2x = (180 - 30) + k . 360\u00a0</span><br><span>2x = 150 + k . 360\u00a0</span><br><span>x = 75 + k . 180\u00a0</span><br><br><span>k = 0 -&gt; x = 75\u00a0</span><br><span>k = 1 -&gt; x = 255\u00a0</span><br><br><span>HP : {15, 75, 195, 255}<br><br>Semoga Membantu,,,</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

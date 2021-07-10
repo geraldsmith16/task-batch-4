@@ -1,0 +1,138 @@
+{
+    "question": "untuk membuat larutan penyangga dengan pH = 6,ke dalam 100 mL larutan asam asetat 0,1 M harus ditambahkan kalsium asetat padat sebanyak (Ka asam asetat = 10-5 dan Ar C=12,H=1,O=16,Ca=40) ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik :\u00a0ph\u00a0CH3COOH\u00a0=6, ke dalam 100ml\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 M=\u00a00,1M<br>Peny:<br>\u21d2Kalsium asetat = (CH3COO)2Ca\u00a0<br>\u21d2[H\u207a] = Ka\u00a0\u00d7\u00a0mol asam / mol garam\u00a0<br>\u21d2[H\u207a] = Ka\u00a0\u00d7\u00a0100\u00d70,1 / 2y\u00a0<br>\u21d210\u207b\u2076=10\u207b\u2075\u00a0\u00d7\u00a010/2y\u00a0<br>\u21d22y=10\u207b\u2074/10\u207b\u2076\u00a0<br>\u21d2y\u00a0=0,005 mmol\u00a0, maka<br>\u21d2massa = 0,005\u00a0\u00d7\u00a0158 =0,79 mg<br><br><span>NB : mungkin\u00a0ka asam asetat = 10-5 pada soal anda itu maksudnya begini\u00a010\u207b\u2075</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "larutan-asam-metanoat-001m-ph-5-ditanya-harga-tetapan-asam-m-536",
+            "question": "Larutan asam metanoat 0,01M, pH = 5. ditanya harga tetapan asam metanoat? dengan pembahasan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui larutan asam metanoat 0,01M, pH = 5. Maka besarnya<strong> tetapan asam metanoat </strong>adalah Ka = 10\u207b\u2078</p><h3>Pembahasan</h3><p><strong>pH Larutan</strong></p><p>Derajad keasaman suatu larutan asam atau basa dari suatu larutan dapat dhitung dari besarnya nilai pH atau pOH larutan tersebut. Derajad keasamaan larutan bergantung pada jumlah konsentrasi ion H+ dalam larutan. Semakin besar konsentrasi ion H+ maka pH semakin kecil sehingga makin asam larutan tersebut. Hal ini karena pH sama dengan negatif logaritma konsnetrasi ion H+. \u00a0Begitu juga dengan pOH adalah negatif logaritma konsnetrasi ion OH-. Semakin besar pH, maka larutan akan semakin bersifat basa.</p><p>Ingat</p><p>Asam : \u00a0pH &lt; 7</p><p>Basa : pH &gt; 7 </p><p>pH = - log [H+]</p><p>pOH = - log [OH-]</p><p>pH + pOH = 14</p><br><p><strong>pH Asam Kuat </strong></p><p>Rumus : \u00a0 \u00a0 [tex]\\boxed{\\boxed{\\bold{[H^+]~=~a~.~Ma}}}[/tex]</p><p>pH = -log [H+] \u00a0 \u00a0dan \u00a0 \u00a0pOH = \u00a014 - pH \u00a0 </p><p>dengan \u00a0 \u00a0 \u00a0</p><p>a = banyak H+ yang diikat </p><p>Ma = Molaritas asam \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><br><p><strong>pH Asam Lemah \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 </strong></p><p>Rumus : </p><p>[H+] = \u221a(Ka .Ma) \u00a0 </p><p>[H+] = \u00a0\u03b1 . Ma</p><p>\u03b1 = \u221a(Ka/Ma) \u00a0</p><p>pH = -log [H+] \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0 \u00a0pOH = \u00a014 - pH </p><p>dengan \u00a0 </p><p>Ka = Tetapan ionisasi asam</p><p>Ma = Molaritas asam</p><p>\u03b1 = derajat ionisasi</p><br><p><strong>pH Basa Kuat </strong></p><p>Rumus : \u00a0 \u00a0[tex]\\boxed{\\boxed{\\bold{[OH^-]~=~b~.~Mb}}}[/tex]</p><p>pOH = -log [OH-] \u00a0 \u00a0 dan \u00a0 \u00a0pH = 14 - pOH \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><p>dengan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 </p><p>b = banyak OH- \u00a0yang diikat</p><p>Mb = Molaritas basa </p><br><p><strong>pH Basa Lemah </strong></p><p>Rumus : </p><p>[OH-] = \u221a(Kb .Mb)</p><p>[OH-] = \u00a0\u03b1 . Mb \u00a0 </p><p>\u03b1 = \u221a(Kb/Mb) </p><p>pOH = -log [OH-] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0dan \u00a0 \u00a0pH = 14 - pOH \u00a0 \u00a0 \u00a0 </p><p>dengan \u00a0 </p><p>Kb = Tetapan ionisasi basa</p><p>Mb = Molaritas basa</p><p>\u03b1 = derajat ionisasi</p><br><p>[tex]\\boxed{\\boxed{\\bold{Diket}}}[/tex]</p><p>[CH\u2083OH] = 0,01 M</p><p>pH = 5</p><br><p>[tex]\\boxed{\\boxed{\\bold{Ditanya}}}[/tex]</p><p>tetapan ionisasi asam metanoat</p><br><p>[tex]\\boxed{\\boxed{\\bold{Jawab}}}[/tex]</p><ul><li>Menentukan konsentrasi H\u207a</li></ul><p>pH = - log [H\u207a]</p><p>5 = - log [H\u207a]</p><p>[H\u207a] = antilog (5)</p><p>[H\u207a] = 1. 10\u207b\u2075 M</p><ul><li>Menentukan tetapan ionisasi asam (Ka)</li></ul><p>[H\u207a] = [tex]\\sqrt{Ka~x~Ma}[/tex]</p><p>1. 10\u207b\u2075 = [tex]\\sqrt{Ka~x~0,01}[/tex]</p><p>(1. 10\u207b\u2075)\u00b2 = Ka x 0,01</p><p>Ka = [tex]\\frac{1~x~10^{-10}}{0,01}[/tex]</p><p>Ka = [tex]\\frac{1~x~10^{-10}}{1~x~10^{-2}}[/tex]</p><p>Ka = 10\u207b\u2078</p><br><p>[tex]\\boxed{\\boxed{\\bold{Kesimpulan}}}[/tex]</p><p>Tetapan ionisasi asam metanoat (Ka) adalah 10\u207b\u2078</p><br><h3>Pelajari lebih lanjut</h3><p>pH asam, basa dan garam https://brainly.co.id/tugas/18330745</p><p>Rumus menentukan konsnetrasi H+ dan OH- https://brainly.co.id/tugas/19369085</p><p>Konsentrasi asam lemah https://brainly.co.id/tugas/20286675</p><p>Konsentrasi OH- https://brainly.co.id/tugas/5415760#</p><p>Menentukan pH asam kuat dan asam lemah https://brainly.co.id/tugas/732986, https://brainly.co.id/tugas/20903903</p><p>Menentukan pH larutan asam kuat dan basa kuat https://brainly.co.id/tugas/5710167</p><p>----------------------------------------------</p><h3>Detil Jawaban</h3><p>Mapel : Kimia</p><p>Bab : Larutan asam basa dan pH</p><p>Kelas : XI</p><p>Semester : 2</p><p>Kode : 11.7.5</p><p>Kata kunci : asam, \u00a0basa, pH, pOH, Ka, Kb, asam lemah, basa lemah, asam kuat, basa kuat</p>",
+                    "attachments": [
+                        "answer-attachments/larutan-asam-metanoat-001m-ph-5-ditanya-harga-tetapan-asam-m-536-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-50-ml-larutan-h2so4-0005-m-dicampur-dengan-50-ml-laruta-442",
+            "question": "Sebanyak 50 ml larutan H2SO4 0.005 M dicampur dengan 50 ml larutan NaOH 0.05 M. hitunglah ph larutan itu sebelum dan sesudah campuran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 -&gt; 50 x 0,005 = 0,25 mmol<br>NaOH -&gt; 50 x 0,05 = 2,5 mmol<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0NaOH + H2SO4\n-&gt; Na2SO4 + 2 H2O<br></span><span>Mula2 \u00a0\u00a02,5\u00a0 \u00a0 \u00a0 \u00a0 0,25 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0-<br></span><span>Reaksi\u00a00,25\u00a0 \u00a0 \u00a0\u00a0 0,25\u00a0 \u00a0 \u00a0 \u00a0\u00a0\n0,25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,25<br></span><span>Sisa \u00a0 \u00a0\u00a02,25\u00a0 \u00a0 \u00a0 \u00a0\u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\n0,25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,25<br></span>Tersisa NaOH 2,25<br>[OH-] = M x Valensi<br>[OH-] = 2,25/100 x 1 = 0,0225<br>pOH = -log [OH-]<br>pOH= -log 2,25x10^-2<br>pOH= 2-log 2,25<br>pH = 14-(2-log 2,25)<br><span>pH = 12+log 2,25</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-ionisasi-dari-nahco3-caco3-kno3-k2co3na3po4-nh4cl-k2-947",
+            "question": "Reaksi ionisasi dari NaHCO3, CaCO3, KNO3, K2CO3,Na3PO4, NH4Cl, k2CO3, CaF2, CuSO4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaHCO\u2083\u00a0\u2192 Na\u207a + HCO\u2083\u207b<br><br>CaCO\u2083\u00a0\u2192 Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br><br>KNO\u2083\u00a0\u2192 K\u207a + NO\u2083\u207b<br><br>K\u2082CO\u2083\u00a0\u2192 2K\u207a + CO\u2083\u00b2\u207b<br><br>Na\u2083PO\u2084\u00a0\u2192 3Na\u207a + PO\u2084\u00b3\u207b<br><br>NH\u2084Cl\u00a0\u2192 NH\u2084\u207a + Cl\u207b<br><br>CaF\u2082\u00a0\u2192 Ca\u00b2\u207a + 2F\u207b<br><br>CuSO\u2084\u00a0<span>\u2192 Cu</span>\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                },
+                {
+                    "answer": "NaHCO\u2083 --&gt; Na\u207a + HCO\u2083\u207b<br>CaCO\u2083 --&gt; Ca\u00b2\u207a + CO\u2083\u00b2\u207b<br>KNO\u2083 --&gt; K\u207a + NO\u2083\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>Na\u2083PO\u2084 --&gt; 3Na\u207a + PO\u2084\u00b3\u207b<br>NH\u2084Cl --&gt; NH\u2084\u207a + Cl\u207b<br>K\u2082CO\u2083 --&gt; 2K\u207a + CO\u2083\u00b2\u207b<br>CaF\u2082 --&gt; Ca\u00b2\u207a + 2F\u207b<br>CuSO\u2084 --&gt; Cu\u00b2\u207a + SO\u2084\u00b2\u207b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alumunium-larut-dalam-asam-klorida-membentuk-alumunium-klorida-da-559",
+            "question": "Alumunium larut dalam asam klorida membentuk alumunium klorida dan gas hidrogen. persamaan reaksi. jika massa alumunium yang dilarutkan 5,4 gram, maka berapa volume has H2 yang dapat terbentuk diukur pada keadaan standar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Al + 3HCL --&gt; AlCl3 + 3/2H2<br><br>massa Al = 5,4 gr<br>mol Al = massa : Ar Al = 5,4 : 27 = 0,2 mol<br>mol gas H2 = koef H2/koef Al x mol Al = 3/2 x 0,2 = 0,3 mol<br><br>volume gas H2 pada keadaan standar :<br>V = mol H2 x 22,4<br>\u00a0 \u00a0= 0,3 x 22,4<br>\u00a0 \u00a0= 6,72 liter\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-garam-yang-dapat-mengubah-warna-indikator-fenoftalein-pp-754",
+            "question": "Larutan garam yang dapat mengubah warna indikator fenoftalein (pp)menjadi merah ...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> Larutan garam berikut ini yang dapat mengubah warna indikator fenolftalein (pp) menjadi merah adalah . . .<br> a. NH4Cl<br> b. NaCl<br> c. CH3COOK<br> d. Na2SO4<br> e. CaCl2</span><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1. Larutan garam berikut ini yang dapat mengubah warna indikator fenolftalein (pp) menjadi merah adalah . . .<br>a. NH4Cl<br>b. NaCl<br>c. CH3COOK<br>d. Na2SO4<br>e. CaCl2<br><br>2. Larutan penyangga dapat dibuat dengan mereaksikan . . .<br>a. 100 cm&#039;3 NH4OH 0,1 M + 100 cm&#039;3 HCl 0,3 M<br>b. 100 cm&#039;3 NH4OH 0,1 M + 100 cm&#039;3 HCl 0,2 M<br>c. 100 cm&#039;3 NH4OH 0,1 M + 100 cm&#039;3 HCl 0,1 M<br>d. 100 cm&#039;3 NH4OH 0,2 M + 100 cm&#039;3 HCl 0,1 M<br>e. 100 cm&#039;3 NH4OH 0,2 M + 100 cm&#039;3 HCl 0,2 M</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mr-no32-berapa-662",
+            "question": "Mr (NO3)2 berapa?........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ar N = 14\\<br>Ar O = 16<br>Mr (NO\u2083)\u2082 = (Ar N + 3Ar O) x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (14 + 3(16)) x\u00a02<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (14 + 48 ) x\u00a02<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= (62)2 = 124 gr/mol (satuan untuk Mr)<br>semoga membantu!!!<br>jangan lupa, pilih sebagai\u00a0jawaban terbaik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "logam-seng-yang-massanya-13-gram-direaksikan-denvan-larutan-asam-263",
+            "question": "Logam seng yang massanya 13 gram direaksikan denvan larutan asam klorida sampai habis dengan reaksi:    Zn + HCl -&gt; ZnCl2 + H2\r\n\r\n berapa liter volume gas hidrogen yang dihasilkan, jika diukur pada satu liter gas SO3 massanya 4 gr? (Ar Zn = 65, S = 32, Cl = 35,5)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kita cari mol Zn terlebih dahulu<br>mol Zn = gram / Mr = 13/65 = 0,2 mol<br><br>cari mol H2, dengan menggunakan \"perbandingan koefisien = perbandingan mol\"<br><br>reaksi setara-nya :<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 Zn + 2 HCl --&gt; ZnCl2\u00a0 +\u00a0 H2<br>perband. koef\u00a0 \u00a0 \u00a0 1\u00a0 \u00a0 \u00a0 \u00a0 2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>perband mol\u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 0,4\u00a0 \u00a0 \u00a0 \u00a0 0,2\u00a0 \u00a0 \u00a0 \u00a0 0,2<br><br>cara mencari mol H2<br>= koefisien H2 / koefisien Zn x mol Zn<br>= 1/1 x 0,2<br>= 0,2 mol<br><br>hitung volume H2 pada keadaan dimana 1 liter SO3 massanya 4 gram<br>kita cari mol SO3 dulu<br>mol SO3 = 4/ 80 = 0,025 mol<br><br>kemudian gunakan rumus<br>mol H2/ vol H2 = mol SO3 / vol SO3<br>0,2 / vol H2 = 0,025 / 1<br>vol H2 = 8 Liter<br><br><br><br>semoga bisa membantu :)<br>beri label terbaik ya, 25 % poin kamu akan dikembalikan :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-naoh-sebanyak-2-liter-mempunyai-ph-12-log-3-jumlah-mol-304",
+            "question": "Larutan NaOH sebanyak 2 liter mempunyai pH 12 +log 3. jumlah mol NaOH tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.</strong> NaOH termasuk dalam jenis larutan basa kuat. Jumlah mol dapat ditentukan jika konsentrasi basa diketahui. Adapun Konsentrasi dapat ditentukan dari data [OH\u207b] dan valensi basa.\n</p><p></p><h3>Pembahasan\n</h3><p>Langkah awal dalam kaitannya dengan pH adalah menentukan jenis larutan yang diketahui merupakan larutan asam atau larutan basa. Setelah mengetahui jenis larutan kalian juga harus menentukan sifat larutan tersebut termasuk asam basa kuat atau asam basa lemah. Berdasarkan teori Arrhenius disebutkan bahwa asam adalah senyawa yang dapat melepaskan ion H\u207a ketika dilarutkan dalam air. Adapun basa adalah senyawa yang dapat melepas ion OH\u207b ketika dilarutkan dalam air. Berikut pilihan rumus yang dapat digunakan untuk menghitung konsentrasi asam dan basa sesuai dengan kekuatan asam atau basa tersebut. \u00a0\n</p><p>Jika asam kuat : [H\u207a] = Ma x a\n</p><p>Jika basa kuat : [OH\u207b] = Mb x b\n</p><p>Jika asam lemah : [H\u207a] = \u221a(Ka x Ma)\n</p><p>Jika basa lemah : [OH\u207b] = \u221a(Kb x Mb)\n</p><p>Daftar asam kuat: HCl, HBr, HI, H\u2082SO\u2084, HClO\u2084, HNO\u2083\n</p><p>Daftar basa kuat : LiOH, NaOH, KOH, RbOH, CsOH, Mg(OH)\u2082, Ca(OH)\u2082, Sr(OH)\u2082, Ba(OH)\u2082\n</p><p>Selanjutnya jika larutan tersebut merupakan larutan asam maka pH ditentukan dengan \u00a0\n</p><p>pH = - log [H\u207a]\n</p><p>Jika larutan adalah larutan basa maka pH ditentukan dengan\n</p><p>pOH = - log [OH\u207b] \u00a0 =&gt; pH = 14 \u2013 pOH\n</p><p>Pelajari lebih lanjut tentang pH asam basa di: https://brainly.co.id/tugas/21186459. \u00a0</p><p><u><strong>Pada kasus di atas\n</strong></u></p><p>Pada soal diketahui basa NaOH dengan pH 12 + log 3 dengan volume 2 L. Adapun yang ditanyakan adalah jumlah mol dari basa tersebut.\n</p><p>Untuk menentukan jumlah mol NaOH kalian harus mengetahui NaOH termasuk ke dalam basa kuat atau basa lemah untuk menentukan rumus yang dapat digunakan. Jika kalian lihat pada daftar NaOH termasuk ke dalam kelompok basa kuat sehingga kalian dapat menentukan konsentrasi NaOH menggunakan rumus \u00a0</p><p>[OH\u207b] = Mb x b\n</p><p>Kalian dapat menentukan [OH\u207b] menggunakan data pH yang diketahui. Berikut penentuannya:\n</p><p>pH = 12 + log 3\n</p><p>pOH = 14 \u2013 pH\n</p><p>pOH = 14 \u2013 (12 + log 3)\n</p><p>pOH = 2 \u2013 log 3\n</p><p>[OH\u207b] = 3 x 10\u207b\u00b2\n</p><p>Selanjutnya untuk b (valemnsi basa) dapat kalian tentukan dari jumlah OH\u207b dalam larutan yang dapat kalian lihat dari hasil ionisasinya berikut\n</p><p>NaOH \u00a0\u2192 Na\u207a + OH\u207b\n</p><p>Dilihat dari reaksi ionisasi tersebut didapatkan bahwa basa terdapat 1 ion OH\u207b sehingga valensi basa (b) = 1. Selanjutnya kalian dapat menentukan konsentrasi basa dengan rumus berikut:\n</p><p> \u00a0 \u00a0[OH\u207b] = Mb x b\n</p><p>3 x 10\u207b\u00b2 = Mb x 1\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 3 x 10\u207b\u00b2 M\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 0,03 M\n</p><p>Selanjutnya kalian dapat menentukan jumlah mol (n) yang terdapat dalam larutan NaOH tersebut menggunakan rumus:\n</p><p>n = M x V = 0,03 x 2 = 0,06 mol\n</p><p>Jadi dapat disimpulkan bahwa jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.\n</p><p>Pelajari lebih lanjut tentang konsentrasi dalam satuan molaritas di: https://brainly.co.id/tugas/18990947.\n</p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas:</strong> XI\n</p><p><strong>Mapel:</strong> Kimia\n</p><p><strong>Bab: </strong>larutan asam basa\n</p><p><strong>Kode:</strong> 11.7.5\n</p><p>#AyoBelajar\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-hitunglah-kb-dari-larutan-basa-lemah-boh-0012m-dengan-ph-902",
+            "question": "1. \u00a0 \u00a0Hitunglah Kb dari larutan basa lemah BOH 0,012M dengan pH=11,4    2. \u00a0 Hitunglah pH larutan yang terbentuk jika 4,8 liter gas NH3 (STB) di larutkan dalam 2 liter air (Kb=\u00a010-5 )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>1. Nilai Kb dari larutan basa lemah BOH 0,012 M yang memiliki pH = 11,4 adalah <strong>5,3 \u00d7 10\u207b\u2074.</strong></p><p>2. pH larutan yang terbentuk jika 4,8 L gas NH\u2083 (STP) di larutkan dalam 2 L air (Kb = 10\u207b\u2075) adalah <strong>11,01.</strong></p><p></p><h2>Pembahasan :\n</h2><h3>Soal Nomor 1 :</h3><p>Diketahui : BOH 0,012 M\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 pH = 11,4</p><p>Ditanya : Kb ? \u00a0</p><p>Penyelesaian soal : \u00a0</p><p><strong>Tahap 1 : \u00a0</strong></p><p>Dihitung nilai konsentrasi ion OH\u207b basa lemah sebagai berikut : \u00a0</p><p>pH = 11,4 = 11 + log 2,52</p><p>pOH = 14 - pH = 14 - (11 + log 2,52) = 3 - log 2,52</p><p>[OH\u207b] = 2,52 \u00d7 10\u207b\u00b3</p><p>\n</p><p><strong>Tahap 2 :\n</strong></p><p>konsentrasi ion OH\u207b basa lemah adalah 2,52 \u00d7 10\u207b\u00b3. Maka selanjutnya dapat dihitung harga Kb dengan menggunakan rumus basa lemah sebagai berikut : \u00a0</p><p>[OH\u207b] = [tex]\\sqrt{Kb~x~Mb}[/tex] \u00a0</p><p>2,52 \u00d7 10\u207b\u00b3 = [tex]\\sqrt{Kb~x~1,2~x~10^{-2}}[/tex] \u00a0</p><p>(2,52 \u00d7 10\u207b\u00b3)\u00b2 = Kb \u00d7 1,2 \u00d7 10\u207b\u00b2 \u00a0</p><p>6,35 \u00d7 10\u207b\u2076 = Kb \u00d7 1,2 \u00d7 10\u207b\u00b2\n</p><p>Kb = [tex]\\frac{6,35~x~10^{-6}}{1,2~x~10^{-2}}[/tex] \u00a0</p><p> \u00a0 \u00a0 \u00a0= <strong>5,3 \u00d7 10\u207b\u2074</strong></p><p></p><p></p><h3>Soal Nomor 2 :</h3><p>Diketahui : V gas NH\u2083 = 4,8 L (STP)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V air = 2 L</p><p>Ditanya : pH ? \u00a0</p><p>Penyelesaian soal : \u00a0</p><p><strong>Tahap 1 : \u00a0</strong></p><p>Dihitung mol gas NH\u2083 pada keadaan STP dengan menggunakan rumus sebagai berikut :\n</p><p>Mol = [tex]\\frac{volume~gas}{volume~STP}[/tex]\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0= [tex]\\frac{4,8~L}{22,4~L/mol}[/tex]\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0= 0,21 mol</p><p></p><p><strong>Tahap 2 :</strong></p><p>Dihitung terlebih dahulu massa molekul relatif senyawa NH\u2083 yaitu sebagai berikut : \u00a0</p><p>Mr NH\u2083 = Ar N + (3 \u00d7 Ar H)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14 + (3 \u00d7 1)\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14 + 3\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 17 g/mol\n</p><p></p><p><strong>Tahap 3 :</strong> \u00a0</p><p>Selanjutnya setelah diketahui massa molekul relatif senyawa NH\u2083 yaitu 17 g/mol, maka dapat dihitung konsentrasi gas NH\u2083 dengan menggunakan rumus molaritas sebagai berikut : \u00a0</p><p>M = [tex]\\frac{mol}{V}[/tex] \u00a0</p><p> \u00a0 \u00a0= [tex]\\frac{0,21~mol}{2~L}[/tex] \u00a0</p><p> \u00a0 \u00a0= 0,105 M</p><p>\n</p><p><strong>Tahap 4 :\n</strong></p><p>NH\u2083 merupakan salah satu larutan yang bersifat basa lemah. Untuk menghitung konsentrasi ion OH\u207b larutan basa lemah dapat dengan menggunakan rumus sebagai berikut : \u00a0</p><p>[OH\u207b] = [tex]\\sqrt{Kb~x~Mb}[/tex] \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = [tex]\\sqrt{10^{-5}~x~1,05~x~10^{-1}}[/tex] \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = [tex]\\sqrt{1,05~x~10^{-6}}[/tex] \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,03 \u00d7 10\u207b\u00b3</p><p>\n</p><p><strong>Tahap 5 :\n</strong></p><p>Selanjutnya setelah diketahui nilai konsentrasi ion OH\u207b yaitu 1,03 \u00d7 10\u207b\u00b3, maka dapat dihitung nilai pH dengan menggunakan rumus pH sebagai berikut : \u00a0</p><p>pOH = - log [OH\u207b] = - log 1,03 \u00d7 10\u207b\u00b3 = 3 - log 1,03</p><p>pH = 14 \u2013 pOH = 14 - (3 - log 1,03) = 11 + log 1,03 = <strong>11,01</strong></p><p><strong>\u21d2 Kesimpulan, maka :</strong></p><p><strong>1. Nilai Kb dari larutan basa lemah BOH 0,012 M yang memiliki pH = 11,4 adalah 5,3 \u00d7 10\u207b\u2074.</strong></p><p><strong>2. pH larutan yang terbentuk jika 4,8 L gas NH\u2083 (STP) di larutkan dalam 2 L air (Kb = 10\u207b\u2075) adalah 11,01.</strong></p><p></p><p><strong>Basa lemah </strong>\n</p><p>Disebut basa lemah karena zat terlarut dalam larutan ini tidak mengion seluruhnya, \u03b1 \u2260 1, (0 &lt; \u03b1 &lt; 1).\n</p><p><em>\u03b1 = [tex]\\sqrt{\\frac{Kb}{Mb}}[/tex]\n</em></p><p><em>Rumus : \u00a0</em></p><p><em>[OH\u207b] = [tex]\\sqrt{Kb~x~Mb}[/tex]\n</em></p><p><em>pOH = - log [OH\u207b] \u00a0</em></p><p><em>pH = 14 \u2013 pOH\n</em></p><p></p><h2>Pelajari lebih lanjut :</h2><p>Materi tentang menghitung pH basa lemah https://brainly.co.id/tugas/14673042</p><p>Materi tentang menghitung nilai Kb https://brainly.co.id/tugas/10917134\n</p><p>-------------------------------------------------------------------------------------------------- \u00a0</p><h2>Detail Jawaban :</h2><p>Kelas : 11\n</p><p>Mapel : Kimia \u00a0</p><p>Bab : Larutan Asam Basa\n</p><p>Kode : 11.7.5\n</p><p>Kata kunci : Kb, pH</p>",
+                    "attachments": [
+                        "answer-attachments/1-hitunglah-kb-dari-larutan-basa-lemah-boh-0012m-dengan-ph-902-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hukum-hukum-dasar-kimia-260",
+            "question": "Hukum hukum dasar kimia",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hukum kekekalan masa, hukum kekekalan tetap, hukum kelipatan berganda, hukum perbandingan volume, hukum avogadro<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "-hukum perbandingan tetap ialah\u00a0<span>dalam suatu\u00a0senyawa, \u00a0perbandingan\u00a0massa\u00a0unsur\"\u00a0penyusunnya\u00a0selalu\u00a0tetap.<br>-hukum kekekalan massa ialah\u00a0</span><span>massa zat\" sebelum reaksi dan sesudah reaksi tidak \u00a0berkurang atau tidak bertambah ( tetap ).<br>-hukum perbandingan berganda ialah b</span><span>ila unsur\"\u00a0dapat membentuk dua macam senyawa/lebih, dimana massa salah satu unsur tersebut tetap (sama), maka perbandingan massa unsur yang lain dalam senyawa\" tsb\u00a0merupakan bilangan bulat\u00a0 dan sederhana.<br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

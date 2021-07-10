@@ -1,0 +1,154 @@
+{
+    "question": "jika diketahui lingkaran A dan lingkaran B dengan jari jari berturut turut 5cm dan 6cm,maka tentukan selisih luas dari lingkaran A dan lingkaran B?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Luas A = 113,04<br>Luas B = 78,5<br>selisih = 34,54",
+            "attachments": []
+        },
+        {
+            "answer": "Luas A =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 5 cm x 5 cm\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 78,5 cm\u00b2<br>Luas B =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x 6 cm x 6 xm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 113,04 cm\u00b2<br><br>selisih = Luas B - Luas A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 113,04 cm\u00b2 - 78,5 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 34,54 cm\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "paman-memiliki-sebuah-taman-berbentuk-lingkaran-dengan-diameter-3-419",
+            "question": "paman memiliki sebuah taman berbentuk lingkaran dengan diameter 30 m. di sekeliling taman akan dibuat pagar , jika harga pagar Rp9.000,00/m maka biaya yang dibutuhkan paman untuk membuat pagar adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3,14 x 30= 94,2m. 92,4m x Rp 9.000,00=Rp 847.800,00",
+                    "attachments": []
+                },
+                {
+                    "answer": "v = v\u00a0kali r\u00a0kali r\u00a0<br>v = 3,14 kali 15 kali 15<br>v =706,5m<br>1m = \u00a09000<br>jadi = 706,5 kali 9000 = Rp\u00a06.358.500 yang harus dibayar paman<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-bantu-ya-friends-jika-ta-merupakan-tabungan-awal-da-598",
+            "question": "Tolong bantu ya friends....\u00a0    Jika Ta merupakan tabungan awal, dan P merupakan persentase bunga tunggal per tahun, maka besar bunga tabungan selama 3 bulan adalah.....\r\n\r\nA. Ta x p%\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03\r\n\r\nB. Ta x p%\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04\r\n\r\nC. Ta x p% x 3\r\n\r\nD. Ta x \u00a0\u00a04 \u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 p%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ta x 3/12 p% = Ta x p%/4 (jawaban b)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-memiliki-seutas-tali-yang-panjangnya-24mjika-tali-tsb-dipot-336",
+            "question": "andi memiliki seutas tali yang panjangnya 24m.Jika tali tsb dipotong-potong dengan panjang masing-masing 3/4m,maka banyak potongan tali adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak tali = 24 : 3/4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  =24 \u00d7 4/3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32 potongan tali<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24 x 3 / 4 = 72 / 4 = 18<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-peternak-ikan-mempunyai-persediaan-makanan-cukup-untuk-80-693",
+            "question": "seorang peternak ikan mempunyai persediaan makanan cukup untuk 80 ekor ikan selama 15 hari . jika jumlah ikan bertambah 20 ekor persediaan makanan akan habis selama ? minta cranya ya plisss",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80 + 20x = 15 x 80<br>100x = 1200<br>x = 1200/100<br>x = 12<br><br>12 hari",
+                    "attachments": []
+                },
+                {
+                    "answer": "x/15=80/100\nx.      =15.80/100\nx.      =12 hari",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seorang-pedagang-membeli-20-kg-gula-merah-dgn-harga-rp5500-p-297",
+            "question": "1. seorang pedagang membeli 20 kg gula merah dgn harga Rp.5.500 per kg.gula itu kemudian dijual lagi dengan harga Rp.7.500 per kg.selama menjual gula tsb ternyata tersisa 1 kg gula merah yg tdk layak jual.    a. untung /rugikah pedagang tsb ?\r\nb. berapa persentasenya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) untung<br>b)keuntungan= (7500-5500). (20-1) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 38000<br>modal= 20 (5500)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 110000<br>persentase keuntungan= 38000/110000 <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 34.5 %<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. modal 20kg x 5500 = 110.000<br>\u00a0 \u00a0dijual 19 kg x 7500 = 142.500<br>\u00a0 \u00a0berarti untung<br><br>b. prosentasennya<br>\u00a0 \u00a0 untung =\u00a0142.500 - 110.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 32.500<br>\u00a0 \u00a0<br><span>\u00a0 \u00a0(32.500 / 110.000) x 100% = 29,5 %</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jikaa-harga-1-gros-peniti-rp10800-maka-hargaa-perbuah-penitiiny-192",
+            "question": "Jikaa harga 1 gros peniti rp.10.800 maka hargaa perbuah penitiinya berapa?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 gross= 144<br>144/10.800=Rp.750",
+                    "attachments": []
+                },
+                {
+                    "answer": "Rp.75<br>diketahui<br>harga peniti 1 gross =rp. 10.800<br>1 gross = 144 buah<br>jadi 10.800/144=rp.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-layang-layang-abcd-dengan-sudut-bac-sudut-bad-2-5-460",
+            "question": "diketahui layang-layang ABCD dengan sudut BAC : sudut BAD = 2 : 5. jika besar sudut BCD = 105 derajat, maka tentukan besar sudut ADC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pebandingan sudut<br>BAC : BAD<br>2x :5x<br>sehingga sudut CAD = 3x<br><br>nilai x<br>2x + 3x = 105<br>5x= 105<br>x = 21<br><br>sudut CAD dan ACD\u00a0<br>3x<br>= 3(21)<br>=63derajat<br><br>CAD + ACD + ADC = 180<br>63+ 63+ ADC =180<br>126 +ADC=180<br>ADC = 54 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-3x252x15nilai-x2-209",
+            "question": "Jika 3(x+2)+5=2(x+15),nilai x+2=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3(x+2)+5=2(x+15)<br>3x + 6 + 5 = 2x +30<br>3x + 11 = 2x +30<br>3x - 2x = -11 + 30<br>x = 19<br>x + 2 = 19 + 2 = 21",
+                    "attachments": []
+                },
+                {
+                    "answer": "3(x+2)+5 = 2(x+15)<br>3x+6+5 = 2x+30<br>3x+11 = 2x+30<br>3x-2x = 30-11<br>x = 19<br>\u00a0jadi , nilai x + 2 = 19 + 2 = 21<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-pembelian-kopi-dengan-bruto-50kg-adalah-rp-950000-jika-278",
+            "question": "Harga pembelian kopi dengan bruto 50kg adalah Rp. 950.000 , jika tara 2% dan penjualan tiap kg neto adalah Rp. 20.000 tentukan :    a neto\r\nb harga penjualan seluruhnya \r\nc keuntungan seluruhnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Harga pembelian</strong> kopi dengan <strong>bruto</strong> 50kg adalah Rp. 950.000 , jika<strong> tara</strong> 2% dan penjualan tiap kg <strong>netto</strong> adalah Rp. 20.000 tentukan :\n</p><p>a netto\n</p><p>b harga penjualan seluruhnya \u00a0</p><p>c keuntungan seluruhnya</p><p><strong>Membeli, menjual, untung, Bruto, Netto, Tara </strong>merupakan bagian dari permasalahan bab Aritmatika Sosial.</p><p><strong>Aritmatika sosial </strong>adalah materi matematika yang berhubungan dengan kehidupan sehari\", seperti menghitung harga jual, harga beli, untung, rugi, diskon, rabat, bruto, netto, tara, tangungan awal, tabungan ahir, bunga dll.</p><p><em><strong>Beberapa rumus dalam bab Aritmatika sosial berkenaan dengan jual beli:</strong></em></p><ul><li>Harga jual = Harga beli + Untung</li><li>Harga beli = Harga jual - Untung</li><li>Harga jual = Harga beli - Rugi</li><li>Harga beli = Harga jual + Rugi</li><li>Untung = Harga Jual - Harga beli</li><li>Rugi = Harga beli - Harga jual</li><li>Untung dalam rupiah = Prosentase untung x Harga beli</li><li>Bruto (berat kotor) = Netto + Tara</li><li>Netto = Bruto - Tara</li><li>Tara = Bruto - Netto</li></ul><p></p><h3>Pembahasan</h3><p><em><strong>Diketahui:</strong></em></p><p>Bruto = 50 kg</p><p>Tara = 2%</p><p>Harga beli = Rp 950.000</p><p>Harga jual/kg = Rp 20.000</p><p><em><strong>Ditanya:</strong></em></p><p>a netto\n</p><p>b harga penjualan seluruhnya \u00a0</p><p>c keuntungan seluruhnya</p><p><em><strong>Jawab:</strong></em></p><p><u><em><strong>Penyelesaian soal a</strong></em></u></p><p>Netto = Bruto - Tara</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50 kg - (2% x 50 kg)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 50 kg - 1 kg</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 49 kg</p><p></p><p><u><em><strong>Penyelesaian soal b</strong></em></u></p><p>Harga jual seluruhnya = Netto x Harga jual/kg</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 49 x Rp 20.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 980.000</p><p></p><p><u><em><strong>Penyelesaian soal c</strong></em></u></p><p>Keuntungan seluruhnya = Harga Jual seluruhnya - harga beli seluruhnya</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 980.000 - Rp 950.000</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 30.000</p><p></p><h3>Pelajari Lebih Lanjut</h3><p>Soal-soal tentang Aritmatika Sosial dapat disimak juga di</p><ul><li>brainly.co.id/tugas/20594911</li><li>brainly.co.id/tugas/18969330</li><li>brainly.co.id/tugas/2285569</li><li>brainly.co.id/tugas/134717</li><li>brainly.co.id/tugas/17834231</li><li>brainly.co.id/tugas/85825</li></ul><h3>=============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 7</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Aritmatika Sosial</p><p><strong>Kode </strong>: 7.2.7</p><p></p><p><strong>Kata Kunci </strong>: Tabungan awal, tabungan ahir, suku bunga, lama menabung, Harga Jual, Harga Beli, Untung, Rugi</p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sata-membeli-baju-dengan-mendapat-diskon-15-sehingga-hanya-memba-757",
+            "question": "sata membeli baju dengan mendapat diskon 15% sehingga hanya membayar Rp.170.000,00 . harga baju sebelum diskon adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15/100 x 170000= 25500. 170000+25500 = 195500, Jadi harga baju sebelum diskon adalah 195500<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "harga baju sebelum diskon\u00a0Rp.195.500,-<br><br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

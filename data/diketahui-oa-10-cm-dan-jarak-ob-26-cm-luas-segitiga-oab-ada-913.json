@@ -1,0 +1,150 @@
+{
+    "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+            "attachments": []
+        },
+        {
+            "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jari-jari-sebuah-lingkaran-adalah-10cmtentukan-panjang-busur-lin-723",
+            "question": "Jari-jari sebuah lingkaran adalah 10cm.tentukan panjang busur lingkaran yang memiliki sudut pusat sebagai berikut.    a.30\u00b0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \r\nb.60\u00b0\r\nc.90\u00b0\r\nd.120\u00b0\r\ne.180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus keliling lingkaran :<br><br>- 2 x\u00a0[tex] \\pi [/tex] x r<br><br>jadi keliling lingkaran dengan jari-jari 10cm adalah :<br><br>= 2 x 3,14 x 10<br>= 62,8 cm<br><br>\u00a062,8 adalah 360\u00b0<br><br>Jadi jawaban nya :<br><br>\u00a0a. 30\u00b0\u00a0<br><br>\u00a0 \u00a0 \u00a0= \u00a030\u00b0/360\u00b0 x 62,8\u00a0cm<br>\u00a0 \u00a0 \u00a0= \u00a05,233 cm<br><br>\u00a0b. 60\u00b0<br><br>\u00a0 \u00a0 \u00a0= \u00a060\u00b0/360\u00b0 x 62,8 cm<br>\u00a0 \u00a0 \u00a0= \u00a010,466 cm<br><br>\u00a0 \u00a0 \u00a0atau<br><br>\u00a0 \u00a0 \u00a0= \u00a05,233 x 2<br>\u00a0 \u00a0 \u00a0= \u00a010,466 cm<br><br>\u00a0c. 90\u00b0 = 5,233 x 3 = 15,699 cm<br><br>\u00a0d. 120\u00b0 = 5,233 x 4 = 20,932 cm<br><br>\u00a0e. 180\u00b0 = 5,233 x 6 = 31,398 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "carilah-dalam-bentuk-paling-sederhana-7-2-4-690",
+            "question": "Carilah dalam bentuk paling sederhana. (\u221a7 -\u00a0\u221a2) (\u221a4\u00a0+\u00a0\u221a3) .tolong sama\u00a0caranya ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(\u221a7-\u221a2)(\u221a4+\u221a3)<br><br>= (\u221a7-\u221a2)(2+\u221a3)<br><br>= 2\u221a7 + \u221a21 -2\u221a2 - \u221a6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lampu-yaitu-lampu-kuning-dan-lampu-biruberkedip-secara-363",
+            "question": "dua buah lampu yaitu lampu kuning dan lampu biru.berkedip secara berkala.lampu kuning berkedip setiap8 detik.lampu biru berkedip setiap10 detik.kedua lampu tersebut berkedip secara bersamaan setiap berapa detik sekali?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lampu kuning 8 detik sekali<br>lampu biru 10 detik sekali<br>kpk = 8 = 2\u00b3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010= 2 x\u00a05<br>kpk = 2\u00b3 x 5<br>\u00a0 \u00a0 \u00a0 = 8 x 5<br>\u00a0 \u00a0 \u00a0 = 40<br>jadi kedua lampu akan berkedip secara bersamaan setiap 40 detik sekali",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "umur-adik-3-tahun-lebih-muda-dari-umur-kakak-jika-jumlah-umur-me-720",
+            "question": "Umur adik 3 tahun lebih muda dari umur kakak. jika jumlah umur mereka 19 tahun. tentukan umur adik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Misalkan, umur kakak = K<br>Umur adik berarti, K - 3<br><br>Karena jumlah umur mereka = 19 tahun.<br>Maka, K + K - 3 = 19 tahun<br>2 K = 22 tahun<br>K = 11 tahun<br><br>Jadi, adik = K -3 = 11 -\u00a03 = 8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Adik = K - 3<br>Jumlah umur mereka : A + K = 19<br>A ?<br>A + K = 19<br>(K - 3) + K = 19<br>2K - 3 = 19<br>2K = 19 + 3<br>K = 22 : 2<br>K = 11<br><br>Adik : K - 3 =&gt; 11 - 3 = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-rumus-mencari-bruto-tara-netto-tara-netto-253",
+            "question": "Tolong rumus mencari bruto, tara, netto, %tara, %netto........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto=netto+tarra\nnetto=bruto-tarra\ntarra=bruto-netto",
+                    "attachments": []
+                },
+                {
+                    "answer": "bruto = netto + tarra<br>tarra = bruto - nett0<br>netto = bruto - tarra<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-sisi-miring-25-cmjika-salah-s-132",
+            "question": "sebuah segitiga siku-siku memiliki sisi miring 25 cm.jika salah satu sisi siku-sikunya 7 cm,maka sisi siku-siku yang lain nya adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sisi yang lain =\u00a0\u221a25\u00b2 - 7\u00b2 =\u00a0\u221a625-49 =\u00a0\u221a576 = 24cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "(25 x 25) - (7 x 7)= 625 - 49= <span>\u221a</span>576 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-satu-set-sofa-dijual-dengan-potongan-harga-rp45000000-pak-647",
+            "question": "1. satu set sofa dijual dengan potongan harga Rp.450.000,00 . pak Bayu membeli satu set sofa tersebut dengan membayar Rp.2.100.000,00 dan mendapat kembalian Rp.50.000,00.Tentukan :    a) harga satu set sofa sebelum mendapat potongan harga \r\nb) persentase potongan harga \r\n\r\ntolongggg dijawab yaaaaaaaa........please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) 2.100.000-50.000=2.050.000\nb) 2.050.000+450.000=2.095.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]a) Rp 2.100.000 - Rp 50.000 + Rp 450.000 = Rp 2.500.000 \\\\ b) Rp 2.500.000 \u00d7\\frac{x}{100} = Rp 450.000 \\\\ x = \\frac{Rp 450.000\u00d7100}{Rp 2.500.000} \\\\ x = 18%[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-pada-karung-beras-ditulis-bruto-100-kg-dan-tara-10-maka-n-604",
+            "question": "Jika pada karung beras ditulis bruto 100 kg dan tara 10% , maka neto adalah...    *pake caranya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100% - 10% = 90%<br><br>90<br>----- x 100 = 90kg<br>100<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "netto =\u00a0bruto\u00a0- tara<br>\u00a0 \u00a0 \u00a0 \u00a0 =100 kg - (10/100 x 100 kg)<br>\u00a0 \u00a0 \u00a0 \u00a0 = 100 kg - 10 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 = 90 kg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diluar-sebuah-segitiga-siku-siku-yang-panjang-sisi-sisi-sikunya-951",
+            "question": "Diluar sebuah segitiga siku-siku yang panjang sisi -sisi sikunya 5cm dan 12 cm dibuat lingkaran yang menyinggung titik-titik sudut segitiga itu .hitunglah jari-jari lingkaran luar tersebut (R).    mohoon bantuannya dengan cara :)\r\nmakasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u221a12\u00b2+5\u00b2 =\u221a144+25=\u221a169=13<em> \u00a0 \u00a0\u00a0<br>R=\u00a0<u>13.12.5<br></u>\u00a0 \u00a0 \u00a04</em>\u221a15.(15-13).(15-12).(15-5)<br>=<u>13.12.5<br></u> 4\u221a15.2.3.10<br><u>=780</u><br>\u00a04\u221a900 \u00a0 =<u>780</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0.....",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-lingkaran-sebuah-taman-bermain-32-m-314-mak-964",
+            "question": "Panjang jari-jari lingkaran sebuah taman bermain 32 m (=3,14) maka kelilingnya adalah???    dengan caranya ya???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K=2*pi*r\n =2*3.14*32\n =6.28*32\nK=200.96\n\nketerangan: * \u00bb kali. contoh : 2 kali 3.14",
+                    "attachments": []
+                },
+                {
+                    "answer": "kll =\u00a0[tex] \\pi  d[/tex]<br>\u00a0 \u00a0 = 3.14 x 64<br>\u00a0 \u00a0 = 200,96 m",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

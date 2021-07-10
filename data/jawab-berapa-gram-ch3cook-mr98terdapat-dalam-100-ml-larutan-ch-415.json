@@ -1,0 +1,142 @@
+{
+    "question": "jawab berapa gram CH3COOK (Mr=98)terdapat dalam 100 mL larutan CH3COOH dengan pH=9.jika diketahui \u00a0Ka CH3COOH=10 pangkat -5 adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pOH=(kw/ka.M)^1/2 (karena bersifat basa)<br>pOH=14-pH<br>pOH=14-9<br>pOH=5<br>10^-5=(10^-14/10^-5.M)^1/2<br>10^-10=10^-14/10^-5.M<br>M=10^-1<br>M=gr/mr.1000/ml<br>10^-1=gr/98.1000/100<br>gr=98.10^-2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-ml-larutan-naoh-01-m-harus-dicampurkan-dengan-100-ml-laru-792",
+            "question": "berapa mL larutan NaOH 0,1 M harus dicampurkan dengan 100 mL larutan HCl 0,1 M untuk membuat larutan ph=3 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui :\u00a0</span><br><span>M NaOH = 0,1 M\u00a0</span><br><span>M HCl = 0,1 M\u00a0</span><br><span>V HCl = 100 ml\u00a0</span><br><br><span>Ditanya :\u00a0</span><br><span>V NaOH agar pH=3 ?\u00a0</span><br><br><span>Jawab :\u00a0</span><br><span>pH lar = 3\u00a0</span><br><span>[H+] = M\u00a0</span><br><span>[H+] = 10^-pH\u00a0</span><br><span>[H+] = 10^-3\u00a0</span><br><span>M lar = 10^-3 = 0,001 M\u00a0</span><br><br><span>NaOH + HCl == &gt; NaCl + H2O\u00a0</span><br><br><span>Mol NaOH = Mol NaCl\u00a0</span><br><span>V1.M1 = V2.M2\u00a0</span><br><span>x . 0,1 = (100 + x ) . 0,001\u00a0</span><br><span>0,1x = 0,1 + 0,001x\u00a0</span><br><span>0,1x \u2013 0,001x = 0,1\u00a0</span><br><span>0,099x = 0,1\u00a0</span><br><span>x = 0,1 / 0,099\u00a0</span><br><span>x = 1,01 ml\u00a0<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "h2so4-termasuk-senyawa-ion-atau-kovalen-naoh-termasuk-senyawa-io-873",
+            "question": "H2SO4 termasuk senyawa ion atau kovalen?\r\nNaOH termasuk senyawa ion atau kovalen?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 termasuk kovalen<br>NaOh termasuk ion<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. nonlogam dan nonlogam = kovalen<br>2. logam dan non logam = ion",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-isi-hukum-lavoisier-240",
+            "question": "Apa isi hukum lavoisier?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa zat sebelom reaksi sama dengan massa zat sesudah reaksi",
+                    "attachments": []
+                },
+                {
+                    "answer": "suatu hukum yang menyatakan massa dari suatu sistem tertutup akan konstan meskipun terjadi berbagai macam proses di dalam sistem tersebut<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilok-dari-naclo-2naclnaclo3-731",
+            "question": "Bilok dari NaClO-2NaCl+NaClO3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaClO\u00a0<br>Biloks Na= +1<br>Biloks Cl= -1<br>Biloks O = -2<br><br>2NaCl<br>Biloks Na= +1<br>Biloks Cl= -1<br><br>NaClO\u2083<br>Biloks Na= +1<br>Biloks O = -2<br>Karena ini bukan senyawa biner (terdiri lebih dari 2 unsur), maka, biasanya unsur yg di tengah yg dicari, karena biloks Na dan O sudah ada diketentuan mencari bilangan oksidasi.<br><br>Karena itu, kita simbolkan Cl dengan huruf &#039;x&#039;<br><br>NaClO\u2083 --&gt;\u00a0 1 + x + -2 (3) *karena unsur O ada tiga* = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 + x - 6 =0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x= +5<br>Jadi, Na= +1<br>\u00a0 \u00a0 \u00a0 \u00a0 Cl= +5<br>\u00a0 \u00a0 \u00a0 \u00a0 O= -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titrasi-antara-10-ml-hcooh-dengan-koh-01-m-diperoleh-volume-ko-915",
+            "question": "Titrasi\u00a0 antara 10 mL HCOOH dengan KOH 0,1 M diperoleh volume KOH sebesar 10 mL. Apabila massa jenis HCOOH 1,2 GRAM/ml (Mr=49), kadar HCOOH sebesar...% ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dengan menggunakan<br>M1 V1 milik HCOOH<br>M2V2 milik KOH<br>M1V1 = M2V2<br>10 x V1 = 0,1 x 10<br>V1 = 0,1 M<br><br>hitung mol dari HCOOH<br>= M x mL = 0,1 x 10 = 1 milimol = 10^-3 mol ................... ^ dibaca pangkat<br>hitung massa HCOOH<br>= mol x Mr = 10^-3 x 49 = 49 x 10^-3 gram<br><br>hitung massa larutan 10 mL yang mengandung HCOOH dicari massanya<br>massa larutan HCOOH = volume x massa jenis = 10 x 1,2 = 12 gram<br><br>maka % massa HCOOH dalam larutan <br>= 49 x 10^-3 / 12 x 100%<br>= 0,408%<br><br><br>semoga bisa membantu :)<br>jika ada kesalahan mohon koreksi :)<br>beri label terbaik ya :D<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "asam-hx-01-m-mempunyai-ph-yang-sama-dengan-larutan-hcl-0001-m-368",
+            "question": "Asam Hx 0,1 M mempunyai pH yang sama dengan larutan HCl 0,001 M .Tentukanlah nilai ketetapan ionisai (Ka)asam Hx itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Nilai tetapan ionisasi asam HX sebesar</strong> [tex]\\boxed{~K_a = 1 \\times 10^{-5}~}[/tex]</p><h3>Pembahasan</h3><p>Ini merupakan persoalan gabungan dari menghitung pH elektrolit kuat dan lemah. Ditanyakan nilai Ka dari asam HX.</p><p><u><strong>Diketahui</strong></u></p><p>Larutan asam HX 0,1 M</p><p>Larutan HCl 0,0001 M</p><p>Kedua larutan mempunyai nilai pH yang sama</p><p><u><strong>Ditanya</strong></u></p><p>Nilai tetapan ionisasi Ka dari HX</p><p><u><strong>Pengerjaan</strong></u></p><p>Karena ditanyakan nilai Ka berarti HX adalah asam lemah sedangkan asam klorida HCl termasuk asam kuat.</p><p>Kedua larutan mempunyai pH yang sama, dengan demikian konsentrasi ion hidrogen dari keduanya pun sama.</p><ul><li>Konsentrasi ion hidrogen dari HX adalah [tex]\\boxed{~[H^+] = \\sqrt{K_a \\times M}~}[/tex] </li></ul><ul><li>Konsentrasi ion hidrogen dari HCl adalah [tex]\\boxed{~[H^+] = M \\times valensi~}[/tex] </li></ul><p>Valensi HCl adalah 1 sesuai dengan jumlah atom H.</p><p>Mari kita hadapkan kedua konsentrasi ion hidrogen dan substitusikan data-datanya.</p><p>[tex]\\sqrt{K_a \\times 10^{-1}} = 10^{-3} \\times 1[/tex]</p><p>Kuadratkan kedua ruas.</p><p>[tex]K_a \\times 10^{-1} = 10^{-6}[/tex]</p><p>[tex]K_a = 10^{-6} \\times 10^{1}[/tex]</p><p>[tex]K_a = 10^{-5}[/tex]</p><p><strong>Diperoleh nilai tetapan ionisasi asam HX sebesar</strong> [tex]\\boxed{~K_a = 1 \\times 10^{-5}~}[/tex]</p><h3>Pelajari lebih lanjut</h3><ol><li>Penentuan pH asam kuat bervalensi dua brainly.co.id/tugas/9957046 \u00a0</li><li>Penentuan pH elektrolit lemah brainly.co.id/tugas/9574016</li></ol><p>------------------------------</p><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0\u00a0:</strong> XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> Larutan Asam Basa</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 11.7.5</p><p></p><p><strong>Kata Kunci :</strong> asam HX, mempunyai pH yang sama, larutan, asam lemah, kuat, HCl, konsentrasi ion hidrogen, [H^+}, Ka, valensi, nilai tetapan ionisasi asam, brainly</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-konsentrasi-oh-dan-ph-suatu-larutan-1-m-naocn-bila-har-340",
+            "question": "Hitunglah konsentrasi OH- dan pH suatu larutan 1 M NaOCN bila harga Ka HOCN adalah 3,3X10^-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>konsentrasi OH\u207b dan pH suatu larutan 1 M NaOCN bila harga Ka HOCN = 3,3 \u00d7 10\u207b\u2074 adalah <strong>5,5 \u00d7 10\u207b\u2076 dan 8 + log 5,5.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : [NaOCN] = 1 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ka HOCN = 3,3 \u00d7 10\u207b\u2074</p><p>Ditanya : [OH\u207b] dan pH</p><p>Jawab :</p><ul><li>Hitung [OH\u207b] menggunakan rumus hidrolisis dengan cara :</li></ul><p>[OH\u207b] = \u221aKw/Ka \u00d7 [NaOCN]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a10\u207b\u00b9\u2074/ 3,3 \u00d7 10\u207b\u2074 \u00d7 1</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a0,303 \u00d7 10\u207b\u00b9\u2070</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a30,3 \u00d7 10\u207b\u00b9\u00b2</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5,5 \u00d7 10\u207b\u2076</p><ul><li>Hitung pH dengan cara :</li></ul><p>pOH = - log [OH\u207b]</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = - log 5,5 \u00d7 10\u207b\u2076</p><p> \u00a0 \u00a0 \u00a0 \u00a0 = 6 - log 5,5</p><p>pH = 14 - pOH</p><p> \u00a0 \u00a0 \u00a0= 14 - (6 - log 5,5)</p><p> \u00a0 \u00a0 \u00a0= 8 + log 5,5</p><p><strong>\u2234 Kesimpulan [OH\u207b] dan pH larutan adalah 5,5 \u00d7 10\u207b\u2076 dan 8 + log 5,5.</strong></p><p><strong>Pembahasan : \u00a0</strong></p><p><strong>Pengertian Hidrolisis Garam \u00a0</strong></p><p>Hidrolisis adalah reaksi penguraian dalam air. Hidrolisis garam adalah reaksi penguraian garam dalam air membentuk ion positif dan ion negatif. Ion-ion tersebut akan bereaksi dengan air membentuk asam (H\u2083O\u207a) dan basa (OH\u207b) asalnya. Reaksi hidrolisis berlawanan dengan reaksi penggaraman atau reaksi penetralan. Reaksi penggaraman yaitu reaksi antara asam dengan basa yang menghasilkan garam. Garam yang dihasilkan tidak selalu bersifat netral, tetapi tergantung kekuatan asam dan basa pembentuk garam tersebut. \u00a0</p><p><strong>Macam-Macam Hidrolisis Garam \u00a0</strong></p><p><strong>1. Garam dari Asam Kuat dan Basa Kuat \u00a0</strong></p><p>Garam yang terbentuk dari asam kuat dan basa kuat tidak terhidrolisis. \u00a0</p><p><strong>2. Garam dari Asam Lemah dan Basa Kuat \u00a0</strong></p><p>Garam yang terbentuk dari asam lemah dan basa kuat mengalami hidrolisis parsial dalam air. Menurut prinsip kesetimbangan, untuk reaksi-reaksi kesetimbangan di atas berlaku persamaan berikut : \u00a0</p><p><strong>[OH\u207b] = \u221aKw/Ka \u00d7 [garam] \u00a0</strong></p><p><strong>Atau \u00a0</strong></p><p><strong>[OH\u207b] = \u221aKh \u00d7 [garam] \u00a0</strong></p><p>Keterangan : \u00a0</p><p>Kh = tetapan hidrolisis \u00a0</p><p>Kw = tetapan kesetimbangan air \u00a0</p><p>Ka = tetapan ionisasi asam lemah \u00a0</p><p><strong>3. Garam dari asam Kuat dan Basa lemah \u00a0</strong></p><p>Garam yang terbentuk dari asam kuat dan basa lemah mengalami hidrolisis parsial dalam air. Garam yang terbentuk dari asam kuaat dan basa lemah dalam air bersifat asam karena kationya terhidrolisis (memberi proton terhadap air), sedangkan anionnya tidak. Menurut prinsip kesetimbangan, untuk reaksi-reaksi kesetimbangan di atas berlaku persamaan berikut : \u00a0</p><p><strong>[H\u207a] = \u221aKw/Kb \u00d7 [garam] \u00a0</strong></p><p><strong>Atau \u00a0</strong></p><p><strong>[H\u207a] = \u221aKh \u00d7 [garam] \u00a0</strong></p><p>Keterangan : \u00a0</p><p>Kh = tetapan hidrolisis \u00a0</p><p>Kw = tetapan kesetimbangan air \u00a0</p><p>Kb = tetapan ionisasi bsa lemah pembentuk garam \u00a0</p><p><strong>4. Garam dari Asam Lemah dan Basa Lemah \u00a0</strong></p><p>Garam yang terbentuk dari asam lemah dan basa lemah mengalami hidrolisis total dalam air. Baik anion maupun kation dari garam yang terbentuk dari asam lemah dan basa lemah terhidrolisis dalam air, sehingga disebut hidrolisis total. \u00a0</p><p>Adapun pH larutan, secara kuantitatif sukar dikaitkan dengan harga Ka dan Kb maupun dengan konsentrasi garam. pH larutan yang tepat hanya dapat ditentukan melalui pengukuran. pH larutan dapat diperkirakan dengan rumus : \u00a0</p><p><strong>[H\u207a] = \u221aKw \u00d7 Ka/Kb \u00a0</strong></p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/21052446 \u00a0</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/2439982 \u00a0</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/125279 \u00a0</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22003392\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22019984\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22075414\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/22003923\n</p><p>Materi tentang contoh soal reaksi hidrolisis https://brainly.co.id/tugas/10145769\n</p><p>______________________________________________________\n</p><p><strong>Detail Jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 7 \u00a0</p><p>Kode : 11.7.7 \u00a0</p><p>Kata kunci : pH, hidrolisis, reaksi, asam, basa, Kh \u00a0</p>",
+                    "attachments": [
+                        "answer-attachments/hitunglah-konsentrasi-oh-dan-ph-suatu-larutan-1-m-naocn-bila-har-340-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849",
+            "question": "Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.    a. Perkirakan pH awal larutan HCl\r\nb. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?\r\nc. Berapakah kira-kira pH pada titik ekivalen?\r\nd. Gambarkan (sketsa) kurva titrasinya.\r\ne. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sebanyak 20 ml larutan HCl 0,1 M ditetesi dengan larutan NH3 0,1 M.<br>a. Perkirakan pH awal larutan HCl<br>b. Secara teori, berapa mL larutan NH3 diperlukan untuk mencapai titik ekivalen?<br>c. Berapakah kira-kira pH pada titik ekivalen?<br>d. Gambarkan (sketsa) kurva titrasinya.<br>e. Tentukan indikator yang dapat digunakan dan bagaimanakah perubahan warnanya pada titik akhir titrasi.</span><br><br>maaf saya copy paste soal kamu, supaya dapat mudah membaca soal :)<br>a. pH awal HCl (asam kuat)<br>[H+] = Ma x Va ................. Ma = molaritas asam, Va = valensi asam ( Va HCl = 1, liha jumlah atom H-nya saja)<br>maka<br>H+ = 0,1 x 1 = 0,1<br>pH = - log H+ = - log 0,1 = 1<br><br>b. secara teori NH3 yang diperlukan untuk mencapai titk ekivalen<br>Ma x Va x valensi = Mb x Vb x valensi<br>0,1 x 20 x 1 = 0,1 x Vb x 1<br>2/0,1 = Vb<br>Vb = 20 mL<br><br>c.titik ekivalen adalah titik dimana asam dan basa habis bereaksi, berdasarkan data b, maka dapat ditentukan pH larutan (dengan menentukan pH pada titik ekivalen berarti kita sudah masuk dalam BAB hidrolisis garam)<br>mol HCl = 20 x 0,1 = 2 mmol<br>mol NH3 = 20 x 0,1 = 2 mmol<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>\u00a0 \u00a0 \u00a0\u00a0 HCl\u00a0  +\u00a0 \u00a0  NH3\u00a0  -----&gt;\u00a0 \u00a0 NH4Cl<br>M\u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>R \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br>S \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 2<br><br>Molaritas garam NH4Cl = mol / voltotal = 2/40 = 0,05<br>diandaikan Kb NH3 = 10^-5<br>maka<br>H+ = akar (Kw/Kb x Mgaram)<br>H+ = akar (10^-14/10^-5 x 0,05)<br>H+ = akar ( 0,5 x 10^-12)<br>= 7,071 x 100^-7<br>pH = 6,15<br><br>jadi pH pada saat titik ekivalen mendekati 7 atau sekitar 6,15<br><br>d.sketsa kurva titrasinya saya upload gan :)<br>e. indikator yang cocok metil merah, perubahannya dari tidak berwarna menjadi merah (bukan pp lho ya, ini beda lagi)<br>",
+                    "attachments": [
+                        "answer-attachments/sebanyak-20-ml-larutan-hcl-01-m-ditetesi-dengan-larutan-nh3-01-849-1.gif"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-nama-dari-senyawa-cuso4-874",
+            "question": "Apa nama dari senyawa CuSO4?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>CuSO4 disebut sebagai anhidrat dari hidrat CuSO4.5H2O<br>CuSO4 berwarna putih</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "CuSO4 = Tembaga (ll) sulfat<br><br>Takkasih tambahan\u00a0PbO2 =\u00a0timbal (IV) oksida<span>Cul2 =\u00a0</span>Tembaga (II) iodida<span>FE2 (CO3) 3 =\u00a0</span>besi (III) karbonat<span>Sn (SO4) 2 =\u00a0</span>Timah (IV) sulfat<span>Al2 (SO4) 3 =\u00a0</span><span><span>.\u00a0</span>aluminium sulfat</span><span>PBO =\u00a0</span>timbal (II) oksida<span>PbO2 =\u00a0</span>timbal (IV) oksida<span>MnSO4 =\u00a0</span>\u00a0mangan (II) sulfat<span>MnO2 =\u00a0</span>\u00a0Mangan (IV) oksida<span>Cr2 (SO4) 3 =\u00a0</span>krom (III) sulfat<span>Hg (NO3) 2 =\u00a0</span><span><span>.\u00a0</span>raksa (II) nitrat</span><span>SnCI4 =\u00a0</span><span><span>.\u00a0</span>timah (IV) klorida</span><span>Cu2O =\u00a0</span>\u00a0tembaga (I) oksida<span>tembaga (II) sulfida =\u00a0</span>cus<span>emas (III) klorida =\u00a0</span>AuCl3<span>perak nitrat =\u00a0</span>AgNO3<span>titanium (IV) oksida =\u00a0</span><span><span>.\u00a0</span>TiO2</span><span>raksa (II) klorida =\u00a0</span>HgCl2<span>titanium (IV) klorida =\u00a0</span>TiCl4<span><span>tembaga (II) sulfat =\u00a0</span>CuSO4</span><span>kobalt (II) klorida =\u00a0</span>CoCl2<span>timbel (II) asetat =\u00a0</span><span>(CH3COO) 2PB</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-reaksi-redoks-yang-terjadi-pada-baterai-dan-aki-serta-t-761",
+            "question": "Tuliskan reaksi redoks yang terjadi pada baterai dan aki, serta tentukan pengoksidasi dan pereduksinya!    tlng ya kakak kakak mksh sebelumnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baterai Nikel Kadmium<br>Baterai nikel-kadmium merupakan jenis baterai yang dapat diisi ulang seperti aki,baterai HP, dll. Anoda yang digunakan adalah kadmium, katodanya adalah nikel danelektrolitnya adalah KOH.<br>\u00a0Reaksi yang terjadi:\u00a0anoda : Cd + 2 OH-\u2192Cd(OH)2+ 2e<br>katoda : NiO(OH) + H2O\u2192Ni(OH)2+ OH-<br>Potensial sel yang dihasilkan sebesar 1,4 volt.5.\u00a0\u00a0\u00a0<br>\u00a0<br>Baterai alkali<br>Baterai alkali hampir sama dengan bateri karbon-seng. Anoda dan katodanya samadengan baterai karbon-seng, seng sebagai anoda dan MnO2 sebagai katoda.Perbedaannya terletak pada jenis elektrolit yang digunakan. Elektrolit pada bateraialkali adalah KOH atau NaOH. <br>Reaksi yang terjadi adalah: \u00a0\u00a0anoda: Zn + 2 OH-\u2192ZnO + H2O + 2e<br>katoda: 2MnO2+ H2O + 2e-\u2192Mn2O3+ 2OH-<br><br>Potensial sel yang dihasilkan baterai alkali 1,54 volt. Arus dan tegangan padabaterai alkali lebih stabil dibanding baterai karbon-seng.6.\u00a0\u00a0\u00a0<br>\u00a0<br>Baterai perak oksida<br>Bentuk baterai ini kecil seperti kancing baju biasa digunakan untuk baterai arloji,kalkulator, dan alat elektronik lainnya. Anoda yang digunakan adalah seng,katodanya adalah perak oksida dan elektrolitnya adalah KOH. <br>Reaksi yang terjadi:\u00a0anoda : Zn\u2192Zn2++ 2 e-<br>katoda : Ag2O + H2O + 2e\u21922Ag + 2 OH-<br><br>Potensial sel yang dihasilkan sebesar 1,5 volt.7.\u00a0\u00a0\u00a0 <br><br>AKI<br>Jenis baterai yang sering digunakan pada mobil adalah baterai 12 volt timbal-asam\u00a0yang biasa dinamakan Aki. Baterai ini memiliki enam sel 2 volt yang dihubungkanseri. Logam timbal dioksidasi menjadi ion Pb2+dan melepaskan duaelektron di anoda. Pb dalam timbal (IV) oksida mendapatkan dua elektron danmembentuk ion Pb2+ di katoda. Ion Pb2+bercampur dengan ion SO42- dari asamsulfat membentuk timbal (II) sulfat pada tiap-tiap elektroda. Jadi reaksi yang terjadiketika baterai timbal-asam digunakan menghasilkan timbal sulfat pada keduaelektroda.PbO2+ Pb + 2H2SO4\u21922PbSO4+ 2H2O<br>Reaksi yang terjadi selama penggunaan baterai timbal-asam bersifat spontan dantidak memerlukan input energi. Reaksi sebaliknya, mengisi ulang baterai, tidakspontan karena membutuhkan input listrik dari mobil. Arus masuk ke baterai danmenyediakan energi bagi reaksi di mana timbal sulfat dan air diubah menjaditimbal(IV) oksida, logam timbal dan asam sulfat.2PbSO4+ 2H2O\u2192PbO2+ Pb + 2H2SO48.\u00a0\u00a0\u00a0 <br><br>Baterai karbon-seng<br>Kalau anda memasukkan dua atau lebih baterai dalam senter, artinya anda\u00a0menghubungkannya secara seri. Baterai harus diletakkan secara benar sehinggamemungkinkan elektron mengalir melalui kedua sel. Baterai yang relatif murah iniadalah sel galvani karbon-seng, dan terdapat beberapa jenis, termasuk standarddan alkaline. Jenis ini sering juga disebut sel kering karena tidak terdapat larutanelektrolit, yang menggantikannya adalah pasta semi padat.Pasta mangan(IV) oksida (MnO2) berfungsi sebagai katoda. Amonium klorida(NH4Cl) dan seng klorida (ZnCl2) berfungsi sebagai elektrolit. Seng pada lapisanluar berfungsi sebagai anoda.Reaksi yang terjadi :anoda : Zn\u2192Zn2++ 2 e-<br>katoda : 2MnO2+ H2O + 2e-\u2192Mn2O3+ 2OH-<br>Dengan menambahkan kedua setengah reaksi akan membentuk reaksi redoksutama yang terjadi dalam sel kering karbon-seng.Zn + 2MnO2+ H2O\u2192Zn2++ Mn2O3+ 2OH-<span>Baterai ini menghasilkan potensial sel sebesar 1,5 volt.\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Reaksi redoks pada Baterai (sel Leclanche)<span><br><br><br><br>Zn\u00a0(s)\u00a0+ 2NH4+(aq)\u00a0+ 2MnO2(S)\u00a0\u2192 Zn2+(aq)\u00a0+ Mn2O3(s)\u00a0+ 2NH3(aq)\u00a0+ H2O(l)<br></span><br>5.\u00a0\u00a0\u00a0 Baterai alkali<br><br>Baterai alkali hampir sama dengan bateri karbon-seng. Anoda dan katodanya samadengan baterai karbon-seng, seng sebagai anoda dan MnO2 sebagai katoda.Perbedaannya terletak pada jenis elektrolit yang digunakan. Elektrolit pada bateraialkali adalah KOH atau NaOH. Reaksi yang terjadi adalah:<br><br>anoda: Zn + 2 OH-\u2192ZnO + H2O + 2e<br><br>katoda: 2MnO2+ H2O + 2e-\u2192Mn2O3+ 2OH-<br><br><span>Potensial sel yang dihasilkan baterai alkali 1,54 volt. Arus dan tegangan padabaterai alkali lebih stabil dibanding baterai karbon-seng.<br></span><br>7.\u00a0\u00a0\u00a0 AKI<br>Jenis baterai yang sering digunakan pada mobil adalah baterai 12 volt timbal-asamyang biasa dinamakan Aki. Baterai ini memiliki enam sel 2 volt yang dihubungkanseri. Logam timbal dioksidasi menjadi ion Pb2+<br><span>dan melepaskan duaelektron di anoda. Pb dalam timbal (IV) oksida mendapatkan dua elektron danmembentuk ion Pb2+ di katoda. Ion Pb2+bercampur dengan ion SO42- dari asamsulfat membentuk timbal (II) sulfat pada tiap-tiap elektroda. Jadi reaksi yang terjadiketika baterai timbal-asam digunakan menghasilkan timbal sulfat pada keduaelektroda<br></span><br>Reaksi Redoks pada Sel Aki<span><br>Pb(s)\u00a0+ PbO2(aq)\u00a0+\u00a0</span><span>2HSO4-2(aq)\u00a0+2H+(aq)\u00a0\u2192 2PbSO4(S)\u00a0+ 2H2O<span>(l)<br></span></span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

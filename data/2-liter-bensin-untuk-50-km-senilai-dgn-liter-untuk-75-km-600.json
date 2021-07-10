@@ -1,0 +1,136 @@
+{
+    "question": "2 liter bensin untuk 50 km senilai dgn....... liter untuk 75 km",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kelas : 7<br>Mapel : Matematika<br>Kategori : Perbandingan<br>Kata Kunci : perbandingan senilai<br>Kode :\u00a07.2.7 [Kelas 7 Matematika K13 Revisi Bab 7 Perbandingan]<br><br>Pembahasan :<br><p>Perbandingan adalah suatu proses membandingkan dua besaran sejenis dan memiliki satuan yang sama.</p><p>Perbandingan ada 2 macam, yaitu : perbandingan senilai dan berbalik nilai.</p><p>Perbandingan senilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin besar dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_1}{x_2} [/tex]</p><p>\u00a0</p><p>Perbandingan berbalik nilai adalah perbandingan dua besaran bila salah satu besaran nilainya semakin besar maka nilai besaran yang lain akan semakin kecil dan sebaliknya.</p><p>[tex] \\frac{y_1}{y_2}= \\frac{x_2}{x_1} [/tex]</p><p>\u00a0</p><p>Mari kita lihat soal tersebut.<br></p><span>2 liter bensin untuk 50 km senilai dengan... liter untuk 75 km.<br><br>Jawab :<br>Diketahui 2 liter bensin untuk 50 km, sehingga dengan perbandingan senilai kita dapat menentukan volume bensin untuk 75 km.<br><br>2 liter\u00a0</span>\u2192 50 km<br>b liter \u2192 75 km<br><br>[tex] \\frac{2}{b}= \\frac{50}{75}  [/tex]<br>\u21d4 50 x b = 75 x 2<br>\u21d4 50b = 150<br>\u21d4 b =\u00a0[tex] \\frac{150}{50} [/tex]<br>\u21d4 b = 3<br><span><br>Jadi,\u00a0</span>2 liter bensin untuk 50 km senilai dengan 3 liter untuk 75 km.<br><span><br>Soal lain untuk belajar : https://brainly.co.id/tugas/23176<br><br>Semangat!<br><br>Stop Copy Paste!</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-20-dari-barisan-420-2-adalah-824",
+            "question": "Suku ke 20 dari barisan 4,2,0,-2...\r\nadalah.\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un= a+(n-1)b<br>\u00a0\u00a0 \u00a0 4+(20-1)-2<br>\u00a0\u00a0 \u00a0 4+19(-2)<br>\u00a0\u00a0 \u00a0 4+(-38)<br>\u00a0\u00a0\u00a0 = - 34<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u20 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + (20-1) -2<br>\u00a0\u00a0 \u00a0 \u00a0= 4 + 19x(-2)<br>\u00a0\u00a0 \u00a0 \u00a0=\u00a04 + (-38)<br>\u00a0\u00a0 \u00a0 \u00a0= -34",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-persamaan-kuadrat-dari-persamaan-kuadrat-4xpangkat2-13x-930",
+            "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-lim-xtak-terhingga-5xx3-1-806",
+            "question": "Nilai dari lim x\u21d2tak terhingga\u00a0 5x/x3-1",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\lim_{x \\to \\infty}  \\frac{5x}{ x^{3}-1 } [/tex] =\u00a0<br>[tex]\\lim_{x \\to \\infty} \\frac{5}{ 3x^{2} }[/tex] =\u00a0<br>[tex] \\lim_{x \\to \\infty} \\frac{0}{ 6x }[/tex] = 0<br><br>ket : pakai L&#039;hospital",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\lim_{n \\to \\infty} =  \\frac{5x}{x^{3}-1 } = 0[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-fungsifx-5x-3-2x-1-x-528",
+            "question": "Jika diketahui fungsi\u00a0f(x) = ( 5x + 3 ) / (2x \u2013 1 ) ,\u00a0x\u00a0\u2260\u00a0 \u00bd\u00a0 dan\u00a0g(x) = 3x\u00a0+ 2 maka (f\u20131\u00a0o\u00a0g)(x) adalah\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a02x - 1<br><br>y =<u> 5x + 3\u00a0</u><br>\u00a0 \u00a0 \u00a0 2x - 1<br>y(2x-1) = 5x + 3<br>2xy - y = 5x +3<br>2xy\u00a0-\u00a05x = 3 + y<br>x(2y - 5) = 3 + y<br><br>x =<u> 3 + y\u00a0</u><br>\u00a0 \u00a0 \u00a02y - 5<br><br>f-1 =<u> 3 + x\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a02x - 5<br><br>(f-1 o g) = \u00a0<u> \u00a03 + 3x +\u00a02\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02(3x + 2) - 5<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0<u> \u00a03x + 5 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6x + 4 - 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =<u> 3x +\u00a05\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a06x - 1",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128",
+            "question": "sebuah bola bermassa 1 kg dijatuhkan tanpa kecepatan awal dari atas gedung melewati jendela A di lantai atas ke lantai B di lantai bawah dengan beda tinggi 2.5 m ( g = 10 m) . berapa besar usaha untuk perpindahan bola dari jendela A ke jendela B tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Usaha dan Energi<br>Kelas : XI SMA /2 SMA <br>Pembahasan :<br>Baik, saya akan mencoba menjawab pertanyaan ini. Usaha yang diperlukan untuk perpindahan bola dari titik A ke titik B adalah 25 Joule. Hitungan terlampir.",
+                    "attachments": [
+                        "answer-attachments/sebuah-bola-bermassa-1-kg-dijatuhkan-tanpa-kecepatan-awal-dari-at-128-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-n-suku-pertama-suatu-deret-aritmetika-ialah-sn-85n-5-595",
+            "question": "Jumlah n suku pertama suatu deret aritmetika ialah Sn = 85n\u00a0-\u00a05n\u00b2 . Tentukan suku pertama dan bedanya? Help ya kak, aku belum mengerti karna hanya diketahui Sn Y_Y",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = S1<br>a = 85(1) - 5([tex] 1^{2} [/tex])<br>a = 80<br><br>Sn =\u00a085n - 5[tex] n^{2} [/tex]<br>Sn-1 = 85(n-1) - 5[tex] (n-1)^{2} [/tex]<br>Un = Sn - Sn-1<br>Un = 90 - 10n<br>Un = a + (n-1)b<br>U2 = a + b<br>90 - 10(2) = 80 + b<br>70 = 80 + b<br>b = -10<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "terakhir-help-lg-ya-suku-ke-4-dan-ke-9-barisan-aritmatika-ber-518",
+            "question": "terakhir. help lg ya :) suku ke 4 dan ke 9 barisan aritmatika berturut turut adalah 110 dan 150. suku ke 30 dari barisan tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U\u2084 = a+ (n-1)b<br>110= a+ (4-1)b<br>110=a + 3b<br><br>U9 = a +(n-1)b<br>150=a+(9-1)b<br>150=a+b8<br><br>eliminasi<br>110= a + 3b<br>150=a +\u00a08b<br>___________ -<br>-40=-5b<br>b=8<br><br>110=a+3.8<br>110=a + 24<br>110-24 =a<br>a=86<br><br>U30 = a + (n-1) b<br>\u00a0 \u00a0 \u00a0 \u00a0=86 + (30-1)8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+29.8<br>\u00a0 \u00a0 \u00a0 \u00a0=86+232<br>\u00a0 \u00a0 \u00a0 \u00a0= 318",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-suatu-segitiga-siku-siku-adalah-48cm-salah-satu-sudut-l-715",
+            "question": "keliling suatu segitiga siku-siku adalah 48cm. salah satu sudut lancipnya 36,8\u00b0. hitunglah panjang sisi-sisi segitiga tersebut ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "salah satu sudut lancip = 36,8\u00b0 <br>\nsudut lancip yg lain  = 90 - 36,8 = 53,2\u00b0 <br>\ngunakan perbandingan sinus,  <br>\nx/sin 36,8 = y/sin53,2 = r/sin90 <br>\nx = rsin36,8 <br>\ny = rsin53,2 <br>\nkeliling = 48 <br>\nrsin36,8 + rsin53,2 + r = 48 <br>\nr = 48/(1+sin36,8+sin53,2) \u2248 20 <br>\ningat perbandingan phytagoras: <br>\n3 : 4 : 5 = 12 : 16 : 20 <br>\njadi panjang sisi-sisi segitiga tersebut adalah 12, 16 dan 20 cm. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-persamaan-px3-14x217x-60-dengan-x13-tentukan-x1x2x2-523",
+            "question": "Akar persamaan px3-14x2+17x-6=0 dengan x1=3 tentukan x1.x2.x2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "px\u00b3-14x\u00b2 +17x-6 = 0<br><br>x1 = 3<br><br>p(3)\u00b3 - 14.3\u00b2 + 17.3 - 6 = 0<br>27p - 126 + 51 - 6 = 0<br>27p - 81 = 0<br>27p = 81<br>p = 3<br><br>3x\u00b3-14x\u00b2 +17x-6 = 0<br>x1.x2.x3 = -d/a = -(-6)/3 = 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

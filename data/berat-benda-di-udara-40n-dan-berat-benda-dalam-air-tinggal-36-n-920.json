@@ -1,0 +1,160 @@
+{
+    "question": "berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><br><h2>GAYA PADA FLUIDA STATIS</h2><p><u><strong>HUKUM ARCHIMEDES</strong></u></p><p>Menurut Archimedes, benda yang dicelupkan sebagian atau seluruhnya ke dalam fluida, akan mengalami gaya ke atas.</p><p>Besar gaya ke atas tersebut sama dengan berat fluida yang dipindahkan oleh benda.</p><p>Secara matematis dituliskan sebagai :</p><h2>Fa = \u03c1. g . Vtc</h2><br><p>Dimana :</p><p>Fa = gaya Archimedes apung ke atas (N)</p><p>\u03c1 = massa jenis fluida (kg/m\u00b3)</p><p>g = percepatan gravitasi bumi (m/s\u00b2)</p><p>Vtc = Volume benda tercelup di fluida (m\u00b3)</p><br><h2>TIGA KEMUNGKINAN BENDA DI DALAM FLUIDA</h2><h2>1. TERAPUNG</h2><p><strong><em>Benda-benda akan terapung</em></strong> di atas permukaan fluida, jika massa jenis benda <em><strong>lebih kecil</strong></em> dibandingkan massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p>\u21d2 <strong>\u03c1 benda &lt; \u03c1 fluida </strong>dan </p><p>\u21d2 <strong>w = Fa </strong></p><p><strong>m.g = \u03c1. g. Vtc</strong></p><p><strong>(\u03c1b.Vb).g = \u03c1. g. Vtc</strong></p><p><strong>\u03c1b.Vb = \u03c1. Vtc</strong></p><p>maka :</p><p><strong>Vtc = (\u03c1b/\u03c1).Vb</strong></p><p>Dimana :</p><p>Vtc = Volume benda tercelup</p><p>\u03c1b = massa jenis benda</p><p>\u03c1 = massa jenis fluida</p><p>Vb = Volume benda</p><br><h2>2. MELAYANG</h2><p><strong><em>Benda-benda akan melayang</em></strong> di dalam fluida, jika massa jenis benda <em><strong>sama dengan</strong></em> massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p><strong> \u21d2 \u03c1 benda = \u03c1 fluida</strong></p><p>dan </p><p>\u21d2 <strong>w = Fa</strong></p><br><h2>3. TENGGELAM</h2><p><strong><em>Benda-benda akan tenggelam</em></strong> di dalam fluida, jika massa jenis benda <em><strong>lebih besar </strong></em>daripada massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda lebih kecil atau lebih ringan dari pada berat benda di udara. Nah selisih berat benda di <em><strong>udara (Berat Real)</strong></em> ini dengan berat benda di <em><strong>fluida (berat semu) </strong></em>ini sama dengan gaya Archimedesnya, sehingga berlaku persamaan :</p><p><strong>\u21d2 \u03c1 benda &gt; \u03c1 fluida</strong></p><p>dan</p><p><strong>\u21d2 W udara - W fluida = Fa</strong></p><p>dan akhirnya diperoleh rumus :</p><h2><strong>W fluida = [1 - (\u03c1/\u03c1b)].W udara </strong></h2><p>dimana :</p><p>W fluida = berat benda di fluida</p><p>W udara = berat benda di udara</p><p>\u03c1 = massa jenis fluida</p><p>\u03c1b = massa jenis benda</p><br><p>Nah setelah memahami konsep di atas mari kita kerjakan soal berikut ini :</p><br><h2>SOAL</h2><p><em>Berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..</em></p><p><u><strong>PENYELESAIAN</strong></u></p><p><strong>Diketahui :</strong></p><p>berat benda di udara, W udara = 40 N</p><p>berat benda di fluida, W air = 36 N</p><p>massa jenis air, \u03c1 = 1 gr/cm\u00b3 = 1000 kg/m\u00b3</p><p><strong>Tanya :</strong></p><p>massa jenis benda, \u03c1b = __?</p><p><strong>Jawab :</strong></p><p><strong><u>Step 1</u></strong></p><p> Cari dulu gaya Archimedes, Fa = __?</p><p>Gunakan rumus : </p><p>Fa = W udara - W air</p><p>Fa = 40 - 36</p><p>Fa = 4 N</p><br><p><u><strong>Step 2</strong></u></p><p>cari massa benda di udara, m = __?</p><p>Gunakan rumus :</p><p>W udara = m.g</p><p>40 = m. 10</p><p>m = 4 kg</p><br><p><strong><u>Step 3</u></strong></p><p>Cari Volume benda, Vb = __?</p><p>Gunakan rumus :</p><p>Fa = \u03c1.g.Vb</p><p>4 = 1000. 10. Vb</p><p>Vb = 4 x 10\u207b\u2074 m\u00b3</p><br><p><u><strong>Step 4</strong></u></p><p>cari massa jenis benda, \u03c1b = __?</p><p>Gunakan rumus :</p><p>\u03c1b = m/Vb</p><p>\u03c1b = 4 / (4 x 10\u207b\u2074)</p><p>\u03c1b = 10\u2074 </p><p>\u03c1b = 10000 kg/m\u00b3</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>RUMUS TRIK</h2><p><strong>W air = [1 - (\u03c1/\u03c1b)].W udara </strong></p><p>36 = [1 - (1/\u03c1b)].40</p><p>36 / 40 = [1 - (1/\u03c1b)]</p><p>0,9 = 1 - (1/\u03c1b)</p><p>(1/\u03c1b) = 1 - 0,9</p><p>(1/\u03c1b) = 0,1</p><p>\u03c1b = 1/0,1</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>KESIMPULAN</h2><p><strong>Jadi besar massa jenis benda tersebut adalah 10 gram/cm\u00b3</strong></p><br><p>==========================================================</p><p>Simak soal tentang :</p><p>* <strong>Menghitung massa jenis benda dengan tabung gelas ukur</strong></p><p>https://brainly.co.id/tugas/15297318</p><p><strong>** Cara konversi satuan massa jenis dari gr/cm\u00b3 ke Kg/m\u00b3</strong></p><p>https://brainly.co.id/tugas/3028917</p><p>==========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : Fisika</strong></p><p><strong>Kategori : Fluida Statis</strong></p><p><strong>Kata Kunci : berat benda di udara, berat benda di air, massa jenis benda, \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>fluida statis, gaya archimedes ke atas</strong></p><p><strong>Kode : 11.6.3 [Kelas 11 SMA Fisika Bab 3 - Fluida Statis]</strong></p>",
+            "attachments": [
+                "answer-attachments/berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920-1.jpeg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-apa-saja-yang-digunakan-untuk-membuat-galvanometer-dan-m-432",
+            "question": "jelaskan apa saja yang digunakan untuk membuat galvanometer dan motor listrik. apa yang diperlukan untuk membuat motor listrik , namun tidak diperlukan dalam pembuatan galvanometer ? mengapa alt tersebut diperlukan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan dan alat membuat motor litrik ;\u00a0<br>-kabel tembaga beremail\u00a0<br>- satu buah maget batang<br>-batery pack<br>-styrofoam<br>- kater<br>-spidol<br>-tusuk gigi<br>alasannya ; alt tersebut harus diperlukan agar buatan motor listrik tersebut jadi sempurna apabila tidak lengkap maka hasilnya akan kurang baik.",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada motor listrik butuh batrai sedangkan pada galvanometer tidak membutuhkan batre. karena sumber listrik dari motor listrik dari batre sedangkan  pada galvanometer sumber listrik dari rangkaian listrik yg di pasang pada galvanometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sebuah-kereta-api-dari-ke-keadaan-diam-bergerak-dari-sebuah-s-603",
+            "question": "\u00a01.sebuah kereta api dari ke keadaan diam bergerak dari sebuah stasiun dan selama dari 10 s percepatanya 4m/s2.lalu kereta itu bergerak dg kecepatan konstan selama 30sekon. lalu di perlambat dengan\u00a0 8m/s.sampai berhenti di stasiun berikutnya .berapa jarak total yang di tempuhnya ? \u00a0 2. seorang penerjun berlari dg kecepatan 1,6m/s lalu terjun horizontal dari tebing vertikal dan mencapai air di bawah 3 sekon,berapa tinggi tebing dan seberapa jauh kaki tebih penerjun menyentuh air? \u00a0 3.sebuah peluru di tembakan gengan kecepatan awal 75 m/s dan sudut 30 di atas horizontal pada tempat latihan yang panjang, a,berapa tinggi maksimum yang di capai peluru b. waktu total di udara c. jarak horizontal total yang di tempuh d.kecepatan peluru 1,5 sekon setelah penembakan \u00a0 4.sebuah mobil yg masanya 1 ton meluncur dengan kecepatan tetap 54 m/jam.suatu saat mobil di rem dengn gaya 300 n gerak mobil selama di rem di anggap gerak lurus berubah beraturan,setelah beberapa sekon dan di mana mobil berhenti? \u00a0 5.sebuah benda di gantung pada sebuah kawat yang dapat memikul beban maksimum sebesar 15000 N.jika percepatan gravitasi 10m/s dan massa bendanya 1200 kg,berapa harga maksimum percepatan ke atas yang di berikan pada benda itu ? \u00a0  \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. vo=0, a1= 4m/s\u00b2, t1= 10s,\u00a0 t2= 30 s, -a2=8m/s\u00b2<br>S1= vo.t + 1/2 a. t\u00b2<br>\u00a0\u00a0 = 0 + 1/2. 4. 10\u00b2<br>\u00a0\u00a0 = 200 m<br>V=a.t<br>\u00a0 = 4. 10<br>\u00a0 = 40 m/s<br>S2= v. t2<br>\u00a0\u00a0 = 40. 30<br>\u00a0\u00a0 = 1200 m<br>t3= V/a<br>\u00a0\u00a0 = 40/ 8<br>\u00a0\u00a0 = 5 s<br>S3= V.t - 1/2 a. t\u00b2<br>\u00a0\u00a0\u00a0 = 40. 5 s - 1/2. 8. 5\u00b2<br>\u00a0\u00a0 \u00a0 = 200 - 100<br>\u00a0\u00a0 \u00a0 = 100 m<br>S total = s1 + s2 + s3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 + 1200 + 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1500 m= 1.5 km<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-miopi-menggunakan-kacamata-2-d-agar-penglihatannya-men-547",
+            "question": "Penderita miopi menggunakan kacamata -2 D agar penglihatannya menjadi normal.Apabila orang tersebut tanpa kaca mata,titik jauh sebesar...    a.50cm\r\nb.75cm\r\nc,100cm\r\nd.125cm\r\ne.150cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik jauh penderita miopi menggunakan kacamata 2 D adalah 100cm\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "-100/-2 =50 cm<br>\u00a0semoga membantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-dengan-cepat-rambat-bunyi-319",
+            "question": "Apa yang di maksud dengan cepat rambat bunyi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil bagi jarak antara sumber bunyi dan pendengar dengan selang waktu yang diperlukan bunyi untuk merambat",
+                    "attachments": []
+                },
+                {
+                    "answer": "getaran yg dpt ditransmisikan oleh air atau meterial lain sbgai medium (perantara)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-kohesi-beserta-contohnya-654",
+            "question": "Apa yang di maksud kohesi beserta contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-tentang-posisi-konjungsi-dan-oposisi-139",
+            "question": "Jelaskan tentang posisi konjungsi dan oposisi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Konjungsi adalah bila kedudukan bulan searah dengan matahari, pada saat\n itu bagian bulan yang menghadap bumi adalah bagian yang gelap sehingga \nkita tidak dapat melihat bulan bercahaya terlebih bulan dan matahari \nberkedudukan sejajar. Pada kondisi tertentu posisi konjungsi ini dapat \nmenimbulkan terjadinya gerhana matahari.sudut elongasinya adalah 0o <br><br>Oposisi yaitu kedudukan bulan yang berlawanan arah dengan matahari \ndilihat dari bumi. Pada posisi inilah bulan cahayanya penuh atau bulan \ntampak sebagi bulan purnama. Pada kondisi tertentu posisi oposisi ini \ndapat menimbulkan terjadinya gerhana bulan.sudut elongasinya adalah 180o\n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00d8 Konjungsi adalah bila kedudukan bulan searah dengan matahari, pada saat itu bagian bulan yang menghadap bumi adalah bagian yang gelap sehingga kita tidak dapat melihat bulan bercahaya terlebih bulan dan matahari berkedudukan sejajar. Pada kondisi tertentu posisi konjungsi ini dapat menimbulkan terjadinya gerhana matahari.sudut elongasinya adalah 0o<br></span><span>\u00d8 Oposisi yaitu kedudukan bulan yang berlawanan arah dengan matahari dilihat dari bumi. Pada posisi inilah bulan cahayanya penuh atau bulan tampak sebagi bulan purnama. Pada kondisi tertentu posisi oposisi ini dapat menimbulkan terjadinya gerhana bulan.sudut elongasinya adalah 180o .</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293",
+            "question": "Dalam sebuah mesin pengangkat mobil hidrolik, jari-jari piston kecil sama dengan 1,20 cm, sedangkan jari-jari piston besar 15,0 cm (massa piston kecil bisa diabaikan, sedangkan massa piston besar 350 kg). Berapakah gaya F yang dibutuhkan untuk menahan mobil bermassa 1720 kg,    a) ketika kedua piston pada ketinggian yang sama\r\n b) ketika permukaan atas kedua piston seperti pada gambar\r\n Zat cair yang digunakan adalah minyak hidrolik dengan massa jenis = 864 kg/m3",
+            "attachments": [
+                "question-attachments/dalam-sebuah-mesin-pengangkat-mobil-hidrolik-jari-jari-piston-ke-293-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a) F\u2081\u00f7A\u2081=F\u2082\u00f7A\u2082 \u00a0 \u00a0F\u2082 merupakan berat mobil+berat piston<br>\u00a0 \u00a01\u00f7([tex] \\pi [/tex].1,2\u00b2) = (3500+17200)\u00f7([tex] \\pi [/tex].15\u00b2)<br>\u00a0 \u00a01\u00f74,5216\u00a0=\u00a020700\u00f7706,5<br>\u00a0 \u00a01 Pa = 132,48 Pa\u00a0merupakan perbandingan P\u2081 = P\u2082<br>\u00a0 \u00a0F\u2082\u00f7A\u2082 =\u00a020700\u00f7706,5 = 29,3 Pa<br>\u00a0 \u00a01 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)\u00a0= 132,48 Pa\u00a0\u00d7 (29,3 Pa\u00a0\u00f7\u00a0132,48 Pa)<br>\u00a0 \u00a00,22 Pa= 29,3 Pa<br>\u00a0 \u00a0F\u2081 = P\u2081 \u00d7\u00a0A\u2081 = 0,22\u00a0\u00d7\u00a04,5216 = 0,99 N diberikan kepada F\u2081 bila ketinggian \u00a0 \u00a0 \u00a0\u00a0Piston1\u00a0dan Piston2 sama<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-reaksi-fusi-berikut-diketahui-massa-943",
+            "question": "Perhatikan reaksi fusi berikut\u00a0    \r\n\r\nDiketahui : Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0 = 0,00055 sma\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 sma = 931 MeV\u00a0\r\n\r\nmaka nilai E (energi yang dihasilkan) pada reaski fusi tersebut adalah\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar defek massa adalah jumlah massa sebelah kiri tanda --&gt;, dikurangi massa sebelah kanan tanda --&gt;. Setiap 1 sma memiliki energi sebesar 931 MeV\u00a0<br><br>E =\u00a0[tex]\\triangle m . 931 MeV [/tex]\u00a0<br>\u00a0 \u00a0=\u00a0[tex][(m_{_1H^1}+m_{_1H^1})-(m_{_1d^2}+m_{_1^2e})].931 MeV[/tex]<br>\u00a0 \u00a0= [(1.0078+1.0078)-(2.01410+0.00055)].931<br>\u00a0 \u00a0= 0.88445\u00a0[tex]M_eV[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D<br><br>by : Crow Art.",
+                    "attachments": [
+                        "answer-attachments/perhatikan-reaksi-fusi-berikut-diketahui-massa-943-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875",
+            "question": "Tolong dikasi caranya juga ya , gambar ada dibawah biar lebii j3las :)    Benda pada gambar di bawah ini memiliki berat 100 N digantung dalam keadaan diam . Maka besar tegangan tali T1 dan T2 berturut turut adalah ?\r\n( T1 berada pada kiri dan membentuk sudut 53derajat dan T2 berada pada kanan dan membentuk sudut 37drajat )",
+            "attachments": [
+                "question-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><em><strong>Konsep Dasar </strong></em></p><p>Kesetimbangan merupakan salah satu hal penting dalam kehidupan keseharian. Dalam bidang teknik kontruksi bangunan pada kontruksi gedung, jembatan, atap sebuah stadion, dan struktur bangunan lain sangat bergantung pada kesetimbangan. Begitu pula pada mesin biologis tubuh makhluk hidup, misalnya kesetimbangan pada tulang, otot dan urat. Kesetimbangan yang dimiliki oleh setiap benda atau sistem tersebut sangat erat hubungannya dengan gaya-gaya dan momen-momennya yang bekerja pada benda tersebut.</p><p>Baik benda itu dalam keadaan diam maupun bergerak, keduanya dapat saja bekerja gaya luar baik itu jumlah gayanya satu maupun banyak. Gaya luar tersebut mengakibatkan dua dampak pada benda. </p><p><strong>PERTAMA</strong>, dengan tidak memperhatikan titik tangkap gaya yang bekerja pada benda maka benda akan bergerak translasi atau linier atau lurus.</p><p><strong>KEDUA</strong>, dengan memperhatikan titik tangkap gaya yang bekerja pada benda maka benda akan bergerak rotasi.</p><p>Jadi sebuah benda tegar dikatakan dalam kesetimbangan apabila benda itu tidak mengalami perubahan kecepatan gerak transalasi maupun kecepatan gerak rotasi. Artinya, benda itu tidak mengalami percepatan translasi (a = 0) maupun percepatan sudut (\u03b1 = 0). </p><p>Berdasarkan hukum kedua Newton, baik untuk gerak translasi maupun rotasi, benda tegar berada dalam keadaan kesetimbangan manakala resultan gaya dan resultan momen gaya (torsi) bernilai NOL. Secara matematis dituliskan sebagai berikut :</p><p><strong>\u03a3 F = 0 dan \u03a3 \u03c4 = 0</strong></p><p></p><p>Penting untuk dicatat, benda tegar yang berada dalam keadaan setimbang <strong>TIDAK HARUS DIAM</strong>. Ia boleh bergerak, tetapi dengan kecepatan translasi (V = tetap) dan kecepatan sudut putarnya juga harus TETAP (\u03c9 = tetap), nah keadaan setimbang seperti ini disebut dengan istilah <strong>Kesetimbangan Dinamis</strong>. </p><p></p><p><strong><em>SOAL</em></strong> </p><p>Benda pada gambar di bawah memiliki berat 100 N digantung dalam keadaan diam. Maka besar tegangan tali T1 dan T2 berturut - turut adalah ... </p><p><em><strong>Penyelesaian </strong></em></p><p></p><p><strong>Step 1</strong></p><p>sudut apit antara T1 dan bidang atas adalah 53\u00b0, kita uraikan atau proyeksikan ke arah sumbu x dan sumbu y sehingga menjadi :</p><p>T1x = - T1. cos 53\u00b0 = - T1. 3/5  [tanda negatif artinya arak ke kiri ke sumbu x negatif]</p><p>dan </p><p>T1y = T1. sin 53\u00b0 = T1. 4/5 [tanda positif artinya arah ke atas ke sumbu y positif]</p><p></p><p><strong>Step 2</strong></p><p>sudut apit antara T2 dan bidang atas adalah 37\u00b0, kita uraikan atau proyeksikan ke arah sumbu x dan sumbu y sehingga menjadi :</p><p>T2x =  T2. cos 37\u00b0 =  T2. 4/5  [tanda positif artinya arak ke kanan ke sumbu x positif]</p><p>dan </p><p>T2y = T2. sin 37\u00b0 = T2. 3/5 [tanda positif artinya arah ke atas ke sumbu y positif]</p><p></p><p><strong>Step 3</strong></p><p>Gunakan konsep :</p><p>\u2211 Fx = 0</p><p>T1x + T2x = 0</p><p>- T1. 3/5 + T2. 4/5 = 0</p><p>- 3.T1 + 4.T2 = 0 ....... Pers (1)</p><p></p><p><strong>Step 4</strong></p><p>Gunakan konsep :</p><p>\u2211 Fy = 0</p><p>T1y + T2y - w = 0 .        </p><p>T1. 4/5 + T2. 3/5 - 100 = 0      [semua ruas dikalikan 5]</p><p>4.T1 + 3.T2 - 500 = 0</p><p>4.T1 + 3.T2 = 500 ....... Pers (2)</p><p></p><p><strong>Step 5</strong></p><p>Eliminasi persamaan (1) dan (2)</p><p>- 3.T1 + 4.T2 = 0 .     |x3|  \u2192 - 9.T1 + 12.T2 = 0</p><p> 4.T1 + 3.T2  = 500 . |x4| \u2192   16.T1 + 12.T2 = 2000</p><p>------------------------------------------------------------------------ selesih</p><p>                                       \u2192 - 25.T1 + 0 = - 2000</p><p>                                       \u2192          25.T1 = 2000</p><p>maka T1 = 2000 / 25 = 80 N</p><p></p><p><strong>Step 6</strong></p><p>masukkan T1 = 80 N ke persamaan (1) </p><p>- 3.T1 + 4.T2 = 0</p><p>- 3. 80 + 4.T2 = 0</p><p>- 240 + 4.T2 = 0</p><p>4.T2 = 240</p><p>T2 = 240 / 4</p><p>T2 = 60 N</p><p></p><p><strong>Jadi besar tegangan Tali T1 dan T2 berturut - turut adalah 80 N dan 60 N</strong></p><p>Jawaban : A</p><p></p><p></p><p></p><p><em><strong>CARA ATURAN SINUS</strong></em></p><p>Buat tiga arah panah gaya yang bertitik tangkap ditengah sebagai titik partikelnya, </p><p>T1 / sin A = T2 / sin B = w / sin C</p><p>Dimana :</p><p>* A adalah sudut apit antara garis T2 dan w yaitu A = 90\u00b0 + 37\u00b0 = 127\u00b0</p><p>** B adalah sudut apit antara garis T1 dan w yaitu B = 90\u00b0 + 53\u00b0 = 143\u00b0</p><p>*** C adalah sudut apit antara garis T1 dan T2 yaitu C = 90\u00b0</p><p></p><p><strong>Step 1</strong></p><p>Cari T1 = __?</p><p>T1 / sin A = w / sin C</p><p>T1 / sin 127\u00b0 = 100 / sin 90\u00b0</p><p>T1 / sin 53\u00b0 = 100 / 1</p><p>T1 / (4/5) = 100</p><p>T1 = 100 x (4/5) </p><p><strong>T1 = 80 N</strong></p><p></p><p><strong>Step 2</strong></p><p>Cari T2 = __?</p><p>T2 / sin B = w / sin C</p><p>T2 / sin 143\u00b0 = 100 / sin 90\u00b0</p><p>T2 / sin 37\u00b0 = 100 / 1</p><p>T2 / (3/5) = 100</p><p>T2 = 100 x (3/5) </p><p><strong>T2 = 60 N</strong></p><p></p><p><strong>Jadi besar tegangan Tali T1 dan T2 berturut - turut adalah 80 N dan 60 N</strong></p><p>Jawaban : A</p><p></p><p>__________________________________________________________</p><p>Simak Soal :</p><p><strong>Syarat kesetimbangan benda tegar</strong>, https://brainly.co.id/tugas/3489</p><p>___________________________________________________________</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : FISIKA</strong></p><p><strong>Kategori : Dinamika Rotasi dan Kesetimbangan Benda Tegar</strong></p><p><strong>Kata Kunci : Kesetimbangan, Gaya tegangan Tali</strong></p><p><strong>Kode : 11.6.7 [Kelas 11 SMA FISIKA Bab 7 - Dinamikas Rotasi dan Kesetimbangan Benda Tegar]</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

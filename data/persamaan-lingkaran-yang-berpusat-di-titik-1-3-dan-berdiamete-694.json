@@ -1,0 +1,136 @@
+{
+    "question": "Persamaan lingkaran yang berpusat di titik (-1, 3) dan berdiameter akar 40 adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "pusat (-1,3)<br>d = V40<br>r = (V40)/2<br>\u00a0 = (2V10)/2<br>\u00a0 = V10<br><br>(x+1)^2 + (y-3)^2 = (V10)^2<br>x^2 + 2x + 1 + y^2 - 6y + 9 = 10<br>x^2 + y^2 + 2x - 6y + 10 - 10 = 0<br>x^2 + y^2 + 2x - 6y = 0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-ke-bentuk-satuan-derajat-dan-a-16-putaran-b-25-putaran-935",
+            "question": "Ubahlah ke bentuk satuan derajat dan a. 1/6 putaran b 2/5 putaran c 3/10 putaran \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. 1/6 x 360=60 ,;b.2/5 x 360 = 72; c.3/10 x 360=108....\nmaaf bila salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ini-penting-penarikan-kesimpulan-1-jika-rudi-tidak-mel-701",
+            "question": "Tolong ya ini penting    Penarikan Kesimpulan\r\n1. Jika Rudi tidak melanjutkan kuliah atau bekerja\r\n\u00a0 \u00a0 maka ibu menjodohkan Rudi.\r\n\u00a0 \u00a0 Ibu tidak menjodohkan Rudi.\r\n\u00a0 \u00a0Kesimpulannya adalah ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n2. Diketahui premis-premis sebagai berikut.\r\n\u00a0 \u00a0 P1 : Jika ombak\u00a0besar maka nelayan tidak menangkap ikan.\r\n\u00a0 \u00a0 P2 : Jika nelayan tidak menangkap ikan maka tidak ada orang yang berjualan ikan di pasar\r\n\u00a0 \u00a0Kesimpulan kedua premis diatas adalah ....\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n3. Diketahui premis-premis:\r\n\u00a0 \u00a0 ~m v b\r\n\u00a0 \u00a0 ~c v ~a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Isian yang tepat adalah ....\r\n\u00a0 \u00a0\u00a0~a\u00a0\u21d2 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. ~c\r\n\u00a0 \u00a0~b \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. ~m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. c\r\n\u00a0 \u00a0 ............\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. ~b\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n4. Premis 1 : Jika Ijad tidak masuk sekolah maka Ijad di rumah sakit.\r\n\u00a0 \u00a0 Premis 2 : Jika Ijad di rumah sakit maka Ijad sakit demam berdarah.\r\n\u00a0 \u00a0 \u00a0Silogisme di atas mempunyai kesimpulan ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n5. Diketahui:\r\n\u00a0 \u00a0P1 : Jika servis hotel baik maka hotel itu banyak tamu.\r\n\u00a0 \u00a0P2 : Jika hotel itu banyak tamu, maka hotel itu mendapat untung.\r\n\u00a0 \u00a0P3 : Hotel tidak mendapat untung.\r\n\u00a0 Kesimpulan dari Argumen di atas adalah ....\r\n\u00a0 \u00a0Jawabannya:",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab\u00a0<br><br>1 . Rudi melanjutkan kuliah karna rudi tidak dijodohkan ibunya\u00a0<br>2, jika ombak besar maka nelayan tidak bisa menangkap ikan maka pasar pun akan sepi karna tidak ada nelayan yang berjualan\u00a0<br>3. a<br>4 ijad tidak masuk sekolah dan dirawat dirumah sakit karana terkena demam berdarah\u00a0<br>5 hotel tersebut servisnya tidak baik karna hotel itu sepi\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.rudi melanjutkan kuliah<br>2.jika ombak besar maka tidak ada orang yang berjualan ikan di pasar<br>3.d.<span>~c<br>4.jika ijad tidak masuk sekolah maka ijad sakit demam berdarah<br>5.servis hotel itu baik<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2-m-3x-m2-0-memiliki-akar-kemb-545",
+            "question": "Agar persamaan kuadrat x\u00b2-(m-3)x + (m+2) = 0\u00a0memiliki akar kembar, maka nilai m adalah . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=1 b=3-m c=m+2 akar sama berarti D=0<br>[tex]D= b^{2}-4ac[/tex]<br>[tex](3-m)^{2} - 4(1)(m+2)=0[/tex]<br>[tex]m^{2} - 6m + 9 - 4m-8=0[/tex]<br>[tex]m^{2} - 10m +1 = 0[/tex]<br>untuk mencari m bisa menggunakan rumus abc<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129",
+            "question": "1. Jarak antara titik C dengan bidang BDG dalam kubus ABCD.EFGH, yang panjang rusuknya 6 cm adalah... 2. kubus ABCD.EFGH \u00a0dengan panjang rusuk 6 cm. Jarak titik H kegaris CE adalah... 3. Kubus ABCD.EFGH dengan panjang rusuk 12 cm. Jarak titik F ke bidang BEG adalah... 4, Kubus ABCD.EFGH berusuk a cm. P , Q , R adalah titik tengah dari AD , AB, dan BF. Penampang bidang PQR dengan kubus berupa... 5. Diketahui kubus ABCD.EFGH dengan rusuk 4 cm. Jarak antara E ke bidang AHF adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Katagori: proyeksi<br>Kelas: 1 sma",
+                    "attachments": [
+                        "answer-attachments/1-jarak-antara-titik-c-dengan-bidang-bdg-dalam-kubus-abcdefgh-129-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x2-5x2-kx18-dibagi-x-1-mempunyai-sisa-5berapakah-nilai-850",
+            "question": "Jika 2x\u00b2-5x\u00b2-kx+18 dibagi x-1 mempunyai sisa 5,berapakah nilai k ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "horner<br>\u00a0 \u00a02 \u00a0 -5 \u00a0 k \u00a0 18<br>1|v \u00a0 \u00a02 \u00a0 \u00a0-3 \u00a0 k-3<br>_______________+<br>\u00a0 2 \u00a0 -3 \u00a0\u00a0k-3 \u00a0 \u00a05<br><br>18+k-3=5<br>k+15=5<br>k=5-15<br>k=-10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-hitung-nilai-p-sukubanyak-fx-x5p-2-566",
+            "question": "tolong beri jawabannya, hitung nilai p ,sukubanyak f(x)= x^5+(p-2)x pngt4+3px pngt3-x pngt2+2x+4 dibagi dgn x+1 menghasilkan sisa -10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = x^5 + (p-2)x^4 + 3px^3 - x^2 + 2x + 4 dibagi dengan (x+1) menghasilkan sisa -10. Nilai p ?<br><br>(x+1) artinya nilai x = -1<br><br>x = -1 , (nilai x dimasukkan kedalam persamaan y)<br>(-1)^5 + (p-2)(-1)^4 + 3(-1)^3 - (-1)^2 + 2(-1) + 4 = 0<br>-1 + (p-2)(1) + 3(-1) - 1 - 2 + 4 = 0<br>-1 + p - 2 - 3 +\u00a01 = 0<br>p - 5 = 0<br>p = 5<br><br>y = x^5 + 3x^4 + 15x^3 - x^2 + 2x + 4 dibagi (x+1) sisa -10<br><br>untuk percobaan agar menghasilkan sisa -10, silahkan dibagikan dengan x=-1 :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x) =  x^{5} + (p-2)  x^{4}  + 3p x^{3} -  x^{2} +2x +4[/tex]<br><br>karena dibagi (x+1) = -10 maka<br><br>[tex]f(-1) = -10 \\\\ -10 = (-1)^{5} + (p-2)(-1)^{4} + 3p(-1)^{3} - (-1)^{2} + 2(-1) + 4 \\\\ -10 = -1 +(p-2) - 3p -1 -2 +4 \\\\ -8 = -2p \\\\ p = 4[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-akar-x-kuadrat4x-1-x-2-x-gttak-terhingga-400",
+            "question": "Lim\u00a0 akar x kuadrat+4x-1-(x-2) \r\nx-&gt;(tak terhingga)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake rumus ini<br>[tex]= \\lim_{x \\to \\infty}  \\sqrt{ax^2+bx+c}- \\sqrt{ax^2+qx+r}\\\\\\\\\n= \\frac{b-q}{2 \\sqrt{a}}\\\\\\\\[/tex]<br><br>[tex] \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}-(x-2)\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{(x-2)^2}\\\\\\\\\n = \\lim_{x \\to \\infty}  \\sqrt{x^2+4x-1}- \\sqrt{x^2-4x+4}\\\\\\\\\n= \\frac{4-(-4)}{2 \\sqrt{1}}\\\\\\\\\n=8 \n [/tex]<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-linier-23-5x-43x2-24-570",
+            "question": "Nilai x yang memenuhi persamaan linier 2(3-5x)-4(3x+2)=-24",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>2(3-5x)-4(3x+2)=-24<br>jabarkan dulu menjadi<br>6 - 10x - 12x - 8 = -24<br>-2 - 22x = -24<br>-2 + -2 - 22x = -24 + -2<br>-22x = -22<br>-22x : -22 = -22 : -22<br>x = 1</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

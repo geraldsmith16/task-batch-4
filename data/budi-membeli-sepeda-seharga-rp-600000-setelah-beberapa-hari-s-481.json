@@ -1,0 +1,142 @@
+{
+    "question": "Budi membeli sepeda seharga Rp 600.000. Setelah beberapa hari , sepeda tersebut dijual dengan harga Rp 578.500. Berapa persentase kerugian yang dialami Budi?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "rugi = harga pembelian - harga penjualan<br>\u00a0\u00a0 \u00a0\u00a0 = 600.000 - 578.500 = 21.500<br><br>%rugi = rugi : harga pembelian x 100%<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 21.500 : 600.000 x 100%<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = <strong>3,583%</strong><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-barisan-aritmetika-dengan-suku-ke-5-34-dan-suku-ke-9-222",
+            "question": "diketahui barisan aritmetika dengan suku ke-5 =34 dan suku ke -9 = 18. suku ke 25 barisan itu adalah A.-46 \u00a0 \u00a0 \u00a0B.-36 C.-42 \u00a0 \u00a0 \u00a0C.-16",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik: u5= 34<br>\u00a0 \u00a0 \u00a0 u9 = 18<br><br>u5=a+4b=34<br>u9=a+8b=18<br>\u00a0 \u00a0 dikurangkan menjadi -4b=16\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=16/-4=-4<br>u5= a+4b=34<br>\u00a0 \u00a0 = a+4.(-4)=34<br>\u00a0 \u00a0 = a+(-16)=34<br>\u00a0 \u00a0 = a= 34-(-16)= 50<br>u25=a+(n-1)b<br>\u00a0 \u00a0 \u00a0 = 50+(24)-4<br>\u00a0 \u00a0 \u00a0 \u00a0=50+(-96)=-46<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-pelemparan-2-buah-dadu-peluang-jumlah-mata-dadu-yg-muncul-6-661",
+            "question": "Pada pelemparan 2 buah dadu peluang jumlah mata dadu yg muncul 6 adalh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/36 = 1/18<br>Semoga ngerti dan jawabannya benar :D",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/36 = 1/12 kemungkinan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-6-dan-7-dari-barisan-112358-sejalian-caranya-ya-965",
+            "question": "Suku ke 6 dan 7 dari barisan 1,1,2,3,5,8,...\r\nsejalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_1 = 1 \\\\ U_2 = 1 \\\\ U_n = U_{n-2} + U_{n-1} \\\\ U_6 = U_4 + U_5 = U_4 + U_3 + U_4 = 2U_4 + U_3 = 2U_2 + 3U_3 \\\\ = 5U_2 + 3U_1 = 5*1 + 3*1 = 8 \\\\ U_7 = U_5 + U_6 = U_3 + U_4 + 8 = 2U_3 + U_2 + 8 \\\\= 2U_1 + 3U_2 + 8 = 2*1 + 3*1 + 8 = 13[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : U1 / a=1<br>\u00a0\u00a0 \u00a0 \u00a0 U2 /b =2<br>dit: U6 dan U7?<br>jawab :<br>b= U2-U1= 2-1=1\u00a0 \u00a0 U7=1+(7-1)1<br>\u00a0U6= 1+(6-1)1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>\u00a0\u00a0 \u00a0 =6<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sudut-abdy-cbd2y-a-tentukan-nilai-y-btentukan-besar-su-968",
+            "question": "1. sudut ABD=y,\u00a0CBD=2y    a. Tentukan nilai y !\r\nb.Tentukan besar sudut ABD !\r\n\r\n2. Tentukan besar sudut komplemen dari:\r\na.\u00a056 derajat 41 menit\u00a055 detik !\r\n\r\n3. Tentukan besar sudut suplemen dari:\r\na.\u00a045 derajat\u00a035 menit 4 detik\r\nb. 173 derajat 47 menit 44 detik\r\n\r\n4. diketahui sudut DOC 5x,\u00a0sudut COB 5X+12 derajat, BOA 28 derajat\r\ntentukan nilai x !\r\n\r\ntolong beserta caranya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. y + 2y = 180 \u00a0 \u00a0 \u00a0 \u00a0b. y = 60\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a03y = 180()<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 y \u00a0= 180 : 3<br>\u00a0 \u00a0 \u00a0a. \u00a0y \u00a0= 60<br><br>2.\u00a0<span>56 derajat 41 menit\u00a055 detik + 33 derajat\u00a018 menit\u00a05 detik = 90 derajat<br><br>3. a.\u00a0</span><span>45 derajat\u00a035 menit 4 detik + 134 derajat\u00a024 menit\u00a056 detik = 180 derajat<br>\u00a0 \u00a0 b.\u00a0</span>173 derajat 47 menit 44 detik + 6\u00a0derajat\u00a014\u00a0menit 16 detik =\u00a0180 derajat<br><br>4.\u00a0BOA + COB = 180 derajat (berpelurus)<br>\u00a0 \u00a0 (5x + 12) + 28 = 180<br>\u00a0 \u00a0 \u00a0 \u00a0 5x + 12 \u00a0 \u00a0 \u00a0\u00a0= 180 - 28<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0152 - 12\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 140 : 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 70 derajat<br><br><br>kira kira segitu hasilnya. jika ada salah saya mohon maaf",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-menyelesaikan-persamaan-linear-satu-variabel-251",
+            "question": "Cara menyelesaikan persamaan linear satu variabel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menyelesaikan sistem persamaan linear satu variabel :<br>-\u00a0<span>kita harus menentukan nilai dari\u00a0</span>x<span>\u00a0sedemikian sehingga persamaan tersebut menjadi benar, yang berarti, nilai dari ruas kiri sama dengan ruas kanan.<br>-\u00a0</span>kita dapat menuliskan suatu persamaan yang diberikan ke dalam\u00a0persamaan ekuivalen<span>\u00a0yang lebih sederhana, sampai kita mendapatkan solusi yang diminta.\u00a0<br>-\u00a0</span><span>lalu diperoleh dari penyederhanaan kedua ruas persamaan dengan menggunakan sifat-sifat penjumlahan, perkalian, dan distributif dari suatu persamaan, sampai diperoleh suatu persamaan dalam bentuk\u00a0</span>x<span>\u00a0= konstanta.<br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span><span><strong><em><br>Metode Grafik<br>1</em></strong>.Menggunakan Metode Grafik<span>\u00a0<span>Pada metode grafik, himpunan penyelesaian dari sistem persamaan linear\u00a0dua variabel</span><span>adalah koordinat titik potong kedua garis\u00a0tersebut. Jika garis-garisnya tidak</span><span>berpotongan di satu titik tertentu\u00a0maka himpunan penyelesaiannya adalah himpunan</span>kosong.\u00a0Contoh Soal :Dengan menggunakan metode grafik, tentukan himpunan penyelesaian sistem<span>pers<span>ama<span>an li<span>nea<span>r dua v<span>ari<span>abe<span>l x + y = 3 da<span>n x \u2013 y = 2 un<span>tuk x<span>, y\u00a0R</span></span></span></span></span></span></span></span></span></span></span>\u00a0</span>Kesimpulan :\u00a0<br><br>Metode Substitusi<br><strong><em>2</em></strong><strong><em></em></strong>. Menggunakan Metode SubstitusiPada metode subtitusi, himpunan penyelesaian dari sistem persamaan linear dua</span><span></span></span><span>\u00a0<span>variabel adalah dengan cara menyatakan salah satu variabel dalam bentuk variabel<span>yang lain kemudian nilai variabel tersebut menggantikan variabel\u00a0yang sama dalam</span>persamaan yang lain.Contoh Soal :<span>Dengan menggunakan metode subtitusi , tentukan himpunan penyelesaian sistem</span>persamaan linear dua variabel x + y = 12 dan 2x + 3y = 31.<br></span><br><br>Metode Eliminasi<br><strong><em>3</em></strong>. Menggunakan Metode Eliminasi<span>Pada metode eliminasi, himpunan penyelesaian dari sistem persamaan linear duavariabel adalah dengan cara menghilangkan (mengeliminasi) salah satu variabel dari<span>sistem persamaan tersebut. Misalkan variabelnya adalah x dan y, untuk\u00a0menentukan</span><span>variabel x harus mengeliminasi variabel y terlebih\u00a0dahulu, atau sebaliknya. Dengan</span>kata lain metode eliminasi adalah menghilangkan salah satu variabel untuk dapat<span>menentukan nilai variabel yang lain, oleh karena itu\u00a0koefisien salah satu variabel yang</span>akan dihilangkan haruslah sama atau dibuat sama.Contoh Soal :Dengan menggunakan metode eliminasi, tentukan himpunan penyelesaian sistempersamaan linear dua variabel 3x + 3y = 3 dan 2x - 4y = 14.<br></span><br>Metode Kombinasi<br><strong><em>4</em></strong>. Menggunakan Metode Kombinasi (Eliminasi &amp; Subtitusi)<span>Pada metode kombinasi (eliminasi &amp; subtitusi), himpunan penyelesaian dari sistempersamaan linear dua variabel adalah dengan cara mengeliminasi salah satu variabeldari sistem persamaan tersebut. Kemudian hasil dari eliminasi tersebut disubtitusikanke salah satu persamaan.Contoh Soal :Dengan menggunakan metode kombinasi, tentukan himpunan penyelesaian sistem<span>persamaan linear dua variabel 2x + 3y = 6 dan x - y = 3</span></span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-kuaci-santi-berbanding-kuaci-rani-adalh-86-dan-banyak-kua-343",
+            "question": "jumlah kuaci santi berbanding kuaci rani adalh 8:6 dan banyak kuaci rani sama dengan 4/5 kuaci leni.kuaci rani lebih banyak 18 buah dari kuaci leni.berapa jumlah kuaci santi,rani dan leni seluruhnya?tolong dijawab pake caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "santi = a<br>rani = b\u00a0<br>leni = c<br><br>a:b = 8:6<br>b = 4/5 c<br>b+18 = c<br><br>karena b = 4/5c,c = 5/4b<br>b+18 = 5/4b<br>1/4b = 18<br>b=72<br><br>72 = 4/5 c<br>c = 5/4 x 72 = 90<br><br>a : b = 8 : 6<br>a : 72 = 8 : 6<br>a = 8/6 x 92 = 96\u00a0<br><br>santi + rani + leni = 96 + 72 + 90 = 258<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-perbandingan-jumlah-ayam-ali-degan-umi-adalah-4-7-jika-juml-435",
+            "question": "1. Perbandingan jumlah ayam Ali degan Umi adalah 4 : 7. Jika jumlah ayam Umi 63 ekor, maka jumlah ayam Ali dan Umi adalah..    2. Untuk menempuh jarak 135 km, sebuah\u00a0mobil\u00a0memerlukan bahan bakar 10 liter. Jika dalam tangki masih tersedia bahan bakar 10 liter dan mobil tersebut akan menempuh jarak 300km, maka bahan bakar\u00a0minimal\u00a0yg harus ditambahkan adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. A : U = 4 :7<br>11/7 x 63 = 99 ekor jumlah ayam ali dan umi\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. ayam Ali:ayam umi<br>\u00a0\u00a0 \u00a0 4 : 7<br>jika,x = jlh ayam ali<br>maka,\u00a0 4/7 = x/63<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  x =\u00a0 (63 . 4) :7<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 36<br>sehingga, jumlah ay. ali +umi = 36 +63 = 99 ekor<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pembangunan-sebuah-jembatan-direncanakan-selesai-dalam-waktu-132-856",
+            "question": "Pembangunan sebuah jembatan direncanakan selesai dalam waktu 132 hari oleh 72 pekerja .    sebelum pekerjaan dimulai ditambah 24 orang pekerja, waktu untuk menyelesaikan pembangunan jembatan tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "72 org = 132 hari <br>\n72+24 \u2192 96 org = x hari <br>\n72*132=96x <br>\n9504 = 96x <br>\nx = 99 <br>\nJadi, waktu penyelesaian pembangunan jembatan membutuhkan 99 hari^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lampu-yaitu-lampu-kuning-dan-lampu-biruberkedip-secara-363",
+            "question": "dua buah lampu yaitu lampu kuning dan lampu biru.berkedip secara berkala.lampu kuning berkedip setiap8 detik.lampu biru berkedip setiap10 detik.kedua lampu tersebut berkedip secara bersamaan setiap berapa detik sekali?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "lampu kuning 8 detik sekali<br>lampu biru 10 detik sekali<br>kpk = 8 = 2\u00b3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a010= 2 x\u00a05<br>kpk = 2\u00b3 x 5<br>\u00a0 \u00a0 \u00a0 = 8 x 5<br>\u00a0 \u00a0 \u00a0 = 40<br>jadi kedua lampu akan berkedip secara bersamaan setiap 40 detik sekali",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumina-menabung-di-bank-sebesar-rp100000-dengan-bunga-18-tiap-980",
+            "question": "Jumina menabung di bank sebesar Rp.100.000 dengan bunga 18% tiap tahun. Jika tabungan Jumina sekarang berjumlah Rp.109.000 maka ia telah menabung selama ... bulan    *pake caranya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100.000*18%=18000<br>dibagi 12 bulan,jadi 18000/12 = 1500<br>9.000/1500=6 bulan<br>terdapat 9.000 dari 109.000 - 100.000<br>Jadi,jawaban nya Jumina telah menabung selama 6 bulan,<br>SEMOGA BERMANFAAT<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunga=<u>bulan</u> \u00d7t%\u00d7modal<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  tahun<u><br></u>9000=<u>bulan</u>\u00d7<u>18</u>\u00d7100000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12\u00a0 \u00a0 100<br>9000=1500<br>bulan?=9000\u00f71500=6 bulan",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

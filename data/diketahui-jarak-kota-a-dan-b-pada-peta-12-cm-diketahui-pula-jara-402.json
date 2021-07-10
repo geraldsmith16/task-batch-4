@@ -1,0 +1,162 @@
+{
+    "question": "Diketahui jarak kota a dan b pada peta 12 cm. Diketahui pula jarak sebenarnya 720 km a. Berapa skala yang digunakan peta tersebut? b. Pada peta tersebut jarak antara kota C dan kota D \u00a0 \u00a0 9 cm. Berapa jarak sebenarnya antara kota C dengan Kota D? c. Jarak sebenarnya kota E dan kota F 480 km. Berapa jarak antara kedua kota pada peta",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. skala =\u00a0[tex] \\frac{jarak pada peta}{jarak sebenarnya} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{12 cm}{72.000.000} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1 : 6.000.000<br>b. jarak sebenarnya = jarak pada peta x skala<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9 cm x 6.000.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 54.000.000 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 540 km<br>c. Jarak pada peta =\u00a0[tex] \\frac{jarak sebenarnya}{skala} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{48.000.000 cm}{6.000.000} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8 cm",
+            "attachments": []
+        },
+        {
+            "answer": "A. Skala= jarak pada peta:jarak sebenarnya= 12 cm: 720km(jadikan cm)\n              = 12: 72.000.000\n              = 1: 6.000.000\nB. Jarak sebenernya= jarak pada peta: skala\n                                     = 9 : (1:6.000.000) \n                                     = 9 x 6.000.000\n                                     =54.000.000cm jadikan km\n                                     = 540km\nC. Jarak pada peta= jarak sebenarnya x skala\n                                  = 480km x ( 1:6.000.000)\n                                  = 48.000.000x(1:6.000.000)\n                                  = 8cm",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-mencari-debit-volume-dan-waktu-adalah-736",
+            "question": "Cara mencari Debit, Volume dan waktu adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Debit =volume : waktu<br>volume = debit x waktu<br>waktu = volume : debit",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\nRumus </span>\n<span>\nDebit = Volume : Waktu</span>\n<span>\n<span><br>\nDalam 1 jam sebuah keran dapat mengeluarkan air sebesar 3.600 m\u00b3. Berapa\nliter/detik debit air tersebut ?<br>Penyelesaian<br>Diketahui\u00a0<br>\nvolume (v) = 3.600 m\u00b3 </span></span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3.600.000 dm\u00b3 </span>\n<span>\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3.600.000 liter<br>\nwaktu (t)\u00a0\u00a0 \u00a0= 1 jam </span></span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 3.600 detik</span>\n<span>\n<span>Maka\ndebitnya = <u>3.600.000</u> liter</span></span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 3.600 detik</span>\n<span>\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 1.000 liter/detik<br><br><br></span></span><span>\u00a0\u00a0Menghitung volume</span>\n<span>\n<br></span>\n<span>\nRumus </span>\n<span>\nVolume = Debit X Waktu</span>\n<span>\n<br></span>\n<span>\nSebuah bak\nmandi diisi air mulai pukul 07.20 sampai pukul 07.50. Dengan debit 10 liter/\nmenit. Berapa liter volume air dalam dalam bak mandi tersebut ?</span>\n<span>\nPenyelesaian</span>\n<span>\nDiketahui</span>\n<span>\nDebit\u00a0 \u00a0=\u00a0 10 liter</span>\n<span>\nWaktu =\n07.50 \u2013 07.20</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 30 menit</span>\n<span>\nMaka volumenya\n= Debit X Waktu</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 10 liter X 30\nmenit</span>\n<span>\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 300 liter<br><br><br></span></span><span>Menghitung waktu</span>\n<span>\n<br></span>\n<span>\nRumus </span>\n<span>\nWaktu = Volume : Debit</span>\n<span>\n<br></span>\n<span>\nVolume bak\nmandi 200 dm3. Di isi dengan air dari sebuah kran dengan debit </span>\n<span>\n5\nliter/menit. Berapa menit waktu yang dibutuhkan untuk mengisi bak mandi sampai\npenuh ?</span>\n<span>\nPenyelesaian\n</span>\n<span>\nDiketahui </span>\n<span>\nVolume = 200\ndm3</span>\n<span>\nDebit\u00a0\u00a0\u00a0\u00a0 = 5 liter/ menit</span>\n<span>\n<span>Maka waktu\nyang di butuhkan =<u> Volume</u></span></span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nDebit</span>\n<span>\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n= <u>200\u00a0 \u00a0\u00a0</u></span></span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n5 </span>\n<span>\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n= 40 menit<br><br><br><br><br>semoga membantu :)</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-pecahan-sederhana-dari-45-per-63-904",
+            "question": "Tentukan pecahan sederhana dari 45 per 63",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/7<br><br>caranya = 45/63 : 9 = 5/7",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{5}{7} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-rumah-andi-ke-rumah-tino-adalah-500-m-pada-suatu-denah-jar-268",
+            "question": "jarak rumah andi ke rumah tino adalah 500 m pada suatu denah, jarak rumah mereka adalah 25 cm skala denah itu adalah? tolong jelaskan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "skala = jarak sebebenarnya : jarak peta<br>500 m = 50.000 cm<br>50.000 : 25 = 2000<br>Jadi skalanya 1 : 2000",
+                    "attachments": []
+                },
+                {
+                    "answer": "500m:50000000 cm:25 cm:2000000 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "2630-1720-berapa-164",
+            "question": "26/30 + 17/20 =.... berapa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "102\\60: 1\\42\\60 insyaallah....ya ;D",
+                    "attachments": []
+                },
+                {
+                    "answer": "26/30+17/20= 52/60+51/60.....\n103/60=1 43/60",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-jual-sebuah-sepeda-adalah-rp-1760000-sepeda-tersebut-t-245",
+            "question": "harga jual sebuah sepeda adalah Rp. 1.760.000 . sepeda tersebut terjual dengan keuntungan 10% . harga Beli sepeda tersebut adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rp 1.760.000,00 x 10% = Rp 176.000,00<br>Rp 1.760.000,00 - Rp 176.000,00 = Rp 1.584.000,00 (harga beli)",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.760.000x10%<br>=1.7600.000<br><br>1.760.000 - 1.7600.000<br>=1.584.0000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kantong-berisi-56-kelereng-terdiri-dari-kelereng-biruamp-361",
+            "question": "Sebuah kantong berisi 56 kelereng,    terdiri dari kelereng biru&amp;putih,\r\nperbandingan kelereng biru dengan semua kelereng 3:8\r\n\u00a0berapa banyak kelerng biru dalam kantong?\r\n\r\n\r\nPAKAI CARA",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Perbandingan\u00a0 =&gt; 3:8<br>kan totalnya ada 56 kelereng ya, trus perbandingan totalnya itu 8, jadi..<br>= 3/8 x 56<br>(8 sama 56 dicoret)<br>= 3 x 7<br>= 21 kelereng biru<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u></u>3 per 8 . y per 56 = 3.56 = 8.y<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0y=<u>3.56<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a08<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =21<br>jadi kelereng biru ada 21 butir",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-alas-sebuah-balok-54cm-persegi-jika-tinggi-balok-tersebut-333",
+            "question": "Luas alas sebuah\u00a0balok 54cm persegi. jika tinggi balok tersebut 7cm berapa cm kubik volumenya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "378 cm kubik.............................",
+                    "attachments": []
+                },
+                {
+                    "answer": "volume: luas alax x tinggi<br><br>54x7=378 cm kubik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-angka-prima-atau-bilangan-prima-616",
+            "question": "Sebutkan angka prima atau bilangan prima",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Himpunan bilangan prima</p><p>\nbilangan prima adalah bilangan yang hanya memiliki 2 faktor\n</p><p>\nbilangan komposit adalah bilangan asli lebih dari 1 yang memiliki lebih dari 2 faktor\n</p><p>\nhimpunan bilangan prima = { 2, 3, 5, 7, 11, 13, 17, ... }\n</p><p>\n2 adalah bilangan prima karena angka 2 memiliki 2 faktor yaitu 1 dan 2\n</p><p>\n3 adalah bilangan prima karena angka 3 memiliki 2 faktor yaitu 1 dan 3\n</p><p>\n4 adalah bilangan komposit karena angka 4 memiliki lebih dari 2 faktor, yaitu, 1, 2, dan 4</p><p>5 adalah bilangan prima karena angka 5 memiliki 2 faktor yaitu 1 dan 5</p><p>6 adalah bilangan komposit karena angka 6 memiliki lebih dari 2 faktor, yaitu 1, 2, 3 dan 6</p><p>7 adalah bilangan prima karena angka 7 memiliki 2 faktor yaitu 1 dan 7</p><p>8 adalah bilangan komposit karena angka 8 memiliki lebih dari 2 faktor, yaitu 1, 2, 4, dan 8</p><p>untuk mengetahui bilangan prima kurang dari 100 dapat kita cari dengan cara menbuat angka 1 sampai 100</p><p>coret angka 1</p><p>coret angka kelipatan 2 kecuali angka 2</p><p>coret kelipatan 3 kecuali angka 3</p><p>coret kelipatan 5 kecuali angka 5</p><p>coret kelipatan 7 kecuali angka 7</p><p>coret kelipatan 11 kecuali angka 11</p><p>angka yang tdk dicoret adalah angka prima</p><p>bilangan prima positif dapat disimak di</p><p>https://brainly.co.id/tugas/450576</p><p>=============================================================</p><p>Kelas: 7\n</p><p>\nMapel: Matematika\n</p><p>\nKategori: Himpunan\n</p><p>\nKata Kunci: himpunan, anggota, bilangan prima genap\n</p><p>\nKode: 7.2.1</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-24-x-8-37-12-4-adalah-168",
+            "question": "Hasil dari (24 x (-8) + ( 37 - (12 : (-4)) Adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>(24 x (-8) + ( 37 - (12 : (-4) <br>-192\u00a0 \u00a0 \u00a0 \u00a0 + 37 - (-3)<br>-192\u00a0 \u00a0 \u00a0 \u00a0 + 37 + 3<br>-192\u00a0 \u00a0 \u00a0 \u00a0 + 40<br>-152<br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00a0(24 x (-8) + ( 37 - (12 : (-4))<br>= - 1920 + (37 - (-3)<br>= - 1920 + 34<br>= -1520</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bus-malam-melaju-dengan-kecepatan-rata-rata-40-kmjam-bus-647",
+            "question": "Sebuah bus malam melaju dengan kecepatan rata-rata 40 km/jam. Bus tersebut berangkat pukul 17.15 dan tiba di tempat tujuan pukul 04.30 .jarak yang ditempuh bus malam tersebut adalah . . . .    mohon bantuan nya,terima kasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s= v x t . v =40 , t= 11,25 jam . s atau jarak = 40 x 11,25 = 450 km . (dicek ulang ya)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "v =40 km /jam<br>t = 11 jam 15 menit = 11,25 jam<br>s = v \u00d7 t = 40 \u00d7 11,25 =450 km<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Cara mencari persentase tara jika diketahui:\r\nbruto:20kg\r\ntara: 1kg\r\nNetto : 19kg",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "tara = berat kemasan<br>bruto = berat kotor<br>netto = berat bersih atau berat isi<br><br>%tara = tara/bruto x 100% = 1/20 x 100% = 100/20 % = 5%<br><br>Jadi, presentase taranya adalah 5% dari bruto atau berat keseluruhan<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "cara mencari prosentase tara\u00a0<br><br>= tara (dlm kg) / bruto (dlm kg) x 100%<br><br>sehingga penyelesaian soal tersebut\u00a0<br>prosentase tara = 1/20 x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 100/20 %<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 5 %",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "ditentukan-barisan-geometri-128-64-32-16-a-carilah-ras-285",
+            "question": "Ditentukan barisan geometri 128, -64, 32, -16, ...    a. Carilah rasio dan rumus ke-n\r\nb. Suku keberapakah yang nilai nya samaa dengan -1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ditentukan barisan geometri 128, -64, 32, -16, ...<br>a. Carilah rasio dan rumus ke-n<br><span>b. Suku keberapakah yang nilai nya samaa dengan -1?<br>r = u2/u1<br>r = -64/128<br>r = -1/2<br>Un = a x r^n-1\u00a0<br>Un = 128 x (-1/2)^n-1<br></span><span>Un = 128 x (-1/2)^n : (-1/2)<br>Un = -\u00a0256 x (-1/2)^n<br>-1 =\u00a0</span>\n-\u00a0256 x (-1/2)^n<br>(-1/2)^n = -1/-256<br>(-1/2)^n = 1/256<br>n = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tersedia-kawat-dengan-panjang-35-m-jika-kawat-itu-akan-dibuat-k-585",
+            "question": "tersedia kawat dengan panjang 3,5 m. jika kawat itu akan dibuat kerangka kubus dengan panjang rusuk 27,5 cm maka panjang kawat yang tidak terpakai adalah ? \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua rusuk = 12<br>27,5 * 12 = 330 cm = 3,3 meter<br>jadi yang ga terpakai : 3,5 - 3,3 = <strong><u>0,2 m = 20 cm</u></strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3,5m=350 cm<br>kubus memiliki 12 rusuk<br>yg dibutuhkan=12*27,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=330cm<br>yg tdk terpakai=350-330=20cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-tumpukan-dua-buah-kursi-92-cm-dan-tinggi-tumpukan-empat-160",
+            "question": "tinggi tumpukan dua buah kursi 92 cm , dan tinggi tumpukan empat buah kursi 108 cm . jika ada 15 kursi sejenis ditumpuk , maka tingginya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Tinggi tumpukan dua buah kursi</strong> 92 cm, tinggi tumpukan empat buah kursi 108 cm, jika ada 15 kursi sejenis ditumpuk, maka tingginya adalah 196 cm. Soal ini merupakan penerapan materi barisan dan deret aritmatika. <strong>Barisan aritmatika</strong> adalah barisan yang antar dua suku berdekatannya memiliki selisih yang tetap. Untuk menentukan <strong>suku ke n pada barisan aritmatika</strong> adalah\n</p><p>Un = a + (n \u2013 1)b\n</p><p><strong>Rumus jumlah n suku pertama\n</strong></p><p>Sn = n/2 (2a + (n \u2013 1)b)\n</p><p>Sn = n/2 (a + Un)\n</p><p><u>Keterangan</u>\n</p><p>a = suku pertama\n</p><p>b = beda \u21d2 b = U\u2082 \u2013 U\u2081 = U\u2083 \u2013 U\u2082 = ....\n</p><br><h3>Pembahasan\n</h3><br><p><strong>Diketahui\n</strong></p><p>Tinggi tumpukan dua buah kursi 92 cm \u21d2 U\u2082 = 92\n</p><p>Tinggi tumpukan empat buah kursi 108 cm \u21d2 U\u2084 = 108\n</p><br><p><strong>Ditanyakan\n</strong></p><p>tinggi tumpukan 15 kursi (U\u2081\u2085)\n</p><br><p><strong>Jawab\n</strong></p><p>U\u2084 = 108 \u21d2 a + 3b = 108\n</p><p>U\u2082 = 92 \u21d2 \u00a0 <u>a + b = 92 \u00a0 \u00a0 \u00a0</u>\u2013\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2b = 16\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>b = 8\n</strong></p><p><strong>Substitusikan b = 8 ke U\u2082 = 92</strong>\n</p><p>a + b = 92\n</p><p>a + 8 = 92\n</p><p>a = 92 \u2013 8\n</p><p><strong>a = 84\n</strong></p><br><p><u>tinggi tumpukan 15 kursi\n</u></p><p>U\u2081\u2085 = a + 14b\n</p><p>U\u2081\u2085 = 84 + 14(8)\n</p><p>U\u2081\u2085 = 84 + 112\n</p><p><strong>U\u2081\u2085 = = 196\n</strong></p><p>Jadi <strong>tinggi tumpukan 15 kursi adalah 196 cm\n</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang barisan aritmatika\n</p><p>https://brainly.co.id/tugas/1779659\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><br><p><strong>Kata Kunci</strong> : tinggi tumpukan kursi\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jari-jari-sebuah-lingkaran-adalah-10cmtentukan-panjang-busur-lin-723",
+            "question": "Jari-jari sebuah lingkaran adalah 10cm.tentukan panjang busur lingkaran yang memiliki sudut pusat sebagai berikut.    a.30\u00b0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \r\nb.60\u00b0\r\nc.90\u00b0\r\nd.120\u00b0\r\ne.180\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus keliling lingkaran :<br><br>- 2 x\u00a0[tex] \\pi [/tex] x r<br><br>jadi keliling lingkaran dengan jari-jari 10cm adalah :<br><br>= 2 x 3,14 x 10<br>= 62,8 cm<br><br>\u00a062,8 adalah 360\u00b0<br><br>Jadi jawaban nya :<br><br>\u00a0a. 30\u00b0\u00a0<br><br>\u00a0 \u00a0 \u00a0= \u00a030\u00b0/360\u00b0 x 62,8\u00a0cm<br>\u00a0 \u00a0 \u00a0= \u00a05,233 cm<br><br>\u00a0b. 60\u00b0<br><br>\u00a0 \u00a0 \u00a0= \u00a060\u00b0/360\u00b0 x 62,8 cm<br>\u00a0 \u00a0 \u00a0= \u00a010,466 cm<br><br>\u00a0 \u00a0 \u00a0atau<br><br>\u00a0 \u00a0 \u00a0= \u00a05,233 x 2<br>\u00a0 \u00a0 \u00a0= \u00a010,466 cm<br><br>\u00a0c. 90\u00b0 = 5,233 x 3 = 15,699 cm<br><br>\u00a0d. 120\u00b0 = 5,233 x 4 = 20,932 cm<br><br>\u00a0e. 180\u00b0 = 5,233 x 6 = 31,398 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-abc-diketahui-sisi-sisinya-adalah-abdan-c-840",
+            "question": "Pada sebuah segitiga ABC diketahui sisi-sisinya adalah a,b,dan c. daripertanyaan berikut yg benar adalah ...    a. b\u00b2 = a\u00b2 + c\u00b2\r\nb. c\u00b2 = b\u00b2 + a\u00b2\r\nc. c\u00b2 = a\u00b2 + b\u00b2\r\nd. a\u00b2 = b\u00b2 + c\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika C adalah sisi miring. <br>\nMaka jawaban yang benar C. c\u00b2 = a\u00b2 + b\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "C. c pangkat 2= a pangkat 2 + b pangkat 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-model-pesawat-terbang-panjang-sayap-30-cm-dan-panjang-bad-492",
+            "question": "Sebuah model pesawat terbang, panjang sayap 30 cm dan panjang badan 40 cm. Jika panjang sayap sebenarnya 7,5 m ; maka panjang badan pesawat sebenarnya adalah...? BESERTA PENYELESAIANNYA YAA, BIAR GUE NGERTI",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "psm/pss x pbm/pbs <br>30cm/7.5m x 40cm/x <br>pbs sama dengan 10 meter <br>paham ?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-suku-berikutnya-dari-barisan-1235813-adalah-tolong-576",
+            "question": "Dua suku berikutnya dari barisan: 1,2,3,5,8,13,... adalah?\r\n tolong dijawab ya,please... :\"(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dua suku berikutnya dari barisan</strong>: 1, 2, 3, 5, 8, 13, ... adalah 21, 34. Barisan tersebut adalah barisan fibbonanci. <strong>Barisan fibbonanci</strong> adalah barisan yang diperoleh dengan cara menjumlakan bilangan sebelumnya untuk mendapatkan bilangan berikutnya. Contoh untuk mendapatkan suku ke 5 diperoleh dengan menjumlahkan suku ke 4 dan suku ke 3. Untuk lebih jelasnya bisa dilihat di pembahasan</p><br><h3>Pembahasan</h3><h3></h3><p>1, \u00a0 \u00a02, \u00a0 3, \u00a05, \u00a0 8, 13, ...., .....</p><p>U\u2081, U\u2082, U\u2083, U\u2084, U\u2085, U\u2086, U\u2087, U\u2088</p><p>U\u2081 = 1</p><p>U\u2082 = 2</p><p>U\u2083 = U\u2082 + U\u2081 = 2 + 1 = 3</p><p>U\u2084 = U\u2083 + U\u2082 = 3 + 2 = 5</p><p>U\u2085 = U\u2084 + U\u2083 = 5 + 3 = 8</p><p>U\u2086 = U\u2085 + U\u2084 = 8 + 5 = 13</p><p><u>Jadi</u></p><p>U\u2087 = U\u2086 + U\u2085 = 13 + 8 = <strong>21</strong></p><p>U\u2088 = U\u2087 + U\u2086 = 21 + 13 = <strong>34</strong></p><br><p>Barisan utuhnya</p><p>1, 2, 3, 5, 8, 13, <strong>21, 34</strong></p><br><p>Berarti <strong>dua suku berikutnya dari barisan tersebut adalah 21, 34</strong></p><br><h3>Pelajari lebih lanjut \u00a0 </h3><br><p>Contoh soal lain tentang barisan fibbonanci</p><p>https://brainly.co.id/tugas/12222950</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 9</p><p><strong>Mapel</strong> : Matematika</p><p><strong>Kategori</strong> : Barisan dan Deret Bilangan</p><p><strong>Kode</strong> : 9.2.2</p><br><p><strong>Kata Kunci</strong> : Dua suku berikutnya dari barisan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-prosentase-bunga-per-tahun-162",
+            "question": "Cara mencari prosentase bunga per tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h3>Cara mencari prosentase bunga per tahun</h3><h2>Jawaban</h2><h3>Pendahuluan</h3><p>persentase atau perseratus adalah sebuah angka atau perbandingan untuk menyatakan pecahan dari seratus. Persentase sering ditunjukkan dengan simbol \u201c%\u201d untuk menghitung persen.</p><p><u><em><strong>rumus dalam bab prosentase</strong></em></u></p><p>prosentase = bagian/seluruhnya x 100%</p><p>keuntungan dalam Rp = keuntungan dalam prosen x harga</p><p>kerugian dalam Rp = kerugian dalam prosen x harga</p><p>prosentase keuntungan = keuntungan/harga beli x 100%</p><p>prosentase kerugian = kerugian/harga beli x 100%</p><h3>Pembahasan</h3><p>mencari prosentase bunga pertahun\u00a0</p><p>hitung bunga pertahunnya terlebih dahulu</p><p>(bunga selama 1 tahun) / (uang yang ditabung) x 100% = prosentase bunga pertahun</p><h3>Pelajari Lebih Lanjut</h3><p>1) Bentuk persen dari 1/8 adalah dapat disimak di brainly.co.id/tugas/10839736</p><p>2) Cara mencari persentase tara jika diketahui:</p><p>bruto:20kg</p><p>tara: 1kg</p><p>Netto : 19kg dapat disimak di brainly.co.id/tugas/34416</p><p>3) Cara mencari prosentase bunga per tahun dapat disimak di brainly.co.id/tugas/44473</p><h3>=============================================</h3><h2>Detail Jawaban</h2><h3>kelas : 7</h3><h3>mapel : matematika</h3><h3>kategori : aritmatika sosial</h3><h3>kata kunci : prosentase</h3><h3>kode : 7.2.5</h3><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-115",
+            "question": "1/2x + 5 &gt; 15 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x+5&gt; 15<br>dikali 2<br>2/2x+5&gt;15<br>x+5&gt;15<br>x&gt;15-5<br>x&gt;10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x + &gt; 15<br>1/2x\u00a0 \u00a0 &gt; 15 - 5<br>1/2x\u00a0 \u00a0  &gt; 10<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 10 - 0,5<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 9,5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-suku-deret-aritmetika-1218-suku-pertamanya-8-dan-bed-815",
+            "question": "jumlah suku deret aritmetika = 1218, suku pertamanya = 8, dan beda = 5. hitunglah banyak suku dalam deret tsb. pake caranya dong tolong:(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 1218<br>U1 = a = 8<br>b = 5<br><br>Sn = n/2(2a + (n-1)b)<br>1218 = n/2(2.8 + (n-1).5)<br>1218 = n/2(16 + 5n - 5)<br>2436 = n(11 + 5n)<br>2436 = 11n + 5n^2<br>5n^2 + 11n - 2436 = 0<br>(5n\u00a0 + 116)(n - 21) = 0<br>5n + 116 = 0 v n -21 = 0<br>5n = -166 ...bukan<br><br>n - 21 = 0<br>n = 21<br><br>jadi banyaknya suku ada 21<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

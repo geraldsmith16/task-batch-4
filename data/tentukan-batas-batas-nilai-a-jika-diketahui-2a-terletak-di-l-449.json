@@ -1,0 +1,134 @@
+{
+    "question": "tentukan batas-batas nilai a, jika diketahui (-2,a) terletak di luar lingkaran dengan persamaan lingkaran (x+2)^2 + (y+4)^2=10",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "titik (-2, a)<br>persamaan lingk : (x - 1)\u00b2 + (y + 4)\u00b2 = 10<br>(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br>a &gt; -3\u00a0 atau a &lt; -5<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "(x - 1)\u00b2 + (y + 4)\u00b2 &gt; 10<br>(-2 - 1)\u00b2 + (a + 4)\u00b2 - 10 &gt; 0<br>9 + a\u00b2 + 8a + 16 - 10 &gt; 0<br>a\u00b2 + 8a + 15 &gt; 0<br>(a + 3)(a + 5) &gt; 0<br><span>a &gt; -3\u00a0 atau a &lt; -5</span><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-hitung-nilai-p-sukubanyak-fx-x5p-2-566",
+            "question": "tolong beri jawabannya, hitung nilai p ,sukubanyak f(x)= x^5+(p-2)x pngt4+3px pngt3-x pngt2+2x+4 dibagi dgn x+1 menghasilkan sisa -10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "y = x^5 + (p-2)x^4 + 3px^3 - x^2 + 2x + 4 dibagi dengan (x+1) menghasilkan sisa -10. Nilai p ?<br><br>(x+1) artinya nilai x = -1<br><br>x = -1 , (nilai x dimasukkan kedalam persamaan y)<br>(-1)^5 + (p-2)(-1)^4 + 3(-1)^3 - (-1)^2 + 2(-1) + 4 = 0<br>-1 + (p-2)(1) + 3(-1) - 1 - 2 + 4 = 0<br>-1 + p - 2 - 3 +\u00a01 = 0<br>p - 5 = 0<br>p = 5<br><br>y = x^5 + 3x^4 + 15x^3 - x^2 + 2x + 4 dibagi (x+1) sisa -10<br><br>untuk percobaan agar menghasilkan sisa -10, silahkan dibagikan dengan x=-1 :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]f(x) =  x^{5} + (p-2)  x^{4}  + 3p x^{3} -  x^{2} +2x +4[/tex]<br><br>karena dibagi (x+1) = -10 maka<br><br>[tex]f(-1) = -10 \\\\ -10 = (-1)^{5} + (p-2)(-1)^{4} + 3p(-1)^{3} - (-1)^{2} + 2(-1) + 4 \\\\ -10 = -1 +(p-2) - 3p -1 -2 +4 \\\\ -8 = -2p \\\\ p = 4[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-x-23-0-lt-x-lt-90-hitunglah-nilai-cotan-90-973",
+            "question": "Jika sin x = 2\\3 ( 0 &lt; x &lt; 90 ), hitunglah nilai cotan ( 90 - x ).\r\nlampirkan penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin = depan per miring\u00a0<br>sin x = 2 per 3<br><br>samping = akar 5<br><br>cotg = depan per samping<br>cotg = 2 per akar 5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-luas-permukaan-prisma-segitiga-567",
+            "question": "Rumus luas permukaan prisma segitiga?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumusnya adalah Lp = (Luas alas segitiga x 2) + (keliling alas segitiga x tinggi prisma) *NB: - rumus luas alas segitiga = 1/2 x alas x tinggi. - keliling alas segitiga = sisi + sisi + sisi. Contoh: Sebuah prisma dengan alas segitiga 3cm dan tinggi segitiga 4cm. Hitung sisi miring alas segitiga dan Hitung luas permukaan jika tinggi prisma 10 cm! Jawab: Sisi miring alas segitiganya adalah 5cm (didapat dri phytagoras 3cm dan 4cm) Lp = (luas alas x 2) + (keliling alas x tinggi prisma) = ((1/2 x 3cm x 4 cm) 2) + (3cm + 4cm + 5cm) x 10cm) = (6 x 2) + (12 x 10cm) = 12 + 120cm = 132cm. Jadi jawabannya adalah 132cm. Semoga membantu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penjumlahan-dan-pengurangan-pecahan-untuk-kelas-5-dan-contoh-356",
+            "question": "Cara penjumlahan dan pengurangan pecahan untuk kelas 5 dan contoh soal~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 1/2 + 1/4 = ...<br>\u00a0 \u00a0 Penyebutnya (yg bawah) disamakan terlebih dahulu dgn menyamakan KPK-nya.<br>\u00a0 \u00a0 --&gt; 2/4 + 1/4 = 3/4<br>1/2 dijadikan pecahan dengan penyebut 4 karena KPK dari penyebutnya adalah 4<br><br>2) 5/4 - 3/4 = ...<br>\u00a0 \u00a0 Karena penyebut sudah sama, maka langsung dikurangi saja.<br>\u00a0 \u00a0 2/4 atau bisa disederhanakan --&gt; 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-p-salah-dan-q-benar-tentukan-nilai-kebenaran-dari-pertanyaa-676",
+            "question": "Jika p salah dan q benar, tentukan nilai kebenaran dari pertanyaan berikut!\u00a0    a. p ^ q\r\nb. ( ~p ^ ~p ) ^ q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Logika Matematika<br>Kata Kunci : konjungsi, negasi<br><br>Pembahasan :<br>P \u00a0 Q \u00a0 \u00a0 P \u2227 Q<br>B \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 B<br>B \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 B \u00a0 \u00a0 \u00a0 \u00a0 S<br>S \u00a0 S \u00a0 \u00a0 \u00a0 \u00a0 S<br><br>P \u00a0 \u00acP \u00a0 \u00a0\u00a0\u00acP\u00a0\u2227\u00a0\u00acP \u00a0 Q \u00a0 (\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>B \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B<br>S \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B \u00a0 \u00a0 \u00a0 \u00a0S \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0S<br><br>Jadi, P salah dan Q benar berdasarkan tabel kebenaran di atas, diperoleh<br>P\u00a0\u2227 Q salah dan<br>(\u00acP\u00a0\u2227\u00a0\u00acP)\u00a0\u2227 Q benar.<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-deret-aritmatika-dengan-un-adalah-suku-ke-n-ji-683",
+            "question": "diketahui barisan deret aritmatika dengan Un adalah suku ke-n. jika U2 + U15 + U40 = 165 makan U19 =.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan deret aritmatika dengan Un adalah suku ke-n. Jika U2 + U15 + U40 = 165 maka U19 = <strong>55</strong>.</p><p></p><h3><strong>P</strong>embahasan</h3><p><u>Diketahui</u>:</p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = 165</p><p></p><p><u>Ditanya</u>:</p><p>U\u2081\u2089 = .....?</p><p></p><p><u>Jawab</u>:</p><p>Dalam mencari suku ke-n pada deret aritmatika dengan suku pertama a dan beda b berlaku persamaan berikut:</p><h3> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2099 = a + (n - 1) b</h3><h3></h3><p>maka dari soal di atas, suku-suku yang telah diketahui dapat diuraikan sebagai berikut:</p><p>U\u2082 \u21d2 n = 2 \u21d2 U\u2082 = a + (2 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2082 = a + b</p><p>U\u2081\u2085 \u21d2 n = 15 \u21d2 U\u2081\u2085 = a + (15 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2085 = a + 14b</p><p>U\u2084\u2080 \u21d2 n = 40 \u21d2 U\u2084\u2080 = a + (40 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2084\u2080 = a + 39b</p><p></p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = (a + b) + (a + 14b) + (a + 39b)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 165 = 3a + 54b \u00a0</p><p>disederhanakan dengan membagi kedua ruas dengan tiga</p><p>{ 3a + 54b = 165 } : 3</p><p>a + 18b = 55</p><p></p><p>U\u2081\u2089 \u21d2 n = 19 \u21d2 U\u2081\u2089 = a + (19 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2089 = a + 18b</p><p>Sehingga nilai U\u2081\u2089 = 55.</p><p></p><p>Semoga dapat membantu. Selamat belajar!</p><p></p><h3>Pelajari lebih lanjut</h3><p>1. Materi tentang Deret Aritmatika https://brainly.co.id/tugas/9607287</p><p>2. Materi tentang Contoh Soal Deret Aritmatika https://brainly.co.id/tugas/23271525, https://brainly.co.id/tugas/15798077</p><p>----------------------------</p><h3>Detil Jawaban</h3><p>Kelas : IX SMP</p><p>Mapel : Matematika</p><p>Bab : Barisan dan Deret Bilangan</p><p>Kode kategori : 9.2.2\t</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "fungsi-f-ditentukan-oleh-fx-4x-32x1-x-12-jika-inver-811",
+            "question": "fungsi f ditentukan oleh f(x) = 4x-3/2x+1, x \u2260 -1/2. jika invers dari f(x) dituliskan f pngkt min 1(x), maka f pngkat min 1 (x+1) adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]f(x) =  \\frac{4x - 3}{2x + 1} [/tex]<br>[tex]f^{-1}(x) = \\frac{-x - 3}{2x - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{-(x +1) - 3}{2(x +1) - 4} [/tex]<br>[tex]f^{-1}(x+1) = \\frac{- x -4}{2x - 2} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

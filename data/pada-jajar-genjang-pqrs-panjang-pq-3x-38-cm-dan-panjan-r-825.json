@@ -1,0 +1,146 @@
+{
+    "question": "Pada Jajar Genjang PQRS, panjang PQ = ( 3x - 38 ) cm dan panjan RS = ( x + 9 ) cm. Panjang sisi PQ sama dengan... kasih tau sekalian caranya ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "karna sisi PQ dan RS berhadapan, maka sisinya sma panjang<br>PQ=RS<br>3x-5=x+9<br>3x-x=9+5<br>2x=14<br>x=7<br><br>panjang PQ<br>=3x-5<br>=3(7)-5<br>=21-5<br>=16cm",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Pada Jajar Genjang PQRS, panjang PQ = ( 3x - 5 ) cm dan panjan RS = ( x + 9 ) cm.\u00a0<br><br>panjang RS=PQ<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x+9=3x-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2x=-9-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0</span>[tex] \\frac{-14}{-2x} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x= 7<br><br>Panjang PQ =3x-5 = (3 x 7)-5 = 21-5 =16",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-taman-berbentuk-lingkaran-dengan-diameter-42m-sekeliling-718",
+            "question": "Sebuah taman berbentuk lingkaran dengan diameter 42m. Sekeliling taman itu setiap 3m ditanami palem. Banyak palem yang dapat ditanam adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Keliling taman = \u03c0d = 22/7 * 42 = 132 m <br>\nBanyaknya palem = 132 \u00f7 3 = 44 palem <br><br>\nSemoga Membantu^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berbentuk-lingkaran-ketika-berputar-100-kali-benda-896",
+            "question": "Sebuah benda berbentuk lingkaran. Ketika berputar 100 kali, benda tersebut dapat menempuh jarak 176 cm. Hitunglah : a. Diameter benda dengan pi=3,14 b. Luas permukaan benda",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. K = \u03c0d<br>176 = 100K<br>176 = 100(3,14d)<br>176 = 314d<br>d = 176/314 = 0,56<br><br>r = 1/2 d = 0.28<br><br>L = \u03c0r\u00b2<br><br>= 3,14(0.28)\u00b2<br>=3,14 x 0,0784<br>=0,246176<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-segitiga-12-cm-dan-tingginya-10-cm-luas-segitiga-ter-355",
+            "question": "Alas sebuah segitiga 12 cm dan tingginya 10 cm. luas segitiga tersebut adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luasnya segitiga<br>\u00a060cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "L Segitiga = 1/2 a . t<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1/2.12cm.10cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6cm.10cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  60cm\u00b2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-kedua-dan-suku-keenam-suatu-deret-geometri-dengan-155",
+            "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-ad-8cm-panjang-jari-jari-bc-3cm-dan-jarak-ab-792",
+            "question": "panjang jari jari AD= 8cm panjang jari jari BC= 3cm dan jarak AB= 13 cm. luas trapesium ABCD adalah...cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AD = 8 cm<br>BC = 3 cm<br>AB = 13 cm<br><br>gambar ada pada lampiran<br><br>CD\u00b2 = AB\u00b2 - (AD - BC)\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 = 13\u00b2 - (8 - 3)\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0  = 169 - 25<br>\u00a0\u00a0 \u00a0 \u00a0 = 144<br>\u00a0CD = \u221a144<br>\u00a0CD = 12 cm<br><br>Luas ABCD = 1/2 \u00d7 (AB + BC) \u00d7 CD<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 1/2 \u00d7 (8 + 3) cm \u00d7 12 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 11 \u00d7 6 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 66 cm\u00b2",
+                    "attachments": [
+                        "answer-attachments/panjang-jari-jari-ad-8cm-panjang-jari-jari-bc-3cm-dan-jarak-ab-792-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pagar-tanaman-di-halaman-pak-roni-tingginya-98-cmpak-roni-memang-207",
+            "question": "pagar tanaman di halaman pak roni tingginya 98 cm.pak roni memangkas pagar tersebut sehingga tingginya berkurang 2 dm.setelah se bulan,tinggi pagar tanaman tersebut bertambah 90mm.tinggi pagar tanaman di halaman pak roni sekarang berapa cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "98 cm = 98 cm<br>2 dm = 20 cm<br>90 mm = 9 cm<br>so, (98-20) + 8<br><br>Bener kan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span></span>tinggi=98 cm<br>dipangkas=2dm <u></u>dikali 10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =20 cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  98cm - 20 cm=78 cm<br>bertambah 1 bulan=90 mm/10 =9 cm<br>jadi,78+9=87 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-air-berbentuk-tabung-yang-panjang-jari-jarinya-35-cm-d-422",
+            "question": "Sebuah bak air berbentuk tabung yang panjang jari-jarinya 35 cm dan tinggi 1,5 m, terisi penuh. Setelah air dalam bak terpakai untuk mandi dan mencuci sebanyak 308 liter, tinggi air yang tersisa di dalam bak adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sebuah\u00a0bak<span>\u00a0air berbentuk tabung yang panjang jari-jarinya 35 cm dan\u00a0</span>tinggi<span>\u00a01,5 m, terisi penuh. Setelah air dalam bak terpakai untuk\u00a0</span>mandi<span>\u00a0dan mencuci sebanyak 308 liter, tinggi air yang tersisa di dalam bak adalah ....<br><br>V = 22/7 X 3,5 X 3,5 X 15<br>\u00a0 \u00a0 577,5<br>sisa = 577,5 - 308<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0269,5 Liter<br><br>269.5 = 22/7 X 3,5 X 3,5 X t<br>269,5 = \u00a038,5 X t<br>t = 269,5 / 28,5<br>\u00a0 \u00a0 \u00a0<br><br>caranya kaya gitu<br>klo jawabannya ga tau</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dari soal diatas, diketahui bentuk bak adalah tabung.<br><br>V = l x t<br>\u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x r\u00b2 x t<br>\u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x 35 cm x 35 cm x 150 cm<br>\u00a0 \u00a0= 577.500 cm\u00b3<br>\u00a0 \u00a0= 577,5 l<br><br>577,5 l - 308 l = 269,5 l",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-1-kg-jeruk-rp-4000-lebih-mahal-dari-dua-kali-harga-1kg-sala-985",
+            "question": "harga 1 kg jeruk rp 4000 lebih mahal dari dua kali harga 1kg salak.harga 1kg jeruk rp 18000 .harga 1 kg salak?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jeruk 18000-4000= 14000 \ndibagi 2 jadi 7000,  jadi 1kg salak itu 7000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573",
+            "question": "Hitunglah Keliling dan luas bangun yang diarsir pada gambar itu ?",
+            "attachments": [
+                "question-attachments/hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "pake rumus juring aja lebih gampang<br><br>45 per 360 * luas lingkarannya<br><br>luasnya tadi udah dicari, hasilnya 379,94<br><br>45 per 360 * 379,94 = 47,49 (ini luas yang engga diarsir + yang di arsir)<br><br>sekarang kita cari luas yang ga di arsir dulu.<br>45 per 360 * 113,04 = 14,13<br><br>kurangin.. 47,49 - 14,13 = 33,36 (luas yang di arsir)<br>__________________________________________________<br>keliling = phi*2r<br>tapi berhubung itu bukan lingkaran utuh, maka harus dicari panjang busur dulu<br><br>45 per 360 * keliling<br>= 45 per 360 * 69,08<br>= 8,6<br><br>tinggal di jumlah... 5 + 5 + 8,6 = 18,6 (keliling yang di arsir)<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-paling-sederhana-yang-ekivalen-dengan-persamaan-x-28-x-183",
+            "question": "Persamaan paling sederhana yang ekivalen dengan persamaan x-2=8-x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x -2 = 8-x<br>x + x = 8 + 2<br>2x = 10<br>x = 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Persamaan<br>x-2=8-x<br>x + x = 8 + 2<br>2 x = 10<br>\u00a0 \u00a0x = 5</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

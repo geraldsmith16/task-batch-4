@@ -1,0 +1,136 @@
+{
+    "question": "Tiga bilangan genap berurutan berjumlah 78.Jumlah bilangan terbesar dan terkecil adalah....    A.26\r\nB.34\r\nC.52\r\nD.54",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "misal bil genap br urutan tsb adl a, (a+2), (a+4)<br>jml 3 bil gnap brurutan adl 78<br>a+(a+2)+(a+4)=78<br>a+a+a+2+4=78<br>3a+6=78<br>3a=78-6<br>3a=72<br>a=24<br>jml 3 bil gnap berurutan= 24,26,28<br>bil terbsar trkecil= 24+28=52<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-suatu-lingkaran-616-cm2-dan-sebuah-juring-pada-lingkaran-tsb-184",
+            "question": "Luas suatu lingkaran 616 cm2 dan sebuah juring pada lingkaran tsb luasnya 77 cm2. maka besar sudut pusatnya adalah    a. 45\u00b0\r\n b. 60\u00b0 \r\n c. 72\u00b0\r\n d. 90\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. 45\u00b0</span> <br>karena <u>45</u>/360 X 616 = 1/8 X 616 = 77 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jari-jari-lingkaran-p-6-cm-jari-jari-lingkaran-keci-125",
+            "question": "diketahui jari-jari lingkaran P = 6 cm , jari-jari lingkaran kecil Q = 3 cm , dan panjang garis singgung persekutuan dalam kedua lingkaran 12 cm . jarak titik pusat lingkaran P dan Q adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>s2=(r1+r2)2+gd2</span>\n\n<span>s2=(6+3)2+122</span>\n\n<span>s2=92+122</span>\n\n<span>s2=81+144</span>\n\n<span>s2=225</span>\n\ns=15 cm.\n\n<span>Jadi jarak pusat kedua lingkaran adalah 15 cm. (angka 2\nartinya kuadrat yah.. J)</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "adi-sedang-berlatih-naik-mobil-pada-lintasan-berbentuk-lingkaran-152",
+            "question": "Adi sedang berlatih naik mobil pada lintasan berbentuk lingkaran dengan jari jari 28 meter , tentukan jarak yang ditempuh adi untuk :    a. 1 kali putaran\r\n b. 2 kali putaran \r\n c. 2 1/2 putaran\r\n d. 5 putaran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1.KO = 2\u03c0r<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 2 . 22/7 . 28<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 176 meter<br>2. \u00a02 KO = 2 x 176 =\u00a0352 meter<br>3. \u00a02 1/2 KO = 2 1/2 x 176 =\u00a0440 meter<br>4. \u00a0 5 KO = 5 x 176 = 880 meter",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>k = 2 \u00d7\u00a0  \u00d7 28 <br>\u00a0 = 2 \u00d788 <br>\u00a0 = 176 m<br>a. 1 putraran = 1 \u00d7 176 m = 176 m<br>b. 2 putaran = 2 \u00d7 176 m =\u00a0 352 m<br>c\u00a0 2 1/2 putaran =  \u00d7 176 = 88 m<br>d. 5 putaran = 5 \u00d7 176 = 880 m <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-suku-ke-n-dari-barisan-24816-adalah-dengan-caranya-ya-173",
+            "question": "Rumus suku ke-n dari barisan 2,4,8,16 adalah ?dengan caranya ya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas : IX SMP<br>mapel : matematika<br>kategori : baris dan deret<br>kata kunci : baris geometri<br><br>kode : 9.2.6 [matematika SMP kelas 9 Bab 6 baris dan deret]<br><br>Pembahasan:<br><br>soal :<br>Rumus suku ke-n dari barisan bilangan 2,4,8,16,...<br>adalah...........<br><br>diketahui:<br>suku pertama (a) = 2<br>rasio (r) = suku kedua / suku pertama<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 4/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2<br><br>rumus umum suku ke-n barisan geometri<br>Un = a.r^(n-1)<br>Un = 2.2^(n-1)<br>\u00a0 \u00a0 \u00a0 = 2.2^n.2^(-1)<br>\u00a0 \u00a0 \u00a0 = 2^n<br><br>keterangan tanda:<br>^ = pangkat<br><br><br><br><br>selamat belajar<br>salam indonesia cerdas<br><span>bana</span><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-suatu-deret-aritmatika-suku-ke-5-29-dan-suku-ke-7-41-su-131",
+            "question": "Pada suatu deret aritmatika suku ke 5 = 29 dan suku ke 7 = 41. suku pertama dan beda dari deret tersebut berturut-turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku petama samadengan 5.dan beda sama dengan 6<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U5=29<br>U7=41<br>41=a+6b<br>29=a+4b<br>12=2b<br>\u00a0b=12/2=6<br>\u00a0a+6b=41<br>a+4b=29<br>4a+24b=164<br>6a+24b=174<br>-2a \u00a0 \u00a0 \u00a0 =-10<br>\u00a0 \u00a0 \u00a0 a \u00a0=-10/-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =5<br>suku pertama=5<br>beda barisan=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788",
+            "question": "1. lingkaran pd gambar tersebut mempunyai jari-jari 10 cm dan besar sudut pusat AOB= 72\u00b0. untuk\u00a0 = 3,14 berapakah panjang busur kecil AB?    2. pada gambar tersebut titik O adalah pusat lingkaran. jika besar &lt;AOB = 60\u00b0 panjang busur AB = 20 cm dan panjang busur CD = 15 cm hitunglah:\r\na. besar &lt;COD\r\nb. keliling lingkaran\r\n\r\n3. pada gambar tersebut &lt;AOB = 120\u00b0 dan &lt;COD = 30\u00b0 jika panjang busur AB = 44 cm tentukan panjang busur CD!",
+            "attachments": [
+                "question-attachments/1-lingkaran-pd-gambar-tersebut-mempunyai-jari-jari-10-cm-dan-bes-788-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "aaa. PB =<u>\u00a0 a\u00a0  </u>\u00d7 \u03c0 \u00d7 d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>PB =\u00a0<u> 72\u00a0</u> \u00d7 3,14 \u00d7 20<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 360<br>PB = 12,56 cm<br><br>b. <u>sudut AOB</u> = <u>PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD\u00a0 \u00a0 PBusur CD<br><br><u>60</u> = <u>20</u><br>\u00a0x\u00a0 \u00a0  15<br>20x = 900<br>x = 45\u00b0<br><br>Panjang busur AB = <u>sudut AOB </u>\u00d7 \u03c0 \u00d7d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 360<br>20 =<u>\u00a0 60\u00a0 </u>\u00d7 3,14 \u00d7 d<br>\u00a0 \u00a0 \u00a0\u00a0 360 <br>7200 = 188,4 \u00d7 d<br>d = 38,2<br><br>k = \u03c0 \u00d7 d<br>k = 3,14 \u00d7 38,2<br>k = 119,9 cm atau 120 cm<br><br>c. <u>sudut AOB</u>\u00a0 =<u>\u00a0 PBusur AB</u><br>\u00a0\u00a0\u00a0 sudut COD \u00a0 \u00a0\u00a0 PBusur CD<br><br><u>120</u>\u00a0 =<u>\u00a0 44</u><br>30\u00a0 \u00a0 \u00a0 \u00a0 x<br><br>120x = 30 \u00d7 44<br>x = 11cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-faktor-dari-x2-1-696",
+            "question": "Berapa faktor dari x\u00b2 - 1 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktornya yaitu (x+1)(x-1)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-625-125-25-5-tentukan-rasio-dan-u7-806",
+            "question": "Diketahui deret 625-125-25-5+\r\nTentukan Rasio dan U7 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu serius kurang-kurangan? kok akhirnya jadi tambah?<br>r = 625/-125 =-5<br>U7 = 625.(-5)^5 = -1953125<br>maaf kalau salah, saya kurang memahami soal<br>\u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-diketahui-bahwa-abc-dan-def-adalah-bilangan-3-angka-543",
+            "question": "Tolong yaa:)    Diketahui bahwa abc dan def adalah bilangan 3 angka (digit) sehingga abc+def = 1000. jika a,b,c,d,e, dan f tidak satupun yang sama denga 0, maka nilai a+b+c+d adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "abc=876<br>def=124<br>abc+def= 1000<br>\u00a0jdi a+b+c+d=8+7+6+1=22<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "abc=560<br>def=440<br>abc+def=1000<br>a=10<br>b=14<br>c=4<br>d=5<br>e=11<br>f=8<br>maka a+b+c+d=33",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-panjang-op28cm-dan-busur-lingkaran-pq176hitung-luas-586",
+            "question": "Diketahui panjang OP=28cm dan busur lingkaran PQ=17,6.Hitung luas juring POQ",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>[tex]K = 2  \\pi r\n \\\\ K = 2~x~(22/7)~x~28~cm\n \\\\ K = 176~cm\n \\\\ \n \\\\ L =  \\pi r^2\n \\\\ L = (22/7)~x~(28~cm)^2\n \\\\ L = 2464~cm^2[/tex]<span><br><br><span>[tex]Cari~sudut~POQ[/tex]<br><span>\u2220\u00a0[tex]POQ~/\\angle~1~lingkaran = panjang~PQ~/~keliling~lingkaran[/tex]<br></span><span>\u2220\u00a0[tex]POQ~/~360^\\circ = 17,6~/~176 [/tex]<br></span><span><span>\u2220\u00a0[tex]POQ = (17,6~/~176 )~x~360^\\circ[/tex]<br>\u2220\u00a0[tex]POQ = 36^\\circ[/tex]<br></span><br></span></span></span></span>[tex]Luas~Juring~POQ~/~luas~lingkaran = \\angle POQ~/ \\angle~1~lingkaran[/tex]<br><span>[tex]Luas~Juring~POQ~/~2464~cm^2 = 36^\\circ~/~360^\\circ[/tex]<br></span><span>[tex]Luas~Juring~POQ = 0,1~x~2464~cm^2[/tex]<br></span>[tex]Luas~Juring~POQ = 246,4~cm^2[/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

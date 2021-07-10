@@ -1,0 +1,142 @@
+{
+    "question": "Es bermassa X gram pada suhu - 10\u00b0C dicampur dengan Y gram air bersuhu 60\u00b0C. Jika suhu akhir yang dicapai 20\u00b0C, kalor lebur es 80kal/g, dan kalor jenis es 0,5 kal/g\u00b0C, nilai perbandingan X per Y adalah....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Q TOTAL ES = Q total AIR (tau kan grafik es jadi air ?) <br>Q1 + QL + Q2 = Q3 <br>m1 . c(es) . \u0394T + m1 . Lf + m1 . c(air) . \u0394T\u00a0 = m2 . c(air) .\u0394T\u00a0 <br>X ( 0.5 . 10 + 80 + 20 ) = Y . 40 ( x dikeluarkan agar mudah itungnya)<br>X/Y = 40/105 = 8/21 <br>kalau bingung tanya aja ya <br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kipas-berputar-sebanyak-20-putaran-per-menit-jika-ujung-k-900",
+            "question": "Sebuah kipas berputar sebanyak 20 putaran per menit. Jika ujung kipas berada 20 cm dari sumbu putranya, kecepatan tangensial ujung kipas adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Step-1 konversi satuan putaran/menit menjadi rad/s</strong><br><br><strong>1 putaran\u00a0= 2\u03c0 radian</strong><br><br>\u21d4 \u03c9 = 20 putaran/menit<br>\u21d4 \u03c9 = 20 x 2\u03c0/60 rad/s<br>\u21d4 \u03c9 = 2\u03c0/3 rad/s<br><br><strong>Step-2 menghitung kecepatan tangensial</strong><br><br>jari-jari r = 20 cm = 0,2 m<br><br><strong>\u21d4 v = \u03c9 x r</strong><br>\u21d4 v = [2\u03c0/3] x [0,2]<br>\u21d4 v = 2\u03c0/15 m/s<br><br><strong>\u2234 kecepatan tangensial adalah 2\u03c0/15 m/s</strong><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kapal-laut-dapat-mengapung-di-permukaan-air-karena-243",
+            "question": "Kapal laut dapat mengapung di permukaan air karena",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>kapal laut dapat mengapung di permukaan air karena pada kapal laut terdapat rongga yang berisi udara sehingga dapat terangkat keatas/mengapung. hal ini juga dipengaruhi oleh gaya archimedes/ gaya angkat keatas.</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267",
+            "question": "Dari puncak sebuah menara setinggi 45m dijatuhkan sebuah batu. Jika percepatan gravitasi di tempat tersebut 10 m/s, kecepatan batu saat tepat menyentuh tanah sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Kecepatan batu saat tepat menyentuh tanah sebesar <strong>30 m/s</strong></p><p><strong></strong></p><h3>PEMBAHASAN</h3><p><u>Diketahui:</u></p><p>kecepatan awal batu = vo = 0 m/s</p><p>ketinggian batu = h = 45 m</p><p>percepatan gravitasi = g = 10 m/s\u00b2</p><p><u>Ditanyakan:</u></p><p>kecepatan akhir batu = v = ?</p><p><u>Penyelesaian:</u></p><p>Untuk menyelesaikan soal ini kita akan menggunakan rumus <strong>GLBB</strong> sebagai berikut ini:</p><p>[tex]v^2 = (v_o)^2 + 2 g h[/tex]</p><p>[tex]v^2 = 0^2 + 2 g h[/tex]</p><p>[tex]v^2 = 2 g h[/tex]</p><p>[tex]v = \\sqrt{ 2 g h }[/tex]</p><p>[tex]v = \\sqrt{ 2 \\times 10 \\times 45 }[/tex]</p><p>[tex]v = \\sqrt{ 900 }[/tex]</p><p>[tex]v = 30 \\texttt{ m/s}[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Percepatan</strong> : https://brainly.co.id/tugas/18400185</p><p><strong>Daya Gerak</strong> : https://brainly.co.id/tugas/17121561</p><p></p><p>------------------------</p><h3>Detil Jawaban :</h3><p><strong>Kelas</strong>: 8</p><p><strong>Mapel</strong>: Fisika</p><p><strong>Bab</strong>: Gerak</p><p><strong>Kode</strong>: 8.6.1</p><p></p><p><strong>Kata Kunci</strong>: Gaya, Gerak, Jarak, Percepatan, Grafik, Menyusul</p>",
+                    "attachments": [
+                        "answer-attachments/dari-puncak-sebuah-menara-setinggi-45m-dijatuhkan-sebuah-batu-ji-267-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-dengan-ukuran-02-m-x-01-m-x-03-m-digantung-vertik-741",
+            "question": "Sebuah balok dengan ukuran 0,2 m x 0,1 m x 0,3 m digantung vertikal dari seutas kawat ringan. tentukan gaya apung pada balok itu :    a. di celupkan seluruhnya dalam minyak \r\n\r\n ( \u03c1 = 800 kg/m3)\r\nb. dicelupkan 3/4 bagian dalam air (\u03c1 = 1000 kg/m3)\r\nc. dicelupkan 1/3 bagian dalam raksa (\u03c1 = 13600 kg/m3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V balok seluruhnya = 0,2m. 0,1m. 0,3m = 0.006 m\u00b3<br>3/4 V balok = 3. 0.006 /4 = 0.0045 m\u00b3<br>1/3 V balok = 0.06 / 3 = 0.002 m\u00b3<br>a. p minyak = 800kg/m\u00b3<br>\u00a0\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 800. 10. 0.006<br>\u00a0\u00a0 \u00a0 =\u00a0 48 N<br><br>b. p air = 1000 kg/m\u00b3 <br>\u00a0\u00a0  F= p. g. V<br>\u00a0\u00a0 \u00a0 = 1000. 10. 0.0045<br>\u00a0\u00a0 \u00a0 = 45 N<br><br>c. p raksa =13600kg/m\u00b3<br>\u00a0 F= p. g. V<br>\u00a0\u00a0 \u00a0 = 13600. 10. 0.002<br>\u00a0\u00a0 \u00a0 = 272 N<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667",
+            "question": "Hitunglah laju aliran volume air dalam pipa yang berjari-jari 5 cm dengan laju 10 cm/det ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Mekanika Fluida<br>Kelas : 2 SMA/XI SMA<br>Pembahasan :<br>Jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667-1.png"
+                    ]
+                },
+                {
+                    "answer": "Dik:<br>r = 5 cm --&gt; 0,05 m<br>v = 10 cm/s --&gt; 0,1 m/s<br>Dit:<br>Q = ...?<br>Jawab:<br>Q = A v<br>= \u03c0r\u00b2 . 0,1<br>= 3,14 (0,05)\u00b2 . 0,1<br>= 0,000785m\u00b3/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820",
+            "question": "Dua piringan berjari jari sama memiliki massa masing\u00a0- masing: mA=0,8 kg dan mB=1,6 kg. Pada awalnya kedua piringan berputar dengan kecepatan sudut\u00a0\u03c9A = 32 rpm dan \u03c9B = 8 rpm. Jika kedua piringan digabungkan sepusat maka, Tentukan kecepatan sudutnya setelah digabung?    dibawah ini contoh dan carakerjanya!",
+            "attachments": [
+                "question-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jangan lupa divote terbaik ya!\u00a0",
+                    "attachments": [
+                        "answer-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ban-sepeda-memiliki-volume-12-x-10-3-m3-jika-diisi-penuh-769",
+            "question": "Sebuah ban sepeda memiliki volume 1,2 x 10-3    m3 jika diisi penuh. Silinder sebuah pompa sepeda memiliki volum\r\n kerja 9 x 10-5 m3. Berapa kali anda harus menekan pompa\r\n untuk mengisi ban sepeda dalam pompa untuk mengisi ban sepeda dalam keadaan\r\n kosong (sama sekali tidak ada udara dalam ban) sampai tekanan udara dalam ban\r\n menjadi\u00a0 3,0 x 105 Pa?\u00a0 tekanan atmosfer 1,0 x 105 Pa dan\r\n dianggap udara dipompa secara perlahan sehinggga suhunya tidak berubah.\r\ntolong dibantu yah sob.. :) \"jawabnya yg bnar/jgn ngasal dan pke cara\"",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>P = Po + n(v/V)\u00a0<br><br>3.0 * 10^5 = 10^5 + n(9 * 10^-5/(1.2 * 10^-3))\u00a0<br><br>n = 2.66667 * 10^6 kali\u00a0<br><br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-pegas-tergantung-beban-yaang-massanya-1kg-pegas-ters-566",
+            "question": "pada sebuah pegas tergantung beban yaang massanya 1kg, pegas tersebut bertambah panjang 5cm. hitunglah energi potensial pegas! berpa energi potensial pegas jika bebannya menjadi 2,5 kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6.5 semoga betul jangan lupa di terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui : <br>m = 1 kg<br>g = 10m/s\u00b2<br>\u0394x = 5cm = 5\u00d7[tex] 10^{-2} [/tex] m<br>ditanya : Ep<br><br>F = k . \u0394x<br>m . g = k . \u0394x<br>1 . 10 = k . 5\u00d7[tex] 10^{-2} [/tex]<br>k = 10/5\u00d7[tex] 10^{-2} [/tex]<br>k = 200 N/m<br><br>Ep = <u>1\u00a0</u> <u> </u>\u00d7 k \u00d7 \u0394x\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>Ep = 1/2 \u00d7 200 \u00d725 \u00d7[tex] 10^{-4} [/tex]<br>Ep = 2500 x [tex] 10^{-4} [/tex]<br>Ep = 0,25 joule<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tong-mengandung-lapisan-minyak-0150-m-yang-mengapung-di-a-508",
+            "question": "Sebuah tong mengandung lapisan minyak 0.150 m yang mengapung di atas air yang kedalamannya 0,300 m. masa jenis minyak 600 kg/m3 .    berapa tekanan gauge pada bidang batas minyak-air, dan berapa tekanan gauge pada dasar bidang??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan asumsi g = 10m/s^2 dan patm = 10^5 Pa<br><br>tekanan mutlak pada batas minyak-air<br>p = patm +\u00a0\u03c1gh<br>p = 10^5 +\u00a0(600)(10)(0,15)<br>p = 10^5 +\u00a0900 Pa<br>p gauge = p - patm<br>p gauge = 900 Pa<br><br>tekanan mutlak pada dasar tong<br>p = patm +\u00a0p batas + p batas ke dasar<br>p = 10^5 +\u00a0900 + (1000)(10)(0,3)<br>p = 10^5 +\u00a0900 + 3000<br>p = 10^5 +\u00a03900 Pa<br>p gauge = p - patm<br>p gauge = 3900 Pa<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

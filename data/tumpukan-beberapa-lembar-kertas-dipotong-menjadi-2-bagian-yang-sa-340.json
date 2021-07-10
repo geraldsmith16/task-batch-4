@@ -1,0 +1,122 @@
+{
+    "question": "tumpukan beberapa lembar kertas dipotong menjadi 2 bagian yang sama. kemudian, kertas tersebut ditumpuk dan dipotong lagi menjadi 2 bagian, begitu seterusnya. pada potongan yang ketiga jumlah kertas menjadi 160 lembar. banyak kertas pada potongan yang ketujuh adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori Soal : Matematika - Barisan dan Deret<br>Kelas : 2 SMA/XI SMA<br><br>Pembahasan :<br><br>Misalkan ada n tumpukan kertas.<br>Potongan 1 = 2n<br>Potongan 2 = 4n<br>Potongan 3 = 8n<br><br>Sehingga:<br>8n = 160<br>n = 160/8 <br>\u00a0 \u00a0=\u00a020<br><br>Maka, potongan ketujuh adalah :<br><span>U\u2087 =\u00a02\u2077.n <br>\u00a0 \u00a0 \u00a0\u00a0= 128\u00a0.\u00a020 <br>\u00a0 \u00a0 \u00a0\u00a0= 2.560 lembar</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-salah-satu-akar-persamaan-x2-2x-m2-5m-adalah-4-604",
+            "question": "Diketahui salah satu akar persamaan x2 + 2x = m2 - \u00a05m adalah 4. Hituglah nilai m !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : x\u00b2 + 2x = m\u00b2 - 5m<br><br>salah satu akar\u00a0 4 ===&gt; f(4) = 0<br><br>4\u00b2 + 2.4 = m\u00b2 - 5m<br><br>16 + 8 = m\u00b2 - 5m<br><br>m\u00b2 - 5m - 24 = 0<br><br>(m + 3)(m- 8) = 0<br>m = -3 v m = 8 (diambil yang positif)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-dari-fungsi-fxax2bxc-diketahui-f0-6-f1-dan-f22-796",
+            "question": "Jika dari fungsi f(x)=ax2+bx+c diketahui f(0)=-6, f(1) dan f(2)=28 maka f(x)=0 untuk x=...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(0)=a.0^2+b.0+c<br>-6=0+0+c<br>-6=c .............................nilai c<br><br>f(1)=a.1^2+b.1+c<br>28=a+b+(-6)<br>28+6=a+b<br>34=a+b ......................persamaan 1<br><br>f(2)=a.2^2+b.2+c<br>28=4a+2b+(-6)<br>28+6=4a+2b<br>34=4a+2b ......................persamaan 2\u00a0<br><br>f(1)=f(2)<br>a+b=4a+2b<br>a-4a=2b-b<br>-3a=b<br>b=-3a<br><br>34=2a+b\n\u00a0......................persamaan 1\n<br>34=2a+(-3a)<br>34=-a<br>a=-34<br><br>b=-3a<br>b=-3.34=-102<br><br>f(x)=0<br>-34x2-102x-6=0<br>-2.(17x2+51x+3)\u00a0=\u00a00<br>(17x+1) . (x+3)=0<br>x=\u00a0-1 / 17\u00a0\u00a0\u00a0\u00a0\u00a0 atau\u00a0\u00a0\u00a0 x= -\u00a03<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-tengah-suatu-deret-aritmatika-adalah-32-jika-juml-140",
+            "question": "Diketahui suku tengah suatu deret aritmatika adalah 32. Jika jumlah n suku pertama deret itu 672, tentukan banyak suku suatu deret tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = 672 <br>Ut = a + b((n+1)/2 - 1)<br>32 = a + b(n-1)/2 kedua ruas kali 2<br>64 = 2a + b(n-1)...........(1)<br>Sn = 1/2 n( a + Un)<br>672 = 1/2 n( a + a + b(n-1)<br>672 = 1/2 n( 2a + b(n-1))<br>672 = 1/2 n(64)<br>672 = 32n<br>n = 672/32<br>n = 21<br>jadi <span>banyak suku suatu deret tersebut adalah 21</span><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-u1-2-dan-s10-33s5-nilai-u6-304",
+            "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketuai-fx-2log-x13-dan-gx-2log-x7-maka-f5-g-514",
+            "question": "Diketuai f(x) = 2log (x+1/3) dan g(x) = 2log (x+7) maka f(5) + g(5) =...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(5) + g(5) = 2log (5+\u00a01/3) + 2log (5+7)<br>= 2log (16/3) + 2log (12)<br>= 2log (16/3 x 12)<br>= 2log 64<br>= 6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-persamaan-cos-2x-sin-x-0-untuk-0x2-808",
+            "question": "Himpunan penyelesaian persamaan cos 2x-sin x = 0, untuk 0\u2264x\u22642 \u03c0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : persamaan, trigonometri<br><br>Pembahasan :<br>Persamaan trigonometri dalam derajat, yaitu :<br>Jika sin a\u00b0 = sin\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = (180 -\u00a0\u03b1) + k x 360,<br>Jika cos a\u00b0 = cos\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 360 atau a = -\u03b1 + k x 360,<br>Jika tan a\u00b0 = tan\u00a0\u03b1\u00b0, maka a =\u00a0\u03b1 + k x 180,<br>dengan k merupakan bilangan bulat.<br><br>Persamaan trigonometri dalam radian, yaitu :<br>Jika sin a = sin\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = (\u03c0 -\u00a0\u03b1) + k x 2\u03c0,<br>Jika cos a = cos\u00a0\u03b1, maka a =\u00a0\u03b1 + k x 2\u03c0 atau a = -\u03b1 + k x 2\u03c0,<br>Jika tan a = tan\u00a0\u03b1, maka a =\u00a0\u03b1 + k x \u03c0,<br>dengan k merupakan bilangan bulat.<br><br>Mari kita lihat soal tersebut.<br>Tentukan h<span>impunan penyelesaian dari persamaan cos 2x - sin x = 0, untuk\u00a00 \u2264 x \u2264 2\u03c0!<br><br>Jawab :<br>Diketahui persamaan<br>cos 2x - sin x = 0<br></span>\u21d4 cos 2x = sin x<br>\u21d4 cos 2x = cos([tex] \\frac{ \\pi }{2} [/tex] - x)<br>\u21d4 2x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] - x + k . 2\u03c0 atau 2x = -([tex] \\frac{ \\pi }{2} [/tex] - x) + k . 2\u03c0<br>\u21d4 3x =\u00a0[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0 atau 2x = -[tex] \\frac{ \\pi }{2} [/tex] + x + k . 2\u03c0<br>\u21d4 x = [tex] \\frac{ \\pi }{6} [/tex] + k .\u00a0[tex] \\frac{2}{3} [/tex]\u03c0 atau x = -[tex] \\frac{ \\pi }{2} [/tex] + k . 2\u03c0<br><br>untuk <br>k = 0, x = [tex] \\frac{ \\pi }{6} [/tex]<br>k = 1, x =\u00a0[tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex]<br>k = 2, x =\u00a0[tex] \\frac{9 \\pi }{6} [/tex]<br><br>Jadi, himpunan penyelesaiannya adalah {[tex] \\frac{ \\pi }{6} [/tex], [tex] \\frac{5 \\pi }{6} [/tex],\u00a0[tex] \\frac{3 \\pi }{2} [/tex], [tex] \\frac{9 \\pi }{6} [/tex]}<br><br>Semangat!<br>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-fungsi-fungsi-fg-dan-h-sebagai-berikut-fx3x-1-g-662",
+            "question": "Ditentukan fungsi-fungsi f,g dan h, sebagai berikut    f(X)=3x-1 , g(x)=\u221ax dan h(x)=\u00d7\u00b2+2\r\na.( f o g)(x), (g o f) o h) (x)\r\nb. (f o g)(4), (f o g)(2), (f o g)(-2) (f o h)(-1),(h o g)(3)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.<br>(f o g)(x) = f(g(x))<br>= 3\u221ax - 1<br><br><span>(g o f) o h) (x) = g(f(h(x)))<br></span>=\u00a0\u221a3\u00d7\u00b2+2-1<br>=\u00a0\u221a3\u00d7\u00b2+1<br><br>b.<br><span>(f o g)(4) = f(g(4))<br></span>=\u00a03\u221a4-1<br>= 3.2 - 1<br>= 5<br><br><span>(f o g)(2) = f(g(2))<br></span>=\u00a03\u221a2-1<br><br>(f o g)(-2) = f(g(-2))<br>=\u00a03\u221a-2\u00a0-\u00a01<br>= tidak ada jawaban karena tidak ada hasil akar dari angka &lt; 0<br><br><span>(f o h)(-1) = f(h(-1))<br></span>=\u00a03(-1)\u00b2+2\u00a0-\u00a01<br>= 3 + 2 -1<br>= 4<br><br><span>(h o g)(3) = h(g(3))<br></span>=\u00a0(<span>\u221a3)</span>\u00b2\u00a0+\u00a02<br>= 3 + 2<br>= 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-7log-2a-dan-2log-3b-maka-6-log-14-258",
+            "question": "Jika 7log 2=a dan\u00a0\u00b2log 3=b maka 6 log 14=......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>log 14</u> =\u00a0<u>log 2. 7</u><br>log 6 \u00a0 \u00a0 \u00a0log 2.3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= <u>log 2 + log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 log 2 + log 3\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>2log 2 + 2 log 7<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2log 2 + 2 log 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>1+a<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a01 +b<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

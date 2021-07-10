@@ -1,0 +1,136 @@
+{
+    "question": "1. Di dalam sebuah tabung gelas terdapat zat cair setinggi 10 cm. Tekanan air pada dasar tabung adalah 1200 N/m2. Jika g = 10 m/s2. Abaikan tekanan udara. Berapa massa jenis zat cair ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Ketinggian zat cair (h) = 10 cm = 0,1 meter<br>Tekanan (P) air pada dasar tabung = 1200 N/m2 <br>Percepatan Gravitasi (g) = 10 m/s2<br>\nDitanya :<br>Massa Jenis zat cair ?<br>\nJawab :<br>P =\u00a0 rho . g .h<br>1200N/m\u00b2= rho (10m/s\u00b2) (0,1m)<br>1200N/m\u00b2= rho (1m\u00b2/s\u00b2)<br>rho = 1200 : 1 = 1200 kg/m\u00b3<br>\u00a0Massa Jenis zat cair adalah 1200 kg/m3.<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-penerapan-fluida-statis-dalam-kehidupan-sehari-hari-selain-142",
+            "question": "Contoh penerapan fluida statis dalam kehidupan sehari hari selain dongkrak hidrolik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "-\u00a0pada penyemprot obat nyamuk<br>-\u00a0pada voluntrimeter<br>- pada\u00a0pompa air\u00a0hidrolok<br>- katrol hidrolik",
+                    "attachments": []
+                },
+                {
+                    "answer": "em cakram sepeda motor, memakai tekanan dari handle rem yang disalurkan \nmelalui cairan rem yang akhirnya menekan kampas pada cakram. <br>penerapannya ada pada sayap pesawat terbang. <br>N masih banyak lagi contoh penerapan fluida statis di kehidupan sehari-hari......  <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-katrol-ganda-memiliki-w-sebesar-60n-tentukan-a-keuntung-632",
+            "question": "Sebuah katrol ganda memiliki W sebesar 60N. Tentukan:    a. keuntungan mekanis\r\nb. gaya penarik (kuasa)\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik W = 60 N<br>Dit Km dan F ?<br>jawab.<br><br>a.\u00a0Km = banyak katrol = 2 karena katrol ganda<br>b. F = 1/2W = 30 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "energi-dari-sebuah-partikel-yang-massa-diamnya-55x10-27-kg-se-678",
+            "question": "Energi dari sebuah partikel yang massa diamnya 5,5x10^{-27} kg setara dengan ... ( c = 3 x 10^{8} )\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "En= h (c/Lamda) \u00a0 (simbol lamda nya gk ad jadi pke tulis ja nama nya)<br><br>h itu=6,63x10^-34 Joule/Second<br><br>tingal masukan ja,, tapi lamda gk diketahui jadi gk bs dicari<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ketika-kita-melihat-benda-di-udara-dari-dalam-air-benda-297",
+            "question": "Mengapa ketika kita melihat benda di udara dari dalam air, benda itu kelihatan lebih jauh ?    a. indeks bias air lebih kecil dari pada indeks bias udara\r\nb. indeks bias air lebih besar dari pada indeks bias udara\r\nc. laju cahaya di udara lebih kecil dibandingkan di air\r\nd. permukaan air datar \r\ne. memandangnya secara tegak lurus",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>b. indeks bias air lebih besar dari pada indeks bias udara</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613",
+            "question": "Berat benda saat ditimbang di udara adalah 30 N. Jika ditimbang didalam    air beratnya menjadi 22,5 N, dan jika ditimbang dalam suatu cairan lain \r\n beratnya menjadi 11,25 N. Tentukan massa jenis cairan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi ; fluida <br>Kata kunci : massa jenis cairan<br><br>Pembahasan : perhitungan terlampir",
+                    "attachments": [
+                        "answer-attachments/berat-benda-saat-ditimbang-di-udara-adalah-30-n-jika-ditimbang-d-613-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418",
+            "question": "Batang homogaen AB yang panjangnya L dan beratnya 50 N berada dalam keadaan seimbang, seperti tampak pada gambar. batang diberi engsel pada A dan ditahan oleh tali OC pada kedudukan AC = 2/3 L dan sudut ACO = 30 derajat. jika pada ujung batang digantung beban 100 N, hitunglah:    a. tegangan tali\r\nb. komponen- komponen gaya yang dikerjakan engsel pada batang\r\nc. besar dan arah gaya engsel pada batang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika<br>Kelas : 11 SMA<br>Materi : torsi<br>Kata kunci : tegangan tali<br>Pembahasan : jawaban dan cara ada di lampiran",
+                    "attachments": [
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-1.jpg",
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-2.jpg",
+                        "answer-attachments/batang-homogaen-ab-yang-panjangnya-l-dan-beratnya-50-n-berada-dal-418-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "langsung-aja-deh-gansoalnya-begini-benda-a-ma-20kg-dan-774",
+            "question": "Langsung aja deh gan,soalnya begini...\u00a0    Benda A (mA = 20kg) dan benda B (mB = 10kg), semula diam di atas lantai. Kemudian, kedua benda ditarik keatas melalui sebuah katrol dengan gaya F = 788 N seperti pada gambar. Dengan menganggap katrol sangat ringan dan licin, percepatan benda A dan B adalah....\u00a0\r\n(g = 10 m/s)\u00a0\r\n\r\ntolong di bantu gan^^ kalo kurang jelas,soalnya ada di sini http://atophysics.files.wordpress.com/2008/11/evaluasi-4.pdf nomer 32\u00a0\r\n\r\nsekian,terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = Ma - Mb . g dibagi Ma + Mb<br>\u00a0 \u00a0= 20 - 10 . 10 dibagi 20 +10<br>\u00a0 \u00a0= 100 / 30 = 3,33 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-ban-sepeda-memiliki-volume-12-x-10-3-m3-jika-diisi-penuh-769",
+            "question": "Sebuah ban sepeda memiliki volume 1,2 x 10-3    m3 jika diisi penuh. Silinder sebuah pompa sepeda memiliki volum\r\n kerja 9 x 10-5 m3. Berapa kali anda harus menekan pompa\r\n untuk mengisi ban sepeda dalam pompa untuk mengisi ban sepeda dalam keadaan\r\n kosong (sama sekali tidak ada udara dalam ban) sampai tekanan udara dalam ban\r\n menjadi\u00a0 3,0 x 105 Pa?\u00a0 tekanan atmosfer 1,0 x 105 Pa dan\r\n dianggap udara dipompa secara perlahan sehinggga suhunya tidak berubah.\r\ntolong dibantu yah sob.. :) \"jawabnya yg bnar/jgn ngasal dan pke cara\"",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>P = Po + n(v/V)\u00a0<br><br>3.0 * 10^5 = 10^5 + n(9 * 10^-5/(1.2 * 10^-3))\u00a0<br><br>n = 2.66667 * 10^6 kali\u00a0<br><br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tingkat-intensitas-sebuah-pesawat-jet-pada-jarak-30-m-adalah-1-708",
+            "question": "1. Tingkat intensitas sebuah pesawat jet pada jarak 30 m adalah 140 1.\u00a0Tingkat\r\n intensitas sebuah pesawat jet pada jarak 30 m adalah 140 dB. Berapakah tingkat\r\n intensitasnya pada jarak 300 m?\r\n2.\u00a0Cepat rambat gelombang\r\n seismik pada pada lapisan batuan tertentu adalah2000 m/s. Untuk mengetahui ketebalan lapisan tersebut dinamit diledakkan di\r\n suatu titik di bagian atas lapisan tersebut kemudian sinyal pantul ditangkap di\r\n titik yang lain. Jika jarak antara titik peledakan dan titik tempat sinyal\r\n ditangkap adalah 400 m dan selangwaktu antara peledakan dinamit dan penangkapan\r\n sinyal adalah 0,25 s, tentukan ketebalan lapisan batuan tersebut.\r\n3.\u00a0Sebuah\r\n mobil polisi membunyikan sirene dengan frekuensi fO. Kelajuan\r\n bunyi di udara diam adalah vo, sehingga panjang\r\n gelombangnya jika tidak ada gerak adalah \u03bbo. Jika mobil polisi\r\n tersebut diam sedangkan pengamat bergerak terhadap pengamat besaran apa saja\r\n yang berubah dan apa yang tetap? Jelaskan! Jika mobil polisi yang bergerak\r\n terhadap pengamat sedangkan pengamat diam, besaran apa saja yang berubah dan\r\n apa saja yang tetap? Jelaskan!\r\n4.\u00a0Jika\r\n dia mengayuh papan selancarnya sehingga bergerak dengan kecepatan 2 m/s searah\r\n dengan gelombang laut dia merasakan gelombang laut melaluinya setiap\r\n\r\n12 sekon. Tentukan frekuensi, panjang gelombang dan\r\n kecepatan gelombang laut tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nomer 1 keanya 120 dB<br>TIb = TIa + 10 log n ( r1/r2 )^2<br>TIb = 140 + 10 log ( 30/300 )^2<br>TIb = 140 + 10 (-2)<br>TIb = 120 dB<br><br>kalo nomer 4 keanya <br>untuk melakukan 1 gelombang dibutuhkan waktu 12s<br>berarti f = 1/12 = 0,083<br>panjang gelombang berarti 2m/s . 12 = 24 m<br>v = lamda . f = 24 . 0,083 = 1,992 m/s <br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

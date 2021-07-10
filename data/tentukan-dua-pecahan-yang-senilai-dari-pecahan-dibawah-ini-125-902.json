@@ -1,0 +1,130 @@
+{
+    "question": "Tentukan dua pecahan yang senilai dari pecahan dibawah ini    1.2/5 (dua perlima)\r\n2.3/7(tiga pertujuh)\r\n3.5/9(lima persembilan)\r\n4.9/21(sembilan perdua satu)\r\n5.14/15(empat belas perlima belas)\r\n6.4/25(empat perdua lima)\r\n7.7/11(tujuh persebelas)\r\n8.6/15(enam perlima belas)\r\n9.12/28(dua belas perdua lapan)\r\n10.13/39(tiga belas pertiga sembilan)\r\n11.18/20(delapan belas perdua puluh)\r\n12.8/12(delapan perdua belas)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2/5 = 4/10 = 6/15<br>3/7 = 6/14= 12/28<br>5/9 = 10/18= 20/36<br>9/21 = 3/7 = 6/14<br>14/15 = 28/30= 56/60<br>4/25 = 8/50 = 16/100<br>7/11 = 14/22= 21/33<br>6/15= 2/5 = 4/10<br>12/28 = 6/14 =3/7<br>13/39 = 1/3 = 26/78<br>18/20 = 9/10 = 36/40<br>8/12 = 4/6 = 2/3<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "12345640-453",
+            "question": "1+2+3+4+5+6+..............+40",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2 X 40 (2x1+40)<br>=20 X 42<br><span>=840<br><br>semoga bermanfaat :)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-jika-2x1-2x-2-2x-3-173",
+            "question": "Tentukan nilai x, jika (2x+1) + (2x + 2) + (2x + 3) + ....... + (2x + 50) = 4275",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(2x+1)+(2x+2)+(2x+3)+......+(2x+50) = 4275<br>50(2x) + 1+50 . 25 =\u00a04275<br>100x + 1275 = 4275<br>x = 4275 - 1275 / 100<br>x = 3000 / 100<br>x = 30",
+                    "attachments": []
+                },
+                {
+                    "answer": "a=U1=2x+1<br>U2=2x+2<br>b=U2-U1=2x+2-(2x+1)=1<br>Un=a+(n-1)b<br>=2x+1+(n-1)1=2x+50<br>2x+n=2x+50<br>n=50<br>Sn=n/2(a+Un)<br>=50/2(2x+1+(2x+50))=4275<br>=25(4x+51)=4275<br>=100x+1275=4275<br>=100x=3000<br>x=30<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pemborong-memperkirakan-dapat-menyelesaikan-suatu-pekerja-102",
+            "question": "Seorang pemborong memperkirakan dapat menyelesaikan suatu pekerjaan dalam waktu 8 hari\u00a0    Dengan sekelompok Pekerja. Jika banyak pekerja ditambah 5 orang, maka pekerjaan itu dapat diselesaikan dlm waktu 6 hari. Banyak pekerja mula-mula? Jawab pake cara, lagi butuh banget",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah orang mula\" adalah x<br>jika x orang maka pekerjaan akan selasai dalam 8 hari<br>jika di tambah 5 orang maka akan menjai 6 hari<br><br>maka berlaku perbandingan berbalik nilai<br><br><u>x\u00a0</u>\u00a0 \u00a0 =\u00a0<u> 6</u><br>x+5\u00a0 \u00a0\u00a0 8<br>8x = 6x + 30<br>2x = 30<br>x = 15<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuan-ahmad-menabung-pada-bank-x-yang-memberikan-suku-bunga-tun-813",
+            "question": "Tuan ahmad menabung pada bank \"X'' yang memberikan suku bunga tunggal sebesar Rp 2.500.000.00. setelah 2 tahun simpanan nya menjadi Rp 3.300.000,00.    besar persentase suku bunga yang di tetapkan bank setiap tahunnya ?\r\nTolong banget'z yhaa :(\r\nBesok mau di kumpul :(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2.500.000 = 3.300.000 x p x 2 <br>2.500.000 = 3.300.000<br>p= 2.500.000 : 3.300.000<br>p= 25/33 x 100%<br>\u00a0=75,75%<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-diketahui-bahwa-abc-dan-def-adalah-bilangan-3-angka-543",
+            "question": "Tolong yaa:)    Diketahui bahwa abc dan def adalah bilangan 3 angka (digit) sehingga abc+def = 1000. jika a,b,c,d,e, dan f tidak satupun yang sama denga 0, maka nilai a+b+c+d adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "abc=876<br>def=124<br>abc+def= 1000<br>\u00a0jdi a+b+c+d=8+7+6+1=22<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "abc=560<br>def=440<br>abc+def=1000<br>a=10<br>b=14<br>c=4<br>d=5<br>e=11<br>f=8<br>maka a+b+c+d=33",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "coba-kerjakan-yaa-pak-budi-mempunyai-sebidang-tanah-berbentuk-p-784",
+            "question": "Coba kerjakan yaa :    Pak Budi mempunyai sebidang tanah berbentuk persegi panjang.Panjang tanah tersebut 5m lebih panjang dari lebarnya.Jika keliling tanah tersebut 50m,tentukan luas tanah petani itu.\r\n\r\nDengan cara tidak pindah ruas ya,makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket:<br>Keliling : 50<br>panjang : lebar + 5<br><br>Tanya : Luas =&gt; panjang x lebar<br><br>Jawab :<br>cari dulu lebar nya<br><br>keliling = 2p + 2l<br>50 = 2 (p+l) --&gt; subsitusi Panjang<br>50 = 2 ( l + 5 + l )<br>50 = 2 ( 2l + 5)<br>50 = 4L + 10<br>50-10 = 4L<br>40 = 4L<br>L= 40/4<br>L= 10<br><br>Lebar = 10m<br>Panjang = Lebar + 5<br>berarti panjang = 10 + 5 = 15 m<br><br>Luas = Panjang x Lebar<br>= 15 x 10<br>=150 m^2<br><br>cuma bisa pake pindah ruas aku, maaf ya ._.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "anto-menabung-di-bank-a-sebesar-rp20000000-dengan-bunga-tungga-950",
+            "question": "anto menabung di bank A sebesar Rp.200.000,00 dengan bunga tunggal 12% per tahun . Ani menabung di bank B sebesar Rp.250.000,00, dengan bunga tunggal 10% per\u00a0tahun . setelah 6 bulan ,mereka mengambil uangnya . berapakah selisih uang mereka ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "~200.000 x 6% = 12.000<br>\u00a0200.000 + 12.000 = Rp.212.000,00\u00a0\u21d2tabungan anto selama 1/2 tahun<br>~ 250.000 x 5% = 12.500<br>\u00a0250.000 + 12.500 = Rp.262.500,00\u00a0\u21d2 uang tabungan Ani selama \u00a01/2 tahun<br>~262.500 - 212.000 \u00a0Rp.50.500,00\u00a0\u21d2 selisih tabungan anto dan ani",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tunai-sebuah-televisi-rp230000000-bu-tuti-membeli-telev-142",
+            "question": "Harga tunai sebuah televisi Rp2.300.000,00. Bu Tuti membeli televisi tersebut dengan cara mencicil tanpa uang muka. Bunga yang dikenakan 5% per bulan. Tentukan besar cicilan yang harus dibayae Bu Tuti jika lamanya mencicil 5 bulan!    Mohon dapat membantu dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunga = 2.300.000 x 5%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 115.000<br><br>Cicilan yang \u00a0dibayar = 2.300.000 + (115.000 x 5bulan)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2.300.000 + 575.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2.875.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bingkai-foto-yang-berbentuk-persgi-diputar-45-dengan-sum-974",
+            "question": "sebuah bingkai foto yang berbentuk persgi diputar 45\u00b0 dengan sumbu putar titik perpotongan diagonal-diagonalnya. jika panjang sisi persegi adalah 1cm, luas irisan antara bingkai foto sebelum dan sesudah diputar adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "irisannya berbentuk segi 8 <br>Luas irisan = Luas persegi - 4 Luas segitiga<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - 4 {1/2(\u221a2 - 1)}\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - ( 3 - 2\u221a2) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (2\u221a2 - 2) cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-10-kg-gram-kuning-telur-ayam-mengandung-kolestrol-2000-mg-229",
+            "question": "setiap 10 kg gram kuning telur ayam mengandung kolestrol 2000 mg. berapa kolestrol yang terkandung dalam 150 gram kuning telur",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Setiap 10 gram kuning telur ayam mengandung kolestrol 2000 mg. berapa kolestrol yang terkandung dalam 150 gram kuning telur ...</p><p><strong>Perbandingan \u00a0senilai </strong>adalah perbandingan antara dua besaran dengan \u00a0ketentuan jika yang satu diperbesar (diperkecil) maka yang kedua juga membesar \u00a0(mengecil), begitu pula sebaliknya.</p><h2>Pembahasan</h2><p>Diketahui :</p><p>10 gram kuning telur mengandung kolesterol 2000 mg</p><p>Ditanya :</p><p>kandungan kolesterol dalam 150 g kuning telur ?</p><p>Jawab : </p><p>[tex]\\frac{Berat~ kuning~ telur~ I}{Berat~ kuning ~ telur ~II} = \\frac{kolesterol~ I}{kolesterol ~II}[/tex]</p><p>[tex]\\frac{10}{2000} = \\frac{150}{x}[/tex]</p><p>10 x = 2000 \u00d7 150</p><p>10 x = 300.000</p><p> \u00a0 \u00a0 x = 300.000 / 10</p><p> \u00a0 \u00a0 x = 30.000 mg</p><p>Jadi kolestrol yang terkandung dalam 150 gram kuning telur adalah 30.000 mg.</p><br><h3>Pelajari lebih lanjut tentang Perbandingan</h3><ol><li>Contoh soal perbandingan dua besaran dengan satuan yang berbeda \u2192 brainly.co.id/tugas/14671457</li><li>Perbandingan umur edi dengan umur ayah adalah 2:6. jika umur ayah 42 tahun \u2192 https://brainly.co.id/tugas/7514553</li><li>Mahmud suka sekali jus buah, terutama jus jambu dan wortel. Untuk membuat segelas jus jambu-wortel, dia mencampur 2 ons jambu dan 5 ons wortel. \u2192 brainly.co.id/tugas/13876102</li><li>Tabel 5.2 situasi perbandingan senilai( proporsi) dan bukan \u2192 brainly.co.id/tugas/13801155</li><li>Panjang dan lebar sebuah rumah adalah 25 m dan 15 m. Jika digambar dengan skala 1 : 200 maka panjang dan lebar rumah \u2192 brainly.co.id/tugas/7191140</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 7 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 5 - Perbandingan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 7.2.5 \u00a0</li><li>Kata kunci : perbandingan, kuning telur ayam, mengandung kolesterol</li></ul><br><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

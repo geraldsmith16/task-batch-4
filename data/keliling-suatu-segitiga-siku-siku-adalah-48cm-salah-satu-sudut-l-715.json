@@ -1,0 +1,130 @@
+{
+    "question": "keliling suatu segitiga siku-siku adalah 48cm. salah satu sudut lancipnya 36,8\u00b0. hitunglah panjang sisi-sisi segitiga tersebut ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "salah satu sudut lancip = 36,8\u00b0 <br>\nsudut lancip yg lain  = 90 - 36,8 = 53,2\u00b0 <br>\ngunakan perbandingan sinus,  <br>\nx/sin 36,8 = y/sin53,2 = r/sin90 <br>\nx = rsin36,8 <br>\ny = rsin53,2 <br>\nkeliling = 48 <br>\nrsin36,8 + rsin53,2 + r = 48 <br>\nr = 48/(1+sin36,8+sin53,2) \u2248 20 <br>\ningat perbandingan phytagoras: <br>\n3 : 4 : 5 = 12 : 16 : 20 <br>\njadi panjang sisi-sisi segitiga tersebut adalah 12, 16 dan 20 cm. <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-dari-sin-2x-sin-x-0-untuk-x-elemen-dar-431",
+            "question": "himpunan penyelesaian dari sin 2x - sin x = 0, untuk x elemen dari R dan 0 derajat\u00a0 x 360 derajat adalah?? mohon jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x - sin x = 0<br>2 sin x cos x - sin x = 0<br>sin x (2 cos x - 1) = 0<br><br>1) sin x = 0<br>sin x = sin 0\u00b0<br>sin x = sin 180\u00b0<br>sin x = sin 360\u00b0<br>x = 0\u00b0, 180\u00b0, 360\u00b0<br><br>2) (2 cos x - 1) = 0<br>2 cos x = 1<br>cos x = 1/2<br>cos x = cos 60\u00b0<br>cos x = cos 300\u00b0<br>x = 60\u00b0, 300\u00b0<br><br>Jadi<br><br>Jika 0\u00b0 &lt; x &lt; 360\u00b0<br>HP = {60\u00b0, 180\u00b0, 300\u00b0}<br><br>Jika 0\u00b0 \u2264 x \u2264 360\u00b0<br>HP = {0\u00b0, 60\u00b0, 180\u00b0, 300\u00b0, 360\u00b0}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-tg-x-p-maka-nilai-2-sin-xcos-x-adalah-293",
+            "question": "Jika tg x =p , maka nilai 2 sin x.cos x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x =p/1=de/sa \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi2 = de2 + sa2=p2 + 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0mi = akar (p2+1)<br>sin x =de/mi=p/akar(p2+1)<br>cos x = sa/mi=1/akar(p2+1)<br>2 sin x.cos x= 2. p/akar(p2+1) . 1/akar(p2+1)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2p/(p2+1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "tan x=p<br>[tex] \\frac{sinx}{cosx} = \\frac{p}{1} [/tex]<br>cari sisi miringya dulu<br>miring=[tex] \\sqrt{p^2+1} [/tex]<br><br>sin x=\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex]<br>cos x=\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br><br>2 sin x cos x= 2.\u00a0[tex] \\frac{p}{\\sqrt{p^2+1}} [/tex] .\u00a0[tex] \\frac{1}{\\sqrt{p^2+1}} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02.\u00a0[tex] \\frac{p}{p^2+1} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-kuadrat-x2-5x-6-0-mempunyai-akar-akar-x-1-404",
+            "question": "\u00a0Persamaan kuadrat x2 \u2013 5x + 6 = 0 mempunyai akar \u2013 akar x 1 dan x2. Persamaan kuadrat yang akar \u2013 akarnya x1 \u2013 3 dan x2 \u2013 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Persamaan Kuadrat<br>Kelas : X \u00a0(1 SMA)<br>Pembahasan :<br>Diketahui persamaan kuadrat (PK) : x\u00b2 - 5x + 6 = 0.<br>a = 1, b = -5, dan c = 6.<br>Persamaan kuadrat (PK) memiliki dua penyelesaian, yaitu x\u2081 dan x\u2082.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>x\u2081 + x\u2082 = -b/a = -(-5)/1 = 5.<br>x\u2081.x\u2082 = c/a = 6/1 = 6.<br><br>Kita akan membentuk persamaan kuadrat (PK) baru, yaitu x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0,<br>dengan ketentuan<br>\u03b1 = x\u2081 - 3 dan \u03b2 = x\u2082 - 3.<br>Penjumlahan dan perkalian akar-akarnya adalah<br>\u03b1 + \u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1 + \u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 3.6 + 9<br>\u21d4\u03b1 + \u03b2 = 5 - 18 + 9<br>\u21d4\u03b1 + \u03b2 = -4.<br>\u21d4\u03b1.\u03b2 = (x\u2081 - 3)(x\u2082 - 3)<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3x\u2081 - 3x\u2082 + 9<br>\u21d4\u03b1.\u03b2 = x\u2081x\u2082 - 3(x\u2081 + x\u2082) + 9<br>\u21d4\u03b1.\u03b2 = 6 - 3.5 + 9<br>\u21d4\u03b1.\u03b2 = 6 - 15 + 9<br>\u21d4\u03b1.\u03b2 = 0.<br><br>Jadi, persamaan kuadrat (PK) baru adalah\u00a0<br>x\u00b2 - (\u03b1 +\u00a0\u03b2)x +\u00a0\u03b1\u03b2 = 0<br>\u21d4x\u00b2 - (-4)x + 0 = 0<br>\u21d4x\u00b2 + 4x = 0.<br><br>Semangat!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-2sinx-cosx-cosx-0-258",
+            "question": "Tolong yaa,,..\r\n2sinx cosx - cosx =0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 sin x cos x - cos x = 0<br>(2 sin x - 1)cos x = 0 <br>2 sin x - 1 = 0 atau cos x = 0<br>2 sin x = 1 <br>sin x = [tex] \\frac{1}{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-geometri-64-32-16-8-tentukan-a-rasio-496",
+            "question": "diketahui barisan geometri : 64 , -32 , 16 , -8 tentukan a. Rasio b. rumus suku ke -n c. suku yang nilainya 1/4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]a) r = \\frac{ U_{2} }{ U_{1} } \\\\ r= \\frac{-32}{64} \\\\ r= -\\frac{1}{2}  \\\\ \\\\  b)   U_{n}=ar^{ n-1} \\\\  \\\\ c) U_{n} = ar^{n-1} \\\\ \\frac{1}{4} = 64 (\\frac{-1}{2}) ^{n-1} \\\\ \\frac{1}{4} \\frac{-1}{64}= (\\frac{-1}{2}) ^{n-1} \\\\ -\\frac{1}{256}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ -\\frac{1}{2^{9-1}}=-\\frac{1^{n-1}}{2^{n-1}} \\\\ n=9[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-x-yang-memenuhi-persamaan-berikut-ini-a-3-kal-609",
+            "question": "Tentukan nilai x yang memenuhi persamaan berikut ini !\u00a0    a. 3 kali x pangkat 0,4 = 9 kali (1/3) pangkat 0,6\r\nb. 3 pangkat 5x-1 = 27 pangkat x+3\r\nc. akar 4 pangkat x+4 = (1/16) pangkat 5-x\r\nd. 3 akar 27 pangkat 2x-1 = (3 akar 1/243) pangkat 3x\r\n\r\n~Selamat menjawab~ tolong bantu saya :)\r\n# jangan jawab asal asalan yah.. poinnya tinggi loh.. ;)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]3x^{0.4} = 9(\\frac{1}{3})^{0.6} \\\\ 3x^{(\\frac{2}{5})} = 3^3 3^{-(\\frac{3}{5})} \\\\ 3x^{(\\frac{2}{5})} = 3^{3 - (\\frac{3}{5})} \\\\ x^{(\\frac{2}{5})} = 3^{(\\frac{7}{5})} \\\\ x^{(\\frac{2}{5})} = (3^{(\\frac{7}{2})})^{(\\frac{2}{5})} \\\\ x = 3^{(\\frac{7}{2})}[/tex]<br>Sesak gua jawabnya -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "budi-membuat-sebuah-parasut-berbentuk-belahan-bola-dari-katun-den-369",
+            "question": "budi membuat sebuah parasut berbentuk belahan bola dari katun dengan panjang diameter 7m.\u00a0 jika harga katun rp.30,000,00 setiap m ,\u00a0 maka biyaya yang diperlukan untuk membuat parasut itu adalah ..? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k lingkaran =\u00a0[tex] \\pi [/tex] . d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] . 7 cm . 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44 cm<br>biaya = Rp 30.000 . keliling lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 30.000 . 44 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 132.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "v\u00a0= 4/3\u00a0\u00d7 22/7\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 1/2 = 4/3\u00a0\u00d7 22/7\u00a0\u00d7 3,5\u00a0\u00d7 3,5\u00a0\u00d73,5\u00a0\u00d7 1/2 = 3773/42\u00a0= 89,83 m\u00b3<br>kayak gitu itu kalo betul sih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1sin-a-sin-a-cos-a-cot-a-buktikan-876",
+            "question": "1/sin a - sin a\u00a0= cos a cot a buktikan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{1}{sin \\alpha } -sin \\alpha  \\\\ =\\frac{1-sin^{2} \\alpha }{sin \\alpha } \\\\ =\\frac{cos^{2} \\alpha }{sin \\alpha } \\\\ = cos \\alpha  \\frac{cos \\alpha }{sin \\alpha }  \\\\ =cos \\alpha cot \\alpha [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-dari-lim-h-gt0-fxh-fx-h-a-fx-4-381",
+            "question": "Hitunglah nilai dari lim h-&gt;0 f(x+h)-f(x) / h\r\na.) f(x) =\u00a0 -4\r\nb.) f(x) = 4-3x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Intinya tu ganti semua nilai x pada f(x) dg fungsi f(x+h)<br>Jadi : <br>a) karna tak ada x dlm f(x)=-4, jd f(x+h)=-4 juga<br>Maka : f(x+h)-f(x)/h= -4-(-4)/h = -4+4/h =0/h.h= 0.h<br>lim h-&gt;0, jd h disubstitusi dg 0<br>lim <span>h-&gt;0 (0.h)= 0.0=0<br>Jadi </span><br>lim h-&gt;0 f(x+h)-f(x)/h = 0<br><br>b) lim h-&gt;0 f(x+h)-f(x)/h = lim h-&gt;0 4-3(x+h) - (4-3x) /h =lim h-&gt;0\u00a0 4-3x-3h-4+3x / h =<br>lim h-&gt;0 -3h/h= lim h-&gt;0\u00a0 (-3)<br>gk ad h yg bisa diganti nol, jd<br>jwbnny -3 juuga<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-23456-dan-8-akan-dibentuk-bilangan-terdiri-dari-tiga-ang-202",
+            "question": "dari 2,3,4,5,6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan. <strong>Banyak bilangan antara 300 dan 700 yang dapat dibentuk dari angka-angka tersebut</strong> adalah 80 bilangan. Hasil tersebut diperoleh dengan menggunakan kaidah pengisian tempat (filling slot).\n</p><p></p><h3>Pembahasan\n</h3><p></p><p>Untuk menentukan banyaknya bilangan antara 300 dan 700 adalah tergantung dari angka ratusan yang dipilih yaitu 300-an, 400-an, 500-an, 600-an. \u00a0</p><p></p><p>Angka yang menempati posisi \u00a0</p><ul><li>Ratusan = 4 pilihan yaitu <strong>3</strong>, 4, 5, 6 (misal yang dipilih angka 3)\n</li><li>Puluhan = 5 pilihan yaitu <strong>2</strong>, 4, 5, 6, 8 (misal yang dipilih angka 2)\n</li><li>Satuan = 4 pilihan yaitu 4, 5, 6, 8\n</li></ul><p></p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= ratusan \u00d7 puluhan \u00d7 satuan\n</p><p>= (4 \u00d7 5 \u00d7 4) bilangan\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><p></p><p></p><h3>Jika menggunakan rumus permutasi yaitu\n</h3><p>Ada 6 pilihan angka yaitu 2, 3, 4, 5, 6 dan 8\n</p><p><strong>Memilih 1 angka sebagai ratusan dari 4 pilihan (3, 4, 5, 6)\n</strong></p><p>= \u2084P\u2081\n</p><p>= [tex]\\frac{4!}{(4 - 1)!}[/tex]\n</p><p>= [tex]\\frac{4 \\times 3!}{3!}[/tex]\n</p><p>= 4\n</p><p><strong>Memilih 2 angka (sebagai puluhan dan satuan) dari 5 pilihan angka yang tersisa \u00a0</strong></p><p>= \u2085P\u2082\n</p><p>= [tex]\\frac{5!}{(5 - 2)!}[/tex]\n</p><p>= [tex]\\frac{5 \\times 4 \\times 3!}{3!}[/tex]\n</p><p>= 5 \u00d7 4\n</p><p>= 20\n</p><p>Jadi <strong>banyaknya bilangan antara 300 dan 700 yang dapat dibentuk</strong> adalah\n</p><p>= 4 \u00d7 20\n</p><p>= <strong>80 bilangan\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang banyak ratusan yang dapat terbentuk\n</p><p>https://brainly.co.id/tugas/15150946\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0</h3><p></p><p><strong>Kelas</strong> : 12\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Kaidah Pencacahan\n</p><p><strong>Kode</strong> : 12.2.7\n</p><p></p><p><strong>Kata Kunci</strong> : Dari 2, 3, 4, 5, 6 dan 8 akan dibentuk bilangan terdiri dari tiga angka berlainan\n</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

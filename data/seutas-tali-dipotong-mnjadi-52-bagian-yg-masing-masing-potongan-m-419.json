@@ -1,0 +1,134 @@
+{
+    "question": "Seutas tali dipotong mnjadi 52 bagian yg masing-masing potongan membentuk deret aritmetika. Bila yg terpendek 3 cm dan yg terpanjang adalah 105 cm, maka panjang semula adalah?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Un=a+(n-1)b<br>U1=3<br>U1=a+(1-1)b=3<br>U1=a=3\u00a0<br><br>mencari b dengan memasukan ke\u00a0<br>\u00a0U52=a+(52-1)b=105<br>U52=a+51b=105<br>a tadi adalah 3<br>dimsukan \u00a0a+51b=105<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03+51b=105<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 51b=102<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=2<br><br>Sn=(n/2) (2a+(n-1)b)<br>S52=(52/2)(2(3)+(52-1)2)<br>S52=(26)(6+(51)2)<br>S52=26\u00a0(6+102)<br>S52=26(108)<br>S52=2808\u00a0<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-balok-abcdefgh-dengan-ab-4cm-bc-8-cm-dan-bf-10-462",
+            "question": "Diketahui balok ABCD.EFGH dengan AB = 4cm, BC = 8 cm dan BF = 10 cm. Hitunglah jarak antara    a. titik B dan bidang ACGE \r\nb. titik G dan bidang CDEF\r\ntolong dengan jalan caranya ya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) AC = \u221a(AB\u00b2 + BC\u00b2) = \u221a(4\u00b2 + 8\u00b2) = \u221a80 <br>\nAC = 4\u221a5 cm <br>\ndengan perbandingan luas <br>\n\u00bd(AB*BC) = \u00bd(AC)t \u2192 t : jarak <br>\n\u00bd(4*8) = \u00bd(4\u221a5)t <br>\n16 = (2\u221a5)t <br>\nt = 8/\u221a5 = (8/5)\u221a5 cm <br><br>\nb) CF = \u221a(10\u00b2 + 8\u00b2) = \u221a164 <br>\nCF = 2\u221a41 <br>\n\u00bd(GF*CG) = \u00bd(CF)t <br>\n\u00bd(8*10) = \u00bd(2\u221a41)t <br>\nt = 40/\u221a41 = (40/41)\u221a41 cm          <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "geometri-sma-kelas-x-diketahui-balok-abcdefgh-dengan-ab-4cm-795",
+            "question": "Geometri Sma kelas X?    diketahui balok ABCD.EFGH dengan AB = 4cm, BC=8cm dan BF=10cm . hitunglah jarak antara :\r\n\r\n a. titik B dan bidang ACGE\r\n\r\n b. titik G dan bidang CDEF",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Titik B ke ACGE = Titik G ke bidang CDEF =\u00a0setengah kali diagonal ruang<br>= 1/2 .\u00a0\u221a<span>(4^2 + 8^2 + 10^2)<br>= 1/2 .\u00a0</span>\u221a<span>180<br>= 1/2 .\u00a06</span>\u221a<span>5<br>3</span><span>\u221a</span><span>5<br><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sinus-105-sinus-15-adalah-743",
+            "question": "Nilai dari sinus 105 - sinus 15 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sin 105 - sin 15 =\u00a0</span>[tex] \\frac{1 +  \\sqrt{3} }{2 \\sqrt{2} } -  \\frac{ \\sqrt{3}-1 }{2 \\sqrt{2} } =  \\frac{1}{2}  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunlah-minimal-tiga-buah-masalah-penerapan-barisan-dan-deret-a-833",
+            "question": "himpunlah minimal tiga buah masalah penerapan barisan dan deret Aritmatika dan Geometri dalam bidang fisika, teknologi informasi dan masalah nyata\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Aritmatika....2,4,6......cari bilangan ke U15<br>Un = a + (n-1).b<br>Un = 2 + (n-1).2<br>\u00a0\u00a0 \u00a0 = 2 + 2n -2<br>\u00a0\u00a0 \u00a0 = 2n<br>U15 = 2n<br>U15 = 2.15<br>U15 = 30<br><br>NB: a = bilangan pertama<br>\u00a0\u00a0 \u00a0  b = selisih antar bilangan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-sin-2x-sin-x-0-untuk-x-elemen-dar-431",
+            "question": "himpunan penyelesaian dari sin 2x - sin x = 0, untuk x elemen dari R dan 0 derajat\u00a0 x 360 derajat adalah?? mohon jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x - sin x = 0<br>2 sin x cos x - sin x = 0<br>sin x (2 cos x - 1) = 0<br><br>1) sin x = 0<br>sin x = sin 0\u00b0<br>sin x = sin 180\u00b0<br>sin x = sin 360\u00b0<br>x = 0\u00b0, 180\u00b0, 360\u00b0<br><br>2) (2 cos x - 1) = 0<br>2 cos x = 1<br>cos x = 1/2<br>cos x = cos 60\u00b0<br>cos x = cos 300\u00b0<br>x = 60\u00b0, 300\u00b0<br><br>Jadi<br><br>Jika 0\u00b0 &lt; x &lt; 360\u00b0<br>HP = {60\u00b0, 180\u00b0, 300\u00b0}<br><br>Jika 0\u00b0 \u2264 x \u2264 360\u00b0<br>HP = {0\u00b0, 60\u00b0, 180\u00b0, 300\u00b0, 360\u00b0}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-dari-dimensi-2-dan-tiga-berikan-masing-masing-6-contoh-587",
+            "question": "Pengertian dari dimensi 2 dan tiga berikan masing-masing 6 contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dimensi 2 = yaitu suatu benda dimana hanya memiliki panjang dan lebar, contohnya persegi, persegi panjang, lingkaran, segitiga, layang-layang.<br>Dimensi 3 = yaitu suatu benda dimana memiliki panjang, lebar dan tinggi, contohnya balok, kubus, kerucut, tabung, prisma, limas.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "dimensi 2 hanya memiliki panjang dan lebar cth: persegi, layang layang, lingkaran, segitiga persegi panjang, jajargenjang, belah ketupat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-barisan-aritmatika-adalah-45-jika-suku-kedu-114",
+            "question": "jumlah tiga bilangan barisan aritmatika adalah 45, jika suku kedua dikurangi 1 dan suku ketiga di tambah 5 maka, barisan tersebut menjadi barisan geometri, rasio barisan geometri tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggap suku suku itu adalah\u00a0<br>suku 1 = a-b<br>suku 2 = a<br>suku 3 = a+b<br>dan jumlahnya adalah 45<br><br>maka didapatkan : (a-b) + a +(a+b) = 45<br>b habis dan tersisa 3a = 45, maka a=15.<br><br>maka baris geometrinya menjadi 15-b + 15 + 15+b dan ketentuan soalnya adalah suku 2 dikurang 1 dan suku 3 ditambah 5 maka menjadi:<br>15-b + 14 + 20+b\u00a0<br><br>untuk mencari rasio, kita cari dulu kan biasanya b itu nah b itu didapetin dari cara silang kita yaitu:<br><br>suku2/suku1 = suku3/suku2 (rumus umumnya)<br>hasil kali silangnya dapet kan tuh -b^2 - 5b + 300 = 196 (\u00a0^\u00a0= kudarat ya ahaha)<br>kita turunin lagi tuh jadinya -b^2 - 5b + 104 atau sama juga b^2 + 5b - 104 biar ga bingung negatif dipangkat b^2 nya.<br><br>dapet kan tuh (b-8) (b+13) maka b bisa 8 atau -13<br><br>karna rasio, masukkan aja suku2/suku1<br>14\u00a0/\u00a015-b<br><br>*b nya kita ganti dengan 8 dan -13<br><br>hasilnya adalah untuk b = 8 rasionya 2<br>untuk b = -13 rasionya adalah 1/2<br><br>CMIIW ya hhe<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-angka-236-dan-8-dibuat-bilangan-kurang-dari-500-yang-terdi-267",
+            "question": "Dari angka 2,3,6 dan 8 dibuat bilangan kurang dari 500 yang terdiri dari 3 angka berbeda. Banyak bilangan yang dapat dibentuk adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0n ={2, 3, 6, 8} = 4<br>banyaknya bilangan<br>==&gt; 2 x 3 x 2 = 12<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Angka 2,3,6,8<br>membentuk bilangan terdiri dari angka kurang dari 500 adalah:<br>untuk ratusan ada 2 pilhan/cara yaitu 2 dan 3. Karena kita sdh pilih sau angka maka yang tersisa tinggal 3 angka untuk puluhan dan satuan, sehingga P(3,2) = 3!/(3-2)! = 6. Jadi banyaknya bilangan: 2. P(3,2) = 2.6 = 12 bilangan<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Banyak diagonal segi 4=2,segi 5=5,segi 6=9,banyak diagonal segi 15=...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Banyak diagonal segi 4 = 2, segi 5 = 5, segi 6 = 9, banyak diagonal segi 15</strong> = 90. Diagonal adalah garis yang dihubungkan oleh dua titik sudut pada bangun datar sehingga membagi bangun datar menjadi dua bagian. Untuk menentukan banyak diagonal pada segi n dapat menggunakan rumus:\n</p><ul><li>d = \u00bd \u00d7 n \u00d7 (n \u2013 3)\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Rumus mencari banyak diagonal pada segi n adalah\n</p><ul><li>d = \u00bd \u00d7 n \u00d7 (n \u2013 3)\n</li></ul><p></p><p><u><strong>Contoh</strong></u><strong>: banyak diagonal pada \u00a0</strong></p><p><strong>1) Segi 4 \u00a0</strong></p><p>= \u00bd \u00d7 4 \u00d7 (4 \u2013 3) \u00a0</p><p>= \u00bd \u00d7 4 \u00d7 1\n</p><p>= 2\n</p><p><strong>2) Segi 5\n</strong></p><p>= \u00bd \u00d7 5 \u00d7 (5 \u2013 3)\n</p><p>= \u00bd \u00d7 5 \u00d7 2\n</p><p>= 5\n</p><p><strong>3) Segi 6\n</strong></p><p>= \u00bd \u00d7 6 \u00d7 (6 \u2013 3)\n</p><p>= \u00bd \u00d7 6 \u00d7 3\n</p><p>= 9\n</p><p></p><p></p><p>Jadi <strong>banyak diagonal pada segi 15</strong> adalah\n</p><p>= \u00bd \u00d7 15 \u00d7 (15 \u2013 3)\n</p><p>= \u00bd \u00d7 15 \u00d7 12\n</p><p>= 15 \u00d7 6\n</p><p>= <strong>90</strong>\n</p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang bangun datar\n</p><ul><li>Luas trapesium: brainly.co.id/tugas/2399779\n</li><li>Keliling trapesium: brainly.co.id/tugas/5266124\n</li><li>Luas trapesium dan persegi panjang: brainly.co.id/tugas/15219788\n</li></ul><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori</strong> : Segitiga dan Segiempat\n</p><p><strong>Kode</strong> : 7.2.4\n</p><p></p><p><strong>Kata Kunci </strong>: Banyak diagonal segi 4\n</p><p></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-nama-nama-bulan-berawal-dari-huruf-j-314",
+            "question": "Himpunan nama\u00a0nama bulan berawal dari huruf J?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "{ Januari,Juni,Juli }<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "J={Januari,juni,Juli} - metode tabulasi<br><br>J=[x|x nama nama bulan berawaln huruf J} - metode Rule<br><br>J={Nama nama bulan yang berawalan huruf J} - metode deskripsi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-masing-masing-berjari-jari-4-cm-dan-6-cm-121",
+            "question": "Dua buah lingkaran masing - masing berjari - jari 4 cm dan 6 cm. hitunglah:     a. perbandingan luasnya\r\n b. selisih luasnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.perbandingan luasnya 16:36<br>b.selisih luasnya \u00a062.8cm<br>Caranya<br>L1:L2<br>[tex] \\pi [/tex] . r\u00b2 :[tex] \\pi [/tex] . r\u00b2<br>[tex] \\pi [/tex] dicoret karena sama<br>r\u00b2 : r\u00b2<br>4\u00b2: 6\u00b2<br>16:36",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menghitung-diagram-venn-341",
+            "question": "Bagaimana cara menghitung diagram venn ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung diagram\u00a0venn&#039;a kayak apa dulu..\u00a0<br>klo ada 2 himpunan ya dibuat 2 lingkaran..<br>kalo ada anggota yang sama di taruh di tengah2 lingkaran itu..<br>kalo cara menghitungnya ya hampir sama kaya gitu lahh..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-memerlukan-bensin-50-liter-untuk-menempuh-jarak-450-587",
+            "question": "sebuah mobil memerlukan bensin 50 liter untuk menempuh jarak 450 km . jika mobil tersebut menghabiskan bensin 5 liter, jarak yang dapat ditempuh adalah ? minta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "450 = 50 ltr\nmemiliki perbandingan 9 : 1\njadi setiap 1ltr dpt memempuh 9 km\nsehingga 5 ltr dpt menempuh jarak 5*9 = 45 km\n..",
+                    "attachments": []
+                },
+                {
+                    "answer": "45 km.<br>caranya tinggal buang aja 0 ya gampang ko.<br>gini caranya:<br>5/50 x 450<br>=1/10 x 450<br>= 450/10<br><span>= 45 km</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-31000-pangkat-3-hasil-dari-12-pangkat-minu-123",
+            "question": "Nilai dari : (3\u221a1000) pangkat 3\u00a0\r\nHasil dari (1/2) pangkat minus 3 x (1/2) pangkat 4\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u25a0(3akar1000)^3= 3\u00d73\u00d73=27, akar1000 pangkat 3=1,000,000. jadi hasil\nnya 27,000,000.\n\u25a0(1/2)^-3= 1/ 1/8= 8. sedangkan (1/2)^4= 1/16. jadi 8\u00d7 1/16= 8/16= 1/2= 0,5..",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex](3 \\sqrt{1000} )^{3} = 27 * 1000 \\sqrt{1000} = 270000\\sqrt{10} \\\\ ( \\frac{1}{2} )^{-3} * ( \\frac{1}{2} )^4 = ( \\frac{1}{2} )^{-3 + 4} = \\frac{1}{2}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-7-5x-11-maka-nilai-x-3-adalah-421",
+            "question": "Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><h3>Pembahasan</h3><p>Persamaan linear satu variabel atau PLSV merupakan kalimat terbuka yang memiliki satuvariabel dan menggunakan tanda sama dengan ( = ).</p><p>Bentuk umum persamaan linear satu variabel ax + b = 0.</p><p>a disebut koefisien dari variabel</p><p>x adalah variabel</p><p>b adalah konstanta</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Sederhanakanlah bentuk bentuk aljabar berikut \u00a012 + 2 (4x - 3y) = brainly.co.id/tugas/2898178</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><p> \u00a0 \u00a0 2x + 7 = 5x - 11 \u00a0Ruas kiri dan ruas kanan kita kurang 7</p><p>2x + 7 - 7 = 5x - 11 - 7</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 5x - 18 Ruas kiri dan ruas kanan kita kurang 5x</p><p> \u00a0 \u00a02x - 5x = 5x - 18 - 5x</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-3x = -18 Ruas kiri dan ruas kanan kita bagi -3</p><p> \u00a0 \u00a0-3x : -3 = -18 : -3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 6</p><p></p><p>Maka x + 3 = 6 + 3 = 9</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Apa yg dimaksud persamaan linier satu variabel? brainly.co.id/tugas/1909229</li><li>25 - 4y = 6y + 15 \u00a0[ tentukan himpunan penyelesaian dari persamaan linear ] brainly.co.id/tugas/2167585</li></ul><h3>==============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: PLSV</p><p><strong>Kode </strong>: 8.2.1</p><p></p><p><strong>Kata</strong> <strong>Kunci </strong>: Al-jabar, persamaan, linear, satu, variabel, koevisien, konstanta.</p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-panjangnya-2-m-mwmpunyai-bayangan-75-cm-pada-saat-588",
+            "question": "Sebuah tongkat panjangnya 2 m mwmpunyai bayangan 75 cm. pada saat yg sama panjang bayangan sebuah menara tv 15 m. tinggi menara tv tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Sebuah tongkat panjangnya 2 m mempunyai bayangan 75 cm. Pada saat yang sama panjang bayangan sebuah menara TV 15 m, tinggi menara tv tersebut adalah 40 m. Hasil tersebut diperoleh dari perbandingan kesebangunan. Syarat dua bangun datar sebangun adalah</p><ul><li>sisi-sisi yang bersesuaian memiliki perbandingan yang sama</li><li>sudut-sudut yang bersesuaian memiliki besar yang sama</li></ul><br><h3>Pembahasan</h3><br><p><strong>Diketahui</strong></p><p>Panjang tongkat = 2 m</p><p>Panjang bayangan tongkat = 75 cm</p><p>Panjang bayangan menara TV = 15 m = 1.500 cm</p><br><p><strong>Ditanyakan</strong></p><p>Tinggi menara TV</p><br><p><strong>Jawab</strong></p><br><p><strong>dengan perbandingan kesebangunan,</strong> diperoleh:</p><p>[tex]\\frac{Tinggi \\: menara \\: TV}{panjang \\: tongkat} = \\frac{Panjang \\: bayangan \\: menara \\: TV}{panjang \\: bayangan \\: tongkat}[/tex]</p><p>[tex]\\frac{Tinggi \\: menara\\: TV}{2 \\: m} = \\frac{1.500 \\: cm}{75 \\: cm}[/tex]</p><p>[tex]\\frac{Tinggi \\: menara\\: TV}{2 \\: m}[/tex] = 20</p><p>Tinggi menara TV = 20 (2 m)</p><p><strong>Tinggi menara TV = 40 m</strong></p><br><h3>Pelajari lebih lanjut \u00a0 </h3><br><p>Contoh soal lain tentang kesebangunan</p><p>https://brainly.co.id/tugas/2612344</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 9</p><p><strong>Mapel</strong> : Matematika</p><p><strong>Kategori</strong> : Kesebangunan dan Kekongruenan</p><p><strong>Kode</strong> : 9.2.4</p><br><p><strong>Kata Kunci</strong> : panjang tongkat, bayangan menara TV</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "frekuensi-harapan-munculnya-mata-dadu-kelipatan-dua-yang-dilempar-774",
+            "question": "Frekuensi harapan munculnya mata dadu kelipatan dua yang dilempar 480 kali adalah..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "peluang : {2,4,6} = 3/6 = 1/2<br>frekuensi harapan = peluang x banyak percobaan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang 2,4,6 = 3<br>frekuensi harapan = peluang x banyak percobaan<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peta-dibuat-dengan-skala-1-1500000jika-jarak-dua-kota-541",
+            "question": "sebuah peta dibuat dengan skala 1 : 1.500.000.jika jarak dua kota pada peta adalah 7,5 cm,maka jarak sebenarnya dua kota tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau nggak salah caranya seperti ini\n1.500.000 x 7,5  =  11.250.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jarak sebenarnya=jarak pada peta x skala pada peta (skala kedua/yang belakang)<br>=7,5 X1500000<br>=11.250.000<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982",
+            "question": "pada gambar diatas diketahui besar &lt;ACD = 20 derajat. hitunglah besar = &lt;BOC, &lt;AOC, &lt;BOD. tolong dibantu.. terimakasih ^^",
+            "attachments": [
+                "question-attachments/pada-gambar-diatas-diketahui-besar-ltacd-20-derajat-hitungla-982-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "\u2220OAC = \u2220OCA = 20\u00b0 (karena segitiga OCA adalah segitiga sama kaki) <br><br>sehingga<br>a. \u2220BOC = 2.\u2220OAC\u00a0 (sudut pusat dan sudut keliling yang menghadap busur yang sama)<br>\u2220BOC = 2.20\u00b0 = 40\u00b0<br><br>b. \u2220AOC = 180\u00b0 - \u2220OCA - \u2220OAC = 180\u00b0 - 20\u00b0 - 20\u00b0 = 140\u00b0<br><br>c. \u2220BOD = \u2220AOC\u00a0 (saling bertolak belakang)<br>\u00a0\u2220BOD = 140\u00b0<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

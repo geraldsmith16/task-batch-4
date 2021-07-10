@@ -1,0 +1,145 @@
+{
+    "question": "1 (2x-6) \u2265 2 (x+4) cara penyelesaiannya gimana ???\r\n2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2x-6 &gt; 2x + 8\n2x - 2x &gt; 8 + 6\nx &lt; 14",
+            "attachments": []
+        },
+        {
+            "answer": "1x-3\u22652/3x+8/3<br>1x-3x\u22658/3 +3<br>3x/3-2/3x\u22658/3+3/3<br>-1/3x\u226511/3<br>x\u226411/3\u00b73<br>x\u226411<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-buah-kayu-berpenampang-lingkaran-di-ikat-dengan-tali-yang-pan-732",
+            "question": "dua buah kayu berpenampang lingkaran di ikat dengan tali yang panjangnya 144cm.jika jari jarinya sama maka tentukan panjang kedua jari jari tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas: 8</strong><br><strong>Mapel: Matematika</strong><br><strong>Kategori: lingkaran</strong><br><strong>Kata kunci: panjang lilitan</strong><br><strong>Kode: 8.2.6 (Kelas 8 Matematika Bab 6-Lingkaran)</strong><br><br><span>dua buah kayu berpenampang lingkaran di ikat dengan tali yang panjangnya 144cm.jika jari jarinya sama maka tentukan panjang kedua jari jari tersebut<br></span><br>Pembahasan:<br><br>Perhatikan gambar pada lingkaran<br>Panjang lilitan tali = 144 cm<br>r = ... cm<br><br>Panjang lilitan = 1/2 keliling lingkaran + 2r + 1/2 keliling lingkaran + 2r<br>panjang lilitan = keliling lingkaran + 4r<br>panjang lilitan = 2\u03c0r+4r<br>[tex]144 cm = 2\\times  \\frac{22}{7}\\times r + 4r \\\\ 144cm= \\frac{44}{7}r+ \\frac{4}{1}r \\\\ samakan\\; penyebut \\\\ 144cm=  \\frac{44}{7}r+ \\frac{28}{7}r \\\\ 144 cm =  \\frac{72}{7} r \\\\ r=  \\frac{7}{72}\\times 144cm \\\\  r=  \\frac{7}{72}\\times 144cm \\\\ r= 7 \\times 2 cm \\\\ r= 14 cm      [/tex]<br><br><strong>Jadi, panjang jari-jari kedua lingkaran adalah 14 cm.</strong><br><br>Semangat belajar!<br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/dua-buah-kayu-berpenampang-lingkaran-di-ikat-dengan-tali-yang-pan-732-1.jpg",
+                        "answer-attachments/dua-buah-kayu-berpenampang-lingkaran-di-ikat-dengan-tali-yang-pan-732-2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sudut-aob-120-derajat-sudut-cod-72-derajat-jika-luas-juri-367",
+            "question": "Sudut AOB = 120 derajat , sudut COD = 72 derajat . Jika luas juring OCD = 30 cm persegi , luas juring OAB adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AOB \u00a0 \u00a0 \u00a0L. Juring OAB<br>------ \u00a0 = \u00a0----------<br>COD \u00a0 \u00a0 L. Juring OCD<br><br>120 \u00a0 \u00a0 \u00a0L. Juring OAB<br>----- \u00a0 = \u00a0-------------------<br>72 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 30<br><br>L. Juring OAB = 120 X 30 /\u00a072 = 3600 / 72 = 50 cm persegi<br><br>#Sekian<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-km-12-hm-2-m-m-470",
+            "question": "\u00a01 km + 12 hm + 2 m = ........ m.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1000 m + 1200 m + 2 m = 2202 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "(1 km x 1000) + (12 hm x 100 ) + 2 m\u00a0<br>=\u00a01000 + 100 + 2 = 1102 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bak-penampung-air-berbentuk-silinder-dengan-panjang-jari2-201",
+            "question": "sebuah bak penampung air berbentuk silinder dengan panjang jari2 3 m dan tinggi 5 m. tentukan jumlah air maksimum yang dapat ditampung?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V= La x t<br>V= phi r kuadrat x t<br>V= 3,14 x 3 x 3 x 5<br>V=141,3 meter kubik<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-sofyan-akan-membeli-sebuah-rumah-melalui-bank-yang-menawarkan-203",
+            "question": "Pak sofyan akan membeli sebuah rumah melalui bank yang menawarkan kridit pemilihan rumah ( KPR ) . harga rumah yang akan dibeli Rp. 80.000.000 . pak sofyan memberi uang muka Rp.20.000.000,- dan kekurangannya diangsur selama 10 tahun , jika bank memberikan bunga pinjaman 10% per tahun , tentukan besar angsuran setiap bulan.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "80.000.000-20.000.000= 40.000.000 yg harus di angsur selama 10 thn<br>10 thn = 120 bulan<br>1 bulan membayar= 40.000.000 : 120=333.333 (tanpa bunga)<br>110/100*3.333.333= 36.666.667 : 100= 366.667<br>jadi yg harus di bayar tiap bulan sebesar Rp. 366.667<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-keliling-lingkaran-88-cm-maka-jari-jari-lingkaran-adalah-220",
+            "question": "Bila keliling lingkaran = 88 cm, maka jari-jari lingkaran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>88 cm = 2 dikali 3,14 dikali x (jari jari)<br>88 = 6,28 dikali x<br>x = 88 dibagi 6,28 = 14,01 bisa dijadikan 14 cm aja <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 2[tex] \\pi [/tex]r atau\u00a0[tex] \\pi [/tex]D<br>k = 88<br>2[tex] \\pi r[/tex] = 88<br>[tex] \\pi r = 88/2[/tex]<br>22/7r = 44<br>r = 44x7/22<br>r = 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-rabat-yaitu-15-besar-rabat-yaitu-rp4700-tentukan-615",
+            "question": "Diketahui Rabat yaitu 15% Besar Rabat yaitu Rp.4.700 .. Tentukan Harga Barang dan Harga Bersihnya???\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Harga bersih = n<br><br>[tex]\\frac{0.15}{1} = \\frac{4700}{n}[/tex]<br><br>n =\u00a0[tex] \\frac{4700}{0.15} [/tex] = 31333<br><br>Jadi harga jualnya adalah = 31333 + 4700 = 35333",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-lingkaran-dengan-diameter-70-cm-dan-adalah-667",
+            "question": "Luas sebuah lingkaran dengan diameter 70 cm dan \r\n adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik :<br>d : 70 cm<br>r : 1/2 d = 1/2 x 70 = 35<br><br>jawab :<br>L = 3,14 x r kuadrat<br>L = 3,14 x 35\u00a0<br>\u00a0 \u00a0= 109,9<br><br>Mudah-mudahan bener :)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus luas lingkaran :<br>22/7 X 35 X 35 : 3850<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-dengan-pusat-p-titik-a-b-r-dan-s-te-592",
+            "question": "diketahui sebuah lingkaran dengan pusat P. Titik A, B, R dan S terletak pada lingkaran. Besar sudut APB 40*, besar sudut RPS 100* dan panjang busur RS adalah 40 cm. Hitunglah panjang busur AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo rumusnya<br>sudut/sudut = P.busur/P.busur<br>sudut/sudut = 40/X<br>100/40 = 40/X<br>40X40 = 100X<br>1600 = 100X<br>X \u00a0= 16<br><br>nih rumusnya<br><span>sudut/sudut = P.busur/P.busur = L.jurung/L.Juring</span><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-nya-soal-persentase-untung-dan-rugi-1-pak-b-227",
+            "question": "TOLONG DIJAWAB NYA\u00a0 \u00a0 SOAL PERSENTASE UNTUNG DAN RUGI 1 . Pak Bhayu menjual TV , ternyata ia menderita kerugian sebesar 15 persen yg nilainya Rp.240.000 . Tentukan harga beli dan harga jual TV itu ? \u00a0 2 . Pak Iman membeli sepeda bekas dengan harga Rp.75.000 , kemudian deperbaikinya dengan biaya Rp.45.000 . Bila akhirnya sepeda itu ia jual dengan harga Rp.156.000 , maka Pak Iman akan mendapat untung sebesar ? ( hasilnya persen ) \u00a0 3 .Seorang pedagang membeli 18 kg apel dengan harga Rp.88.500 . Separuh apel ia jual dengan harga Rp.7.500 per kg , sepertiganya ia jual dengan harga Rp.6.800 per kg , dan sisanya ia jual dengan harga Rp.5.200 per kg . Pedagang tersebut ternyata tetap untung , besar untung yang di peroleh pedagang itu adalah ? \u00a0 TOLONG BANTU AKAU OWH MASALAH NYA TUGAS NYA DIKUMPULIN NYA BESOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. 156.000 - (75.000+45000) =156.000 -120000 = 36000<br>\u00a0\u00a0 \u00a0 36.000/120.000x100% = 30%<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. a. harga beli = 100/15 x 240.000 = 1.600.000\u00a0<br>\u00a0 \u00a0 b. harga jual = 85/15 x 240.000 = 1.360.000<br><br>2.\u00a0harga beli + perbaikan = 75.000+45.000= 120.000<br>\u00a0 \u00a0 dijual 156.000<br>\u00a0 \u00a0 keuntungan = 156.000-120.000= 36.000<br>\u00a0 \u00a0 keuntungan = 36.000/120.000 x 100% = 30%<br><br>3.\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

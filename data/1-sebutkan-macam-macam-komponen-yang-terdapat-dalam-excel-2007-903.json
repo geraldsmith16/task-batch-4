@@ -1,0 +1,140 @@
+{
+    "question": "1. sebutkan    macam-macam komponen yang terdapat dalam excel 2007!\r\n\r\n 2.\r\n jelaskan perbedaan antara cell dan range dalam excel 2007!\r\n\r\n 3.\r\n jelaskan perbedaan antara tombol save dan save as!\r\n\r\n 4.\r\n jelaskan perbedaan fungsi dari perintah excel options dan exit excel!\r\n\r\n 5. apa\r\n yang dimaksud dengan quick access toolbar? jelaskan!\r\n\r\n 6.jelaskan\r\n cara memindah worksheet!\r\n\r\n 7.\r\n sebutkan bentuk-bentuk kursor dan jelaskan!\r\n\r\n 8.\r\n jelaskan apa yang disebut dengan autofill!\r\n\r\n9.\r\n jelaskan apa yang di maksud dengan range!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. Office Button, Quick Acces Toolbar, Tiittle Bar, Ribbon, Name Box (Bar Nama), Formula Bar, Kolom (Column), Baris (Row), Sel (Cell), Lembar Kerja, Tabulasi Worksheet, Navigasi Worksheet, Zoom Level, Scroll Bar.<br><br>2. - Cell adalah perpotongan antara baris dan kolom<br>\u00a0\u00a0\u00a0 - Range merupakan gabungan dari beberapa sel<br><br>3. - Save: Untuk menyimpan dokumen<br>\u00a0\u00a0\u00a0 - Save as: Untuk menyimpan dokumen dengan nama atau format yang berbeda<br><br>4. - Excel Options: Untuk membuka jendela Excel Options (Pengaturan Excel)<br>\u00a0\u00a0\u00a0 - Exit Excel: Untuk menutup aplikasi Ms. Excel<br><br>5. Quick Acces Toolbar adalah bar yang berfungsi untuk mengakses perintah-perintah yang ada di Ms. Excel dengan cepat, atau Quick Acces Toolbar merupakan jalan pintas untuk mengakses suatu perintah-perintah<br><br>6. Cara memindahkan Sheet: Klik dan Tahan Tab Worksheet yang ingin dipindahkan \u2192 Lalu gerakan pointer ke arah Tab Worksheet yang ingin dipindahkan.<br><br>7. (Di Gambar)<br><br>8. <span>Untuk mengisi data pada sel berdasarkan pola tertentu dari data pada sel lain</span><br><br>9. Range adalah gabungan dari beberapa sel<br>",
+            "attachments": [
+                "answer-attachments/1-sebutkan-macam-macam-komponen-yang-terdapat-dalam-excel-2007-903-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jelaskan-fungsi-memformat-disket-atau-harddisk-296",
+            "question": "Jelaskan fungsi memformat disket atau harddisk",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk mengosongkan/menghapus seluruh data yg ada didalam hardisk/flashdisk..juga menghapus dump file yg mengendap",
+                    "attachments": []
+                },
+                {
+                    "answer": "untuk membuat flashdisk\u00a0lebih dapat menyimpan file yg yang berat nya tidak dapat ditampung oleh flashdisk itu sendiri. menformat juga bisa untuk mengahapus file yang ada didalam flashdisk.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-kecepatan-akses-data-pada-access-point-yang-memiliki-stand-792",
+            "question": "Berapa kecepatan akses data pada access point yang memiliki standar kode IEEE 802.11b :    \u00a0\u00a0\u00a0 a. 54Mb/s\u00a0 \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 b. 216Mb/s \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 c. 11Mb/s \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 d. 108Mb/s \u00a0\u00a0\u00a0 \r\n \u00a0\u00a0\u00a0 e. 432Mb/s \u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span> kecepatan akses data pada access point yang memiliki standar kode IEEE 802.11b :</span>c.11Mb/s<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menyalin-software-dengan-cara-bagaimanakah-yang-diperbolehkan-m-327",
+            "question": "Menyalin software dengan cara bagaimanakah yang diperbolehkan? #mohondibantu ya:-) \r\n terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Menyalin sebenarnya boleh tapi hanya saja kita tidak boleh mengganti nama pembuatnya dll,,dan juga tidak boleh diperjual belikan jika tidak ada izin dari pengelola<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-jejaring-sosial-585",
+            "question": "Pengertian jejaring sosial",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jejaring sosial adalah suatu struktur sosial\n yang dibentuk dari simpul-simpul (yang umumnya adalah individu atau \norganisasi) yang dijalin dengan satu atau lebih tipe relasi spesifik \nseperti nilai, visi, ide, teman, keturunan, dll.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jejaring sosial adalah suatu cakupan dari sistem software yg memungkinkan pengguna dapat berinteraksi dan berbagi data dengan pengguna yg lain dalam skala yg besar<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-antara-tombol-close-dengan-tombol-exit-pada-lembar-801",
+            "question": "Apa perbedaan antara tombol close dengan tombol exit pada lembar kerja microsoft Excel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Close:</strong> Untuk menutup dokumen di Ms. Excel tanpa menutup aplikasinya<br><strong>Exit:</strong> Untuk menutup dokumen di Ms. Excel beserta menutup aplikasinya<br><br>Semoga Membantu!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-search-engine-900",
+            "question": "Contoh search engine",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yahoo, google, ask, opera.",
+                    "attachments": []
+                },
+                {
+                    "answer": "Easy bana! :)<br>search engine yaa mesin pencarian,kaya web ini juga bisalah tergolong salah satunya. tapi ada beberapa yang terkenal di kalangan umum :<br>1. Mbah Google :P<br>2. Yahoo<br>3. Wikipedia<br>4. WikiHow<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-fungsi-wrap-text-shrink-to-fit-dan-merge-cells-pada-pe-687",
+            "question": "Jelaskan fungsi wrap text, shrink to fit, dan Merge cells pada pemformatan teks.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Wrap Text<span>\u00a0digunakan untuk mengatur posisi objek dalam kaitannya dengan paragraf teks.<br></span>Shrink to fit<span>\u00a0untuk menyesiuaikan ukuran text sesuai dengan lebar kolom<br></span>Merge cells adalah fungsi di dalam\u00a0microsoft word<span>\u00a0yang digunakan untuk menggabungkan cell pada table, yaitu dengan cara:</span><br>a) Blok kolum/baris yang akan digabungkan/mergesebanyak 2 atau lebih<br><span>b) Kemudian klik\u00a0</span>menu<span>\u00a0Table da klik Merge cells</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pengertian-right-dan-rumusnya-2-pengertian-left-dan-rumus-326",
+            "question": "1.\u00a0pengertian\u00a0RIGHT dan rumusnya     2.\u00a0pengertian\u00a0LEFT dan rumusnya\u00a0\r\n3.\u00a0pengertian\u00a0LEN dan rumusnya\u00a0\r\n4.\u00a0pengertiann\u00a0PROPER dan rumusnya\u00a0\r\n5.\u00a0pengertian\u00a0LOWER dan rumusnya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a01.\u00a0RIGHT digunakan untuk mengambil karakter dari kanan/belakang/akhir dari data teks sebanyak jumlah karakter yang diambil\u00a0<br><span>=RIGHT(data_teks, jumlah_karakter).<br>2.\u00a0</span>\u00a0string adalah fungsi yang dapat menempatkan dan mengelolah data berjenis teks pada lembar kerja MS. Excel.<br><span>\u00a0=LEFT(data teks, jumlah karakter)<br>3.\u00a0</span>LEN <span>Digunakan untuk menghitung panjang suatu teks atau banyaknya teks<br></span><span>=Menjumlah Karakter(Sel yang akan dihitung karakternya)<br></span>4.PROPER\u00a0membuat teks menjadi huruf besar di karakter pertama di setiap kata. Penulisannya:<br><span>=PROPER(text)<br>5.\u00a0</span>Fungsi LOWER<br>Fungsi ini kebalikan dari fungsi UPPER, yaitu menjadikan huruf kecil semua. penulisannya:<br><span>=LOWER(text)</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-mengenai-tab-file-dalam-ms-excel-2010-866",
+            "question": "Jelaskan mengenai tab File dalam MS. Excel 2010",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tombol\n yang berisi menu full down.tombol ini sebagai pengganti microsoft \noffice button (atau tombol microsoft) yang terdapat pada excel versi \n2007<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pada tutorial VBA dasar, penulis menunjukkan bagaimana developer tab diaktifkan di MS Excel 2007. Nah, ternyata terdapat perbedaanuntuk mengaktifkan tab yang sama di MS Excel 2010.<br><br><br>kunjunggi\u00a0</span>http://www.belajarexcel.info/2013/09/mengaktifkan-developer-tab-di-excel-2010.html",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-fungsi-sub-menu-copy-dalam-menu-home-232",
+            "question": "Apakah fungsi sub menu copy dalam menu home ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang pasti untuk menyalin sesuatu<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

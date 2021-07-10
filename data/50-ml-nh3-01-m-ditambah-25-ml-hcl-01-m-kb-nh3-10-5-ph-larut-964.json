@@ -1,0 +1,128 @@
+{
+    "question": "50 ml NH3 0,1 M ditambah 25 ml HCl 0,1 M (Kb NH3 = 10^-5 ph larutan adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0\u00a0 \u00a0  NH3\u00a0 +\u00a0 HCl\u00a0  &lt;panah&gt;\u00a0 NH3Cl\u00a0 +\u00a0 H2<br>m\u00a0 \u00a0 5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>t\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  2,5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>s\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2,5<br>sisa basa lemah dan garamnya= buffer<br>rumus buffer=<br>OH-=kb.mol basa lemah/garamnya <br>OH-=10^-5.2,5/2,5<br>OH-=10^-5<br>pOH=5<br>pH=14-5=9<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1-berapa-ph-larutan-yang-terjadi-jika-dalam-500-ml-larutan-terda-643",
+            "question": "1. Berapa pH larutan yang terjadi jika dalam 500 mL larutan terdapat 12 gram CH\u2083COOH dan 8,2 gram CH\u2083COONa? (Ka=1,8x10\u207b\u2075)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mol CH3COOH = 500 . 12 = 6000<br>mol CH3COONA = 8,2 . V<br><br>CH3COOH = CH3COONA<br>6000 = 8,2 V<br>V = 6000/8,2 = 731 ,\u00a070732<br><br>CH3COOH\u00a0\u03b1 =\u00a0\u221aKa.M = \u00a01,8X10^-5.6000 = \u221a1,08 X 10^-1<br>pH = -log H<br>\u00a0 \u00a0 \u00a0= - log\u00a0\u221a1,08 X 10^-1<br>\u00a0 \u00a0\u00a0<br>kb = 14/5 = 1x10^9<br><br>OH =\u00a0\u221a1x10^9 . 731,7032<br><br>pH = 14 - log OH",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-196-gram-h2so4-do-larutkan-me-dalam-200-ml-air-maka-ph-979",
+            "question": "Sebanyak 1,96 gram H2SO4 do larutkan me dalam 200 ml air maka pH larutan yang terbentuk sebesar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M = n/V = m/ mr. V = 1,96 / 98 x 0,2 = 0,1<br>(H+) = valensi asam x M = 2 x 0.1 = 0.2<br>pH = - log (H+) = - log 0,2 = 1 - log 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-senyawa-yang-dapat-dibentuk-oleh-ion-na-dan-ion-c-650",
+            "question": "Tuliskan rumus senyawa yang dapat dibentuk oleh ion Na+ dan ion CO3\u00a02-?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pakai rumus ini lebih mudah<br>A^x+\u00a0 \u00a0 +\u00a0 \u00a0  B^y-\u00a0 ---&gt;\u00a0  AyBx<br>jika B merupakan ion poliatom (lebihd ari 1 atom peyusun) maka perlu dikasih tanda kurung :)<br><br>Na+\u00a0 \u00a0  +\u00a0 \u00a0  CO3 2- --&gt;\u00a0 Na2CO3<br><br>semoga membantu :)<br>berika label terbaikya :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-25-ml-larutan-hcl-01m-dititrasi-dengan-larutan-koh-01m-952",
+            "question": "Sebanyak 25 mL larutan HCL 0,1M dititrasi dengan larutan KOH 0,1M. Hitunglah pH larutan :    a. Sebelum ditambah KOH\r\nb. Setelah ditambah KOH sebanyak 5mL",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH sebelum<br>-log 0,1 = 1<br><br>pH sesudah<br><br>HCl \u00a0 \u00a0 \u00a0 \u00a0\u00a0+ \u00a0 KOH ---&gt; \u00a0\u00a0KCl + H2O<br>2,5mmol \u00a0 \u00a0 \u00a0 5mmol<br>2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a02,5<br>-------------------------------------------------------------------<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5<br><br><br>2,5 x 10^-3 mol dalam 30 mL<br>0,83 x 10^-3 mol dalam 10 mL<br>0,83 x 10^-1 M<br><br><br>pOH larutan<br>-log 0,083 = 1,08<br><br><br>pH = 14 -1.08 = 12,92",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-tujuan-vulkanisasi-pada-proses-pembuatan-ban-mohon-bantuanny-183",
+            "question": "Apa tujuan vulkanisasi pada proses pembuatan ban?\r\n\r\nmohon bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Tujuan vulkanisasi pada proses pembuatan ban adalah untuk meningkatkan <strong>ketahanan mekanis (memberi sifat keras) dan ketahanan suhu</strong>.</p><h3><strong>Penjelasan:</strong></h3><p>Ban dibuat dari bahan dasar karet. Seperti yang kita ketahui, karet memiliki sifat yang plastis dan kenyal. Namun, tentu saja setiap kendaraan membutuhkan spesifikasi ban yang berbeda, sesuai dengan medan yang biasa ditempuh. Karenanya, ban tidak dibuat hanya dari karet saja, melainkan dicampur dengan beberapa bahan lain untuk memberikan sifat yang berbeda. </p><p>Proses pengolahan karet dengan cara menambahkan bahan sulfur (belerang) disebut vulkanisasi. Vulkanisasi bertujuan untuk menambah sifat ketahanan fisik ban (membuatnya lebih keras) juga meningkatkan ketahanan suhu. Proses vulkanisasi merubah struktur molekul karet yang semula tidak berarturan menjadi berikatan, membentuk rantai panjang sehingga menghasilkan sifat fisik yang lebih keras. Semakin banyak belerang yang dicampurkan, akan semakin tinggi tingkat kekerasan ban yang dihasilkan.</p><h3>Pelajari lebih lanjut:</h3><p>Polimer : https://brainly.co.id/tugas/5003101</p><h3>Detil jawaban :\n</h3><p>Kelas : 12\n</p><p>\nMapel : Kimia\n</p><p>\nBab : Polimer\n</p><p>\nKode : 12.7.9</p><p></p><p><strong>kata kunci : vulkanisasi, ban</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-molaritas-larutan-amonia-yang-harus-disediakan-agar-dipero-470",
+            "question": "berapa molaritas larutan amonia yang harus disediakan agar diperoleh larutan dengan [OH-] = 3.6\u00a0 X 10^-3 Jika diketahui kb= 1,8 X 10^-5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>Molaritas larutan amonia (NH\u2083) yang harus disediakan agar diperoleh larutan dengan [OH\u207b] = 3,6 \u00d7 10\u207b\u00b3. Jika diketahui Kb = 1,8 \u00d7 10\u207b\u2075 adalah <strong>0,72 M.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p><strong>Nilai pH dari larutan berikut :\n</strong></p><p>Diketahui : [OH\u207b] = 3,6 \u00d7 10\u207b\u00b3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Kb = 1,8 \u00d7 10\u207b\u2075</p><p>Ditanya : M NH\u2083 ?</p><p>Jawab :</p><p>[OH\u207b]\u00b2 = Kb \u00d7 Mb</p><p>(3,6 \u00d7 10\u207b\u00b3)\u00b2 = 1,8 \u00d7 10\u207b\u2075 \u00d7 Mb</p><p>12,96 \u00d7 10\u207b\u2076 = 1,8 \u00d7 10\u207b\u2075 \u00d7 Mb</p><p>Mb = 12,96 \u00d7 10\u207b\u2076 / 1,8 \u00d7 10\u207b\u2075</p><p>Mb = 7,2 \u00d7 10\u207b\u00b9 M</p><p> \u00a0 \u00a0 \u00a0= 0,72 M</p><p><strong>\u2234 Kesimpulan molaritas NH\u2083 adalah 0,72 M.</strong></p><p><strong>Pembahasan : \u00a0</strong></p><p><strong>pH (power of hydrogen) \u00a0</strong></p><p>pH (power of hydrogen) digunakan untuk mengukur tingkat keasaman suatu zat. Range nilai pH adalah dari 0 hingga 14, namun ada pH yang berada di bawah nol dan lebih tinggi dari 14 yang disebut pH ekstrim. rumus pH: \u00a0</p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Rentang pH terdiri dari 3, yaitu: \u00a0</p><ul><li>pH &lt; 7 = termasuk pH asam (asam kuat dan lemah) \u00a0</li><li>pH = 7 = termasuk pH netral (garam bersifat kuat dari asam kuat dan basa kuat) \u00a0</li><li>pH &gt; 7 = termasuk pH basa (basa kuat dan lemah) \u00a0</li></ul><p><strong>pOH \u00a0</strong></p><p>pOH digunakan untuk mengukur tingkat kebasaan suatu zat yang bersifat basa. contoh yang bersifat basa adalah sabun. kebasaan suatu zat kimia yang bersifat basa dihitung menggunakan pOH yang harus diubah ke pH. \u00a0</p><p>Rumus : \u00a0</p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = PKw - pOH \u00a0</strong></p><p><strong> \u00a0 \u00a0 \u00a0= 14 - pOH \u00a0</strong></p><p><strong>Perhitungan pH asam \u00a0</strong></p><p>Istilah asam berasal dari bahasa Latin \u201cAcetum\u201d yang berarti cuka, karena diketahui zat utama dalam cuka adalah asam asetat. secara umum asam yaitu zat yang berasa masam. \u00a0</p><p>berikut ciri-ciri asam kuat: \u00a0</p><ul><li>Mengion sempurna (derajat ionisasi atau \u03b1 bernilai 1) \u00a0</li><li>pH-nya ditentukan dari konsentrasi larutan dan valensi asam (tentang valensi asam) \u00a0</li><li>Dapat merusak kulit \u00a0</li><li>Bersifat korosif \u00a0</li><li>Semakin mendekati pH bernilai 1, maka dikatakan asam kuat \u00a0</li><li>Terkecuali asam sulfat (H\u2082SO\u2084) dapat mengion sempurna pada konsentrasi yang sangat encer \u00a0</li></ul><p>Rumus menghitung asam kuat : \u00a0</p><p><strong>[H\u207a] = a \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Rumus menghitung asam lemah : \u00a0</p><p><strong>[H\u207a] = \u221aKa \u00d7 Ma \u00a0</strong></p><p><strong>pH = - log [H\u207a] \u00a0</strong></p><p>Keterangan : a = valensi asam \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ma = Konsentrasi asam \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Ka = tetapan ionisasi asam lemah \u00a0</p><p><strong>Perhitungan pH basa \u00a0</strong></p><p>Basa (alkali) berasal dari bahasa arab yang berarti abu. Secara umum basa yaitu zat yang berasa pahit bersifat kaustik. \u00a0</p><p>Sifat-sifat basa yaitu sebagai berikut : \u00a0</p><ul><li>Mempunyai rasa pahit dan merusak kulit. \u00a0</li><li>Terasa licin seperti sabun bila terkena kulit. \u00a0</li><li>Dapat mengubah kertas lakmus merah menjadi kertas lakmus biru. \u00a0</li><li>Dapat menghantarkan arus listrik \u00a0</li><li>Dapat menetralkan asam \u00a0</li></ul><p>Rumus menghitung basa kuat : \u00a0</p><p><strong>[OH\u207b] = b \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Rumus menghitung basa lemah : \u00a0</p><p><strong>[OH\u207b] = \u221aKb \u00d7 Mb \u00a0</strong></p><p><strong>pOH = - log [OH\u207b] \u00a0</strong></p><p><strong>pH = 14 - pOH \u00a0</strong></p><p>Keterangan : b = valensi basa \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Mb = Konsentrasi basa \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Kb = tetapan ionisasi basa lemah \u00a0</p><p><strong>Pelajari lebih lanjut : \u00a0</strong></p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21652602 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21650779 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21157455 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21176838 \u00a0</p><p>materi tentang pH asam Basa https://brainly.co.id/tugas/21126249 \u00a0</p><p>--------------------------------------------------------------------------------------------------- \u00a0</p><p><strong>Detail jawaban : \u00a0</strong></p><p>Kelas : 11 \u00a0</p><p>Mapel : Kimia \u00a0</p><p>Bab : 5 \u00a0</p><p>Kode : 11.7.5 \u00a0</p><p>Kata Kunci : asam, basa, pH </p>",
+                    "attachments": [
+                        "answer-attachments/berapa-molaritas-larutan-amonia-yang-harus-disediakan-agar-dipero-470-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "h2so4-termasuk-senyawa-ion-atau-kovalen-naoh-termasuk-senyawa-io-873",
+            "question": "H2SO4 termasuk senyawa ion atau kovalen?\r\nNaOH termasuk senyawa ion atau kovalen?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SO4 termasuk kovalen<br>NaOh termasuk ion<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. nonlogam dan nonlogam = kovalen<br>2. logam dan non logam = ion",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-kristal-nacl-dapat-menghantrkan-listrik-bagaimana-dengan-866",
+            "question": "Apakah kristal NaCl dapat menghantrkan listrik? Bagaimana dengan lelehan NaCl?jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dalam bentuk padatan,<br>NaCl tidak dapat menghantarkan listrik dikarenakan ion - ion dalam senyawanya tidak dapat bergerak bebas/ tidak terurai<br>Dalam bentuk lelehan<br>NaCl dapat menghantarkan arus listrik tetapi kurang baik, ini dikarenakan hanya sebagian dari ion - ion dalam senyawanya yang terurai<br>Dalam bentuk larutan<br>NaCl dapat menghantarkan listrik dengan baik dikarenakan ion - ion dalam larutannya terurai sempurna sehigga dapat bergerak bebas dalam larutannya<br><br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-senyawa-mempunyai-rumus-empiris-c3h4o-dan-massa-molekul-rel-781",
+            "question": "suatu senyawa mempunyai rumus empiris C3H4O dan massa molekul relatif=112 jika Ar c=12 H=1 O=16 maka rumus molekul senywa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C3H4O \u00a0 = 112<br>(C3H4O)n 112<br>36n + 4n + 16n =112<br>56n \u00a0 \u00a0= 112<br>n = 2<br>jadi rumus molekulnya (C3H4O)2<br>C6H8O2<br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-asam-silikat-324",
+            "question": "Rumus asam silikat???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2SiO3 itu angkanya kecilin ya kalau mau ditulis<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "question": "Diketahui sudut AOB 120 derajat , sudut BOC 150 derajat dan luas juring AOB 84 cm persegi .Luas Juring BOC = ... cm persegi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "150/120=BOS/84<br>BOC \u00a0= 150x84/120<br>BOC \u00a0= 105<br><br><br>Insyaallah betul",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] \\frac{LJ AOB}{SP AOB} X  \\frac{LJ BOC}{SP BOC} [/tex]<br>=[tex] \\frac{84}{120}  X  \\frac{x}{150} [/tex]<br>= 12600\u00a0= 120 x<br>= x = 105 cm\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-50-dari-barisan-bilangan-7-15-23-31-39-adalah-517",
+            "question": "Suku ke-50 dari barisan bilangan 7, 15, 23,    31, 39, \u2026 adalah \u2026\r\n(A) 392\r\n(B) 399\r\n(C) 407\r\n(D) 448",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik: barisan bilangan 7,15,23,31,39<br>Dit: U50?<br>Jwb: a=7<br>         b=U2-U1<br>           = 15-7 =&gt; 8<br><br>          Un= a+(n-1)b<br>          U50= 7+(50-1)8<br>                 = 7+(49)8<br>                 = 7+392<br>                 = 399 (B)<br><br>sorry ya telat kali jawabnya hehe",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pecahan-yang-terletak-diantara-pecahan-56-dan-67-adalah-515",
+            "question": "Pecahan yang terletak diantara pecahan 5/6 dan 6/7 adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/6 dan 6/7 harus disamakan terlebih dahulu.,yaitu dengan cara mengalikan penyebutnya. 6 x 7 didapatlah 42. Ubah pecahan 5/6 dan 6/7 menjadi pecahan yg berpenyebut 42. 5/6 = 35/42 dan 6/7 = 36/42. kalikan kedua pecahan tersebut dengan 2, menjadi: 70/84 dan 72/84. Pecahan diantara keduanya? <br>71/84<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-4x6lt7x-9-dengan-x-bilangan-bulat-a-582",
+            "question": "Himpunan penyelesaian dari\r\n4x+6&lt;7x-9 dengan x bilangan bulat adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x+6 &lt; 7x-9<br>4x+6-6 &lt; 7x-9-6<br>4x &lt; 7x-15<br>15 &lt; 7x -4x<br>15 &lt; 3x<br>5 &lt; x<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "4x + 6 &lt; 7x - 9<br>=4x - 7x &lt; -9 - 6<br>= -3x &lt; -15<br>= x &gt; 5 :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-ab-pada-lingkaran-yang-berdiameter-20-cm-jika-panjang-busu-390",
+            "question": "Besar AB pada lingkaran yang berdiameter 20 cm. Jika panjang busur AB = 18,84 cm . Maka besar sudut AOB = . . . PLEASE , bantu aku ya . Mksh sblm nya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas juring AOB = (18,84 x 3,14 x 10 x 10) : (3,14 x 20)<br>= (18,84 x 3,14 x 100) : (62,8)<br>= (18,84 x 314) : 62,8<br>= 5915,76 : 62,8<br>= 94,2 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857",
+            "question": "Perhatikan gambar berikut .    S adalh pusat lingkaran \u00a0suut =21 derajat\r\nsudut SPR=27 derajat .teentukanlahsudut PRS.sudut SQR,sudut PRQdan sudut PSQ\r\n\r\n\r\nmohon bantuannya dengan cara :)",
+            "attachments": [
+                "question-attachments/perhatikan-gambar-berikut-s-adalh-pusat-lingkaran-suut-21-de-857-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "PRS = 21 Derajat<br>SQR = 27 Derajat<br>PRQ = 42 Derajat<br>PSQ = 84 Derajat",
+                    "attachments": []
+                },
+                {
+                    "answer": "&lt;PRS = 21\u00b0 karena menghadap busur PQ ( &lt;SRQ juga menghadap busur PQ )<br>&lt;SQR = 27\u00b0 <br>&lt;PRQ = 42\u00b0 karena jumlah suudut PRS dan sudut SRQ<br>&lt;PSQ = 84\u00b0 karena sudut pusat = 2 \u00d7 sudut keliling &lt;PRQ<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-suatu-sudut-3-kali-pelurusnya-hitunglah-besar-sudut-terseb-635",
+            "question": "Besar suatu sudut 3 kali pelurusnya. Hitunglah besar sudut tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 3(180-a)\na = 540-3a\na+3a = 540\n4a = 540\na = 135",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "angka-terakhir-dari-hasil-2-pangkat-2010-918",
+            "question": "Angka terakhir dari hasil 2 pangkat 2010=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>angka terakhir dari 2 pangkat 2010 adalah 0<br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 pangkat.......<br>1=.....2 (baca: 2 pangkat 1 akhiran 2)<br>2=.....4 (baca: 2 pangkat 2 akhiran 4)<br>3=.....8 (baca: 2 pangkat 3 akhiran 8)<br>4=.....6 (dst)<br>--------------<br>5=.....2<br>6=.....4<br>7=.....8<br>8=.....6<br>------------<br>9=.....2<br>10= .....<br><br>terjadi perulangan angka setiap 4 kali. jadi angka terakhir dari 2 pangkat 2010 adalah<br><br>2010:4= 502 sisa 2<br><br>untuk sisa<br>1=.....2<br>2=.....4<br>3=.....8<br>untuk tidak ada sisa = 6<br><br>jadi angka terakhir dari 2 pangkat 2010 adalah (4)<br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dalam-suatu-perlombaan-seorang-pembalap-sepeda-menempuh-lintasan-689",
+            "question": "Dalam suatu perlombaan, seorang pembalap sepeda menempuh lintasan berbentuk lingkaran dengan jari-jari 500m. jika pembalap tersebut menempuh jarak 15.700m, maka jumlah putaran yang ditempuh pembalap terbsebut adalah...    ad ayg bisa jawab? :D hehe",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling lintasan = 2 x 3,14 x 500<br>keliling lintasan =3140 m<br>banyak putaran = jarak yang ditempuh/ keliling lintasan<br>banyak putaran = 15.700/3140<br>banyak putaran = 5 kali<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-b-896",
+            "question": "Pada hari raya, supermarket menjual pakaian dengan diskon besar-besaran. Ibu membeli kemeja adik dengan harga Rp 150.000 setelah di diskon sebesar 30% (+15%), artinya akan terjadi diskon harga lagi sebesar 15% dari total harga setelah di diskon 30%. Berapakah harga kemeja tersebut jika tidak ada diskon ????\u00a0 Terima kasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "maaf, tapi sebelumnya sudah ada pertanyaan yg seperti ini, tapi akan saya jawab.\n\u300b(cara cepat)\n\u300b150.000 x 100/85 = 176.470\n\u300b176.470 x 100/70 = 252.100\n\u300b jadi, harga kemeja sebelum semua diskon adalah Rp. 252.100",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "alas-sebuah-segitiga-12-cm-dan-tingginya-10-cm-luas-segitiga-ter-355",
+            "question": "Alas sebuah segitiga 12 cm dan tingginya 10 cm. luas segitiga tersebut adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luasnya segitiga<br>\u00a060cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "L Segitiga = 1/2 a . t<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  1/2.12cm.10cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 6cm.10cm<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  60cm\u00b2<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

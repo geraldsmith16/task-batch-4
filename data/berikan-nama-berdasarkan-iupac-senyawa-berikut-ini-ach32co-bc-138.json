@@ -1,0 +1,136 @@
+{
+    "question": "Berikan nama berdasarkan IUPAC senyawa berikut ini    a.(CH3)2CO\r\nb.C2H5-O-C-CH3\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 //\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 O\r\nc. CH3-CH-CH2-CH-OH\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 /\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 /\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3\u00a0 \u00a0 \u00a0\u00a0 C2H5",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. propanon<br>b. etil etanoat<br>c. 5-metil-3-heksanol",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-ml-larutan-naoh-01-m-harus-dicampurkan-dengan-100-ml-laru-792",
+            "question": "berapa mL larutan NaOH 0,1 M harus dicampurkan dengan 100 mL larutan HCl 0,1 M untuk membuat larutan ph=3 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui :\u00a0</span><br><span>M NaOH = 0,1 M\u00a0</span><br><span>M HCl = 0,1 M\u00a0</span><br><span>V HCl = 100 ml\u00a0</span><br><br><span>Ditanya :\u00a0</span><br><span>V NaOH agar pH=3 ?\u00a0</span><br><br><span>Jawab :\u00a0</span><br><span>pH lar = 3\u00a0</span><br><span>[H+] = M\u00a0</span><br><span>[H+] = 10^-pH\u00a0</span><br><span>[H+] = 10^-3\u00a0</span><br><span>M lar = 10^-3 = 0,001 M\u00a0</span><br><br><span>NaOH + HCl == &gt; NaCl + H2O\u00a0</span><br><br><span>Mol NaOH = Mol NaCl\u00a0</span><br><span>V1.M1 = V2.M2\u00a0</span><br><span>x . 0,1 = (100 + x ) . 0,001\u00a0</span><br><span>0,1x = 0,1 + 0,001x\u00a0</span><br><span>0,1x \u2013 0,001x = 0,1\u00a0</span><br><span>0,099x = 0,1\u00a0</span><br><span>x = 0,1 / 0,099\u00a0</span><br><span>x = 1,01 ml\u00a0<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "x-gram-naoh-dilarutkan-dalam-200-ml-air-10-ml-larutan-naoh-dapat-717",
+            "question": "X gram NaOH dilarutkan dalam 200 ml air. 10 ml larutan NaOH dapat dinetralkan oleh 28,5 ml HCl 0,155 M. Hitunglah harga X (Ar Na=23, O=16, H=1)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus titrasi/penetralan :<br>a.M.V=b.M.V<br>1.0,155.28,5=1.M.200<br>M=0,022<br>M=gr/mr.1000/ml<br>0,022=x/40.1000/200<br>x=0,022/5.4<br>x=0,01 gr<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-4-gram-serbuk-kalsium-hidroksida-dilarutkan-dalam-air-hi-957",
+            "question": "Sebanyak 4 gram serbuk kalsium hidroksida dilarutkan dalam air hingga 100mL. hitunglah volume larutan asam klorida 0,2 M yang diperlukan untuk menetralkan 25mL larutan kalsium hidroksida tersebut.    (Ar O= 16, Ca= 40)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. Reaksinya :  <br>\nCa(OH)2 + HCl --&gt; CaCl2 + H2O <br><br>\nmol Ca(OH)2= 4 gram/ (74 gram/mol)=0,05 mol  <br>\n[Ca(OH)2]= 0,05 mol / 0,1 L= 0,5 M <br>\n[OH-]= 1 M <br><br>\nPrinsip penetralan asam basa : <br>\nV1N1=V2N2 <br>\n25mL x  1 M  =  V2  x 0,2 M <br>\nV2= 125 mL.  <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Titrasi Ca(OH)\u2082 dengan HCl<br>Diketahui = <br><span>4 KOH dilarutkan dalam air hingga 100ml, <br>Pertama kita mencari Molaritasnya,<br>M = [tex] \\frac{gram}{Mr}   \\frac{1000}{v(ml)} [/tex]<br><br>M = [tex] \\frac{4}{74}   \\frac{1000}{10} [/tex]<br>M = 0,54 M --&gt; dibulatkan menjadi 0,5 M<br><br>Kemudian baru dititrasi,</span><br>V\u2081 . M\u2081 . a\u2081 = V\u2082 . M\u2082 . a\u2082<br><span>V\u2081 . 0,2 . 1 = 25 . 0,5 . 2</span><span><br>V\u2081 = </span>125ml<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-larutan-penyangga-penting-dalam-cairan-tubuh-418",
+            "question": "Mengapa larutan penyangga penting dalam cairan tubuh?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena larutan penyangga berfungsi untuk memepertahankan pH darah dan lain lain agar pH\u00a0tetap netral (7) tidak asam maupun basa.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-ph-larutan-yang-di-buat-dengan-mencampurkan-50-ml-larut-785",
+            "question": "hitunglah pH larutan yang di buat dengan mencampurkan 50 ml larutan CH3COOH 0,1 M dengan 50 ml larutan NaCH3COO 0,2 M. ( ka CH3COOH = 10^-5).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0CH3COOH + NaCH3COO\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0m.v \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m.v \u00a0\u00a0<br>mula2 \u00a0 \u00a0 5 mmol \u00a0 \u00a0 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-<br>reaksi \u00a0 \u00a0 5 mmol\u00a0 \u00a0 \u00a0\u00a05\u00a0mmol \u00a0 \u00a0 \u00a0 5 mmol<br>sisa \u00a0 \u00a0 \u00a0 \u00a0 \u00a00 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 mmol \u00a0 \u00a0 \u00a0 \u00a0 5\u00a0mmol<br><br>larutan tersebut bersifat penyangga asam lemah dan garam konjugasi basa<br>H \u00a0\u00a0= \u00a0ka . asam/garam<br>\u00a0 \u00a0 \u00a0= \u00a010^5 . 5 / 10<br>\u00a0 \u00a0 \u00a0= \u00a05 x 10^-6<br>pH = - log 5 x 10^-6<br>\u00a0 \u00a0 \u00a0= 6 - log 5<br>\u00a0\u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>hitunglah pH larutan yang di buat dengan mencampurkan 50 ml \nlarutan CH3COOH 0,1 M dengan 50 ml larutan NaCH3COO 0,2 M. ( ka CH3COOH =\n 10^-5).<br><br>mol CH3COOH = 50 ml x 0,1 M = 5 mmol<br>mol CH3COONa = 50ml x 0,2 = 10 mmol<br><br>CH3COONa merupakan garam bervalensi 1<br><br><br>H+ = Ka x (mol asam lemah/ (mol garam x valensi))<br>= 10^-5 x (5/10x1)<br>= 10^-5 x 0,5<br>5 x 10^-6<br><br>pH = 6 - log 5<br><br><br>untuk jawaban crutudg sudah benar, saya hanya menambahkan saja :)<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-biohazard-734",
+            "question": "Apa yang dimaksud dengan biohazard ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biohazard adalah\u00a0\u00a0<u>organisme</u>, atau zat yang berasal dari organisme, yang menimbulkan ancaman bagi\u00a0<u>k</u>esehatan\u00a0manusia. Hal ini dapat mencakup limbah medis,\u00a0<u>sample virus, mikroorganis</u>\u00a0atau racun (dari sumber biologis) yang dapat berdampak pada kesehatan manusia dan hewan. Istilah dan simbol yang terkait umumnya digunakan sebagai peringatan, agar mereka yang berpotensi terkena zat-zat tersebut dapat mengambil tindakan pencegahan.<br><br>adapun\u00a0<span>Istilah yang mungkin terkait dengan Biohazard :<br>- infestasi<br>- toksin<br>- zoonis<br>- mikroorganisme<br>- homeostatis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bantu-ya-tentukan-ph-dari-a-100-ml-larutan-kl-01-m-b-200-131",
+            "question": "Bantu ya\r\nTentukan PH dari :\r\na)\u00a0100 mL larutan Kl 0,1 M.\u00a0\r\nb) 200 mL larutan NH\u2084NO\u2083 0,18 M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. KI merupakan garam kuat, atau garam yang terbentuk dari asam kuat dan basa kuat, sehingga pH dari KI adalah 7 atau pH = netral<br><br>b. NH4NO3 = garam basa lemah valensi 1, terbentuk dari NH4OH(basa lemah) dan HNO3(asam kuat), sehingga mengalami hidrolisis garam.<br><br>NH4NO3 --&gt;\u00a0 NH4+\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  +\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 NO3-<br>0,18 M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,18M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,18M<br><br>yang mengalami hidrolisis adalah ion dari yang lemah yaitu NH4+<br><br>NH4+\u00a0 \u00a0 +\u00a0 \u00a0  H2O\u00a0  ---&gt;\u00a0  NH4OH\u00a0  +\u00a0  H+<br><br>H+ =\u00a0 akar [(Kw/Kb) x M garam x valensi]<br>= akar (10^-14/1,8 x10^-5) x 0,18 x 1)<br>= akar (10^-10)<br>= 10^-5<br><br>pH = 5<br><br><br>diatas Kb tidak diketahui, biasanya 1,8 x 10^-5, jika Kb dalam soal agan beda dengan saya bisa langsung di ganti saja dan dihitung kembali :)<br><br><br><br>semoga bermanfaat :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-05-l-larutan-asam-asetat-01m-ditambah-05l-larutan-na-774",
+            "question": "Diketahui 0,5 L larutan asam asetat 0,1M ditambah 0,5L larutan natrium asetat 0,1M. (Ka=1,8x10-5) . Tentukan : a. Ph larutan tersebut setelah dicampur b.berapa ph larutan jika ditambah 5ml asam klorida 0,1M?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "asam asetat (CH3COOH)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br>natrium asetat (CH3COONa)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br><br>(CH3COOH, as lemah) ---&gt;\u00a0 CH3COO-\u00a0 \u00a0 +\u00a0 \u00a0  H+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br>CH3COONa\u00a0 ----&gt; (CH3COO-, basa konjugasi)+\u00a0 \u00a0 Na+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br><br>a. pH larutan<br>dari soal didapatkan bahwa larutan merupakan larutan penyangga asam.<br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,05 / 0,05)<br>H+ = 1,8 x 10^-5<br><br>pH = 5 - log 1,8 = 4,74<br><br>b. ditambah asam 5 ml (0,005 Liter) HCl 0,1 M<br>mol HCl = 0,005 x 0,1 = 0,0005 mol<br><br>karena adanya penambahan asam, maka asam akan bereaksi dengan garam asam lemah dan menghasilkan asam lemah, sehingga konsentrasi asam lemah bertambah dan konsentrasi garam asam lemah berkurang.<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3COONa\u00a0  +\u00a0 \u00a0 HCl\u00a0  -----&gt;\u00a0 \u00a0 CH3COOH\u00a0 \u00a0 +\u00a0 \u00a0 NaCl (abaikan NaCl)<br>M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,05<br>R\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005<br>S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,045\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,055<br><br>maka <br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,055 / 0,045)<br>H+ = 2,196 x 10^-5<br><br>pH = 5 - log 2,196 = 4,65<br><br><br>semoga membantu :)<br>beri label terbaik jika jawaban saya terbaik :)<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-rumus-struktur-dan-rumus-molekul-dari-senyawa-23-dimeti-606",
+            "question": "Tuliskan rumus struktur dan rumus molekul dari senyawa 2,3 dimetil butanol?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena butanol sehingga atom C nya ada 4 . rantai induknya lurus.dan penomorannya dimulai dari kanan",
+                    "attachments": [
+                        "answer-attachments/tuliskan-rumus-struktur-dan-rumus-molekul-dari-senyawa-23-dimeti-606-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-mempelajari-larutan-elektrolit-dan-non-elektrolit-444",
+            "question": "Apa manfaat mempelajari larutan elektrolit dan non elektrolit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan mempelajari larutan elektrolit dan non-elektrolit kita bisa mengetahui sifat dan jenis kedua larutan tersebut.\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "sebagai penghantar listrik",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

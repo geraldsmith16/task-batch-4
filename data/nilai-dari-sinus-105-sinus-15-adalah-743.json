@@ -1,0 +1,128 @@
+{
+    "question": "Nilai dari sinus 105 - sinus 15 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>sin 105 - sin 15 =\u00a0</span>[tex] \\frac{1 +  \\sqrt{3} }{2 \\sqrt{2} } -  \\frac{ \\sqrt{3}-1 }{2 \\sqrt{2} } =  \\frac{1}{2}  \\sqrt{2} [/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894",
+            "question": "Himpunan penyelesaian dari 36 log (x-4) + 36 log (x+1) &lt; 1/2 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2</strong> adalah {x | 4 &lt; x &lt; 5, x \u2208 R}. Logaritma merupakan salah satu invers dari perpangkatan. Definisinya\n</p><p><strong>\u1d43log b = n </strong>artinya <strong>a\u207f = b\n</strong></p><p>dengan syarat <strong>a &gt; 0, b &gt; 0, a \u2260 1\n</strong></p><p><u>Sifat-sifat logaritma</u>\n</p><ul><li>\u1d43log bc = \u1d43log b + \u1d43log c\n</li><li>\u1d43log (b/c) = \u1d43log b \u2013 \u1d43log c\n</li><li>\u1d43log b\u207f = n . \u1d43log b\n</li><li>[tex]^{a^{m}}log\\:b^{n} = \\frac{n}{m}[/tex] \u1d43log b \u21d2 [tex]^{a^{n}}log\\:b^{n}[/tex] = \u1d43log b\n</li><li>\u1d43log b = [tex]\\frac{^{c}log\\:b}{^{c}log\\:a}[/tex] \u21d2 \u1d43log b = [tex]\\frac{1}{^{b}log\\:a}[/tex]\n</li><li>\u1d43log b . \u1d47log d . \u1d48log n = \u1d43log n\n</li><li>[tex]a^{^{a}log\\:b} = b[/tex]\n</li><li>\u1d43log a = 1\n</li><li>\u1d43log 1 = 0\n</li><li>\u00b9\u2070log b = log b\n</li></ul><p><strong>Pertidaksamaan logaritma\n</strong></p><p>\u1d43log f(x) &gt; \u1d43log g(x)\n</p><ul><li>Jika 0 &lt; a &lt; 1 maka <strong>f(x) &lt; g(x)</strong> ==&gt; (Tanda &gt; berubah menjadi &lt;)\n</li><li>Jika a &gt; 1 maka <strong>f(x) &gt; g(x) </strong>==&gt; (Tanda &gt; tetap, tidak berubah)\n</li><li>Syarat: <strong>f(x) &gt; 0, g(x) &gt; 0\n</strong></li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p></p><p>Syarat: \u00a0</p><ul><li>1) (x \u2013 4) &gt; 0 \u21d2 <strong>x &gt; 4\n</strong></li><li>2) (x + 1) &gt; 0 \u21d2 <strong>x &gt; \u20131\n</strong></li></ul><p></p><p><strong>Penyelesaian\n</strong></p><p>\u00b3\u2076log (x \u2013 4) + \u00b3\u2076log (x + 1) &lt; \u00bd\n</p><p>\u00b3\u2076log (x \u2013 4)(x + 1) &lt; \u00b3\u2076log [tex]36^{\\frac{1}{2}}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 + x \u2013 4x \u2013 4) &lt; \u00b3\u2076log [tex]\\sqrt{36}[/tex]\n</p><p>\u00b3\u2076log (x\u00b2 \u2013 3x \u2013 4) &lt; \u00b3\u2076log 6\n</p><p>(x\u00b2 \u2013 3x \u2013 4) &lt; 6\n</p><p>x\u00b2 \u2013 3x \u2013 10 &lt; 0\n</p><p>(x \u2013 5)(x + 2) &lt; 0\n</p><p>x = 5 atau x = \u20132\n</p><p></p><p><u>Garis bilangan\n</u></p><p>++++++ (\u20132) <strong>----------</strong> (5) ++++++\n</p><p>Karena kurang dari nol, maka ambil daerah yang negatif (antara \u20132 dan 5)\n</p><p></p><p><u>Irisan garis bilangan dengan syarat\n</u></p><p>.......... (\u20132) <strong>xxxxxxxxxxxxxxxxxx</strong> (5) .............\n</p><p>1) ............................. (4) <strong>xxxxxxxxxxxxxxxxx\n</strong></p><p>2) ...............( \u20131) <strong>xxxxxxxxxxxxxxxxxxxxxxxx\n</strong></p><p>Jadi irisannya adalah antara 4 dan 5, sehingga <strong>himpunan penyelesaiannya</strong> adalah:\n</p><p><strong>HP = {x | 4 &lt; x &lt; 5, x \u2208 R}\n</strong></p><p></p><h3>Pelajari lebih lanjut \u00a0\n</h3><p></p><p>Contoh soal lain tentang pertidaksamaan logaritma untuk 0 &lt; a &lt; 1\n</p><p>https://brainly.co.id/tugas/14458200\n</p><p></p><p>------------------------------------------------\n</p><p></p><h3>Detil Jawaban \u00a0 \u00a0\n</h3><p></p><p><strong>Kelas</strong> : 10\n</p><p><strong>Mapel</strong> : Matematika Peminatan\n</p><p><strong>Kategori</strong> : Pangkat, Bentuk Akar dan Logaritma\n</p><p><strong>Kode</strong> : 10.2.3\n</p><p></p><p><strong>Kata Kunci</strong> : Himpunan penyelesaian dari 36 log (x \u2013 4) + 36 log (x + 1) &lt; 1/2\n</p>",
+                    "attachments": [
+                        "answer-attachments/himpunan-penyelesaian-dari-36-log-x-4-36-log-x1-lt-12-a-894-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apakah-simbol-tak-terdefinisi-dan-tak-terhingga-itu-sama-dan-252",
+            "question": "apakah simbol \"tak terdefinisi\" dan \"tak terhingga\" itu sama? dan bagaimanakah bentuk lambang \"tak terdefinisi\"? jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "engga , gak sama ..\nkalo tak terdefini tuh kayak ~/~ hasilnya pasti kita gak ketahui ~ \ntapi kalo tak terhingga tuh kayak 0/0 = 0 kalo kita mau tulis 1 juga bisa , mau tulis 2 juga dst",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yaa-2sinx-cosx-cosx-0-258",
+            "question": "Tolong yaa,,..\r\n2sinx cosx - cosx =0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 sin x cos x - cos x = 0<br>(2 sin x - 1)cos x = 0 <br>2 sin x - 1 = 0 atau cos x = 0<br>2 sin x = 1 <br>sin x = [tex] \\frac{1}{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-suatu-barisan-geometri-diketahui-u24-dan-u38tentukan-u10-821",
+            "question": "Dari suatu barisan geometri diketahui U2=4 dan U3=8.Tentukan U10!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Diketahui\u00a0 barisan geometri</span>\n\n<span>U2=4\u00a0\u00a0 U3=8</span>\n\nMaka U10=? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jawab:\n\nU3/U2=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na.r pangkat 2\u00a0/\u00a0a.r=8/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 r=2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0a.r=4\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a.2=4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a=4/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\na=2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U10= a.r pangkat n-1<br>\n\nU10= 2 . 2 pangkat 10-1\n<br>\nU10=2 . 2 pangkat 9<br>\n\nU10= 2.512<br>\n\nU10=1024\n<br>\nKet: titik = kali\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 a : bilangan\npertama</span>\n\n<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0r : rasio<br>(maaf klw salah)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-sisa-pembagian-suku-banyak-fx-oleh-x2-adalah-4-jika-suku-700",
+            "question": "1. sisa pembagian suku banyak f(x) oleh (x+2) adalah 4 jika suku banyak tsb dibagi (2x-1) sisanya 6. Sisa pembagian suku banyak tersebut oleh 2x^2+3x-2 adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(x+2) = 4<br>nilai x=-2 bersisa 4<br>ax+b = sisa<br>a(-2) + b = 4<br>-2a + b = 4 ...(1)<br><br>(2x-1) = 6<br>nilai x=1/2 bersisa 6<br>ax+b = sisa<br>a(1/2) + b = 6<br>(1/2)a + b = 6 ...(2)<br><br>Eliminasi pers. 1 dan 2<br><br>-2a + b = 4<br>(1/2)a + b = 6<br>____________-<br>(-5/2)a = -2<br>a = -2 / (-5/2)<br>a = -4/-5<br>a = 4/5<br><br>-2a + b = 4<br>-2(4/5) + b = 4<br>-8/5 + b = 4<br>b = 4 + 8/5<br>b = 28/5<br><br><span>sisa pembagian oleh\u00a02x^2+3x-2<br></span>ax+b<br>(4/5)x + (28/5) = 0<br>________________ x 5<br>4x + 28 = 0<br><br>#CMIIW<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-kubus-abcd-efgh-dengan-rusuk-8-cm-madalah-titik-teng-730",
+            "question": "diketahui kubus ABCD. EFGH dengan rusuk 8 cm . Madalah titik tengah EH. Jarak titik M ke garis AG sama dengan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Materi: Dimensi Tiga (Benda Ruang)<br><br>Jarak antara sebuah titik ke garis adalah suatu garis yang melalui titik tersebut dan tegak lurus dengan garis. Sehingga kita buat sebuah garis yang melalui M dan tegak lurus AG, misalkan garis itu adalah MP. Kita hubungkan M dengan salah satu titik pada AG, misalkan MA.<br>Didapat sebuah segitiga MPA adalah segitiga siku-siku di P.<br><br>Hubungkan M dengan G, sehingga kita punya segitiga sama kaki AMG, karena AM=MG, dalam segitiga sama kaki garis tinggi, garis berat, dan garis bagi saling berhimpit, sehingga MP juga merupakan garis berat yang memotong AG tepat di tengah, sehingga\u00a0<br>MP = 1/2 AG = 1/2.8\u221a3 = 4\u221a3<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dipotong-mnjadi-52-bagian-yg-masing-masing-potongan-m-419",
+            "question": "Seutas tali dipotong mnjadi 52 bagian yg masing-masing potongan membentuk deret aritmetika. Bila yg terpendek 3 cm dan yg terpanjang adalah 105 cm, maka panjang semula adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Un=a+(n-1)b<br>U1=3<br>U1=a+(1-1)b=3<br>U1=a=3\u00a0<br><br>mencari b dengan memasukan ke\u00a0<br>\u00a0U52=a+(52-1)b=105<br>U52=a+51b=105<br>a tadi adalah 3<br>dimsukan \u00a0a+51b=105<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03+51b=105<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 51b=102<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=2<br><br>Sn=(n/2) (2a+(n-1)b)<br>S52=(52/2)(2(3)+(52-1)2)<br>S52=(26)(6+(51)2)<br>S52=26\u00a0(6+102)<br>S52=26(108)<br>S52=2808\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-suku-banyak-fx-jika-dibagi-x-1-sisanya-6-dan-dibagi-x-691",
+            "question": "suatu suku banyak f(x) jika dibagi (x-1) sisanya 6 dan dibagi (x+3) sisanya -2' tentukan sisanya jika f(x) dibagi oleh (x^2+2x-3).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 1) sisa 6<br>f(x) : (x + 3) sisa -2<br><br>f(x) = (x\u00b2 + 2x - 3).H(x) + S(x)<br>f(x) = (x - 1)(x + 3).H(x) + S(x)<br><br>f(1) = a + b<br>6 = a + b ....1 <br>f(-3) = -3a + b<br>-2 = -3a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 4 <br>S(x) = ax + b ==&gt; 2x + 4 ....ok?<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-nilai-trigonometri-berikut-sin-90-745",
+            "question": "Hitung nilai trigonometri berikut sin(-90)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= sin (-90)<br>= - (sin 90)<br>= - 1<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tidak ada jawaban dan caranya untuk mencari sin (-90)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-sudut-r110-derajat-sudut-q30-derajat-dan-sisi-p-708",
+            "question": "jika diketahui sudut R=110 derajat, sudut Q=30 derajat dan sisi p= 10 cm, maka LUAS SEGITIGA PQR adalah............",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=(p2 x sinQ x sinR) / 2 x sinP<br>\u00a0 = (10kuadrat x sin 30 x sin 110) / 2 x sin 40<br>\u00a0 = 100 x 0,5 x 0,9 / 2 x 0,6<br>\u00a0 =45 / 1,2<br>\u00a0 =37,5 cm2",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

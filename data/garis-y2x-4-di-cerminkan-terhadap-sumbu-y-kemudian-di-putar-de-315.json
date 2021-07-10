@@ -1,0 +1,144 @@
+{
+    "question": "Garis y=2x-4 di cerminkan terhadap sumbu -y, kemudian di putar dengan R {0,90 drajat}persamaan bayangan garis itu adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "y = 2x - 4 <br>dicerminkan terhadap sumbu Y = mengganti x menjadi -x<br>y = 2x - 4 ---&gt; y = 2(-x) - 4 ----&gt; y = -2x - 4<br>rotasi 90 = mengganti x menjadi y dan y menjadi -x<br>y = -2x - 4 ----&gt; -x = -2y - 4 <br>\u21d2 x = 2y + 4 <br>\u21d2 y = 1/2 x - 2 <br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-suatu-jembatan-sudut-depresi-suatu-pelampung-di-atas-air-sun-937",
+            "question": "Dari suatu jembatan sudut depresi suatu pelampung di atas air sungai adalah 45\u00b0. Berapa jarak pelampung ke tepi jembatan apabila tinggi jembatan di atas permukaan air adalah 65 m?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik = depan\u00a0=\u00a065<br>dit = samping<br>tan 45 = depan/samping<br>tan 45 = 65/samping<br>\u221a3 = 65/samping<br>samping= 65/\u221a3<br>jarak pelampung ke tepi jembatan = 65/\u221a3\u00a0<br>maap kalo jawabannya salaah~",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-diketahui-barisan-aritmetika-dengan-u3-3-dan-u8-13-363",
+            "question": "3. Diketahui barisan    aritmetika dengan U3 = 3 dan U8 = 13\r\n\r\n\u00a0\u00a0\u00a0 \r\nTentukan yang berikut ini !\r\n\r\n\u00a0 \r\n\u00a0 a. Nilai suku pertama dan bedanya\u00a0\r\n\r\n\r\n\u00a0 b. Suku ke-50\r\n\r\n\u00a0\u00a0 \r\n\u00a0 c. n jika Un = 147",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara cari bedanya seperti ini<br>U 3 = 3<br><u>U 8 = 13</u> -<br>-5 = -10<br>B = 2<br>Lalu<br>suku pertama tinggal dikurangin 4 hehe<br>jadi -1<br><br>Suku ke 50 = (3x50 ) - 3<br><br>yang ke c tinggal gunakan cara subtitusi bila masih ada yang ditanyakan silahkan bertanya di komentar thanks :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "U3 = a+2b = \u00a0 3<br><u>U8 = a+7b = 13</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  -  5b = -10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b = 2<br>b=2, U3 = a+(2x2) = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a+4 = 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 a = 3 - 4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a = -1<br><br>U50 = a+(n-1)b<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + (50 -1) 2<br>\u00a0\u00a0 \u00a0 \u00a0  = (-1) + (49) 2<br>\u00a0\u00a0 \u00a0 \u00a0 = (-1) + 98<br>\u00a0\u00a0 \u00a0 \u00a0  = 97<br>Un\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 147<br>a+(n-1)b \u00a0\u00a0 = 147<br>(-1)+(n-1)2 = 147<br>(-1)+2n-2\u00a0\u00a0 = 147<br>2n-3\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 = 147<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 147+3<br>2n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 150<br>n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-pencerminan-titik-32-terhadap-garis-x7-adalah-377",
+            "question": "Hasil pencerminan titik (3,2) terhadap garis x=7 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk y akan tetap sedangkan untuk x akan bergeser\u00a0<br><br>x1 = 3\u00a0<br><br>jarak 3 ke 7 adalah 4\u00a0<br>sehingga bila dicerminkan menjadi\u00a0<br>(7 +4, y)<br>atau (11,2)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sebuah-deret-aritmatika-diketahui-a5-un29-dan-sn357-te-612",
+            "question": "Dari sebuah deret aritmatika, diketahui a=5, Un=29 dan Sn=357. Tentukan b dan n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn=n/2(a+un). 357=n/2(5+29). 357=n/2*34. 357=17n. n=21. Un=a+(n-1)b. 29=5+(21-1)b. 24=20b. b=6/5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<br>Un=a + (n-1) b<br>\u00a029 \u00a0= 5 + (29-1) b<br>29= 5 +28b<br>28b=24<br>b=24/28=6/7<br><br>29=5+(n-1)6/7<br>29=5+6/7n-6/7<br>29-5+6/7=6/7n<br>24+6/7=6/7n<br>168/7+6/7=6/7n<br>234/7=6/7n<br>n=234/7:6/7=234/7 x 7/6=39<br>\u00a0\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pernyataan-yang-setara-dengan-pernyataan-jika-hewan-itu-elang-ma-116",
+            "question": "Pernyataan yang setara dengan pernyataan \"jika hewan itu elang maka hewan itu dapat terbang\" adalah ....    tolong jawabannya dan pembahasan nya ... terima kasih...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p-&gt;q setara dengan ~q=&gt;~p<br><span>jika hewan itu elang maka hewan itu dapat terbang setara dengan jika hewan itu tidak bisa terbang maka hewan itu bukan elang<br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "p =&gt; q \u2261\u00a0 -p \u2228 q \u2261 -q =&gt; -p <br>Pernyataan : <br>Jika hewan itu elang maka hewan itu dapat terbang <br>setara dengan : <br>* Hewan itu bukan elang atau hewan itu dapat terbang<br>* Jika hewan itu dapat terbang maka hewan itu elang <br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181",
+            "question": "Jika sin alfa = 3/7 ., Tentukan cos alfa dan tan alfa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : X (1 SMA)<br>Materi : Trigonometri<br>Kata Kunci : pythagoras, sinus, cosinus, tangen<br><br>Pembahasan :<br>Perhatikan gambar terlampir.<br>AC\u00b2 + BC\u00b2 = AB\u00b2<br>\u21d4 b\u00b2 + a\u00b2 = c\u00b2<br>\u21d4 c\u00b2 - b\u00b2 = a\u00b2<br>\u21d4 7\u00b2 - 3\u00b2 = a\u00b2<br>\u21d4 49 - 9 = a\u00b2<br>\u21d4 40 = a\u00b2<br>\u21d4 a =\u00a0\u221a40<br>\u21d4 a =\u00a0\u221a(4 . 10)<br>\u21d4 a = 2\u221a10<br>\u21d4 BC = 2\u221a10<br><br>cos\u00a0\u03b1<br>[tex] =\\frac{BC}{AB}\\\\= \\frac{2 \\sqrt{10} }{7}\\\\=\\frac{2}{7}\\sqrt{10} [/tex]<br><br>tan\u00a0\u03b1<br>[tex] =\\frac{AC}{BC}\\\\= \\frac{3}{2 \\sqrt{10} }\\\\= \\frac{3}{2 \\sqrt{10} }. \\frac{\\sqrt{10} }{ \\sqrt{10} }\\\\= \\frac{3 \\sqrt{10} }{2.10}\\\\= \\frac{3 \\sqrt{10} }{20}\\\\= \\frac{3}{20} \\sqrt{10} [/tex]<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/jika-sin-alfa-37-tentukan-cos-alfa-dan-tan-alfa-181-1.png"
+                    ]
+                },
+                {
+                    "answer": "sin alfa = 3/7 \u2192 x/r<br><br>y = \u221a(r\u00b2 - x\u00b2)<br>y = \u221a(7\u00b2 - 3\u00b2)<br>y = \u221a(49 - 9)<br>y = \u221a40<br>y = 2\u221a10<br><br>cos alfa = y/r<br>cos alfa = 2\u221a10 / 7<br>cos alfa = 2/7 \u221a10<br><br>tan alfa = x/y<br>tan alfa = 3 / 2\u221a10<br>tan alfa = 3 / 2\u221a10 \u00d7 \u221a10 / \u221a10<br>tan alfa = 3\u221a10 / 2.10<br>tan alfa = 3/20 \u221a10<br><br>semoga berguna +_+",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "misalkan-a-merupakan-alas-jajargenjang-pqrs-dengan-t-merupakan-ti-440",
+            "question": "Misalkan a merupakan alas jajargenjang PQRS dengan t merupakan tingginya. Jika 2t \u00a0= 3a, tentukan:    a.panjang t\u00a0dalam a\r\nb.panjang alas dan tingginya jika luas jajargenjang tersebut 864 cm2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.\u00a0 2t=3a<br>\u00a0\u00a0 \u00a0 \u00a0 t=3a/2<br><br>b.\u00a0 a.t= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a. 3a/2= 864 cm\u00b2<br>\u00a0\u00a0 \u00a0 a\u00b2 = 864. 2/3<br>\u00a0\u00a0 \u00a0 a = 576<br>\u00a0\u00a0 \u00a0 a = \u221a576<br>\u00a0\u00a0 \u00a0 a =\u00a0 24 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. <br>a) 2t = 3a<br>t = 3a/2<br><br>b) L = alas x tinggi<br>864 = a x t subtitusikan t = 3a/2<br>864 = a x 3a/2<br>864 = 3a^2/2<br>1728 = 3a^2<br>a^2 = 1728/3<br>a^2 = 576<br>a = akar(576)<br>a = 24 cm<br><br>t = 3a/2 = 3x24/2 = 36 cm<br><br>keterangan ^ : pangkat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-merupakan-pasangan-invers-dari-fungsi-fxx43-adalah-422",
+            "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-abc-dik-cos-bc940-jika-panjang-sisi-ac10-551",
+            "question": "Pada segitiga ABC ,    DIK: cos (B+C)=9/40. jika panjang sisi AC=10 CM &amp; AB= 8CM , panjang sisi BC adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pada segitiga ABC, diketahui cos(B + C) = 9/40, jika panjang sisi AC = 10 cm dan AB = 8 cm, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>\u221a</strong><strong>2</strong><strong> </strong><strong>cm</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p>Permasalahan di atas dapat diselesaikan dengan menggunakan <strong>aturan</strong><strong> </strong><strong>cosinus</strong><strong> </strong>karena diketahui panjang dua sisi dan keterangan untuk menentukan sebuah sudut.</p><p><strong>Trigonometri</strong> adalah materi matematika yang berhubungan dengan perbandingan antara sudut dengan sisi pada segitiga.</p><p>Untuk menyelesaikan soal ini, kita akan menggunakan <strong>rumus</strong> berikut :</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf A + B + C = 180^{\\circ}}}[/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf B + C = 180^{\\circ} - A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf cos(180^{\\circ} - A) = -cos~A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf a^2 = b^2 + c^2 - 2bc~.~cos~A}}[/tex] </p><p>dimana :</p><p>\u25cb\u00a0<em>a</em>\u00a0= panjang sisi BC</p><p>\u25cb\u00a0<em>b</em>\u00a0= panjang sisi AC</p><p>\u25cb\u00a0<em>c</em>\u00a0= panjang sisi AB</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><ul><li>cos(B + C) = 9/40</li><li>AC (b) = 10 cm</li><li>AB (c) = 8 cm</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>BC (a) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2756 <strong>Menentu</strong><strong>kan</strong><strong> </strong><strong>nilai</strong><strong> </strong><strong>(</strong><strong>B</strong><strong> </strong><strong>+</strong><strong> </strong><strong>C</strong><strong>)</strong></p><p>Karena segitiga ABC, maka jumlah seluruh sudutnya ialah 180\u00b0.</p><p>[tex]\\displaystyle\\rm A + B + C = 180^{\\circ} \\\\ \\\\ \\displaystyle\\boxed{\\rm B + C = 180^{\\circ} - A}[/tex]</p><p>diperoleh: B + C = 180\u00b0 \u2013 A</p><p>\u2756 <strong>Menentukan</strong><strong> </strong><strong>nila</strong><strong> </strong><strong>cos</strong><strong> </strong><strong>A</strong></p><p>Untuk menghitung nilai cos A, kita substitusikan B + C = 180\u00b0 \u2013 A pada cos(B + C) = 9/40</p><p>[tex]\\displaystyle\\rm cos(B + C) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm cos(180^{\\circ} - A) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm -cos~A = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\boxed{\\rm cos~A = -\\dfrac{9}{40}}[/tex]</p><p>diperoleh: cos A = \u2013 9/40</p><p>\u2756 Sehingga, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong></p><p>Kita tentukan panjang sisi BC dengan menggunakan aturan cosinus.</p><p>[tex]\\displaystyle\\begin{array}{rcl}\\rm a^2 &amp;=&amp; b^2 + c^2 - 2bc~.~cos~A \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 10^2 + 8^2 - 2(10)(8)~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 100 + 64 - 160~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 4~.~9 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 36 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 200 \\end{array} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{200} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{100\\times2} \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm a = 10\\sqrt{2}}}[/tex]</p><p>\u2234 <strong>Kesi</strong><strong>mpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, panjang sisi BC adalah 10\u221a2 cm.</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>trigonometri</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Diketahui segitiga ABC dengan \u2220C = 60\u00b0. Jika a = 10 cm dan B = 5 cm, maka panjang c adalah brainly.co.id/tugas/2760573</li><li>Diketahui \u2206PQR, PQ = 20 cm, \u2220S = 90\u00b0, sin P = 3/5, dan tan R = 12/5. Maka luas segitiga PQR adalah brainly.co.id/tugas/10595351</li><li>Diketahui segitiga ABC, panjang sisi AC = 3, AB = 2, dan \u2220A = 60\u00b0. Nilai cos C adalah brainly.co.id/tugas/9736660</li><li>Sebuah segitiga ABC diketahui besar \u2220A = 60\u00b0 dan \u2220B = 45\u00b0 sedangkan panjang sisi BC = 12 cm, maka panjang sisi AC adalah brainly.co.id/tugas/10116623</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 7 - Trigonometri</p><p><strong>Kode :\u00a0</strong>10.2.7</p><p><strong>Kata kunci :</strong><strong> </strong>perbandingan sudut-sudut berelasi, aturan cosinus</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-tengah-deret-aritmatika-adalah-40-jika-jumlah-n-suku-pertama-252",
+            "question": "Suku tengah deret aritmatika adalah 40 jika jumlah n suku pertama = 1000\r\nnilai n adalah ?\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sn = n \u00d7 Ut<br>1000 = n \u00d7 40<br>n = [tex] \\frac{1000}{40} [/tex]<br>n = 25<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

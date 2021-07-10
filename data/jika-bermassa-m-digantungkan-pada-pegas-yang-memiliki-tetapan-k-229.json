@@ -1,0 +1,146 @@
+{
+    "question": "Jika bermassa m digantungkan pada pegas yang memiliki tetapan k, maka pegas akan bertambah panjang 1,5 cm. Tentukan pertambahan panjang pegas jika pegasi disusun seperti gambar berikut ini.",
+    "attachments": [
+        "question-attachments/jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "Dik lm = 5 kg<br>\u00a0 \u00a0 \u00a0 k = 8 k<br>\u00a0 \u00a0 \u00a0 l = 1,5 cm = 0,015<br>\u00a0 \u00a0 \u00a0 g = 10 m/s<br>Dit \u0394l ?<br><br>F = k.l<br>m.g = 8k .\u0394l<br>5.10 = 8k .\u00a0\u0394l<br><br>\u0394l = 50 / 8k<br>\u00a0 \u00a0 = 6,25 m<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633",
+            "question": "seutas tali dengan panjang 0,80 m dapat mengerjakan gaya sebesar 4 N tanpa putus. tali itu digunakan untuk mengayunkan suatu benda bermassa 0,50 kg dalam suatu lingkaran horizontal. tentukan periode minimum agar benda dapat diayunkan tanpa menyebabkan tali putus.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab gerak Melingkar\u00a0<br>Kelas: XI SMA IPA\u00a0<br><br><span>Pembahasan:<br><br></span><span>Periode minimum agar benda dapat diayun sehingga tali tidak putus adalah\u00a0<strong>1,98 detik.</strong><br></span><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/seutas-tali-dengan-panjang-080-m-dapat-mengerjakan-gaya-sebesar-633-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-contoh-soal-dan-pembahasan-tentang-viskositas-fluida-dan-754",
+            "question": "Buatlah contoh soal dan pembahasan tentang viskositas fluida dan hukum stokes!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>(A). Soal tentang mencari koefisien viskositas</strong><br><strong></strong><br>Sebuah bola yang massa jenisnya 6,36 gram/cm\u00b3 dan berdiameter 20 mm jatuh ke dalam\u00a0cairan\u00a0pelumas\u00a0yang massa jenisnya 5,10 gram/cm\u00b3. Jika kecepatan terminal bola mencapai 0,2 m/s, dan g = 10 m/s\u00b2, tentukan koefisien viskositas cairan pelumas tersebut.<br><br><em>Diketahui:</em><br>\u03c1 bola = 6,36 gram/cm\u00b3 = 6360 kg/m\u00b3<br>\u03c1 fluida = 5,10 gram/cm\u00b3 = 5100 kg/m\u00b3<br>d bola = 20 mm \u21d2 R = 10 mm = 10\u207b\u00b2 m<br>vt bola = 0,2 m/s<br><br><em>Ditanya:</em><br>koefisien viskositas fluida \u03b7<br><br><em>Penyelesaian:</em><br><em></em><br><strong>\u21d4 Kecepatan terminal vt = [2R\u00b2g.(\u03c1b - \u03c1f)] / 9\u03b7</strong><br><br>\u21d4 Koefisien viskositas \u03b7 = [2R\u00b2g.(\u03c1b - \u03c1f)] / 9.vt<br><br>\u21d4 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = [2.(10\u207b\u00b2)\u00b2.(10).(6360 - 5100)] / [9 x 0,2]<br><br>\u21d4\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 140 x 10\u207b\u00b2 Pa.s<br><br><strong>\u2234 Koefisien viskositas\u00a0 sebesar 140 x 10\u207b\u00b2 Pa.s</strong><br><br><strong>(B). Soal Hukum Stokes</strong><br><br>Sebuah bola logam berdiameter 200 mm jatuh ke dalam cairan gliserin yang memiliki koefisien viskositas 1,5 Pa.s sehingga memiliki kecepatan 0,2 m/s. Tentukan gaya gesekan Stokes antara bola dan gliserin.<br><br><em>Diketahui:</em><br>d = 200 mm = 0,2 m<em> </em>\u21d2 R = 0,1 m<br>\u03b7 = 1,25 Pa. s<br>v = 0,2 m/s<br><br><em>Ditanya:</em><br>Gaya gesekan Stokes<br><br><em>Penyelesaian:</em><br><br><strong>\u21d4 Gaya gesekan Stokes\u00a0F = 6\u03c0\u03b7Rv</strong><br><strong></strong><br>\u21d4\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 6 x 3,14 x 1,25 x 0,1 x 0,2<br><br>\u21d4\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 0,471 N<br><br><strong>\u2234 Gaya gesekan Stokes sebesar 0,471 N</strong><br><strong></strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-dengan-cepat-rambat-bunyi-319",
+            "question": "Apa yang di maksud dengan cepat rambat bunyi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hasil bagi jarak antara sumber bunyi dan pendengar dengan selang waktu yang diperlukan bunyi untuk merambat",
+                    "attachments": []
+                },
+                {
+                    "answer": "getaran yg dpt ditransmisikan oleh air atau meterial lain sbgai medium (perantara)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-berjalan-lurus-2-m-kebarat-kemudian-belok-ke-selata-114",
+            "question": "seorang anak berjalan lurus 2 m kebarat, kemudian belok ke selatan sejauh 6 m, dan belok lagi ketimur sejauh 10 m. perpindahan yang dilakukan anak tersebut dari posisi awal adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 barat = 2 meter<br>selatan\u00a0 =\u00a0 6 meter<br>timur = 10 meter<br><br>\u00a0\u00a0 \u00a0 .\u00a0 \u00a0 \u00a0 \u00a0 &lt;= 2meter\u00a0 \u00a0\u00a0 .(titik awal)<br>\u00a0\u00a0 \u00a0 <br><br>\u00a0<br>\u00a0\u00a0 selatan<br>\u00a0\u00a0  6 meter<br><br><br><br>\u00a0\u00a0 \u00a0\u00a0 .\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  10 meter  =&gt;\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  .(titik akhir)<br><br>hubungkan titik awal dengan titik akhir, lalu cari dengan phytagoras...<br>a\u00b2 + b\u00b2 = c\u00b2<br>6\u00b2 + 8\u00b2 = c\u00b2<br>36 + 64 = c\u00b2<br>c = \u221a100 = 10<br><br>semoga membantu~ <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b 2m &lt;-- a<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 |\u00a0 \u00a0\u00a0 |<strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 | <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 |\u00a0 6m <strong>\\</strong>\u00a0 \u00a0 Perpindahan<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 |\u00a0\u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  |\u00a0 \u00a0\u00a0 | \u00a0\u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 |\u00a0 \u00a0\u00a0 | \u00a0 \u00a0 <strong>\\</strong><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0  c\u00a0 \u00a0 ---------&gt; 10 m d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -8 m-<br>Maka, perpindahannya.. \u221a6\u00b2 + 8\u00b2<br>= \u221a100<br>= 10 m<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925",
+            "question": "sepotong kayu terapung dengan 3/5 bagian tercelup di dalam air. jika massa jenis air 1x10^3 kg/m3, massa jenis kayu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Massa jenis kayu adalah <strong>600 kg/m\u00b3</strong></p><p></p><h3>PEMBAHASAN</h3><p><u>Diketahui :</u></p><p>Volume Kayu Tercelup = Vt = \u00b3/\u2085 V</p><p>Massa Jenis Air = \u03c1 = 1000 kg/m\u00b3</p><p><u>Ditanyakan :</u></p><p>Massa Jenis Kayu = \u03c1k = ?</p><p><u>Penyelesaian :</u></p><p><em>Untuk menyelesaikan soal ini , kita akan menggunakan hukum Archimedes sebagai berikut ini:</em></p><p>[tex]\\texttt{Gaya Angkat = Berat Benda}[/tex]</p><p>[tex]\\rho g V_t = m g[/tex]</p><p>[tex]\\rho g (\\frac{3}{5}V) = \\rho_k V g[/tex]</p><p>[tex]\\rho (\\frac{3}{5}V) = \\rho_k V[/tex]</p><p>[tex]\\rho \\times \\frac{3}{5} = \\rho_k[/tex]</p><p>[tex]\\rho_k = 1000 \\times \\frac{3}{5}[/tex]</p><p>[tex]\\rho_k = 600 \\texttt{ kg/m}^3[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Berat Benda dalam Air :</strong> https://brainly.co.id/tugas/20965985</p><p><strong>Gaya Apung :</strong> https://brainly.co.id/tugas/19232509</p><p>--------------------------</p><p></p><h3>Detil Jawaban :</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> Fluida</p><p><strong>Kode:</strong> 8.6.3</p><p></p><p><strong>Kata Kunci:</strong> Gaya Angkat , Archimedes, Apung , Kapal , Volume , Barang , Jumlah Penumpang</p>",
+                    "attachments": [
+                        "answer-attachments/sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "berat-sebuah-benda-di-udara-5-n-apabila-benda-ditimbang-di-dalam-803",
+            "question": "Berat sebuah benda di udara 5 N. Apabila benda ditimbang di dalam air (massa jenis air = 1000 kg/m3) beratnya menjadi 3,2 N. Jika percepatan gravitasi g = 10 m/s2 maka massa jenis benda adalah \u2026",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fa = Wb - Wc<br>\u00a0 \u00a0 \u00a0= 5N - 3,2N<br>\u00a0 \u00a0 \u00a0 = 1,8 N<br><br>Fa = pc.gc.vc<br>1,8 N = 1000.10.v<br><br>v =\u00a0[tex] \\frac{1,8}{10 000} = 1,8x10^-4 m^3[/tex]<br><br>atau Vb = vc<br><br>[tex]p = [tex] \\frac{mb}{vb} = \\frac{0,5}{1,8x10^-4} = 2,7778 kg/m^3 [/tex]<br><br>atau\u00a0<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kan di udara 5 N dan di air 3.2 N berarti ada Farchimedes sebesar 1.8N <br>Fa=\u0440(air) x V x g <br>1.8 = 1000 x V(benda dalam fluida) x 10 <br>V benda = 1.8x[tex] 10^{-4} [/tex] <br>\u0440(benda) = m(benda) / V(benda) <br>\u0440=[tex] \\frac{0,5}{1.8x 10^{-4} } [/tex] = 2777,77 kg/m3<br>maaf kalau ada salah <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pejalan-kaki-melakukan-usaha-25-x-105-j-dalam-suatu-lat-302",
+            "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gerhana-matahari-terjadi-karena-497",
+            "question": "Gerhana matahari terjadi karena...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Posisi matahari, bulan, dan bumi yang berada dalam satu garis lurus<br><br>Posisinya, matahari - bulan - bumi, sehingga bulan menutupi matahari dan terjadilah gerhana matahari",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>karena posisi matahari, bulan, dan bumi yang berada dalam satu garis lurus, posisinya, matahari - bulan - bumi, sehingga bulan menutupi matahari dan terjadilah gerhana matahari</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842",
+            "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+            "attachments": [
+                "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

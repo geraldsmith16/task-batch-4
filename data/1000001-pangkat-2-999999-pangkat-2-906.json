@@ -1,0 +1,148 @@
+{
+    "question": "1000001 pangkat 2 - 999999 pangkat 2 =",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>a\u00b2 - b\u00b2 = (a+b)(a-b)</strong><br><br>maka<br>1.000.001\u00b2 - 999.999\u00b2 <br>= (1.000.001 + 999.999) (1.000.001 - 999.999) <br>= (2.000.000) (2) <br><u>= 4.000.000</u><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-alas-sebuah-kubus-adlah-48-cmmaka-panjang-diagona-ruang-801",
+            "question": "Keliling alas sebuah kubus adlah 48 cm.maka panjang diagona ruang adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "KA = 4.s<br>48 = 4.s<br>s = 12 cm<br><br>dr ( diagonal ruang) = s[tex] \\sqrt{3} [/tex]<br>dr = 12[tex] \\sqrt{3} [/tex] cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling = 48<br>4s = 48<br>s = 48/4<br>s = 12<br><br>pajang diagonal sisi = 12\u00b2 + 12\u00b2<br>= 144 + 144<br>=288<br>=12 \u221a2<br>panjang diagonal ruang = 12\u00b2 + (12\u221a2)\u00b2<br>=144 + 288<br>=432<br>=12\u221a3<br>setau saya begitu, itu yang pakek cara pyhtagoras<br>tapi yang lebih simpel pakek rumus<br>s\u221a3. tapi, hasilnya sama aja kok<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bu-indah-membeli-2-lusin-gelas-seharga-192000gelas-tsb-akan-dij-245",
+            "question": "Bu indah membeli 2 lusin gelas seharga 192.000,gelas tsb akan dijual lagi dengan harga Rp.9500/biji.    a. tentukan besar keuntungan /kerugian bu indah \r\nb. agar diperoleh keuntungan 25%,berapa harga jual gelas perbiji?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Rp.9500 x 24 = Rp.228.000<br>keuntungan = Rp.228.000 - Rp.192.000 = Rp. 36.000<br><br>b. 25% x Rp.192.000 = Rp.48.000<br>harga jual dua lusin = Rp.192.000 + Rp.48.000 = Rp.240.000<br>jadi harus dijual dengan = Rp.240.000 : 24 = Rp.10.000 per buah.<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.<br>2 lusin = 2 x 12 = 24 gelas<br><br>harga jual = 24 x 9.500 = 228.000<br><br>keuntungan = harga jual - harga beli = 228.000 - 192.000 = 36.000<br><br>b.<br>harga beli 1 gelas = 192.000 : 24 = 8000<br>harga jual 1 gelas untuk 25% =\u00a0[tex] \\frac{125}{100}\\times 8000=10000 [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kelas-terdiri-dari-40-siswa-di-antaranya-18-siswa-suka-ip-810",
+            "question": "Sebuah kelas terdiri dari 40 siswa, di antaranya 18 siswa suka ipa, 23 suka ips, 8 siswa suka kedua-duanya dan x siswa yg tidak suka keduanya,tentukan;    a. nilai x\r\n\r\n#mohon bantuannya yah sebelumnya makasih banyak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(40 - 10 -\u00a08 - 15 )=\u00a07 orang",
+                    "attachments": []
+                },
+                {
+                    "answer": "jumlah = 40<br>yang suka ipa=18<br>yang suka ips = 23<br>yang suka ipa dan ips =8<br>yang hanya suka ipa = 18-8 =10<br>yang hanya suka ips = 23-8 =15<br>yang tidak suka keduanya = 40 - (8+10+15)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 40 - 33<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-n-a-28-n-b19-924",
+            "question": "Diketahui n (A)= 28     \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n (B)=19\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n (A\u2229B)=12\r\n\u00a0\u00a0 maka\u00a0\u00a0 n (AUB)= ?\r\na. 32\r\nb. 35\r\nc. 40\r\nd. 47\r\nberi penjelasan..\r\nmakasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n(A U B)=n(A)+n(B)-n(A<span>\u2229B)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 =28+19-12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =47-12=35  <br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "28 - 12 = 16.\n19 - 12 = 7.\nn (AnB) = 12. maka, 16 + 7 + 12 = 35.\njadi, n (AUB) = 35.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921",
+            "question": "PANJANG DIAMETER ALAS KALENG SUSU ADALAH 7.4 CM DAN TINGGI 7,5 CM LABEL KALENG SUSU YANG SEDANG DI BUKA TERBUAT DARI LEMBARAN KERTAS TENTUKAN:    * BENTUK LABEL\r\n*UKURAN LABEL\r\n*LUAS LABEL",
+            "attachments": [
+                "question-attachments/panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "* selimut tabung\n* 2pi.r.t = 2 . 3,14. 3,7 . 7,5 = 174,27\n* sama dengan ukuran label",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-antara-kota-padang-dan-jambi-372-km-jika-ingin-menggambar-915",
+            "question": "Jarak antara kota Padang dan Jambi 372 km. Jika ingin menggambar dengan panjang 1,5 cm pada buku gambar, skala yang harus digunakan adalah.............    tolong sama caranya yh...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas: 7</strong><br><strong>Mapel: Matematika</strong><br><strong>Kategori: Perbandingan dan Aritmatika Sosial</strong><br><strong>Kata kunci: perbandingan, skala</strong><br><strong>Kode: 7.2.5 (Kelas 7 Matematika Bab 5-Perbandingan dan Aritmatika Sosial)</strong><br><br><span>Jarak antara kota Padang dan Jambi 372 km. Jika ingin menggambar dengan panjang 1,5 cm pada buku gambar, skala yang harus digunakan adalah...<br><br>Pembahasan:<br><br>Skala adalah perbandingan antara jarak pada peta dengan jarak sebenarnya (satuan harus sama).<br>catatan :\u00a0<br>1 km = 100.000 cm<br><br>Skala = jarak pada peta : jarak sebenarnya\u00a0<br>Skala = 1,5 cm : 372 km<br>Skala = 1,5 cm : (372\u00a0</span>\u00d7 1<span>00.000) cm<br>Skala = 1,5 cm : 37.200.000 cm<br>Skala = 1 : 24.800.000<br><br><strong>Jadi, skala yang digunakan adalah\u00a0</strong></span><strong>\u00a01 : 24.800.000</strong><br><br>Semangat belajar!<br>Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/jarak-antara-kota-padang-dan-jambi-372-km-jika-ingin-menggambar-915-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "6skala-sebuah-peta-1-1500000-jarak-kota-a-dan-b-pada-peta-i-595",
+            "question": "6.skala sebuah peta 1 : 1.500.000. jarak kota A dan B pada peta itu 6 cm. berapa jarak sebenarnya kota A dan kota B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya = 1.500.000 X 6cm = 9.000.000cm = 90km<br>Jarak Sebenarnya = 90km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pada-gambar-diketahui-besar-ltacd-20-hitunglah-besar-a-371",
+            "question": "1. Pada gambar diketahui besar &lt;ACD = 20\u00b0 hitunglah besar:    a. &lt;BOC\u00a0\r\nb. &lt;AOC\r\nc. &lt;BOD\r\n\r\n2. Diketahui besar &lt;BCA = 25\u00b0 dan &lt;CBO 15\u00b0 hitunglah besar:\r\na. &lt;AOB\u00a0\r\nb. &lt;OAB\r\nc. &lt;ABC\r\nd. &lt;BAC\r\n\r\n3. Pada gambar disamping PR adalah diameter lingkaran. hitunglah:\r\na. nilai x\r\nb. besar &lt;PQR\r\n\r\n4. Diketahui besar &lt;ADC = 55\u00b0 hitunglah besar:\r\na. &lt;AOC\r\nb sudut refleks AOC\r\nc. &lt;AOC dan &lt;ACD\r\n\r\n5. Diketahui besar &lt;PQR = 48\u00b0 dan &lt;QRS = 101\u00b0. hitunglah besar :\r\na. &lt;PST\r\nb. &lt;QPR\r\nc. &lt;QTS",
+            "attachments": [
+                "question-attachments/1-pada-gambar-diketahui-besar-ltacd-20-hitunglah-besar-a-371-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "1. a&lt;ACD = 20\u00b0, maka &lt;CAB = 20\u00b0 karena sama kaki<br>maka &lt; AOC = 180 - 20 - 20 = 140\u00b0<br>karena sudut &lt;AOC dengan &lt;BOC berpelurus maka:<br>&lt;BOC = 180 - 140 = 40\u00b0 ----------------&gt; agak ragu karena kurang sesuai dengan gambar<br><br>b. &lt;AOC = 140\u00b0<br>c. &lt;BOD = 140\u00b0 (karena bertolak belakang)<br><br>2.a. &lt;AOB = 2 x sudut keliling &lt;BCA<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 2 x 25 = 50\u00b0<br>b.&lt;OAB = &lt;CBO = 25\u00b0 karena menghadap busur yang sama<br>c. &lt;ABC = 180 = 50 + 2x (karena terbentuk segitiga sama kaki<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 130 = 2x<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 75 = &lt;ABC<br>d. &lt;ABC = &lt;BAC = 75\u00b0<br><br>3. a. 2x + x + 90 = 180 (sudut keliling yang menghadap diameter = 90\u00b0)<br>\u00a0\u00a0 \u00a0  3x = 90<br>\u00a0\u00a0 \u00a0 \u00a0 x = 30<br>b. &lt;PQR = 90\u00b0 ( menghadao diameter )<br><br>4. gambarnya membuat saya bingung, &lt;AOC dari garis yang mana<br><br>5. a. &lt;PST = &lt;PQR = 48\u00b0 karena menghadap busur sama<br>b. &lt;PRQ = 180 - 101 = 79\u00b0 (karena berpelurus)<br>&lt;QPR = 180 - 48 - 79 = 53\u00b0<br>c. &lt;QTS = &lt;QPR = 53\u00b0 (karena menghadap busur sama)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-pensil-dan-3-penggaris-adalah-rp1600-sedangkan-harga-3-692",
+            "question": "Harga 2 pensil dan 3 penggaris adalah Rp1.600, sedangkan harga 3 pensil dan 5 penggaris jenis yang sama adalah Rp2.500. Harga 4 pensil dan 2 penggaris adalah..    a. Rp1.800\r\nb. Rp1.875\r\nc.Rp 1.892\r\nd. Rp 2.400 \r\n\r\nPlease yng tau tolong dibantu yaah ;$ ^^ thanks~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 pensil = 500<br>1 pengaris = 200<br>4 pensil = 2000<br>2 penggaris = 400<br>jadi d . 2400",
+                    "attachments": []
+                },
+                {
+                    "answer": "2a + 3b\u00a0= Rp.1.600l x 3\u00a0\u0399 = 6a + 9b = 4.800<br>3a + 5b = Rp.2.500l\u00a0x 2\u00a0\u0399 =<u> 6a + 10b = 5.000 \u00a0 -</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a00 \u00a0+ (-1b) = -200<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -b = -200<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0b \u00a0 = Rp.200<br>2a + 3b\u00a0= Rp.1.600l\u00a0x 5\u00a0\u0399 = 10a + 15b = 8.000<br>3a + 5b = Rp.2.500l\u00a0x 3\u00a0\u0399 =\u00a0 <u>9a + 15b = 7.500 \u00a0-<br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= a \u00a0 \u00a0+ 0 = 500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = Rp.500<br>4(500) + 2(200) = 2.000 + 400<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp.2.400,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-di-samping-di-ketahui-ltaob45ltcod90dan-pan-600",
+            "question": "PADA GAMBAR DI SAMPING DI KETAHUI &lt;AOB=45`,&lt;COD=90`,DAN PANJANG BUSUR CD=11CM HITUNGLAH    A.PANJANG BUSUR AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambarnya mana ? harusnya ada<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

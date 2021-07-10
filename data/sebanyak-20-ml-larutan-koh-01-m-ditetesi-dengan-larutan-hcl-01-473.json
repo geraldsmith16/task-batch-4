@@ -1,0 +1,132 @@
+{
+    "question": "Sebanyak 20 ml larutan KOH 0,1 M ditetesi dengan larutan HCL 0,1 M    a. perkirakan pH awal larutan KOH\r\nb. secara teori, berapa ml larutan hcl diperlukan untuk mencapai titik ekivalen\r\nc.berapa pH pada titik ekivalen.\r\nd.berapa ml larutan HCL yang diperlukan untuk membuat pH campuran menjadi 4 ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Tetapan ionisasi dari asam lemah HA adalah\n<span>Dengan menata ulang persamaan, diperoleh persamaan untuk konsentrasi ion H+, yaitu:</span>\n<span>Persamaan tersebut menyatakan konsentrasi ion H+ dalam bentuk Ka asam lemah dikalikan dengan perbandingan konsentrasi HA dan A\u2013pada keadaan kesetimbangan. Jika [HA] dan [A\u2013] sama maka konsentrasi ion H+ dari larutan penyangga sama dengan nilai Ka. Anda dapat menggunakan persamaan di atas untuk menentukan nilai pH larutan penyangga, yaitu:</span>\n<span>Ruas kiri persamaan menyatakan pH. Ruas kanan dapat disederhanakan menjadi pKa, dimana pKa = \u2013log Ka. Jadi, persamaan di atas dapat ditulis dalam bentuk sebagai berikut.</span>\n\nSecara umum, persamaan tersebut dapat dinyatakan sebagai berikut.\n<span> (berdasarkan teori Bronsted-Lowry)</span>\n<span> (berdasarkan teori Arrhenius)</span>\nUntuk larutan penyangga yang dibuat dari basa lemah dan asam konjugatnya, nilai pOH diperoleh dengan cara serupa.\n<span> (berdasarkan teori Bronsted-Lowry)</span>\n<span> (berdasarkan teori Arrhenius)</span>\n<span>Persamaan ini dikenal sebagai <span><span>persamaan Henderson-Hasselbalch</span>. </span>Untuk\n membuat larutan penyangga dengan pH sesuai keinginan, misalnya pH \u2248 \n4,75, dapat dilakukan dengan mencampurkan asam lemah yang memiliki nilai\n pKa sekitar 4,74. Kemudian, dicampurkan dengan garam yang konsentrasi molarnya sama dengan asam lemah agar</span>\n<span>Contoh pH Larutan Penyangga dari Asam Lemah dan Garamnya</span>\n<span>Berapa pH larutan yang dibuat dari campuran 50 mL CH3COOH 0,5 M dan 50 mL NaCH3COO 0,5 M? Diketahui Ka(CH3COOH) = 1,8 \u00d7 10\u20135.</span>\nJawab:\n<span>Dalam larutan terdapat: CH3COOH, CH3COO\u2013, H+, dan Na+. Reaksi kesetimbangannya:</span>\n<span>CH3COOH(aq) \u21c4 CH3COO\u2013(aq) + H+(aq)</span>\n<span>Konsentrasi CH3COO\u2013 lebih dominan dari garam dibandingkan hasil ionisasi asam asetat maka dalam perhitungan, konsentrasi CH3COO\u2013 ditentukan dari garamnya. Konsentrasi CH3COOH dalam campuran (100 mL):</span>\n<span>Konsentrasi CH3COO\u2013 dalam campuran (100 mL):</span>\n\nNilai pH larutan dihitung dengan rumus:\n<span>Jadi, pH larutan penyangga sebesar 4,74. Nilai ini berasal dari nilai pKa.</span>\n<span>Contoh pH Larutan Penyangga dari Campuran Garam</span>\n<span>Berapa pH larutan penyangga yang dibuat dari campuran 60 mL NaH2PO4 0,5 M dan 40 mL Na2HPO4 0,5 M. Diketahui Ka (H2PO4\u2013) = 7,5 \u00d7 10\u20133.</span>\nJawab:\n<span>Dalam larutan terdapat: Na+, H+, H2PO4\u2013, dan HPO42\u2013. Reaksi kesetimbangannya:</span>\n<span>H2PO4\u2013(aq) \u21c4 HPO42\u2013(aq) + H+(aq)</span>\n<span>Oleh karena kedua garam tersebut terionisasi sempurna maka konsentrasi H2PO4\u2013 dan HPO42\u2013 sama dengan konsentrasi garam-garamnya. Konsentrasi H2PO4\u2013 dalam campuran (100 mL):</span>\n<span>Konsentrasi HPO42\u2013 dalam volume campuran</span>\n\nNilai pH larutan\n\nJadi, pH larutan = 1,95.\nPengenceran Larutan Penyangga\n<span>Mengapa pH larutan penyangga tidak berubah jika diencerkan? Untuk memahami hal ini, dapat ditinjau dari persamaan Henderson-Hasselbalch.</span>\n<span>Nilai pH larutan penyangga hanya ditentukan oleh pKa dan perbandingan konsentrasi molar pasangan asam basa konjugat. Nilai Kaatau pKa dari\n asam lemah tidak bergantung pada konsentrasi asam, tetapi bergantung \npada suhu. Oleh sebab itu, pengenceran larutan penyangga tidak akan \nmengubah nilai pKa (lihat <span>Gambar 8.9</span>).</span>\n<span></span><br>",
+            "attachments": []
+        },
+        {
+            "answer": "a. pH = 14 - log 0,02 x 0,1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 14 - log 0,002<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 11 + log 2<br>b. KOH = HCL<br>\u00a0 \u00a0 M1V1 = M2V2<br>\u00a0 \u00a0 0,1. 20 = 0.1 V2<br>\u00a0 \u00a0 V2 HCl\u00a0= 0,1 . 20 / 0,1 = 20 ml<br>c. karena yang direaksikan adalah basa kuat dan asam kuat jadi pH 7 netral",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-bilangan-oksidasi-dalam-senyawa-berikut-naoh-clo-537",
+            "question": "Tentukan bilangan oksidasi dalam senyawa berikut..    NaOH =\r\nClO\u2084\u207b =\r\nMgH\u2082 =\r\nHPO\u2084\u00b2\u207b =\r\nS\u2082O\u2083\u00b2\u207b =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Bilangan oksidasi NaOH adalah 0. Bilangan oksidasi [tex](ClO_{4})^-[/tex] adalah -1. Bilangan oksidasi [tex]MgH_{2}[/tex] adalah 0. Bilangan oksidasi [tex](HPO_{4})^-^2[/tex] adalah -2. Biloks [tex](S_{2}O_{3})^-^2[/tex] adalah -2.</p><h3>Pembahasan</h3><p><strong>Biloks total seyawa NaOH adalah 0</strong></p><p>\u2235Biloks Na adalah +1 ( aturan biloks no 5)</p><p>\u2235 Biloks O adalah -2 (aturan biloks no 9)</p><p>\u2235 Biloks H adalah +1 ( aturan biloks no 8)</p><p></p><p><strong>Biloks total seyawa </strong>[tex](ClO_{4})^-[/tex] <strong> adalah -1</strong></p><p>\u2235 Biloks O adalah -2 (aturan biloks no 9)</p><p>\u2235 Biloks Cl adalah +7</p><p>Diperoleh dari subtitusi biloks yang sudah diketahui pada \u00a0[tex](ClO_{4})^-[/tex]\u00a0untuk memperoleh biloks Cl</p><p>\u2235Biloks total [tex](ClO_{4})^-[/tex]\u00a0adalah -1<strong> ( aturan biloks 4)</strong>, dan Biloks O adalah -2 <strong>(aturan biloks ke 9)</strong></p><p> \u00a0 \u00a0Biloks [tex]5 KClO_{3}[/tex] = -1</p><p> \u00a0 (jumlah atom Cl x biloks atom Cl) + (jumlah atom O x biloks atom O) = -1</p><p> \u00a0 \u00a0(1 x biloks Cl) + ( 4 x (-2)) = -1</p><p> \u00a0 Biloks Cl - 8 = -1</p><p> \u00a0 Biloks Cl= 8 - 1</p><p><strong> \u00a0 Biloks Cl= +7</strong></p><p></p><p><strong>Biloks total seyawa </strong>[tex]MgH_{2}[/tex]<strong> adalah 0</strong></p><p>\u2235Biloks Mg adalah +1 ( aturan biloks no 6)</p><p>\u2235 Biloks H adalah +1 ( aturan biloks no 8)</p><p></p><p><strong>Biloks total seyawa </strong>[tex](HPO_{4})^-^2[/tex] <strong> adalah -2</strong></p><p>\u2235 Biloks O adalah -2 (aturan biloks no 9)</p><p>\u2235 Biloks H adalah +1 ( aturan biloks no 8)</p><p>\u2235Biloks P adalah +5</p><p>Diperoleh dari subtitusi biloks yang sudah diketahui pada \u00a0[tex](HPO_{4})^-^2[/tex] untuk memperoleh biloks P</p><p>\u2235Biloks total [tex](HPO_{4})^-^2[/tex] adalah -2<strong> ( aturan biloks 4)</strong>, biloks H adalah +1 \u00a0( aturan biloks no 8) dan Biloks O adalah -2 <strong>(aturan biloks ke 9)</strong></p><p> \u00a0 \u00a0Biloks [tex](HPO_{4})^-^2[/tex] \u00a0= -2</p><p> \u00a0 (jumlah atom H x biloks atom H) + (jumlah atom P x biloks atom P) + </p><p> \u00a0 (jumlah atom O x biloks atom O) = -2</p><p> \u00a0 (1 x 1) + (1 x biloks P) + ( 4 x (-2)) = -2</p><p> \u00a0 1 + Biloks P - 8 = -2</p><p> \u00a0 Biloks P= 8- 2 - 1</p><p><strong> \u00a0 Biloks P= +5</strong></p><p></p><p><strong>Biloks total seyawa </strong>[tex](S_{2}O_{3})^-^2[/tex] <strong> adalah -2</strong></p><p>\u2235 Biloks O adalah -2 (aturan biloks no 9)</p><p>\u2235 Biloks S adalah +4</p><p>Diperoleh dari subtitusi biloks yang sudah diketahui pada [tex](S_{2}O_{3})^-^2[/tex]\u00a0untuk memperoleh biloks S</p><p>\u2235Biloks total [tex](S_{2}O_{3})^-^2[/tex]\u00a0adalah -2<strong> ( aturan biloks 4)</strong>, dan Biloks O adalah -2 <strong>(aturan biloks ke 9)</strong></p><p> \u00a0 \u00a0Biloks [tex](S_{2}O_{3})^-^2[/tex] = -2</p><p> \u00a0 (jumlah atom S x biloks atom S) + (jumlah atom O x biloks atom O) = -1</p><p> \u00a0 \u00a0(1 x biloks S) + ( 3 x (-2)) = -2</p><p> \u00a0 Biloks S - 6 = -2</p><p> \u00a0 Biloks S= 6 - 2</p><p><strong> \u00a0 Biloks Cl= +4</strong></p><p></p><p>--------------------------------------------------</p><p><strong>Bilang oksidasi adalah</strong> bilangan yang menunjukkan jumlah yang dapat dilepas, diterima ataupun digunakan bersama-sama agar dapat membentuk ikatan dengan berbagai unsur lainnya. <strong>Bilangan oksidasi lebih dikenal dengan istilah BILOKS.</strong></p><p>Untuk mengetahui jumlah bilangan oksidasi suatu unsur atau suatu senyawa. Terlebih dahulu kita harus memahami ketentuan-ketentuan menghitung bilangan oksidasi. <strong>Berikut beberapa ketentuan dalam bilangan oksidasi:</strong></p><ol><li>Bilangan oksidasi suatu unsur bebas adalah nol ( 0). Contohnya bilangan oksidasi natrium dalam Na adalah nol</li><li>Bilangan oksidasi total untuk senyawa diatomik atau poliatom yang netral adalah (0)</li><li>Bilang oksidasi suatu ion monoatomik adalah sesuai dengan jumlah muatannya . Contohnya bilangan oksidasi untuk Na dalam \u00a0Na+ adalah \u00a0+1</li><li>Bilang oksidasi suatu ion poliatomik adalah sesuai dengan jumlah muatannya</li><li>Bilangan oksidasi untuk unsur golongan IA ( Li, Na, K, Rb, Cs, Fr) adalah +1</li><li>Bilangan oksidasi untuk unsur golongan IIA (Be, Mg, Ca, Sr, Ba, Ra) adalah +2</li><li>Bilangan oksidasi untuk unsur golongan IIIA (B, Al, Ga, In, Ti) adalah +3</li><li>Bilangan oksidasi untuk Hidrogen ( H) adalah +1 kecuali untuk senyawa hidrida logam bilangan oksidasi Hidrogen adalah -1 contohnya pada [tex]MgH_{2}}[/tex] \u00a0 \u00a0\u00a0</li><li>Bilangan oksidasi untuk Oksigen ( O) adalah -2 kecuali untuk senyawa peroksida bilangan oksidasi Oksigen adalah -1 contohnya pada [tex]H_{2}O_{2}[/tex] </li><li>Bilangan oksidasi senyawa halogen ( F, Cl, Br, I) pada umumnya adalah -1 \u00a0</li></ol><h3>Pelajari lebih lanjut</h3><ol><li>Materi tentang perubahan bilangan oksidasi Cl pada reaksi [tex]2KClO_{3}[/tex] \u21d22 KCl + \u00a0[tex]3 O_{2}[/tex], di link https://brainly.co.id/tugas/10237703</li><li>Materi tentang perubahan bilangan oksidasi pada reaksi \u00a0[tex]6ClO_{2}[/tex] + [tex]4H_{2}O[/tex] \u21d2 [tex]5 HClO_{3}[/tex] + HCl , di link https://brainly.co.id/tugas/21579162</li><li>Materi tentang bilangan oksidasi Cr dalam [tex]K_{2}Cr_{2}O_{7}[/tex], di link https://brainly.co.id/tugas/254450</li><li>Materi tentang perubahan bilangan oksidasi Sn pada reaksi Sn + \u00a0[tex]4 HNO_{3}[/tex] \u00a0\u21d2 [tex]SnO_{2}[/tex] + [tex]4NO_{2}[/tex] + [tex]2 H_{2}O[/tex], di link https://brainly.co.id/tugas/21467043</li><li>Materi tentang bilangan oksidasi N dalam [tex](NH_{4})^+[/tex], di link https://brainly.co.id/tugas/9208776</li></ol><p>================================</p><h3>Detail jawaban</h3><p><strong>Kelas : </strong>X</p><p><strong>Mata pelajaran: </strong>Kimia</p><p><strong>Bab : Reaksi Redoks \u00a0</strong></p><p><strong>Kode soal : 10.7.6</strong></p><p></p><p><strong>Kata kunci : </strong>Bilangan oksidasi, Biloks, aturan bilangan oksidasi, \u00a0</p>",
+                    "attachments": [
+                        "answer-attachments/tentukan-bilangan-oksidasi-dalam-senyawa-berikut-naoh-clo-537-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "kelompokanlah-larutan-berikut-ini-kedalam-elektrolit-dan-nonelekt-863",
+            "question": "kelompokanlah larutan berikut ini kedalam elektrolit dan nonelektrolit: a. larutan gula b. asam sulfat encer c. lelehan timbel bromida d. larutan belerang dalam karbon disulfida e. larutan natrium klorida f. kalium klorida padat g. etil alkohol h. larutan natrium hidroksida i. bensin j. tembaga sulfat k. asam karbonat l. air kapur m. natrium karbonat n. timbel nitrat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. larutan gula (Non elektrolit)<br>b. asam sulfat encer\n(elektrolit)<br>c. lelehan timbel bromida\n(non elektrolit)<br>d. larutan belerang dalam karbon disulfida\n(saya tidak begitu yakin, non elektrolit)<br>e. larutan natrium klorida\n(elektrolit)<br>f. kalium klorida padat\n(non elektrolit)<br>g. etil alkohol\n(non elektrolit)<br>h. larutan natrium hidroksida (elektrolit)\n<br>i. bensin\n(non elektrolit)<br>j. tembaga sulfat\n(elektrolit)<br>k. asam karbonat\n(elektrolit)<br>l. air kapur\n(elektrolit)<br>m. natrium karbonat\n(elektrolit)<br><span>n. timbel nitrat</span></span> (elektrolit)<br><br><br>semoga bisa membantu :)<br>jika terjadi kesalahan mohon untukkoreksinya :)<br>beri label terbaik ya, 25% poin akan dikembalikan :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-biohazard-734",
+            "question": "Apa yang dimaksud dengan biohazard ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biohazard adalah\u00a0\u00a0<u>organisme</u>, atau zat yang berasal dari organisme, yang menimbulkan ancaman bagi\u00a0<u>k</u>esehatan\u00a0manusia. Hal ini dapat mencakup limbah medis,\u00a0<u>sample virus, mikroorganis</u>\u00a0atau racun (dari sumber biologis) yang dapat berdampak pada kesehatan manusia dan hewan. Istilah dan simbol yang terkait umumnya digunakan sebagai peringatan, agar mereka yang berpotensi terkena zat-zat tersebut dapat mengambil tindakan pencegahan.<br><br>adapun\u00a0<span>Istilah yang mungkin terkait dengan Biohazard :<br>- infestasi<br>- toksin<br>- zoonis<br>- mikroorganisme<br>- homeostatis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-allicin-adalah-senyawa-yang-menimbulkan-bau-khas-pada-bawang-808",
+            "question": "1.\u00a0Allicin adalah senyawa yang menimbulkan bau khas pada bawang. analisis kandungan alisin menunjukkan bahwa komposisinya adalah 44,4% C, 6,21% H, 39,5% S, dan 9,86% O. Tentukan rumus empiris alisin. Jika massa molekul relatifnya 162, bagaimana rumus molekulnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.buat perbandingan persen, <br>2. kemudian persen itu di bagi Ar masing - masing zat,<br>3. buat perbandingan paling sederhana dari hasil bagi tadi<br>4. jadi Rumus empiris<br><br>C : H : S : O = 44,4 : 6,21: 39,5: 9,86</span> <br>= 44,4/12 : 6,21/1: 39,5/32: 9,86/16<br>= 3,7 : 6,21 : 1,23 : 0,62 (bagi semua perbandingan dengan angka perbandingan terkecil)<br>= 5,9 : 10 : 1,98 : 1 (bulatkan)<br>= 6 : 10 : 2 : 1<br><br>C6H10S2O<br><br>jika Mr Rumus molekul = 162 maka<br>(Mr R empiris) x n = Mr R molekul<br>(6x12 + 10 x 1 + 32 x 2 + 16) x n = 162<br>162 x n = 162<br>n = 1<br><br>maka rumus molekul = rumus empiris<br>yaitu <br><br>C6H10S2O<br><br>semoga bermanfaat :)<br>kasih label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "titrasi-antara-10-ml-hcooh-dengan-koh-01-m-diperoleh-volume-ko-915",
+            "question": "Titrasi\u00a0 antara 10 mL HCOOH dengan KOH 0,1 M diperoleh volume KOH sebesar 10 mL. Apabila massa jenis HCOOH 1,2 GRAM/ml (Mr=49), kadar HCOOH sebesar...% ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cari dengan menggunakan<br>M1 V1 milik HCOOH<br>M2V2 milik KOH<br>M1V1 = M2V2<br>10 x V1 = 0,1 x 10<br>V1 = 0,1 M<br><br>hitung mol dari HCOOH<br>= M x mL = 0,1 x 10 = 1 milimol = 10^-3 mol ................... ^ dibaca pangkat<br>hitung massa HCOOH<br>= mol x Mr = 10^-3 x 49 = 49 x 10^-3 gram<br><br>hitung massa larutan 10 mL yang mengandung HCOOH dicari massanya<br>massa larutan HCOOH = volume x massa jenis = 10 x 1,2 = 12 gram<br><br>maka % massa HCOOH dalam larutan <br>= 49 x 10^-3 / 12 x 100%<br>= 0,408%<br><br><br>semoga bisa membantu :)<br>jika ada kesalahan mohon koreksi :)<br>beri label terbaik ya :D<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitung-ph-campuran-200-ml-larutan-ch3cooh-01-m-dengan-100-ml-lar-430",
+            "question": "Hitung pH campuran 200 ml larutan CH3COOH 0,1 M dengan 100 ml larutan Ba(CH3COO)2 ,0,1M",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "CH\u2083COOH + Ba(CH\u2083COO)\u2082<br>mol CH\u2083COOH = 200 ml x 0,1 M = 20 mmol<br>mol Ba(CH\u2083COO)\u2082 = 100 ml x 0,1 = 10 mmol<br>mol OH\u207b sisa = 20-10 = 10 mmol<br>[OH\u207b] = mol/V.total = 10 mmol / 300 ml = 10\u207b\u00b2<br>pOH = - log [OH\u207b] = - log [10\u207b\u00b2] = 2 <br>pH = 14-pOH = 14 -2 = 12 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-massa-nh42so4-yang-harus-ditambahkan-kedalam-100-ml-air-158",
+            "question": "Berapa massa (NH4)2SO4 yang harus ditambahkan kedalam 100 ml air,sehingga diperoleh pH=5?? Kb=10^-5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><strong><em>Hidrolisis</em></strong><br></span><strong><em>Kimia XI</em></strong><br><br><br><em>Diketahui</em><br>Garam (NH\u2084)\u2082SO\u2084<br>pH = 5<br>Volum larutan = 100 ml<br>Kb\u00a0NH\u2084OH =\u00a01 x 10\u207b\u2075<br><br><em>Ditanya</em><br>Massa (NH\u2084)\u2082SO\u2084<br><br><em>Penyelesaian</em><br><br><em>Step-1</em><br><em>Penjelasan awal</em><br><br>\u21d2 (NH\u2084)\u2082SO\u2084 merupakan garam terhidrolisis sebagian yang terbentuk dari asam kuat H\u2082SO\u2084 dan basa lemah NH\u2084OH yang tepat bereaksi dan habis tak bersisa.<br>\u21d2 (NH\u2084)\u2082SO\u2084 bervalensi\u00a02 sesuai jumlah kation lemah NH\u2084\u207a.<br>\u21d2 Nilai pH &lt; 7<br><br><em>Step-2</em><br><em>Menghitung konsentrasi</em><br><br>\u21d4 pH = 5<br><br>\u21d4 [H\u207a] = 10\u207b\u2075<br><br>\u21d4 [H\u207a] = \u221a [(Kw/Kb) x (M x valensi)]<br><br>\u21d4 10\u207b\u2075 = \u221a [(10\u207b\u00b9\u2074 / 10\u207b\u2075) x (M x 1)]<br><br>\u21d4 10\u207b\u00b9\u2070 = 10\u207b\u2079\u00a0x M<br><br>M = 10\u207b\u00b9 mol/liter<br><br><em>Step-3</em><br><em>Menghitung massa</em><br><br>Mr (NH\u2084)\u2082SO\u2084 = 2.Ar N + 8.Ar H + Ar S + 4.Ar O<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2(14) + 8(1) + 32 + 4(16)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 132<br>\u00a0<br>\u21d4 M = [massa/Mr] x [1000/volum ml]<br><br>\u21d4 10\u207b\u00b9 = [massa/132] x [1000/250]<br><br>\u21d4 10\u207b\u00b9 = [massa/132] x 4<br><br>\u21d4 10\u207b\u00b9 = massa/33<br><br>\u21d4 Massa = 33 x 10\u207b\u00b9\u00a0<br><br><strong>\u2234 Massa (NH\u2084)\u2082SO\u2084 =\u00a03,3 gram\u00a0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-reaksi-logam-aluminium-dan-larutan-asam-klorida-sebag-689",
+            "question": "Diberikan reaksi logam\u00a0aluminium\u00a0dan larutan asam klorida sebagai berikut\u00a0     \u00a0\r\n\r\nJika massa logam aluminium yang bereaksi 5,4 gram tentukan volume gas H2\u00a0yang terbentuk pada keadaan standar!\r\n(Ar Al = 27; H = 1; Cl = 35,5)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>Al yang bereaksi = 5,4 gram<br>mol Al yang bereaksi = Massa/Ar = 5,4 gram/27 gr/mol = 0,2 mol<br>1. masukkan mol Al yang bereaksi tersebut ke dalam tabel kesetimbangan .<br>(SEUSAIKAN dengan masing masing koefisien)<br>berdasarkan reaksi :<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02Al \u00a0 \u00a0 \u00a0 \u00a0+\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a06HCl \u00a0 \u00a0 ==&gt; \u00a0 \u00a0 2AlCl</span>\u2083<span>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0+ \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3H</span>\u2082<br>MULA \u00a0 \u00a0 \u00a00,2 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,6 mol<br>REAKSI \u00a0-0,2 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -0,6 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 +0,2 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0+0,3\u00a0mol<br>SISA \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,2 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>0,3 mol<br>(saya anggap AL habis bereaksi)<br></strong>2. karena mol H\u2082 sudah ditemukan, tinggal dijadikan Volume gas pada STP<br><strong>Volume (STP)\u00a0= n x 22,4 L<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 0,3 mol x 22,4 L = 6,72 Liter<br></strong>Semoga Membantu!!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "prinsip-apa-saja-yang-dibubuhkan-dalam-menyetarakan-persamaan-rea-713",
+            "question": "Prinsip apa saja yang dibubuhkan dalam menyetarakan persamaan reaksi???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1. Penyelesaian dengan metode biloks<br></span><span>2.Penyelesaian dengan metode setengah reaksi yang dimodifikasi<br><br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "menyamakan jumlah atom sejenis atau\u00a0<span>Koefisien\u00a0reaksi\u00a0untuk\u00a0menyetarakan\u00a0jumlah atom atau jumlah molekul\u00a0:)\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-hcooh-02-m-sebanxak-50-ml-dicampur-dengan-larutan-koh-0-675",
+            "question": "Larutan HCOOH 0,2 M sebanxak 50 ml dicampur dengan larutan KOH 0,2 M . Ka = 2,5x10 pangkt -4 tentukan pH? Tolong berikan tabel kesetimbangannya dan caranya dong . Makasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik :<br>- [HCOOH] = 0,2\u00a0M \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- [KOH] = 0.2 M<br>- Volumenya = 50 ml \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- Ka = 2,5 x10\u207b\u2074\u00a0 \u00a0<br>jawab :<br>Dari data, volume KOH belum diketahui, jadi aku asumsikan kalo ini reaksi yang netral.<br>maka cari volume KOH yang digunakan.<br>N\u2081 x V\u2081 = N\u2082 x V\u2082 ===&gt; anggap yang bernomor 1 statusnya menjadi KOH<br>V\u2081 =\u00a0[tex] \\frac{N2 x V2}{N2} [/tex]\u00a0<br>V\u2081 =\u00a0[tex] \\frac{(0.2M x 1) x 50 ml}{(0,2 x 1)} [/tex] = 50 ml<br>setelah dapat dtanya lengkap, baru jadikan mol dengan cara Molaritas x Vol, lalu masukkan ke tabel kesetimbangan.<br><u></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0HCOOH \u00a0 + \u00a0 KOH \u00a0 \u00a0 \u00a0 \u00a0\u00a0 == \u00a0 \u00a0 \u00a0\u00a0HCOOK \u00a0+ \u00a0H\u2082O<br>MULA \u00a0 \u00a0 \u00a0 \u00a010 mmol \u00a0 \u00a0 \u00a0 10 mmol<br>REAKSI \u00a0 \u00a0 10 mmol \u00a0 \u00a0 \u00a0 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10 mmol \u00a0 \u00a0 10 mmol<br>SISA \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a010 mmol \u00a0 \u00a0 10 mmol<br><br>karena tidak ada sisa pereaksi, maka reaksi ini termasuk reaksi hidrolisis garam.<br>ingat, hanya asam-basa lemah yang dapat terhidrolisis.senyawa yang dipakai adalah garam hasil reaksinya yaitu HCOOK.<br>HCOOK ==&gt; HCOO\u207b \u00a0+ K\u207a \u00a0=====&gt; [HCOO\u207b] = [tex] \\sqrt{Ka \u00a0x [HCOOK]} [/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0=[tex] \\sqrt{2,5 x10^-4 \u00a0 x 0,1 M} [/tex]\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5 x 10\u207b\u00b3<br><br>[H\u207a] =\u00a0[tex] \\sqrt{\\frac{Kw}{Ka} x [HCOO-]}[/tex]<br>[H\u207a] =\u00a0<u></u>[tex] \\sqrt{\\frac{10^-14}{2,5 x 10^-4} x 5 x 10^-3}[/tex]<br>[H\u207a] = 10\u207b6,5 x\u00a0[tex] \\sqrt{2} [/tex]<br>Ph = -log [H\u207a]<br>Ph = 6,5 -log\u00a0[tex] \\sqrt{2} [/tex]<br>Ph = 6,35<br><br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

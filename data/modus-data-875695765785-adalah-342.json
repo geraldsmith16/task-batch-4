@@ -1,0 +1,152 @@
+{
+    "question": "Modus data 8,7,5,6,9,5,7,6,5,7,8,5 adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "modus = nilai yg sering muncul<br>modusnya 5",
+            "attachments": []
+        },
+        {
+            "answer": "5 = ada 4<br>6 = ada 2<br>7 = ada 3<br>8 = ada 2<br>9 = ada 1<br>Jadi modusnya angka 5",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-asemua-faktor-dari-6-banyak-himpunan-bagian-a-ada-254",
+            "question": "Jika A={semua faktor dari 6}. banyak himpunan bagian A ada",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktor dari 6 = {1,2,3,6}<br>banyak anggota (n) = 4<br><br>banyak himpunan bagian = 2\u207f<br>banyak himpunan bagian = 2\u2074<br><strong>banyak himpunan bagian = 16</strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "A = {1,2,3,6}<br>n[A] = 4<br>Jumlah Himpunan Bagian dari A = ?<br><br>Jadi , <br>Penggunaan segitiga pascal ,<br>0 anggota = 1 <br>1 anggota = 4<br>2 anggota = 6<br>3 anggota = 4<br>4 anggota = 1<br><br>Jumlah anggota himpunan bagian = 1 + 4 + 6 + 4 + 1\u00a0 <br>Jumlah anggota himpunan bagian = 16<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-rosli-membeli-sepeda-bekas-seharga-rp8000000-untuk-mengga-852",
+            "question": "Pak rosli membeli sepeda bekas seharga Rp.80.000,00. untuk mengganti    bannya pak rosli mengeluarkan biaya Rp.20.000,00. kemudian sepeda itu di\r\n jual kembali seharga Rp.120.000. presentase keuntungan yang di peroleh \r\n pak rosli adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Modal = 80.000 + 20.000 = Rp.100.000<br>Dijual = Rp.120.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0120.000 - 100.000<br>\u00a0Keuntungan =\u00a0\u00a0 \u00a0 \u00a0 -------------------------- x 100% = 20%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0100.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "120000-(80000+20000)= 20000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-garis-lengkung-yang-menghubungkan-titik-a-dan-c-disebut-2r-945",
+            "question": "1. garis lengkung yang menghubungkan titik A dan C disebut...    2.rumus keliling lingkaran adalah...\r\n3.rumus luas lingkaran adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klling lingkaran= \u03c0 x d\nluas = \u03c0.r kuadrt",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.ga tau<br>2.Keliling lingkaran: 22/7 x d = 2 x 22/7 x r<br>3.Luas lingkaran: 22/7 r x r = [tex]  \\pi [/tex]r2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradiengaris-dengan-persamaan-3x-6y-5-adalah-380",
+            "question": "Gradiengaris dengan persamaan 3x-6y=-5 adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gradien (m) =-a/b=-3/-6=1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seseorang-meminjam-uang-dikoperasi-sebesar-rp600000000-dan-dia-101",
+            "question": "seseorang meminjam uang dikoperasi sebesar Rp.6000.000,00 dan diangsur selama 12 bulan dengan bunga 1,5% per bulan. Besar angsuran setiap bulan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,5/100 x 6.000.000 = 90.000<br>90.000/12 = 7.500<br>6.000.000/12 = 500.000<br>500.000 + 7.500 = 507.500<br>jadi, besar angsuran setiap bulan adalah Rp. 507.500,00<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "mungkin<br>6000.000 x (<u>1\u00a0</u> x 1,5%)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br>6000.000 x (<u>1\u00a0</u> x\u00a0<u>1,5</u>) = 6000.000 x\u00a0<u>1,5</u> = 30.000 x 1,5 = Rp. 45.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 \u00a0 \u00a0 100 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0200",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lapangan-berbentuk-lingkaran-110-meterjari2-lap-636",
+            "question": "Keliling sebuah lapangan berbentuk lingkaran 110 meter.jari2 lap. tersebut adalah.. ?? m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2\u00d7\u03c0\u00d7r<br>110 = 2\u00d722/7\u00d7r<br>110 = 44r/7<br>r = 770/44<br>r = 17,5 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L =\u00a0\u03c02r<br>110 = 22/7 X 2r<br>110 X 7 = 22 X 2r<br>770 = 44r<br>r\u00a0= 770/44<br>r =17,5 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-di-bawah-panjang-ps-pr-rq-dan-besar-sudut-psr-627",
+            "question": "Pada gambar di bawah, panjang PS = PR = RQ, dan besar sudut PSR = 64\u00b0. nilai x + y = [pake cara]    a. 21\r\n b. 32\r\n c. 52\r\n d. 84",
+            "attachments": [
+                "question-attachments/pada-gambar-di-bawah-panjang-ps-pr-rq-dan-besar-sudut-psr-627-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "PSR = 64 derajat. Karena\u00a0\u0394 PSR adalah segitiga sama kaki, maka PRS = 64. <br>Maka besar 4y = 180 - (64 + 64) = 52<br>y = 52/4 = 13<br>besar PRQ = 180 - 64 = 116<br>\u0394PRQ juga segitiga sama kaki, maka besar RPQ = (180-116)/2 = 32<br>x = 32/4 = 8<br>x + y = 8 + 13 = 21 derajat (Opsi A)<br><br>Jadiin jwbn terbaik dong<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-sudut-segi-10-beraturan-adalah-tolong-jawab-bersama-peny-531",
+            "question": "Besar sudut segi-10 beraturan adalah... tolong jawab bersama penyelesaiannya ya,..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span><span></span></span><span><span>Setiap segi-n beraturan dapat dibagi menjadi n buah segitiga sama kaki, \nyang besar sudut antara sisi sama kakinya adalah 360 : n.  <br>\nMaka besar sudut pada kaki2nya adalah (180 - (360 : n)) : 2. <br>\nJadi besar tiap sudut segi n beraturan adalah : <br>\n= (180 - (360 : n)) : 2 x 2  <br>\n= 180 - (360 : n) <br><br>\nUntuk segi 10 = 180 - (360/10) = 180 - 36 = 94 derajat....</span></span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "karna pada segi4 =90\u00b0, dan sudut total=360\u00b0. Maka 360\u00b0/4=90\u00b0. artinya rumusnya Sudut total dibagi banyaknya segi, jadi kalau segi10, maka 360\u00b0/10 = 36\u00b0...",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-barisan-geometri-128-64-32-16-a-carilah-ras-285",
+            "question": "Ditentukan barisan geometri 128, -64, 32, -16, ...    a. Carilah rasio dan rumus ke-n\r\nb. Suku keberapakah yang nilai nya samaa dengan -1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ditentukan barisan geometri 128, -64, 32, -16, ...<br>a. Carilah rasio dan rumus ke-n<br><span>b. Suku keberapakah yang nilai nya samaa dengan -1?<br>r = u2/u1<br>r = -64/128<br>r = -1/2<br>Un = a x r^n-1\u00a0<br>Un = 128 x (-1/2)^n-1<br></span><span>Un = 128 x (-1/2)^n : (-1/2)<br>Un = -\u00a0256 x (-1/2)^n<br>-1 =\u00a0</span>\n-\u00a0256 x (-1/2)^n<br>(-1/2)^n = -1/-256<br>(-1/2)^n = 1/256<br>n = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

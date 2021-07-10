@@ -1,0 +1,140 @@
+{
+    "question": "Sebuah barang dengan harga Rp12.000 dibeli dengan harga Rp10.200. Besar diskon untuk barang itu adalah...........",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "12000x15/100 = 1800<br><br>12000-1800 = 10200<br><br>jadi,jumlah diskon adalah 15 persen<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "6skala-sebuah-peta-1-1500000-jarak-kota-a-dan-b-pada-peta-i-595",
+            "question": "6.skala sebuah peta 1 : 1.500.000. jarak kota A dan B pada peta itu 6 cm. berapa jarak sebenarnya kota A dan kota B?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya = 1.500.000 X 6cm = 9.000.000cm = 90km<br>Jarak Sebenarnya = 90km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-berbentuk-lingkaranketika-berputar-100-kalibenda-t-545",
+            "question": "Sebuah benda berbentuk lingkaran.ketika berputar 100 kali.benda tersebut dapat menempuh jarak176cm.hitunglah:    a.diameter benda dengan =3,14\r\nb.luas permukaan benda!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "176 = 100K<br>176 = 100(2\u03c0r)<br>176 =200(3,14)r<br>176 = 628r<br>r = [tex] \\frac{176}{628} [/tex]<br>r = 0,28<br><br>d = 2r = 2(0,28) = 0,56 cm<br><br>L = \u03c0r\u00b2 = 3,14 (0,28)\u00b2 = 3,14(0,0784) = 0,246176 cm\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "berputar 100 kali<br>jarak 176 cm<br>a)1 kali berputar=1 kelO=176/100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1,76 cm<br>\u00a0 kelO=2*pi*r<br>1,76=2*3,14*r<br>r=1,76/6,28=0,28 cm<br>b)L=pi *rkuadrat<br>\u00a0 \u00a0 \u00a0=22/7*0,28*0,28<br>\u00a0 \u00a0 \u00a0=22*0,04*0,28<br>\u00a0 \u00a0 \u00a0=22*0,0112<br>\u00a0 \u00a0 =0,2464 cmpersegi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-yang-berjari-jari-35-cm-dan-bersudut-pus-712",
+            "question": "Panjang busur lingkaran yang berjari jari 3,5 cm dan bersudut pusat 54\u00b0 adalah ... cm.     a. 2,8\r\n b. 3,3\r\n c. 4,2\r\n d. 5,8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang busur = A<br>A= (54/360) x 2[tex] \\pi [/tex]R<br>\u00a0 = (3/20) x 2 x 3,14 x 3,5<br>\u00a0= 3,297\u00a0<br>\u00a0= 3,3\u00a0<br><br>answer B",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang busur dimisalkan dengan X<br>X = (sudut pusat/360\u00b0)\u00a0 \u00d7 kll lingkaran = (54/360\u00b0) \u00d7 2\u03c0R = (3/20) \u00d7 2 \u00d7 22/7 \u00d7 3,5 = (3/20).22 = 3,3 jawabannya B<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-n-a-28-n-b19-924",
+            "question": "Diketahui n (A)= 28     \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n (B)=19\r\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 n (A\u2229B)=12\r\n\u00a0\u00a0 maka\u00a0\u00a0 n (AUB)= ?\r\na. 32\r\nb. 35\r\nc. 40\r\nd. 47\r\nberi penjelasan..\r\nmakasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "n(A U B)=n(A)+n(B)-n(A<span>\u2229B)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 =28+19-12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =47-12=35  <br></span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "28 - 12 = 16.\n19 - 12 = 7.\nn (AnB) = 12. maka, 16 + 7 + 12 = 35.\njadi, n (AUB) = 35.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-keliling-suatu-kolam-berbentuk-lingkaran-942-m-maka-luas-p-482",
+            "question": "Jika keliling suatu kolam berbentuk lingkaran 94,2 m. maka luas permukaan kolam adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2\u03c0r<br>94,2 = 2 x 3,14 r<br>r = 15<br><br>luas = \u03c0r\u00b2<br>luas = 3,14 x 15\u00b2<br>luas = 706,5<br><br>jadikan jawaban terbaik donk :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-ayam-membeli-300-ekor-ayam-dari-peternak-dengan-238",
+            "question": "Seorang pedagang ayam membeli 300 ekor ayam dari peternak dengan harga rata-rata Rp.6.000,00 kemudian dijualnya dipasar. hari pertama ia menjual 180 ekor ayam dengan harga Rp.10.000,00 tiap ekor. ternyata pada hari kedua 100 ekor ayam mati karena flu burung dan sisanya berhasil di jual dengan harga Rp.9.000,00 tiap ekor.    jawablah pertanyaan di bawah ini!\u00a0\r\na. untung atau rugikah pedagang tersebut?\r\nb. berapakah presentase keuntungan atau kerugiannya?\r\n(jawabnya pake cara yahh...)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga beli = 6000 x 300 = 1.800.000<br>harga jual = penjualan1 Rp 10.000 x 180 = 1.800.000<br>penjualan2 Rp 9000 x 20 = 180.000<br><span>harga jual seluruhnya = 1.980.000\u00a0</span><br><span>a. penjual tersebut untung karena harga jualnya lebih banyak dibandingkan harga beli<br>b. presentase keuntungan = untung : harga beli x 100% = 180.000 : 1.800.000 x 100 % = <strong>10%</strong></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-keliling-lingkaran-88-cm-maka-jari-jari-lingkaran-adalah-220",
+            "question": "Bila keliling lingkaran = 88 cm, maka jari-jari lingkaran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>88 cm = 2 dikali 3,14 dikali x (jari jari)<br>88 = 6,28 dikali x<br>x = 88 dibagi 6,28 = 14,01 bisa dijadikan 14 cm aja <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 2[tex] \\pi [/tex]r atau\u00a0[tex] \\pi [/tex]D<br>k = 88<br>2[tex] \\pi r[/tex] = 88<br>[tex] \\pi r = 88/2[/tex]<br>22/7r = 44<br>r = 44x7/22<br>r = 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [
+                "question-attachments/pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Sebuah segitiga, mempunyai total besar sudut sebanyak 180.<br>\u00a0Panjang PQ dan QR adalah SAMA.<br>Berarti sudut P dan sudut Q adalah SAMA.<br>\u00a0Maka, 180 - 112 = 68 drajat<br>68 : 2 = 34 derajat.<br>\u00a0Jadi, masing masing sudut P dan Q adalah 34 derajat.<br><br>*Pembuktian = 34 + 34 + 112 = 180",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-segitiga-siku-siku-panjang-hipotenusanya-310-459",
+            "question": "Diketahui sebuah segitiga siku-siku, panjang hipotenusanya 3\u221a10 cm dan panjang salah satu sissinya 3 cm. panjang sisi siku-siku yang lain adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "hipotenusa=\u221a{(sisi 1)\u00b2+(sisi 2)\u00b2}<br>hipotenusa\u00b2=(sisi 1)\u00b2+(sisi 2)\u00b2<br>(3\u221a10)\u00b2=3\u00b2 + (sisi 2)\u00b2<br>90 = 9 + (sisi 2)\u00b2<br>81 = (sisi 2)\u00b2<br>(sisi 2)\u00b2 = 81<br>(sisi 2) = \u221a81<br>(sisi 2) = 9<br><br>hasilnya 9................ jadikan jawaban saya yang terbaik ya :D<br><br><br><br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-segitiga-pqr-sama-kaki-dengan-pq-qr-dan-sudut-q-1-500",
+            "question": "PADA GAMBAR SEGITIGA PQR sama kaki dengan PQ = QR dan sudut Q = 112 derajat besar sudut P adalah ?.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas 8 Matematika<br>Bab Garis dan Sudut<br><br>\u0394 PQR adalah segitiga sama kaki<br>PQ = QR, maka sudut P = sudut R<br><br>Sudut P + sudut Q + sudut R = 180\u00b0<br>Sudut P + 112\u00b0 + sudut P = 180\u00b0<br>2 . sudut P = 180\u00b0 - 112\u00b0<br>Sudut P = 68\u00b0/2<br>Sudut P = 34\u00b0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "question": "himpunan penyelesaian dari sin 2x - sin x = 0, untuk x elemen dari R dan 0 derajat\u00a0 x 360 derajat adalah?? mohon jelaskan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sin 2x - sin x = 0<br>2 sin x cos x - sin x = 0<br>sin x (2 cos x - 1) = 0<br><br>1) sin x = 0<br>sin x = sin 0\u00b0<br>sin x = sin 180\u00b0<br>sin x = sin 360\u00b0<br>x = 0\u00b0, 180\u00b0, 360\u00b0<br><br>2) (2 cos x - 1) = 0<br>2 cos x = 1<br>cos x = 1/2<br>cos x = cos 60\u00b0<br>cos x = cos 300\u00b0<br>x = 60\u00b0, 300\u00b0<br><br>Jadi<br><br>Jika 0\u00b0 &lt; x &lt; 360\u00b0<br>HP = {60\u00b0, 180\u00b0, 300\u00b0}<br><br>Jika 0\u00b0 \u2264 x \u2264 360\u00b0<br>HP = {0\u00b0, 60\u00b0, 180\u00b0, 300\u00b0, 360\u00b0}",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "salah-satu-nilai-p-yang-menyebabkan-persamaan-kuadrat-2x-pangkat-500",
+            "question": "Salah satu nilai p yang menyebabkan persamaan kuadrat 2x pangkat 2 + (p + 1)x + 8 = 0 memiliki akar kembar adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a=2 b=p+1 c=8 karena akarnya sama maka D=0<br>[tex]D=b^{2} -4ac[/tex]<br>[tex](p+1)^{2} -4(2)(8)=0[/tex]<br>[tex]p^{2} + 2p + 1 -64 =0[/tex]<br>[tex]p^{2}  + 2p -63 =0[/tex]<br>(p-7)(p+9) = 0<br>p=7 atau p=-9",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-cos-dari-1290-tolong-beserta-caranya-ya-d-361",
+            "question": "Nilai cos dari (1290) = ...\r\ntolong beserta caranya ya :D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1290 = 3x 360 +210\ncos 1290 = cos (3x360 +210)\ncos210 = -cos 30\n=-1/2 akar 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-daniel-seorang-karyawan-perusahaan-ia-membeli-sebuah-mobil-823",
+            "question": "Pak daniel seorang karyawan\u00a0 perusahaan. Ia membeli sebuah mobil bekas seharga Rp 90.000.000,00. dan dikenakan pajak penjualan sebesar 5%.Berapa rupiah uang yang harus dibayar Pak Daniel untuk pembelian mobilnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: IX</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Matematika perdagangan</p>\n\n<p>Kata kunci: pembelian, pajak, penjualan</p>\n\n<p>\u00a0</p>\n\n<p>Pak Daniel membeli sebuah mobil seharga Rp. 90.000.000,- </p>\n\n<p>Pak daniel juga harus membayar pajak sebesar 5% dari besar harga\npembelian mobil itu.</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>\u00a0</p>\n\n<p>Kita hitung dulu harga pajak yang harus dibayarkan:</p>\n\n<p>5/100 x 90.000.000 = Rp. 4500.000,-</p>\n\n<p>\u00a0</p>\n\n<p>Jumlah uang yang harus dibayar pak Dniel total adalah </p>\n\n<p>Harga mobil + harga pajak</p>\n\n<p>90.000.000 + 4.500.000 = Rp. 94.500.000,-</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kapal-berlayar-dari-pelabuhan-a-dengan-arah-044-derajat-se-209",
+            "question": "Sebuah kapal berlayar dari pelabuhan A dengan arah 044 derajat sejauh 50km .kemudian berlayar lagi dengan arah 104 derajat sejauh 40 km ke pelabuhan C. Jarak pelabuhan A ke C adalah...\u00a0    minta tolong dong , gmna caranya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pilih sebagai solusi terbaik ya<br>B=180-(44+104) <br>\n=180-60=120 derajat <br>\na=40km <br>\nc=50km  <br>\nditanya,,,b? <br>\nb^2=a^2+c^2-2ac cosB <br>\n=40^2+50^2-2.40.50 cos 120 derajat <br>\n=1600+2500-4000.-1/2 <br>\n=4100+2000 <br>\n=6100 <br>\nb=akar dari 6100=10 akar 61 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-akar-persamaan-kuadrat-x2-a1x-2a-0-adalah-p-dan-q-727",
+            "question": "akar-akar persamaan kuadrat x2 + (a+1)x + 2a = 0 adalah p dan q. nilai minimum dari p2 + q2 dicapai untuk a sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p^2+q^2<br>(p+q)^2-2pq<br>(-a-1)^2-2.2a<br>a^2-2a+1=0<br>(a-1)(a-1)<br>a=1 <br>mklumin lw salah yea :D :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-merupakan-pasangan-invers-dari-fungsi-fxx43-adalah-422",
+            "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-contoh-aplikasi-soal-trigonometri-dalam-bidang-fisika-beserta-154",
+            "question": "Apa contoh aplikasi soal trigonometri dalam bidang fisika beserta pembahasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gerak parabola : kan ada sudutnya. kalau diuraikan pada sumbu x, cos sudut. kalau diuraikan diuraikan pada SB y sin sudut<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-x-1-dan-x-2-keduanya-merupakan-faktor-dari-polinom-px-607",
+            "question": "Jika (x-1) dan (x-2) keduanya merupakan faktor dari polinom P(x)= x^3-3x^2+2x-4b maka nilai b harus sama dengan...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "p(x)=x^3-3x^2+2x-4b<br>b=4",
+                    "attachments": []
+                },
+                {
+                    "answer": "b = 0 karena jika <span>x^3-3x^2+2x-4b</span> di bagi (x - 1) atau (x - 2) maka sisanya harus = 0<br>itu aja :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-ditembakkan-ke-atas-setelah-t-detik-mempunyai-ketin-174",
+            "question": "Sebuah peluru ditembakkan ke atas setelah t detik mempunyai ketinggian h(dalam meter) yg memenuhi rumus h(t) = 600t - 4t\u00b2.    pertanyaan : setelah beberapa detik peluru mencapai tinggi maximum dan tentukan tinggi maximum peluru tersebut !\r\n\r\nyg tau bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "h(t) = 600t - 4t\u00b2 <br>syarat mencapai maksimum adalah h&#039;(t) = 0 <br>\u21d2 600 - 8t = 0<br>\u21d28t = 600 <br>t = 600/8 <br>t = 75 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-px-x4-3x3-5x2-x-6-dibagi-dengan-x2-x-2-ma-385",
+            "question": "Jika p(x) = x4 - 3x3 - 5x2 + x - 6 dibagi dengan (x2 - x - 2), maka sisanya adalah...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara skematis, nanti hasilnya<br>p1.p2 = (x-2)(x+1)<br>s1 = -32<br>s2 = -8<br><br>jd, s(x) = p1s2 + s1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (x-2)-8 + -32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -8X+16-32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = -8X - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8X+16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

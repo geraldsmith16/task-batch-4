@@ -1,0 +1,132 @@
+{
+    "question": "Larutan NaOH sebanyak 2 liter mempunyai pH 12 +log 3. jumlah mol NaOH tersebut adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.</strong> NaOH termasuk dalam jenis larutan basa kuat. Jumlah mol dapat ditentukan jika konsentrasi basa diketahui. Adapun Konsentrasi dapat ditentukan dari data [OH\u207b] dan valensi basa.\n</p><p></p><h3>Pembahasan\n</h3><p>Langkah awal dalam kaitannya dengan pH adalah menentukan jenis larutan yang diketahui merupakan larutan asam atau larutan basa. Setelah mengetahui jenis larutan kalian juga harus menentukan sifat larutan tersebut termasuk asam basa kuat atau asam basa lemah. Berdasarkan teori Arrhenius disebutkan bahwa asam adalah senyawa yang dapat melepaskan ion H\u207a ketika dilarutkan dalam air. Adapun basa adalah senyawa yang dapat melepas ion OH\u207b ketika dilarutkan dalam air. Berikut pilihan rumus yang dapat digunakan untuk menghitung konsentrasi asam dan basa sesuai dengan kekuatan asam atau basa tersebut. \u00a0\n</p><p>Jika asam kuat : [H\u207a] = Ma x a\n</p><p>Jika basa kuat : [OH\u207b] = Mb x b\n</p><p>Jika asam lemah : [H\u207a] = \u221a(Ka x Ma)\n</p><p>Jika basa lemah : [OH\u207b] = \u221a(Kb x Mb)\n</p><p>Daftar asam kuat: HCl, HBr, HI, H\u2082SO\u2084, HClO\u2084, HNO\u2083\n</p><p>Daftar basa kuat : LiOH, NaOH, KOH, RbOH, CsOH, Mg(OH)\u2082, Ca(OH)\u2082, Sr(OH)\u2082, Ba(OH)\u2082\n</p><p>Selanjutnya jika larutan tersebut merupakan larutan asam maka pH ditentukan dengan \u00a0\n</p><p>pH = - log [H\u207a]\n</p><p>Jika larutan adalah larutan basa maka pH ditentukan dengan\n</p><p>pOH = - log [OH\u207b] \u00a0 =&gt; pH = 14 \u2013 pOH\n</p><p>Pelajari lebih lanjut tentang pH asam basa di: https://brainly.co.id/tugas/21186459. \u00a0</p><p><u><strong>Pada kasus di atas\n</strong></u></p><p>Pada soal diketahui basa NaOH dengan pH 12 + log 3 dengan volume 2 L. Adapun yang ditanyakan adalah jumlah mol dari basa tersebut.\n</p><p>Untuk menentukan jumlah mol NaOH kalian harus mengetahui NaOH termasuk ke dalam basa kuat atau basa lemah untuk menentukan rumus yang dapat digunakan. Jika kalian lihat pada daftar NaOH termasuk ke dalam kelompok basa kuat sehingga kalian dapat menentukan konsentrasi NaOH menggunakan rumus \u00a0</p><p>[OH\u207b] = Mb x b\n</p><p>Kalian dapat menentukan [OH\u207b] menggunakan data pH yang diketahui. Berikut penentuannya:\n</p><p>pH = 12 + log 3\n</p><p>pOH = 14 \u2013 pH\n</p><p>pOH = 14 \u2013 (12 + log 3)\n</p><p>pOH = 2 \u2013 log 3\n</p><p>[OH\u207b] = 3 x 10\u207b\u00b2\n</p><p>Selanjutnya untuk b (valemnsi basa) dapat kalian tentukan dari jumlah OH\u207b dalam larutan yang dapat kalian lihat dari hasil ionisasinya berikut\n</p><p>NaOH \u00a0\u2192 Na\u207a + OH\u207b\n</p><p>Dilihat dari reaksi ionisasi tersebut didapatkan bahwa basa terdapat 1 ion OH\u207b sehingga valensi basa (b) = 1. Selanjutnya kalian dapat menentukan konsentrasi basa dengan rumus berikut:\n</p><p> \u00a0 \u00a0[OH\u207b] = Mb x b\n</p><p>3 x 10\u207b\u00b2 = Mb x 1\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 3 x 10\u207b\u00b2 M\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 0,03 M\n</p><p>Selanjutnya kalian dapat menentukan jumlah mol (n) yang terdapat dalam larutan NaOH tersebut menggunakan rumus:\n</p><p>n = M x V = 0,03 x 2 = 0,06 mol\n</p><p>Jadi dapat disimpulkan bahwa jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.\n</p><p>Pelajari lebih lanjut tentang konsentrasi dalam satuan molaritas di: https://brainly.co.id/tugas/18990947.\n</p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas:</strong> XI\n</p><p><strong>Mapel:</strong> Kimia\n</p><p><strong>Bab: </strong>larutan asam basa\n</p><p><strong>Kode:</strong> 11.7.5\n</p><p>#AyoBelajar\n</p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebutkan-kegunaan-air-suling-dalam-percobaan-elektrolit-822",
+            "question": "Sebutkan kegunaan air suling dalam percobaan elektrolit !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pertama kita definisikan dulu apa itu suatu larutan ya<br>Larutan dibagi menjadi dua unsur yaitu pelarut dan larutan itu sendiri. Pelarut adalah sesuatu yang digunakan untuk melarutkan suatu benda. Jumlah pelarut ini lebih besar dari unsur yang dilarutkan. <br><br>Kemudian yang kedua terkait larutan elektrolit. Berdasarkan sumber yang dihimpun larutan Elektrolit adalah suatu zat yang ketika dilarutkan dalam air \nakan menghasilkan larutan yang dapat menghantarkan arus listrik. \nContohnya pelarut air dengan alkohol 70 %. <br><br>Sedangkan larutan non elektrolit tidak \nmenghantarkan arus listrik ketika dilarutkan ke dalam air. Senyawa ionik\n dan kovalen polar biasanya bersifat elektrolit. Contohnya asam, basa, \ndan garam<br><br>Nah Air suling atau aquades dengan rumus kimia H20 merupakan pelarut dengan Ph 7, yang fungsinya adalah sebagai bahan percobaan atau pelarut elektrolit yang baik. Konduktifitasnya adalah 0-100 \u03bcs. Sehingga di sini air sulit sangat baik untuk melarutkan zat zat yang bersifat elektrolit. <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "senyawa-besi-sulfida-tersusun-dr-unsur-besi-fe-amp-unsur-bele-762",
+            "question": "senyawa besi sulfida tersusun dr unsur besi (FE) &amp; unsur belerang (S) dg perbandingan masa FE : S = 7 : 4 .Bila 15gr besi &amp; 2gr belerang dibentuk mjd senyawa besi sulfida, berapa gr massa besi sulfida yg dapat trjdi ? (pkai cara yah)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{Fe}{S} [/tex] =\u00a0[tex] \\frac{7}{4} [/tex]<br>Fe =\u00a0[tex] \\frac{7}{4} [/tex] S<br>maka Fe =\u00a0[tex] \\frac{7}{4} [/tex] 2 gr = 3.5 gr<br>maka FeS yang terbentuk = 3.5 + 2 = 5.5 gr",
+                    "attachments": []
+                },
+                {
+                    "answer": "Fe : S = 7 : 4<br>Fe + s -&gt; FeS<br>3,5 + 2 -&gt; 5,5 gram <br>karena perbandingannya 7 : 4 sedangkan jumlah belerang hanya 2 gram<br>sisa Fe 11,5 gr dan belerang habis<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-056-logam-m-bereaksi-dengan-larutan-hcl-membentuk-0005-mol-333",
+            "question": "jika 0,56 logam M bereaksi dengan larutan HCL membentuk 0,005 mol H2 dan larutan MCL2. Maka berapakah massa atom relatif logam tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan\u00a0</strong><br><br>Jika 0,56 gram logam M bereaksi dengan larutan HCl membentuk 0,005 mol H\u2082\u00a0dan larutan garam MCl\u2082, m<span>aka berapakah massa atom relatif (Ar) logam tersebut?<br><br>Ini merupakan persoalan stokiometri. Reaksi berlangsung antara logam dengan asam kuat yang menghasilkan garam dan gas hidrogen. Logam yang bereaksi termasuk jenis bivalen atau bermuatan +2 karena terlihat garam yang terbentuk adalah MCl</span>\u2082, sedangkan kita tahu bahwa muatan ion klor adalah -1.<br><span><br>Reaksi setara<br></span>[tex]M_{(s)} + 2HCl_{(aq)} \\rightarrow MCl_2_{(aq)} + H_2_{(g)}[/tex]<br><span><br><strong>Step-1</strong><br><strong>Hitung mol logam M</strong><br><br>Jumlah gas hidrogen H</span>\u2082 yang dihasilkan adalah 0,005 mol. Kita dapat menghitung jumlah mol logam M berdasarkan perbandingan koefisien dengan H\u2082. Ingat, pebandingan koefisien adalah juga perbandingan mol.<br><br>Koefisien logam M = 1<br>Koefisien logam H\u2082 = 1<br><br>\u21d4 Jumlah mol M =\u00a0\u00b9/\u2081 x jumlah mol H\u2082<br>\u21d4 Jumlah mol M =\u00a0\u00b9/\u2081 x 0,005 mol<br>\u2234\u00a0[tex]\\boxed{n = 0,005 \\ mol \\ M}[/tex]<br><br><strong>Step-2</strong><br><strong>Hitung massa atom relatif (Ar) logam M</strong><br><br>[tex]\\boxed{n =  \\frac{massa}{Ar} } [/tex]<br>\u21d4 [tex]\\boxed{Ar =  \\frac{massa}{n} } [/tex]<br>\u21d4\u00a0[tex]Ar =  \\frac{0,56}{0,005}[/tex]<br><br><strong>Diperoleh massa atom relatif logam M, yakni</strong><br>[tex]\\boxed{Ar \\ logam \\ M = 112}[/tex]<br><br>_______________<br>Pelajari persoalan terkait hukum dasar dan stoikiometri<br>brainly.co.id/tugas/14896058<br>Ingin mengetahui bagaimana menentukan rumus garam\u00a0hidrat<br><span>brainly.co.id/tugas/14945014<br>Reaksi heterogen<br>https://brainly.co.id/tugas/2814622<br></span><br>-------------------------<br><strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 : X</strong><br><strong>Mapel\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : Kimia</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0 : Stoikiometri</strong><br><strong>Kata Kunci\u00a0 : logam, bivalen, muatan, asam, klorida, M, HCl, MCl\u2082, H\u2082, massa, atom, relatif, Ar, perbandingan, koefisien, mol, gram, reaksi, setara</strong><br><br><strong>Kode : 10.7.7 [</strong><strong>Kelas 10 Kimia Bab 7 Stoikiometri</strong><strong>]</strong>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-molaritas-larutan-jika-100-ml-hcl-01-m-ditambah-150ml-hcl-852",
+            "question": "Berapa molaritas larutan jika 100 ml HCL 0,1 M ditambah 150ml HCL 0,2 M?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mcampuran =<u> M\u2081V\u2081+M\u2082V\u2082\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V\u2081+V\u2082<br><br>Mcampuran =<u>\u00a00,1 x 100 + 0,2 x 150\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0100 + 150<br><br>Mcampuran =<u> 10 + 30\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0250<br><br>Mcampuran = 0,16 M",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-tujuan-vulkanisasi-pada-proses-pembuatan-ban-mohon-bantuanny-183",
+            "question": "Apa tujuan vulkanisasi pada proses pembuatan ban?\r\n\r\nmohon bantuannya ya...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Tujuan vulkanisasi pada proses pembuatan ban adalah untuk meningkatkan <strong>ketahanan mekanis (memberi sifat keras) dan ketahanan suhu</strong>.</p><h3><strong>Penjelasan:</strong></h3><p>Ban dibuat dari bahan dasar karet. Seperti yang kita ketahui, karet memiliki sifat yang plastis dan kenyal. Namun, tentu saja setiap kendaraan membutuhkan spesifikasi ban yang berbeda, sesuai dengan medan yang biasa ditempuh. Karenanya, ban tidak dibuat hanya dari karet saja, melainkan dicampur dengan beberapa bahan lain untuk memberikan sifat yang berbeda. </p><p>Proses pengolahan karet dengan cara menambahkan bahan sulfur (belerang) disebut vulkanisasi. Vulkanisasi bertujuan untuk menambah sifat ketahanan fisik ban (membuatnya lebih keras) juga meningkatkan ketahanan suhu. Proses vulkanisasi merubah struktur molekul karet yang semula tidak berarturan menjadi berikatan, membentuk rantai panjang sehingga menghasilkan sifat fisik yang lebih keras. Semakin banyak belerang yang dicampurkan, akan semakin tinggi tingkat kekerasan ban yang dihasilkan.</p><h3>Pelajari lebih lanjut:</h3><p>Polimer : https://brainly.co.id/tugas/5003101</p><h3>Detil jawaban :\n</h3><p>Kelas : 12\n</p><p>\nMapel : Kimia\n</p><p>\nBab : Polimer\n</p><p>\nKode : 12.7.9</p><p></p><p><strong>kata kunci : vulkanisasi, ban</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-ph-darah-dalam-tubuh-manusia-selalu-konstan-467",
+            "question": "Mengapa pH darah dalam tubuh manusia selalu konstan ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karena darah mengandung banyak zat,jadi bisa ion asa maupun basa",
+                    "attachments": []
+                },
+                {
+                    "answer": "karena darah bersifat buffer yang cenderung mempertahankan pH nya",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbandingan-mol-basa-lemahasam-konjugasi51-kb1x10-5-ph-la-679",
+            "question": "Perbandingan mol basa lemah:asam konjugasi=5:1 (Kb=1x10-5). pH larutan tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dari pertanyaan kamu, larutan penyangga yang terbentuk adalah larutan penyangga basa<br>OH- = Kb (mol basa/mol asa konj)<br>OH - = 10^-5 (5/1)<br>OH- = 10^-5 x 5<br>maka\u00a0<br>pOH = - log 5 x 10^-5 = 5 - log 5<br>pH = 14 - (5 - log 5) = 9 + log 5<br><br>semoga bisa membant :D<br>beri label terbaik ya :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kapur-tohor-caoh2-digunakan-untuk-menetralkan-air-danau-yang-269",
+            "question": "Kapur tohor, Ca(OH)2, digunakan untuk menetralkan air danau yang menjadi    asam karena hujan asam. Apabila penyebab keasaman berupa asam sulfat dan\r\npH air danau adalah 4, berapa ton kapur tohor mati diperlukan untuk menetralkan\r\nair danau sebanyak 1 juta ? (Ar Ca = 40, O = 16, dan H = 1)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Kimia - Stoikiometri<br>Kelas : 1 SMA/X SMA<br>Pembahasan :<br><span>Jawaban terlampir</span>",
+                    "attachments": [
+                        "answer-attachments/kapur-tohor-caoh2-digunakan-untuk-menetralkan-air-danau-yang-269-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-autoredoks-719",
+            "question": "Pengertian Autoredoks",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Autoredoks atau disebut juga Reaksi Konproporsionasi\u00a0adalah reaksi yang melibatkan zat yang mengalami sekaligus reaksi OKSIDASI dan reaksi REDUKSI. <br><br>Contoh :<br></span>4 H+\u00a0(aq)\u00a0+ 2 Cu\u2082<span>O\u00a0</span>(s)\u00a0<span>\u00a02 Cu</span>(s)\u00a0+ 2 Cu\u00b2\u207a\u00a0(aq)\u00a0+ 2 H\u2082<span>O\u00a0</span><span>(l)<br></span><br>Dari reaksi di atas terlihat bahwa :<br>Cu mengalami penurunan bilangan oksidasi sekaligus pertambahan bilangan oksidasi atau mengalami reduksi sekaligus oksidasi, <br><br>maka reaksi di atas disebut sebagai\u00a0<span>autoredoks\u00a0</span><span>.</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-hasil-utama-reaksi-etanol-dengan-asam-sulfat-pekat-pada-935",
+            "question": "Tentukan hasil utama reaksi etanol dengan asam sulfat pekat pada suhu\u00a0\r\na.130'c\r\nb.180'c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran : Kimia<br>Kelas : XII SMA<br>Kategori : Senyawa karbon<br>Kode kategori berdasarkan kurikulum KTSP : 12.7.7<br>Kata kunci : reaksi pada alkohol, dehidrasi alkohol<br><br>Jawaban :<br>Hasil utama dari reaksi etanol dengan asam sulfat pada suhu 130 \u00b0C adalah etoksi etana. Sedangkan pada suhu 180 \u00b0C reaksi terhadap etanol akan menghasilkan etena.<br><br>Pembahasan :<br>Senyawa alkohol adalah senyawa turunan alkana yang memiliki gugus fungsi -OH dengan rumus umum CnH2n+2O. Alkohol mudah larut dalam air dan memiliki titik didih yang relatif tinggi. Hal ini disebabkan di dalam senyawa alkohol terdapat ikatan hidrogen. Alkohol mudah bereaksi atau lebih reaktif terhadap reaktan lain seperti logam natrium (Na), dengan asam klorida (HCl) atau dengan PCl5.\n\nReaksi antara alkohol dengan logam Na akan menghasilkan garam dan gas hidrogen. Reaksi dengan logam aktif seperti Na merupakan reaksi pembeda antara alkohol dengan eter karena eter tidak bereaksi dengan logam Na. Reaksinya :<br>R-OH + Na ------&gt; R-ONa + H2<br><br>Reaksi antara alkohol dengan asam klorida HCl akan menghasilkan alkil klorida dengan penambahan katalis ZnCl2. Reaksinya :<br>R-OH + HCl -----&gt; R-Cl + H2O<br><br>Reaksi antara alkohol dengan fosfor pentaklorida PCl5 akan menghasilkan alkil klorida dan asam klorida. Reaksinya :<br>R-OH + PCl5 -----&gt; R-Cl + POCl3 + HCl<br>Reaksi menggunakan PCl5 juga digunakan untuk membedakan alkohol dengan eter. Eter bereaksi dengan PCl5 menghasilkan alkil klorida tetapi tidak menghasilkan HCl.<br><br>Alkohol juga dapat mengalami reaksi oksidasi dengan oksidator kuat seperti K2Cr2O7 atau KMnO4. Reaksi oksidasi alkohol akan menghasilkan senyawa yang berbeda gugus fungsinya sesuai dengan jenis alkohol yang dioksidasi. Alkohol primer dioksidasi menjadi aldehid dan oksidasi lebih lanjut akan menghasilkan asam karboksilat. Alkohol sekunder dioksidasi menjadi keton serta alkohol tersier tidak dapat dioksidasi. <br><br>Pemanasan alkohol dalam suasana asam (H2SO4 pekat) pada suhu tertentu akan terjadi reaksi dehidrasi. Pada suhu 130-140 \u00b0C, pemanasan alkohol akan menghasilkan senyawa eter. Pada suhu 180 \u00b0C, pemanasan alkohol akan menghasilkan senyawa alkena. Reaksi yang terjadi :<br>2CH3-CH2-OH ---------&gt; CH3-CH2-O-CH2-CH3 + H2O (suhu 130\u2013140 \u00b0C)<br>CH3-CH2-OH --------&gt; CH2=CH2 + H2O<br>(suhu 180 \u00b0C)<br><br>Alkohol juga dapat bereaksi dengan asam karboksilat menghasilkan senyawa ester dalam suasana asam. Reaksi pembentukan ester juga disebut reaksi esterifikasi.(SL)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

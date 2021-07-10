@@ -1,0 +1,140 @@
+{
+    "question": "Sebuah benda bermasa 5,0 kg ditarik dengan tali ke atas bidang miring yang kasar oleh sebuah gaya 71 N (g=10 m.s-2 ,sin 37=0,6 .cos37= 0,8). Jika koefesien gesekan antara benda dan bidang adalah 0,4 percepatan yang dialami benda adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(Uraikan dulu gaya-gayanya)<br><br>* Cari nilai Fg\u00a0(Gaya Gesek)<br>Fg = \u03bc\u00a0\u00d7 N \u00a0 \u00a0 \u00a0 \u00a0\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 N\u00a0= W.cos.\u03b8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ket ;\u00a0\u03bc = Koefisien gesek<br>\u00a0 \u00a0 \u00a0= 0,4\u00a0\u00d7 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0N = 5.10.0,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = Gaya Normal<br>\u00a0 \u00a0 \u00a0= 16N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0N = 40N<br>* Masukkan ke rumus<br>\u00a0<strong> a =\u00a0</strong><u><strong>\u03a3F</strong></u><strong> \u00a0 \u00a0 </strong><br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u03a3m</strong><br> \u00a0 \u00a0 = <u>F-\u00a0( W sin\u00a0\u03b8 + Fg )</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m<u><br></u> \u00a0 \u00a0 = <u>71- ( 5.10.0,6+16)</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05<br> \u00a0 \u00a0 =\u00a0<u>71- 46<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br> \u00a0 \u00a0 =\u00a0<u>25<br></u> \u00a0 \u00a0 \u00a0 \u00a0 5<br> \u00a0 \u00a0 = <strong>5 m/s\u00b2</strong><u><br></u>\u00a0<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebutkan-bunyi-hukum-kekekalan-momentum-dan-tuliskan-persamaannya-176",
+            "question": "Sebutkan bunyi hukum kekekalan momentum dan tuliskan persamaannya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunyi : \"Jumlah momentum kedua benda sebelum tumbukan sama dengan jumlah momentum kedua benda setelah tumbukan\"<br><br>Persamaannya ---&gt; m1 x v1 + m2 x v2 = m1\u00a0v\u00a0&#039;1 + m2 v &#039;2",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunyi hukum kekekalan momentum\"pda peristiwa tumbukan jumlah momentumbenda-benda sebelum dan sesudah tumbukan adalah tetap,asalkan tidak ada gaya luar yang bekerja pada benda-benda itu\"<br>secara matematis ditulis:<br>p1+p2=p&#039;1+p&#039;2<br>m1v1+m2v2=m1v&#039;1+m2v&#039;2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-seutas-kawat-baja-dengan-panjang-3m-dan-luas-penampang-015-924",
+            "question": "Pada seutas kawat baja dengan panjang 3m dan luas penampang 0,15 cm\u00b2 digantungkan sebuah beban bermassa 500 kg (g= 9,8m/s\u00b2). tentukan    a. tetapan gaya kawat\r\nb. pertambahan panjang kawat\r\n(modulus elastis baja= 2,0 \u00d7 10^{11}\u00a0 N/m\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.F=k.<span>\u2206x<br>\u00a0 m.g=k.</span><span>\u2206x<br>\u00a0 500.9,8=k.3<br>\u00a0 k=</span>[tex] \\frac{4900}{3} [/tex]=1.633<br>b.<br>F/A=1.633/0,0015=108866<br>pertambahan panjang kawat=e.l=F/A=1.633/0,0015=108.2,0.10^{11}.<br>=216.10^{11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229",
+            "question": "Jika bermassa m digantungkan pada pegas yang memiliki tetapan k, maka pegas akan bertambah panjang 1,5 cm. Tentukan pertambahan panjang pegas jika pegasi disusun seperti gambar berikut ini.",
+            "attachments": [
+                "question-attachments/jika-bermassa-m-digantungkan-pada-pegas-yang-memiliki-tetapan-k-229-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Dik lm = 5 kg<br>\u00a0 \u00a0 \u00a0 k = 8 k<br>\u00a0 \u00a0 \u00a0 l = 1,5 cm = 0,015<br>\u00a0 \u00a0 \u00a0 g = 10 m/s<br>Dit \u0394l ?<br><br>F = k.l<br>m.g = 8k .\u0394l<br>5.10 = 8k .\u00a0\u0394l<br><br>\u0394l = 50 / 8k<br>\u00a0 \u00a0 = 6,25 m<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "36-kmjam-dijadikan-ms-berapa-sih-tolong-yah-please-777",
+            "question": "36 km/jam dijadikan m/s berapa sih?....\r\n\r\ntolong yah please",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "36 x \u00a01000<br>---------------- = 10 m/s<br>\u00a0 \u00a03600",
+                    "attachments": []
+                },
+                {
+                    "answer": "36x10\u00b3 / 3600 = 10 m/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-yang-berada-di-atas-raksa-sebuah-kubus-395",
+            "question": "sebuah tangki berisi air yang berada di atas raksa. sebuah kubus besi dengan rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. tentukan tinggi kubus yang tercelup dalam setiap cairan. massa jenis besi dan raksa berturu-turut adalah 7,7 x 10^3 kg/m^3 dan 13,6 x 10^3 kg/m^3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>mb.. g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)\u00a0<br>\u03c1b Vb g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)<br>7700\u00a0= 1000 x\u00a0+ 13600 (1\u00a0-\u00a0x)\u00a0<br>7700\u00a0= 1000 x\u00a0+ 13600 - 13600 x\u00a0<br>13500 x = 5900\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 59/135\u00a0<br><br>t air = 59/135 \u00d7 60 = 26,2 mm\u00a0<br>t\u00a0raksa = 60 - 26,2 = 33,8 mm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328",
+            "question": "Setiap sekon di matahari terjadi perubahan 4\u00a0x\u00a010^9 kg materi menjadi energi\u00a0radiasi. apabila laju cahaya dalam vakum adalah 3 x 10^10 cm/s, daya yang dipancarkan oleh matahari adalah..    a. 3,6 x 10^30 watt\r\nb. 5,0 x 10^30 watt\r\nc. 1,2 x 10^18 watt\r\nd. 3,6 x 10^26 watt\r\ne. 1,2 x 10^26 watt",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori soal : fisika- relativitas<br>Kelas : 12 sma<br>Pembahasan : jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/setiap-sekon-di-matahari-terjadi-perubahan-4-x-109-kg-materi-m-328-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-benda-di-celupkan-kedalam-air-maka-13-bagiannya-mun-220",
+            "question": "jika sebuah benda di celupkan kedalam air, maka 1/3 bagiannya muncul ke permukaan. jika benda tsb dicelupkan ke dalam larutan yang besar massa jenisnya 8/9 g/cm^3, maka bagian yang muncul dipermukaan larutan adlah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pb = massa jenis benda<br>pf = massa jenis larutan<br>Vb = volum benda<br>Vbf = volum benda tercelup<br>pf air = 1 g/cm^3<br><br>Vbf = (1 - 1/3)Vb<br>Vbf = 2/3Vb<br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>(pb)(Vb) = (pf)(2/3Vb)<br>pb = 2/3 .... (1)<br><br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>subtitusi (1) ke persamaan, didapat<br>(2/3)(Vb) = (8/9)(Vbf)<br>Vb = 4/3Vbf<br>Vbf = 3/4Vb<br>yg muncul dipermukaan = Vb - Vbf = Vb - 3/4Vb = 1/4Vb (1/4 bagian)<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925",
+            "question": "sepotong kayu terapung dengan 3/5 bagian tercelup di dalam air. jika massa jenis air 1x10^3 kg/m3, massa jenis kayu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p></p><p>Massa jenis kayu adalah <strong>600 kg/m\u00b3</strong></p><p></p><h3>PEMBAHASAN</h3><p><u>Diketahui :</u></p><p>Volume Kayu Tercelup = Vt = \u00b3/\u2085 V</p><p>Massa Jenis Air = \u03c1 = 1000 kg/m\u00b3</p><p><u>Ditanyakan :</u></p><p>Massa Jenis Kayu = \u03c1k = ?</p><p><u>Penyelesaian :</u></p><p><em>Untuk menyelesaikan soal ini , kita akan menggunakan hukum Archimedes sebagai berikut ini:</em></p><p>[tex]\\texttt{Gaya Angkat = Berat Benda}[/tex]</p><p>[tex]\\rho g V_t = m g[/tex]</p><p>[tex]\\rho g (\\frac{3}{5}V) = \\rho_k V g[/tex]</p><p>[tex]\\rho (\\frac{3}{5}V) = \\rho_k V[/tex]</p><p>[tex]\\rho \\times \\frac{3}{5} = \\rho_k[/tex]</p><p>[tex]\\rho_k = 1000 \\times \\frac{3}{5}[/tex]</p><p>[tex]\\rho_k = 600 \\texttt{ kg/m}^3[/tex]</p><p>[tex]\\texttt{ }[/tex]</p><h3>Pelajari lebih lanjut :</h3><p><strong>Berat Benda dalam Air :</strong> https://brainly.co.id/tugas/20965985</p><p><strong>Gaya Apung :</strong> https://brainly.co.id/tugas/19232509</p><p>--------------------------</p><p></p><h3>Detil Jawaban :</h3><p><strong>Kelas:</strong> 8</p><p><strong>Mapel: </strong>Fisika</p><p><strong>Bab:</strong> Fluida</p><p><strong>Kode:</strong> 8.6.3</p><p></p><p><strong>Kata Kunci:</strong> Gaya Angkat , Archimedes, Apung , Kapal , Volume , Barang , Jumlah Penumpang</p>",
+                    "attachments": [
+                        "answer-attachments/sepotong-kayu-terapung-dengan-35-bagian-tercelup-di-dalam-air-j-925-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

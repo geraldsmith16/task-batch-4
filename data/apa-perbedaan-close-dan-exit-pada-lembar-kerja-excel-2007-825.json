@@ -1,0 +1,158 @@
+{
+    "question": "Apa perbedaan close dan exit pada lembar kerja excel 2007?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "perbedaana adalah, close itu mentup pekerjaan kita misalnya mau mengulang seperti awal atau istilahnya blank sedangkan exit menutup seluruh program kerka excek",
+            "attachments": []
+        },
+        {
+            "answer": "close penutup lembar kerja, exit menutup aplikasi<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "apa-fungsi-toolbar-256",
+            "question": "Apa fungsi Toolbar ? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\u00a0memberi akses lebih cepat kepada user untuk menjalankan perintah pada microsoft excel ( sebenarnya ga hanya excel , berlaku juga untuk word , powerpoint , dll ) ketimbang mengklik menu bar .\u00a0</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Fungsi-fungsi Toolbar Ms. Word\n\n<span>1. Menu File<span><br><br>\nMenu file berfungsi untuk mengatur file dokumen seperti menyimpan, membuka,\nmengatur kertas dokumen, dsb.<br>\n1. New : Membuat file yang baru<br>\n2. Open : Membuka File yang pernah kita buat<br>\n3. Close : Menutup file yang sedang kita buka<br>\n4. Save : Menyimpan dokumen yang sebelumnya telah kita simpan dan telah diberi\nnama<br>\n5. Save As : Menyimpan file yang baru dalam hal ini kita perlu mencantumkan\nnama file yang akan kita tempatkan file tersebut<br>\n6. Save as Web Page : Menyimpan dokumen sebagai halaman web<br>\n7. Web page Preview : Preview halaman web<br>\n8. Page Setup : Mengatur halaman, ukuran kertas, ukuran margin, dll<br>\n9. Print Preview : Menampilkan hasill kerja yang telah kita buat pada kertas<br>\n10. Print : Mencetak dokumen yang telah kita buat pada kertas<br>\n11. Sent To : Mengirimkan dokumen<br>\n12. Exit : Keluar dari Program Word<br><br><br><br>2. Menu Edit<br><br>\nMenu Edit berfungsi untuk melakukan pengeditan dokumen<br>\n1. Undo Typing : Membatalkan perintah yang sudah terlanjur dilaksanakan<br>\n2. Repeat Typing : Membatalkan perintah yang telah terlanjur dibatalkan<br>\n3. Cut : Menghapus suatu objek dari lembar kerja<br>\n4. Copy : Mengcopy suatu objek yang tersimpan pada clipboard ke dalam lembar\nkerja kita<br>\n5. Clear : Membersihkan<br>\n6. Paste : Mengambil object yang sudah disimpan pada clipboard dengan cara\nmeletakkan kursor pada\u00a0 posisi y yang tepat<br>\n7. Paste Special : Mengambil object yang sudah disimpan pada clipboard yang\nkemudian diletakkan dilembar kerja<br>\n8. Select All : Memilih keseluruhan yang ada pada lembar kerja kita<br>\n9. Find : Mencari suatu kata tertentu yang ada pada naskah<br>\n10. Replace : Mengganti kata yang ada pada naskah dengan kata yang baru secara\nkeseluruhan<br>\n11. Go To : Menuju kehalaman, baris, persamaan tertentu dengan\u00a0 cepat<br><br><br>3. Menu View<br><br>\nMenu View berfungsi untuk mengatur bagaimana tampilan dokumen<br>\n1. Normal : Menampilkan format teks tetapi disederhanakan halamannya sehingga\nmempermudah kita dalam melakukan pengetikan, dan pengeditan dokumen<br>\n2. Print Layout : Menampilkan bagaimana teks yang sesungguhnya<br>\n3. Reading Layout : Membaca dokumen halaman per halaman<br>\n4. Task Pane : Menampilkan beragam perintah cepat Word<br>\n5. Ruller : Menampilkan ukuran garis pada lembar kerja kita<br>\n6. Markup : Melakukan pengaturan komentar dalam projek :<br>\n7. Headaer and Footer : Membuat judul berulang diatas (header) dan dibawah\n(footer)<br>\n8. Full Sscreen : Menampilkan lembar dokumen secara layar penuh<br>\n9. Zoom : Memperbesar dan memperkecil tampilan dokumen<br>\u00a0Sumber :\u00a0</span></span>http://om-narwan.blogspot.com/2012/03/fungsi-fungsi-toolbar-ms-word.html",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-program-aplikasi-spreadsheet-selain-msexcel-2007-tolon-161",
+            "question": "Sebutkan program aplikasi Spreadsheet selain ms.Excel 2007!\r\n\r\ntolong yaaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kingsoft office spreadsheet, open office , ? itu bukan ?",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>1. \u00a0Kingsoft Office 2007<br></span><br><span>2. \u00a0Corel WordPerfect Office<br></span><br><span>3. \u00a0SSuite Office Software</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-menampilkan-kode-sumber-halaman-yang-sedang-aktif-dalam-moz-336",
+            "question": "Untuk menampilkan kode sumber halaman yang sedang aktif dalam Mozila Firefox dengan memilih..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya yaitu \u00a0:<br>-\u00a0Buka halaman yang ingin dilihat kodenya, <br>-\u00a0kemudian tekan\u00a0 ctrl+U atau klik\u00a0menu alat \u21d2 pengembang web.<br><span>-\u00a0Lalu pilih kode sumber laman, selesai.</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "tekan CTRL-U..sebelumnya buka dulu websitenya td lalu pilih sumber laman..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-perbedaan-html-dengan-http-446",
+            "question": "Jelaskan perbedaan HTML dengan HTTP",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "HTTP<span>\u00a0Singkatan dari Hypertext Transfer Protocol, yang mana adalah suatu protokol yang digunakan oleh World Wide Web. HTTP mendefinisikan bagaimana suatu pesan bisa diformat dan dikirimkan dari server ke client<br></span><br>HTML\u00a0(Hyper Text Markup Language) adalah sebuah\u00a0bahasa markup\u00a0yang digunakan untuk membuat sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah browser Internet. Bermula dari sebuah bahasa yang sebelumnya banyak digunakan di dunia penerbitan dan percetakan yang disebut dengan SGML\u00a0(Standard Generalized Markup Language),<span>\u00a0HTML adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web. HTML saat ini merupakan standar Internet yang didefinisikan dan dikendalikan penggunaannya oleh World Wide Web Consortium (W3C)<br><br></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "TTP adalah, HyperText Transfer Protocol \u2013 protokol yang memungkinkan \nbermacam-macam komputer yang saling berkomunikasi dengan menggunakan \nbahasa HTML<br><br>HTML adalah, HyperText Markup Language \u2013 bahasa \nstandar yang digunakan browser Internet untuk membuat halaman dan \ndokumen yang dipajang pada Web. Selain memungkinkan komputer \nberkomunikasi, HTML juga menyediakan link di antara file-file yang ada \ndi komputer yang berbeda dan dipisahkan oleh jarak yang jauh<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-perangkat-masukan-data-pada-komputer-sebutkan-3-899",
+            "question": "Apa yang dimaksud perangkat masukan data pada komputer sebutkan 3 contoh .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "prangkat yg brfungsi mnginfut dta cntohnya keyboard,monitor..",
+                    "attachments": []
+                },
+                {
+                    "answer": "Perangkat masukan data atau lebih dikenal dengan\u00a0<em>input device</em> adalah alat yang berfungsi memasukkan data ke dalam komputer.<br>Contohnya: keyboard, mouse, scanner.<br><br>semoga bisa membantu ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satuan-bps-digunakan-pada-perangkat-443",
+            "question": "Satuan bps digunakan pada perangkat???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Digunakan pada perangkat LAn Card<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Satuan bps digunakan pada perangkat LAN CARD..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-cara-mengakses-situs-web-992",
+            "question": "Jelaskan cara mengakses situs web",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tinggal buka engine search...macam google..kemudian ketik di kolom search alamat web yang mau di akses..klik icon search atau cukup tekan enter..voila",
+                    "attachments": []
+                },
+                {
+                    "answer": "buka aplikasi browser (mozilla/google chrome/internet explorer), masukkan alamat web, enter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "toolbar-berfungsi-untuk-117",
+            "question": "Toolbar berfungsi untuk...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mumudahkan untuk mencari ikon tersembunyi<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-komponen-komponen-dalam-microsoft-office-excel-536",
+            "question": "Sebutkan komponen-komponen dalam microsoft office excel",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Office Button<br>2. Quick Access Toolbar<br>3. Tittle Bar<br>4. Ribbon<br>5. Name Box (Bar Nama)<br>6. Formula Bar<br>7. Kolom (Column)<br>8. Baris (Row)<br>9. Sel (Cell)<br>10. Tabulasi Worksheet<br>11. Navigasi Worksheet<br>12. Lembar Kerja<br>13. Zoom Level<br>14. Scrollbar<br><br>Semoga Membantu!<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-yg-dimaksud-dgn-gambar-bitmap-740",
+            "question": "Apakah yg dimaksud dgn gambar bitmap",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Gambar bitmap adalah gambar yg terdiri dari sekumpulan titik-titik(pixel) yg berdiri sendiri dan mempunyai warna sendiri pula yg membentuk sebuah gambar",
+                    "attachments": []
+                },
+                {
+                    "answer": "yaitu representasi dr citra grafis yg trdiri dari susunan titik yg tersimpan di memori komputer<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

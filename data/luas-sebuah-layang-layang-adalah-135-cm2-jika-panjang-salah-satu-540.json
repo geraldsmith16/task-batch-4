@@ -1,0 +1,146 @@
+{
+    "question": "Luas sebuah layang-layang adalah 135 cm2. Jika panjang salah satu diagonalnya 18 cm. maka panjang diagonal satunya adalah",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Luas layang-layang adalah diagonal1 x diagonal2 dibagi 2.<br>Rumus mencari d2 adalah luas layang-layang dikali 2 dibagi d1<br><span>=(135 </span>x 2) : 18<br>= 270 : 18 = 15 cm<br><br>Semoga membantu<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suku-ke-10-dari-barisan-bilangan-108-36-12-adalah-153",
+            "question": "\u00a0suku ke 10 dari barisan bilangan 108, 36, 12, ... adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un=a+(n-1)b hasilnya 540",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]a = 108 \\\\ r = \\frac{U_2}{U_1} = \\frac{36}{108} = \\frac{1}{3} \\\\ U_{10} = ar^{n - 1} = 108(\\frac{1}{3})^{10 - 1} = (3^3)(2^2)(3^{-9}) = (3^{-6})(2^2) = \\frac{4}{729}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-pusat-kota-rencananya-akan-dibuat-sebuah-taman-berbentuk-linka-839",
+            "question": "di pusat kota rencananya akan dibuat sebuah taman berbentuk linkaran diameter 56 m. di dalam taman akan dibuat kolam berbentuk lingkaran berdiameter 28 m. jika di luar kolam akan ditanami rumput dengan biaya Rp6.000,00/m\u00b2, hitunglah seluruh biaya yang harus dikeluarkan untuk mennanam rumput tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L lingkarang besar =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\pi [/tex] x ([tex] \\frac{d}{2} [/tex] m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =[tex] \\frac{22}{7} [/tex] x (28 m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2464 m\u00b2<br>L lingkaran kecil =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x ([tex] \\frac{d}{2} [/tex] m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x (14 m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 616 m\u00b2<br>L wilayah yang akan ditanami rumput = L lingkaran besar - L lingkaran kecil<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2464 m\u00b2 - 616 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1848 m\u00b2<br><br>Jika untuk menanam rumput di lahan berluas\u00a01 m\u00b2 dibutuhkan biaya Rp 6.000, maka:<br><br>Rp 6.000 x 1848 m\u00b2 = Rp 11.088.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-2-4x3-tolong-sama-caranya-686",
+            "question": "Berapa hasil 2-4x=3?\r\ntolong sama caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-4x=3<br>= 2+(-2) -4x=3+(-2)<br>=-4x= 1<br>=-4x . (-1/4x)= 1 . (-1/4x<br>=-x= -0,25<br>x= 0,25<br>kaloo ngga salah berarti benerXD<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]-4x=3-2<br>\u00a0-4x=1\n<br>-x= \\frac{1}{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-5254-178-adalah-dan-sebutkan-langkah-langkah-x-892",
+            "question": "Hasil dari 5/2:5/4-17/8 adalah... dan sebutkan langkah-langkah-x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=5/2 x 4/5 - 17/8<br>=2-17/8=16/8-17/8=-1/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "(5/2 : 5/4) - 17/8 =<br>(5/2 x 4/5) - 17/8 =<br>20/10 - 17/8 = <br>2/1 - 17/8 =<br>16/8 - 17/8 = - 1/8<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-sederhana-dari-3x210x-8-adalah-164",
+            "question": "Bentuk sederhana dari 3x\u00b2+10x-8\u00a0 adalah..\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 9x\u00b2-4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{3 x^{2} +10x -8}{9 x^{2} -4}\n= \\frac{(3x-2)(x+4}{(3x-2)(3x+2)}\n= \\frac{x+4}{3x+2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dibantu-ya-2-jika-x-adalah-bilangan-asli-tentukanlah-himpunan-361",
+            "question": "Dibantu ya\u00a0    2. Jika x adalah bilangan asli, tentukanlah himpunan penyelesaian dari persamaan linear berikut.\u00a0:\r\na) 6x + 5 = 26 \u2013 x\u00a0\r\nb) 2 \u2013 4x = 3\u00a0\r\nc) x \u2013 12 = 2x + 36\r\n\u00a0d) -5x \u2013 4x + 10 = 1\u00a0\r\ne) 2 +\u00a04x = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Sistem persamaan linear</strong> satu variabel adalah persamaan yang hanya memiliki satu variabel yang berpangkat satu. Bentuk umumnya ax + b = c dengan a, b, c adalah bilangan bulat, a \u2260 0 dan x adalah variabel.\n</p><br><h3>Pembahasan\n</h3><br><p><strong>a) 6x + 5 = 26 \u2013 x </strong>-----&gt; kedua ruas ditambah x\n</p><p>6x + 5 + x = 26 \u2013 x + x \u00a0</p><p>7x + 5 = 26 -------------&gt; kedua ruas dikurang 5\n</p><p>7x + 5 \u2013 5 = 26 \u2013 5\n</p><p>7x = 21 ------------------&gt; kedua ruas dibagi 7\n</p><p>7x : 7 = 21 : 7\n</p><p>x = 3\n</p><p>HP = {3}\n</p><br><p><strong>b) 2 \u2013 4x = 3</strong> ------------&gt; kedua ruas dikurang 2\n</p><p>2 \u2013 4x \u2013 2 = 3 \u2013 2\n</p><p>\u20134x = 1 -------------------&gt; kedua ruas bagi (\u20134)\n</p><p>\u20134x : \u20134 = 1 : \u20134 \u00a0</p><p>x = \u2013\u00bc \u00a0</p><p>HP = {\u2013\u00bc}\n</p><br><p><strong>c) x \u2013 12 = 2x + 36</strong> -----&gt; kedua ruas dikurang 2x\n</p><p>x \u2013 12 \u2013 2x = 2x + 36 \u2013 2x\n</p><p>\u2013x \u2013 12 = 36 -------------&gt; kedua ruas ditambah 12\n</p><p>\u2013x \u2013 12 + 12 = 36 + 12\n</p><p>\u2013x = 48 --------------------&gt; kedua ruas kali (\u20131)\n</p><p>\u2013x . (\u20131) = 48 . (\u20131)\n</p><p>x = \u201348 \u00a0</p><p>HP = {\u201348}\n</p><br><p><strong>d) \u20135x \u2013 4x + 10 = 1 </strong> \u00a0</p><p>\u20139x + 10 = 1 --------------&gt; kedua ruas dikurang 10\n</p><p>\u20139x + 10 \u2013 10 = 1 \u2013 10\n</p><p>\u20139x = \u20139 --------------------&gt; kedua ruas dibagi (\u20139)\n</p><p>\u20139x : (\u20139) = \u20139 : (\u20139)\n</p><p>x = 1\n</p><p>HP = {1}\n</p><br><p><strong>e) 2 + 4x = 5</strong> ---------------&gt; kedua ruas dikurang 2\n</p><p>2 + 4x \u2013 2 = 5 \u2013 2\n</p><p>4x = 3 ------------------------&gt; kedua ruas bagi 4\n</p><p>4x : 4 = 3 : 4\n</p><p>x = \u00be \u00a0</p><p>HP = {\u00be}\n</p><br><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><br><p>Contoh soal tentang sistem persamaan linear dua variabel\n</p><p>https://brainly.co.id/tugas/1184793\n</p><br><p>--------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0\n</h3><br><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Persamaan dan pertidaksamaan satu Variabel\n</p><p><strong>Kode</strong> : 7.2.6\n</p><br><p><strong>Kata Kunci </strong>: Sistem Persamaan Linear</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "25-4y6y15-tentukan-himpunan-penyelesaian-dari-persamaan-line-979",
+            "question": "\u00a0 25-4y=6y+15 tentukan himpunan penyelesaian dari persamaan linear tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "25-4y=6y+15\n25-15=4y+6y\n10=10y\ny=1\nHP=(1)",
+                    "attachments": []
+                },
+                {
+                    "answer": "25-4y=6y+15 \n25+15=6y+4y\n40=10y\ny=40:10\ny= 4",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-kedua-dan-suku-keenam-suatu-deret-geometri-dengan-155",
+            "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sebuah-lingkaran-diketahui-kelilingnya-352-cmmaka-luas-ling-741",
+            "question": "Jika sebuah lingkaran diketahui kelilingnya 352 cm.maka luas lingkaran tersebut adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "352 = 22/7 x d<br>d = 352 x 7/22<br>d = 112<br><br>L = phi r^2<br>\u00a0 \u00a0 \u00a0 22/7 x 56 x 56<br>\u00a0 \u00a0 \u00a0 \u00a09856",
+                    "attachments": []
+                },
+                {
+                    "answer": "k= phi . d\n352= 22/7 .d\nd= 22/7 : 352\n  = 7/22 . 352\n  = 112\n\nr = 112 : 2\n   = 56\n\nL = phi . r^2\n   = 22/7 . 56^2\n   = 22/7 . 3136\n   = 9856",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membagi-06-05-mohon-penjelasannya-167",
+            "question": "Bagaimana cara membagi 0,6 : 0,5\r\n mohon penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,6 dan 0,5 dijadikan pecahan dulu :<br>6/10 dibagi 5/10<br>setelah itu jadinya :<br>6/10 dikali 10/5 (dibalik) = 60/50 = 6/5 = 1,2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0,6 : 0,5\u00a0<br>=&gt; 6/10 : 5/10<br>=&gt;6/10 x 10/5<br>=&gt;60/50 disderhanakan menjadi<br>=&gt;6/5<br>=&gt;1,2<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

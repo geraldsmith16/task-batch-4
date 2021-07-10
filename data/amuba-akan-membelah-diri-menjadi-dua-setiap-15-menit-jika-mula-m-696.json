@@ -1,0 +1,152 @@
+{
+    "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-berikut-besar-sudut-abc60-derajat-dan-sudut-bdc25-d-822",
+            "question": "Pada gambar berikut besar sudut ABC=60 derajat    dan sudut bdc=25 derajat maka besar sudut aec \u00a0adalah\u00a0\r\n\r\ngambarnya yg no 14",
+            "attachments": [
+                "question-attachments/pada-gambar-berikut-besar-sudut-abc60-derajat-dan-sudut-bdc25-d-822-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "BCD : 180 - 60 = 120<br>AEC : 180 - 120 - 25 = 35",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cuma mengurangi saja<br>60 derajat - 25 derajat = 35 derajat<br><br>Caranya? Ini mengenai sudut di luar lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-a-dan-sudut-b-saling-berkomplemen-dengan-perbandingan-7-1-946",
+            "question": "Sudut A dan sudut B saling berkomplemen dengan perbandingan 7 : 11 . Besar sudut A adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A = 7/18 . 90<br>\u00a0 \u00a0= 7.5<br>\u00a0 \u00a0= 35 derajat",
+                    "attachments": []
+                },
+                {
+                    "answer": "140 derajat<br><br><br>semoga membatu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pecahan-38-dapat-dinyatakan-dalam-bentuk-persen-menjadi-219",
+            "question": "Pecahan 3/8 dapat dinyatakan dalam bentuk persen menjadi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "3/8=0,375 lalu dikali 100% 0,375x100% = 37,5%<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/8 dikali 100 jadi 3x100/8 = 37,5%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sebuah-jari-jari-sebuah-lingkaran-diketahui-20-cm-hit-494",
+            "question": "Panjang sebuah\u00a0 jari jari sebuah\u00a0 lingkaran diketahui 20 cm hitunglah    a.panjang busur dihadapan sudut 30 derajat\r\nb.luas juring dihadapan sudut 45 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Jawab A.<br>Misal panjang busur di hadapan sudut 30\u00b0 adalah AB dan sudut 30\u00b0 =\u00a0</span>\u2220<span>AOB maka\u00a0:<br><span><span>panjang AB\u00a0/\u00a02\u00a0\u03c0<span>r =\u00a0</span>\u2220AOB/360\u00b0<br></span><span>panjang AB\u00a0<span>/\u00a0(2 x\u00a0</span>3,14 x 20 cm)<span>\u00a0=\u00a0</span>30\u00b0\u00a0/\u00a0360\u00b0<br></span><span>panjang AB\u00a0<span>/\u00a0125,6\u00a0</span>cm<span>\u00a0=\u00a0</span>1\u00a0/\u00a012<br></span><span>panjang AB<span>\u00a0= 125,6\u00a0</span>cm\u00a0/\u00a012<br></span><span>panjang AB<span>\u00a0= 10,5\u00a0</span><span>cm<br><br>Jawab B.<br><span><span><span>Misal luas juring di hadapan sudut 45\u00b0 = POQ dan sudut 45\u00b0 =\u00a0</span>\u2220POQ maka\u00a0:<br></span><span><span>luas\u00a0</span><span>POQ /\u00a0luas lingkaran =\u00a0</span>\u2220POQ\u00a0/\u2220 1 lingkaran<br></span><span><span>luas\u00a0</span>POQ /\u00a0\u03c0\u00a0<span>r\u00b2=\u00a0</span>45\u00b0\u00a0/\u00a0360\u00b0<br></span><span><span>luas\u00a0</span>POQ = (45\u00b0\u00a0/\u00a0<span>360\u00b0) x\u00a0</span>\u03c0\u00a0<span>r\u00b2<br></span></span><span><span>luas\u00a0</span>POQ = 0,125<span>\u00a0x\u00a0</span>3,14 x (20 cm)\u00b2<br></span><span><span>luas\u00a0</span>POQ = 157<span>\u00a0cm</span></span></span></span></span></span></span></span>\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-deret-aritmatika-terdiri-dari-10-suku-jumlah-suku-pertama-303",
+            "question": "Sebuah deret aritmatika terdiri dari 10 suku, jumlah suku pertama dan ke dua adalah 9. Adapun jumlah suku ke 5 dan 6 adalah 33. jumlah deret tersebut adalah ...    A. 30\u00a0 \u00a0 \u00a0 C. 156\r\nB. 67\u00a0 \u00a0 \u00a0 D. 165\r\nJAWAB YG BENAR YAH .. MINTOL :D DENGAN CARANYA ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 + U2 = 9<br>a + a + b = 9<br>2a + b = 9............1<br><br>U5 + U6 = 33<br>a + 4b + a + 5b = 33<br>2a + 9b = 33..........2<br><br>dari eliminasi persamaan 1 dan 2 didapat a =3,\u00a0 b = 3<br>Sn = [tex] \\frac{n}{2} [/tex] (2a + (n-1)b)<br>S10 = [tex] \\frac{10}{2} [/tex] (2.3 + (10-1)3)<br>=&gt; 5(6 + 27)<br>=&gt; 5(33) =\u00a0 165 (D)....semoga membantu..ok?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a+a+b=9\n2a+b=9...persamaan 1\na+4b+a+5b=33\n2a+9b=33...persamaan \n2\neliminasi pers 1 dan 2\ndapat a=3 dan b=3\njadi 10/2(2*3+(10-1)3)\n5*33=165",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-45-bilangan-40-37-34-31-28-adalah-967",
+            "question": "Suku ke 45 bilangan 40, 37, 34, 31, 28...... adalah......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= 40<br>b= -3<br>Un= a+(n-1)b<br>u45 = 40 + (45-1)-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 40 + (44) -3<br>\u00a0\u00a0 \u00a0 \u00a0 = 40 - 132<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = -92<br>klau gk salah itu barisan aritmatika<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a=40\u00a0 \u00a0 \u00a0 \u00a0  b=1/3<br><br>U45=a+(45-1)b<br>\u00a0\u00a0 \u00a0 =40+44.1/3<br>\u00a0\u00a0 \u00a0 = 40+14,67<br>\u00a0\u00a0 \u00a0 =54,67<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-penyelesaian-nilai-2-6-18-54-162-rasio-barisan-geome-250",
+            "question": "Cara penyelesaian nilai 2, 6, 18, 54, 162,... rasio barisan geometri tersebut adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "r= U2 : U1 , U3:2<br>U2 : U1 \u00a0= 6 : 2 = 3<br>\u00a0U3\u00a0:\u00a0U2 = 18 : 6 =3<br>\u00a0JADI RASIONYA = 3",
+                    "attachments": []
+                },
+                {
+                    "answer": "rasio = U2 : U1 <br> 6 : 2 = 3 <br> rasio barisan tersebut adalah sikali 3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bingkai-foto-yang-berbentuk-persgi-diputar-45-dengan-sum-974",
+            "question": "sebuah bingkai foto yang berbentuk persgi diputar 45\u00b0 dengan sumbu putar titik perpotongan diagonal-diagonalnya. jika panjang sisi persegi adalah 1cm, luas irisan antara bingkai foto sebelum dan sesudah diputar adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "irisannya berbentuk segi 8 <br>Luas irisan = Luas persegi - 4 Luas segitiga<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - 4 {1/2(\u221a2 - 1)}\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - ( 3 - 2\u221a2) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (2\u221a2 - 2) cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-sebuah-akuarium-seharga-rp-45000000-j-133",
+            "question": "Seorang pedagang membeli sebuah akuarium seharga Rp 450.000,00. Jika pedagang tersebut menghendaki untung 20%, berapa rupiah akuarium tersebut harus dijual?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "540.000 20 persen dr 450.000 = 90.000 jd hasilnya 540.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "450.000 x 20/100 = 90rb. 450 + 90= 540rb",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-luas-sebuah-lingkaran-adalah-200-cm2-tentukan-besar-su-637",
+            "question": "Diketahui luas sebuah lingkaran adalah 200 cm\u00b2 tentukan besar sudut pusat yang dibentuk juring yang memiliki luas sebagai berikut:    A.10 cm\u00b2\r\nB.20 cm\u00b2\r\nC.40 cm\u00b2\r\nD.50 cm\u00b2\r\nE.100 cm\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>200 cm\u00b2 = 360</span>\u00b0<br><br>a. 10cm\u00b2 = 360/20<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 18\u00b0<br><br>b. \u00a020cm\u00b2 = 18\u00b0 x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 36\u00b0<br><br>c. \u00a040cm\u00b2 = 36\u00b0 x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 72\u00b0<br><br>d. \u00a050cm\u00b2 = 72\u00b0 + 18\u00b0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 90\u00b0<br><br>e. \u00a0100cm\u00b2 = 90\u00b0 x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 180\u00b0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

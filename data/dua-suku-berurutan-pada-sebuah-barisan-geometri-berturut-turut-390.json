@@ -1,0 +1,150 @@
+{
+    "question": "Dua suku berurutan pada sebuah barisan geometri berturut-turut \u00bc dan \u00bd. Jika suku kedelapan barisan tersebut 2, jumlah delapan suku pertama barisan adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "suku berurutan 1/4dan 1/2, maka rasionya 1/2:1/4 = 2<br><br>jika r =2 maka<br>U8\u00a0= 2<br>ar\u2077 = 2<br>a.2\u2077= 2<br>a = 2/2\u2077<br>a = 1/2\u2076<br>a= 1/64<br><br>maka,\u00a0<br>Sn = a(r\u2078\u00a0- 1) / r - 1<br>S\u2088 = 1/64(2\u2078-1) / (2 - 1)<br>S\u2088 = 1/64 (256 - 1) / 1<br>S\u2078 = 255/ 64<br><br>semoga membantu<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "[tex] S_{8} [/tex]=n/2(a+[tex] U_{8} [/tex]<span>)</span><br>[tex] S_{8} [/tex]=8/2(1/4+2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =4(9/4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =9<br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "persamaan-garis-melalui-titik-3-2dan-sejajar-garis-2x-3y6-a-101",
+            "question": "Persamaan garis melalui titik (3,-2)dan sejajar garis 2x + 3y=6 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sejajar berarti gradien nya:<br>m1 = m2<br><br>maka gradien dari garis tersebur:<br>2x + 3y = 6<br>3y = - 2x + 6<br>y = <u>- 2x\u00a0</u> +\u00a0 6<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 3<br><br>M = <u>- 2</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 3<br><br>persamaan garis dengan titik (3 , -2 )<br><br>y - y1 = m ( x - x1 )<br>y - ( -2 ) = <u>-\u00a0 2\u00a0 </u>( x - 3 )\u00a0 ----------&gt; dikalikan 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3<br>3y + 6 = - 2 ( x - 3)<br>3y + 6 = -2x + 6<br>3y = - 2x<br>atau<br>2x + 3y = 0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-k-abcd-dan-l-12345-banyak-pemetaan-yang-446",
+            "question": "Diketahui K = {a,b,c,d} dan L = {1,2,3,4,5}. banyak pemetaan yang mungkin dari K ke L adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak pemetaan<br>[tex] l^{k} [/tex]=[tex] 5^{4} [/tex]=625<br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradien-garis-dari-persamaan-3x-6y-5-0-adalah-220",
+            "question": "Gradien garis dari persamaan 3x - 6y + 5 = 0 adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a06y = 3x + 5<br><br>jadi gradienya 3<br>atau y = 1/2 x + 5/6<br>gradien y = 1/2",
+                    "attachments": []
+                },
+                {
+                    "answer": "m = -a/b = -3/-6 = 1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-sisi-miring-25-cmjika-salah-s-132",
+            "question": "sebuah segitiga siku-siku memiliki sisi miring 25 cm.jika salah satu sisi siku-sikunya 7 cm,maka sisi siku-siku yang lain nya adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sisi yang lain =\u00a0\u221a25\u00b2 - 7\u00b2 =\u00a0\u221a625-49 =\u00a0\u221a576 = 24cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "(25 x 25) - (7 x 7)= 625 - 49= <span>\u221a</span>576 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-75-4812-adalah-655",
+            "question": "Hasil dari (\u221a75-\u221a48)\u221a12 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8,66\u00a0 -6,92\u00d73,46<br>1,74\u00d73,46<br>6,02<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-di-samping-di-ketahui-ltaob45ltcod90dan-pan-600",
+            "question": "PADA GAMBAR DI SAMPING DI KETAHUI &lt;AOB=45`,&lt;COD=90`,DAN PANJANG BUSUR CD=11CM HITUNGLAH    A.PANJANG BUSUR AB",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gambarnya mana ? harusnya ada<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-2x-6-2-x4-cara-penyelesaiannya-gimana-2-438",
+            "question": "1 (2x-6) \u2265 2 (x+4) cara penyelesaiannya gimana ???\r\n2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-6 &gt; 2x + 8\n2x - 2x &gt; 8 + 6\nx &lt; 14",
+                    "attachments": []
+                },
+                {
+                    "answer": "1x-3\u22652/3x+8/3<br>1x-3x\u22658/3 +3<br>3x/3-2/3x\u22658/3+3/3<br>-1/3x\u226511/3<br>x\u226411/3\u00b73<br>x\u226411<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-yang-berjari-jari-35-cm-dan-bersudut-pus-712",
+            "question": "Panjang busur lingkaran yang berjari jari 3,5 cm dan bersudut pusat 54\u00b0 adalah ... cm.     a. 2,8\r\n b. 3,3\r\n c. 4,2\r\n d. 5,8",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "panjang busur = A<br>A= (54/360) x 2[tex] \\pi [/tex]R<br>\u00a0 = (3/20) x 2 x 3,14 x 3,5<br>\u00a0= 3,297\u00a0<br>\u00a0= 3,3\u00a0<br><br>answer B",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang busur dimisalkan dengan X<br>X = (sudut pusat/360\u00b0)\u00a0 \u00d7 kll lingkaran = (54/360\u00b0) \u00d7 2\u03c0R = (3/20) \u00d7 2 \u00d7 22/7 \u00d7 3,5 = (3/20).22 = 3,3 jawabannya B<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-jajar-genjang-pqrs-panjang-pq-3x-38-cm-dan-panjan-r-825",
+            "question": "Pada Jajar Genjang PQRS, panjang PQ = ( 3x - 38 ) cm dan panjan RS = ( x + 9 ) cm. Panjang sisi PQ sama dengan... kasih tau sekalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna sisi PQ dan RS berhadapan, maka sisinya sma panjang<br>PQ=RS<br>3x-5=x+9<br>3x-x=9+5<br>2x=14<br>x=7<br><br>panjang PQ<br>=3x-5<br>=3(7)-5<br>=21-5<br>=16cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Pada Jajar Genjang PQRS, panjang PQ = ( 3x - 5 ) cm dan panjan RS = ( x + 9 ) cm.\u00a0<br><br>panjang RS=PQ<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x+9=3x-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -2x=-9-5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x=\u00a0</span>[tex] \\frac{-14}{-2x} [/tex]<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x= 7<br><br>Panjang PQ =3x-5 = (3 x 7)-5 = 21-5 =16",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-lingkaran-sebuah-taman-bermain-32-m-314-mak-964",
+            "question": "Panjang jari-jari lingkaran sebuah taman bermain 32 m (=3,14) maka kelilingnya adalah???    dengan caranya ya???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "K=2*pi*r\n =2*3.14*32\n =6.28*32\nK=200.96\n\nketerangan: * \u00bb kali. contoh : 2 kali 3.14",
+                    "attachments": []
+                },
+                {
+                    "answer": "kll =\u00a0[tex] \\pi  d[/tex]<br>\u00a0 \u00a0 = 3.14 x 64<br>\u00a0 \u00a0 = 200,96 m",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

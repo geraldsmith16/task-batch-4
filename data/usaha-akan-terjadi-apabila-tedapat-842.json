@@ -1,0 +1,144 @@
+{
+    "question": "Usaha akan terjadi apabila tedapat...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "usaha akan terjadi apabila terdapat perpindahan tempat",
+            "attachments": []
+        },
+        {
+            "answer": "Usaha akan terjadi apabila terdapat gaya yang bekerja pada benda yang menghasilkan\u00a0perpindahan suatu benda.<br>sehingga\u00a0diperoleh rumus W = F.s<br>keterangan :<br>W = usaha j<br>F = gaya N<br>s = perpindahan m<br><br>Faktor\u00a0yang mempengaruhi besarnya usaha<br>F = gaya N<br>s = perpindahan m<br>a = percepatan m/s<br>v = kecepatan m/s<br>h = \u00a0tinggi suatu tempat m<br>P = daya Watt<br>t = waktu s",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-benda-bermasa-50-kg-ditarik-dengan-tali-ke-atas-bidang-mi-196",
+            "question": "Sebuah benda bermasa 5,0 kg ditarik dengan tali ke atas bidang miring yang kasar oleh sebuah gaya 71 N (g=10 m.s-2 ,sin 37=0,6 .cos37= 0,8). Jika koefesien gesekan antara benda dan bidang adalah 0,4 percepatan yang dialami benda adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(Uraikan dulu gaya-gayanya)<br><br>* Cari nilai Fg\u00a0(Gaya Gesek)<br>Fg = \u03bc\u00a0\u00d7 N \u00a0 \u00a0 \u00a0 \u00a0\u21d2 \u00a0 \u00a0 \u00a0 \u00a0 N\u00a0= W.cos.\u03b8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ket ;\u00a0\u03bc = Koefisien gesek<br>\u00a0 \u00a0 \u00a0= 0,4\u00a0\u00d7 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0N = 5.10.0,8 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 N = Gaya Normal<br>\u00a0 \u00a0 \u00a0= 16N \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0N = 40N<br>* Masukkan ke rumus<br>\u00a0<strong> a =\u00a0</strong><u><strong>\u03a3F</strong></u><strong> \u00a0 \u00a0 </strong><br><strong>\u00a0 \u00a0 \u00a0 \u00a0 \u03a3m</strong><br> \u00a0 \u00a0 = <u>F-\u00a0( W sin\u00a0\u03b8 + Fg )</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m<u><br></u> \u00a0 \u00a0 = <u>71- ( 5.10.0,6+16)</u><br> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a05<br> \u00a0 \u00a0 =\u00a0<u>71- 46<br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05<br> \u00a0 \u00a0 =\u00a0<u>25<br></u> \u00a0 \u00a0 \u00a0 \u00a0 5<br> \u00a0 \u00a0 = <strong>5 m/s\u00b2</strong><u><br></u>\u00a0<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-balok-a-dan-b-di-atas-bidang-datar-licin-dihubungkan-dengan-389",
+            "question": "Dua balok A dan B di atas bidang datar licin, dihubungkan dengan tali dan ditarik dengan gaya mendatar F=100 N hingga mengalami percepatan tetap a . Jika massa balok A=30 kg dan massa balok B=20 kg, maka gaya tegangan tali T dan a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik F =100 \u00a0N<br>\u00a0 \u00a0 \u00a0ma = 30 kg dan mb = 20 kg<br>Dit T ?<br><br>T =\u00a0[tex] \\frac{ma}{ma+mb}. F [/tex]<br><br>T =\u00a0[tex] \\frac{30}{30 + 20} . 100 N  [/tex] = 3000 / 50 = 60 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-dengan-panjang-40-cm-bermassa-30-kg-pada-463",
+            "question": "Sebuah tongkat homogen dengan panjang 40 cm bermassa 30 kg. Pada salah satu ujung tongkat di beri beban, sedangkan ujung lainnya sebagai tumpuan. Jika F\u00a0= 280 N, maka momen gaya pada titik O adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pembahasan\nGaya-gaya yang bekerja pada tongkat adalah F, berat dari benda 2 kg (20 N)dan jangan lupa berat dari tongkat itu sendiri 30 N (ambil di tengah batang), ubah jarak ke meter.\u00a0\n\nSigma T nol =F.dF -Wb.db - Wt.dt\nsigma T nol =280.0,05 - 20.0,04 -30.0,02\n                          =0 Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>F=mg<br>\u00a0 =2.10<br>\u00a0 =20 n<br></span>\u00a0T nol =F.dF -Wb.db - Wt.dt<br>T nol =280.0,05 - 20.0,04 -30.0,02 =0 Nm<br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476",
+            "question": "Perhatikan rangkaian listrik pada gambar dibawah. Berapa kuat arus yang mengalir pada rangkaian tersebut\u00a0",
+            "attachments": [
+                "question-attachments/perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "R2 nya berapa?\u00a0<br>Cari kuat arus itu rumusnya\u00a0<br>I = V/R",
+                    "attachments": []
+                },
+                {
+                    "answer": "Soal ini merupakan penerapan hukum II kirchof, buat loop dengan arah terserah, lihat sumber tegangan, kalau kutub yang pertama dilewati loop sama, maka jumlahkan, apabila beda maka dikurangkan. lalu bagi dengan jumlah bambatan total.\u00a0<br>[tex]I = \\frac{E_2-E_1}{R_1+R_2+R_3} = \\frac{12-8}{3+5+2}= \\frac{4}{10} = 0.4 A[/tex]\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kenaikan-alkohol-dalam-sebuah-pipa-kapiler-berdiameter-258",
+            "question": "berapakah kenaikan alkohol dalam sebuah pipa kapiler berdiameter 0,07 cm jika tegangan permukaan sama dengan 0,023 n/m dan massa 0,8 g/cm3. asumsikan bahwa sudut kontaknya sama dengan nol !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>\u03b3 = 0,023 N/m\u00a0<br>\u03b8 = 0\u00ba\u00a0<br>\u03c1 = 0,8 g/cm\u00b3\u00a0\u21d2\u00a0800 N/m\u00b3\u00a0<br>r =\u00a0[tex] \\frac{0,07}{2} [/tex] =\u00a00,035 cm\u00a0\u21d2 0,00035 m<br>Ditanyakan :\u00a0h = .. ?\u00a0<br>Penyelesaian :<br><br>[tex]h= \\frac{\\gamma.Cos \\theta}{\\rho.g.r} [/tex]<br><br>[tex]h= \\frac{0,023*Cos 0}{800*10*0,00035} [/tex]<br><br>[tex]h= \\frac{0,023*1}{2,8} [/tex]<br><br>[tex]h= 8,2 . 10^{-3} [/tex] m \u00a0 ,\u00a0atau<br><br>h\u00a0=\u00a0<strong>0,82 cm</strong>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-astronot-yang-bermassa-96-kg-di-bumi-berada-dalam-sebuah-452",
+            "question": "seorang astronot yang bermassa 96 kg di bumi berada dalam sebuah roket yang bergerak dengan kecepatan 0,8 c. Maka massa astronaut tersebut ketika berada dalam roket adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "massa dimana-mana tidak berubah / nilainya\u00a0tetap",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-peluru-bermassa-m-20-gram-ditembakkan-kearah-balok-ayunan-925",
+            "question": "sebuah peluru bermassa M= 20 gram ditembakkan kearah balok ayunan bermassa 980 gram. setelah ditembakkan, peluru menumbuk balok dan tertanam didalam balok sehingga berayun mencapai ketinggian 10 cm. jika percepatan gravitasi bumi sebesar g = 9,8 m/s^2, kecepatan peluru sebelum menumbuk balok sebesar......m/s^2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui : <br>massa peluru = mp = 20 g = 0,02 kg<br>massa balok = mb = 980 g = 0,98 kg <br>sebelum menumbuk balok : vb = 0 <br>h = 10 cm = 0,1 m<br>g = 9,8 m/s^2<br>Ditanya : <br>vp = ...?<br>Jawab : <br>karena peluru bersarang di dalam balok, maka jenis tumbukannya adalah tumbukan tidak lenting samasekali <br>mp . vp + mb . vb = (mp + mb) . v&#039; <br>v&#039;\u00a0 = \u221a(2.g.h) = \u221a(2 . 9,8 . 0,1) = 1,4 m/s<br>0,02 vp + 0 = (0,02 + 0,98).1,4<br>0,02 vp = 1,4 <br>vp = 1,4 : 0,02 = 70 m/s\u00a0 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kelemahan-teori-atom-rutherford-adalah-a-elektron-yg-mengelilin-831",
+            "question": "Kelemahan teori atom rutherford adalah?    A. elektron yg mengelilingi inti atom akan menyerap energi\r\nB. elektron menyebar merata di permukaan bola atom\r\nC. elektron berputar mengelilingi inti seperti tata surya\r\nD. elektron mengelilingi inti memancarkan gelombang elektromagnetik\r\nE. atom terdiri dr muatan positif dan negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya E.Atom terdiri dari muatan positif dan negatif",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-suatu-pegas-dapat-bertambah-panjang-sebesar-6-cm-diperlukan-961",
+            "question": "agar suatu pegas dapat bertambah panjang sebesar 6\u00a0cm diperlukan gaya sebesar 24\u00a0N. besar usaha yang dilakukan agar pegas bertambah panjang 24 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:\u0394l\u2081\u00a0 =6cm, F\u2081=24 N<br>\u00a0\u00a0 \u00a0\u00a0 \u0394l \u2082=24cm<br>Dit: F2=?<br>Jwb:\u00a0<u>\u0394l\u2081</u> = <u>F\u2081</u><br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 \u0394l\u2082\u00a0 \u00a0  F\u2082<br>\u00a0\u00a0 \u00a0 \u00a0 <u>\u00a0 6</u> = <u>24</u><br>\u00a0\u00a0 \u00a0 \u00a0  24\u00a0 \u00a0  F\u2082<br>6F\u2082=24.24<br>6F\u2082=576<br>F\u2082=<u>576</u> = 96N<br>\u00a0\u00a0 \u00a0 \u00a0  6<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24 x 24=576\n576/6=56\n\nsemoga benar ya.\nklo slh maaf",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-kalor-berdasarkan-pengertian-konvensional-dan-berdasar-593",
+            "question": "Pengertian kalor berdasarkan pengertian konvensional dan berdasarkan teori kinetik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor adalah energi panas yang berpindah sari benda yang bersuhu lebih tinggi ke benda yang bersuhu lebih randah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Konvensional : Energi yang muncul akibat perubahan suhu<br>Teori kinetik Zat :Energi yang muncul akibat adanya perubahan Tekanan dan Volume suatu zat pada massa dan Suhu tertentu</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

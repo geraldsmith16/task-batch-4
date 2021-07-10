@@ -1,0 +1,126 @@
+{
+    "question": "Tentukan akar-akar dari persamaan suku banyak f(x)=x^3 - 6x^2 + 9x - 2 = 0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>f(x)=x^3 - 6x^2 + 9x - 2 = 0<br>ambil dari koef derajat tertinggi -&gt; +-1<br>ambil dari suku tetap -&gt; +-1, +-2<br>akar akar <em><strong>yang mungkin\u00a0</strong></em><strong></strong>+-1/+-1 , +-2/+-1 -&gt; 1,-1,2,-2<br>f(1) = (1)</span>\u00b3\u00a0-\u00a06\u00a0(1)\u00b2\u00a0+\u00a09\u00a0(1)\u00a0-\u00a02<br><span>\u00a0 \u00a0 \u00a0\u00a0= 1 - 6 + 9 -2\u00a0<br>\u00a0 \u00a0 \u00a0 = 2\u00a0</span>\u2260\u00a00 (bukan akar dari pers)<br><span>f(-1) = (-1)</span>\u00b3 - 6 (-1)\u00b2 + 9 (-1) -2<br><span>\u00a0 \u00a0 \u00a0 = -1 - 6 -9 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span>f(2) = (2)</span>\u00b3 -6 (2)\u00b2 + 9 (2) -2<br><span>\u00a0 \u00a0 \u00a0 = 8 -24 +18 -2<br>\u00a0 \u00a0 \u00a0 = 26 - 26 = 0 (benar)<br></span><span>f(-2) = (-2)</span>\u00b3 - 6 (-2)\u00b2 +9 (-2) -2<br><span>\u00a0 \u00a0 \u00a0 \u00a0= -8 -24 -18 -2\u00a0</span>\u2260 0 (bukan akarnya)<br><span><br>akarnya hanya 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-siswa-direlasikan-dengan-tanggal-kelahirannyaapakah-relasi-350",
+            "question": "jika siswa direlasikan dengan tanggal kelahirannya.apakah relasi tersebut merupakan fungsi? berikan penjelasanmu!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Iya karena pada fungsi setiap anggota A hanya bisa memasangkan satu angota B . <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Ya, karena <u><strong>setiap siswa</strong></u>(di daerah\u00a0domain) hanya mempunyai <u><strong>satu tanggal kelahiran</strong></u>(di\u00a0daerah kodomain), artinya setiap siswa hanya mempunyai satu pasangan di daerah kodomain. Sehingga terjadi relasi.<br><br>Tapi kalo tanggal kelahiran direlasikan dengan siswa(tanggal kelahiran dijadikan domain), BISA JADI tidak terjadi relasi, karena kemungkinan terdapat siswa dengan tanggal kelahiran yang sama.<br><br>sepengetahuan ane sih gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-luas-permukaan-prisma-segitiga-567",
+            "question": "Rumus luas permukaan prisma segitiga?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumusnya adalah Lp = (Luas alas segitiga x 2) + (keliling alas segitiga x tinggi prisma) *NB: - rumus luas alas segitiga = 1/2 x alas x tinggi. - keliling alas segitiga = sisi + sisi + sisi. Contoh: Sebuah prisma dengan alas segitiga 3cm dan tinggi segitiga 4cm. Hitung sisi miring alas segitiga dan Hitung luas permukaan jika tinggi prisma 10 cm! Jawab: Sisi miring alas segitiganya adalah 5cm (didapat dri phytagoras 3cm dan 4cm) Lp = (luas alas x 2) + (keliling alas x tinggi prisma) = ((1/2 x 3cm x 4 cm) 2) + (3cm + 4cm + 5cm) x 10cm) = (6 x 2) + (12 x 10cm) = 12 + 120cm = 132cm. Jadi jawabannya adalah 132cm. Semoga membantu.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-beri-jawabannya-pembagian-sukubanyak-81xpngkt39xpngkt2-9-860",
+            "question": "tolong beri jawabannya, pembagian sukubanyak 81xpngkt3+9xpngkt2-9x+4 dgn (3x-a) menghasilkan sisa 3a\u00a0pngt3+2.hitung nilai nilai a yang mungkin",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4 dengan (3x\u00a0-\u00a0a) sisa 3a^3 + 2<br>(3x\u00a0-\u00a0a) -&gt;\u00a0x\u00a0=\u00a0a/3<br>f(a/3) =\u00a03a^3 + 2<br>3a^3 + 2\u00a0=\u00a081(a/3)^3 + 9(a/3)^2 - 9(a/3) + 4<br>3a^3 + 2\u00a0= 81(a^3 / 27) + 9(a^2 / 9) - 3a + 4<br>3a^3 + 2\u00a0= 3a^3 + a^2 - 3a + 4<br>a^2 - 3a + 2 = 0<br>(a - 2) (a - 1) = 0<br>a = 2 atau a = 1<br><br>untuk\u00a0a = 2<br><span>(3x-a)\u00a0=\u00a0(3x-2) -&gt; x = 2/3<br><br></span>sisanya dari soal\u00a03a^3 + 2 -&gt; 3(2)^3 + 2 = 24 + 2 = 26<br><br>f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4<br>f(2/3) = 81(2/3)^3 + 9(2/3)^2 - 9(2/3) + 4<br>f(2/3) = 81(8/27) + 9(4/9) - 6 + 4<br>f(2/3) = 24 + 4 - 2<br>f(2/3) = 26<br><br><span>jadi, nilai a yang mungkin adalah a =\u00a02/3</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sederhanakan-setiap-bentuk-berikut-cos-90-a-sin-90-a-202",
+            "question": "Sederhanakan setiap bentuk berikut\r\ncos (90\u00b0-\u03b1\u00b0)\r\nsin (90\u00b0-\u03b1\u00b0)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos (90 - a) = cos 90 cos a + sin 90 sin a \n=&gt; 0.cos a + 1.sin a = sin a\nsin (90 - a) =  sin 90 cos a - cos 90 sin a \n=&gt; 1.cos a - 0.sin a = cos a\n\ncos (90 - a)\n----------------\nsin (90 - a)\n\nsin a\n-----------\ncos a\n\ntan a",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-abc-dik-cos-bc940-jika-panjang-sisi-ac10-551",
+            "question": "Pada segitiga ABC ,    DIK: cos (B+C)=9/40. jika panjang sisi AC=10 CM &amp; AB= 8CM , panjang sisi BC adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pada segitiga ABC, diketahui cos(B + C) = 9/40, jika panjang sisi AC = 10 cm dan AB = 8 cm, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>\u221a</strong><strong>2</strong><strong> </strong><strong>cm</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p>Permasalahan di atas dapat diselesaikan dengan menggunakan <strong>aturan</strong><strong> </strong><strong>cosinus</strong><strong> </strong>karena diketahui panjang dua sisi dan keterangan untuk menentukan sebuah sudut.</p><p><strong>Trigonometri</strong> adalah materi matematika yang berhubungan dengan perbandingan antara sudut dengan sisi pada segitiga.</p><p>Untuk menyelesaikan soal ini, kita akan menggunakan <strong>rumus</strong> berikut :</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf A + B + C = 180^{\\circ}}}[/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf B + C = 180^{\\circ} - A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf cos(180^{\\circ} - A) = -cos~A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf a^2 = b^2 + c^2 - 2bc~.~cos~A}}[/tex] </p><p>dimana :</p><p>\u25cb\u00a0<em>a</em>\u00a0= panjang sisi BC</p><p>\u25cb\u00a0<em>b</em>\u00a0= panjang sisi AC</p><p>\u25cb\u00a0<em>c</em>\u00a0= panjang sisi AB</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><ul><li>cos(B + C) = 9/40</li><li>AC (b) = 10 cm</li><li>AB (c) = 8 cm</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>BC (a) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2756 <strong>Menentu</strong><strong>kan</strong><strong> </strong><strong>nilai</strong><strong> </strong><strong>(</strong><strong>B</strong><strong> </strong><strong>+</strong><strong> </strong><strong>C</strong><strong>)</strong></p><p>Karena segitiga ABC, maka jumlah seluruh sudutnya ialah 180\u00b0.</p><p>[tex]\\displaystyle\\rm A + B + C = 180^{\\circ} \\\\ \\\\ \\displaystyle\\boxed{\\rm B + C = 180^{\\circ} - A}[/tex]</p><p>diperoleh: B + C = 180\u00b0 \u2013 A</p><p>\u2756 <strong>Menentukan</strong><strong> </strong><strong>nila</strong><strong> </strong><strong>cos</strong><strong> </strong><strong>A</strong></p><p>Untuk menghitung nilai cos A, kita substitusikan B + C = 180\u00b0 \u2013 A pada cos(B + C) = 9/40</p><p>[tex]\\displaystyle\\rm cos(B + C) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm cos(180^{\\circ} - A) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm -cos~A = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\boxed{\\rm cos~A = -\\dfrac{9}{40}}[/tex]</p><p>diperoleh: cos A = \u2013 9/40</p><p>\u2756 Sehingga, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong></p><p>Kita tentukan panjang sisi BC dengan menggunakan aturan cosinus.</p><p>[tex]\\displaystyle\\begin{array}{rcl}\\rm a^2 &amp;=&amp; b^2 + c^2 - 2bc~.~cos~A \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 10^2 + 8^2 - 2(10)(8)~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 100 + 64 - 160~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 4~.~9 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 36 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 200 \\end{array} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{200} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{100\\times2} \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm a = 10\\sqrt{2}}}[/tex]</p><p>\u2234 <strong>Kesi</strong><strong>mpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, panjang sisi BC adalah 10\u221a2 cm.</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>trigonometri</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Diketahui segitiga ABC dengan \u2220C = 60\u00b0. Jika a = 10 cm dan B = 5 cm, maka panjang c adalah brainly.co.id/tugas/2760573</li><li>Diketahui \u2206PQR, PQ = 20 cm, \u2220S = 90\u00b0, sin P = 3/5, dan tan R = 12/5. Maka luas segitiga PQR adalah brainly.co.id/tugas/10595351</li><li>Diketahui segitiga ABC, panjang sisi AC = 3, AB = 2, dan \u2220A = 60\u00b0. Nilai cos C adalah brainly.co.id/tugas/9736660</li><li>Sebuah segitiga ABC diketahui besar \u2220A = 60\u00b0 dan \u2220B = 45\u00b0 sedangkan panjang sisi BC = 12 cm, maka panjang sisi AC adalah brainly.co.id/tugas/10116623</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 7 - Trigonometri</p><p><strong>Kode :\u00a0</strong>10.2.7</p><p><strong>Kata kunci :</strong><strong> </strong>perbandingan sudut-sudut berelasi, aturan cosinus</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seutas-tali-dipotong-menjadi-5-bagian-dan-masing-masing-masing-po-706",
+            "question": "Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Seutas tali dipotong menjadi 5 bagian dan masing-masing-masing potongan membentuk deret geometri. Jika panjang tali yang pendek 4 cm dan yang terpanjang 324 cm, panjang tali mula-mula?</p><p><strong>Barisan geometri</strong> adalah barisan bilangan yg tiap sukunya diperoleh dari suku sebelumnya dg mengalikan atau membagi dg suatu bilangan tetap.\n</p><p>Rumus suku ke-n \u2192 [tex]\\boxed{Un = a~ r^{n - 1} }[/tex]</p><p>Deret geometri adalah jumlah suku-suku yg ditunjuk oleh barisan geometri.\n</p><p>Jumlah n suku pertama \u2192 [tex]\\boxed{S_{n} = \\frac{a~(r^{n} - 1)}{r-1}}[/tex]</p><p></p><h2>Pembahasan</h2><p>Diketahui : </p><p>Banyak potongan tali (n) = 5</p><p>panjang tali terpendek (a) = 4 cm</p><p>Panjang tali terpanjang (Un) = 324 cm</p><p>Ditanya :</p><p>Panjang tali mula-mula (Sn) ?</p><p><strong>Jawab :</strong></p><p></p><ul><li><strong>Menentukan rasio </strong></li></ul><p>Un = a r\u207f\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2075\u207b\u00b9</p><p>324 = 4 \u00d7 r\u2074</p><p> \u00a0 r\u2074 = [tex]\\frac{324}{4}[/tex]</p><p> \u00a0 r\u2074 = 81</p><p> \u00a0 r\u2074 = 3\u2074 </p><p> \u00a0 r = 3</p><p></p><ul><li><strong>Menentukan panjang tali mula-mula</strong></li></ul><p>Sn = [tex]\\frac{a (r^{n} - 1)}{r - 1}[/tex]</p><p>S\u2085 = [tex]\\frac{4 (3^{5} - 1)}{3 - 1}[/tex]</p><p> \u00a0 \u00a0 = [tex]\\frac{4 (243 - 1)}{2}[/tex]</p><p> \u00a0 \u00a0 = 2 \u00d7 242</p><p> \u00a0 \u00a0 = 484 cm</p><p></p><p>Jadi panjang tali mula-mula adalah 484 cm atau 4,84 m</p><p></p><p>------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Barisan Geometri :</h3><ol><li>Panjang potongan kawat terpendek 5 cm dan potongan kawat terpanjang 80 cm \u2192 brainly.co.id/tugas/13808260601</li><li>Panjang kertas semula \u2192 brainly.co.id/tugas/10758102</li><li>Banyak penduduk di kota tersebut pada tahun 2010 yg selalu meningkat 2 kali lipat dari tahun sebelumnya, tahun 2005 banyak penduduk kota 10.000 jiwa \u2192 brainly.co.id/tugas/12702842</li><li>Suatu bakteri akan membelah diri menjadi 2 setiap 15 menit. Jika banyak bakteri pada pukul 12.30 adalah 15, maka banyak bakteri pada pukul 14.00 \u2192 brainly.co.id/tugas/9926864</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 2 - Barisan dan Deret Bilangan</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 9.2.2</li><li>Kata kunci : barisan geometri, panjang tali mula-mula</li></ul><p></p><p>Semoga bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dibeli-dengan-harga-rp8000000000-setiap-tahun-ni-475",
+            "question": "Sebuah     mobil dibeli dengan harga Rp80.000.000,00. setiap tahun nilai jual \r\n mobil menjadi 19/20 dari harga sebelumnya. nilai jual mobil dipakai tiga\r\n tahun",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "UN MATEMATIKA 2007<br><br>Materi Baris dan Deret<br>Kelas IX<br><br>[Baris Geometri]<br>a = 80.000.000<br>r = 3/4<br>U4 ?<br><br>Un = a.r^n-1<br>U4 = 80.000.000 x 19/20^3<br>U4 = 80.000.000 x 6859/8000<br>U4 = 68.590.000<br><br>[Cara Penjabaran]<br><br>Tahun 1 = 80.000.000 x 19/20 = 76.000.000<br>Tahun 2 = 76.000.000 x 19/20 = 72.200.000<br>Tahun 3 = 72.200.000 x 19/20 = 68.590.000<br><br>Jadi, Nilai Jual setelah 3 tahun adalah Rp 68.590.000,00",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-deret-geometri-tak-hingga-adalah-7-sedangkan-jumlah-suku-124",
+            "question": "jumlah deret geometri tak hingga adalah 7, sedangkan jumlah suku-suku yang bernomor genap adalah 3. suku pertama deret tersebut adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah semua suku tak hingga =  u1 + u2 + u3 + u4 + u5 + .... <br>\n = jumlah semua suku ganjil + jumlah semua suku genap. <br><br>\n7 = jumlah semua suku ganjil + 3 <br>\njumlah semua suku ganjil = 7 - 3 <br>\njumlah semua suku ganjil = 4 <br><br>\njumlah semua suku ganjil = u1 + u3 + u5 + ... <br>\n4 = a + ar^2 + ar^4 + ....   &gt;&gt;&gt; lalu kedua ruas dikalikan dengan r semua <br>\n4r = ar + ar^3 + ar^5 + .... <br>\n4r = 3 <br>\nr = 3/4 <br><br>\njumlah suku tak hingga = a / (1-r) <br>\n7 = a / (1-3/4) <br>\n7 = a / (1/4) <br>\na = 7/4. <br><br>solusi terbaik ya..<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-20-suku-pertama-pada-deret-aritmatika-berikut-ini-460",
+            "question": "Tentukan jumlah 20 suku pertama pada deret aritmatika berikut ini.\r\na. 1+4+7+...\r\nb.40+37+34+...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. a =1 b = 4-1=3<br>Sn = 20/2 (2(1)+(20-1)3)<br>\u00a0 \u00a0 \u00a0= 10 (2 + 57)<br>\u00a0 \u00a0 \u00a0= 590<br><br>2. a = 40 \u00a0b = 37-40 = -3<br>Sn = 20/2 (2(40) + (20-1) -3)<br>\u00a0 \u00a0 \u00a0= 10 (80 + (- 57))<br>\u00a0 \u00a0 \u00a0= \u00a0230",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

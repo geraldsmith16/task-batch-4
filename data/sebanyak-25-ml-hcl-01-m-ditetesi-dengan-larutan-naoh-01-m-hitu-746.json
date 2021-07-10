@@ -1,0 +1,137 @@
+{
+    "question": "Sebanyak 25 mL HCl 0,1 m ditetesi dengan larutan NaOH 0,1 M. hitung pH larutan pada saat :    a. volume larutan NaOH yang ditambahkan 10 mL\r\nb. volume larutan NaOH yang ditambahkan 50 mL",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Reaksi :<br>HCl + NaOH ---&gt; NaCl + H2O<br>a.\u00a0mol HCL = V.M = 25.0,1 = 2,5 mmol \u00a0<br>mol NaOH = V.M = 10.0,1 = 1 mmol<br>dapat dilihat bahwa NaOH menjadi pereaksi pembatas, dan setelah reaksi akan tersisa HCl sebanyak (2,5-1) = 1,5 mmol.<br>[HCl] = n/V = 1,5/35 = 0,42 = 42.10^-2<br>pH = 2-log 42<br>b.\u00a0mol HCL = V.M = 25.0,1 = 2,5 mmol \u00a0<br>mol NaOH = V.M = 0,1.50 = 5 mmol<br>dapat dilihat bahwa HCl menjadi pereaksi pembatas dengan sisa NaOH (5-2,5) = 2,5 mmol<br>[NaOH] = n/V = 2,5/75 = 3.10^-2<br>pOH = 2 - log3<br>pH = 14-(2-log 3)<br>pH = 12+log 3<br><br>*Cheers*",
+            "attachments": []
+        },
+        {
+            "answer": "a. \u00a0 HCl \u00a0+ \u00a0NaOH\u00a0\u21d2 \u00a0NaCl + H\u2082O<br>\u00a0m \u00a0 2,5\u00a0 \u00a0 \u00a0 \u00a0 1<br>\u00a0r \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>\u00a0s \u00a0 \u00a0 1,5 \u00a0 \u00a0 \u00a0 \u00a0- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br><br>[campuran]= 1,5/35 = 0,043 = 43 x 10\u207b\u00b3<br>karena yang sisa asam, maka memakai rumus [H\u207a]<br>[H\u207a] = 43 x 10\u207b\u00b3<br>pH = - log [H\u207a]<br>\u00a0 \u00a0 \u00a0= 3 - log 43<br><br>b \u00a0HCl \u00a0+ \u00a0NaOH\u00a0\u21d2 \u00a0NaCl + H\u2082O<br>\u00a0m \u00a0 2,5\u00a0 \u00a0 \u00a0 \u00a0 5<br>\u00a0r \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1<br>\u00a0s \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01<br>[campuran]= 2,5/75 = 0,03\u00a0= 3 x 10\u207b\u00b2<br>karena yang sisa basa, maka \u00a0memakai rumus basa<br>[OH\u207b] = 3 x 10\u207b\u00b2<br>pOH = - log [OH\u207b]<br>\u00a0 \u00a0 \u00a0 \u00a0= 2 - log 3<br>pH = 14\u00a0- (2\u00a0-\u00a0log3)<br>\u00a0 \u00a0 \u00a0= \u00a012 + log 3",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-100-ml-larutan-caoh2-01-m-dicampurkan-dengan-larutan-hcl-606",
+            "question": "jika 100 ml larutan Ca(OH)2 0,1 M dicampurkan dengan larutan HCl 0,3 M, ternyata ph campuran yang terjadi adalah 2 - log 2. berapa ml volume HCl yang harus dicampur?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0kita asumsikan volume HCl=x \u00a0\u00a0 persamaannya jadi gini\u00a0 \u00a0 <br>\u00a0 \u00a0 \u00a0 \u00a0 Ca(OH)2 +\u00a0 2HCl\u00a0 \u00a0 &lt;panah&gt;\u00a0\u00a0 \u00a0  CaCl2\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 +\u00a0 \u00a0 \u00a0 2H20<br>m\u00a0  \u00a0 \u00a0\u00a0 10 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,3x <br>t\u00a0 \u00a0 \u00a0 \u00a0\u00a0 10\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 20\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0  10\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 biarkan<br>s\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,3x-20\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10<br>H+=2.10^-2<br>H+=valensi asam.M<br>2.10^-2=2.M\u00a0 <br>M=10^-2\u00a0 \u00a0 M=n/v\u00a0 \u00a0 10^-2=10/(x+10)<br>x=990 ml<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-atom-terdapat-dalam-02-mol-oksigen-770",
+            "question": "Berapa atom terdapat dalam 0,2 mol oksigen?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jumlah atom \u00a0O\u2082 pada 0,2 mol gas oksigen adalah 1,204. 10\u00b2\u00b3 atom</strong></p><h2>Pembahasan</h2><p>[tex]\\boxed{\\boxed{\\bold{Stoikiometri}}}[/tex] \u00a0</p><p>Dalam bahasa Yunani, kata stoicheion berarti unsur sedangkan stoikiometri (stoichiometry) berarti mengukur unsur meliputi massa atom dan massa rumus, rumus kimia, persamaan kimia serta semua yang berhubungan dengan reaksi kimia. Dalam stoikiometri, satuan yang digunakan untuk menyatakan jumlah partikel dalam zat dinamakan mol. \u00a0</p><p>[tex]\\mathbf{Cara~Menentukan~Jumlah~Mol~(n) }[/tex] \u00a0</p><p>1. Menentukan dengan jumlah partikel \u00a0</p><p>Standar yang digunakan untuk menyatakan 1 mol adalah jumlah partikel dalam isotop atom C-12 (karbon) bermassa 12 gram. \u00a0</p><p>12 gram C-12 mengandung [tex]6,02.10^{23}[/tex] partikel / atom / molekul / ion \u00a0</p><p>Jumlah partikel tersebut dikenal dengan bilangan Avogadro (L). \u00a0</p><p>bilangan Avogadro (L) = [tex]6,02.10^{23}[/tex] partikel / atom / molekul / ion \u00a0</p><p>[tex]\\boxed{\\boxed{\\bold{n~=~\\frac{Jumlah~Ion/Molekul/Atom/Partikel}{L} }}}[/tex]\n</p><p>2. Menentukan jumlah mol dengan volume \u00a0</p><p>a. Jika pengukuran dilakukan pada suhu 0oC dan tekanan 1 atm (STP (Standard Temperature and Pressure)), maka \u00a0</p><p>[tex]\\boxed{\\boxed{\\bold{n~=~\\frac{Vm}{22,4} }}}[/tex]\n</p><p>dengan, Vm = volume molar standar \u00a0</p><p>b. Menggunakan hipotesis Avogadro \u00a0</p><p>Jika diukur pada suhu dan tekanan yang sama maka gas-gas yang memiliki volume sama akan memiliki jumlah molekul yang sama pula. \u00a0</p><p>[tex]\\boxed{\\boxed{\\bold{V_1~:~V_2~=~n_1~:~n_2}}}[/tex] \u00a0</p><p>c. Jika pengukuran dilakukukan tidak pada suhu 0oC dan tekanan 1 atm, menggunakan hukum gas ideal : \u00a0</p><p>PV = nRT \u00a0</p><p>[tex]\\boxed{\\boxed{\\bold{n~=~\\frac{P~x~V}{R~x~T} }}}[/tex]\n</p><p>dengan: \u00a0</p><p>P = tekanan (atmosfer) \u00a0</p><p>T = suhu mutlak (Kelvin), K = \u00b0C + 273 \u00a0</p><p>V = volume (liter) \u00a0</p><p>n = jumlah mol (mol) \u00a0</p><p>R = tetapan gas ideal yang nilainya 0,082 L atm mol\u207b\u00b9 K\u207b\u00b9 \u00a0</p><p>3. Menentukan dengan massa molekul relatif \u00a0</p><p>[tex]\\boxed{\\boxed{\\bold{n~=~\\frac{gram}{Mr} }}}[/tex]\n</p><p>dengan, \u00a0</p><p>n = jumlah mol (mol) \u00a0</p><p>gram = massa (gram) \u00a0</p><p>Mr = massa molekul relatif \u00a0</p><p>4. Menentukan dengan konsentrasi \u00a0</p><p>[tex]\\boxed{\\boxed{\\bold{n~=~M~x~V}}}[/tex] \u00a0</p><p>dengan, \u00a0</p><p>M = konsentrasi (M) \u00a0</p><p>V = volume (Liter) \u00a0</p><p>\n</p><p>[tex]\\boxed{\\boxed{\\bold{Diket}}}[/tex]\n</p><p>n O\u2082 = 0,2 mol</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Ditanya}}}[/tex]\n</p><p>Jumlah atom O\u2082</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Jawab}}}[/tex]\n</p><p>jumlah atom = n x L</p><p>maka,</p><p>Jumlah atom O\u2082 = n x L</p><p>Jumlah atom O\u2082 = 0,2 x 6,02. 10\u00b2\u00b3</p><p>Jumlah atom O\u2082 = 1,204. 10\u00b2\u00b3 atom</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Kesimpulan}}}[/tex]\n</p><p>Jumlah atom \u00a0O\u2082 pada 0,2 mol adalah 1,204. 10\u00b2\u00b3 atom</p><p></p><p>[tex]\\mathbf{Pelajari~Lebih~Lanjut }[/tex]\n</p><ul><li>Menentukan mol \u00a0https://brainly.co.id/tugas/19317569 , https://brainly.co.id/tugas/19322443, https://brainly.co.id/tugas/1010112#\n</li><li>Jumlah atom/partikel https://brainly.co.id/tugas/10497404, https://brainly.co.id/tugas/4317681#, https://brainly.co.id/tugas/21139489\n</li><li>Menentukan massa https://brainly.co.id/tugas/19327560 , https://brainly.co.id/tugas/19674518#, https://brainly.co.id/tugas/962227\n</li><li>Menentukan molalitas https://brainly.co.id/tugas/20778831, https://brainly.co.id/tugas/10128762, https://brainly.co.id/tugas/11137183</li></ul><p>----------------------------------------------\n</p><p>[tex]\\mathbf{Detil~Jawaban }[/tex]\n</p><p>Mapel : Kimia\n</p><p>Bab : Stoikiometri</p><p>Kelas : X\n</p><p>Semester : 2\n</p><p>Kode : 10.7.9</p><p>Kata kunci : \u00a0mol, jumlah mol, jumlah atom, jumlah partikel, bilangan avogadro</p>",
+                    "attachments": [
+                        "answer-attachments/berapa-atom-terdapat-dalam-02-mol-oksigen-770-1.jpg",
+                        "answer-attachments/berapa-atom-terdapat-dalam-02-mol-oksigen-770-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-reaksi-redoks-906",
+            "question": "Pengertian reaksi redoks?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Reaksi redoks adalah suatu reaksi serah terima elektron dan reaksi yang disertai perubahan bilangan oksidasi.",
+                    "attachments": []
+                },
+                {
+                    "answer": "reaksi redoks adalah reaksi reduksi oksidasi yang disertai perubahan bilangan oksidasi/reaksi yang didalamnya terdapat serah terima elektron",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-reaksi-asam-diprotik-dengan-basa-diprotik-contoh-reaksi-a-733",
+            "question": "Contoh reaksi asam diprotik dengan basa diprotik?    contoh reaksi asam poliprotik dengan basa diprotik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "contoh asam diprotik + Basa diprotik<br>H2SO4 + Mg(OH)2 --&gt; MgSO4 + 2H2O<br>H2CO3 + Ba(OH)2 --&gt; BaCO3 + 2H2O<br>H2SO3 + Ca(OH)2 --&gt; CaSO3 + 2H2O<br><br>contoh asam poliprotik + Basa diprotik<br>2H3PO4 + 3Mg(OH)2--&gt; Mg2(PO4)2 + 6H2O<br>2H3PO3 + 3Ba(OH)2--&gt; Mg2(PO3)2 + 6H2O<br>2H3AlO3 + 3Ca(OH)2 --&gt;Ca3(AlO3)2 + 6H2O<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "reaksi-asam-monoprotik-basa-monohidroksi-426",
+            "question": "Reaksi Asam monoprotik - Basa monohidroksi???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sebelum kita menuju reaksinya, kita ketahui dulu<br>asam monoprootik adalah senyawa asam yang mengandung 1 buah atom/ ion hidrogen<br>contoh :<br>HCl, HNO3, HClO4, HClO3, HI, HBr<br>basa monohidroksi adalah senyawa basa yang mengandung 1 buah ion hidroksida<br>contoh :<br>LiOH, NaOH, KOH, RbOH,CsOH<br><br>reaksi antara asam monoprotik dan basa monohidroksi<br>bisa juga menggunakan rumus dibawah ini :<br>y HxA + x L(OH)y\u00a0 ----&gt; LxAy + x.y H2O ..................\u00a0 \u00a0 x.y = x kali y<br>contoh reaksinya :<br>HCl + NaOH ---&gt; NaCl + H2O<br>HNO3 + LiOH\u00a0 ---&gt; LiNO3 + H2O<br>HClO4 + KOH --&gt; KClO4 + H2O<br>HI + RbOH\u00a0 ---&gt; RbI + H2O<br><br><br><br>semoga bisa membantu ya :)<br>beri label terbaik ya :D <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-reaksi-n2-h2-gt-nh3-perbandingan-volume-gas-gas-secar-686",
+            "question": "pada reaksi N2 + H2 --&gt; NH3, perbandingan volume gas-gas secara berurutan pada suhu dan tekanan yang sama adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1:3:2, perbandingan N2:H2:NH3 sama dengan 1:3:2",
+                    "attachments": []
+                },
+                {
+                    "answer": "Dik<br>Reaksi\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0N\u2082 \u00a0 \u00a0+ \u00a0 \u00a0 H\u2082 \u00a0 ======&gt; \u00a0 \u00a0NH\u2083<br>1. langkah pertama, kamu harus setarakan reaksi diatas sehingga menjadi:<br>\u00a0 \u00a0 \u00a0 \u00a0N\u2082 \u00a0 \u00a0+ \u00a0 \u00a0 3H\u2082 \u00a0 ======&gt; \u00a0 \u00a02NH\u2083<br>2. jika ingin mencari perbandingan Volume gas nya, karena Kondisi keseluruhan sama(Suhu, Tekanan) kita bisa memakai perbandingan koefisien sebagai jawabannya:<br><br>N\u2082 : H\u2082 : NH\u2083<br>1 \u00a0 : \u00a03 : \u00a0 \u00a02\u00a0<br>jika MAsing-masing gas Memiliki kondisi lingkungan yang berbeda, Koefisien ini dapat diibaratkan mol dari masing-masing senyawa, dan dijadikan voluma gas dengan Cara<br>V =\u00a0[tex] \\frac{nRT}{p} [/tex]<br><br>Semoga membantu !!<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-volume-larutan-asam-sulfat-4-m-yang-diperlukan-untuk-mel-266",
+            "question": "tentukan volume larutan asam sulfat 4 M yang diperlukan untuk melarutkan 1 gram alumunium. tetukanlah juga volume gas yang dihasilkan jika diukur pada 27\u00b0C, 1 atm (Ar Al = 27)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2Al + 3H\u2082SO\u2084\u00a0\u21d2 Al\u2082(SO\u2084)\u2083 + 3H\u2082<br><br>mol Al = m/Ar<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/27 = 0,037<br><br>mol H\u2082SO\u2084 = 3/2 x 0,037\u00a0= 0,0556<br><br>mol H\u2082SO\u2084 = M x V<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0V \u00a0 \u00a0= mol/M<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V\u00a0 \u00a0 \u00a0= 0,0556/4\u00a0<br>\u00a0 \u00a0 V\u00a0H\u2082SO\u2084 = 0,01389 L<br><br>krn koef H\u2082\u00a0sama dengan H\u2082SO\u2084, maka molnya juga sama<br>T = 27 + 273 = 300 K<br>P . V = mol . R . T<br>\u00a0 \u00a0 \u00a0 V = 0,0556 . 0,082 . 300 / 1<br>\u00a0 V H\u2082\u00a0= 1,36776 L<br><br>maaf kalo salah, angkanya susah ^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-allicin-adalah-senyawa-yang-menimbulkan-bau-khas-pada-bawang-808",
+            "question": "1.\u00a0Allicin adalah senyawa yang menimbulkan bau khas pada bawang. analisis kandungan alisin menunjukkan bahwa komposisinya adalah 44,4% C, 6,21% H, 39,5% S, dan 9,86% O. Tentukan rumus empiris alisin. Jika massa molekul relatifnya 162, bagaimana rumus molekulnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.buat perbandingan persen, <br>2. kemudian persen itu di bagi Ar masing - masing zat,<br>3. buat perbandingan paling sederhana dari hasil bagi tadi<br>4. jadi Rumus empiris<br><br>C : H : S : O = 44,4 : 6,21: 39,5: 9,86</span> <br>= 44,4/12 : 6,21/1: 39,5/32: 9,86/16<br>= 3,7 : 6,21 : 1,23 : 0,62 (bagi semua perbandingan dengan angka perbandingan terkecil)<br>= 5,9 : 10 : 1,98 : 1 (bulatkan)<br>= 6 : 10 : 2 : 1<br><br>C6H10S2O<br><br>jika Mr Rumus molekul = 162 maka<br>(Mr R empiris) x n = Mr R molekul<br>(6x12 + 10 x 1 + 32 x 2 + 16) x n = 162<br>162 x n = 162<br>n = 1<br><br>maka rumus molekul = rumus empiris<br>yaitu <br><br>C6H10S2O<br><br>semoga bermanfaat :)<br>kasih label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-4gram-serbuk-kalsium-hidroksida-dilarutkan-dalam-air-hin-535",
+            "question": "sebanyak 4gram serbuk kalsium hidroksida dilarutkan dalam air hingga 100ml. hitunglah volum larutan asam klorida 0,2M yang diperlukan untuk menetralkan 25ml larutan hidroksida tersebut (Ar O=16; Ca=40)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "reaksi yg terjadi:<br>Ca(OH)2 + HCl ---&gt; CaCl2 + H2O<br><br>mol Ca(OH)2 = gr/Mr = 4/74 = 0,05mol<br>[Ca(OH)2] = mol/V = 0,05mol/0,1L = 0,5M<br>[OH]- = 1M<br><br>prinsip penetralan:\u00a0<br>V1n1 = V2n2<br>25mL . 1M = V2 . 0,2M<br>V2 = 25/0,2<br>V2 = 125mL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-tuliskan-postulat-einstein-berdasarkan-teori-relativitas-562",
+            "question": "1. tuliskan postulat einstein berdasarkan teori relativitas ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. postulat pertama <br>\u00a0\u00a0  yang menyatakan bahwa \"hukum-hukum fisika adalah sama dalam semua kerangka inersia\"<br>2. postulat kedua<br>\u00a0 yang berbunyi \"kelajuan cahaya adalah sama dalam semua kerangka inersia \"<br>Maaf kalau salah, aku cuma berniat nolong aja kok :)<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

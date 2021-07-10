@@ -1,0 +1,134 @@
+{
+    "question": "Perhatikan rangkaian listrik pada gambar dibawah. Berapa kuat arus yang mengalir pada rangkaian tersebut\u00a0",
+    "attachments": [
+        "question-attachments/perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "R2 nya berapa?\u00a0<br>Cari kuat arus itu rumusnya\u00a0<br>I = V/R",
+            "attachments": []
+        },
+        {
+            "answer": "Soal ini merupakan penerapan hukum II kirchof, buat loop dengan arah terserah, lihat sumber tegangan, kalau kutub yang pertama dilewati loop sama, maka jumlahkan, apabila beda maka dikurangkan. lalu bagi dengan jumlah bambatan total.\u00a0<br>[tex]I = \\frac{E_2-E_1}{R_1+R_2+R_3} = \\frac{12-8}{3+5+2}= \\frac{4}{10} = 0.4 A[/tex]\u00a0<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10-cm-mengapung-pada-perba-951",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10 cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya berada 2 cm di bawah bidang batas minyak air. Ketinggian kolom minyak dan air masing-masingadalah 10 cm . Massa jenis minyak adalah 0,8 g/cm\u00b3. Tekanan hidostatis yang bekerja pada sisi paling bawah balok adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pminyak=800*10*0,1<br>=800Pa<br>Pair=1000*10*0,02<br>=200Pa<br><br>total tekanan pada bawah kubus adalah<br>=800+200<br>=1000Pa",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842",
+            "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+            "attachments": [
+                "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-perenang-ingin-menyeberangi-sungai-yang-sangat-lebar-ia-224",
+            "question": "Seorang perenang ingin menyeberangi sungai yang sangat lebar. Ia berenang dengan kecepatan20 km/jam ke arah selatan. Jika arus sungai memiliki kecepatan 10 km/jam ke barat. Hitunglah\u00a0resultan kecepatan perenang tersebut dan ke mana arahnya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 km/jam - 10 km/jam = 10 km/jam ke arah selatan <br>karena kecepatan yg paling besar ke arah selatan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-apa-saja-yang-digunakan-untuk-membuat-galvanometer-dan-m-432",
+            "question": "jelaskan apa saja yang digunakan untuk membuat galvanometer dan motor listrik. apa yang diperlukan untuk membuat motor listrik , namun tidak diperlukan dalam pembuatan galvanometer ? mengapa alt tersebut diperlukan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bahan dan alat membuat motor litrik ;\u00a0<br>-kabel tembaga beremail\u00a0<br>- satu buah maget batang<br>-batery pack<br>-styrofoam<br>- kater<br>-spidol<br>-tusuk gigi<br>alasannya ; alt tersebut harus diperlukan agar buatan motor listrik tersebut jadi sempurna apabila tidak lengkap maka hasilnya akan kurang baik.",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada motor listrik butuh batrai sedangkan pada galvanometer tidak membutuhkan batre. karena sumber listrik dari motor listrik dari batre sedangkan  pada galvanometer sumber listrik dari rangkaian listrik yg di pasang pada galvanometer",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-kapiler-dimasukkan-ke-dalam-bejana-yang-berisi-zat-ca-651",
+            "question": "Sebuah pipa kapiler dimasukkan ke    dalam bejana yang berisi zat cair.\r\n Kenaikan zat cair di dalam pipa\r\n kapiler tidak tergantung pada ....\r\n A. sudut kontak\r\n B. Tegangan permukaan\r\n C. Massa jenis zat cair\r\n D. Diameter pipa kapiler\r\n E. Tekanan udara luar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C. masa jenis zat cair karena massa jenis yatcair konstan 1000 kg/m^3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-daya-masukan-720-watt-tegangan-dan-arus-ke-464",
+            "question": "sebuah trafo memiliki daya masukan 720 watt. Tegangan dan arus keluaran dari trafo berturut-turut 72 V dan 6 A. Efisiensi trafo tersebut sebesar...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Pp = 720 Watt<br>\u00a0 \u00a0 \u00a0 V = 72 volt<br>\u00a0 \u00a0 \u00a0 \u00a0l = 6 A<br>Dit efisiensi ?<br>jawab<br>Rumus Pp = V.l<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 72 . 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 432<br><br>efisiensi = Ps / Pp x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 432 / 720 x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 %<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengaruh-suhu-fluida-terhadap-tegangan-permukaannya-jelaskan-971",
+            "question": "Pengaruh suhu fluida terhadap tegangan permukaannya, jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor yang mempengaruhi tegangan permukaan yaitu :<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Suhu<br>Tegangan permukaan menurun dengan meningkatnya suhu, karena meningkatnya energi kinetik molekul.\u00a0</span></span><span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span>Zat terlarut (solute)</span>Keberadaan zat terlarut dalam suatu cairan akan mempengaruhi tegangan permukaan. Penambahan zat terlarut akan meningkatkan viskositas larutan, sehingga tegangan permukaan akan bertambah besar. Tetapi apabila zat yang berada dipermukaan caiaran membentuk lapisan monomolekular, maka akan menurunkan tegangan permukaan. Zat tersebut biasa disebut dengan surfaktan.<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Surfaktan<br>Surfaktan (surface active agents), zat yang dapat mengaktifkan permukaan, karena cenderung untuk terkonsentrasi pada permukaan atau antar muka. Surfaktan mempunyai orientasi yang jelas sehingga cenderung pada rantai lurus. Sabun merupakan salah satu contoh dari surfaktan.</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-teropong-bintang-dapat-menghasilkan-perbesaran-bayangan-10-226",
+            "question": "sebuah teropong bintang dapat menghasilkan perbesaran bayangan 10kali. jika jarak fokus lensa obyektifnya 100cm, maka jarak antara lensa obyektif dan lensa okuler teropong itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=fob:fok<br>fok=fok:M<br>fok=100:10<br>fok=10<br>d=fob+fok<br>\u00a0 =100+10<br>\u00a0 =110 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tali-karet-di-beri-beban-300gram-dan-di-gantung-vertikal-p-904",
+            "question": "sebuah tali karet di beri beban 300gram dan di gantung vertikal pada sebuah statif. ternyata karet bertambah panjang 4cm (g=10m/s-2) berapa energi potensial karet tsb...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1,2 joule <br>m.g.h= 0,3 kg X 0,4 m X 10m/s^2 = 1,2 joule<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perkirakan-selisih-tekanan-hidrostatis-darah-di-antara-otak-dan-k-721",
+            "question": "Perkirakan selisih tekanan hidrostatis darah di antara otak dan kaki di dalam tubuh seseorang yang tingginya 165 cm. Anggap massa jenis darah 1,06 x 10^3 kg/m^3 dan g = 9,8 m/s^2.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tekanan = pgh<br>tekanan = (1,06)(1000)(9,8)(1,65)<br>tekanan = 171402 Pa<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

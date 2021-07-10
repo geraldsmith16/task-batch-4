@@ -1,0 +1,146 @@
+{
+    "question": "Selembar kertas folio dipotong menjadi 2 yg sama, kemudian potongan yg satu ditumpuk diatas yg lain. tumpukan itu dipotong lagi menjadi 2 bagian yg sama, kemudian ditumpuk lagi, dan seterusnya.    a. brp banyak potongan kertas jika dilakukan 10 kali pemotongan?\r\nb. berapa kali pemotongan dilakukan jika banyak potongan kertas 256 lmbr?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. [tex] U_{10} [/tex]=a<u></u>[tex] r^{9} [/tex]<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =2 x [tex] 2^{9} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =1024<br>b. Un=a[tex] r^{n-1} [/tex]<br>\u00a0\u00a0  256=2 x [tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 256/2=[tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 128=[tex] 2^{n-1} [/tex]<br>\u00a0 [tex] 2^{n-1} [/tex]=[tex] 2^{7} [/tex]<br>\u00a0 n-1=7<br>\u00a0 n=8<br>Jadi,hasilnya 8 kali potongan<br><br>Mohon yang terbaiknya makasih..<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-luas-lingkaran-5024-cm2-maka-diameternya-adalah-401",
+            "question": "Jika luas lingkaran 5024 cm2 , maka diameternya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas = 1/4 \u03c0 d\u00b2<br>5024 = 1/4 3.14 d\u00b2<br>5024 x 4 = 3.14 d\u00b2<br>20096 = 3.14 d\u00b2<br>20096 : 3.14 = d\u00b2<br>6400 = d\u00b2<br>d = \u221a6400<br>d = 80 cm<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-lingkaran-masing-masing-berpusat-di-titik-o-dan-p-dengan-panj-530",
+            "question": "Dua lingkaran masing masing berpusat di titik O dan P dengan panjang jari-jari 10cm dan 6cm .Jika jarak kedua titik pusat lingkaran adalah 34cm, tentukan garis singgung AB    Mhon dengan cara ,Trims~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AB =\u00a0\u221as\u00b2 - (R + r)\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a34\u00b2 - (10 + 6)\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a1156 - 256<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a900<br>\u00a0 \u00a0 \u00a0= 30 cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]l =  \\sqrt{p^2 - (R-r)^2}  \\\\ l = \\sqrt{34^2 -(10-6)^2}  \\\\  l =  \\sqrt{1156-16}  \\\\ l = \\sqrt{1140} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dijawab-nya-soal-persentase-untung-dan-rugi-1-pak-b-227",
+            "question": "TOLONG DIJAWAB NYA\u00a0 \u00a0 SOAL PERSENTASE UNTUNG DAN RUGI 1 . Pak Bhayu menjual TV , ternyata ia menderita kerugian sebesar 15 persen yg nilainya Rp.240.000 . Tentukan harga beli dan harga jual TV itu ? \u00a0 2 . Pak Iman membeli sepeda bekas dengan harga Rp.75.000 , kemudian deperbaikinya dengan biaya Rp.45.000 . Bila akhirnya sepeda itu ia jual dengan harga Rp.156.000 , maka Pak Iman akan mendapat untung sebesar ? ( hasilnya persen ) \u00a0 3 .Seorang pedagang membeli 18 kg apel dengan harga Rp.88.500 . Separuh apel ia jual dengan harga Rp.7.500 per kg , sepertiganya ia jual dengan harga Rp.6.800 per kg , dan sisanya ia jual dengan harga Rp.5.200 per kg . Pedagang tersebut ternyata tetap untung , besar untung yang di peroleh pedagang itu adalah ? \u00a0 TOLONG BANTU AKAU OWH MASALAH NYA TUGAS NYA DIKUMPULIN NYA BESOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2. 156.000 - (75.000+45000) =156.000 -120000 = 36000<br>\u00a0\u00a0 \u00a0 36.000/120.000x100% = 30%<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. a. harga beli = 100/15 x 240.000 = 1.600.000\u00a0<br>\u00a0 \u00a0 b. harga jual = 85/15 x 240.000 = 1.360.000<br><br>2.\u00a0harga beli + perbaikan = 75.000+45.000= 120.000<br>\u00a0 \u00a0 dijual 156.000<br>\u00a0 \u00a0 keuntungan = 156.000-120.000= 36.000<br>\u00a0 \u00a0 keuntungan = 36.000/120.000 x 100% = 30%<br><br>3.\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ana-membeli-3-peniti-dan-4-benang-dengan-harga-rp-205000-sedan-374",
+            "question": "Ana membeli 3 peniti dan 4 benang dengan harga Rp 2.050,00 ,sedangkan Anti membeli\u00a01 peniti dan 3 benang dengan harga Rp 1.350,00. harga 10 benang dan 5 peniti adalah......    &lt;&lt;&lt;,,,,,,,,,,,,,,,,,,,,,,,,TOLONG DONG\u00a0BESERTA CARANYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,&gt;&gt;&gt;&gt;&gt;&gt;&gt; TERIMASAKASIH",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x=peniti<br>y=benang<br><br>3x+4y=2050<br>1x+3y=1350||x3<br>\u00a0\u00a0<br>3x+4y=2050<br>3x+9y=4050<br>____________ -<br>\u00a0 \u00a0-5y=-2000<br>\u00a0 \u00a0 \u00a0 y=400<br><br>3x+4y=2050<br>3x+1600=2050<br>3x=450<br>x=150<br><br>10y+5x=10(400)+5(150)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=4000+750<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=4750<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3p+4b=2050\u00a0 semua x 1 -&gt; 3p+ 4b= 2050<br>p+3b=1350\u00a0 \u00a0  semua x 3 -&gt; <u>3p+ 9b = 4050\u00a0 </u>-<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -5b= -2000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b=<u></u>-2000/-5= 400<br>p+3x400=1350<br>p+1200=1350<br>p=1350-1200=150<br>10b+5p= 10 x 400 + 5 x 150= 4000 + 750 =4750<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tara5-kg-persentase-tara212-ditanya-berapa-kg-bru-551",
+            "question": "Diketahui:\r\nTara:5 kg\r\nPersentase tara:2,12%\r\n\r\nDitanya:\r\nBerapa kg bruto dan netto?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto =\n5 kg : 2,12%  = 5 : 2,12/100 \n= 5 x 100/2,12 = 500/2,12 = 235,8\njadi, brutonya adalah 235,8\nnetto = bruto - tara.\nnetto = 235,8 - 5 = 230,8\njadi, nettonya adalah 230,8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tara = Persentase tara \u00d7 bruto<br>5 = <u>2,12</u>\u00d7 bruto<br>\u00a0\u00a0 \u00a0 \u00a0 100<br>500 = 2,12 \u00d7 bruto<br>bruto =\u00a0 <u>500</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 2,12<br>bruto = 235,85 kg<br><br>netto = 235,85 - 5kg<br>netto = 230,85 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-rasio-dan-suku-keempat-suatu-barisan-geometri-jika-diket-215",
+            "question": "Tentukan rasio dan suku keempat suatu barisan geometri jika diketahui:    a) a=2 dan U5=162\r\nb) a=4 dan U3=64",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "r?<br>u4?<br>a) a=2 ; u5=162<br>ar^4=162<br>2r^4=162<br>r^4=162/2<br>r^4=81<br><strong>r=3</strong><br><br><strong>u4=ar^3</strong><br><strong>2.3^3</strong><br><strong>2.27=54</strong><br><br>b)a=4 ; u3=64<br>ar^2=64<br>4r^2=64<br>r^2=64/4=16<br><strong>r=4</strong><br><br><strong>u4=ar^3</strong><br><strong>4.4^3=4^4</strong><br><strong>=256</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-berputar-sebanyak-500-kali-untuk-melintasi-jlan-sepan-238",
+            "question": "Sebuah roda berputar sebanyak 500 kali untuk melintasi jlan sepanjang\u00a0628 meter.hitunglah:    a.keliling roda.\r\nb.jari jari roda.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k=628 \u00f7 500<br>\u00a0=<u>1,256</u><br>d= k \u00f7 \u03c0<br>\u00a0=1,256 \u00f7 3,14<br>\u00a0=0,4<br>r= d\u00f72<br>\u00a0=0,4 \u00f7 2<br>\u00a0=<u>0,2</u><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-108-km-jam-m-s-2-72-kmjam-ms-3-5-242",
+            "question": "1.) 108 km / jam =......... m /s 2.) 72 km/jam =....... m/s 3.) 50 m/s =......... km/jam 4.) 10 m/s =......... km/jam \u00a0 dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>1.\u00a072km/jam = 20m/s\u00a0<br>(72x1000) : 3600s = 20m/s<br>2.\u00a0108km/jam = 30m/s<br>(108x1000) : 3600s = 30m/s<br>3. 50m/s = 50 :1000/3600<br>\u00a050 x 3600/1000 = `180 km/jam<br>4. 10m/s = 36 km/jam<br>10x 3600/1000 = 36<br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-garis-singgung-lingkaran-251",
+            "question": "Pengertian garis singgung lingkaran?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran itu.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Garis singgung lingkaran adalah suatu garis yang memotong lingkaran \nhanya di satu titik dan tegak lurus dengan jari-jari lingkaran pada \ntitik singgung lingkaran itu.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jarak-dari-bandung-ke-ciamis-pada-peta-8-cm-apabila-sk-991",
+            "question": "Diketahui jarak dari Bandung ke Ciamis pada peta 8 cm. Apabila skala yang digunakan oleh peta 1 : 1.500.000, maka jarak Bandung dengan Ciamis yang sebenarnya adalah.... pakai cara",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "aku ksh rumusnya aja nih<br>JS = JP.S<br><br>ket : JS - jrak sbnernya<br>\u00a0 \u00a0 \u00a0 \u00a0 JP - jarak pda peta<br>\u00a0 \u00a0 \u00a0 \u00a0 S - skala",
+                    "attachments": []
+                },
+                {
+                    "answer": "120 km<br>caranya=<br>8/1/1.500.000=8 dikali 1.500.000= 12.000.000 cm=120 km<br>insyaallah bener<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

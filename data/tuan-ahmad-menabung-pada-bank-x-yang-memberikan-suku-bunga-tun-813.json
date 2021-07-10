@@ -1,0 +1,136 @@
+{
+    "question": "Tuan ahmad menabung pada bank \"X'' yang memberikan suku bunga tunggal sebesar Rp 2.500.000.00. setelah 2 tahun simpanan nya menjadi Rp 3.300.000,00.    besar persentase suku bunga yang di tetapkan bank setiap tahunnya ?\r\nTolong banget'z yhaa :(\r\nBesok mau di kumpul :(",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "2.500.000 = 3.300.000 x p x 2 <br>2.500.000 = 3.300.000<br>p= 2.500.000 : 3.300.000<br>p= 25/33 x 100%<br>\u00a0=75,75%<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "luas-suatu-lingkaran-616-cm2-dan-sebuah-juring-pada-lingkaran-tsb-184",
+            "question": "Luas suatu lingkaran 616 cm2 dan sebuah juring pada lingkaran tsb luasnya 77 cm2. maka besar sudut pusatnya adalah    a. 45\u00b0\r\n b. 60\u00b0 \r\n c. 72\u00b0\r\n d. 90\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. 45\u00b0</span> <br>karena <u>45</u>/360 X 616 = 1/8 X 616 = 77 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-10-dari-barisan-bilangan-108-36-12-adalah-153",
+            "question": "\u00a0suku ke 10 dari barisan bilangan 108, 36, 12, ... adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "un=a+(n-1)b hasilnya 540",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]a = 108 \\\\ r = \\frac{U_2}{U_1} = \\frac{36}{108} = \\frac{1}{3} \\\\ U_{10} = ar^{n - 1} = 108(\\frac{1}{3})^{10 - 1} = (3^3)(2^2)(3^{-9}) = (3^{-6})(2^2) = \\frac{4}{729}[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jarak-titik-pusat-lingkaran-dengan-sebuah-titik-yang-berada-di-lu-481",
+            "question": "jarak titik pusat lingkaran dengan sebuah titik yang berada di luar lingkaran adalah 39 cm.panjang garis singgung yang melalui titik tersebut 36 cm.diameter lingkaran tersebut adalah .........cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ini akan membentuk sebuah segitiga 36 sebagai tingginya , 39 sebagai garis yang miringnya dan jari2(r) sebagai alasnya.<br>r=akar 39kuadtar -36kuadrat<br>\u00a0=akar \u00a01521-1296<br>\u00a0=akar 225=15<br>d=2 x\u00a0r cm<br>\u00a0 \u00a0=2x15<br>\u00a0 \u00a0=30",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-celana-panjang-dan-5-kemeja-rp-41000000sedangkan-harg-765",
+            "question": "harga 2 celana panjang dan 5 kemeja Rp. 410.000,00,sedangkan harga 3 celana panjang dan 2 kemeja Rp 340.000,00.harga sebuah celana panjang dan 2 kemeja adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2cp + 5k = 410.000 | x3| 6cp+15k = 1.230.000<br>3cp + 2k = 340.000 | x2| 6cp+4k\u00a0 =\u00a0 \u00a0 680.000 _<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11k = 550.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k = 50.000<br><br>2cp + 5k = 410.000<br>2cp + 5x50.000 = 410.000<br>2cp + 250.000 = 410.000<br>2cp = 410.000-250.000<br>2cp = 160.000<br>cp = 80.000<br><br>1cp + 2k = <br>1x80.000 + 2x50.000 <br>80.000 + 100.000 = 180.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-selimut-kerucut-2041-cm2-jari-jari-5-cmpi314-maka-volume-872",
+            "question": "Luas selimut kerucut 204,1 cm2 jari jari 5 cm,pi=3,14 maka volume kerucut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Luas selimut kerucut 204,1 cm\u00b2, jari jari 5 cm, pi = 3,14 maka volume kerucut?</p><h3>Pendahuluan</h3><p><strong>Kerucut </strong>adalah limas yang bidang alasnya berbentuk lingkaran.</p><p>Rumus Volume Kerucut</p><p>[tex]\\boxed {V = \\frac{1}{3} \\times \\pi \\times r^{2} \\times t}[/tex]</p><p>Rumus luas Permukaan Kerucut</p><p>[tex]\\boxed {LP =\\pi r (r + s)}[/tex]</p><ul><li>Pelajari lebih lanjut : Volume kerucut \u2192 brainly.co.id/tugas/9884520</li></ul><p></p><h2>Pembahasan </h2><p>Diketahui : </p><p>Luas selimut kerucut = 204,1 cm\u00b2</p><p>jari-jari (r) = 5 cm</p><p>Ditanya :</p><p>Volume kerucut ?</p><ul><li>Pelajari lebih lanjut : Luas permukaan kerucut \u2192 brainly.co.id/tugas/21310107</li></ul><p></p><h3>Jawab :</h3><p><em><strong>Panjang garis pelukis kerucut</strong></em></p><p>L selimut = \u03c0 r s</p><p>204,1 = 3,14 \u00d7 5 \u00d7 s</p><p>204,1 = 15,7 s</p><p>s = [tex]\\displaystyle \\frac{204,1}{15,7}[/tex]</p><p>s = 13 cm</p><p><em><strong>Menentukan tinggi kerucut</strong></em></p><p>s\u00b2 = r\u00b2 + t\u00b2</p><p>t\u00b2 = s\u00b2 - r\u00b2</p><p>t\u00b2 = 13\u00b2 - 5\u00b2</p><p> \u00a0 \u00a0= 169 - 25</p><p> \u00a0 \u00a0= 144</p><p> t = \u221a144</p><p> t = 12 cm</p><p><em><strong>Menentukan volume kerucut</strong></em></p><p>V = \u00b9/\u2083 \u03c0 r\u00b2 t</p><p> \u00a0 \u00a0= \u00b9/\u2083 \u00d7 3,14 \u00d7 5 \u00d7 5 \u00d7 12 cm\u00b3</p><p> \u00a0 \u00a0= 3,14 \u00d7 25 \u00d7 4 cm\u00b3</p><p> \u00a0 \u00a0= 3,14 \u00d7 100 cm\u00b3</p><p> \u00a0 \u00a0= 314 cm\u00b3</p><p>Jadi volume kerucut adalah 314 cm\u00b3 </p><p></p><h3>Pelajari lebih lanjut tentang Bangun Ruang Sisi Lengkung</h3><ol><li>Luas karton membuat 200 topi ulang tahun \u2192 brainly.co.id/tugas/2444275</li><li>Tentukan panjang dari unsur tabung yang ditanyakan \u2192 https://brainly.co.id/tugas/12807647</li><li>Volume tabung diluar kerucut \u2192 brainly.co.id/tugas/14432299</li><li>Ketinggian air dalam tabung setelah dimasukkan bola \u2192 brainly.co.id/tugas/5990035</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 9 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : 5 - Bangun Ruang Sisi Lengkung</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 9.2.5</li><li>Kata kunci : volume kerucut, diketahui luas selimut, jari-jari, garis pelukis, tinggi kerucut</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+                    "attachments": [
+                        "answer-attachments/luas-selimut-kerucut-2041-cm2-jari-jari-5-cmpi314-maka-volume-872-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-segitiga-abc-diketahui-sisi-sisinya-adalah-abdan-c-840",
+            "question": "Pada sebuah segitiga ABC diketahui sisi-sisinya adalah a,b,dan c. daripertanyaan berikut yg benar adalah ...    a. b\u00b2 = a\u00b2 + c\u00b2\r\nb. c\u00b2 = b\u00b2 + a\u00b2\r\nc. c\u00b2 = a\u00b2 + b\u00b2\r\nd. a\u00b2 = b\u00b2 + c\u00b2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jika C adalah sisi miring. <br>\nMaka jawaban yang benar C. c\u00b2 = a\u00b2 + b\u00b2",
+                    "attachments": []
+                },
+                {
+                    "answer": "C. c pangkat 2= a pangkat 2 + b pangkat 2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-barang-dengan-harga-rp12000-dibeli-dengan-harga-rp10200-672",
+            "question": "Sebuah barang dengan harga Rp12.000 dibeli dengan harga Rp10.200. Besar diskon untuk barang itu adalah...........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "12000x15/100 = 1800<br><br>12000-1800 = 10200<br><br>jadi,jumlah diskon adalah 15 persen<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-dermawan-berbelanja-di-bebeapa-koperasi-yang-berbeda-drm-666",
+            "question": "seorang dermawan berbelanja di bebeapa koperasi yang berbeda. drmawan tersebut masuk ke toko 1 memberi uang pada \u00a0pengemis Rp 500. kemudian ia membelanjakan setengah dari seluruh uang sisanya. saat ia keluar dari toko ,ia memberi uang pada penjaga toko Rp1000.dermawan melalukan hal tersebut terhadap toko-toko yang ia kunjungi .setelah dermawan tersebut memberi uang Rp 1000 pada toko ke-6,uangnya habis.berapa uang yang dibawa dermawan mula-mula saat ia akan masuk ke toko ke- 1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diketahui: uang yang di berikan dermawan kepada pengemis= Rp.500<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 uang yang di berikan kepada setiap penjaga toko=Rp.1000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0uang yang di belanjakan= 1/2 dari uang yang dibawa dermawan<br>diatanya:uang yang di bawa dermawan keseluruhan?<br>jawab:<br>jumlah yang diberikan dermawan pada pengemis dan penjaga toko<br>=500+((1000 x 6)-1000)<br>=500+(6000-1000)<br>\u00a0=5500<br>karena uang yang di belanjakan 1/2 dari yang di bawa maka,<br>jumlah yang diberikan dermawan pada pengemis dan penjaga toko x 2=5500 x 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =Rp.11000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-lingkaran-pertama-dengan-jari-jari-7-cmhitunglah-luas-182",
+            "question": "diketahui lingkaran pertama dengan jari jari 7 cm.hitunglah luas lingkaran kedua dan perbandingan luasnya.jika panjang jari jari 3 kali jari jari lingkaran pertama",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L lingkaran1 = <u>22</u> * 7 * 7 = 154 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a07<br>L lingkaran 2=\u00a0<u>22</u> * 21 * 21= 1386 cm\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a07<br>L1 : L2<br>154 : 1386<br>1 : 9 (perbandingan Luas Lingkaran)",
+                    "attachments": []
+                },
+                {
+                    "answer": "L.lingakaran 1 = [tex] \\frac{22}{7} [/tex] x 7x7 = 154<br>L.linkaran 2 = [tex] \\frac{22}{7} [/tex] x 21x21 = 1386<br>\u00a0154 : 1386 = 1: 9<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sekeranjang-jeruk-dibagikan-kepada-36-orang-anakmasing-masing-me-568",
+            "question": "Sekeranjang jeruk dibagikan kepada 36 orang anak,masing-masing mendapatkan 6 buah jeruk.Jika jeruk tersebut di bagikan kepada 24 anak,tentukan bagian masing-masing anak.(Tulis Beserta Rumusnya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah jeruk = jumlah anak x jeruk yang didapatkan masing2 anak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 36 anak x 6 jeruk<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 216 jeruk<br><br>jika julah anak 24, jeruk yang didapatkan masing-masing anak:<br>jumlah jeruk : jumlah anak = 216 jeruk : 24 anak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 9 jeruk",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

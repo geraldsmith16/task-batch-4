@@ -1,0 +1,140 @@
+{
+    "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-5x-7-gt-7x5-maka-840",
+            "question": "Jika 5/x-7 &gt; 7/x+5, maka...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/ x-7 &gt; 7/x+5\u00a0<br>5x+25/(x-7)(x+5) &gt; 7x-49/(x-7)(x+5)\u00a0<br>5x+25 &gt; 7x-49\u00a0<br>25+49 &gt; 7x - 5x\u00a0<br>74 &gt; 2x\u00a0<br>37 &gt; x\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jumlah-deret-berikut-a13927729-262",
+            "question": "Tentukan jumlah deret berikut :\r\na).1+3+9+27+...+729",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jumlah deret 1+3+9+.....+729<br><br>a=1, r=3<br>un= a.r^(n-1)=729<br>un=1.3^(n-1)=3^6<br>(n-1)=6<br>n=7<br><br>Sn = a(r^n-1) /(r-1)<br>Sn =1.(3^7-1)/(3-1)<br>Sn=(2186)/2<br>Sn=1093",
+                    "attachments": []
+                },
+                {
+                    "answer": "1+3+9+27+\u2026+729\u00a0\u00a0\u00a0<br><span>Dik: a=1, Un=729 , r= 3<br>penyelesaian:<br>\u00a0 \u00a0#\u00a0Un=\u00a0a.r^(n-1) \u00a0 \u00a0 \u00a0\u00a0</span><br>\u00a0 \u00a0 \u00a0729= 1. 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0729= 3^(n.1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<span><br>\u00a0 \u00a0</span>3^(6)= 3^(n-1) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a0 \u00a0 \u00a0 6= n -1</span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<span><br>\u00a0 \u00a06 + 1= n -1+1\u00a0\u00a0\n<br>\u00a0 \u00a07= n \u00a0<br></span><br>\u00a0#Sn = a(r^{n})/r-1\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=1(3^{7} -1) /3-1<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=(2187 \u2013 1)/2<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0=2187/2\u00a0<br>\u00a0 \u00a0\u00a0Sn\u00a0=1093,5<span><br>Jadi jumlah deret dari\u00a0</span>1+3+9+27+\u2026+729 \u00a0adalah 1093,5<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buktikan-xyz3-x3-y3-z3-habis-dibagi-xyyzzx-te-960",
+            "question": "Buktikan (x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x). Tentukan juga hasil baginya !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Terbukti bahwa</strong> [tex]\\rm (x+y+z)^3 - x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm(x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p></p><h2><u>Pendahuluan</u> </h2><p><strong><u>Aljabar</u></strong> merupakan konsep operasi bilangan yang memisalkan dalam sebuah variabel.</p><p><strong><u>\u00bb Beberapa sifat Manipulasi Aljabar</u></strong></p><p>[tex]\\footnotesize\\rm\\to x^2 - y^2 = (x + y)(x - y)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm \\to x^2 + y^2 &amp;=\\rm (x + y)^2 - 2xy\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x - y)\u00b2 + 2xy\\rm{\\blue{...Persamaan~2}}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3-y^3=(x-y)(x^2+xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\rm\\to x^3+y^3=(x+y)(x^2-xy+y^2)[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^2+y^2+z^2 &amp;=\\rm(x+y+z)^2-2(xy+xz+yz)\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x-y-z)^2+2(xy+xz-yz)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^3+y^3+z^3 &amp;=\\rm (x+y+z)^3-3(x+y+z)(xy+xz+yz)+3xyz\\blue{...Persamaan~1}\\\\ &amp;=\\rm (x^2+y^2+z^2)(x+y+z)-(x+y+z)(xy+xz-yz)+3xyz\\blue{...Persamaan~2}\\\\ &amp;=\\rm (x+y+z)\\left[(x^2+y^2+z^2)-(xy+xz+yz)\\right]+3xyz\\blue{...Persamaan~3}\\end{aligned}[/tex]</p><p>[tex]\\footnotesize\\begin{aligned}\\rm\\to x^4+y^4+z^4 &amp;=\\rm (x^2+y^2+z^2)^2-2(xy+xz+yz)^2+4xyz(x+y+z)\\rm{\\blue{...Persamaan~1}} \\\\ &amp;=\\rm (x^3+y^3+z^3)(x+y+z)-(x^2+y^2+z^2)(xy+xz+yz)+xyz(x+y+z)\\blue{...Persamaan~2}\\end{aligned}[/tex]</p><p></p><h2><u>Pembahasan</u></h2><h3>\u261e Diketahui pernyataan :</h3><p>(x+y+z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 habis dibagi (x + y)(y + z)(x + z)</p><p></p><h3>\u261e Ditanya :</h3><p>Buktikan bahwa pernyataan tersebut benar atau salah, Jika benar tentukan hasil baginya!</p><p></p><h3>\u261e Jawab :</h3><p><strong><u>\u00bb Untuk (x + y)(y + z)(x + z) ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize\\begin{aligned}\\rm (x+y)(y+z)(x+z)&amp;=\\rm x^{2}y+xyz+x^{2}z+xz^{2}+xy^{2}+y^{2}z+xyz+yz^{2}\\\\&amp;=\\bf x^{2}y+x^{2}z+xz^{2}+xy^{2}+y^{2}z+yz^{2}+2xyz\\end{aligned}[/tex]</p><p></p><p><strong><u>\u00bb Untuk (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 ekuivalen dengan</u></strong></p><p>[tex]\\footnotesize=\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}[/tex]</p><p>[tex]\\footnotesize=\\rm (x+y+z)(x+y+z)(x+y+z)\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm x^3+x^2 y+x^2 z+x^2 y+xy^2+xyz+x^2 z+xyz+xz^2+x^2 y+xy^2+xyz+xy^2+y^3+y^2 z+xyz+y^2 z+yz^2+x^2 z+xyz+xz^2+xyz+y^2 z+yz^2+xz^2+yz^2+z^3\\blue{-x^{3}-y^{3}-z^{3}}[/tex]</p><p>[tex]\\footnotesize=\\rm\\cancel{x^3+y^3+z^3}+3x^2 y+3x^2 z+3xz^2+3xy^2+3y^2 z+3yz^2+6xyz\\cancel{\\blue{-x^{3}-y^{3}-z^{3}}}[/tex]</p><p>[tex]\\footnotesize=\\bf 3(x^2y+x^2z+xz^2+xy^2+y^2z+yz^2+2xyz)[/tex]</p><p><strong><u>\u00bb Perhatikan bahwa</u></strong></p><p>[tex]\\footnotesize\\rm (x+y+z)^{3}-x^{3}-y^{3}-z^{3}=3(x+y)(y+z)(x+z)[/tex]</p><p><u><strong>\u00bb</strong><strong> </strong><strong>Dari sini dapat kita simpulkan bahwa pernyataan tersebut benar karena</strong></u></p><p>3(x + y)(y + z)(x + z) <strong>habis dibagi</strong> (x + y)(y + z)(x + z) <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Kesimpulan</u></h2><p></p><p><strong>\u2234 Jadi pernyataan tersebut benar bahwa</strong><strong> </strong>[tex]\\rm (x+y+z)^3-x^3-y^3-z^3[/tex] <strong>habis dibagi</strong> [tex]\\rm (x+y)(y+z)(z+x)[/tex] <strong>dengan hasil bagi 3</strong></p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Pelajari Lebih Lanjut :</u></h2><p></p><ol><li>Operasi bentuk Aljabar (Penjumlahan, Pengurangan, Menyederhanakan, Perkalian): https://brainly.co.id/tugas/25699535</li><li>Operasi bentuk Aljabar (Bentuk Fraksi) : https://brainly.co.id/tugas/3542338</li><li>Operasi Bentuk Aljabar (Pengurangan dan Penyederhanaan) : https://brainly.co.id/tugas/25699589</li></ol><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p><h2><u>Detail Jawaban</u></h2><p></p><p>Mapel : Matematika</p><p>Kelas : VIII</p><p>Materi : Operasi Bentuk Aljabar - Bab 1</p><p>Kode Kategorisasi : 8.2.1 (Kelas 8)</p><p>Kode Mapel : 2</p><p>Kata Kunci : Pembuktian Langsung, Manipulasi Aljabar, Habis bagi</p><p>\u270e ||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1||\u25a1\u25a1||\u25a1||\u25a1||\u25a1||\u25a1|| \u270e</p>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h3>\u27a1\ufe0f Pendahuluan </h3><p>Perkalian aljabar dengan dua suku maka</p><p>(a +  b) (c + d) = a(c + d) + b(c + d)</p><p>Pemfaktoran</p><p>Aljabar ax\u00b2 + bx + c maka kita cari angka jika dikalin c dan jika ditambah b</p><p>Caranyaubah bentuk aljabar dengan perkalian a(c + d) terlebih dahulu setelah itu di sederhanakan</p><p>Kemudian kita cari angka yang bisa di faktorkan sehingga bisa ubah persamaan tersebut.</p><p>Yang ketiga hilangkan salah satu variabel untuk mencari variabel pertama setelah itu di substitusi kan</p><p>Dalam perkalian aljabar maka kita kalikan satu persatu setelah kita sederhanakan, dankita cari nilai dari pemangkatan aljabar tersebut setelah itu kita sederhanakan.</p><p></p><h3>\u27a1\ufe0fPenyelesaian soal </h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><p>Buktikan : (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis..</p><p></p><p><strong>Ditanya</strong><strong> </strong><strong>:</strong></p><ul><li>Pembuktian x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) habis </li></ul><p></p><p><strong> </strong><strong>Jawab</strong><strong> </strong><strong>:</strong></p><ul><li>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</li></ul><p></p><h3><strong>\u27a1\ufe0f</strong><strong> </strong><strong>P</strong><strong>embahasan</strong><strong> </strong></h3><p><strong># (x + y + z)\u00b3</strong></p><p>= (x + y + z)(x + y + z)(x + y + z)</p><p>=(x\u00b2 + xy + xz + xy + y\u00b2 + yz + xz + yz + z\u00b2)(x + y + z)</p><p>=(x\u00b2 + y\u00b2 + z\u00b2 +2xy + 2xz + 2yz)(x + y + z)</p><p>=x\u00b3 + x\u00b2y + x\u00b2z + xy\u00b2 + y\u00b3 + y\u00b2z + xz\u00b2 + yz\u00b2 + z\u00b3 + 2x\u00b2y + 2xy\u00b2 + 2xyz + 2x\u00b2z + 2xyz + 2xz\u00b2 + 2xyz + 2y\u00b2z + 2yz\u00b2</p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz</p><p><strong>#(x + y) (y + z) (z + x) =</strong></p><p>(xy + xz + y\u00b2 + yz) (z + x )</p><p>= xyz + x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + xyz</p><p>= x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p><strong>Maka </strong></p><p>= (x + y + z)\u00b3 - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x) </p><p>= x\u00b3 + y\u00b3 + z\u00b3 + 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz - x\u00b3 - y\u00b3 - z\u00b3 \u00f7 (x + y) (y + z) (z + x)</p><p>= 3x\u00b2y + 3x\u00b2z + 3xy\u00b2 + 3y\u00b2z + 3xz\u00b2 + 3yz\u00b2 + 6xyz \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= 3(x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz) \u00f7 x\u00b2y + xz\u00b2 + x\u00b2z + y\u00b2z + xy\u00b2 + yz\u00b2 + 2xyz</p><p>= <strong>3</strong></p><p></p><h3><strong>Kesimpulan</strong><strong> </strong><strong>:</strong></h3><p>x+y+z)^3 - x^3-y^3-z^3 habis dibagi (x+y)(y+z)(z+x) terbukti hasilnya 3</p><h2>__________________</h2><h3>Pelajari lebih lanjut :</h3><ul><li>Rumus-Rumus Turunan Fungsi Aljabar https://brainly.co.id/tugas/22162107</li><li>Jelaskan pengertian yg paling mendasar dari Aljabar! https://brainly.co.id/tugas/23563280</li><li>Unsur unsur aljabar dan macam macam suku aljabar https://brainly.co.id/tugas/3725097</li></ul><p></p><h3>Detail Jawaban :</h3><p>Mapel       : Matematika </p><p>Materi       : 8 SMP </p><p>Bab            : Operasi Bentuk Aljabar </p><p>Kode Kategorisasi : 8.2.1</p><p>Kata Kunci : Manipulasi Bentuk Dari Aljabar.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus2-perbandingan-trigonometri-di-berbagai-kuadran-866",
+            "question": "Rumus2 perbandingan trigonometri di berbagai kuadran",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kuadran 1<br>sin a = y/r<br>cos a = x/r<br>tan a = y/x<br><br>kuadran 2<br>sin a = y/r<br>cos a = -x/r<br>tan a = y/-x<br><br>kuadran 3<br>sin a = -y/r<br>cos a = -x/r<br>tan a = y/x<br><br>kuadran 4<br>sin a = -y/r<br>cos a = x/r<br>tan a = -y/x<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-p-adalah-pernyataan-bernilai-benar-q-bernilai-salah-d-884",
+            "question": "Diketahui P adalah pernyataan bernilai benar, q bernilai salah, dan r bernilai benar.Tentukan nilai kebanaran dari pernyataan berikut ini!    a.-p\u2227-q\u00a0 b.(r\u2227-q) \u2228-r\u00a0 c.(p\u2227-r)\u21d2q",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. -p\u2227-q = S\u2227B = S<br>b. (r\u2227-q)\u00a0\u2228-r = \u00a0(B\u2227B)\u2228S = B\u2228S = B<br>c. (p\u2227-r)\u00a0\u21d2q = B\u2227S\u21d2B = S\u21d2B = B",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ubahlah-sudut-sudut-berikut-ke-bentuk-radian-a45-derajat-b36-d-882",
+            "question": "Ubahlah sudut-sudut berikut ke bentuk radian. a.45 derajat b.36 derajat c.87,4 derajat d.0,54 derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna 1rad=180 derajat,<br>a. 45/180 = 0,25 rad<br>b. 36/180= 0,2 rad<br>c. 87,4/180= 0,48555556 rad<br>d. 0,54/180= 0,003 rad<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus 1 radian =\u00a0[tex] \\frac{360}{2 \\pi } [/tex] derajat<br><br>a.45 derajat =&gt; 360 x 45 / 2\u03c0 = 25 446,90049<br>b.36 derajat =&gt;\u00a0360 x 36 / 2\u03c0 = 20 357, 5204<br>c.87,4 derajat =&gt;\u00a0360 x 87,4 / 2\u03c0 = 49 423,53563<br>d.0,54 derajat =&gt;\u00a0360 x 0,54 / 2\u03c0 = 305,36281",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727",
+            "question": "Temukan grafik fungsi kuadrat f(x) = 4x2 - 8x +\r\n 3\u00a0 dari grafik fungsi kudrat \u00a0g(x) = 4x2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f\u00a00\u00a0g =\u00a04(4x^2)^2 - 8(<span>4x^2)</span>\u00a0+3 = 64x (4x^2-1)",
+                    "attachments": [
+                        "answer-attachments/temukan-grafik-fungsi-kuadrat-fx-4x2-8x-3-dari-grafik-f-727-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668",
+            "question": "Gambarkanlah grafik fungsi kuadrat di bawah ini. ( untuk setiap X bilangan real )    a. f(x) = 3x\u00b2 + 5x - 4 , x \u2208 R.\r\nb. f(x) = -2x\u00b2 - 3x + 7 , x \u2208 R.\r\n\r\nmohon jawabannya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ini aja contek bro :D Punya gue nih. 100% benar.<br>Grafik soal b terspisah yah!!",
+                    "attachments": [
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-1.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-2.jpg",
+                        "answer-attachments/gambarkanlah-grafik-fungsi-kuadrat-di-bawah-ini-untuk-setiap-x-668-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-nilai-sinus-cosinus-tangen-untuk-setiap-titik-yang-di-497",
+            "question": "Tentukan nilai sinus, cosinus, tangen untuk setiap titik yang di sajikan berikut :    A. P( 5.12 )\r\n B. Q(-5.2 , 7.2)\r\n C. R(-5.2-)\r\n D. T(3.5 , -7.75)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. P(5, 12) ==&gt; P(x, y)<br>x = 5, y = 12, dengan teorema phytagoras didapat r = 13<br>sin a = y/r = 12/13<br>cos a = x/r = 5/13<br>tan a = y/x = 12/5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-299",
+            "question": "suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . . Pake cara ? Yang jwab Thanks yah !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/4 , 2/5 , 3/6 , 4/7 , ...<br>U25 ?<br><br>U1=a=1/4<br>U2=a+b=2/5<br><br>cari b<br>b = U2 - U1<br>b = 2/5 - 1/4<br>b = 3/20<br><br>1/4 + 3/20 = 5+3/20 = 8/20 = 2/5<br>nah, jadi ini termasuk deret aritmetika, karna deret aritmetika, maka memakai rumus<br>Un = a + (n-1)b<br>U25 = a + (25-1)b<br>U25 = a + 24b<br>U25 = 1/4 + 24(3/20)<br>U25 = 1/4 + 72/20<br>U25 = 5+72/20<br>U25 = 77/20<br><br><span>CMIIW ^_^<br></span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

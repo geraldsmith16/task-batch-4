@@ -1,0 +1,148 @@
+{
+    "question": "Cara mencari rasio dari suatu barisan geometri",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Cara mencari rasio dari suatu barisan geometri. </strong>Cara yang biasanya dipakai untuk mencari rasio dalam barisan geometri adalah dengan cara membagi dua buah suku pada barisan geometri tersebut.\n</p><p>Barisan geometri adalah barisan yang antar dua suku berdekatannya memilki perbandingan yang sama.\n</p><p>Rumus suku ke n \u00a0\n</p><ul><li>Un = ar\u207f\u207b\u00b9\n</li></ul><p>Rumus jumlah n suku pertama\n</p><ul><li>Sn = [tex]\\frac{a(r^{n} - 1)}{r - 1}[/tex]\n</li></ul><p>Keterangan\n</p><ul><li>a = suku pertama\n</li><li>r = rasio \u21d2 r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{U_{3}}{U_{2}} [/tex] = ....\n</li></ul><p></p><h3>Pembahasan\n</h3><p></p><p>Ada tiga tipe soal dalam mencari rasio pada berisan geometri, yaitu\n</p><p></p><p><strong>1. Diketahui barisan bilangannya \u00a0</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Rasio dari barisan geometri: 2, 6, 18, 54, \u2026 adalah \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{6}{2} = 3 [/tex]\n</p><p></p><p>b) Rasio dari barisan geometri: 24, 12, 6, 3, \u2026\n</p><p><strong>Jawab\n</strong></p><p>r = [tex]\\frac{U_{2}}{U_{1}} = \\frac{12}{24} = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>2. Diketahui dua suku pada barisan geometri\n</strong></p><p><strong>Contoh:\n</strong></p><p></p><p>a) Jika suku ke 3 dan suku ke 5 pada barisan geometri berturut-turut adalah 7 dan 63, maka tentukan rasio dari barisan tersebut jika r &gt; 0!\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{3}} = \\frac{63}{7} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar^{2}} = 9 [/tex]\n</p><p>r\u00b2 = 3\u00b2\n</p><p>r = 3\n</p><p></p><p>b) Pada barisan geometri diketahui U\u2082 = 48 dan U\u2085 = 6, maka rasio barisan geometri tersebut adalah \u2026.\n</p><p><strong>Jawab\n</strong></p><p>[tex]\\frac{U_{5}}{U_{2}} = \\frac{6}{48} [/tex]\n</p><p>[tex]\\frac{ar^{4}}{ar} = \\frac{1}{8} [/tex]\n</p><p>[tex]r^{3} = (\\frac{1}{2})^{3} [/tex]\n</p><p>[tex]r = \\frac{1}{2} [/tex]\n</p><p></p><p></p><p><strong>3) Jika diketahui Sn dan S\u2082n</strong>, maka dapat menggunakan rumus\n</p><ul><li>1 + r\u207f = [tex]\\frac{S_{2n}}{S_{n}} [/tex]\n</li></ul><p><strong>Contoh\n</strong></p><p>Jika pada barisan geometri diketahui S\u2083 = 4 dan S\u2086 = 112, maka rasio barisan tersebut adalah \u2026\n</p><p><strong>Jawab \u00a0</strong></p><p>1 + r\u00b3 = [tex]\\frac{S_{6}}{S_{3}} [/tex]\n</p><p>1 + r\u00b3 = [tex]\\frac{112}{4} [/tex]\n</p><p>1 + r\u00b3 = 28\n</p><p>r\u00b3 = 28 \u2013 1\n</p><p>r\u00b3 = 27\n</p><p>r\u00b3 = 3\u00b3\n</p><p>r = 3\n</p><p></p><h3>Pelajari lebih lanjut \u00a0 \u00a0 \u00a0</h3><p></p><p>Contoh soal lain tentang barisan geometri\n</p><ul><li>Nilai suku ke 8 dari barisan 64, 32, 16, 8, ....: https://brainly.co.id/tugas/2106409\n</li><li>Tali dipotong 6 bagian: brainly.co.id/tugas/16710159\n</li><li>Rasio: brainly.co.id/tugas/8859963\n</li></ul><p></p><p>------------------------------------------------ \u00a0 \u00a0</p><p></p><h3>Detil Jawaban \u00a0 \u00a0 \u00a0</h3><p></p><p><strong>Kelas </strong>: 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><p></p><p><strong>#JadiRankingSatu\n</strong></p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dua-buah-jam-dinding-berbentuk-lingkaran-perbandingan-diametern-328",
+            "question": "Dua buah jam dinding berbentuk lingkaran , perbandingan diameternya adalah 1:4 ,bagaimana dengan perbandingan kelilingnya ? jelaskan !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Saya pakai permisalan. 1:4 itu keduanya dikali 7 jadi 7:28<br>maka keliling 1 = 22/7 x 7 = 22<br>keliling 2 = 22/7 x 28 = 88<br>maka perbandingannya 22:88 dibagi 22 maka 1:4<br>Mengapa sama? karena yang dipakai untuk mencari keliling lingkaran adalah diameternya jadi perbandingannya tetap sama<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diameter 1:4<br>[tex] \\pi [/tex] x d =\u00a0[tex] \\pi [/tex] x 4d<br>1:4<br>jadi kesimpulannya tidak ada perubahan",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-ab-5-cm-panjang-busur-cd-8-cm-dan-sudut-aob-15-608",
+            "question": "Panjang busur AB =5 cm, panjang busur CD =8 cm, dan sudut AOB =15\u00b0, maka besar sudut COD adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AB = 5 cm<br>CD = 8 cm<br>AOB = 15 derajat<br>AOB/ COD = AB/ CD<br>COD= AOB. CD/ AB<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 = 15. 8 / 5<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 24 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisi2-suatu-segitiga-sembarang-membentuk-barisan-aritmatika-jik-801",
+            "question": "sisi2 suatu segitiga sembarang membentuk barisan aritmatika . jika sisi terpendek 6cm dan sisi terpanjang 14 cm,maka sisi\u00a0keliling segitga tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui sisi terpendek =\u00a0U1 = a = 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi terpanjang =\u00a0U3 = 14<br>Ditanya keliling?<br><br>pertama harus mencari \u00a0beda,<br>Un = a + (n - 1)b misalkan menggunakan U3<br>U3 = 6 + (3 - 1)b<br>14 \u00a0= 6 + 2b<br>14 - 6 = 2b<br>\u00a0 \u00a0 \u00a0 8 = 2b<br>\u00a0 \u00a0 \u00a0 b = 8/2<br>\u00a0 \u00a0 \u00a0 b = 4<br><br>berarti sisi yang belum diketahui adalah U2<br>menggunakan rumus Un<br>Un = a + (n - 1)b<br>U2 = 6 + (2 - 1) 4<br>\u00a0 \u00a0 \u00a0= 6 + 4<br>\u00a0 \u00a0 \u00a0= 10<br><br>keliling segitiga = sisi + sisi + sisi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 6 + 10 + 14<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 30 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-x-yang-memenuhi-persamaan-14-x-10-23x-5-adalah-mo-758",
+            "question": "Nilai x yang memenuhi persamaan 1/4 (x-10) = 2/3x-5 adalah.... Mohon dibantu ya tugas pr saya..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/4x-5/2= 2/3x-5<br>1/4x-2/3x=-5-5/2<br>-5/12x= -5/2<br>-5x=-30<br>x= 6",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/4x - 10/4 = 2/3x - 5<br>1/4x - 2/3x = -5 + 10/4<br>-5/12 x = -5/2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = -5/2 : -5/12<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0 x = 6<br>\u00a0<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bangun-ruang-gabungan-dari-balok-dan-limas-dengan-ukuran-b-828",
+            "question": "sebuah bangun ruang gabungan dari balok dan limas dengan ukuran balok 10 cm x 10 cm x 12 cm dan tinggi limas 12 cm. Sisi bagian atas balok berimpit dengan alas limas, Luas permukaan ruang gabungan tersebut? Tolong bantu ya gan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>luas bangun gabungan, dapat dicari dengan menjumlah luas masing\" bangun dan dikurangi luas sisi yang berhimpit</p><h3>Pembahasan</h3><p>luas permukaan balok tanpa tutup\u00a0</p><p>= (pxl) + 2x(pxt) + 2x(lxt)</p><p>= (10x10) + 2x(10x12) + 2x(10x12)</p><p>= 100 + 240 + 240</p><p>= 580 cm\u00b2</p><p>luas selimut limas</p><p>(cari tinggi sisi tegak dg phitagoras) </p><p>tinggi sisi tegak = \u221a(12^2 + 5^2) </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a(144 + 25)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u221a169</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 cm</p><p>luas selimut limas</p><p>= 4 x 1/2 x 10 x 13</p><p>= 2 x 130</p><p>= 260 cm\u00b2</p><p>luas permukaan bangun = 580 + 260 = 840 cm\u00b2</p><h3>Pelajari Lebih Lanjut</h3><p>luas permukaan bangun ruang sisi datar dapat disimak di </p><p>https://brainly.co.id/tugas/14475</p><p>luas permukaan bangun dg sisi lengkung dapat disimak di</p><p>https://brainly.co.id/tugas/3627145</p><p>https://brainly.co.id/tugas/3388260</p><h3>=================================</h3><h3>Detail Jawaban</h3><p><strong>kelas </strong>: 6</p><p><strong>mapel </strong>: matematika</p><p><strong>kategori </strong>: luas dan volume</p><p><strong>kata kunci </strong>: luas gabungan</p><p><strong>kode </strong>: 6.2.4</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L P balok tanpa tutup = (K \u00d7 t) + (s \u00d7 s)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (4 \u00d7 10 \u00d7 12) cm\u00b2 + (10 \u00d7 10) cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 480 cm\u00b2 + 100 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 580 cm\u00b2<br><br>sisi tegak limas = m<br>m\u00b2 = (s/2)\u00b2 + t\u00b2<br>\u00a0\u00a0 \u00a0 = (10/2)\u00b2 + 12\u00b2<br>\u00a0\u00a0 \u00a0 = 25 + 144<br>\u00a0\u00a0 \u00a0 = 169<br>\u00a0m = \u221a169<br>\u00a0m = 13 cm<br><br>L limas tanpa alas = 4 \u00d7 1/2 \u00d7 s \u00d7 m<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 4 \u00d7 1/2 \u00d7 10 \u00d7 13 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 260 cm\u00b2<br><br>L P gabungan = 580 cm\u00b2 + 260 cm\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 840 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921",
+            "question": "PANJANG DIAMETER ALAS KALENG SUSU ADALAH 7.4 CM DAN TINGGI 7,5 CM LABEL KALENG SUSU YANG SEDANG DI BUKA TERBUAT DARI LEMBARAN KERTAS TENTUKAN:    * BENTUK LABEL\r\n*UKURAN LABEL\r\n*LUAS LABEL",
+            "attachments": [
+                "question-attachments/panjang-diameter-alas-kaleng-susu-adalah-74-cm-dan-tinggi-75-cm-921-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "* selimut tabung\n* 2pi.r.t = 2 . 3,14. 3,7 . 7,5 = 174,27\n* sama dengan ukuran label",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lingkaran-luasnya-1256-cm2-jika-jari-jari-lingkaran-itu-d-133",
+            "question": "suatu lingkaran luasnya 1.256 cm2. jika jari jari lingkaran itu dikurangi 6 maka luas lingkaran sekarang adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "munkin klo di itung itung jasil nya 622 soalnta1256:2=628-6=622",
+                    "attachments": []
+                },
+                {
+                    "answer": "1256 : 3.14 = 400<span></span> .<br>Akar dari 400 = 20cm .<br>20-6 = 14 cm<br>22per7 dikali 14 dikali 14 = 616 cm persegi.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sebuah-lingkaran-yg-berpusat-di-titik-p-berjari-jari-28-365",
+            "question": "Diketahui sebuah lingkaran yg berpusat di titik p berjari jari 28 cm. Jika titik A dan B terletak pada lingkaran sehingga APB= 180 derajat. Hitunglah luas juring APB ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "rumus luas x sudut juring : 360<br>luas = pi r^2<br>l= 3.14 x 28 x 28<br>juring\u00a0= 2461.76 x 180 : 360<br>juring = 1230.88 :)<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/4.22/7.28=66,jadi luas lingkaran 66 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "banyak-sisi-dan-rusuk-pada-prisma-dengan-alas-segi-7-adalah-a-519",
+            "question": "Banyak sisi dan rusuk pada prisma dengan alas\u00a0segi 7 adalah:    A. 8 dan 14\r\nB. 9 dan 14\r\nC. 8 dan 21\r\nD. 9 dan 21",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Banyak sisi dan rusuk pada prisma dengan alas segi 7</strong> adalah 9 dan 21. <strong>Prisma</strong> merupakan salah satu contoh dari bangun ruang. <strong>Prisma</strong> adalah bangun ruang yang dibatasi oleh dua buah sisi yang sejajar dan kongruen sebagai sisi alas dan sisi atas, serta sisi-sisi tegak yang berbentuk persegi panjang sebagai sisi selimut. <strong>Unsur-unsur pada prisma</strong> terdiri dari rusuk, sisi (bidang) dan titik sudut. \u00a0Pada <strong>prisma segi n beraturan</strong>, memiliki\n</p><ul><li>Sisi sebanyak (n + 2) buah\n</li><li>Rusuk sebanyak (3n) buah\n</li><li>Titik sudut sebanyak (2n) buah\n</li></ul><br><h3>Pembahasan\n</h3><br><p>Pada prisma segi 7 \u21d2 \u00a0<strong>n = 7\n</strong></p><br><p><strong>Banyak sisi \u00a0</strong></p><p>= (n + 2) buah \u00a0</p><p>= (7 + 2) buah\n</p><p>= <strong>9 buah sisi\n</strong></p><br><p><strong>Banyak rusuk\n</strong></p><p>= 3n buah \u00a0</p><p>= 3(7) buah\n</p><p>= <strong>21 buah rusuk</strong></p><br><p><strong>Banyak titik sudut\n</strong></p><p>= 2n buah\n</p><p>= 2(7) buah\n</p><p>= 14 buah titik sudut</p><br><p>Jadi <strong>banyaknya sisi dan rusuk pada prisma dengan alas segi 7</strong> adalah <strong>9 buah sisi</strong> dan <strong>21 buah rusuk</strong> </p><p><strong>Jawaban D</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang banyak rusuk dan sisi pada prisma\n</p><p>https://brainly.co.id/tugas/14591733\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 8\n</p><p><strong>Mapel</strong> : Matematika\n</p><p><strong>Kategori</strong> : Bangun Ruang\n</p><p><strong>Kode</strong> : 8.2.8\n</p><br><p><strong>Kata Kunci</strong> : Banyaknya rusuk dan sisi prisma segi-7\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "andi-memiliki-seutas-tali-yang-panjangnya-24mjika-tali-tsb-dipot-336",
+            "question": "andi memiliki seutas tali yang panjangnya 24m.Jika tali tsb dipotong-potong dengan panjang masing-masing 3/4m,maka banyak potongan tali adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "banyak tali = 24 : 3/4<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  =24 \u00d7 4/3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =32 potongan tali<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24 x 3 / 4 = 72 / 4 = 18<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "Yang bisa menjelaskan sifat sifat rangkaian rlc siapa??",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "memiliki karakteristik yang tentu saja mempunyai nilai ata besaran tersendiri. Salah satunya adalah tegangan DC yang biasa disebut tegangan searah dimana dalam tegangan ini mempunyai polaritas yang sama yaitu positif dan negatif. Pada tegangan ini arus akan mengalir dari tegangan bernilai positif ke negatif yang tidak mempunyai phase. Sementara untuk tegangan AC yang juga disebut tegangan bolak-balik, mempunyai dua polaritas yang selalu berubah dari negatif ke positif serta sebaliknya yang di ukur dari Neutral. Pada tegangan AC ini terdapat frekuensi 50 H dan 60 Hz.Anda bisa mengubah tegangan DC menjadi AC dengan menggunakan alat Switching inverter. Pada alat ini dua sumber tegangan dipasang sekaligus. Alat ini memungkinkan untuk menghidupkan atau memindah ke arus battery (DC) apabila arus listrik PLN padam. Sementara keadaan akan terbalik jika listrik PLN kembali menyala. Sedangkan untuk mengubah sumber AC menjadi DC menggunakan alat yang disebut dioda atau penyerah. Komponen ini hanya dilalui oleh arus dari satu arah saja yaitu Anoda ke Katoda.<span>Ada dua jenis cara merangkai RLC yang biasanya di gunakan untuk perangkat elektronik. Seri dan paralel. Seperti apa kedua\u00a0karakteristik rangkaian ini ? Untuk Rangkaian R-L-C paralel adalah terjadi proses percabangan arus dari sumber menjadi tiga bagian yang menuju ke resistor (iR), induktor (iL) dan juga kapasitor (iC). Dan tegangan pada resistor, induktor dan kapasitor memiliki nilai atau besaran yang sama dengan sumber tegangan (v). Sementara untuk Rangkaian R-L-C yang dirangkai secara seri, sifat rangkaian ini memiliki sebuah resistor dan juga sebuah induktor dimana dihubungkan dengan sumber tegangan bolak-balik sinusioda yang pembagian tegangannya pada komponen resistor (vR), induktor (vL) dan juga kapasitor (vC) secara vektoris. Arus (i) yang mengalir pada hubungan seri juga sama besar. Dan tidak jarang juga kedua rangkaian ini akan digabungkan sesuai dengan kebutuhan dan juga fungsi yang teerdapat di dalam perangkat eletronik tersebut.</span>",
+            "attachments": []
+        },
+        {
+            "answer": "<span>Rangkaian RLC adalah rangkaian\u00a0 yang terdiri dari resistor, induktor,dan\nkapasitor, dihubungkan secara seri atau paralel. Mengapa di namakan RLC, karena\nnama ini menjadi simbol listrik biasa untuk ketahanan, induktansi dan\nkapasitansi masing-masing. Rangkaian ini membentuk osilator harmonik dan akan\nberesonansi hanya dalam cara yang sama sebagai rangkaian LC.</span>\n\n<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapakah-besar-momentum-sebuah-mobil-yang-massanya-1-ton-yang-be-165",
+            "question": "Berapakah besar momentum sebuah mobil yang massanya 1 ton yang bergerak dengan kelajuan 36 km/jam!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "diket: m = 1 ton =1000 kg<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 v= 36km/jam= 10km/s<br>ditanya: p..?<br>jawab : p=m.v<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=1000.10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=10000 kg m/s<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui: m= 1 ton=1000 kg<br>360km/jam=36000/3600=10 m/s<br>ditanya: p=....?<br>p=m*v<br>p=1000*10<br>p=10000 kg m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batang-homogen-massa-4-kg-dan-panjangnya-120-cm-batang-ter-613",
+            "question": "sebuah batang homogen massa 4 kg dan panjangnya 120 cm batang tersebut diputar dengan sumbu putar terletak pada 40 cm dari salah satu ujungnya hitunglah momen inersia dari batang homogen itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan teorema sumbu sejajar,\n\nI = Io + m r\u00b2\n\nI = (1/12)mL\u00b2 + m r\u00b2\n\nI = (1/12)(4)(1.2)\u00b2 + 4 (\u00bd * 1.2 - 0.4)\u00b2\n\nI = 0.64 kg m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-batang-tipis-dengan-panjang-l-dan-massa-m-dapat-berputar-pa-267",
+            "question": "suatu batang tipis dengan panjang L dan massa m dapat berputar pada sumbu yang terletak di ujung batang. pada awalnya batang berada pada posisi horizontal dan kemudian di lepas. pada saat batang membuat sudut \u0424 (tetha) dengan arah vertikal, percepatan sudut rotasi batang adalah???? GPL (GAK PAKE LAMA)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penyelesaian :<br>letak titik pusat massa batang L/2 dari sumbu rotasi<br>I batang terhadap ujung = 1/3 mL\u00b2<span><br>Maka persamaannya :<br>\u03a3T = I \u03b1\u00a0, atau :</span><br>mg sin \u03b8\u00a0\u00d7<span>\u00a0L/2 = 1/3 m L\u00b2 \u03b1\u00a0\u00a0(hilangkan massanya (m))</span><br>maka menjadi :<br><br>[tex]g.sin\\theta* \\frac{L}{2}  =  \\frac{1}{3}  L^{2}  \\alpha [/tex]<br><br>[tex] \\frac{g.sin\\theta}{1/3} =  \\frac{L^{2} \\alpha }{L/2}  [/tex]<br><br>[tex]  \\alpha = \\frac{3.g.Sin\\theta}{2L} [/tex]<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-proses-termodinamika-dalam-kehidupan-sehari-hari-721",
+            "question": "Contoh proses termodinamika dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh proses termodinamika dalam kehidupan sehari-hari adalahpanas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-massa-5-kg-meluncur-pd-bidang-miring-licin-y-496",
+            "question": "sebuah benda dengan massa 5 kg meluncur pd bidang miring licin. yang membentuk sudut 60 derajat terhadap horizontal. jika benda bergeser sejauh 5M, berapa usaha yg dilakukan oleh gaya berat (q= 10m/s\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kls 1 sma bljr yang kya gini kn ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "w= f.s cos 60<br>\u00a0 = 5x10x5x1/2V3<br>\u00a0 =250V3/2<br>\u00a0=125V3<br><br><br>ket : V = akar<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "es-bermassa-m-gram-bersuhu-0c-dimasukkan-ke-dlm-air-massa-340-g-183",
+            "question": "Es bermassa M gram bersuhu 0\u00b0C dimasukkan ke dlm air massa 340 gram suhu 20\u00b0C yang ditempatkan pada bejana khusus. anggap bejana tdk menyerap/melepaskan kalor.    jika L es = 80 kal g\u207b\u00b9 , C air = 1 kal \u00b0C\u207b\u00b9 , semua es mencair dan kesetimbangan termal dicapai pada suhu 5\u00b0C, maka massa es (M) adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:<br>T es =\u00a0<span>0\u00b0C\u00a0<br>m air = 340 gr<br>T air = 2</span><span>0\u00b0C\u00a0<br>L es = 80 kal g^-1<br>c air = 1 kal^-1\u00a0</span><span>\u00b0C^-1<br>T = 5</span><span>\u00b0C\u00a0</span><span><br><br>m es . . .?<br><br>Jawab:<br>m air . C air . (T air - T) = m es . L es + m es . C air (T - T es)<br>340 . 1 . (20 - 5) = m es . 80 + m es (5 - 0)<br>340 . 15 = 80 m es + 5 m es<br>5100 = 85 m es<br>m es = 5100/85<br>\u00a0 \u00a0 \u00a0 \u00a0 = 60 gr</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233",
+            "question": "tentukan letak titik berat sebuah kawat yang berupa busur lingkaran dari titik pusat kelengkungannya jika diketahui sudut busur tersebut 60 derajat dan jari jarinya R.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XI</strong><br><strong>Pelajaran \u00a0 \u00a0: Fisika</strong><br><strong>Kategori \u00a0 \u00a0 \u00a0: Titik Berat</strong><br><strong>Kata Kunci \u00a0: kawat, busur, letak titik berat</strong><br><br><em>Pembahasan pada gambar terlampir\u00a0</em><br><br>",
+                    "attachments": [
+                        "answer-attachments/tentukan-letak-titik-berat-sebuah-kawat-yang-berupa-busur-lingkar-233-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tekanan-atmosfir-kira-kira-100-kpa-berapa-besar-gaya-yang-dikerj-331",
+            "question": "tekanan atmosfir kira-kira 100 kPa. berapa besar gaya yang dikerjakan udara dalam ruangan pada sisi dalam jendela kaca berukuran 40 cm\u00a0\u00d7 80 cm? mengapa kaca tidak pecah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kaca tidak pecah karena adanya pemuaian dan adanya regangan antar celah yang dibuat untuk mengurangi pemuaian\u00a0yang mula mula luasnya 0,32\u00a0<br><br>Dik P = 100 kPa = 100 000 Pascal<br>\u00a0 \u00a0 \u00a0 A = p x l = 0,4 m x 0,8 m = 0,32 m<br>Dit F ?<br>jawab<br>Rumus P = F/A\u00a0<br>100 000\u00a0= F / 0,32<br><br>F =\u00a0\u00a0100 000 . 0,32<br>\u00a0 \u00a0= 32 000 N<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimanakah-prinsip-kerja-termometer-bimetal-dan-termometer-kris-881",
+            "question": "Bagaimanakah prinsip kerja termometer bimetal dan termometer kristalcair",
+            "attachments": [
+                "question-attachments/bagaimanakah-prinsip-kerja-termometer-bimetal-dan-termometer-kris-881-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Bimetal : Prinsipnya, makin besar suhu makin melengkung untuk menunjukkan suhu yang lebih besar. \nKristal cair : terdapat keistal cair yg warnany dpt berubah jka suhu berubah. kristal ini dikemas dlm plastik tipis,utk menukur suhu tubuh,suhu akuarium,dan sebagainya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-definisi-standard-resistor-672",
+            "question": "Apa definisi standard resistor?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "komponen elektronika dua saluran yg didesain untuk menahn arus listrik dg<br>memproduksi penurunn tegangn diantra kedua salurannya sesuai dg arus yg mengalirnya, berdasarkn hukum ohm<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

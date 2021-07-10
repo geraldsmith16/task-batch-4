@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah balok mempunyai luas permukaan 376 cm2. jika panjang balok 10 cm, lebar balok 6 cm, berapakah tinggi balok tersebut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p>Sebuah balok mempunyai luas permukaan 376 cm\u00b2. jika panjang balok 10 cm, lebar balok 6 cm, berapakah tinggi balok tersebut?</p><h3>Pendahuluan</h3><p>Balok adalah bangun ruang yang dibatasi oleh enam buah bidang berbentuk persegi panjang.</p><p><strong>Rumus Balok</strong></p><p>[tex]\\boxed {Volume = p \\times l \\times t}[/tex]</p><p>[tex]\\boxed {LP~ Balok = 2 [(p \\times l) + (p \\times t) + (l \\times t)]}[/tex]</p><p></p><h2>Pembahasan </h2><p>Diketahui : </p><p>Luas permukaan balok = 376 cm\u00b2</p><p>panjang balok = 10 cm</p><p>lebar balok = 6 cm</p><p>Ditanya : </p><p>Tinggi balok ?</p><p></p><h3>Jawab : </h3><ul><li><strong>Menentukan tinggi balok</strong></li></ul><p>LP = 2 [(p \u00d7 l) + (p \u00d7 t) + (l \u00d7 t)]</p><p>376 = 2 [(10 \u00d7 6) + (10 \u00d7 t) + (6 \u00d7 t)]</p><p>[tex]\\displaystyle \\frac{376}{2}[/tex] = 60 + 10t + 6t</p><p>188 = 60 + 16t</p><p>16 t = 188 - 60</p><p>16 t = 128</p><p> \u00a0 \u00a0t = [tex]\\displaystyle \\frac{128}{16}[/tex] </p><p> \u00a0 \u00a0t = 8 cm</p><p>Jadi tinggi balok tersebut adalah 8 cm</p><p></p><p>-----------------------------------------------------------</p><h3>Pelajari lebih lanjut tentang Bangun Ruang Sisi Datar</h3><ol><li>Luas permukaan gabungan balok dan 1/2 tabung \u2192 brainly.co.id/tugas/20793770</li><li>Volume sebuah tenda yang berbentuk prisma tegak segitiga \u2192 brainly.co.id/tugas/8026010</li><li>Luas permukaan limas segiempat \u2192 brainly.co.id/tugas/14410864</li><li>Luas permukaan prisma trapesium \u2192 brainly.co.id/tugas/9624288</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0 : 8 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 \u00a0: Matematika</li><li>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: 8 - Bangun Ruang Sisi Datar</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 8.2.8</li></ul><p></p><p>Semoga bermanfaat</p><p></p>",
+            "attachments": [
+                "answer-attachments/sebuah-balok-mempunyai-luas-permukaan-376-cm2-jika-panjang-balok-827-1.jpg"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-bantuannyaperhatikan-gambar-besar-sudut-poq86-derajat-bes-302",
+            "question": "Mohon bantuannyaperhatikan gambar,    besar sudut POQ=86 derajat besar sudut PSQ sama dengan ?\r\nmohon bantuannya dengan lengkap agar saya mengerti:)",
+            "attachments": [
+                "question-attachments/mohon-bantuannyaperhatikan-gambar-besar-sudut-poq86-derajat-bes-302-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "POQ itu kan sudut pusat. Sedangkan PSQ itu sudut keliling dari Sudut pusat POQ. Sudut kel. = sudut pusat/2=86/2=43",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisi2-suatu-segitiga-sembarang-membentuk-barisan-aritmatika-jik-801",
+            "question": "sisi2 suatu segitiga sembarang membentuk barisan aritmatika . jika sisi terpendek 6cm dan sisi terpanjang 14 cm,maka sisi\u00a0keliling segitga tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui sisi terpendek =\u00a0U1 = a = 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi terpanjang =\u00a0U3 = 14<br>Ditanya keliling?<br><br>pertama harus mencari \u00a0beda,<br>Un = a + (n - 1)b misalkan menggunakan U3<br>U3 = 6 + (3 - 1)b<br>14 \u00a0= 6 + 2b<br>14 - 6 = 2b<br>\u00a0 \u00a0 \u00a0 8 = 2b<br>\u00a0 \u00a0 \u00a0 b = 8/2<br>\u00a0 \u00a0 \u00a0 b = 4<br><br>berarti sisi yang belum diketahui adalah U2<br>menggunakan rumus Un<br>Un = a + (n - 1)b<br>U2 = 6 + (2 - 1) 4<br>\u00a0 \u00a0 \u00a0= 6 + 4<br>\u00a0 \u00a0 \u00a0= 10<br><br>keliling segitiga = sisi + sisi + sisi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 6 + 10 + 14<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 30 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-sepeda-motor-memerlukan-4-liter-bensin-untuk-menempuh-jara-801",
+            "question": "Sebuah sepeda motor memerlukan 4 liter bensin untuk menempuh jarak 144 km.    berapa liter bensinkah yang diperlukan motor tersebut untuk menempuh jarak 54 km?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "144 : 4 = 36 (1liter = 36 km)\n54 km - 36 km = 18 km . (0.5liter)\n\n1liter + 0.5 liter = 1.5 liter .",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya 1,5 Liter :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pak-endang-meminjam-uang-sebesar-800000-pda-sebuah-bank-dan-929",
+            "question": "1. \u00a0pak endang meminjam uang sebesar 800.000 pda sebuah bank dan akan diangsur tiap bulan sbnyk 5 kli. jka bsr bunga pinjaman 14,4% pertahun,,mka bsr angsuran tiap bulannya adlh....    a. 176.000 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 169.600\r\nb. 172.000 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. 165.000\r\n\r\n\r\n2. \u00a0sebuah bank menawarkan modal pinjaman sebsr 1.500.000 yg harus dikembalikan selama 4 bulan. jka bsr angsuran tiap bulan beserta bungany sma dngan 401.250 mka bsr bunga pinjaman pertahun adlh...\r\na. 15%\r\nb. 18%\r\nc. 20%\r\nd. 21%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Diket = 14,4% = 5.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 =\u00a0 800.000 = 160.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0 165.000<br><br>2. a. 15%<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-6-dan-7-dari-barisan-112358-sejalian-caranya-ya-965",
+            "question": "Suku ke 6 dan 7 dari barisan 1,1,2,3,5,8,...\r\nsejalian caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]U_1 = 1 \\\\ U_2 = 1 \\\\ U_n = U_{n-2} + U_{n-1} \\\\ U_6 = U_4 + U_5 = U_4 + U_3 + U_4 = 2U_4 + U_3 = 2U_2 + 3U_3 \\\\ = 5U_2 + 3U_1 = 5*1 + 3*1 = 8 \\\\ U_7 = U_5 + U_6 = U_3 + U_4 + 8 = 2U_3 + U_2 + 8 \\\\= 2U_1 + 3U_2 + 8 = 2*1 + 3*1 + 8 = 13[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "dik : U1 / a=1<br>\u00a0\u00a0 \u00a0 \u00a0 U2 /b =2<br>dit: U6 dan U7?<br>jawab :<br>b= U2-U1= 2-1=1\u00a0 \u00a0 U7=1+(7-1)1<br>\u00a0U6= 1+(6-1)1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =7<br>\u00a0\u00a0 \u00a0 =6<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gabungan-sinar-yang-bersekutu-pada-titik-pangkalnya-disebut-545",
+            "question": "Gabungan sinar yang bersekutu pada titik pangkalnya disebut .....\r\n\r\ntolong dibantu ya ........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Disebut dengan Sudut ...<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawabnya adalah sudut yaitu\n<span>\nSebuah sudut adalah gabungan dua\nbuah sinar tidak kolinier (sinar-sinar itu tidak </span>\n<span>\nterletak pada sebuah garis) yang\nbersekutu pada pangkalnya.\u00a0</span><span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n</span>\n<span>\n\u00a0\u00a0\n</span>\n<span>\n<br></span><span></span><span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-berjari-jari-5-cm-dan-15-cm-hitunglah-perband-219",
+            "question": "Dua buah lingkaran berjari-jari 5 cm dan 15 cm. Hitunglah perbandingan    a. Kedua kelilingnya;\r\n b. Selisih kelilingnya;\r\n c. Kedua luasnya;\r\n d. Selisih luasnya.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika-Bangun Datar<br>Kelas : 1 SMP/VII SMP<br>Pembahasan :<br><br>A. Perbandingan keliling<br>Keliling lingkaran 1 = K1 = 2\u03c0r\u2081 = 2.3,14.5 = 31,4 cm<br>Keliling lingkaran 2 =\u00a0K2\u00a0= 2\u03c0r\u2082 = 2.3,14.15 = 94,2 cm<br>K1 : K2 = 31,4 : 94,2 = 1 : 3<br><br>B. Selisih keliling<br>Selisih = K2 - K1 = 94,2 - 31,4 = 62,8 cm<br><br>C. Perbandingan Luas<br>Luas lingkaran 1 = L1 = \u03c0r\u2081\u00b2 = 3,14.5\u00b2 = 78,5 cm\u00b2<br>Luas lingkaran 2 = L2 = \u03c0r\u2082\u00b2 = 3,14.15\u00b2 = 706,5 cm\u00b2<br>L1 : L2 = 78,5 : 706,5 = 1 : 9<br><br>D. Selisih Luas<br>Selisih = L2 - L1 = 706,5 - 78,5 = 628 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "buatlah-soal-tentang-aritmatika-sosial-dan-jawabannya-997",
+            "question": "Buatlah soal tentang aritmatika sosial dan jawabannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Koperasi sekolah membeli 5 lusin buku tulis dengan harga Rp 22.500,00 tiap lusin.Jika koperasi ingin\u00a0 memperoleh laba sebesar Rp 37.500,00 maka harga jual adalah...<br>Jawaban : <br>Diket : 1 lusin : Rp 22.500,00<br>5 kali Rp 22.500,00 = Rp 112.500<br>Rp 112.500 + Rp 37.500 = Rp 150.00<br>Rp 150.000 : 6 = Rp 2.500<br><br>Jadi harga jual adalah Rp 2.500,00<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24+25+1= 50<br>50-2-0=48<br>5\u00d72\u00d710=100<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-kedua-dan-suku-keenam-suatu-deret-geometri-dengan-155",
+            "question": "Diketahui suku kedua dan suku keenam suatu deret geometri dengan suku positif berturut-turut adalah 6 dan 96. Jumlah lima suku pertama deret tersebut adalah \u2026     DIHARAPKAN PAKE CARA..\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari rasionya terlebih dahulu, untuk mencari rasionya saya punya rumus yaitu r\u00a0= [tex] \\sqrt[n-m]{Un/Um} [/tex]\u00a0dimana n&gt;m maka<br><br>r =\u00a0[tex] \\sqrt[6-2]{96/6} [/tex]<br>r =\u00a0[tex] \\sqrt[4]{16} [/tex]<br>r = 2<br><br>setelah rasionya didapat kita cari U1nya atau a<br><br>U1 = U2/r<br>U1 = 6/2<br>U1 =3<br><br>setelah a dan r nya sudah ketemu kita bisa mencari Sn nya\u00a0<br><br>Sn = a[[tex] r^{n} [/tex] - 1]/ r - 1<br>[tex] S_{5} [/tex]\u00a0= 3[[tex] 2^{5} [/tex] - 1]/ 2-1<br>[tex] S_{5} [/tex] = 3[32-1]/1<br>[tex] S_{5} [/tex] = 3[31]<br>[tex] S_{5} [/tex] = 93<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-lingkaran-masing-masing-berjari-jari-4-cm-dan-6-cm-121",
+            "question": "Dua buah lingkaran masing - masing berjari - jari 4 cm dan 6 cm. hitunglah:     a. perbandingan luasnya\r\n b. selisih luasnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.perbandingan luasnya 16:36<br>b.selisih luasnya \u00a062.8cm<br>Caranya<br>L1:L2<br>[tex] \\pi [/tex] . r\u00b2 :[tex] \\pi [/tex] . r\u00b2<br>[tex] \\pi [/tex] dicoret karena sama<br>r\u00b2 : r\u00b2<br>4\u00b2: 6\u00b2<br>16:36",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

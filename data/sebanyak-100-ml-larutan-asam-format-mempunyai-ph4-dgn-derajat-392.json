@@ -1,0 +1,134 @@
+{
+    "question": "-.sebanyak 100 mL larutan asam format mempunyai Ph=4 DGN DERAJAT IONISASI 0,005.TENTUKAN\u00a0 harga Ka nya. \u00a0 -sebanyak 500 ml larutan asam NH4oh 0,1 M mempunyai Ph=10.Tentukan persentase derajat ionisasi basa tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. pH = 4 = -log [H\u207a]<br>\u00a0\u00a0\u00a0 pH = 4 - log 1 (log 1 sama dengan 0 sehingga jarang digunakan)<br>\u00a0\u00a0 \u00a0 pH = - log 1 x 10\u207b\u2074<br>\u00a0\u00a0 \u00a0 10\u207b\u2074 = \u03b1 M --&gt; M = 10\u207b\u2074/\u03b1 --&gt; M = 10\u207b\u2074/0.005 = 0.02M<br>\u00a0\u00a0 \u00a0 [H\u207a] = \u221aKa x M --&gt; 10\u207b\u2074 = \u221aKa x 0.02 --&gt; Ka = (10\u207b\u2074)\u00b2 / 0.02 = 5 x 10\u207b\u2077<br><br>2. 500ml NH\u2084OH (basa lemah) 0.1 M pH = 10<br>\u00a0\u00a0 \u00a0 pH = 14 - pOH --&gt; pOH = 14 - pH --&gt; pOH = 14 - 10 = 4<br>\u00a0\u00a0 \u00a0 pOH = -log[OH\u207b] = 4 - log 1 = -log 10\u207b\u2074 --&gt; [OH-] = 10\u207b\u2074<br>\u00a0\u00a0 \u00a0 [OH-] = \u03b1 M = \u03b1 0.1 --&gt; \u03b1 = 10\u207b\u2074/0.1 = 10\u207b\u00b3 = 1/1000<br><br>Semoga bermanfaat dan dapat membantu, mohon maaf apabila terdapat kesalahan atau kurang teliti.<br><br><br><br><br><br><br><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "berapa-massa-nh42so4-yang-harus-ditambahkan-kedalam-100-ml-air-158",
+            "question": "Berapa massa (NH4)2SO4 yang harus ditambahkan kedalam 100 ml air,sehingga diperoleh pH=5?? Kb=10^-5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><strong><em>Hidrolisis</em></strong><br></span><strong><em>Kimia XI</em></strong><br><br><br><em>Diketahui</em><br>Garam (NH\u2084)\u2082SO\u2084<br>pH = 5<br>Volum larutan = 100 ml<br>Kb\u00a0NH\u2084OH =\u00a01 x 10\u207b\u2075<br><br><em>Ditanya</em><br>Massa (NH\u2084)\u2082SO\u2084<br><br><em>Penyelesaian</em><br><br><em>Step-1</em><br><em>Penjelasan awal</em><br><br>\u21d2 (NH\u2084)\u2082SO\u2084 merupakan garam terhidrolisis sebagian yang terbentuk dari asam kuat H\u2082SO\u2084 dan basa lemah NH\u2084OH yang tepat bereaksi dan habis tak bersisa.<br>\u21d2 (NH\u2084)\u2082SO\u2084 bervalensi\u00a02 sesuai jumlah kation lemah NH\u2084\u207a.<br>\u21d2 Nilai pH &lt; 7<br><br><em>Step-2</em><br><em>Menghitung konsentrasi</em><br><br>\u21d4 pH = 5<br><br>\u21d4 [H\u207a] = 10\u207b\u2075<br><br>\u21d4 [H\u207a] = \u221a [(Kw/Kb) x (M x valensi)]<br><br>\u21d4 10\u207b\u2075 = \u221a [(10\u207b\u00b9\u2074 / 10\u207b\u2075) x (M x 1)]<br><br>\u21d4 10\u207b\u00b9\u2070 = 10\u207b\u2079\u00a0x M<br><br>M = 10\u207b\u00b9 mol/liter<br><br><em>Step-3</em><br><em>Menghitung massa</em><br><br>Mr (NH\u2084)\u2082SO\u2084 = 2.Ar N + 8.Ar H + Ar S + 4.Ar O<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 2(14) + 8(1) + 32 + 4(16)<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 132<br>\u00a0<br>\u21d4 M = [massa/Mr] x [1000/volum ml]<br><br>\u21d4 10\u207b\u00b9 = [massa/132] x [1000/250]<br><br>\u21d4 10\u207b\u00b9 = [massa/132] x 4<br><br>\u21d4 10\u207b\u00b9 = massa/33<br><br>\u21d4 Massa = 33 x 10\u207b\u00b9\u00a0<br><br><strong>\u2234 Massa (NH\u2084)\u2082SO\u2084 =\u00a03,3 gram\u00a0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-naoh-sebanyak-2-liter-mempunyai-ph-12-log-3-jumlah-mol-304",
+            "question": "Larutan NaOH sebanyak 2 liter mempunyai pH 12 +log 3. jumlah mol NaOH tersebut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.</strong> NaOH termasuk dalam jenis larutan basa kuat. Jumlah mol dapat ditentukan jika konsentrasi basa diketahui. Adapun Konsentrasi dapat ditentukan dari data [OH\u207b] dan valensi basa.\n</p><p></p><h3>Pembahasan\n</h3><p>Langkah awal dalam kaitannya dengan pH adalah menentukan jenis larutan yang diketahui merupakan larutan asam atau larutan basa. Setelah mengetahui jenis larutan kalian juga harus menentukan sifat larutan tersebut termasuk asam basa kuat atau asam basa lemah. Berdasarkan teori Arrhenius disebutkan bahwa asam adalah senyawa yang dapat melepaskan ion H\u207a ketika dilarutkan dalam air. Adapun basa adalah senyawa yang dapat melepas ion OH\u207b ketika dilarutkan dalam air. Berikut pilihan rumus yang dapat digunakan untuk menghitung konsentrasi asam dan basa sesuai dengan kekuatan asam atau basa tersebut. \u00a0\n</p><p>Jika asam kuat : [H\u207a] = Ma x a\n</p><p>Jika basa kuat : [OH\u207b] = Mb x b\n</p><p>Jika asam lemah : [H\u207a] = \u221a(Ka x Ma)\n</p><p>Jika basa lemah : [OH\u207b] = \u221a(Kb x Mb)\n</p><p>Daftar asam kuat: HCl, HBr, HI, H\u2082SO\u2084, HClO\u2084, HNO\u2083\n</p><p>Daftar basa kuat : LiOH, NaOH, KOH, RbOH, CsOH, Mg(OH)\u2082, Ca(OH)\u2082, Sr(OH)\u2082, Ba(OH)\u2082\n</p><p>Selanjutnya jika larutan tersebut merupakan larutan asam maka pH ditentukan dengan \u00a0\n</p><p>pH = - log [H\u207a]\n</p><p>Jika larutan adalah larutan basa maka pH ditentukan dengan\n</p><p>pOH = - log [OH\u207b] \u00a0 =&gt; pH = 14 \u2013 pOH\n</p><p>Pelajari lebih lanjut tentang pH asam basa di: https://brainly.co.id/tugas/21186459. \u00a0</p><p><u><strong>Pada kasus di atas\n</strong></u></p><p>Pada soal diketahui basa NaOH dengan pH 12 + log 3 dengan volume 2 L. Adapun yang ditanyakan adalah jumlah mol dari basa tersebut.\n</p><p>Untuk menentukan jumlah mol NaOH kalian harus mengetahui NaOH termasuk ke dalam basa kuat atau basa lemah untuk menentukan rumus yang dapat digunakan. Jika kalian lihat pada daftar NaOH termasuk ke dalam kelompok basa kuat sehingga kalian dapat menentukan konsentrasi NaOH menggunakan rumus \u00a0</p><p>[OH\u207b] = Mb x b\n</p><p>Kalian dapat menentukan [OH\u207b] menggunakan data pH yang diketahui. Berikut penentuannya:\n</p><p>pH = 12 + log 3\n</p><p>pOH = 14 \u2013 pH\n</p><p>pOH = 14 \u2013 (12 + log 3)\n</p><p>pOH = 2 \u2013 log 3\n</p><p>[OH\u207b] = 3 x 10\u207b\u00b2\n</p><p>Selanjutnya untuk b (valemnsi basa) dapat kalian tentukan dari jumlah OH\u207b dalam larutan yang dapat kalian lihat dari hasil ionisasinya berikut\n</p><p>NaOH \u00a0\u2192 Na\u207a + OH\u207b\n</p><p>Dilihat dari reaksi ionisasi tersebut didapatkan bahwa basa terdapat 1 ion OH\u207b sehingga valensi basa (b) = 1. Selanjutnya kalian dapat menentukan konsentrasi basa dengan rumus berikut:\n</p><p> \u00a0 \u00a0[OH\u207b] = Mb x b\n</p><p>3 x 10\u207b\u00b2 = Mb x 1\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 3 x 10\u207b\u00b2 M\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0Mb = 0,03 M\n</p><p>Selanjutnya kalian dapat menentukan jumlah mol (n) yang terdapat dalam larutan NaOH tersebut menggunakan rumus:\n</p><p>n = M x V = 0,03 x 2 = 0,06 mol\n</p><p>Jadi dapat disimpulkan bahwa jumlah mol yang terdapat dalam 2 L NaOH dengan pH 12 + log 3 adalah 0,06 mol.\n</p><p>Pelajari lebih lanjut tentang konsentrasi dalam satuan molaritas di: https://brainly.co.id/tugas/18990947.\n</p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas:</strong> XI\n</p><p><strong>Mapel:</strong> Kimia\n</p><p><strong>Bab: </strong>larutan asam basa\n</p><p><strong>Kode:</strong> 11.7.5\n</p><p>#AyoBelajar\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilok-dari-naclo-2naclnaclo3-731",
+            "question": "Bilok dari NaClO-2NaCl+NaClO3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaClO\u00a0<br>Biloks Na= +1<br>Biloks Cl= -1<br>Biloks O = -2<br><br>2NaCl<br>Biloks Na= +1<br>Biloks Cl= -1<br><br>NaClO\u2083<br>Biloks Na= +1<br>Biloks O = -2<br>Karena ini bukan senyawa biner (terdiri lebih dari 2 unsur), maka, biasanya unsur yg di tengah yg dicari, karena biloks Na dan O sudah ada diketentuan mencari bilangan oksidasi.<br><br>Karena itu, kita simbolkan Cl dengan huruf &#039;x&#039;<br><br>NaClO\u2083 --&gt;\u00a0 1 + x + -2 (3) *karena unsur O ada tiga* = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 + x - 6 =0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x= +5<br>Jadi, Na= +1<br>\u00a0 \u00a0 \u00a0 \u00a0 Cl= +5<br>\u00a0 \u00a0 \u00a0 \u00a0 O= -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-perhatikan-reaksi-berikut-mno-h-fe-mn-908",
+            "question": "1. Perhatikan reaksi berikut    MnO\u2084\u207b + H\u207a + Fe\u00b2\u207a \u21d2 Mn\u00b2\u207a + H\u2082O + Fe\u00b3\u207a\r\nZat yang bertindak sebagai oksidator adalah ....??\r\n\r\n2.Reaksi berikut dengan perubahan (perbedaan) bilangan oksidasi sebanyak 6 adalah....\r\n\u00a0a. SO\u2084\u00b2\u207b \u21d2\u00a0 SO\u2082\r\n\u00a0b. ClO\u2083\u207b \u21d2 Cl\u207b\r\n\u00a0c. NO\u2083\u207b \u21d2 NO\r\n\u00a0d. I\u2082 \u21d2 2I\u207b\r\n\u00a0e. S\u2082O\u2083\u00b2\u207b \u21d2 2S\r\n\r\n#tolong di jawab ya... secepatnya.... trims :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. 7 + 1 + 2 = 2 + 1 + 3<br><br>jadi yang mengalami oksidasi Fe yang bersifat osidator adalah zat yang mengalami reduksi yaitu MnO4- dari 7 ke 2<br><br>2. ClO3- = Cl-\u00a0<br>\u00a0 \u00a0 \u00a05 \u00a0 \u00a0 \u00a0= -1 \u00a0 jadi oksidasinya 6\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. oksidator itu yang mengalami reduksi alias menyebabkan zat lain teroksidasi. jika oksidator mengalami reduksi maka biloknya turun. bilok Mn dikiri +7 sedangkan dikanan +3 jadi MnO4 mengalami reduksi alias sebagai oksidator.<br>2. a perubahan bilok s dari +6 menjadi + 4\u00a0 perubahannya hanya 2\u00a0 \u00a0 b bilok Cl dari +5 menjadi -1 perubahanya\u00a0 6 c. bilok N dari +5 menjadi +2 perubahannya 3\u00a0  d bilok I dari 0 Ke -1 perubahannya 1 e. bilok S dari +2 ke 0 perubahannya 2 jadi yang perubahannya 6 adalah b ClO3\u207b menjadi Cl\u207b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-senyawa-dianalisis-menghasilkan-komposisi-62079-c-10-34-100",
+            "question": "suatu senyawa dianalisis menghasilkan komposisi 62,079% C, 10, 34% H, 27,59% O. jika 1,45 gram senyawa trsbut diuapkan pada suhu 8o derajat celcius dan tekanan 37cmhg ternyata volumenya 743ml. rumus molekul senyawa nya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Kimia</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Hitungan Kimia (Stoikiometri)</strong><br><strong>Kata Kunci : senyawa, hidrokarbon, perbandingan, tekanan, umum, rumus, empiris, molekul, asam, alkanoat, karboksilat</strong><br><br><strong>Kode : 10.7.7 [</strong><span><strong>Kelas 10 Kimia Bab 7 Stoikiometri]</strong><br><br><u><em>Diketahui</em></u><br>Komposisi C : H : O = 62,079% : 10,34% : 27,59%<br>Massa senyawa = 1,45 gram<br>Tekanan p = 37 cmHg<br>Volum V = 743 ml = 0,743 liter<br>Suhu T = 80</span>\u00b0C<br><br><u><em>Ditanya</em></u><br>(a). Massa molekul relatif (Mr)<br>(b). Rumus empiris<br>(c). Rumus molekul<br><br><u><em>Penyelesaian</em></u><br><br><strong>Step-1</strong><br><strong>Mencari Mr</strong><br><br>Siapkan tekanan dalam satuan atm. 1 atm = 76 cmHg.<br>[tex]p =  37 \\ cmHg \\times \\frac{1 \\ atm}{76 \\ cmHg} =  \\frac{37}{76} \\ cmHg [/tex] atau 0,49 atm.<br>Siapkan suhu mutlak, T = 80 + 273 = 353K.<br><br>Gunakan rumus persamaan umum gas ideal.<br>[tex]pV = nRT[/tex]<br>Keterangan<br>n = jumlah mol, yakni massa per Mr<br>p = tekanan (atm)<br>V = volum (liter)<br>T = suhu mutlak (K)<br>R = tetapan gas umum 0,082<br><br>[tex]pV =  \\frac{massa}{Mr}RT [/tex]<br><br>Jadikan Mr sebagai subyek yang akan dicari.<br>[tex]Mr =  \\frac{massa \\times R \\times T}{pV} [/tex]<br><br>Masukkan data-data soal.<br>[tex]Mr =  \\frac{(1,45)(0,082)(353)}{(0,49)(0,743)}[/tex]<br><br><strong>Diperoleh Mr senyawa karbon tersebut sebesar 116,04 dibulatkan menjadi 116.</strong><br><br><strong>Step-2</strong><br><strong>Menentukan rumus empiris</strong><br>(Ar C = 12; H = 1; O = 16)<br><br>Komposisi C : H : O = 62,079% : 10,34% : 27,59%<br>Perbandingan banyak atom diperoleh dengan membaginya terhadap massa atom relatif (Ar) masing-masing unsur.<br>[tex]C : H : O =  \\frac{62,079}{12} :  \\frac{10,34}{1}  :  \\frac{27,59}{16}  [/tex]<br>C : H : O = 5,17 : 10,34 : 1,72\u00a0<br>Semua dibagi 1,72 sebagai bilangan terkecil.<br>C : H : O = 3 : 6 : 1 (dibulatkan)<br><br><strong>Jadi rumus empirisnya adalah C\u2083H\u2086O.</strong><br><br><strong>Step-3</strong><br><strong>Menentukan rumus molekul\u00a0</strong><br><br>[tex](C_3H_6O)_n = Mr[/tex]<br>[tex](3Ar C \\ + \\ 6ArH \\ + \\ ArO)n = Mr[/tex]<br>[tex][3(12) + 6(1) + 16].n = 116[/tex]<br>58n = 116<br>n = 2<br><br><strong>Sehingga rumus molekulnya adalah\u00a0[tex](C_3H_6O)_2[/tex] atau\u00a0[tex]C_6H_{12}O_2[/tex].</strong><br><strong>Mengikuti deret homolog\u00a0[tex]C_nH_{2n}O_2[/tex] dari asam alkanoat (asam karboksilat).</strong><br><br>__________________<br>Simak lebih lanjut di Brainly.co.id - https://brainly.co.id/tugas/13285810#readmore<br>Ingin mempelajari soal stoikiometri lainnya mengenai pereaksi pembatas dan perhitungan massa endapan dalam suatu reaksi kimia?<br>brainly.co.id/tugas/150723<br>Ingin mengulang berlatih penyetaraan reaksi? <br>brainly.co.id/tugas/24247",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-analisis-suatu-senyawa-diketahui-mengandung-86-karbon-dan-1-603",
+            "question": "Dari analisis suatu senyawa diketahui mengandung 86% karbon dan 14% hidrogen. Jika diketahui Ar H=1 dan C=12, rumus empiris senyawa tersebut adalah....    a. CH2\r\nb. CH2\r\nc. C2H3\r\nd. C2H5\r\ne. C3H5\r\n(*Tuliskan beserta caranya!)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "buat perbandingan<br>C : H = 86 : 14<br>bagi dengan Ar masing2<br>C; H = 86/ 12 : 14/1 = 7,2 : 14<br>buat perbandingan paling sederhana<br>C : H = 7,2 : 14 = 1 : 2<br>maka rumus empirisnya<br>CH2 (B)<br><br>semoga bisa membantu :)<br>beri label terbaik ya :D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-titik-ekivalen-titrasi-hcl-dengan-naoh-berbeda-dengan-tit-832",
+            "question": "mengapa titik ekivalen titrasi HCl dengan NaOH berbeda dengan titik ekivalen titrasi CH3COOH dengan NaOH? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mungkin karena beda keasamannya<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "asetat \u00a0asam lemah sedangkan HCl asam kuat\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-32-gram-serbuk-sulfur-di-reaksikan-dengan-gas-oksigen-me-691",
+            "question": "Sebanyak 32 gram serbuk sulfur di reaksikan dengan gas oksigen menghasilkan gas sulfur dioksida sebanyak 64 gram. Berapakah massa gas oksigen yang bereaksi?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Massa gas oksigen yang bereaksi adalah 32 gram. </strong>Pernyataan yang ada pada soal sesuai dengan hukum Lavoisier. Hukum Lavoisier dikenal juga sebagai hukum kekekalan massa. Massa zat sebelum reaksi sama dengan massa sesudah reaksi.\n</p><p></p><h3>Pembahasan\n</h3><p>Hukum dasar kimia merupakan hukum dasar yang digunakan dalam stoikiometri (perhitungan kimia). Berikut beberapa hokum dasar yang dgunakan dalam penghitungan kimia:\n</p><p><strong>1) Hukum Lavoisier (Kekekalan Massa)\n</strong></p><p>Hukum ini dikenal juga sebagai hokum kekekalan massa. Pada hokum ini dinyatakan bahwa dalam sistem tertutup, massa zat sebelum dan sesudah reaksi adalah tetap. Dalam hal ini, berarti suatu zat yang mengalami reaksi kimia tidak berubah massa. Oleh karena itu, reaktan memiliki massa yang sama dengan produk yang dihasilkannya. Contohnya adalah:\n</p><p>A \u00a0 \u00a0+ \u00a0 B \u00a0 \u00a0 \u00a0 \u2192 \u00a0AB\n</p><p>5 g \u00a0 5 g \u00a0 \u00a0 \u00a0 \u00a0 10 g\n</p><p><strong>2) Hukum Proust (Hukum Perbandingan Tetap)\n</strong></p><p>Hukum Proust menyatakan perbandingan massa unsur-unsur pembentuk suatu senyawa selalu tetap.\n</p><p>Suatu zat yang direaksikan akan selalu memiliki perbandingan yang sama untuk membentuk suatu senyawa. Berikut contoh penerapan hukum perbandingan tetap: \u00a0</p><p>2H\u2082 + \u00a0O\u2082 \u2192 2H\u2082O\n</p><p>1 g \u00a0 \u00a0 \u00a08 g \u00a0 \u00a0 \u00a09 g \u00a0</p><p>2 g \u00a0 \u00a0 16 g \u00a0 \u00a018 g\n</p><p>Perbandingan H dan O pada senyawa I dan II adalah sama yaitu 1 : 8.\n</p><p><strong>3) Hukum Dalton (Hukum Perbandingan Berganda)\n</strong></p><p>Hukum Dalton menjelaskan bahwa dua unsur atau lebih dapat membentuk lebih dari satu senyawa yang berbeda. HUkum ini menyatakan bahwa bila dua unsur dapat membentuk dua senyawa atau lebih, unsur pertama massanya tetap, unsur kedua akan menghasilkan suatu perbandingan bilangan bulat sederhana.\n</p><p>Contoh: \u00a0</p><p>Unsur C dan O dapat membentuk senyawa CO, CO2 dan CO3 dengan nilai C tetap. Oleh karena itu, unsur O pada ketiga senyawa berbanding 1 : 2 : 3.\n</p><p><strong>4) Hukum Gay-Lussac (Hukum Perbandingan Volume)\n</strong></p><p>\"Pada suhu dan tekanan yang sama perbandingan volume gas-gas yang bereaksi dan hasil reaksi berbanding sebagai bilangan bulat\".\n</p><p>Hukum perbandingan volume (Gay Lussac):\n</p><p>(Koef A/ koef B) = (Volume A : volume B)\n</p><p>Contoh: \u00a0</p><p>Jika 20 L nitrogen direaksikan dengan hidrogen sesuai reaksi berikut, \u00a0</p><p>N\u2082 (g) + 3H\u2082 (g) \u00a0\u2192 2NH\u2083 (g)\n</p><p>Perbandingan koefisien reaksinya 1 : 3 : 2, dan volumenya pun memiliki perbandingan sama, jadi volume H\u2082 60 L, dan volume NH\u2083 40 L.\n</p><p><strong>5) Hipotesis Avogadro\n</strong></p><p>Hipotesis Avogadro menjelaskan bahwa perbandingan tersebut berlaku pula dalam molekul secara keseluruhan. Hipotesisnya adalah pada suhu dan tekanan yang sama, semua gas yang bervolume sama memiliki jumlah molekul yang sama pula.\n</p><p><u><strong>Pada Kasus di atas\n</strong></u></p><p>Pada soal diatas <strong>diketahui</strong> beberapa data yaitu:\n</p><p>m S = 32 gram\n</p><p>m SO\u2082 = 64 gram\n</p><p>Adapun yang <strong>ditanyakan</strong> adalah massa gas O\u2082 yang bereaksi.\n</p><p>Pernyataan yang terdapat pada soal sesuai dengan hukum kekekalan massa dari Lavoisier. JIka massa zat dianggap tidak ada yang hilang maka massa sebelum reaksi sama dengan massa sesudah reaksi. Reaksi yang terjadi antara sulfur dan gas oksigen adalah sebagai berikut:\n</p><p>S + O\u2082 \u2192 SO\u2082\n</p><p>Karena massa sebelum sama dengan massa sesudah maka:\n</p><p>m S + m O\u2082 = m SO\u2082\n</p><p>32 \u00a0 + m O\u2082 = 64\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m O\u2082 = 64 \u2013 32\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 m O\u2082 = 32 gram\n</p><p><strong>Jadi massa gas O\u2082 yang bereaksi adalah 32 gram.\n</strong></p><p>Pelajari lebih lanjut tentang mol dan perbandingan koefisien di: https://brainly.co.id/tugas/18228152.\n</p><p></p><h3>Detil jawaban\n</h3><p><strong>Kelas: </strong>X\n</p><p><strong>Mapel:</strong> Kimia\n</p><p><strong>Bab:</strong> Hukum dasar perhitungan kimia\n</p><p><strong>Kode:</strong> 10.7.8\n</p><p>#AyoBelajar\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dikenal-ada-4-persenyawaan-kloryang-berturut-turut-mengandung-kl-438",
+            "question": "dikenal ada 4 persenyawaan klor,yang berturut turut mengandung klor sebanyak 53,65%;49,10%;43,56%;27,84%. jelaskan perhitungan, dan apakah hukum kelipatan perbandingan dalton berlaku dalam senyawa ini...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya pake picture aja yaa :)",
+                    "attachments": [
+                        "answer-attachments/dikenal-ada-4-persenyawaan-kloryang-berturut-turut-mengandung-kl-438-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-massa-dari-a-04-mol-natrium-na-877",
+            "question": "Hitunglah massa dari :    a. 0,4 mol natrium (Na)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. 0,2 mol asam sulfat (H2SO4)\r\nb. 0,4 mol atom nitrogen (N)\u00a0 \u00a0 \u00a0 \u00a0\u00a0 d. 0,2 mol natrium sulfat (Na2SO4)\r\n\r\n(Ar H=1; N=14; O=16; Na=23; S=32",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan<br><br></strong><span>Diminta untuk menentukan massa dari sejumlah mol unsur dan senyawa berikut ini:<br>a. 0,4 mol natrium (Na)<br>b. 0,4 mol atom nitrogen (N)<br></span>c. 0,2 mol asam sulfat (H\u2082SO\u2084)<br>d. 0,2 mol natrium sulfat (Na\u2082SO\u2084<span>)<br><br>(Ar H = 1; N = 14; O = 16; Na = 23; S = 32)<br><br>Silakan disimak kembali mengenai konsep mol dan hubungan-hubungannya yang telah disusun seperti pada gambar terlampir.<br><br><strong>Pengerjaan</strong><br><br><u><em>Step-1</em></u><br><u><em>Siapkan massa atom relatif unsur atau massa molekul relatif senyawa</em></u><br><br>a. Ar Na = 23<br>b. Ar N = 14<br>c. Mr\u00a0</span>H\u2082SO\u2084 = 2(Ar H) + Ar S + 4(Ar O)<br>\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2(1) + 32 + 4(16)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 98<br>d. Mr Na\u2082SO\u2084 = 2(Ar Na) + Ar S + 4(Ar O)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2(23) + 32 + 4(16)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 142<br><br><u><em>Step-2</em></u><br><u><em>Penentuan massa (gram)</em></u><br><br>Rumus yang digunakan adalah<br>[tex]\\boxed{mol \\ n =  \\frac{massa}{Ar} } [/tex]<br>untuk unsur, atau<br>\\boxed{mol \\ n =\u00a0 \\frac{massa}{Mr} }<br>untuk senyawa<br><br>Selanjutnya disiapkan massa sebagai subyek yang ditanyakan.<br>[tex]\\boxed{Massa \\ unsur = mol \\times Ar}[/tex]<br>atau<br>[tex]\\boxed{Massa \\ unsur = mol \\times Mr}[/tex]<br><br><strong>a. 0,4 mol natrium (Na)</strong><br>\u21d4 Massa unsur Na = 0,4 x 23<br>\u2234\u00a0[tex]\\boxed{Massa \\ unsur \\ Na = 9,2 \\ gram}\n[/tex]<br><br><strong>b.\u00a00,4 mol atom nitrogen (N)</strong><br>\u21d4 Massa atom N = 0,4 x 14<br>\u2234\u00a0[tex]\\boxed{Massa \\ atom \\ N = 5,6 \\ gram} [/tex]<br><br><strong>c. 0,2 mol asam sulfat (H\u2082SO\u2084)</strong><br>\u21d4 Massa senyawa H\u2082SO\u2084 = 0,2 x 98<br>\u2234\u00a0[tex]\\boxed{Massa \\ senyawa \\ H_2SO_4 = 19,6 \\ gram} [/tex]<br><br><strong>d. 0,2 mol natrium sulfat (Na\u2082SO\u2084)</strong><br>\u21d4 Massa senyawa Na\u2082SO\u2084 = 0,2 x 142<br>\u2234\u00a0[tex]\\boxed{Massa \\ senyawa \\ Na_2SO_4 = 28,4 \\ gram} [/tex]<br><br>________________<br>Pelajari persoalan terkait hukum dasar dan stoikiometri<br>brainly.co.id/tugas/14896058<br>Ingin mengetahui bagaimana menentukan rumus garam hidrat<br>brainly.co.id/tugas/14945014<br>Simak lebih lanjut<br>brainly.co.id/tugas/2814622<br>--------------------------<br><br><strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Mapel\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : Kimia</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0 : Stoikiometri</strong><br><strong>Kata Kunci\u00a0 : mol, massa, gram, Ar, Mr, massa, atom, unsur, molekul, senyawa, relatif, konsep, natrium, nitrogen, asam, sulfat</strong><br><br><strong>Kode : 10.7.7 [Kelas 10 Kimia Bab 7 Stoikiometri]</strong><br>",
+                    "attachments": [
+                        "answer-attachments/hitunglah-massa-dari-a-04-mol-natrium-na-877-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

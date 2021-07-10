@@ -1,0 +1,140 @@
+{
+    "question": "Setiap org yg datang ke pesta berjabat tangan dengan tuan rumah , tamu2 dan yg lainx yg dtg terlabih dahulu . Berapakah banyak jabat tangan bila ada 50 orang ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "kalau semua orang saling berjabat tangan pake rumus (n-1)n/2<br>jadi (50-1)50/2 = 49 x 25 = 1225<br>itu kalau semua berjabat tangan yaaa",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319",
+            "question": "Diketahui dua lingkaran saling bersinggungan luar. jika panjang jari-jari lingkaran besar adalah 9cm dan panjang garis singgung _ persekutuan luarnya adalah 6/3. hitunglah jarak kedua pusat lingkaran dan panjang jari-jari lingkran kecil    _\r\n ket:6/3 = 6 akar kuadrat 3",
+            "attachments": [
+                "question-attachments/diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "aku bantu gambar aja ya baru males ngitung akar sama pytagoras",
+                    "attachments": [
+                        "answer-attachments/diketahui-dua-lingkaran-saling-bersinggungan-luar-jika-panjang-j-319-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "12x-5-gt-15-115",
+            "question": "1/2x + 5 &gt; 15 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/2x+5&gt; 15<br>dikali 2<br>2/2x+5&gt;15<br>x+5&gt;15<br>x&gt;15-5<br>x&gt;10<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2x + &gt; 15<br>1/2x\u00a0 \u00a0 &gt; 15 - 5<br>1/2x\u00a0 \u00a0  &gt; 10<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 10 - 0,5<br>x\u00a0 \u00a0 \u00a0 \u00a0 &gt; 9,5<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sisi2-suatu-segitiga-sembarang-membentuk-barisan-aritmatika-jik-801",
+            "question": "sisi2 suatu segitiga sembarang membentuk barisan aritmatika . jika sisi terpendek 6cm dan sisi terpanjang 14 cm,maka sisi\u00a0keliling segitga tersebut adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui sisi terpendek =\u00a0U1 = a = 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 sisi terpanjang =\u00a0U3 = 14<br>Ditanya keliling?<br><br>pertama harus mencari \u00a0beda,<br>Un = a + (n - 1)b misalkan menggunakan U3<br>U3 = 6 + (3 - 1)b<br>14 \u00a0= 6 + 2b<br>14 - 6 = 2b<br>\u00a0 \u00a0 \u00a0 8 = 2b<br>\u00a0 \u00a0 \u00a0 b = 8/2<br>\u00a0 \u00a0 \u00a0 b = 4<br><br>berarti sisi yang belum diketahui adalah U2<br>menggunakan rumus Un<br>Un = a + (n - 1)b<br>U2 = 6 + (2 - 1) 4<br>\u00a0 \u00a0 \u00a0= 6 + 4<br>\u00a0 \u00a0 \u00a0= 10<br><br>keliling segitiga = sisi + sisi + sisi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 6 + 10 + 14<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 30 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pengembang-membeli-sebuah-rumah-dengan-harga-tertenturum-682",
+            "question": "Seorang Pengembang membeli sebuah rumah dengan harga tertentu.Rumah tersebut diperbaiki dengan biaya Rp.500.000,0. Setelah rumah siap huni, rumah tersebut dijual lagi dengan harga Rp.104.000.000,00 . Jika dengan harga jual tersebut Pengembang mendapat keuntungan 30% , tentukan harga pembelihan rumah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "harga jual 104.000.000<br>harga perbaikan 500.000<br><br>keuntungan 30%<br>maka<br>104.000.000 - 500.000 = 103.500.000<br><br>100/130 x 103.500.000 = 79.615.385<br>maka harga belinya 79.615.385<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-625-125-25-5-tentukan-rasio-dan-u7-806",
+            "question": "Diketahui deret 625-125-25-5+\r\nTentukan Rasio dan U7 !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "itu serius kurang-kurangan? kok akhirnya jadi tambah?<br>r = 625/-125 =-5<br>U7 = 625.(-5)^5 = -1953125<br>maaf kalau salah, saya kurang memahami soal<br>\u00a0\u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-pada-gambar-diketahui-besar-ltacd-20-hitunglah-besar-a-371",
+            "question": "1. Pada gambar diketahui besar &lt;ACD = 20\u00b0 hitunglah besar:    a. &lt;BOC\u00a0\r\nb. &lt;AOC\r\nc. &lt;BOD\r\n\r\n2. Diketahui besar &lt;BCA = 25\u00b0 dan &lt;CBO 15\u00b0 hitunglah besar:\r\na. &lt;AOB\u00a0\r\nb. &lt;OAB\r\nc. &lt;ABC\r\nd. &lt;BAC\r\n\r\n3. Pada gambar disamping PR adalah diameter lingkaran. hitunglah:\r\na. nilai x\r\nb. besar &lt;PQR\r\n\r\n4. Diketahui besar &lt;ADC = 55\u00b0 hitunglah besar:\r\na. &lt;AOC\r\nb sudut refleks AOC\r\nc. &lt;AOC dan &lt;ACD\r\n\r\n5. Diketahui besar &lt;PQR = 48\u00b0 dan &lt;QRS = 101\u00b0. hitunglah besar :\r\na. &lt;PST\r\nb. &lt;QPR\r\nc. &lt;QTS",
+            "attachments": [
+                "question-attachments/1-pada-gambar-diketahui-besar-ltacd-20-hitunglah-besar-a-371-1.png"
+            ],
+            "answers": [
+                {
+                    "answer": "1. a&lt;ACD = 20\u00b0, maka &lt;CAB = 20\u00b0 karena sama kaki<br>maka &lt; AOC = 180 - 20 - 20 = 140\u00b0<br>karena sudut &lt;AOC dengan &lt;BOC berpelurus maka:<br>&lt;BOC = 180 - 140 = 40\u00b0 ----------------&gt; agak ragu karena kurang sesuai dengan gambar<br><br>b. &lt;AOC = 140\u00b0<br>c. &lt;BOD = 140\u00b0 (karena bertolak belakang)<br><br>2.a. &lt;AOB = 2 x sudut keliling &lt;BCA<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 2 x 25 = 50\u00b0<br>b.&lt;OAB = &lt;CBO = 25\u00b0 karena menghadap busur yang sama<br>c. &lt;ABC = 180 = 50 + 2x (karena terbentuk segitiga sama kaki<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 130 = 2x<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 75 = &lt;ABC<br>d. &lt;ABC = &lt;BAC = 75\u00b0<br><br>3. a. 2x + x + 90 = 180 (sudut keliling yang menghadap diameter = 90\u00b0)<br>\u00a0\u00a0 \u00a0  3x = 90<br>\u00a0\u00a0 \u00a0 \u00a0 x = 30<br>b. &lt;PQR = 90\u00b0 ( menghadao diameter )<br><br>4. gambarnya membuat saya bingung, &lt;AOC dari garis yang mana<br><br>5. a. &lt;PST = &lt;PQR = 48\u00b0 karena menghadap busur sama<br>b. &lt;PRQ = 180 - 101 = 79\u00b0 (karena berpelurus)<br>&lt;QPR = 180 - 48 - 79 = 53\u00b0<br>c. &lt;QTS = &lt;QPR = 53\u00b0 (karena menghadap busur sama)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-kali-5-berapa-sich-433",
+            "question": "5 Kali 5 berapa sich:-)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 dikalikan 5 itu hasilnya 25<br>good luck ya...",
+                    "attachments": []
+                },
+                {
+                    "answer": "5 dikali 5 adalah 25",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selembar-kertas-folio-dipotong-menjadi-2-yg-sama-kemudian-potong-536",
+            "question": "Selembar kertas folio dipotong menjadi 2 yg sama, kemudian potongan yg satu ditumpuk diatas yg lain. tumpukan itu dipotong lagi menjadi 2 bagian yg sama, kemudian ditumpuk lagi, dan seterusnya.    a. brp banyak potongan kertas jika dilakukan 10 kali pemotongan?\r\nb. berapa kali pemotongan dilakukan jika banyak potongan kertas 256 lmbr?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] U_{10} [/tex]=a<u></u>[tex] r^{9} [/tex]<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =2 x [tex] 2^{9} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =1024<br>b. Un=a[tex] r^{n-1} [/tex]<br>\u00a0\u00a0  256=2 x [tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 256/2=[tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 128=[tex] 2^{n-1} [/tex]<br>\u00a0 [tex] 2^{n-1} [/tex]=[tex] 2^{7} [/tex]<br>\u00a0 n-1=7<br>\u00a0 n=8<br>Jadi,hasilnya 8 kali potongan<br><br>Mohon yang terbaiknya makasih..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-proyek-dapat-dikerjakan-oleh-15-pekerja-dalam-waktu-12-ming-167",
+            "question": "suatu proyek dapat dikerjakan oleh 15 pekerja dalam waktu 12 minggu.jika proyek itu harus diselesaikan dalam 9 minggu, pekerjanya harus ditambah sebanyak .........orang ? minta caranya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "caranya 15/9*12=20 -15=5 orang perkerja yang harus di tambahkan<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "9/12 = 15/x<br>nanti tinggal kali silang\u00a0<br>jadi x = (12 x 15)/9 = 20<br><br>jadi, harus ditambah sebanyak = 20 - 15 = 5 (c)\u00a0<br>\u00a0<br>gtu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gradiengaris-dengan-persamaan-3x-6y-5-adalah-380",
+            "question": "Gradiengaris dengan persamaan 3x-6y=-5 adalah \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gradien (m) =-a/b=-3/-6=1/2<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "question": "Tentukan besar sudut dari 1/3 sudut lurus\u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1/3 dikali 180 (sudut lurus) = 60 derajat<br>",
+            "attachments": []
+        },
+        {
+            "answer": "60 derajat<br>maaf kalau salah ..<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-segitiga-abc-siku-siku-di-c-jika-sn-b-p-maka-nilai-273",
+            "question": "Diketahui segitiga ABC siku-siku di C. jika sn B = p, maka nilai tan B = ...    tolong bgt ya~ makasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin B = p<br>sin B = demi = y/r<br>sin B = p/1<br><br>didapat y = p, r = 1<br><br>dengan teorema phytagoras nilai x = \u221a1-p\u00b2<br>tan B = y/x = p/ \u221a1-p\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-positif-membentuk-barisan-geometri-dengan-rasio-r-gt-798",
+            "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sn2n210n-nilai-dari-u5u6u7u8-490",
+            "question": "Sn=2n2+10n. nilai dari u5+u6+u7+u8=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex]S_n = 2n^{2}+10n[/tex]<br><br>[tex]S = S_8 - S_4[/tex]<br>[tex]S = 2(64) + 10(8) - 2(16) - 10(4)[/tex]<br>[tex]S=128+80-32-40[/tex]<br>[tex]S=208-72[/tex]<br>[tex]S=136[/tex]<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-banyak-fx-jika-dibagi-dengan-x-3-sisa-17-dan-jika-dibagi-670",
+            "question": "suku banyak f(x) jika dibagi dengan (x-3) sisa 17 dan jika dibagi dengan (3\u00d7+4) sisa -9 jika f(x) dibagi dengan 3\u00d7\u00b2 - 5\u00d7 - 12 maka sisanya adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalkan sisa pembagian = px + q <br>f(x) dibagi (x - 3) sisa 17\u00a0 \u00a0 ---&gt; 3p + q = 17 <br>f(x) dibagi (3x + 4) sisa -9\u00a0 ---&gt; -4/3 p + q = -9 <br>pers1 - pers2 ---&gt; (3 + 4/3)p = 17 + 9 <br>13/3 p = 26<br>p = 6 <br>3p + q = 17 <br>3(6) + q = 17 <br>q = -1<br>jadi sis pembagiannya = 6x - 1 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-banyak-suku-dari-deret-berikut-a691215756-b-978",
+            "question": "Tentukan banyak suku dari deret berikut    a.6\u00b19+12+15+.....=756\r\n b.56+51+46+41+.....=-36\r\n c.10+14+18+22+.....=640",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) Sn = n/2(2a +(n-1)b)<br>\u00a0 \u00a0 756=n/2(2.6 + (n-1)3)<br>\u00a0 \u00a0 \u00a0756x2 = n(12+ 3n-3)<br>\u00a0 \u00a0 \u00a01512=12n+3n2-3n<br>\u00a0 \u00a0 \u00a01512=3n2+9n<br>\u00a0 \u00a0 \u00a0 3n2+9n-1512=0<br>\u00a0 \u00a0 \u00a0 n2+3n-504=0<br>\u00a0 \u00a0 \u00a0 (n+24) (n-21)=0<br>\u00a0 \u00a0 \u00a0 \u00a0n+24=0 atau n-21=0<br>\u00a0 \u00a0 \u00a0 \u00a0 n=-24 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n=21(benar karena paositif)<br>b)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0-36=n/2(2.56+(n-1)-5<br>\u00a0 \u00a0-36x2=n(112-5n+5)<br>\u00a0 \u00a0 -72 = n(117-5n)<br>\u00a0 \u00a0 -72 = 117n-5n2<br>\u00a0 \u00a0 5n2-117n-72=0<br>\u00a0 \u00a0 (n-120/5)5(n+3/5)=0<br>\u00a0 \u00a0 \u00a0n-24 =0 atau 5n+3=0<br>\u00a0 \u00a0 \u00a0n=24(benar) \u00a05n=-3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n= -3/5<br>c)Sn=n/2(2a+(n-1)b)<br>\u00a0 \u00a0 640=n/2(2.10+(n-1)4<br>\u00a0 \u00a0 640=n/2(20+4n-4)<br>\u00a0 \u00a0 640=10n+2n2-2n<br>\u00a0 \u00a0 640=2n2+8n<br>\u00a0 \u00a0 2n2+8n-640=0<br>\u00a0 \u00a0 \u00a0n2+4n-320=0<br>\u00a0 \u00a0 (n+20)(n-16)=0<br>\u00a0 \u00a0 \u00a0n+20=0 atau n-16=0<br>\u00a0 \u00a0 \u00a0n=-20 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n=16(benar)<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-u10-dan-s10-dari-deret-aritmatika-jika-diketahui-sn-n-553",
+            "question": "Hitunglah U10 dan S10 dari deret aritmatika Jika diketahui Sn = n\u00b2 + 2n",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Sn = n\u00b2 + 2n <br>Sn-1 = (n-1)\u00b2 + 2(n-1)<br><br>= n\u00b2 - 2n + 1 + 2n - 2<br><br>= n\u00b2 - 1<br><br>Un = Sn - Sn-1<br><br>= n\u00b2 + 2n - (n\u00b2 - 1)<br><br>= 2n + 1<br><br>U10 = 2.10 + 1 = 21<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-persamaan-kuadrat-x2n-1x-n40-mempunyai-dua-akar-rel-ya-432",
+            "question": "Agar persamaan kuadrat x^2+(n-1)x-n+4=0 mempunyai dua akar rel yang berbeda,maka nilai n yang memenuhi adalah. . . . . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a = 1<br>b = n-1<br>c = -n+4 = 4-n<br>D = 0<br><br>b\u00b2-4ac = D<br>(n-1)\u00b2-4(1)(4-n)=0<br>n\u00b2-2n+1-16+n = 0<br>n\u00b2+2n-15 = 0<br>(n-3)(n+5) = 0<br>n=3 atau n=-5<br><br>n=-5 tidak memenuhi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lim-5x-1-akar-25x-pangkat-447",
+            "question": "Lim \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0((5x-1)- akar 25x pangkat 2 + 5x - 7 )\r\nx-&gt; tak terhingga\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "= \u221a(5x - 1)\u00b2 - \u221a(25x\u00b2 + 5x - 7) <br>= \u221a(25x\u00b2 - 10x + 1) - \u221a(25x\u00b2 + 5x - 7) <br>= (-10 - 5) : 2\u221a25<br>= -15 : 10 <br>= -3/2 <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-suku-ke-3-dan-suku-ke-6-suatu-barisan-aritmatika-bertur-826",
+            "question": "Diketahui suku ke-3 dan suku ke-6 suatu barisan aritmatika berturut-turut 14 dan 29. suku ke-12 barisan tersebut adalah ......    \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pers 1. \n14=a+2b\npers 2.\n29=a+5b\n\nmenggunakan metode eliminasi maka mendapatkan beda = 5,kemudian di subtitusikan ke pers. 1 maka didapat a/suku pertama =4\nslanjutx dgan menggunakan rumus a+(n-1)b,diperoleh hasil U12/suku ke-12 adalah 59..",
+                    "attachments": []
+                },
+                {
+                    "answer": "u3 = 14 = a+2b<br>u6 = 29 = a+5b<br>di eleminasi<br>-3b = -15<br>b = 5<br>nah kalau mau nyari a tinggal disubtitusi<br>misalnya pake yang u3<br>a+2b = 14<br>a+2(5) = 14<br>1=14-10 = 4<br>kalu udh ketemu tinggal dicantumkan deh<br>u12 = a+11b<br>u12 = 4+11\u00d75<br>u12 = 4 + 55<br>u12 = 59<br>Tolong dijadikan terbaik ya<br>Plisss banget<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-bilangan-kelipatan-3-antara-400-dan-500-adalah-503",
+            "question": "Jumlah bilangan kelipatan 3 antara 400 dan 500 adalah .. ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bilangan itu adalah : 402, 405, 408, ....., 498 <br>\na = 402, b = 3 <br><br>\nUn = a + (n - 1)b <br>\n498 = 402 + (n - 1)3 <br>\n498 = 402 + 3n - 3 <br>\n498 = 399 + 3n <br>\n3n = 498 - 399 <br>\n3n = 99 <br>\nn= 33 <br><br>\nSn = 1/2 n (a + Un) <br>\n.....= 1/2 x 33 x (402 + 498) <br>\n.....= 16,5 x 900 <br>\nSn = 14.850\u00a0<br><br>seoga membantu ya :)",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

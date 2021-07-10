@@ -1,0 +1,142 @@
+{
+    "question": "DIKETAHUI himpunan A dan B sebagai berikut.    A = {x | 3 \u2264 x &lt; 10, x bilangan bulat}\r\nB = {x | x &lt; 12, x bilangan ganjil}\r\nhasil dari A - B adalah........",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "maka A B adalah 125...............\n\n\n......",
+            "attachments": []
+        },
+        {
+            "answer": "A={3,4,5,6,7,8,9}<br>B={1,3,5,7,9,11}<br>A-B={1,4,6,8,11}",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-besar-sudut-yang-dilalui-jarum-panjang-sebuah-jam-beriku-137",
+            "question": "Tentukan besar sudut yang dilalui jarum panjang sebuah jam berikut ini : a. Bergerak dari pukul 12.15 sampai 12.34 b. Bergerak dari pukul 09.06 sampai 09.23",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)12.34-12.15=19<br>maka\u00a0[tex] \\frac{19}{60} [/tex]\u00d7360=114 derajat<br>b)09.23-09.06=17<br>maka\u00a0[tex] \\frac{17}{60} [/tex]\u00d7360=102 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-menjual-sepeda-dengan-harga-rp-210000-dari-444",
+            "question": "Seorang pedagang menjual sepeda dengan harga Rp. 210.000,-. Dari penjualan itu, memperoleh untung 20%. Berapa harga pembelian sepeda itu? Cara dan penjelasan.. Tolong, trimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20/100 x 210.000 = 42.000 \u00a0 \u00a0\u00a0 <br>210.000 - 42.000 = 168.000<br>harga pembelian sepeda tsb adalah 168.000<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau Caranya mungkin sulit untuk saya jelaskan<br>intinya<br>HJ = HB + u/R<br>HB = HJ- u/R<br>= 100 % / 120 % x 210.000<br>=175.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "selembar-kertas-folio-dipotong-menjadi-2-yg-sama-kemudian-potong-536",
+            "question": "Selembar kertas folio dipotong menjadi 2 yg sama, kemudian potongan yg satu ditumpuk diatas yg lain. tumpukan itu dipotong lagi menjadi 2 bagian yg sama, kemudian ditumpuk lagi, dan seterusnya.    a. brp banyak potongan kertas jika dilakukan 10 kali pemotongan?\r\nb. berapa kali pemotongan dilakukan jika banyak potongan kertas 256 lmbr?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. [tex] U_{10} [/tex]=a<u></u>[tex] r^{9} [/tex]<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0  =2 x [tex] 2^{9} [/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0\u00a0 =1024<br>b. Un=a[tex] r^{n-1} [/tex]<br>\u00a0\u00a0  256=2 x [tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 256/2=[tex] 2^{n-1} [/tex]<br>\u00a0\u00a0 128=[tex] 2^{n-1} [/tex]<br>\u00a0 [tex] 2^{n-1} [/tex]=[tex] 2^{7} [/tex]<br>\u00a0 n-1=7<br>\u00a0 n=8<br>Jadi,hasilnya 8 kali potongan<br><br>Mohon yang terbaiknya makasih..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-selembar-karton-berukuran-60cm-x-40cm-dibuat-sebuah-kerucut-644",
+            "question": "Dari selembar karton berukuran 60cm x 40cm dibuat sebuah kerucut dengan panjang diameter alas 20cm dan tinggi 10\u221a3 cm. tentukan luas sisa karton yang tidak terpakai!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L. karton - luas permukaan kerucut<br>L. karton = 60*40 = 2400 cm<br>luas permukaan kerucut = [tex] \\pi r (r+s)[/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = [tex]3,14*10 (10+20)[/tex]<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =942 cm<br>jd sisa = 2400 - 942 = 1458 cm<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bola-dengan-diameter-6-cm-adalah-686",
+            "question": "Volume bola dengan diameter 6 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>22</u> \u00d73\u00d73=28.285<br>7<br>mencari r =diameter\u00f72<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus volume bola itu [tex] \\frac{4}{3} [/tex] . [tex] \\pi [/tex] . r\u00b3<br><br>itu feb -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "derah-tempat-asal-besi-428",
+            "question": "Derah tempat asal besi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar kemungkinan daerah-daerah penghasil bijih besi tersebut dahulunya\n adalah daerah-daerah yang terjatuhi oleh meteorit-meteorit yang \nmengandung besi tersebut. Daerah penghasil besi yaitu Sumatera, sulawesi, sumbawa, sumba, flores, dan timor.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-pertandingan-lompat-tinggi-lompatan-amir-3m-lebihnya-dari-t-969",
+            "question": "pada pertandingan lompat tinggi, lompatan amir 3m lebihnya dari tinggi lompatan Jonatan. perbandingan tinggi lompatan amir dan jonatan 6 : 5. berapa tinggi lompatan jonatan?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "amir = 6.  dan jonatan = 5.\n3m dikali 5 = 15 meter.\njadi, jonatan melompat setinggi 15 meter. kalau amir 18 meter, yaitu dari  3m dikali 6 = 18 meter.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204",
+            "question": "Diketahui besar sudut BCA = 25\u00b0 dan sudut CBO = 15\u00b0. Hitunglah besar    a. sudut AOB\r\n b. sudut OAB\r\n c. sudut ABC\r\n d. sudut BAC\r\n Tolong jawabannya ya. Trims",
+            "attachments": [
+                "question-attachments/diketahui-besar-sudut-bca-25-dan-sudut-cbo-15-hitunglah-204-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a.AOB=5O&#039;<br>b.OAB=65&#039;<br>c.ABC=80&#039;<br>d.BAC=80&#039;",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "5-pipa-dapat-mengisi-sebuah-tangki-dalam-80-menit-jika-digunakan-447",
+            "question": "5 pipa dapat mengisi sebuah tangki dalam 80 menit jika digunakan 8 pipa berapa waktu yang diperlukan untuk mengisi tangki tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5 pipa x 80 menit = 400\u00a0<br><br>Kemudian, 400 tersebut dibagi dengan 8 = 50 menit saja",
+                    "attachments": []
+                },
+                {
+                    "answer": "8 / 5 -\u00a03\u00a0/\u00a05\u00a0x\u00a080\u00a0=\u00a048<br>karena semakin banyak selang semakin cepat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573",
+            "question": "Hitunglah Keliling dan luas bangun yang diarsir pada gambar itu ?",
+            "attachments": [
+                "question-attachments/hitunglah-keliling-dan-luas-bangun-yang-diarsir-pada-gambar-itu-573-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "pake rumus juring aja lebih gampang<br><br>45 per 360 * luas lingkarannya<br><br>luasnya tadi udah dicari, hasilnya 379,94<br><br>45 per 360 * 379,94 = 47,49 (ini luas yang engga diarsir + yang di arsir)<br><br>sekarang kita cari luas yang ga di arsir dulu.<br>45 per 360 * 113,04 = 14,13<br><br>kurangin.. 47,49 - 14,13 = 33,36 (luas yang di arsir)<br>__________________________________________________<br>keliling = phi*2r<br>tapi berhubung itu bukan lingkaran utuh, maka harus dicari panjang busur dulu<br><br>45 per 360 * keliling<br>= 45 per 360 * 69,08<br>= 8,6<br><br>tinggal di jumlah... 5 + 5 + 8,6 = 18,6 (keliling yang di arsir)<br><br>CMIIW",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

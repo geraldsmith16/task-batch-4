@@ -1,0 +1,144 @@
+{
+    "question": "Diketahui:    S={bilangan asli kurang dari 15 }\r\nA={bilangan asli genap yang kurang dari 10}\r\nB={bilangan asli ganjil antara 1 dan 11}\r\nC={bilagan prima yang kurang dari 10}\r\nD={faktor dari 12 }\r\nnyatakan himpunan himpunan di atas dengan mendaftar anggotanya ! kemudian buatlah diagram venn untuk masing masing himpunan berikut dengan S sebagai himpunan semestanya!\r\na.S,A,DAN\u00a0B \u00a0 \u00a0 \u00a0d.S,B DAN C\r\nb.S,A DAN C \u00a0 \u00a0 \u00a0e.S,B,DAN D\r\nC.S,A DAN D \u00a0 \u00a0 \u00a0f.S,C DAN D",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "untuk anggota dari masing2 himpunannya adalah sebagai berikut<br>S={1,2,3,4,5,6,7,8,9,10,11,12,13,14 }<br>A={2,4,6,8}<br>B={3,5,7,9}<br>C={2,3,5,7}<br><span>D={1,2,3,4,6,12}<br><br>untuk diagram venn nya coba lihat gambarnya d google aja<br>diagram venn merupakan gambar diagram menggunakan lingkaran untuk masing2 himpunan,<br>jadi misalkan seperti soal A,ditanyakan adalah S, A dan B<br>karena S merupakan himpunana semstanya , maka S merupakan lingkaran terbesar<br>kemudian di dalamnya di gambar lingkaran A dan B , namun tidak bersinggungan , dikarenakan tidak memiliki anggota dengan nilai yg sama<br>dan di tiap lingkaran dituliskan masing2 anggotanya , untuk S anggota yg sdah berada di dalam A dan B , tidak ditulis kembali, dan yg belum ada di lingkaran A dan B, ditulis di luar lingkaran A dan B, namun tetap berada di dalam lingkaran S<br>untuk contoh soal a nya ada pada lampiran\u00a0<br>yg B dan seterusnya kayaknya bisa menyesuaikan :)</span>",
+            "attachments": [
+                "answer-attachments/diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469-1.jpg"
+            ]
+        },
+        {
+            "answer": "S= {1,2,3,4,5,6,7,8,9,10,11,12,13,14}\nA= {2,4,6,8}\nB= { 3,5,7,9}\nC= {2,3,5,7}\nD= {1,2,3,4,6,12}",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-jari-jari-lingkaranjika-diketahui-luas-lingkaran-sama-d-202",
+            "question": "Tentukan jari jari lingkaran,jika diketahui luas lingkaran sama dengan 113,04 cm2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas linkaran=pi  r^{2}<br>113,04=3,14\u00a0. r^{2}<br>113,04/3,14= r^{2)<br>36= r^{2}<br>[tex] \\sqrt{36} [/tex]=r<br>6=r",
+                    "attachments": []
+                },
+                {
+                    "answer": "L=\u00a0\u03c0r\u00b2<br>113,04=3,14\u00d7r\u00b2<br>r\u00b2=113,04\u00f73,14<br>r\u00b2=36<br>r=\u221a36<br>r=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-hubungan-antar-sudut-514",
+            "question": "Apa yang dimaksud hubungan antar sudut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>HUBUNGAN ANTARA SUDUT DAN GARISSudut-sudut yang terjadi jika dua garis sejajar dipotong oleh garis lainDua garis yang sejajar mempunyai jarak yang tetap walaupun kedua garis tersebut diperpanjang.Sudut-sudut sehadap<span>Sudut yang\u00a0menghadap kearah yang sama, yaitu arah kanan atas. Sudut itu disebut\u00a0sudut sehadap.</span>Sudut-sudut berseberangan<span><span>1)\u00a0</span>Sudut-sudut dalam berseberangan</span><span>Sudut yang berada diantara (di dalam) dua garis sejajar dan berseberangan terhadap garis transversal. Sudut-sudut itu disebut\u00a0sudut dalam berseberangan.<br></span><span><span>2)\u00a0</span>Sudut-sudut luar berseberangan</span><span>Sudut yang berada di luar dua garis sejajar dan berseberangan terhadap garis transversal. Sudut itu disebut\u00a0sudut luar berseberangan.</span>sudut-sudut sepihak<span><span>1)\u00a0</span>Sudut-sudut dalam sepihak</span><span>Sudut yang berada di dalam dua garis sejajar dan keduanya terletak di sebelah kiri garis transversal. Sudut-sudut itu di sebut\u00a0sudut dalam sepihak.<br></span><span><span>2)\u00a0</span>sudut-sudut luar sepihak</span><span>Sudut yang berada diluar dua garis sejajar dan keduanya terletak di sebelah kiri garis transversal. Sudut-sudut ini disebut\u00a0sudut luar sepihak.</span>Hubungan sudut-sudut pada dua garis sejajar yang dipotong oleh garis lainJika dua garis sejajar dipotong oleh garis lain, berlaku:<br><span><span>a.\u00a0</span>Sudut-sudut yang sehadap sama besar<br>.</span><span><span>b.\u00a0</span>Sudut-sudut dalam berserangan sama besar.<br></span><span><span>c.\u00a0</span>Sudut-sudut luar berseberangan sama besar.<br></span><span><span>d.\u00a0</span>Sudut-sudut dalam sepihak berjumlah 180 derajat.<br></span><span><span>e.\u00a0</span>Sudut-sudut luar sepihak berjumlah 180 derajat</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-membagi-06-05-mohon-penjelasannya-167",
+            "question": "Bagaimana cara membagi 0,6 : 0,5\r\n mohon penjelasannya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "0,6 dan 0,5 dijadikan pecahan dulu :<br>6/10 dibagi 5/10<br>setelah itu jadinya :<br>6/10 dikali 10/5 (dibalik) = 60/50 = 6/5 = 1,2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "0,6 : 0,5\u00a0<br>=&gt; 6/10 : 5/10<br>=&gt;6/10 x 10/5<br>=&gt;60/50 disderhanakan menjadi<br>=&gt;6/5<br>=&gt;1,2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-faktor-dari-x2-1-696",
+            "question": "Berapa faktor dari x\u00b2 - 1 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "faktornya yaitu (x+1)(x-1)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pecahan-yang-terletak-diantara-pecahan-56-dan-67-adalah-515",
+            "question": "Pecahan yang terletak diantara pecahan 5/6 dan 6/7 adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/6 dan 6/7 harus disamakan terlebih dahulu.,yaitu dengan cara mengalikan penyebutnya. 6 x 7 didapatlah 42. Ubah pecahan 5/6 dan 6/7 menjadi pecahan yg berpenyebut 42. 5/6 = 35/42 dan 6/7 = 36/42. kalikan kedua pecahan tersebut dengan 2, menjadi: 70/84 dan 72/84. Pecahan diantara keduanya? <br>71/84<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-pelemparan-2-buah-dadu-peluang-jumlah-mata-dadu-yg-muncul-6-661",
+            "question": "Pada pelemparan 2 buah dadu peluang jumlah mata dadu yg muncul 6 adalh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2/36 = 1/18<br>Semoga ngerti dan jawabannya benar :D",
+                    "attachments": []
+                },
+                {
+                    "answer": "3/36 = 1/12 kemungkinan<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "volume-bola-dengan-diameter-6-cm-adalah-686",
+            "question": "Volume bola dengan diameter 6 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>22</u> \u00d73\u00d73=28.285<br>7<br>mencari r =diameter\u00f72<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumus volume bola itu [tex] \\frac{4}{3} [/tex] . [tex] \\pi [/tex] . r\u00b3<br><br>itu feb -_-<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-lingkaran-yang-berpusat-di-p-tiga-kali-panjang-474",
+            "question": "Panjang jari-jari lingkaran yang berpusat di P tiga kali panjang jari-jari lingkaran yang berpusat di Q. Jika panjang garis singgung persekutuan luar kedua lingkaran tersebut 24cm dan panjang perpusatannya 25cm, hitunglah panjang jari-jari kedua lingkaran tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara tripel phytagoras aja <br>7,24,25<br><br>R = 3r<br>GL = 24 cm<br>d = 25 cm<br>karena gl maka rumusnya <br>R-r = 7<br>3r-r = 7<br>2r = 7<br>r = 7/2 <br>\u00a0\u00a0 = 3,5 cm<br><br>R = 3r<br>\u00a0\u00a0\u00a0 = 3(3.5)<br>\u00a0\u00a0\u00a0 = 10,5 cm <br><br>keterangan <br>Gl = garis singgung luar<br>R = jari-jari di P<br>r = jari-jari di Q <br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-cara-menghitung-diagram-venn-341",
+            "question": "Bagaimana cara menghitung diagram venn ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tergantung diagram\u00a0venn&#039;a kayak apa dulu..\u00a0<br>klo ada 2 himpunan ya dibuat 2 lingkaran..<br>kalo ada anggota yang sama di taruh di tengah2 lingkaran itu..<br>kalo cara menghitungnya ya hampir sama kaya gitu lahh..",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-ayam-membeli-300-ekor-ayam-dari-peternak-dengan-915",
+            "question": "Seorang pedagang ayam membeli 300 ekor ayam dari peternak dengan harga rata rata rp6.000,00 kemudian dijualnya di pasar.hari pertama ia menjual 180 ekor ayam dengan harga rp10.000,00tiap ekor.ternyata pada hari kedua 100 ekor ayam mati karna flu burung dan sisanya berhasil dijual dengan harga rp 9.000,00 tiap ekor.jawablah pertanyaan di bawah ini    a)untung atau rugikah pedagang tersebut?\r\nb)berapakah persentase keuntungan atau kerugiannya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) untung<br>b) jawab :<br>seorang pedagang membeli 300 ekor ayam<br>harga rata2 Rp. 6.000,00<br>hari pertama menjual 180 ekor<br>harga tiap ekor Rp. 10.000,00<br>mati 100<br>sisanya dijual dengan harga Rp. 9.000,00<br>300 ekor - 180 ekor - 100 ekor = 20 ekor<br>180 dikali Rp.10.000,00 = Rp.1.800.000,00<br>20 dikali Rp.9.000,00 = Rp.180.000,00<br>Rp.1.800.000,00 + Rp. 180.000,00 = Rp. 1980.000,00<br>300 dikali Rp.6.000,00 = Rp.1.800.000,00<br>1.980.000,00 - 1.800.000,00 = 180.000,00<br>jadi pedagang tersebut untung sebanyak Rp. 180.000,00<br>Presentase untung = 180.000,00/1.800.000,00 dikali 100% = 10%<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

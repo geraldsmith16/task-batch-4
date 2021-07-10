@@ -1,0 +1,150 @@
+{
+    "question": "Sebuah transformator step up mengubah tegangan 50volt menjadi 220volt. Kumparan sekunder dihubungkan dengan sebuah lampu 220volt/50watt. Berapa kuat arus yang mengalir pada kumparan primer?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>Diketahui:</strong><br>Vp=50 volt<br>Vs=220 volt (karena step up ya)<br>kumparan sekunder 220 volt/50 watt=&gt;Ps=50 watt<br><strong>Ditanyakan:</strong> Ip ?<br><strong>Dijawab:<br></strong><u><strong>Gunakan rumus efisiensi:</strong></u><br>\u03b7 = <u>Ps</u>\u00a0x 100%<br>\u00a0 \u00a0 \u00a0 Pp<br>80% = <u>\u00a050 \u00a0 \u00a0 </u>\u00a0\u00a0\u00a0x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 220. Ip<br>0,8 =<u> \u00a0\u00a05 \u00a0 \u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a022.Ip<br>17,6.Ip = 5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ip =<u> \u00a0\u00a05 \u00a0\u00a0</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a017,6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ip = 0,284 A<br><br>Jelas ya.<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "benda-a-bergetar-dengan-periode-30-sekon-dan-amplitudo-20cm-588",
+            "question": "Benda\u00a0A\u00a0bergetar\u00a0dengan\u00a0periode 30 sekon\u00a0dan\u00a0amplitudo 20cm,\u00a0Benda\u00a0B\u00a0bergetar\u00a0dengan\u00a0periode 45\u00a0sekon\u00a0dan\u00a0ampilitudo 25cm.\u00a0frkuensi\u00a0benda\u00a0A\u00a0dibanding\u00a0benda\u00a0B\u00a0adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f A : f B = 1/tA : 1/tB<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/30 : 1/45<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 45 \u00a0 \u00a0: 30<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 3 \u00a0 \u00a0 \u00a0: 2",
+                    "attachments": []
+                },
+                {
+                    "answer": "1/2\u03bb=20 cm<br>\u03bb=40 cm=0,4 m<br>v=\u03bb/T<br>V=0,4/30<br>V=0,133 m/s<br>1/2\u03bb=25 cm<br>\u03bb=50 cm=0,5 m<br>v=\u03bb/T<br>v=0,5/45<br>v=0,11 m/s<br>jadi perbandingan frekuensi A\u00a0\u21d4 0,133/0,4=0,3325 Hz<br>frekuensi B\u21d40,11/0,5=0,22 Hz",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berlian-tampak-berkilauan-hal-ini-terjadi-karena-adanya-a-peman-477",
+            "question": "Berlian Tampak Berkilauan. Hal ini terjadi karena adanya    a. pemantulan sempurna\r\n b. pembiasan cahaya\r\n c. pembelokan cahaya\r\n d. pemantulan cahaya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. Pemantulan sempurna<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>berlian yang terlihat berkilauan karena cahaya yang melewatinya terpantul sempurna</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perbedaan-fotosintesis-dengan-respirasi-739",
+            "question": "Perbedaan fotosintesis dengan respirasi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "fotosintesis itu mengambil Karbon dioksida dan Glukosa dan mengashilkan energi yang dibantu klorofil dn cahaya, sedangkan respirasi itu kebalikannyaa<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "perbedaan antara fotosintetis dan respirasi adalah:<br>fotosintesis adalah suatu peristiwa oksidasi pengurai co2 menjadi oksigen sedangkan respirasi adala suatu peristiwa mengamil o2 dam mengeluarkan co2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-untuk-menyatukan-2-pelat-logam-yang-berbeda-adalah-400",
+            "question": "Cara untuk menyatukan 2 pelat logam yang berbeda adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dengan cara,, ke2 plat logan di lelehkan lalu dicampurkan,,,,,\nkalo gak slah gitu,,,,,",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau untuk menyatukan dua logam plat dilas <br>bagian ujung atas atau ujung bawah digabung dengan ujung plat lainnya lalu di las<br>karena dengan dilas maka kedua plat dari logam dapat digabungkan<br>kalau dengan cara dicairkan mungkin akan sulit karena logam susah untuk dicairkan,kecuali timah<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-perbedaan-antara-alkohol-dan-air-raksa-149",
+            "question": "Apa perbedaan antara Alkohol dan air raksa ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "klo dalam pengisian termometer, perbedaannya seperti ini ::<br><br>Keuntungan air raksa sebagai pengisi termometer, antara lain : Air raksa\n tidak membasahi dinding pipa kapiler, sehingga pengukurannya menjadi \nteliti. Air raksa mudah dilihat karena mengkilat. Air raksa cepat \nmengambil panas dari suatu benda yang sedang diukur. Jangkauan suhu air \nraksa cukup lebar, karena air raksa membeku pada suhu \u2013 40 0C dan \nmendidih pada suhu 360 0 C. Volume air raksa berubah secara teratur.<br><br>\nAir raksa juga memiliki beberapa kerugian, antara lain:<br>Air raksa harganya mahal.Air raksa tidak dapat digunakan untuk mengukur suhu yang sangat rendah.Air raksa termasuk zat beracun sehingga berbahaya apabila tabungnya pecah.\nKeuntungan menggunakan alkohol sebagai pengisi termometer, antara lain :\n Alkohol harganya murah. Alkohol lebih teliti, sebab untuk kenaikan suhu\n yang kecil ternyata alkohol mengalami perubahan volume yang besar. \nAlkohol dapat mengukur suhu yang sangat rendah, sebab titik beku alkohol\n \u20131300C.<br><br>\nKerugian menggunakan alkohol sebagai pengisi termometer, antara lain :<br>Membasahi dinding kaca.Titik didihnya rendah (78 0C)Alkohol tidak berwarna, sehingga perlu memberi pewarna dahulu agar dapat dilihat.<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. Termometer air raksa. \n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Berikut\nini beberapa keuntungan air raksa sebagai pengisi termometer, antara lain :</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa tidak membasahi dinding pipa kapiler, sehingga pengukurannya menjadi\nteliti.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa mudah dilihat karena mengkilat.</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa cepat mengambil panas dari suatu benda yang sedang diukur.</span>\n<span>\n<span>4)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Jangkauan\nsuhu air raksa cukup lebar, karena air raksa membeku pada suhu \u2013 40 0C dan\nmendidih pada suhu 360 0C.</span>\n<span>\n<span>5)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Volume\nair raksa berubah secara teratur ketika terjadi perubahan suhu.</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Selain\nbeberapa keuntungan, ternyata air raksa juga memiliki beberapa kerugian, antara\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 lain:</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa harganya mahal.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa tidak dapat digunakan untuk mengukur suhu yang sangat rendah.</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Air\nraksa termasuk zat beracun sehingga berbahaya apabila tabungnya pecah.</span>\n<span>\n<br></span>\n\nb. Termometer alkohol\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Keuntungan\nmenggunakan alkohol sebagai pengisi termometer, antara lain :</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\nharganya murah.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\nlebih teliti, sebab untuk kenaikan suhu yang kecil ternyata alkohol mengalami\nperubahan volume yang besar.</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\ndapat mengukur suhu yang sangat rendah, sebab titik beku alkohol \u20131300C.</span>\n<span>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Kerugian\nmenggunakan alkohol sebagai pengisi termometer, antara lain :</span>\n<span>\n<span>1)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Membasahi\ndinding kaca ketika memuai ataupun menyusut.</span>\n<span>\n<span>2)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Titik\ndidihnya rendah (78 0C)</span>\n<span>\n<span>3)\u00a0\u00a0\u00a0\u00a0\u00a0 </span>Alkohol\ntidak berwarna, sehingga perlu memberi pewarna dahulu agar dapat dilihat.</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-pernapasan-dada-dan-pernapasan-perut-294",
+            "question": "Apa yang di maksud pernapasan dada dan pernapasan perut???",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Apa yang dimaksud pernapasan dada dan pernapasan perut?</strong></p><p><strong>Jawaban</strong></p><h3>Pendahuluan</h3><p>Pada persoalan ini kita akan membedakan cara bernapas, yakni pernapasan dada dan pernapasan perut. Perhatikan tahap-tahap yang terjadi di setiap jenis pernapasan tersebut.</p><h3>Pembahasan</h3><p>Bernapas merupakan proses masuknya oksigen yang disebut<strong> inspirasi</strong>, dan keluarnya karbon dioksida yang disebut <strong>ekspirasi.</strong></p><p>Bernapas dapat dilakukan dengan pernapasan dada dan pernapasan perut. Berikut tahapan yang ada di masing-masing jenis pernapasan tersebut.</p><p><em><u>a. Pernapasan dada</u></em></p><p><strong>Inspirasi:</strong> otot antartulang rusuk kontraksi - rongga dada membesar - tekanan udara rongga dada turun - paru-paru membesar - udara masuk</p><p><strong>Ekspirasi:</strong> otot antartulang rusuk relaksasi - rongga dada mengecil - tekanan udara rongga dada membesar - paru-paru mengecil - udara keluar</p><p><u><em>b. Pernapasan perut (diafragma)</em></u></p><p><strong>Inspirasi:</strong> otot diafragma kontraksi - diafragma mendatar - rongga dada membesar - tekanan udara rongga dada mengecil - paru-paru membesar - udara masuk</p><p><strong>Ekspirasi:</strong> otot diafragma relaksasi - diafragma melengkung - rongga dada mengecil - tekanan udara rongga membesar - paru-paru mengecil - udara keluar\u00a0</p><p>Agar lebih jelas, silakan disimak secara visual perbedaan cara bernapas dengan dada dan bernapas dengan perut.</p><h2>Pelajari lebih lanjut</h2><p>Kelebihan dan kekurangan respirasi aerob dan anaerob brainly.co.id/tugas/7010118</p><p>Proses pernapasan manusia brainly.co.id/tugas/178088</p><p>-------------------------------------------------------</p><h2>Detil jawaban</h2><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0: </strong>XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 :</strong> Biologi</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :</strong> Sistim Pernapasan</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 :</strong> 11.4.7</p><br><p><strong>Kata Kunci </strong>: sistim, pernapasan, respirasi, dada, perut, diafragma, kontraksi, relaksasi, inspirasi, ekspirasi, udara, masuk, keluar, membesar, mengecil, tekanan, rongga, paru-paru</p>",
+                    "attachments": [
+                        "answer-attachments/apa-yang-di-maksud-pernapasan-dada-dan-pernapasan-perut-294-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-piston-dongkrak-hidrolik-dapat-mengangkat-benda-seberat-1t-880",
+            "question": "sebuah piston dongkrak hidrolik dapat mengangkat benda seberat 1ton dengan diameter piston 0,1m. jika luas penampang piston pengisap 0.01 m , hitunglah gaya minimal yang harus diberikan agar dapat mengangkat benda seberat itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "m = 1 ton = 1000kg <br>F1= 1000kg * 10 m/s2 = 10.000 N<br>A1 = 0,1 m<br>A2 = 0,01 m<br>F2 = ?<br>jawab <br>F1/A1 = F2/A2<br>10.000 N /0,1 m = F2/0,01 m<br>10.000 N/ 0,1 m*0,01m = F2<br>10.000 N * 0,1 m = F2<br>1000 N = F2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-prinsip-kerja-termometer-zat-cairtermometer-bimetalda-742",
+            "question": "Bagaimana prinsip kerja termometer zat cair,termometer bimetal,dan termometer kristal cair??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><strong>Pembahasan</strong></h2><p><em>Hai adik adik bertemu kembali bersama kak andiakmonsa15, kini kita akan mempelajari tentang termometer. Apakah kalian sudah siap? Ayo kita belajar bersama.</em></p><p><em></em></p><p>Apa yang dimaksud dengan termometer? <strong>Termometer </strong>merupakan suatu alat pengukuran untuk mengetahui suhu benda tertentu. Termometer memiliki beberapa jenis seperti termometer zat cair, termometer bimetal dan termometer kristal cair. Setiap termometer memiliki kelebihan dan kekurangan tersendiri. Pada termometer satuan ukuranya yaitu celcius, namun seharusnya satuan kelvin karena satuan internasional. </p><p></p><p><strong>Prinsip Prinsip Kerja Termometer </strong></p><ul><li><strong>Termometer zat cair</strong>, yaitu termometer yang berupa zat cair. Termometer zat cair menggunakan air raksa dan alkohol sebagai penunjuk suhu. Prinsip kerja termometer zat cair yaitu menggunakan proses pemuaian. Raksa atau alkohol akan cepat mengalami pemuaian, sehingga cepat menujukkan hasil ukur suhu suatu benda</li><li><strong>Termometer bimetal</strong>, yaitu termometer yang menggunakan prinsip pembengkokan logam. Hal ini dikarenakan logam memiliki koefisien muai panjang. Keping bimetal sangat mudah terpengaruh oleh panas, sehingga akan bereaksi. Prinsip kerja termometer bimetal yaitu keping bimetal yang terkena panas, akan membengkokkan jarum, sehingga dapat mengetahui berapa ukuran suhu suatu benda.</li><li><strong>Termometer kristal cair</strong>, yaitu termometer yang menggunakan kristal cair. Prinsip kerjanya yaitu dengan melihat warna kristal tersebut. Kristal air akan mudah terpengaruh oleh suhu benda</li></ul><p></p><h2>Pelajari lebih lanjut</h2><p>\nhttps://brainly.co.id/tugas/12667955 \u00a0\n</p><p>\nhttps://brainly.co.id/tugas/36355</p><p>-----------------------------------------------------------------------------------\n</p><h2>Detail Jawaban\n</h2><p>Kode: \u00a07.6.1 \u00a0 \u00a0\n</p><p>\nKelas: VII \u00a0 \u00a0\n</p><p>\nMata Pelajaran: Fisika \u00a0 \u00a0 \u00a0\n</p><p>\nMateri: Bab 1 - Besaran dan Pengukuran \u00a0\n</p><p>\nKata Kunci: Termometer cair, bimetal dan kristal cair</p><p></p><p><strong>#TingkatkanPrestasimu</strong></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-contoh-perpindahan-kalor-500",
+            "question": "Contoh contoh perpindahan kalor",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "A. Konduksi adalah perpindahan kalor yang tidak diikuti partikel-partikel mediumnya.  <br>\n- Kemampuan konduktor menghantarkan kalor berbeda-beda sesuai dengan jenisnya. <br>\n- Konduktor adalah zat yang mudah menghantarkan kalor. <br>\n  Contoh konduktor : tembaga, aluminium, besi, silikon, seng, dll. <br>\n- Isolator adalah zat yang sulit menghantarkan kalor.  <br>\n  Contoh isolator : gelas, kayu, wol, plastik, karet, kertas, dll. <br>\n- Solder dan setrika alat yang memanfaatkan perpindahan kalor secara konduksi.  <br><br>\nB. Konveksi adalah perpindahan kalor yang diikuti perpindahan partikel-partikel zatnya.  <br>\n- Konveksi terjadi pada zat cair dan gas.  <br>\n- Contoh konveksi pada zat cair : terjadinya arus laut dan air yang sedang di masak.  <br>\n- Contoh konveksi pada udara/gas : terjadinya angin darat dan angin \nlaut, adanya cerobong asap       pabrik dan adanya sirkulasi udara pada \nruang kamar di rumah.  <br><br>\nC. Radiasi adalah perpindahan kalor secara langsung tanpa medium/zat perantara.  <br>\n- Contoh radiasi : cahaya dari api unggun,cahaya matahari sampai ke bumi\n melalui ruang hampa, warna hitam kusam penyerap atau pemancar kalor \nyang baik.  <br><br>SEMOGA MEMBANTU<br>JADIKAN TERBAIK YA<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "KONDUKSI, perpindahan kalor scr langsung dari sumber kalor (api) pada benda, contoh besi dibakar. KONVEKSI, perpindahan kalor scr tidak langsung (membutuhkan media) dari sumber kalor, contoh air yang mendidih akibat terkena panci yang panas terkena api. RADIASI, perpindahan kalor tanpa media, seperti panas matahari sampai ke bumi.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-gelombang-yang-arah-rambatnya-tegak-lurus-dengan-arah-getarann-941",
+            "question": "1. gelombang yang arah rambatnya tegak lurus dengan arah getarannya di sebut gelombang?    2. jika usikan yang diberikan sejajar dengan arah rambat gelombang, maka gelombang ini termasuk gelombang?\r\n3. banyak gelombang tiap sekon disebut?\r\n4. perbedaan dasar antara gelombang transversal dan longitudinal adalah dalam hal?\r\n5. jarak antara dua puncak gelombang yang berurutan disebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2><u>Pembahasan</u></h2><h3><em>1. Gelombang yang arah rambatnya tegak lurus dengan arah getarannya disebut gelombang?</em></h3><h3>Jawab: </h3><p>Gelombang yang arah rambatnya tegak lurus dengan arah getarannya disebut <strong>gelombang transversal.</strong> Contohnya gelombang permukaan air, tali, slinki yang melintang, dan gelombang elektromagnetik.</p><h3><em>2. Jika usikan yang diberikan sejajar dengan arah rambat gelombang, maka gelombang ini termasuk gelombang?\n</em></h3><h3>Jawab:</h3><p>Jika usikan yang diberikan sejajar dengan arah rambat gelombang, maka gelombang ini termasuk <strong>gelombang longitudinal. </strong>Contohnya gelombang bunyi, slinki yang dipanjangkan, getaran garpu tala.</p><h2><em>3. Banyak gelombang tiap sekon disebut?</em></h2><h3>Jawab:</h3><p>Banyak gelombang tiap sekon disebut<strong> frekuensi.</strong></p><p>[tex]\\boxed{f = \\frac{n}{t} }[/tex]</p><p>Waktu tempuh satu gelombang adalah <strong>perioda</strong>.</p><p>[tex]\\boxed{T = \\frac{t}{n} }[/tex]</p><h3><em>4. Perbedaan mendasar antara gelombang transversal dan longitudinal adalah dalam hal?</em></h3><p>Perbedaan mendasar dasar antara gelombang transversal dan longitudinal adalah dalam hal <strong>arah rambat dan arah getar.</strong></p><h2><em>5. Jarak antara dua puncak gelombang yang berurutan disebut?</em></h2><p>Jarak antara dua puncak gelombang yang berurutan disebut sebagai <strong>panjang gelombang.</strong></p><p>------------------------</p><h3>Penjelasan tambahan</h3><p>Pada gelombang transversal, satu gelombang dinyatakan sebagai <strong>jarak antara 1 gunung dan satu lembah.</strong></p><p>Pada gelombang longitudinal, satu gelombang dinyatakan sebagai <strong>jarak antara 2 rapatan dan 1 renggangan, atau, 2 renggangan dan 1 rapatan.</strong></p><p>Panjang gelombang dapat diperoleh dari hasil bagi jarak tempuh terhadap banyak gelombang [tex]\\boxed{\\lambda = \\frac{jarak}{n} }[/tex]</p><p>Hubungan frekuensi (f), panjang gelombang (\u03bb), dan cepat rambat (v) adalah [tex]\\boxed{v = \\lambda \\times f}[/tex]</p><p>----------------------</p><p>Beberapa istilah mendasar mengenai gelombang</p><p>brainly.co.id/tugas/26912</p><p>brainly.co.id/tugas/5408989</p><p>Kasus menarik tentang menghitung cepat rambat gelombang bunyi yang dihasilkan oleh dawai</p><p>brainly.co.id/tugas/14033074</p><p>____________</p><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: VIII</strong></p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0 : Fisika</strong></p><p><strong>Kategori \u00a0 \u00a0 : Gelombang</strong></p><p><strong>Kata Kunci : arah, rambat, getar, transversal, longitudinal, panjang, gelombang, usikan, sejajar , tegak , lurus, usikan, longitudinal</strong></p><p><strong>Kode : 8.6.4 [Kelas 8 IPA Bab 4 - Getaran]</strong></p>",
+                    "attachments": [
+                        "answer-attachments/1-gelombang-yang-arah-rambatnya-tegak-lurus-dengan-arah-getarann-941-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

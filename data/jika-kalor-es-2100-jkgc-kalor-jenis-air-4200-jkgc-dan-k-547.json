@@ -1,0 +1,150 @@
+{
+    "question": "Jika kalor es 2.100 J/kg\u00b0C, kalor jenis air 4.200 J/kg\u00b0C, dan kalor lebur es 366.000 J/kg. Berapakah kalor yang dibutuhkan dalam proses dari B-C-D ?    a. 31.500 J\r\nb. 63.000 J\r\nc.168.000 J\r\nd.\u00a0231.000 J",
+    "attachments": [
+        "question-attachments/jika-kalor-es-2100-jkgc-kalor-jenis-air-4200-jkgc-dan-k-547-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<span><span>Diketahui\u00a0<br><br>\nM = 0.5 kg\u00a0</span><br><span>C = Kalor Jenis ( J/KgC )\u00a0<br></span>C\u00a0es= 2,1 kJ/kg\u00b0C<br>C air= 4,2 kJ/kg\u00b0C<br><span>L es= 366 kJ/kg<br></span>Kalor jenis adalah banyaknya kalor yang dibutuhkan untuk menaikkan suhu 1 kg zat sebesar 1 derajat celcius. Alat yang digunakan untuk menentukan besar kalor jenis adalah kalorimeter.\u00a0<br>\u0394 T = Perubahan Suhu ( C )\u00a0<br><br>Q = M. L ( digunakan untuk menghitung energi kalor pada fase perubahan wujud )\u00a0<br>M = Massa ( Kg )\u00a0<br>L = Kalor Laten ( J/Kg )\u00a0<br>Kalor Laten adalah kalor yang digunakan untuk mengubah wujud suatu zat. Kalor laten ada dua macam Q = m.U dan Q = m.L. Dengan U adalah kalor uap (J/kg) dan L adalah kalor lebur (J/kg)\u00a0<br><br>Diketahui :\u00a0<br><br>1. Fase perubahan suhu es dari -10\u00b0C menjadi es bersuhu 0\u00b0C.\u00a0<br>2. Fase perubahan wujud es menjadi air pada suhu 0\u00b0C.\u00a0<br>3. Fase perubahan suhu air dari 0\u00b0C. menjadi es bersuhu 10\u00b0C.\u00a0<br><br>Cara menghitung setiap fase.\u00a0<br><br>Fase 1 :\u00a0<br>Q1 = M. C. \u0394 T\u00a0<br>Q1 = 0,5 x 2,10 x 10\u00a0<br>Q1 = 10,5 kJ<br><br>Fase 2 :\u00a0<br>Q2 = M. L\u00a0<br>Q2 = 0,5 x 366\u00a0<br>Q2 = \u00a0183 kJoule\u00a0<br><br>Fase 3 :\u00a0<br>Q3 = M. C. \u0394 T\u00a0<br>Q3 = 0,5 x 4,2\u00a0x 30\u00a0<br>Q3 = \u00a063 kJoule\u00a0<br><br>Penjumlahan dari ketiga fase tersebut menghasilkan nilai akhir sbb :\u00a0<br><br>Q_total = Q1 + Q2 + Q3 =10.5+183+63= 256 kJ<br><br><br></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mengapa-buaya-sering-mengangakan-mulutnya-dalam-waktu-yang-lama-904",
+            "question": "Mengapa buaya sering mengangakan mulutnya dalam waktu yang lama?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "BAB : SUHU DAN PERUBAHANNYA\u00a0<br>SMP KELAS 7<br><br>Hal yang perlu diketahui adalah buaya termasuk hewan yang berdrah dingin yang memiliki kebiasaan berjemur untuk merasa hangat dan merendam diri dalam air untuk mendinginkan tubuhnya.<br><br>Buaya mengangakan mulutnya untuk mengatur suhu tubuh agar tetap stabil dan bisa beradaptasi dengan suhu lingkungan sekitar. Tujuan lainnya yaitu untuk berisitirahat dan mengumpulkan kembali tenaganya.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tuliskan-persamaan-hukum-pascal-secara-matematika-772",
+            "question": "Tuliskan persamaan hukum pascal secara matematika",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dalam soal apa dimatematikanya?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Secara matematis hukum pascal dituliskan sebagai berikut<br><br>F1 = D1\u00f7D2 \u00d7\u00a0F2<br>KET :<br>F1 = gaya pada permukaan A (N)<br>F2= gaya pada permukaan B (N)<br>A1 = Luas permukaan A (m\u00b2)<br>A2 = luas permukaan B (m\u00b2)<br><span>D1 = diameter permukaan A (m)</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nama-latin-dari-tanaman-pepaya-483",
+            "question": "Nama latin dari tanaman pepaya??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>nama latinnya pepaya =\u00a0Caricae Fructus</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Caricae Fructus.......<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-kelompok-besaran-turunan-menurut-sistem-internasional-316",
+            "question": "Sebutkan kelompok besaran turunan menurut sistem internasional !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Meter untuk panjang (m, l)<br>2. Kilogram untuk massa (kg, m)<br>3. Sekon untuk waktu (s, t)<br>4. Ampere untuk arus listrik (A, i)<br>5. Kelvin untuk suhu (K, T)<br>6. mol untuk jumlah molekul (mol, n)<br><span>7. Kandela untuk intensitas cahaya (cd, j)</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "volume<br>massa jenis<br>percepatan<br>gaya<br>usaha dan energi<br>daya<br>tekanan<br>muatan listrik",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "konversikan-a-77-f-c-r-k-b-333-k-c-116",
+            "question": "Konversikan:\r\na. 77 F =......C =.....R =.....K\r\nb. 333 K =....C =.....R =....F",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran: Fisika <br>Kelas : 7 SMP <br>Kategori: suhu<br>Kata kunci: termometer <br>Pembahasan:<br><br>Berikut terlampir pembahasan soal.",
+                    "attachments": [
+                        "answer-attachments/konversikan-a-77-f-c-r-k-b-333-k-c-116-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pesawat-tv-memiliki-daya-80-watt-hitunglah-besar-energi-l-310",
+            "question": "sebuah pesawat TV memiliki daya 80 watt. hitunglah besar energi listrik yang digunakan selama 1,5 jam! mohon dibantu..terimakasih :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "W = P . t<br>\u00a0 \u00a0 = 80 Watt . 1,5 (3600) sekon<br>\u00a0 \u00a0 = 80 Watt . 5400 sekon<br>\u00a0 \u00a0 = 432000 J<br>\u00a0 \u00a0 = 432 kJ",
+                    "attachments": []
+                },
+                {
+                    "answer": "1,5 jam itu = 90 menit x 60 =5400 detik x 80 watt= 43200 joule = 43,2 kiloJoule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-3-contoh-energi-244",
+            "question": "Sebutkan 3 contoh energi !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "listrik, gerak, panas\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Energi listrik, cahaya, kimia",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-alat-memiliki-medan-magnet-sebesar-5-t-dan-kawatnya-400-cm-846",
+            "question": "suatu alat memiliki medan magnet sebesar 5 T dan kawatnya 400 CM sehingga menghasilkan gaya lorentz 40 N. maka kuat arus yang digunakan sebesar",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "B =\u00a05 T<br>l = 400 cm = 4 m<br>F = 40 N<br>I = ?<br>I = F/B x l\u00a0<br>\u00a0 = <u>40 N</u>\u00a0 =<u> 40 N =</u>\ufeff 2 A<br>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a05 x 4\u00a0\u00a0\u00a0\u00a0\u00a020 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "4-perbedaan-dari-sistem-repirasi-aerob-sama-anaerob-507",
+            "question": "4 perbedaan dari\u00a0sistem repirasi aerob sama anaerob?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "respirasi aerob adalah respirasi yg memelukan oksigen sedangkan respirasi anaerob tidak membutuhkan oksigen setau aku sih gitu sorry kalo salah",
+                    "attachments": []
+                },
+                {
+                    "answer": "Menurutku dari tempat berlangsung(Misal mitokondria) dan kapan terjadinya<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "manakah-yang-lebih-bagus-kualitasnya-trafo-a-efisiensinya-85-dan-605",
+            "question": "Manakah yang lebih bagus kualitasnya trafo A efisiensinya 85% dan trafo B yang efisiensinya 90% ? mengapa ? coba jelaskan !! \u00a0 Tolong di jawab,so'ini untuk besok \u00a0 Mohon...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kualitas Trafo B karena pada kualitas suatu trafo ditentukan dari besarnya efisiensi..semakin besar efisiensi semakin bagus kualitas trafonya..",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

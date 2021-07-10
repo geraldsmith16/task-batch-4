@@ -1,0 +1,133 @@
+{
+    "question": "hitunglah pH larutan yang di buat dengan mencampurkan 50 ml larutan CH3COOH 0,1 M dengan 50 ml larutan NaCH3COO 0,2 M. ( ka CH3COOH = 10^-5).",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3COOH + NaCH3COO\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0m.v \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0m.v \u00a0\u00a0<br>mula2 \u00a0 \u00a0 5 mmol \u00a0 \u00a0 10 mmol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-<br>reaksi \u00a0 \u00a0 5 mmol\u00a0 \u00a0 \u00a0\u00a05\u00a0mmol \u00a0 \u00a0 \u00a0 5 mmol<br>sisa \u00a0 \u00a0 \u00a0 \u00a0 \u00a00 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5 mmol \u00a0 \u00a0 \u00a0 \u00a0 5\u00a0mmol<br><br>larutan tersebut bersifat penyangga asam lemah dan garam konjugasi basa<br>H \u00a0\u00a0= \u00a0ka . asam/garam<br>\u00a0 \u00a0 \u00a0= \u00a010^5 . 5 / 10<br>\u00a0 \u00a0 \u00a0= \u00a05 x 10^-6<br>pH = - log 5 x 10^-6<br>\u00a0 \u00a0 \u00a0= 6 - log 5<br><span>\u00a0 \u00a0</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebanyak-25-ml-larutan-hcl-01m-dititrasi-dengan-larutan-koh-01m-952",
+            "question": "Sebanyak 25 mL larutan HCL 0,1M dititrasi dengan larutan KOH 0,1M. Hitunglah pH larutan :    a. Sebelum ditambah KOH\r\nb. Setelah ditambah KOH sebanyak 5mL",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pH sebelum<br>-log 0,1 = 1<br><br>pH sesudah<br><br>HCl \u00a0 \u00a0 \u00a0 \u00a0\u00a0+ \u00a0 KOH ---&gt; \u00a0\u00a0KCl + H2O<br>2,5mmol \u00a0 \u00a0 \u00a0 5mmol<br>2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a02,5<br>-------------------------------------------------------------------<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a02,5<br><br><br>2,5 x 10^-3 mol dalam 30 mL<br>0,83 x 10^-3 mol dalam 10 mL<br>0,83 x 10^-1 M<br><br><br>pOH larutan<br>-log 0,083 = 1,08<br><br><br>pH = 14 -1.08 = 12,92",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-perbedaan-yang-terjadi-saat-natrium-hidroksida-dan-laru-528",
+            "question": "jelaskan\u00a0perbedaan yang terjadi saat natrium hidroksida dan larutan natrium karbonat\u00a0di uji dengan alat uji elektrolit",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pada natrium hidroksida\u00a0 (basa kuat) lampu uji akan menyala terang dan banyak gelembung pada elktrodanya, ini menandakan bahwa natrium hidroksida terurai sempurna dalam larutannya sehingga ion-ionnya dapat bergerak bebas dalam menghantarkan listrik :)<br><br>Natrium karbonat (Na2CO3) lampun akan menyala redup bahkan bisa mati dengan sedikit gelembung yang berada di elektroda, ini menandakan bahwa natrium karbonat terurai sebagian dalam larutannya sehingga ion - ionnya kurang dapat bergerak bebas dalam menghantarkan listrik :)<br><br><br><br>semoga membantu :)<br><br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "yang akan membedakannya adalah NaOH terurai sempurna dengan derajat ionisasi 1 atau mendekati 1 sehingga akan lebih terang sedangkan Na\u2082CO\u2083 terurai sedikit sehinga derajat ionisasinya kecil dan nyalanya redup<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "larutan-koh-0125-m-dititrasi-dengan-25-ml-larutan-hcl-01-m-deng-817",
+            "question": "Larutan KOH 0,125 M dititrasi dengan 25 mL larutan HCL 0,1 M dengan menggunakan indikator fenolftalein (PP). Volume KOH yang diperlukan untuk menetralkan 25 mL HCL dalam titrasi tersebut adalah ...    A. 20 mL\r\nB. 25 mL\r\nC. 30 mL\r\nD. 40 mL\r\nE. 50 mL.\r\n\r\nBeri jalannya .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "V1.M1 = V2.M2<br>V1.0.125=25.0,1<br>V1=2,5/0.125<br>V1= 20 mL",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "342-mg-baoh2-yang-dilarutkan-dalam-air-hingga-50-ml-tentukan-j-835",
+            "question": "342 mg Ba(OH)2 yang dilarutkan dalam air hingga 50 ml. Tentukan jumlah mol, jumlah grek, molaritas dan normalitas nya!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "mol = massa/MR = 0,342/171=0,002<br><br>greknya = molxjumlah OH- = 0,002 X 2 = 0,004<br><br>molaritas = molx1000/ml=0,002x1000/50=0,002x20=0,04<br><br>normalitas = GREK / liter = 0,004 / 0,05 = 0,08",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-50-ml-larutan-timbelii-nitrat-01-m-direaksikan-dengan-889",
+            "question": "sebanyak 50 mL larutan timbel(II) nitrat 0,1 M direaksikan dengan 50 mL NaCl 0,4 M . Tentukan masa endapan yang terbentuk. (Ar Cl=35,5 \u00a0 Pb=207)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Pb(NO3)2 + 2NaCl --&gt; PbCl2 + 2NaNO3<br>mula2: \u00a0 \u00a0 5 mmol \u00a0 \u00a0 \u00a020 mmol<br>breaksi: \u00a0 5 mmol \u00a0 \u00a0 \u00a010 mmol \u00a0 5 mmol<br>endapan : PbCl2 = 5 mmol = 5.10^-3 mmol<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5.10^-3 . (207+2.35,5)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1,39 gr",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-reaksi-ionisasi-missal-ch3coona-ch3coo-473",
+            "question": "10 contoh reaksi ionisasi???\r\nmissal CH\u2083COONa \u21d2 CH\u2083COO\u207b + Na\u207a\r\ncontoh lainnya apa ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Berikut akan kita buat <strong>10 contoh reaksi ionisasi dari larutan elektrolit</strong>. Terdapat reaksi-reaksi ionisasi dari: </p><ul><li>larutan asam kuat, </li><li>larutan basa kuat, </li><li>larutan asam lemah, \u00a0</li><li>larutan basa lemah, dan </li><li>larutan garam.</li></ul><h3>Pembahasan</h3><p>Perhatikan skema ionisasi larutan elektrolit pada gambar terlampir.</p><p>Elektrolit adalah zat-zat yang jika dilarutkan ke dalam air akan terurai menjadi ion-ion atau dapat terionisasi sehingga mampu menghantarkan arus listrik. Zat yang termasuk elektrolit yaitu asam, basa, dan garam.</p><p>Zat elektrolit meliputi: </p><ul><li>senyawa ion seperti: NaCl, K\u2082S, dan lain-lain; </li><li>senyawa kovalen polar seperti HCl, HF, dan lain-lain.</li></ul><p>Reaksi ionisasi asam kuat, basa kuat, dan garam merupakan reaksi yang bersifat irreversibel atau tak dapat balik, tanda panah hanya satu arah, atau reaksi berkesudahan.</p><p>Reaksi ionisasi asam lemah dan basa lemah merupakan reaksi kesetimbangan (reversibel atau berlangsung kedua arah) dengan tanda panah bolak-balik. Ciri khas elektrolit lemah memiliki tetapan ionisasi asam (Ka) dan tetapan ionisasi basa (Kb) yang berperan dalam perhitungan nilai pH.</p><p><em><u><strong>Contoh reaksi ionisasi larutan asam kuat</strong></u></em></p><p>Reaksi ionisasi asam klorida [tex]\\boxed{~HCl_{(aq)} \\rightarrow H^+_{(aq)} + Cl^-_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam sulfat [tex]\\boxed{~H_2SO_4_{(aq)} \\rightarrow 2H^+_{(aq)} + SO_4^{2-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam perklorat [tex]\\boxed{~HClO_4_{(aq)} \\rightarrow H^+_{(aq)} + ClO_4^{-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan basa kuat</strong></u></em></p><p>Reaksi ionisasi natrium hidroksida [tex]\\boxed{~NaOH_{(aq)} \\rightarrow Na^+_{(aq)} + OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi kalium hidroksida [tex]\\boxed{~KOH_{(aq)} \\rightarrow K^+_{(aq)} + OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi kalsium hidroksida [tex]\\boxed{~Ca(OH)_2_{(aq)} \\rightarrow Ca^{2+}_{(aq)} + 2OH^{-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan asam lemah</strong></u></em></p><p>Reaksi ionisasi asam asetat [tex]\\boxed{~CH_3COOH_{(aq)} \\rightleftharpoons CH_3COO^-_{(aq)} + H^+_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam sianida [tex]\\boxed{~HCN_{(aq)} \\rightleftharpoons H^+_{(aq)} + CN^-_{(aq)}~}[/tex]</p><p>Reaksi ionisasi asam sulfit [tex]\\boxed{~H_2SO_3_{(aq)} \\rightleftharpoons 2H^+_{(aq)} + SO_3^{2-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan basa lemah</strong></u></em></p><p>Reaksi ionisasi amonium hidroksida [tex]\\boxed{~NH_4OH_{(aq)} \\rightleftharpoons NH_4^+_{(aq)} + OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi aluminium hidroksida [tex]\\boxed{~Al(OH)_3_{(aq)} \\rightleftharpoons Al^{3+}_{(aq)} + 3OH^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi besi (III) hidroksida [tex]\\boxed{~Fe(OH)_3_{(aq)} \\rightleftharpoons Fe^{3+}_{(aq)} + 3OH^{-}_{(aq)}~}[/tex]</p><p><em><u><strong>Contoh reaksi ionisasi larutan garam</strong></u></em></p><p>Reaksi ionisasi kalsium klorida [tex]\\boxed{~CaCl_2_{(aq)} \\rightarrow Ca^{2+}_{(aq)} + 2Cl^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi natrium asetat [tex]\\boxed{~CH_3COONa_{(aq)} \\rightarrow Na^{+}_{(aq)} + CH_3COO^{-}_{(aq)}~}[/tex]</p><p>Reaksi ionisasi aluminium sulfat [tex]\\boxed{~Al_2(SO_4)_3_{(aq)} \\rightarrow 2Al^{3+}_{(aq)} + 3SO_4^{2-}_{(aq)}~}[/tex]</p><p>Silakan mengambil 10 contoh reaksi ionisasi dari beberapa contoh di atas.</p><h3>Pelajari lebih lanjut</h3><ol><li>Pahami lebih jauh perbedaan larutan elektrolit dan non elektrolit brainly.co.id/tugas/4335479 </li><li>Tanda-tanda larutan elektrolit https://brainly.co.id/tugas/13934388 </li><li>Penjelasan tentang daya hantar listrik larutan garam dapur brainly.co.id/tugas/10845209 </li><li>Pembahasan 9 soal pilihan ganda seputar daya hantar listrik larutan brainly.co.id/tugas/5821519 </li><li>Uji nyala lampu dan gelembung gas brainly.co.id/tugas/13215302 </li><li>10 contoh reaksi ionisasi garam https://brainly.co.id/tugas/1836605\n</li></ol><h3>----------------------------</h3><h3>Detil jawaban</h3><p><strong>Kelas \u00a0 \u00a0 \u00a0 \u00a0 :</strong> XI</p><p><strong>Mapel \u00a0 \u00a0 \u00a0 \u00a0:</strong> Kimia</p><p><strong>Bab \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> Larutan Elektrolit dan Non Elektrolit</p><p><strong>Kode \u00a0 \u00a0 \u00a0 \u00a0 \u00a0:</strong> 10.7.5</p><br><p><strong>Kata Kunci :</strong> 10 contoh, reaksi, ionisasi, larutan elektrolit, asam kuat, basa, lemah, garam, terionisasi, reversibel, irreversibel, kesetimbangan, klorida, sianida, hidroksida, amonium, asetat, kalium, kalsium, besi, alumunium, sulfit, perklorat, brainly</p>",
+                    "attachments": [
+                        "answer-attachments/10-contoh-reaksi-ionisasi-missal-ch3coona-ch3coo-473-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "untuk-membuat-asam-sulfatdigunakan-gas-so3massa-gas-tersebut-pa-640",
+            "question": "untuk membuat asam sulfat,digunakan gas SO3.massa gas tersebut pada temperatur 27'C dan tekanan 1 atm adalah 10 g.hitunglah volume gas pada saat itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama cari mol dari larutan tersebut<br>mol SO3 = gram / Mr\u00a0 10 / (32 + 16x3) =10 /80 = 0,125mol<br>T = 27 + 273 = 300 K<br>kemudian gunakan rumus<br>PV = nRT<br>1 x V = 0,125 x 0,082 x 300<br>V = 3,075 Liter<br><br><br>semoga bisa membantu :)<br>beri label terbaik ya :D<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-penerapan-sifat-adsorpsi-terdapat-pada-peristiwa-640",
+            "question": "Contoh penerapan sifat adsorpsi terdapat pada peristiwa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>contoh penerapan sifat adsorpsi </strong></p><h2>Pembahasan</h2><p>[tex]\\boxed{\\boxed{\\bold{Koloid}}}[/tex]\n</p><p>Koloid adalah campuran zat heterogen yang sifat antara larutan dan suspensi. Campuran heterogen ini dapat terdiri dari dua zat atau lebih yang memiliki ukuran partikel koloid (10-7 s/d 10-5 cm) yang tersebar secara merata dalam zat lain.\n</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Diket}}}[/tex] \u00a0</p><p>Adsorpsi</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Ditanya}}}[/tex] \u00a0</p><p>Contoh penerapan sifat adsorpsi</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Jawab}}}[/tex] \u00a0</p><p>Berikut ini beberapa sifat - sifat pada koloid adalah</p><p>[tex]\\mathbf{Sifat~Koloid }[/tex]\n</p><p>1. Efek Tyndall\n</p><p>Adalah penghamburan cahaya oleh partikel koloid.\n</p><p>Contoh : sorot lampu dalam kabut atau udara berdebu dan sinar matahari dalam udara berkabut\n</p><p>\n</p><p>2. Gerak Brown\n</p><p>Adalah gerak zig-zag yang berupa gerak tidak beraturan partikel koloid dalam medium pendispersi.\n</p><p>Contoh : gerak debu diudara\n</p><p>\n</p><p>3. Elektroforesis\n</p><p>Adalah pergerakan partikel koloid dalam \u00a0medan listrik.\n</p><p>Contoh : untuk menentukan muatan koloid, proses penyaringan debu pabrik\n</p><p>\n</p><p><strong>4. Adsorpsi\n</strong></p><p><strong>Adalah penyerapan suatu zat di permukaan zat lain\n</strong></p><p><strong>Contoh :\n</strong></p><p><strong>Pemutihan gula pasir, penggunaan norit sebagai obat sakit perut, penjernihan air dengan tawas, pencelupan serat wol pada proses pewarnaan, pencucian dengan sabun\n</strong></p><p>\n</p><p>5. Koagulasi\n</p><p>Adalah pengendapan atau penggumpalan partikel-partikel koloid sehingga fase terdispersi terpisah dari medium pendispersi\n</p><p>Contoh : pembentukan delta sungai, pembersih asap/debu pada cerobong asap, pembuatan lateks, penjernihan lumpur dari air sungai, penggumpalan karet\n</p><p>\n</p><p>6. Koloid Pelindung\n</p><p>Adalah koloid yang dapat melindungi koloid lain agar tidak mengalami koagulasi. Koloid yang bersifat emulgator ( pengemulsi )\n</p><p>Contoh : sabun pada buih sabun, kasein dalam susu, penambahan lesitin pada margarin, penambahan gelatin pada es krim, penambahan minyak silikon pada cat\n</p><p>\n</p><p>7. Dialisis\n</p><p>Adalah cara mengurangi ion-ion pengganggu dalam koloid menggunakan selaput semipermeabel.\n</p><p>Contoh : memisahkan ion-ion sianida dari tepung tapioka. proses cuci darah\n</p><p>\n</p><p>[tex]\\boxed{\\boxed{\\bold{Kesimpulan}}}[/tex] \u00a0</p><ul><li><strong>Pemutihan gula pasir</strong></li><li><strong>penggunaan norit sebagai obat sakit perut</strong></li><li><strong>penjernihan air dengan tawas</strong></li><li><strong>pencelupan serat wol pada proses pewarnaan</strong></li><li><strong>pencucian dengan sabun\n</strong></li></ul><p></p><p></p><p>[tex]\\mathbf{Pelajari~Lebih~Lanjut }[/tex] \u00a0</p><ul><li>Perbedaaan larutan, koloid, suspensi https://brainly.co.id/tugas/5871963, https://brainly.co.id/tugas/2686443\n</li><li>Contoh larutan, koloid, suspensi https://brainly.co.id/tugas/3635353\n</li><li>Sistem koloid https://brainly.co.id/tugas/10684270\n</li><li>Koagulasi https://brainly.co.id/tugas/10683922\n</li></ul><p> \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]\\boxed{\\bigstar}\\boxed{\\bold{Semoga~Membantu}}\\boxed{\\bigstar}[/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]\\boxed{\\bigstar}\\boxed{\\bold{ionkovalen}}\\boxed{\\bigstar}[/tex]\n</p><p>\n</p><p>[tex]\\mathbf{Detil~Jawaban }[/tex] \u00a0</p><p>Mapel : Kimia\n</p><p>Bab : Koloid</p><p>Kelas : XI</p><p>Semester : 2\n</p><p>Kode : 11.7.11</p><p>Kata kunci : adsorpsi, koagulasi, efek tyndall, gerak brown, elektroforesis</p>",
+                    "attachments": [
+                        "answer-attachments/contoh-penerapan-sifat-adsorpsi-terdapat-pada-peristiwa-640-1.jpg",
+                        "answer-attachments/contoh-penerapan-sifat-adsorpsi-terdapat-pada-peristiwa-640-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-biohazard-734",
+            "question": "Apa yang dimaksud dengan biohazard ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "biohazard adalah\u00a0\u00a0<u>organisme</u>, atau zat yang berasal dari organisme, yang menimbulkan ancaman bagi\u00a0<u>k</u>esehatan\u00a0manusia. Hal ini dapat mencakup limbah medis,\u00a0<u>sample virus, mikroorganis</u>\u00a0atau racun (dari sumber biologis) yang dapat berdampak pada kesehatan manusia dan hewan. Istilah dan simbol yang terkait umumnya digunakan sebagai peringatan, agar mereka yang berpotensi terkena zat-zat tersebut dapat mengambil tindakan pencegahan.<br><br>adapun\u00a0<span>Istilah yang mungkin terkait dengan Biohazard :<br>- infestasi<br>- toksin<br>- zoonis<br>- mikroorganisme<br>- homeostatis</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-larutan-asam-kuat-dan-lemah-basa-kuat-dan-lemah-masing-609",
+            "question": "Sebutkan larutan asam kuat dan lemah, basa kuat dan lemah, masing2 10!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Contoh 10 larutan asam kuat dan lemah, basa kuat dan lemah</strong></p><h2>Pembahasan</h2><p>[tex]\\boxed{\\boxed{\\bold{Larutan~Asam~Basa}}}[/tex]\n</p><p>Asam dan basa sering kita gunakan dalam kehidupan sehari \u2013 hari. Misalnya basa pada sabun mandi kita atau pada shampo rambut kita. Kemudian asam pada pada buah \u2013 buahan, yaitu asam sitrat pada buah jeruk. Cuka terdapat asam asetat yang biasa digunakan untuk campuran ketika memakan bakso.\n</p><p>Menurut perkembangan terdapat tiga teori asam basa yaitu\n</p><p>a.\tTeori asam basa menurut Arrhenius\n</p><p>b.\tTeori asam basa menurut Bronstead Lowry\n</p><p>c.\tTeori asam basa menurut Lewis\n</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{\\blue{Jawab}}}}[/tex] \u00a0</p><p><strong>Teori asam basa menurut Arrhenius\n</strong></p><p>Menurut Arrhenius pada tahun 1884 mendefinisikan bahwa \u00a0</p><p><strong>Asam adalah</strong> senyawa yang dalam air melepas ion H\u207a\n</p><p>Contoh Larutan Asam Kuat : \u00a0\n</p><ul><li>HNO\u2083 = Asam Nitrat \u00a0\n</li><li>H\u2082SO\u2084 = Asam Sulfat \u00a0\n</li><li>HCl = Asam Klorida\n</li><li>HBr = Asam Bromida\n</li><li>HI = Asam Iodida\n</li><li>HClO\u2083 = Asam Klorat\n</li><li>HClO\u2084 = Asam perklorat\n</li><li>HBrO\u2083 = Asam bromit\n</li><li>HBrO\u2084 = Asam perbromat\n</li><li>HIO\u2084 = Asam periodat\n</li></ul><p>.\n</p><p>Contoh Larutan Asam Lemah : \u00a0\n</p><ul><li>H\u2082CO\u2083 = Asam Karbonat \u00a0\n</li><li>H\u2082S = Asam Sulfida \u00a0\n</li><li>CH\u2083COOH = asam asetat\n</li><li>HCOOH = asam format\n</li><li>HF = asam flourida\n</li><li>HCN = asam sianida\n</li><li>H\u2082SO\u2083 = asma sulfit\n</li><li>H\u2083PO\u2084 = Asam Fosfat\n</li><li>H\u2083BO\u2083 = Asam Borat \u00a0</li></ul><p>.</p><p><strong>Basa adalah</strong> senyawa yang dalan air melepas ion OH\u207b \u00a0</p><p>Contoh Larutan Basa Kuat : \u00a0\n</p><ul><li>LiOH = litium hidroksida\n</li><li>NaOH = natrium hidroksida \u00a0\n</li><li>KOH = kalium hidroksida \u00a0\n</li><li>RbOH = rubidium hidroksida\n</li><li>Be(OH)\u2082 = berilium hidroksida\n</li><li>Mg(OH)\u2082 = magnesium hidroksida\n</li><li>Ca(OH)\u2082 = kalsium hidroksida\n</li><li>Sr(OH)\u2082 = stronsium hidroksida\n</li><li>Ba(OH)\u2082 = barium hidroksida \u00a0\n</li></ul><p></p><p>Contoh Larutan Basa Lemah : \u00a0\n</p><ul><li>NH\u2083 = amonia\n</li><li>NH\u2084OH = amonium hidroksida\n</li><li>Al(OH)\u2083 = aluminum hidroksida\n</li><li>Fe(OH)\u2082 = besi (II) hidroksida\n</li><li>Zn(OH)\u2082 = seng / zink hidroksida\n</li><li>Cu(OH)\u2082 = tembaga (II) hidroksida\n</li><li>Ni(OH)\u2082 = nikel (II) hidroksida\n</li><li>Cd(OH)\u2082 = kadmium (II) hidroksida\n</li><li>Bi(OH)\u2083 = bismut hidroksida</li></ul><p></p><p></p><p>[tex]\\mathbf{\\bold{Pelajari~Lebih~Lanjut}}[/tex] \u00a0</p><ul><li>Reaksi ionisasi asam https://brainly.co.id/tugas/10919366#\n</li><li>Reaksi ionisasi basa https://brainly.co.id/tugas/101915\n</li><li>Asam basa bronsted lowry https://brainly.co.id/tugas/22875249\n</li><li>Asam Basa Lewis https://brainly.co.id/tugas/9193072\n</li><li>Asam basa dalam kehidupan https://brainly.co.id/tugas/28247172\n</li><li>cara membedakan larutan asam basa https://brainly.co.id/tugas/8941647\n</li></ul><p> \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]\\boxed{\\green{\\spadesuit}}\\boxed{\\bold{\\green{Semoga~Membantu}}}\\boxed{\\green{\\spadesuit}}[/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]\\boxed{\\green{\\spadesuit}}\\boxed{\\bold{\\green{Chemistry~ionkovalen}}}\\boxed{\\green{\\spadesuit}}[/tex]\n</p><p>\n</p><p>[tex]\\mathbf{\\bold{Detil~Jawaban}}[/tex] \u00a0</p><p>Mapel : Kimia\n</p><p>Bab : Larutan Asam Basa dan pH Larutan</p><p>Kelas : XI</p><p>Semester : 2</p><p>Kode : 11.7.5\n</p><p>#AyoBelajar\n</p>",
+                    "attachments": [
+                        "answer-attachments/sebutkan-larutan-asam-kuat-dan-lemah-basa-kuat-dan-lemah-masing-609-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "question": "Selesaikan x^2 - 5x +6 = 0 prsamaan kuadrat berikut dengan cara faktorisasi",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "x\u00b2 - 5x + 6 = 0<br>faktornya adalah : <br>(x - 2)(x - 3) = 0 <br>x - 2 = 0 atau x - 3 = 0<br>x = 2 atau x = 3 <br>",
+            "attachments": []
+        },
+        {
+            "answer": "jawabannya adalah\u00a0(x-2)(x-3)=0",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-px-x4-3x3-5x2-x-6-dibagi-dengan-x2-x-2-ma-385",
+            "question": "Jika p(x) = x4 - 3x3 - 5x2 + x - 6 dibagi dengan (x2 - x - 2), maka sisanya adalah...?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pake cara skematis, nanti hasilnya<br>p1.p2 = (x-2)(x+1)<br>s1 = -32<br>s2 = -8<br><br>jd, s(x) = p1s2 + s1<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (x-2)-8 + -32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = -8X+16-32<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = -8X - 16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 8X+16<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-fx-2x3-dan-gx-x2-1-maka-fg2-333",
+            "question": "Jika f(x) = 2x+3 dan g(x) =x2-1, maka (f.g)(2) =...\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(f.g(2))= 2(x2-1)+3\n            =2x2-2+1 = 2x2+1\n=2(2)2 +1 = 2(4)+1= 8+1=9",
+                    "attachments": []
+                },
+                {
+                    "answer": "(f.g)(x) = (2x + 3) (x2-1)<br>(f.g)(2) = (2(2) + 3) ((2)2-1)<br>(f.g)(2) = (4+3) (4-1)<br>(f.g)(2) = 7 . 3<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 21<br>kalo ga salah gitu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "range-untuk-fungsi-f-x-x2-2x-3-untuk-daerah-asal-x-1lt-508",
+            "question": "Range\u00a0 untuk fungsi f (x) =x2-2x-3 untuk daerah asal {x/-1&lt;_ x &lt;_ 4, x E R} adalah.??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "daerah asalnya x= {1, 2, 3, 4} keterangan: R= bilangan asli.<br><br>range { -4, -3, 0, 5}<br><br>caranya daerah asalnya subtitusi ke persamaan f(x) = x^2 - 2x -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "x={-1,0,1,2,3,4}<br>f(x) = x\u00b2-2x-3<br>f(-1) = -1\u00b2-2*-1-3<br>\u00a0\u00a0 \u00a0\u00a0 = 1+2-3<br>\u00a0\u00a0 \u00a0 \u00a0 = 0<br>f(0) = 0\u00b2-2*0-3<br>\u00a0\u00a0 \u00a0\u00a0 = -3<br>f(1) = 1-2-3<br>\u00a0\u00a0 \u00a0 = -4<br>f(2) = 4-4-3<br>\u00a0\u00a0 \u00a0  = -3<br>f(3) = 9-6-3<br>\u00a0\u00a0 \u00a0\u00a0 = 0<br>f(4) = 16-8-3<br>\u00a0\u00a0 \u00a0  = 5<br>range ={-3,-4,0,5}<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-deret-geometri-x-1x1x-1x-x-1-jumlahnya-mempunyai-434",
+            "question": "Agar deret geometri x-1/x,1/x, 1/x (x-1),... jumlahnya mempunyai limit, nilai x harus memenuhi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "|r|&lt;1\u00a0<br><br><span>[1/(x-1)]^2&lt;1\u00a0</span><br><br><span>x&gt;2 atau x&lt;0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-keliling-suatu-jajargenjang-adalah-56cm2buatlah-ukuran-587",
+            "question": "Diketahui keliling suatu jajargenjang adalah 56cm2.Buatlah ukuran jajargenjang tersebut (yang memungkinkan)!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2(a+b) = 2(12+16)<br>Jadi keliling jajar genjang 56 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-sin-2x-sin-x-0-untuk-x-elemen-dar-431",
+            "question": "himpunan penyelesaian dari sin 2x - sin x = 0, untuk x elemen dari R dan 0 derajat\u00a0 x 360 derajat adalah?? mohon jelaskan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sin 2x - sin x = 0<br>2 sin x cos x - sin x = 0<br>sin x (2 cos x - 1) = 0<br><br>1) sin x = 0<br>sin x = sin 0\u00b0<br>sin x = sin 180\u00b0<br>sin x = sin 360\u00b0<br>x = 0\u00b0, 180\u00b0, 360\u00b0<br><br>2) (2 cos x - 1) = 0<br>2 cos x = 1<br>cos x = 1/2<br>cos x = cos 60\u00b0<br>cos x = cos 300\u00b0<br>x = 60\u00b0, 300\u00b0<br><br>Jadi<br><br>Jika 0\u00b0 &lt; x &lt; 360\u00b0<br>HP = {60\u00b0, 180\u00b0, 300\u00b0}<br><br>Jika 0\u00b0 \u2264 x \u2264 360\u00b0<br>HP = {0\u00b0, 60\u00b0, 180\u00b0, 300\u00b0, 360\u00b0}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-barisan-deret-aritmatika-dengan-un-adalah-suku-ke-n-ji-683",
+            "question": "diketahui barisan deret aritmatika dengan Un adalah suku ke-n. jika U2 + U15 + U40 = 165 makan U19 =.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Diketahui barisan deret aritmatika dengan Un adalah suku ke-n. Jika U2 + U15 + U40 = 165 maka U19 = <strong>55</strong>.</p><p></p><h3><strong>P</strong>embahasan</h3><p><u>Diketahui</u>:</p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = 165</p><p></p><p><u>Ditanya</u>:</p><p>U\u2081\u2089 = .....?</p><p></p><p><u>Jawab</u>:</p><p>Dalam mencari suku ke-n pada deret aritmatika dengan suku pertama a dan beda b berlaku persamaan berikut:</p><h3> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2099 = a + (n - 1) b</h3><h3></h3><p>maka dari soal di atas, suku-suku yang telah diketahui dapat diuraikan sebagai berikut:</p><p>U\u2082 \u21d2 n = 2 \u21d2 U\u2082 = a + (2 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2082 = a + b</p><p>U\u2081\u2085 \u21d2 n = 15 \u21d2 U\u2081\u2085 = a + (15 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2085 = a + 14b</p><p>U\u2084\u2080 \u21d2 n = 40 \u21d2 U\u2084\u2080 = a + (40 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 U\u2084\u2080 = a + 39b</p><p></p><p>U\u2082 + U\u2081\u2085 + U\u2084\u2080 = (a + b) + (a + 14b) + (a + 39b)</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 165 = 3a + 54b \u00a0</p><p>disederhanakan dengan membagi kedua ruas dengan tiga</p><p>{ 3a + 54b = 165 } : 3</p><p>a + 18b = 55</p><p></p><p>U\u2081\u2089 \u21d2 n = 19 \u21d2 U\u2081\u2089 = a + (19 - 1)b </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0U\u2081\u2089 = a + 18b</p><p>Sehingga nilai U\u2081\u2089 = 55.</p><p></p><p>Semoga dapat membantu. Selamat belajar!</p><p></p><h3>Pelajari lebih lanjut</h3><p>1. Materi tentang Deret Aritmatika https://brainly.co.id/tugas/9607287</p><p>2. Materi tentang Contoh Soal Deret Aritmatika https://brainly.co.id/tugas/23271525, https://brainly.co.id/tugas/15798077</p><p>----------------------------</p><h3>Detil Jawaban</h3><p>Kelas : IX SMP</p><p>Mapel : Matematika</p><p>Bab : Barisan dan Deret Bilangan</p><p>Kode kategori : 9.2.2\t</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "budi-membuat-sebuah-parasut-berbentuk-belahan-bola-dari-katun-den-369",
+            "question": "budi membuat sebuah parasut berbentuk belahan bola dari katun dengan panjang diameter 7m.\u00a0 jika harga katun rp.30,000,00 setiap m ,\u00a0 maka biyaya yang diperlukan untuk membuat parasut itu adalah ..? \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k lingkaran =\u00a0[tex] \\pi [/tex] . d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] . 7 cm . 2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44 cm<br>biaya = Rp 30.000 . keliling lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 30.000 . 44 m<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 132.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "v\u00a0= 4/3\u00a0\u00d7 22/7\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 r\u00a0\u00d7 1/2 = 4/3\u00a0\u00d7 22/7\u00a0\u00d7 3,5\u00a0\u00d7 3,5\u00a0\u00d73,5\u00a0\u00d7 1/2 = 3773/42\u00a0= 89,83 m\u00b3<br>kayak gitu itu kalo betul sih",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukanlah-nilai-perbandingan-trigonometri-yang-lain-jika-diketa-924",
+            "question": "Tentukanlah nilai perbandingan trigonometri yang lain jika diketahui sudut lancipnya sebagai berikut ...    cos \u0443 = 0,8\r\n\r\ntolong yaa :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cos y = 0,8 = 8/10<br>cos y = sami(samping miring) = x/r<br>berarti x = 8 , r = 10 (sisi miring)<br>berarti mencari nilai y, dengan phytagoras didapat y = 6<br><br>sehingga sin y = y/r = 6/10 = 0.6<br>tan y = y/x = 6/8 = 0.75<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-bilangan-real-dan-contohnya-terima-kasih-737",
+            "question": "Pengertian bilangan real dan contohnya ???\r\n\r\n-terima kasih-",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Bilangan real </strong>adalah bilangan yang anggota-anggotanya terdiri dari bilangan irasional dan bilangan rasional.\n</p><p>Contoh : log 3, \u03c0, \u221a2, dan lain-lain.\n</p><h3>Pembahasan</h3><p>Diatas sudah dijelaskan, bahwa bilangan real adalah bilangan yang anggota-anggotanya terdiri dari bilangan irasional dan bilangan rasional.</p><p>Simak juga pengertian bilangan irasional dan bilangan rasional dibawah ini:</p><p><strong>Bilangan irasional</strong> adalah bilangan yang anggota-anggotanya terdiri dari bilangan berbentuk akar dan bilangan desimal tidak berulang yang tidak terbatas. Bilangan irasional tidak dapat dinyatakan sebagai pembagian dari bilangan bulat.\n</p><p>Contoh : \u221a2, \u03c0, e, dan lain-lain.\n</p><p><strong>Bilangan rasional</strong> atau bilangan pecahan adalah bilangan yang anggota-anggotanya terdiri dari bilangan bulat, bilangan desimal terbatas, bilangan desimal berulang yang tidak terbatas, pecahan biasa, dan pecahan campuran. Bilangan rasional dapat dinyatakan sebagai pembagian dari bilangan bulat yang berbentuk a/b dengan a dan b bilangan bulat, serta b tidak sama dengan nol.\n</p><p>Contoh : 8, 6,25. 2/5, dan lain-lain.\n</p><h3>Pelajari Lebih Lanjut</h3><p>Pengertian : Bilangan Bulat, Bilangan Asli, Bilangan Cacah, Bilangan Prima, dan Bilangan Real / Nyata dapat disimak di</p><ul><li>https://brainly.co.id/tugas/533188</li></ul><p>bilangan prima lebih lanjut dapat disimak di</p><ul><li>brainly.co.id/tugas/54323</li></ul><h3>========================</h3><h3>Detail jawaban</h3><p><strong>Kelas </strong>: 7</p><p><strong>Mapel </strong>: matematika</p><p><strong>Kategori </strong>: Bilangan</p><p><strong>Kode </strong>: 7.2.1</p><br><p><strong>Kata Kunci</strong>: Pengertian Bilangan, Bilangan Bulat, Bilangan Asli, Bilangan Cacah, Bilangan Prima, dan Bilangan Real / Nyata</p><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<p>Jawab:bilangan gabungan antara rasional dan irasional</p><br><p>Penjelasan dengan langkah-langkah:</p><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

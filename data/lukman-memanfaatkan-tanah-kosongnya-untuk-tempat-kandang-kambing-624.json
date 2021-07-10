@@ -1,0 +1,150 @@
+{
+    "question": "Lukman memanfaatkan tanah kosongnya untuk tempat kandang kambing.luas tanah 100m.    ada empat kandang kambing yg akan dibuat dan tiap tiap kandang berbentuk sama yaitu persegi. berapa dm luas tiap tiap kandang kambing??? tolong caranya ya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Kategori soal : matematika - satuan<br>Kelas : 6 SD<br><br><span>Pembahasan :\u00a0<br><br></span>Luas tanah = luas\u00a04 kandang kambing = 100m\u00b2<br>1 kandang kambing = 100 : 4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 25\u00a0m\u00b2<br><br>konversikan satuan\u00a0m\u00b2 ke dm\u00b2 yaitu\u00a0turun 1 tingkat dengan mengalikan\u00a0100.<br><span>sehingga,<br><br></span><span>1 kandang kambing\u00a0</span><span>= 25 x 100<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a02500\u00a0dm\u00b2<br></span><br><span>Jadi,\u00a0luas tiap kandang kambing adalah\u00a0</span><span><strong>2500 dm\u00b2</strong></span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "hitunglah-luas-permukaan-kubus-dengan-sisi-8-cm-843",
+            "question": "Hitunglah luas permukaan kubus dengan sisi 8 cm ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 8 pangkat 2<br>6 x 64 = 384<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "6 x 8 x 8\u00a0<br>=6 x 64<br>=384",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oa-10-cm-dan-jarak-ob-26-cm-luas-segitiga-oab-ada-913",
+            "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-2x-4gt-3x9-175",
+            "question": "Himpunan penyelesaian dari 2x-4&gt; 3x+9",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2x-4 &gt; 3x+9<br>2x-3x &gt; 9+4<br>\u00a0\u00a0 \u00a0 -1x &gt; 13<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 x &gt; -13<br><br><br>kalo ga salah yaaa<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2x - 4 &gt; 3x\u00a0+ 9 = ...<br>2x - 3x &gt; 9 + 4 = ...<br>\u00a0\u00a0 - x \u00a0 \u00a0&gt; 13 \u00a0 = ....<br>\u00a0\u00a0 \u00a0x \u00a0 \u00a0 &gt; -13 \u00a0gg",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "frekuensi-harapan-munculnya-mata-dadu-kelipatan-dua-yang-dilempar-774",
+            "question": "Frekuensi harapan munculnya mata dadu kelipatan dua yang dilempar 480 kali adalah..?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "peluang : {2,4,6} = 3/6 = 1/2<br>frekuensi harapan = peluang x banyak percobaan<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240",
+                    "attachments": []
+                },
+                {
+                    "answer": "peluang 2,4,6 = 3<br>frekuensi harapan = peluang x banyak percobaan<br><span>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1/2 x 480 = 240</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-40-dari-barisan-7531-adalah-655",
+            "question": "Suku ke-40 dari barisan 7,5,3,1,... adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><em><strong>Suku ke-40 dari barisan 7, 5, 3, 1\u2026 adalah</strong></em> (-71).</p><p></p><ul><li>Pelajari juga tentang simpangan baku dari data 4 5 6 6 4, baca di brainly.co.id/tugas/5284357</li></ul><ul><li>Pelajari juga tentang cara mencari modus data kelompok yang memiliki 2 frekuensi yang sama besar, baca di brainly.co.id/tugas/10779188</li></ul><p></p><h3>Pembahasan</h3><p><em><strong>Suku ke-40 dari barisan 7, 5, 3, 1\u2026 adalah</strong></em> (-71).</p><p><strong>Diketahui:</strong></p><p>a = 7</p><p>b = Un \u2013 U(n-1)</p><p>=U2 - U1</p><p>=5 \u2013 7</p><p>=(-2)</p><p></p><p><strong>Ditanya:</strong></p><p>U40?</p><p></p><p><strong>Dijawab:</strong></p><p><strong>Rumus</strong></p><p><strong>Un = a + (n-1)b</strong></p><p><strong>U40 = 7 + (40-1)(-2)</strong></p><p>=7 + (39 x (-2))</p><p>=7 + (-78)</p><p><strong>=(-71)</strong></p><p></p><ul><li>Pelajari juga tentang ciri ciri bangun ruang, baca di brainly.co.id/tugas/10441848</li></ul><p></p><h3>Detail Jawaban</h3><p><strong>Kelas</strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: XI</p><p><strong>Mapel \u00a0</strong> \u00a0 \u00a0 \u00a0 : Matematika</p><p><strong>Bab </strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : Bab 7 \u2013 Barisan dan Deret</p><p><strong>Kode \u00a0</strong> \u00a0 \u00a0 \u00a0 \u00a0: 11.2.7</p><p>#AyoBelajar</p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bingkai-foto-yang-berbentuk-persgi-diputar-45-dengan-sum-974",
+            "question": "sebuah bingkai foto yang berbentuk persgi diputar 45\u00b0 dengan sumbu putar titik perpotongan diagonal-diagonalnya. jika panjang sisi persegi adalah 1cm, luas irisan antara bingkai foto sebelum dan sesudah diputar adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "irisannya berbentuk segi 8 <br>Luas irisan = Luas persegi - 4 Luas segitiga<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - 4 {1/2(\u221a2 - 1)}\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 - ( 3 - 2\u221a2) <br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = (2\u221a2 - 2) cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-hasil-2-4x3-tolong-sama-caranya-686",
+            "question": "Berapa hasil 2-4x=3?\r\ntolong sama caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2-4x=3<br>= 2+(-2) -4x=3+(-2)<br>=-4x= 1<br>=-4x . (-1/4x)= 1 . (-1/4x<br>=-x= -0,25<br>x= 0,25<br>kaloo ngga salah berarti benerXD<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]-4x=3-2<br>\u00a0-4x=1\n<br>-x= \\frac{1}{4} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-dengan-apotema-868",
+            "question": "Apa yang di maksud dengan apotema?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Apotema<span>\u00a0adalah ruas garis yang ditarik dari titik pusat lingkaran tegak lurus\u00a0\u00a0 pada sebuah tali busur. Apotema juga bisa disebut dengan jarak titik pusat lingkaran dengan tali busur tertentu</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "apotema adalah ruad garis yg ditarik dari titik pusat lingkaran tegak lurus pada sebuah busur lingkaran. :-)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "herman-meminjam-uang-di-bank-sebesar-900000-bank-tersebut-membe-800",
+            "question": "Herman meminjam uang di bank sebesar 900.000. Bank tersebut memberikan bunga pinjaman 15% per tahun. Jika Herman hendak mengembalikan pinjaman dengan cara cicil selama 18 bulan, maka besar cicilan tiap bulannya adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "115^2/10000x50000= 66.125 rupiah",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0pinjam 900.000<br>bunga 15%<br>cicilan 18 bulan<br><br>-&gt; 15/100 x 900.000 = 135.000 (bunga)<br>-&gt; 900.000 + 135.000 = 1.035.000<br>-&gt; 1.035.000 : 18 = 57.500 (besar cicilan tiap bulan)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-sebuah-segitiga-26cm-28cm-30cm-luas-lingkaran-luar-599",
+            "question": "Panjang sisi sebuah segitiga 26cm 28cm 30cm .luas lingkaran luar segitiga \\pi = 3,14 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = 1/2 K<br>s = 1/2(26 + 28 + 30) = 42<br><br>Luas segitiga = [text]sqrt{s(s-a)(s-b)(s-c)}[/text]<br>luas segitiga = [text]sqrt{42(42-26)(42-28)(42-30)}[/text]<br>luas segitiga = [text]sqrt{42(16)(14)(12)}[/text]<br>luas segitiga = [text]sqrt(112896)[/text]<br>luas = 336<br><br>r = (a.b.c)/4 x L<br>selanjutnya sendiri gan...ganbate..<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

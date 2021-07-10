@@ -1,0 +1,136 @@
+{
+    "question": "sebuah mesin carnot mengambil panas 1000 kkal dari suatu sumber panas 327 celcius dan melepaskan panas dapa suhu 87 celcius , maka usaha yang dihasilkan adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Dik Q1 = 1000 kkal\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0T1 = 327 C = 600 K<br>\u00a0 \u00a0 \u00a0 \u00a0T2 = 87 C = 360 K \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>Dit W ?<br>jawab.<br><br>\u0394T = T1 - T1 = 600 - 360 = 240<br><br>W = Q1 .\u00a0\u0394T / T1<br><br>W = 1000 . 240 / 600<br>\u00a0 \u00a0 = 400 joule<br><br>SEMOGA MEMBANTU :) D",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-olehba-682",
+            "question": "Batang Panjangnya 1 m bergerak dengan kecepatan v, diamati olehBatang Panjangnya 1 m bergerak dengan kecepatan v, diamati oleh pengamat yang diam panjang batang menjadi 80 cm. Bila c = kecepatan cahaya, maka kecepatan batang itu adalah ....    a. 1/5 c\r\nb. 2/5 c\r\nc. 3/5 c\r\nd. 4/5 c",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L =\u00a0[tex] L_{0} [/tex][tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex]<br>0,8 = 1\u00a0[tex] \\sqrt{1- \\frac{ V^{2} }{ C^{2} } } [/tex] ... (kali kuadrat)<br>0,64 = 1 ( 1-[tex] \\frac{ v^{2} }{ c^{2} } [/tex] )<br>0,64 = 1 -\u00a0[tex] \\frac{ v^{2} }{ c^{2} } [/tex]<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 1 - 0,64<br>[tex] \\frac{ v^{2} }{ c^{2} } [/tex] = 0,36<br>v\u00b2 = 0,36 c\u00b2<br>v =\u00a0[tex] \\sqrt{0,36 .  c^{2} } [/tex]<br>v = 0,6 c atau\u00a0[tex] \\frac{3}{5} [/tex] c<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-berapa-elektron-dalam-muatan-1-c-dan-berapakah-massa-elektro-584",
+            "question": "Ada berapa elektron dalam muatan 1 C, dan berapakah massa elektron elektron itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 columb =\u00a0<span>\u00a06.241</span>\u00d710^<span>18 elektron<br><br>massa elektron =\u00a0</span><span>\u00a09,109 \u00d7 10^\u221231 kilogram, <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0ataupun setara dengan 5,489 \u00d7 10^\u22124 satuan\u00a0</span>massa<span>\u00a0atom</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686",
+            "question": "Gaya listrik yang dialami q dari titik A adalah 12 N. Jika muatan q digeser mendekati titik A sejauh 5mm, ma gaya listrik yang dialamai muatan q adalah .... ()",
+            "attachments": [
+                "question-attachments/gaya-listrik-yang-dialami-q-dari-titik-a-adalah-12-n-jika-muatan-686-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Gunakan perbandingan antar variabel\u00a0<br>[tex]F = k \\frac{qq&#039;}{r^2} = F \\alpha \\frac{1}{r^2}\n\n\n[/tex]<br><br>Artinya besar gaya listrik berbanding terbalik dengan kuadrat jarak\u00a0<br><br>Berdasar gambar di atas jarak nya 10 mm, digeser mendekati titik A sejauh 5 mm, artinya jarak menjadi 1/2 lebih dekat yang berakibat listrik menjadi 4 kali semua yaitu 12 x 4 = 48 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-yang-masssa-jenisnya-sama-dengan-massa-jenis-air-p-b-396",
+            "question": "sebuah benda yang masssa jenisnya sama dengan massa jenis air p beradda pada dasar air dalamnya h. jika percepatan grafitasi g, massa benda m, dan volume benda V, besar gaya normal dari dasar kolam pada benda adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalau massa jenis benda sama dengan massa jenis air, maka ketika benda berada di dalam air , benda akan melayang <br>jadi gaya normal yang diberikan oleh dasar kolam pada benda sama dengan nol. :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-sebuah-pegas-tergantung-beban-yaang-massanya-1kg-pegas-ters-566",
+            "question": "pada sebuah pegas tergantung beban yaang massanya 1kg, pegas tersebut bertambah panjang 5cm. hitunglah energi potensial pegas! berpa energi potensial pegas jika bebannya menjadi 2,5 kg?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6.5 semoga betul jangan lupa di terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "diketahui : <br>m = 1 kg<br>g = 10m/s\u00b2<br>\u0394x = 5cm = 5\u00d7[tex] 10^{-2} [/tex] m<br>ditanya : Ep<br><br>F = k . \u0394x<br>m . g = k . \u0394x<br>1 . 10 = k . 5\u00d7[tex] 10^{-2} [/tex]<br>k = 10/5\u00d7[tex] 10^{-2} [/tex]<br>k = 200 N/m<br><br>Ep = <u>1\u00a0</u> <u> </u>\u00d7 k \u00d7 \u0394x\u00b2<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 2<br>Ep = 1/2 \u00d7 200 \u00d725 \u00d7[tex] 10^{-4} [/tex]<br>Ep = 2500 x [tex] 10^{-4} [/tex]<br>Ep = 0,25 joule<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-sifat-termometrik-zat-452",
+            "question": "Apa yang dimaksud sifat termometrik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sifat dasar suatu zat yang apabila di ubah\" suhunya akan berubah secara teratur\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "Termometrik adalah ilmu tentang menukur suhu. Termometrik zat secara sederhana adalah sifat struktur zat berubah ketika ada kenaikan atau penurunan suhu.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-pemanfaatan-radio-isotop-409",
+            "question": "Sebutkan\u00a0pemanfaatan radio\u00a0isotop?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pemanfaat radioisotop adalah untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><h2><strong>Pembahasan</strong></h2><p><strong></strong></p><p><strong>RADIOISOTOP</strong></p><p><strong></strong></p><p>Radioisotop atau isotop radioaktif memiliki sifat</p><p>1. Bersifat tidak stabil dan terus menerus meluruh menjadi isotop lain dengan memancarkan sinar radioaktif. Karena sifat ini, maka atom radioaktif digunakan sebagai perunut atau penelusur mekanisme suatu reaksi.</p><p>2. Memancarkan sinar radiasi yang dapat mengubah sifat benda. </p><p>Karena kedua hal inilah maka radioisotop banyak dimanfaatkan untuk berbagai bidang, seperti:</p><p>1. Bidang kesehatan</p><p>Sifat perunut yang dipergunakan untuk mendeteksi kerusakan organ tubuh dan sifat radiasi untuk membunuh sel - sel kanker tanpa perlu tindakan pengangkatan jaringan.</p><ul><li>Iodium - 131 untuk mendeteksi kerusakan jaringan kelenjar gondok dan mendeteksi sel kanker pada otak.</li><li>Kobalt - 60 untuk kemoterapi leukimia.</li><li>Taksenium - 99 untuk membunuh sel kanker dan mendeteksi lokasi tumor dalam tubuh.</li><li>Talium - 201 untuk mendeteksi penyakit jantung dan pembuluh darah.</li><li>Besi - 58 untuk mempelajari proses pembentukan sel darah merah.</li><li>Fosforus - 32 untuk mempelajari fungsi ATPdan penyembuhan penyakit pembentukan sel darah merah yang berlebihan.</li><li>Sinar gamma untuk sterilisasi peralatan kedokteran.</li></ul><p>2. Bidang industri pengawetan makanan.</p><p>Digunakan sinar gamma untuk</p><ul><li>Membasmi mikroorganisme seperti pengawetan merica, ketumbat dan kemiri.</li><li>Menghambat pertunasan untuk pengawetan tanaman yang berkembang biak dengan tunas seperti jahe, bawang dan kentang.</li></ul><p>3. Bidang konstruksi</p><p>Di bidang ini, radioisotop digunakan untuk mendeteksi kebocoran pada pipa bawah tanah dengan alat pencacah radioaktif Geiger Counter. Isotop yang digunakan adalah Natrium - 24.</p><p>Bahkan bisa dipergunakan untuk menguji kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</p><p>4. Bidang pertanian</p><p>Nitrogen - 15 dipergunakan untuk memantau penyerapan pupuk pada tanaman.</p><p>Radioisotop juga bisa digunakan untuk memberantas hama.</p><p>5. Bidang hidrologi.</p><p>Natrium - 24 digunakan untuk menguji kecepatan aliran sungai atau aliran lumpur hal ini dipergunakan untuk mempelajari debit sungai.</p><p>6. Bidang biologi.</p><p>Karbon - 14 atau Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi fotosintesis.</p><p>7. Bidang kimia</p><p>Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi esterifikasi.</p><p>8. Bidang listrik.</p><p>Reaksi inti menghasilkan energi yang sangat besar yang mampu menggerakan generator yang menghasilkan energi listrik.</p><p>9. Bidang penanggalan karbon.</p><p>Karbon - 14 dipergunakan untuk menentukan umur fosil, barang purbakala dan barang seni.</p><p></p><p>Radioisotop juga memiliki dampak yang berbahaya jarena merusak sel, menyebabkan kelainan sel, bahkan mematikan sel pada makhluk hidup.</p><p><strong>Ditanyakan:</strong></p><p>Pemanfaatan radioisotop ?</p><p><strong>Penjelasan:</strong></p><p>Radioisotop banyak dimanfaatkan untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>Pelajari lebih lanjut</strong></p><p>Radioisotop Bidang Kesehatan https://brainly.co.id/tugas/7927308</p><p>Radioisotop Di Bidang Hidrologi https://brainly.co.id/tugas/21698259</p><p>Pemanfaatan Sinar Gamma https://brainly.co.id/tugas/23032773</p><p><strong></strong></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas : </strong>XII</p><p><strong>Mapel : </strong>Kimia</p><p><strong>Bab : </strong>Kimia Unsur </p><p><strong>Kode : </strong>12.7.3.</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kelemahan-teori-atom-rutherford-adalah-a-elektron-yg-mengelilin-831",
+            "question": "Kelemahan teori atom rutherford adalah?    A. elektron yg mengelilingi inti atom akan menyerap energi\r\nB. elektron menyebar merata di permukaan bola atom\r\nC. elektron berputar mengelilingi inti seperti tata surya\r\nD. elektron mengelilingi inti memancarkan gelombang elektromagnetik\r\nE. atom terdiri dr muatan positif dan negatif",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya E.Atom terdiri dari muatan positif dan negatif",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "besar-enegi-yg-tersimpan-dalam-induktor-bergantung-pada-332",
+            "question": "Besar enegi yg tersimpan dalam induktor bergantung pada ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\n4. Energi yang Tersimpan pada Induktor</span>\n<span>\n<br></span>\n\n<strong><em>Energi yang tersimpan dalam induktor (kumparan) tersimpan dalam bentuk \nmedan magnetik.</em></strong> Energi U yang tersimpan di dalam sebuah induktansi L \nyang dilewati arus I, adalah:\n<span>\n<br></span>\n<span>\nU = \u00bd \u00a0LI2\u00a0............................................................ (5)</span>\n<span>\n<br></span>\n<span>\nEnergi pada induktor tersebut tersimpan dalam medan magnetiknya. \nBerdasarkan persamaan (4), bahwa besar induktansi solenoida setara \ndengan B =\u00a0<span>\u03bc0.N2</span>.A/l, dan medan magnet di dalam solenoida berhubungan dengan kuat arus I dengan\u00a0B =\u00a0\u03bc0.N.I/l,\u00a0Jadi,</span>\n<span>\n<br></span>\n<span>\n<span>I =\u00a0B.\u00a0l\u00a0/ \u03bc0.N</span></span>\n<span>\n<br></span>\n\nMaka, dari persamaan (5) akan diperoleh:\n<span>\n</span>\n<br><span>\nApabila energi pada persamaan (6) tersimpan dalam suatu volume yang dibatasi oleh lilitan Al, maka besar energi per satuan volume atau yang disebut kerapatan energi adalah:<br><br></span>\u00a0<span></span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "medan magnet yang di timbulkan dari arus listrik yang melewatinya<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "energi-dari-sebuah-partikel-yang-massa-diamnya-55x10-27-kg-se-678",
+            "question": "Energi dari sebuah partikel yang massa diamnya 5,5x10^{-27} kg setara dengan ... ( c = 3 x 10^{8} )\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "En= h (c/Lamda) \u00a0 (simbol lamda nya gk ad jadi pke tulis ja nama nya)<br><br>h itu=6,63x10^-34 Joule/Second<br><br>tingal masukan ja,, tapi lamda gk diketahui jadi gk bs dicari<br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

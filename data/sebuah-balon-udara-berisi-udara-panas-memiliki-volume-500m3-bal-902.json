@@ -1,0 +1,140 @@
+{
+    "question": "sebuah balon udara berisi udara panas memiliki volume 500m^3. balon itu bergerak ke atas dengan kelajuan tetap di udara yang massa jenisnya 1,2 kg/m^3. massa jenis udara panas yang ada di dalam balon ketika itu adalah 0.80 kg/m^3. \u00a0 \u00a0 a. berapa massa total balon dan udara panas di dalamnya? b. berapa percepatan ke atas balon ketika suhu udara di dalam balon dinaikkan hingga massa jenisnya menjadi 0,7kg/m^3 ? \u00a0 \u00a0 \u00a0 \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>Jawab A.\u00a0<br><br>\u03a3F = 0\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = 0\u00a0<br>-m + (1.2)\u00a0500 - (0.8)\u00a0500 \u00a0 \u00a0= 0\u00a0<br>m = 200 kg\u00a0<br><br><br><br><br>Jawab B.\u00a0<br><br>\u03a3F = m a\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = M a\u00a0<br>-(200)(9.8) + (1.2)(9.8)(500) - (0.7)(9.8)(500) = (200 + 0.7 * 500) a\u00a0<br>a = 0.89 m/s\u00b2</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "tentukan-kecepatan-sudut-masing-masing-jarum-detik-jarum-menit-546",
+            "question": "tentukan kecepatan sudut masing masing jarum detik, jarum menit, dan jarum jam dari sebuah jam dinding.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kecepatan sudut jarum JAM = 30 derajat per JAM = 30/3600 derajat per detik<br>Kecepatan sudut jarum MENIT = 6 derajat per menit = 6/60 derajat per detik<br>Kecepatan sudut jarum DETIK = 6 derajat per detik\n<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-seberkas-cahaya-monokromatis-diarahkan-pada-sebuah-kisi-yang-915",
+            "question": "Jika seberkas cahaya monokromatis diarahkan pada sebuah kisi yang mempunyai 10^4 garis/cm, garis terang pertama terjadi pada sudut deviasi 30 derajat\u00a0, maka panjang gelombang cahaya yang dipakai adalah \u2026\u2026\u2026\u2026 \u00c5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m\u00a0=\u00a01<br>\u00a0 \u00a0 \u00a0 n = 10^4 garis/cm<br>\u00a0sin\u00a0\u03b8 = 30 = 0,5<br>Dit\u00a0\u03bb ?<br>jawab.<br>d =\u00a0[tex] \\frac{1}{n} [/tex]<br><br>sehingga diperoleh rumus<br><br>d sin\u00a0\u03b8 = m .\u00a0\u03bb<br><br>\u03bb\u00a0=\u00a0[tex] \\frac{sin 0 }{n.m} [/tex]\u00a0<br><br>\u03bb =\u00a0[tex] \\frac{sin30}{10^4 . 1} [/tex]<br><br>\u03bb =\u00a0[tex] \\frac{0,5}{10^4}  = [/tex] = 5 x 10^-5 garis/cm = <strong>5 .000 \u00c0</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-di-dalam-sebuah-tabung-gelas-terdapat-zat-cair-setinggi-10-cm-948",
+            "question": "1. Di dalam sebuah tabung gelas terdapat zat cair setinggi 10 cm. Tekanan air pada dasar tabung adalah 1200 N/m2. Jika g = 10 m/s2. Abaikan tekanan udara. Berapa massa jenis zat cair ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ketinggian zat cair (h) = 10 cm = 0,1 meter<br>Tekanan (P) air pada dasar tabung = 1200 N/m2 <br>Percepatan Gravitasi (g) = 10 m/s2<br>\nDitanya :<br>Massa Jenis zat cair ?<br>\nJawab :<br>P =\u00a0 rho . g .h<br>1200N/m\u00b2= rho (10m/s\u00b2) (0,1m)<br>1200N/m\u00b2= rho (1m\u00b2/s\u00b2)<br>rho = 1200 : 1 = 1200 kg/m\u00b3<br>\u00a0Massa Jenis zat cair adalah 1200 kg/m3.<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bagaimana-prinsip-kerja-balon-udara-638",
+            "question": "Bagaimana prinsip kerja balon udara?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "prinsip kerja pada balon yang diisi dengan udara panas dan balon yang diisi dengan gas ringan<span>\u00a0\u00a0</span>pada<span>\u00a0\u00a0</span>dasarnya<span>\u00a0\u00a0</span>sama,<span>\u00a0\u00a0</span>yaitu<span>\u00a0\u00a0</span>dengan<span>\u00a0\u00a0</span>membuat<span>\u00a0\u00a0</span>udara<span>\u00a0\u00a0</span>dalam<span>\u00a0\u00a0</span>balon<span>\u00a0\u00a0</span>lebih<span>\u00a0\u00a0</span>ringan<span>\u00a0\u00a0</span>atau memilili masa\u00a0jenis<span>\u00a0\u00a0</span><span>yang\u00a0</span>\u00a0lebih<span>\u00a0\u00a0</span>kecil<span>\u00a0\u00a0</span>dari<span>\u00a0\u00a0</span>udara<span>\u00a0\u00a0</span>luar<span>\u00a0\u00a0</span>sekitar<span>\u00a0\u00a0</span>balon<span>\u00a0\u00a0</span>sehingga<span>\u00a0\u00a0</span>balon<span>\u00a0\u00a0</span>udara dapat naik (terbang).<span>Cara kerja balon udara sangat sederhana yaitu dengan cara memanaskan udara di dalam balon agar lebih panas dari udara di luarnya sehingga balon udara mengembang dan dapat naik (terbang). Udara yang lebih panas akan lebih ringan karena masa per unit volumenya lebih sedikit.</span><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Balon udara panas dapat terangkat berdasarkan prinsip ilmiah dasar, udara yang lebih panas akan menaik di atas udara yang lebih dingin. Sederhananya, udara panas lebih ringan dari udara dingin karena masa udara perunit volumenya lebih sedikit. Satu kubik kaki udara yang dipanaskan dapat mengangkat 7 gram benda, tdak banyak memang, karena itulah balon udara yang dipanaskan berukuran sangat besar. Untuk mengangkat 450 kg beban dibutuhkan 65 000 kubik kaki udara panas.\n\nSemua partikel udara di atmosfer ditarik oleh gaya gravitasi ke bawah. Tapi tekanan di udara menciptakan gaya ke atas yang bekerja berlawanan dengan gravitasi. Kumpulan udara membangun keseimbangan gaya gravitasi, dimana pada titik ini gravitasi tidak cukup kuat untuk menarik ke bawah sejumlah besar partikel. Tingkat tekanan ini adalah tertinggi pada permukaan bumi dimana udara pada tingkat ini dapat menahan beban diudara diatasnya, jika lebih berat berarti lebih besar gaya gravitasi ke bawah. Ketika Anda bergerak ke atas atmosfer lebih tinggi lagi , massa udara semakin kurang, dan sehingga menyeimbangkan tekanan berkurang. Inilah sebabnya mengapa terjadi penurunan tekanan udara semakin naiknya ketinggian. Perbedaan tekanan udara menyebabkan gaya apung ke atas di udara di sekitar kita. Pada dasarnya, tekanan udara di bawah benda lebih besar daripada diatasnya, sehingga mendorong udara keatas lebih besar dibanding ke bawah. Tapi gaya apung ini adalah lemah dibandingkan dengan gaya gravitasi, hanya sekuat berat udara yang dipindahkan oleh suatu benda. Jelas, sebagian besar benda padat apa pun akan menjadi lebih berat daripada udara yang dipindahkan, sehingga gaya apung tidak bergerak sama sekali. Gaya apung hanya dapat memindahkan hal-hal yang lebih ringan daripada udara di sekitar mereka.\n\nUntuk membuat benda mengapung di udara, maka harus lebih ringan daripada volume yang sama udara di sekitarnya, yaitu dengan mengisi balon dengan udara yang tidak terlalu padat daripada udara sekitarnya. Karena udara dalam balon memiliki kurang massa per unit volume daripada udara di atmosfer yang membuatnya lebih ringan sehingga gaya apung akan mengangkat balon ke atas. Tetapi sekali lagi, lebih sedikit partikel per volume udara artinya tekanan udara lebih rendah, sehingga tekanan udara sekitar akan menekan balon udara sampai kepadatan di dalamnya sama dengan kepadatan udara di luar.\n\nAda lebih sedikit partikel udara per satuan volume di dalam balon, tetapi karena partikel-partikel tersebut bergerak lebih cepat, dalam dan luar tekanan udara yang sama.\n\nDengan asumsi bahwa udara di balon dan udara di luar balon ada di bawah kondisi yang persis sama. Maka, jika kita mengubah kondisi udara di dalam balon, kita dapat mengurangi kepadatan, sekaligus menjaga tekanan udara yang sama. Kekuatan tekanan udara pada objek tergantung pada seberapa sering berbenturan dengan partikel-partikel udara objek, serta gaya masing-masing tabrakan. Kita melihat bahwa secara keseluruhan kita dapat meningkatkan tekanan dalam dua cara:\n\nMeningkatkan jumlah partikel udara sehingga ada sejumlah besar partikel berdampak atas luas permukaan tertentu.Meningkatkan kecepatan partikel sehingga partikel menghantam daerah lebih sering dan setiap partikel bertabrakan dengan kekuatan yang lebih besar.\n\nJadi, untuk menurunkan kerapatan udara dalam balon tanpa kehilangan tekanan udara, Anda hanya perlu meningkatkan kecepatan partikel udara. Anda dapat melakukannya dengan mudah dengan pemanasan udara. Partikel udara menyerap energi panas dan menjadi lebih bereaksi. Hal ini membuat mereka bergerak lebih cepat, yang berarti mereka bertabrakan dengan permukaan lebih sering, dan dengan kekuatan yang lebih besar.\n\nUdara panas memberi tekanan udara yang lebih besar per partikel daripada udara dingin. Jadi naiknya balon udara ke atas adalah karena balon tersebut dipenuhi dengan panas, udara menjadi kurang padat dan dikelilingi oleh udara lebih dingin namun lebih padat.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pejalan-kaki-melakukan-usaha-25-x-105-j-dalam-suatu-lat-302",
+            "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dinding-bendungan-selalu-di-bangun-dengan-konsep-bagian-bawah-leb-672",
+            "question": "Dinding bendungan selalu di bangun dengan konsep bagian bawah lebih tebal daripada bagian atas. mengapa demikian? jelaskan.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk mencegah kebocoran . karena semakin ke dalam,tekanan air semakin besar sehingga diperlukan dinding yg tebal",
+                    "attachments": []
+                },
+                {
+                    "answer": "pada bendungan, tekanan air yang berada didasar bendungan sangat besar yang mampu membuat bendungan jebol. Jadi agar bendungan dapat menampung air dengan jumlah banyak dibuatlah bendungan dengan dinding bagian bawah lebih tebal dari dinding bagian atas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-cahaya-menerangi-celah-ganda-yang-memiliki-jarak-antarcelah-435",
+            "question": "suatu cahaya menerangi celah ganda yang memiliki jarak antarcelah 0,1 cm, sedemikian sehingga terbentuk pola gelap terang pada layar yang berjarak 60 cm. ketika pemisahan antar polaterang adalah 0,048 cm, maka panjang gelombang cahaya yang di gunakan tersebut adalah... \u00a0 a. 200 nm b. 300 nm c. 400 nm d. 600 nm e. 800 nm \u00a0 tolong jawab yg benar ya, nnti lw salah di komplen guru....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>jawaban dan caranya terlampir</span>",
+                    "attachments": [
+                        "answer-attachments/suatu-cahaya-menerangi-celah-ganda-yang-memiliki-jarak-antarcelah-435-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "contoh-contoh-tegangan-permukaan-dalam-kehidupan-sehari-hari-182",
+            "question": "Contoh-contoh tegangan permukaan dalam kehidupan sehari-hari !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tegangan permukaan cth:<br>tegangan permukaan pada rel kereta api(pemuaian)<br>pada tali jemuran jika memuai terkena panas<br>tegangan permukaan saat tarik tambang yang daerah gayanya merata<br><br><br><br>semoga membantu :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-ambulans-yang-membunyikan-sirine-bergerak-dengan-laj-864",
+            "question": "Sebuah mobil ambulans yang membunyikan sirine bergerak dengan laju 90 km/jam-1 mendekati    seorang pendengar diam mendengar frekuensi bunyi sirine 1020\u00a0Hz. Bila kecepatan bunyi di udara 340 ms-1, maka frekuensi sirine ambulans adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fp = 1020 Hz<br>V = 340 m/s<br>Vs = 90 km/jam --&gt; 25 m/s<br><br>Jadi, <br>Fp = [tex] \\frac{V}{V-Vs} [/tex]Fs<br>1020 = [tex] \\frac{340}{340-25} [/tex]Fs<br>Fs = 1020 / 1,08<br>= 944,4 Hz<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cek lampiran.\u00a0Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/sebuah-mobil-ambulans-yang-membunyikan-sirine-bergerak-dengan-laj-864-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508",
+            "question": "teh panas yang massanya 20 gram pada suhu t dituang kedalam cangkir bermassa 190 gram dan bersuhu 20 derajat celcius. jika suhu kesetimbangan termal 36 derajat celcius dan panas jenis air teh = 8 kali panas jenis cangkir, tentukan suhu mula-mula teh? gimana caranya y? terimakasih",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Mata pelajaran: fisika <br>Kelas: 10 SMA <br>Kategori: suhu dan kalor <br>Kata kunci: suhu campuran <br>Pembahasan:<br><br>Berikut terlampir pembahasan soal.",
+                    "attachments": [
+                        "answer-attachments/teh-panas-yang-massanya-20-gram-pada-suhu-t-dituang-kedalam-cangk-508-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

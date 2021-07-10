@@ -1,0 +1,136 @@
+{
+    "question": "Pada seutas kawat baja dengan panjang 3m dan luas penampang 0,15 cm\u00b2 digantungkan sebuah beban bermassa 500 kg (g= 9,8m/s\u00b2). tentukan    a. tetapan gaya kawat\r\nb. pertambahan panjang kawat\r\n(modulus elastis baja= 2,0 \u00d7 10^{11}\u00a0 N/m\u00b2)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a.F=k.<span>\u2206x<br>\u00a0 m.g=k.</span><span>\u2206x<br>\u00a0 500.9,8=k.3<br>\u00a0 k=</span>[tex] \\frac{4900}{3} [/tex]=1.633<br>b.<br>F/A=1.633/0,0015=108866<br>pertambahan panjang kawat=e.l=F/A=1.633/0,0015=108.2,0.10^{11}.<br>=216.10^{11}",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "1sebuah-kereta-api-dari-ke-keadaan-diam-bergerak-dari-sebuah-s-603",
+            "question": "\u00a01.sebuah kereta api dari ke keadaan diam bergerak dari sebuah stasiun dan selama dari 10 s percepatanya 4m/s2.lalu kereta itu bergerak dg kecepatan konstan selama 30sekon. lalu di perlambat dengan\u00a0 8m/s.sampai berhenti di stasiun berikutnya .berapa jarak total yang di tempuhnya ? \u00a0 2. seorang penerjun berlari dg kecepatan 1,6m/s lalu terjun horizontal dari tebing vertikal dan mencapai air di bawah 3 sekon,berapa tinggi tebing dan seberapa jauh kaki tebih penerjun menyentuh air? \u00a0 3.sebuah peluru di tembakan gengan kecepatan awal 75 m/s dan sudut 30 di atas horizontal pada tempat latihan yang panjang, a,berapa tinggi maksimum yang di capai peluru b. waktu total di udara c. jarak horizontal total yang di tempuh d.kecepatan peluru 1,5 sekon setelah penembakan \u00a0 4.sebuah mobil yg masanya 1 ton meluncur dengan kecepatan tetap 54 m/jam.suatu saat mobil di rem dengn gaya 300 n gerak mobil selama di rem di anggap gerak lurus berubah beraturan,setelah beberapa sekon dan di mana mobil berhenti? \u00a0 5.sebuah benda di gantung pada sebuah kawat yang dapat memikul beban maksimum sebesar 15000 N.jika percepatan gravitasi 10m/s dan massa bendanya 1200 kg,berapa harga maksimum percepatan ke atas yang di berikan pada benda itu ? \u00a0  \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. vo=0, a1= 4m/s\u00b2, t1= 10s,\u00a0 t2= 30 s, -a2=8m/s\u00b2<br>S1= vo.t + 1/2 a. t\u00b2<br>\u00a0\u00a0 = 0 + 1/2. 4. 10\u00b2<br>\u00a0\u00a0 = 200 m<br>V=a.t<br>\u00a0 = 4. 10<br>\u00a0 = 40 m/s<br>S2= v. t2<br>\u00a0\u00a0 = 40. 30<br>\u00a0\u00a0 = 1200 m<br>t3= V/a<br>\u00a0\u00a0 = 40/ 8<br>\u00a0\u00a0 = 5 s<br>S3= V.t - 1/2 a. t\u00b2<br>\u00a0\u00a0\u00a0 = 40. 5 s - 1/2. 8. 5\u00b2<br>\u00a0\u00a0 \u00a0 = 200 - 100<br>\u00a0\u00a0 \u00a0 = 100 m<br>S total = s1 + s2 + s3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 + 1200 + 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1500 m= 1.5 km<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-tegar-dikenai-gaya-8-n-dengan-titik-tumpu-gaya-berja-360",
+            "question": "Sebuah benda tegar dikenai gaya 8 N dengan titik    tumpu gaya berjarak 24 cm dari pusat rotasi dan membentuk sudut 150 \r\n drajad. tentukanlah torsi yang terjadi pada benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "torsi= f x l<br>=8 x0,24m<br>=1,92<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730",
+            "question": "Sebuah kubus kayu dengan panjang rusuk 10cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya 2cm di bawah bidang batas minyak-air, seperti pada gambar. Ketinggian kolom minyak dan air masing - masing adalah 10cm. Massa jenis minyak adalah 0,8 g/cm^3. Tekanan hidrostatis yang bekerja pada sisi paling bawah balok adalah..    A. 800 Pa\r\nB. 840 Pa\r\nC. 900 Pa\r\nD. 1020 Pa\r\nE. 9600 Pa",
+            "attachments": [
+                "question-attachments/sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<span>gram ke KG = 1/1000<br>cm^3 ke m^3 = 1/1000000<br>jadi,<br>=0,8/1000/1/1000000<br>=8/10000/1/1000000<br>=8/10000 * 1000000/1<br>=800 Pa</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "perhatikan-reaksi-fusi-berikut-diketahui-massa-943",
+            "question": "Perhatikan reaksi fusi berikut\u00a0    \r\n\r\nDiketahui : Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Massa\u00a0 = 0,00055 sma\r\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a01 sma = 931 MeV\u00a0\r\n\r\nmaka nilai E (energi yang dihasilkan) pada reaski fusi tersebut adalah\u00a0\u00a0\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Besar defek massa adalah jumlah massa sebelah kiri tanda --&gt;, dikurangi massa sebelah kanan tanda --&gt;. Setiap 1 sma memiliki energi sebesar 931 MeV\u00a0<br><br>E =\u00a0[tex]\\triangle m . 931 MeV [/tex]\u00a0<br>\u00a0 \u00a0=\u00a0[tex][(m_{_1H^1}+m_{_1H^1})-(m_{_1d^2}+m_{_1^2e})].931 MeV[/tex]<br>\u00a0 \u00a0= [(1.0078+1.0078)-(2.01410+0.00055)].931<br>\u00a0 \u00a0= 0.88445\u00a0[tex]M_eV[/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Semoga membantu :) D<br><br>by : Crow Art.",
+                    "attachments": [
+                        "answer-attachments/perhatikan-reaksi-fusi-berikut-diketahui-massa-943-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roket-ketika-diam-di-bumi-mempunyai-panjang-100-m-roket-t-310",
+            "question": "sebuah roket ketika diam di bumi mempunyai panjang 100 m. roket tersebut bergerak dengan kecepatan 0,8 c ( c = kecepatan cahaya dalam vakum). menurut orang dibumi panjang roket tersebut selama bergerak adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "yang dicari kan L aksen maka menggunakan rumus\nL aksen = Lo \u221a1-(v/c)^2 \n= 100 \u221a1-0.8c^2/c^2 \n=100 \u221a1-0.64c^2 / c^2\nkemudian c^2 di coret menjadi\n=100\u221a0.36\n=100 . 0.6\n= 60 meter",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-dengan-massa-5-kg-meluncur-pd-bidang-miring-licin-y-496",
+            "question": "sebuah benda dengan massa 5 kg meluncur pd bidang miring licin. yang membentuk sudut 60 derajat terhadap horizontal. jika benda bergeser sejauh 5M, berapa usaha yg dilakukan oleh gaya berat (q= 10m/s\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kls 1 sma bljr yang kya gini kn ?<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "w= f.s cos 60<br>\u00a0 = 5x10x5x1/2V3<br>\u00a0 =250V3/2<br>\u00a0=125V3<br><br><br>ket : V = akar<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mengapa-telur-dalm-air-dapat-melayang-saat-diberi-garam-137",
+            "question": "Mengapa telur dalm air dapat melayang saat diberi garam ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Telur dalam air dapat melayang saat diberi garam \u00a0\u2026 </strong>sebab massa jenis larutan garam dan air meningkat sehingga gaya angkat yang dialami telur dari berat air yang dipindahkan akan meningkat dan telur menjadi melayang</p><p><u><strong>Pembahasan</strong></u>:</p><p>Telur dapat mengapung pada air yang terlart garam, karena prinsip dari <strong>hukum Achimedes</strong>, yang menyatakan bahwa benda yang diletakkan di air akan memiliki gaya angkat ke atas sama besar dengan berat air yang dipindahkan. </p><p>Awalnya, bila telur di masukkan ke dalam air saja, maka telur akan tenggelam. Ini karena massa jenis telur lebih besar dari air, sehingga gaya angkat akibat berat air yang dipindahkan telur lebih kecil dari berat telur.</p><p>Namun, ketika dalam air dilarutkan garam, maka massa jenis air akan meningkat. Sehingga, gaya angkat yang diterima telur meningkat dan lebih besar dari berat telur.</p><p>Gaya ke atas ini bertindak sebagai gaya apung yang berlawanan dengan gaya gravitasi, dan membuat telur tidak tenggelam ke dalam air. </p><p><em>Pelajari lebih lanjut pernyataan Hukum Archimedes di: brainly.co.id/tugas/2014596</em></p><p><em>Pelajari lebih lanjut contoh soal massa jenis benda tersebut di: brainly.co.id/tugas/8998258</em></p><p><em>Pelajari lebih lanjut tentang cara mengukur volume batu tak beraturan dengan gelas ukur di brainly.co.id/tugas/6806086</em></p><p><strong>--------------------------------------------------------------------------- </strong></p><p><strong>Detail Jawaban:</strong></p><p><strong>Kode: 1.6.3 </strong></p><p><strong>Kelas: 11 </strong></p><p><strong>Mata Pelajaran: Fisika \u00a0 \u00a0 </strong></p><p><strong>Materi: Bab 3 - Fluida Statis</strong></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920",
+            "question": "berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><u><strong>KONSEP DASAR</strong></u></p><br><h2>GAYA PADA FLUIDA STATIS</h2><p><u><strong>HUKUM ARCHIMEDES</strong></u></p><p>Menurut Archimedes, benda yang dicelupkan sebagian atau seluruhnya ke dalam fluida, akan mengalami gaya ke atas.</p><p>Besar gaya ke atas tersebut sama dengan berat fluida yang dipindahkan oleh benda.</p><p>Secara matematis dituliskan sebagai :</p><h2>Fa = \u03c1. g . Vtc</h2><br><p>Dimana :</p><p>Fa = gaya Archimedes apung ke atas (N)</p><p>\u03c1 = massa jenis fluida (kg/m\u00b3)</p><p>g = percepatan gravitasi bumi (m/s\u00b2)</p><p>Vtc = Volume benda tercelup di fluida (m\u00b3)</p><br><h2>TIGA KEMUNGKINAN BENDA DI DALAM FLUIDA</h2><h2>1. TERAPUNG</h2><p><strong><em>Benda-benda akan terapung</em></strong> di atas permukaan fluida, jika massa jenis benda <em><strong>lebih kecil</strong></em> dibandingkan massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p>\u21d2 <strong>\u03c1 benda &lt; \u03c1 fluida </strong>dan </p><p>\u21d2 <strong>w = Fa </strong></p><p><strong>m.g = \u03c1. g. Vtc</strong></p><p><strong>(\u03c1b.Vb).g = \u03c1. g. Vtc</strong></p><p><strong>\u03c1b.Vb = \u03c1. Vtc</strong></p><p>maka :</p><p><strong>Vtc = (\u03c1b/\u03c1).Vb</strong></p><p>Dimana :</p><p>Vtc = Volume benda tercelup</p><p>\u03c1b = massa jenis benda</p><p>\u03c1 = massa jenis fluida</p><p>Vb = Volume benda</p><br><h2>2. MELAYANG</h2><p><strong><em>Benda-benda akan melayang</em></strong> di dalam fluida, jika massa jenis benda <em><strong>sama dengan</strong></em> massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda sama dengan gaya Archimedes, sehingga berlaku persamaan :</p><p><strong> \u21d2 \u03c1 benda = \u03c1 fluida</strong></p><p>dan </p><p>\u21d2 <strong>w = Fa</strong></p><br><h2>3. TENGGELAM</h2><p><strong><em>Benda-benda akan tenggelam</em></strong> di dalam fluida, jika massa jenis benda <em><strong>lebih besar </strong></em>daripada massa jenis fluida tersebut. Pada kondisi ini menunjukkan bahwa berat benda lebih kecil atau lebih ringan dari pada berat benda di udara. Nah selisih berat benda di <em><strong>udara (Berat Real)</strong></em> ini dengan berat benda di <em><strong>fluida (berat semu) </strong></em>ini sama dengan gaya Archimedesnya, sehingga berlaku persamaan :</p><p><strong>\u21d2 \u03c1 benda &gt; \u03c1 fluida</strong></p><p>dan</p><p><strong>\u21d2 W udara - W fluida = Fa</strong></p><p>dan akhirnya diperoleh rumus :</p><h2><strong>W fluida = [1 - (\u03c1/\u03c1b)].W udara </strong></h2><p>dimana :</p><p>W fluida = berat benda di fluida</p><p>W udara = berat benda di udara</p><p>\u03c1 = massa jenis fluida</p><p>\u03c1b = massa jenis benda</p><br><p>Nah setelah memahami konsep di atas mari kita kerjakan soal berikut ini :</p><br><h2>SOAL</h2><p><em>Berat benda di udara 40N \u00a0dan berat benda dalam air tinggal 36 N . jika massa jenis air 1gr/cm3. hitung massa jenis benda..</em></p><p><u><strong>PENYELESAIAN</strong></u></p><p><strong>Diketahui :</strong></p><p>berat benda di udara, W udara = 40 N</p><p>berat benda di fluida, W air = 36 N</p><p>massa jenis air, \u03c1 = 1 gr/cm\u00b3 = 1000 kg/m\u00b3</p><p><strong>Tanya :</strong></p><p>massa jenis benda, \u03c1b = __?</p><p><strong>Jawab :</strong></p><p><strong><u>Step 1</u></strong></p><p> Cari dulu gaya Archimedes, Fa = __?</p><p>Gunakan rumus : </p><p>Fa = W udara - W air</p><p>Fa = 40 - 36</p><p>Fa = 4 N</p><br><p><u><strong>Step 2</strong></u></p><p>cari massa benda di udara, m = __?</p><p>Gunakan rumus :</p><p>W udara = m.g</p><p>40 = m. 10</p><p>m = 4 kg</p><br><p><strong><u>Step 3</u></strong></p><p>Cari Volume benda, Vb = __?</p><p>Gunakan rumus :</p><p>Fa = \u03c1.g.Vb</p><p>4 = 1000. 10. Vb</p><p>Vb = 4 x 10\u207b\u2074 m\u00b3</p><br><p><u><strong>Step 4</strong></u></p><p>cari massa jenis benda, \u03c1b = __?</p><p>Gunakan rumus :</p><p>\u03c1b = m/Vb</p><p>\u03c1b = 4 / (4 x 10\u207b\u2074)</p><p>\u03c1b = 10\u2074 </p><p>\u03c1b = 10000 kg/m\u00b3</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>RUMUS TRIK</h2><p><strong>W air = [1 - (\u03c1/\u03c1b)].W udara </strong></p><p>36 = [1 - (1/\u03c1b)].40</p><p>36 / 40 = [1 - (1/\u03c1b)]</p><p>0,9 = 1 - (1/\u03c1b)</p><p>(1/\u03c1b) = 1 - 0,9</p><p>(1/\u03c1b) = 0,1</p><p>\u03c1b = 1/0,1</p><p>\u03c1b = 10 gram/cm\u00b3</p><br><h2>KESIMPULAN</h2><p><strong>Jadi besar massa jenis benda tersebut adalah 10 gram/cm\u00b3</strong></p><br><p>==========================================================</p><p>Simak soal tentang :</p><p>* <strong>Menghitung massa jenis benda dengan tabung gelas ukur</strong></p><p>https://brainly.co.id/tugas/15297318</p><p><strong>** Cara konversi satuan massa jenis dari gr/cm\u00b3 ke Kg/m\u00b3</strong></p><p>https://brainly.co.id/tugas/3028917</p><p>==========================================================</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : Fisika</strong></p><p><strong>Kategori : Fluida Statis</strong></p><p><strong>Kata Kunci : berat benda di udara, berat benda di air, massa jenis benda, \u00a0 \u00a0 \u00a0 \u00a0</strong></p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>fluida statis, gaya archimedes ke atas</strong></p><p><strong>Kode : 11.6.3 [Kelas 11 SMA Fisika Bab 3 - Fluida Statis]</strong></p>",
+                    "attachments": [
+                        "answer-attachments/berat-benda-di-udara-40n-dan-berat-benda-dalam-air-tinggal-36-n-920-1.jpeg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "contoh-proses-termodinamika-dalam-kehidupan-sehari-hari-721",
+            "question": "Contoh proses termodinamika dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh proses termodinamika dalam kehidupan sehari-hari adalahpanas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-teropong-bintang-dapat-menghasilkan-perbesaran-bayangan-10-226",
+            "question": "sebuah teropong bintang dapat menghasilkan perbesaran bayangan 10kali. jika jarak fokus lensa obyektifnya 100cm, maka jarak antara lensa obyektif dan lensa okuler teropong itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M=fob:fok<br>fok=fok:M<br>fok=100:10<br>fok=10<br>d=fob+fok<br>\u00a0 =100+10<br>\u00a0 =110 cm<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

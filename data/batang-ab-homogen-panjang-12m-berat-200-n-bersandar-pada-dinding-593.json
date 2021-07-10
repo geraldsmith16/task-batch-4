@@ -1,0 +1,132 @@
+{
+    "question": "batang AB homogen panjang 12m berat 200 N bersandar pada dinding vertikal yg licin di B &amp; bertumpu pada lantai horizontal di A yg kasar. Batang AB membentuk sudut 60' dg bidang horizontal. Jika batang tepat akan menggeser maka besar koefisien di A adl... tolongin ya pake crnya jg",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<h2><u>Kesetimbangan Benda Tegar</u></h2><h3>UAN 2003</h3><p>Jawaban berupa Lampiran</p><p>Kelas : XI</p><p>Bab Dinamika Rotasi dan Keseimbangan Benda Tegar</p><br>",
+            "attachments": [
+                "answer-attachments/batang-ab-homogen-panjang-12m-berat-200-n-bersandar-pada-dinding-593-1.png"
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-sebuah-benda-di-celupkan-kedalam-air-maka-13-bagiannya-mun-220",
+            "question": "jika sebuah benda di celupkan kedalam air, maka 1/3 bagiannya muncul ke permukaan. jika benda tsb dicelupkan ke dalam larutan yang besar massa jenisnya 8/9 g/cm^3, maka bagian yang muncul dipermukaan larutan adlah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pb = massa jenis benda<br>pf = massa jenis larutan<br>Vb = volum benda<br>Vbf = volum benda tercelup<br>pf air = 1 g/cm^3<br><br>Vbf = (1 - 1/3)Vb<br>Vbf = 2/3Vb<br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>(pb)(Vb) = (pf)(2/3Vb)<br>pb = 2/3 .... (1)<br><br>w = Fa<br>(pb)(Vb)g = (pf)(Vbf)g<br>subtitusi (1) ke persamaan, didapat<br>(2/3)(Vb) = (8/9)(Vbf)<br>Vb = 4/3Vbf<br>Vbf = 3/4Vb<br>yg muncul dipermukaan = Vb - Vbf = Vb - 3/4Vb = 1/4Vb (1/4 bagian)<br><br>CMIIW :3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bermassa-1000-kg-yang-melaju-dengan-kecepatan-72kmj-344",
+            "question": "Sebuah mobil bermassa 1000 kg yang melaju dengan kecepatan 72km/jam direm sehingga kecepatannya menjadi 36km/jam . besarnya usaha yang dilakukan oleh gaya rem adalah..?    A. 3,5 X10^5 J\r\nB. \u00a02,0 X 10^5 J\r\nC. \u00a01,5 X 10^5 J\r\nD. 1,O X 10^5 J\r\nE. 0,5 X 10^5 J",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik m = 1000 kg<br>\u00a0 \u00a0 \u00a0 v2 = 72 km/jam = 20 m/s<br>\u00a0 \u00a0 \u00a0 v1 = 36 km/jam = 10 m/s<br>Dit W ?<br>jawab.<br><br>W =\u00a0\u0394Ek = 1/2 mv^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1/2 . 1000 . (20^2 - 10^2)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 500 . 300<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 150 000 J = 1,5x10^5 joule",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "rumus-tentang-gaya-pegas-619",
+            "question": "Rumus tentang\u00a0gaya pegas",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "F = k . x<br><br>Ket:<br>F\u00a0=\u00a0gaya yang bekerja pada pegas (N)<br>K = Konstanta pegas (N/m)<br>x = pertambahan panjang pegas (m)",
+                    "attachments": []
+                },
+                {
+                    "answer": "rumusnya yaitu\u00a0F = k x\u00a0\u0394x",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-tegar-dikenai-gaya-8-n-dengan-titik-tumpu-gaya-berja-360",
+            "question": "Sebuah benda tegar dikenai gaya 8 N dengan titik    tumpu gaya berjarak 24 cm dari pusat rotasi dan membentuk sudut 150 \r\n drajad. tentukanlah torsi yang terjadi pada benda tersebut",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "torsi= f x l<br>=8 x0,24m<br>=1,92<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "anton-berdiri-di-samping-sumber-bunyi-yang-frekuensinya-1008-hz-447",
+            "question": "anton berdiri di samping sumber bunyi yang frekuensinya 1.008 Hz. sebuah sumber bunyi lain yang frekuensinya 1.008 Hz mendekati anton dengan kecepatan 4 m/s bila cepat rambat bunyi di udara 340 m/s, maka besar frekuensi layangan yang didengar anton adalahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1008hz = \u00a0f<br>4m/s \u00a0 \u00a0 \u00a0 \u00a0340m/s<br>f = 1008 hz . 340 / 4<br>\u00a0maaf jika ada kesalahan\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diberikan-gaya-pada-suatu-pegas-200n-dengan-luas-penampang-batang-565",
+            "question": "diberikan gaya pada suatu pegas 200N dengan luas penampang batang 50m kuadrat. berapa tegangan yang di hasilkan dari pegas trsebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>\nPembahasan:</span>\n<br><span>\n\u03c3 = F /A</span>\n<span>\nF <br>= 200 N</span>\n<span>\n<span>A <br>= 50 m2</span></span>\n\n<span>\u03c3\u00a0 <br>= 200 N/ 50 m2 <br></span><span>= 4,0 N/m<span>2</span></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-energi-potensial-bersifat-kekal-306",
+            "question": "Apakah energi potensial bersifat kekal.?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Energi potensial tidak bersifat kekal karena dipengarui oleh energi mekanik<br><br>karena<br>Em = Ep + Ek = konstant<br><br>Ep dan Ek dapat berubah tetapi nilai Em tetap",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-balap-menempuh-suatu-lintasan-melingkar-dan-menjaga-235",
+            "question": "Sebuah mobil balap menempuh suatu lintasan melingkar dan menjaga kelajuannya tetap pada 180 km/jam. Jika jari jari lintasan adalah 25 m, percepatan yang dialami pusat mobil adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<em>Diketahui:</em><br>v = 180 km/jam<br>jari-jari lintasan r = 25 m<br><br><em>Ditanya:</em><br>percepatan sentripetal<br><br><em>Penyelesaian:</em><br><br><strong>Step-1</strong><br>Konversi satuan kecepatan<br>[tex]180  \\frac{km}{jam}=180 x \\frac{1.000 m}{3.600 s}  [/tex] = 50 m/s<br><br><strong>Step-2</strong><br>Rumus percepatan sentripetal<br>\u21d4 [tex]a_{s}= \\frac{v^{2}}{r} [/tex]\u00a0<br>\u21d4 [tex]a_{s}= \\frac{50^{2}}{25} [/tex]<br>\u21d4 [tex]a_{s}= \\frac{2.500}{25} [/tex]<br><strong>\u2234 percepatan sentripetal adalah 100 m/s\u00b2</strong><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-konduktor-berjari-jari-2-cm-dan-diberi-muatan-1mc-493",
+            "question": "sebuah bola konduktor berjari-jari 2 cm dan diberi\u00a0muatan 1\u03bcC. Besar potensial Listrik berjarak 3 cm dari pusat bola konduktor adalah.... ( 1\u00a0\u03bcC = 10\u207b\u2076 C )",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik r1 = 2 cm = 0,02 m<br>\u00a0 \u00a0 \u00a0 r2= 3 cm = 0,03 m<br>\u00a0 \u00a0 \u00a0 \u00a0k = 9 x 10^9 N^2/C^2<br>\u00a0 \u00a0 \u00a0 \u00a0q = 1\u03bcC = 1x10^-6 C<br>Dit\u00a0\u0394V ?<br>jawab.<br><br>\u0394V = V1-V2 = k.[tex] \\frac{q}{r1} [/tex] - k .[tex] \\frac{q}{r2} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a09 x 10^9\u00a0([tex] \\frac{1x10^-6}{0,02} [/tex]) -\u00a09 x 10^9 ([tex] \\frac{1x10^-6}{0,03} [/tex])<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 4,5 x 10^5 - 3 x 10^5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1,5 x\u00a010^5 Volt<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "question": "Cara menghitung sudut?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "Hitung saja pakai busur",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "keliling-sebuah-lingkaran-628-cm-dan-p314-hitunglah-panjang-827",
+            "question": "Keliling sebuah lingkaran 62.8 cm dan \u03c0=3.14 .hitunglah panjang jari jari nya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k/2 = r<br>62.8 / 3.14 = 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\pi [/tex]. 2r=62,8<br>3,14.r=31,4<br>r=31,4/3,14<br>r=10 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-sebuah-segitiga-26cm-28cm-30cm-luas-lingkaran-luar-599",
+            "question": "Panjang sisi sebuah segitiga 26cm 28cm 30cm .luas lingkaran luar segitiga \\pi = 3,14 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s = 1/2 K<br>s = 1/2(26 + 28 + 30) = 42<br><br>Luas segitiga = [text]sqrt{s(s-a)(s-b)(s-c)}[/text]<br>luas segitiga = [text]sqrt{42(42-26)(42-28)(42-30)}[/text]<br>luas segitiga = [text]sqrt{42(16)(14)(12)}[/text]<br>luas segitiga = [text]sqrt(112896)[/text]<br>luas = 336<br><br>r = (a.b.c)/4 x L<br>selanjutnya sendiri gan...ganbate..<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-lingkaran-kelilingnya-22-cm-diameter-lingkaran-adalah-994",
+            "question": "Sebuah lingkaran kelilingnya 22 cm. diameter lingkaran adalah ... cm\u00a0\r\nini rumus nya gimana?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u03c0 x d = 22<br>22/7 x d = 22<br>d = 22 x 7/22<br>d = 7",
+                    "attachments": []
+                },
+                {
+                    "answer": "Keliling adalah\u00a0phi dikali diameter -&gt; phi. D = keliling<br>Jadi, cara mencari diameter adalah dengan keliling dibagi phi -&gt; D= keliling : phi",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-5254-178-adalah-dan-sebutkan-langkah-langkah-x-892",
+            "question": "Hasil dari 5/2:5/4-17/8 adalah... dan sebutkan langkah-langkah-x",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=5/2 x 4/5 - 17/8<br>=2-17/8=16/8-17/8=-1/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "(5/2 : 5/4) - 17/8 =<br>(5/2 x 4/5) - 17/8 =<br>20/10 - 17/8 = <br>2/1 - 17/8 =<br>16/8 - 17/8 = - 1/8<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-suku-berurutan-pada-sebuah-barisan-geometri-berturut-turut-390",
+            "question": "Dua suku berurutan pada sebuah barisan geometri berturut-turut \u00bc dan \u00bd. Jika suku kedelapan barisan tersebut 2, jumlah delapan suku pertama barisan adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "suku berurutan 1/4dan 1/2, maka rasionya 1/2:1/4 = 2<br><br>jika r =2 maka<br>U8\u00a0= 2<br>ar\u2077 = 2<br>a.2\u2077= 2<br>a = 2/2\u2077<br>a = 1/2\u2076<br>a= 1/64<br><br>maka,\u00a0<br>Sn = a(r\u2078\u00a0- 1) / r - 1<br>S\u2088 = 1/64(2\u2078-1) / (2 - 1)<br>S\u2088 = 1/64 (256 - 1) / 1<br>S\u2078 = 255/ 64<br><br>semoga membantu<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] S_{8} [/tex]=n/2(a+[tex] U_{8} [/tex]<span>)</span><br>[tex] S_{8} [/tex]=8/2(1/4+2)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =4(9/4)<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =9<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-besar-sudut-adc-55-hitunglah-besar-a-sudut-aoc-b-134",
+            "question": "Diketahui besar sudut ADC = 55\u00b7 hitunglah besar    a. Sudut AOC\r\n b. Sudut Refleks AOC\r\n c. Sudut OAC Dan Sudut ACD",
+            "attachments": [
+                "question-attachments/diketahui-besar-sudut-adc-55-hitunglah-besar-a-sudut-aoc-b-134-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a. Sudut AOC = 55 x 2 = 110 derajat<br>b. Sudut Refleks AOC = 360 - 110 derajat = 250 derajat<br>b. Sudut OAC = Diketahui Segitiga AOC sama kaki\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 180 - 110/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 70 : 2\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 35 derajat<br><br>Sudut ACD = Diketahui Segitiga ADC sama kaki<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 180 - 55/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 125/2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 62,5 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-yang-dilalui-jarum-panjang-sebuah-jam-beriku-137",
+            "question": "Tentukan besar sudut yang dilalui jarum panjang sebuah jam berikut ini : a. Bergerak dari pukul 12.15 sampai 12.34 b. Bergerak dari pukul 09.06 sampai 09.23",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a)12.34-12.15=19<br>maka\u00a0[tex] \\frac{19}{60} [/tex]\u00d7360=114 derajat<br>b)09.23-09.06=17<br>maka\u00a0[tex] \\frac{17}{60} [/tex]\u00d7360=102 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-pusat-kota-rencananya-akan-dibuat-sebuah-taman-berbentuk-linka-839",
+            "question": "di pusat kota rencananya akan dibuat sebuah taman berbentuk linkaran diameter 56 m. di dalam taman akan dibuat kolam berbentuk lingkaran berdiameter 28 m. jika di luar kolam akan ditanami rumput dengan biaya Rp6.000,00/m\u00b2, hitunglah seluruh biaya yang harus dikeluarkan untuk mennanam rumput tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L lingkarang besar =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\pi [/tex] x ([tex] \\frac{d}{2} [/tex] m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =[tex] \\frac{22}{7} [/tex] x (28 m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2464 m\u00b2<br>L lingkaran kecil =\u00a0[tex] \\pi [/tex] x r\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex] x ([tex] \\frac{d}{2} [/tex] m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\frac{22}{7} [/tex] x (14 m)\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 616 m\u00b2<br>L wilayah yang akan ditanami rumput = L lingkaran besar - L lingkaran kecil<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2464 m\u00b2 - 616 m\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 1848 m\u00b2<br><br>Jika untuk menanam rumput di lahan berluas\u00a01 m\u00b2 dibutuhkan biaya Rp 6.000, maka:<br><br>Rp 6.000 x 1848 m\u00b2 = Rp 11.088.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1nyatakan-segitiga-segitiga-berikut-lancip-siku-siku-atau-t-885",
+            "question": "1.Nyatakan segitiga segitiga berikut, lancip, siku - siku, atau tumpul. jika merupakan segitiga siku - siku, lancip, atau tumpul. tentukan nama titik sudut yang siku- siku, lancip, atau tumpul!    A.segitiga ABC.AB=16CM, BC=30CM DAN AC=34CM\r\nB.segitiga PQR.PQ=12CM, QR=10CM, DAN PR=8CM\r\n\r\n2.ebuah kapal berlayar dari pelabuhan a kearah selatan menuju pelabuhan b sejauh 250km. kemudian, dilanjutkan ke arah timur menuju pelabuhan c sejauh 300km.\r\na.buatlah sketsa dari keterangan di atas.\r\nb.berapakah jarak dari pelabuhan a ke pelabuhan d",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ga ngerti aku nee..........<br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.\u00a0a. tumpul<br>\u00a0 \u00a0\u00a0b. siku-siku<br>2. a. 6/5<br>\u00a0 \u00a0 b. 50 km",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "lukislah-pada-kertas-berpetak-lingkaran-dengan-pusat-di-titik-p3-772",
+            "question": "Lukislah pada kertas berpetak lingkaran    dengan pusat di titik P(3, 2) dan jari-jari\r\n4 satuan panjang. Selanjutnya, lukislah\r\ngaris singgung lingkaran yang melalui titik\r\nQ(\u20131, 2).",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kelas : VIII SMP<br>mapel : matematika<br>kategori : garis singgung lingkaran<br>kata kunci : menggambar garis singgung lingkaran<br><br>kode : 8.2.7 [matematika SMP kelas 8 Bab 7 garis singgung lingkaran]<br><br>Pembahasan:<br><br>garis singgung lingkaran adalah garis yang menyinggung lingkaran dan tegak lurus dengan jari-jari lingkaran<br><br>dari ilustrasi soal, dapat kita gambar atau kita lukis garis singgung lingkarannya, atau garis singgung lingkaran yang melalui titik (-1, 2), dan pusat lingkaran di (3, 2) jari-jari lingkaran 4<br><br>silahkan lihat lampiran<br><br><br><br><br>selamat belajar<br>salam indonesia cerdas<br>bana",
+                    "attachments": [
+                        "answer-attachments/lukislah-pada-kertas-berpetak-lingkaran-dengan-pusat-di-titik-p3-772-1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

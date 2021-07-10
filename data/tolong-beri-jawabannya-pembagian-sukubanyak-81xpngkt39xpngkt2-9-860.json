@@ -1,0 +1,142 @@
+{
+    "question": "tolong beri jawabannya, pembagian sukubanyak 81xpngkt3+9xpngkt2-9x+4 dgn (3x-a) menghasilkan sisa 3a\u00a0pngt3+2.hitung nilai nilai a yang mungkin",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4 dengan (3x\u00a0-\u00a0a) sisa 3a^3 + 2<br>(3x\u00a0-\u00a0a) -&gt;\u00a0x\u00a0=\u00a0a/3<br>f(a/3) =\u00a03a^3 + 2<br>3a^3 + 2\u00a0=\u00a081(a/3)^3 + 9(a/3)^2 - 9(a/3) + 4<br>3a^3 + 2\u00a0= 81(a^3 / 27) + 9(a^2 / 9) - 3a + 4<br>3a^3 + 2\u00a0= 3a^3 + a^2 - 3a + 4<br>a^2 - 3a + 2 = 0<br>(a - 2) (a - 1) = 0<br>a = 2 atau a = 1<br><br>untuk\u00a0a = 2<br><span>(3x-a)\u00a0=\u00a0(3x-2) -&gt; x = 2/3<br><br></span>sisanya dari soal\u00a03a^3 + 2 -&gt; 3(2)^3 + 2 = 24 + 2 = 26<br><br>f(x)\u00a0=\u00a081x^3 + 9x^2 - 9x + 4<br>f(2/3) = 81(2/3)^3 + 9(2/3)^2 - 9(2/3) + 4<br>f(2/3) = 81(8/27) + 9(4/9) - 6 + 4<br>f(2/3) = 24 + 4 - 2<br>f(2/3) = 26<br><br><span>jadi, nilai a yang mungkin adalah a =\u00a02/3</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-fx-x2-x-6-gx-2x-1-dan-hx-3x-rumus-fun-227",
+            "question": "Diketahui f(x)= x^2 + x - 6, g(x)= 2x + 1 dan h(x)= 3x. rumus fungsi (gofoh)(x) .........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "(gofoh)(x) =g(f(h(x)))<br>(gofoh)(x) =g((3x)\u00b2+3x-6))<br>(gofoh)(x) = g(9x\u00b2+3x-6)<br>(gofoh)(x) = 2(9x\u00b2+3x-6) + 1<br>(gofoh)(x) = 18x\u00b2 + 6x - 12 + 1<br>(gofoh)(x) = 18x\u00b2 + 6x - 11<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-persamaan-kuadrat-dari-persamaan-kuadrat-4xpangkat2-13x-930",
+            "question": "Bentuk persamaan kuadrat dari persamaan kuadrat 4xpangkat2-13x= -3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4x2 - 13x =-3<br>4x2 - 13x + 3 = 0<br>2(x - 1/4) x 2( x+1/4)= 0<br>2x - 2/4 = 0 \u00a0 \u00a0atau \u00a0 \u00a0 2x+2/4 =0<br>2x = 2/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = -2/4<br>x = 2/4 : 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = -2/4 : 2<br>x = 2/4 x 1/2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -2/4 x 1/2<br>x = 1/4 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x = -1/4<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "8-pangkat-2-sama-artinya-dengan-302",
+            "question": "8 pangkat -2 sama artinya dengan",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "sama artinya dengan 8^-2 =\u00a0[tex] \\frac{1}{8^2} =  \\frac{1}{64}  [/tex]",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kalau tidak salah sama dengan pangkat 8 : pangkat 2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-nilai-limit-berikut-1-lim-x3-x3-3x22x-6-x-359",
+            "question": "Hitunglah nilai limit berikut :    1). lim (x\u21d23) X\u00b3-3X\u00b2+2X-6: X+4\r\n2). lim (X\u21d20) X\u00b3-5X+5: X\u00b2-2X+3\r\nc). lim (X\u21d2-1) 2X+1: X\u00b2-3X+4",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) lim x-&gt; 3 \u00a0 (x^3 - 3x^2 + 2x - 6) / (x + 4)<br>harus ada yang dihilangkan (malas ketikknya :3, sorry )<br><br>2) lim x-&gt;0 \u00a0 \u00a0(x^3 - 5x + 5) / (x^2 - 2x + 3)<br>lim x-&gt;0 \u00a0 \u00a05/3<br><br>3) lim x-&gt;-1 \u00a0 (2x+1) / (x^2 - 3x + 4)<br>lim x-&gt;-1 \u00a0 (-1) / (8)<br>hasil -&gt; -1/8",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-3-dan-suku-ke-6-barisan-geometri-berturut-turut-adalah-36-352",
+            "question": "suku ke-3 dan suku ke-6 barisan geometri berturut-turut adalah 36 dan 972. nilai suku ke -5 dari barisan tersebut adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U5 = 660 <br>apa ada jawabannya ?<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "jawabannya 324. ada?",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-segitiga-abc-dik-cos-bc940-jika-panjang-sisi-ac10-551",
+            "question": "Pada segitiga ABC ,    DIK: cos (B+C)=9/40. jika panjang sisi AC=10 CM &amp; AB= 8CM , panjang sisi BC adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pada segitiga ABC, diketahui cos(B + C) = 9/40, jika panjang sisi AC = 10 cm dan AB = 8 cm, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>\u221a</strong><strong>2</strong><strong> </strong><strong>cm</strong><strong> </strong>Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAH</strong><strong>ULUAN</strong></p><p>Permasalahan di atas dapat diselesaikan dengan menggunakan <strong>aturan</strong><strong> </strong><strong>cosinus</strong><strong> </strong>karena diketahui panjang dua sisi dan keterangan untuk menentukan sebuah sudut.</p><p><strong>Trigonometri</strong> adalah materi matematika yang berhubungan dengan perbandingan antara sudut dengan sisi pada segitiga.</p><p>Untuk menyelesaikan soal ini, kita akan menggunakan <strong>rumus</strong> berikut :</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf A + B + C = 180^{\\circ}}}[/tex]</p><p>dengan demikian,</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf B + C = 180^{\\circ} - A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf cos(180^{\\circ} - A) = -cos~A}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\boxed{\\boxed{\\bf a^2 = b^2 + c^2 - 2bc~.~cos~A}}[/tex] </p><p>dimana :</p><p>\u25cb\u00a0<em>a</em>\u00a0= panjang sisi BC</p><p>\u25cb\u00a0<em>b</em>\u00a0= panjang sisi AC</p><p>\u25cb\u00a0<em>c</em>\u00a0= panjang sisi AB</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h3>PEMBAHASAN</h3><p><strong>Diketahui</strong><strong> </strong><strong>:</strong></p><ul><li>cos(B + C) = 9/40</li><li>AC (b) = 10 cm</li><li>AB (c) = 8 cm</li></ul><p><strong>Ditanya</strong><strong> </strong><strong>:</strong><strong> </strong>BC (a) = . . . ?</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>\u2756 <strong>Menentu</strong><strong>kan</strong><strong> </strong><strong>nilai</strong><strong> </strong><strong>(</strong><strong>B</strong><strong> </strong><strong>+</strong><strong> </strong><strong>C</strong><strong>)</strong></p><p>Karena segitiga ABC, maka jumlah seluruh sudutnya ialah 180\u00b0.</p><p>[tex]\\displaystyle\\rm A + B + C = 180^{\\circ} \\\\ \\\\ \\displaystyle\\boxed{\\rm B + C = 180^{\\circ} - A}[/tex]</p><p>diperoleh: B + C = 180\u00b0 \u2013 A</p><p>\u2756 <strong>Menentukan</strong><strong> </strong><strong>nila</strong><strong> </strong><strong>cos</strong><strong> </strong><strong>A</strong></p><p>Untuk menghitung nilai cos A, kita substitusikan B + C = 180\u00b0 \u2013 A pada cos(B + C) = 9/40</p><p>[tex]\\displaystyle\\rm cos(B + C) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm cos(180^{\\circ} - A) = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\rm -cos~A = \\dfrac{9}{40} \\\\ \\\\ \\displaystyle\\boxed{\\rm cos~A = -\\dfrac{9}{40}}[/tex]</p><p>diperoleh: cos A = \u2013 9/40</p><p>\u2756 Sehingga, <strong>panjang</strong><strong> </strong><strong>sisi</strong><strong> </strong><strong>BC</strong></p><p>Kita tentukan panjang sisi BC dengan menggunakan aturan cosinus.</p><p>[tex]\\displaystyle\\begin{array}{rcl}\\rm a^2 &amp;=&amp; b^2 + c^2 - 2bc~.~cos~A \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 10^2 + 8^2 - 2(10)(8)~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 100 + 64 - 160~.~\\left(-\\dfrac{9}{40}\\right) \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 4~.~9 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 164 + 36 \\\\ \\\\ &amp;=&amp; \\displaystyle\\rm 200 \\end{array} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{200} \\\\ \\\\ \\displaystyle\\rm a = \\sqrt{100\\times2} \\\\ \\\\ \\displaystyle\\boxed{\\boxed{\\rm a = 10\\sqrt{2}}}[/tex]</p><p>\u2234 <strong>Kesi</strong><strong>mpulan</strong><strong> </strong><strong>:</strong><strong> </strong>Jadi, panjang sisi BC adalah 10\u221a2 cm.</p><p></p><p><strong>PELAJARI</strong><strong> </strong><strong>LEBIH</strong><strong> </strong><strong>LANJUT</strong></p><p>Materi tentang <strong>trigonometri</strong> lainnya dapat disimak di bawah ini :</p><ul><li>Diketahui segitiga ABC dengan \u2220C = 60\u00b0. Jika a = 10 cm dan B = 5 cm, maka panjang c adalah brainly.co.id/tugas/2760573</li><li>Diketahui \u2206PQR, PQ = 20 cm, \u2220S = 90\u00b0, sin P = 3/5, dan tan R = 12/5. Maka luas segitiga PQR adalah brainly.co.id/tugas/10595351</li><li>Diketahui segitiga ABC, panjang sisi AC = 3, AB = 2, dan \u2220A = 60\u00b0. Nilai cos C adalah brainly.co.id/tugas/9736660</li><li>Sebuah segitiga ABC diketahui besar \u2220A = 60\u00b0 dan \u2220B = 45\u00b0 sedangkan panjang sisi BC = 12 cm, maka panjang sisi AC adalah brainly.co.id/tugas/10116623</li></ul><h3>____________________________</h3><h3>DETIL JAWABAN</h3><p><strong>Kelas :\u00a0</strong>X</p><p><strong>Mapel :\u00a0</strong>Matematika</p><p><strong>Bab :\u00a0</strong>Bab 7 - Trigonometri</p><p><strong>Kode :\u00a0</strong>10.2.7</p><p><strong>Kata kunci :</strong><strong> </strong>perbandingan sudut-sudut berelasi, aturan cosinus</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hasil-dari-8-4-26-adalah-759",
+            "question": "Hasil dari 8-4 :(-2)+6 adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "8-4:(-2)+6 = 8 +2 +6 = 16",
+                    "attachments": []
+                },
+                {
+                    "answer": "Jawab:<br>8 - 4 : (-2) + 6 = 8 + 2 + 6 = 16<br><br>semoga bisa membantu ^_^,,,<br>maaf jika ada yang salah ^_^,,,",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "9-log-8-4-log-33-257",
+            "question": "9 log 8 \u00d7 4 log\r\n3\u221a3=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "wah ini soal detik2 ya..<br>3^3 log 2^3 x 2^2 log 3^3/2<br>3/2 3log2 3/2/2 x 2log3<br><br>hasilnya\u00a0<br>9/8",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u2079log8 x \u2074log3\u221a3 <br>= 3/2 x \u00b3log2 x 3/4 x \u00b2log3<br>= 9/8 x \u00b3log2.\u00b2log3<br>=9/8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-bilangan-1011121399-dari-deret-diatas-te-608",
+            "question": "Diketahui deret bilangan 10+11+12+13+...+99. Dari deret diatas tentukan jumlah bilangan yg habis dibagi 2 tapi tidak habis dibagi 3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Yang habis di bagi 2\n<br><span>Un = a + (n-1)b</span>\n\n<br>98 = 10 + 2n-2\n\n<br>98 = 8 +2n\n\n<br>2n = 90\n\n<br>n = 45<br>\u00a0Yang habis dibagi 3\n\n<span><br>Un = a + (n-1)b</span>\n\n<br>99 = 12 + 3n-3\n\n9<br>9 = 9 + 3n\n<br>\n3n = 90\n<br>\nn = 30\n\n<br>yang habis dibagi 2 tetapi tdk habis di bagi 3\n\n<br>n = 45 \u2013 30\u00a0<span>= 15</span>\n\n<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

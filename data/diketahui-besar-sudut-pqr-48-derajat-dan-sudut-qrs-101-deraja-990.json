@@ -1,0 +1,136 @@
+{
+    "question": "Diketahui besar sudut PQR = 48 derajat dan sudut QRS = 101 derajat. Hitunglah besar : \u00a0a) sudut PST \u00a0b) sudut QPR \u00a0c) sudut QTS",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. &lt;PST = &lt;PQR = 48\u00b0 karena menghadap busur sama<br>b. &lt;PRQ = 180 - 101 = 79\u00b0 (karena berpelurus)<br>&lt;QPR = 180 - 48 - 79 = 53\u00b0<br>c. &lt;QTS = &lt;QPR = 53\u00b0 (karena menghadap busur sama)<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-gambar-di-samping-luas-juring-opq-1925-cm2-dan-luas-juri-334",
+            "question": "Pada gambar di samping, luas juring OPQ = 19,25 cm2 dan luas juring ORS = 51,33 cm2. Jika besar sudut POQ 45 derajat maka besar sudut ROS adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pertama kita cari dulu panjang jari2 lingkaran. kenapa? karena untuk mencari besar sudut dengan rumus luas juring memuat panjang jari-jari lingkarang.\u00a0<br><br>bagaimana mencari panjang jari-jari? kita manfaatkan luas juring POQ, sehingga diperoleh pers<br>L POQ = &lt;POQ/360 x L lingkaran<br>19,25 = 45/360 x\u00a0[tex] \\pi [/tex] r\u00b2\u00a0<br>19,25 = 1/8 x 22/7 x r\u00b2<br>r\u00b2 = 19,25x8x7 / 22 = 1078/22 = 49\u00a0<br>r =\u00a0\u221a49 = 7\u00a0<br><br>selanjutnya kita cari besar sudut ROS, tapi sebelumnya kita ubah dulu luas busur ROS yaitu 51,33 dalam bentuk pecahan supaya lebih mudah dalam perhitungan nanti, jadi 51,33 = 51 + 0,33 = 51 + 1/3 = 154/3<br>L ROS = &lt;ROS / 360 x L lingkaran<br>154/3 = &lt;ROS/360 x 22/7 x 49\u00a0<br>&lt;ROS = 154 x 360 x 7 / (3x22x49) = (154x120) / (22 x 7) = 120\u00a0<br>jadi besar sudut ROS adalah 120 derajat<br><br>semoga membantu dan mudah dipahami<br>#FunWithMath<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-jenis-makanan-kemasan-dengan-berat-bruto-berat-kotor-ap-429",
+            "question": "Contoh jenis makanan kemasan\u00a0dengan berat bruto (berat kotor) apa saja?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Setahuku sih sarden. Di kalengnya itu tertera brutonya.<br><br>Semoga bermanfaat :)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-juring-40cm2jika-jari-jarinya-10cm-maka-panjang-bu-241",
+            "question": "Luas sebuah juring 40cm\u00b2,jika jari jarinya 10cm ,maka panjang busur juring ialah=",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{Luas Juring}{r} =  \\frac{Panjang busur}{2}  [/tex]<br>= [tex] \\frac{40}{10} =  \\frac{Panjang busur}{2}  [/tex]<br>= [tex]40 =  \\frac{panjang busur}{2} [/tex]<br>Panjang busur = 80 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{L juring}{L O} =  \\frac{Panjang B}{KO}  [/tex][tex] \\frac{40}{ \\pi 10^2} =  \\frac{Pb}{2 \\pi 10}  [/tex]<br><br>[tex]\\frac{40}{ \\pi 100} =  \\frac{Pb}{20 \\pi } [/tex]<br><br>pb = 40 x 20\u03c0 : 100\u03c0<br>\u00a0 \u00a0 = 8 cm<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-lingkaran-besar-sudut-aob-30-sudut-boc-90-245",
+            "question": "Pada gambar lingkaran, besar sudut AOB = 30\u00b0, sudut BOC = 90\u00b0, dan luas juring OAB = 60 cm\u00b2. Hitunglah luas juring OBC!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<u>sudut AOB</u> = <u>LJuring OAB</u><br>sudut BOC\u00a0 \u00a0 LJuring OBC<br><br><u>30</u> =<u> 60</u><br>90\u00a0 \u00a0 x<br>30x = 60 \u00d7 90<br>x = 180 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-2x-7-5x-11-maka-nilai-x-3-adalah-421",
+            "question": "Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><h3>Pembahasan</h3><p>Persamaan linear satu variabel atau PLSV merupakan kalimat terbuka yang memiliki satuvariabel dan menggunakan tanda sama dengan ( = ).</p><p>Bentuk umum persamaan linear satu variabel ax + b = 0.</p><p>a disebut koefisien dari variabel</p><p>x adalah variabel</p><p>b adalah konstanta</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Sederhanakanlah bentuk bentuk aljabar berikut \u00a012 + 2 (4x - 3y) = brainly.co.id/tugas/2898178</li></ul><p></p><h3>Penyelesaian Soal</h3><p>Jika 2x + 7 = 5x - 11 maka nilai x + 3 adalah 9.</p><p></p><p> \u00a0 \u00a0 2x + 7 = 5x - 11 \u00a0Ruas kiri dan ruas kanan kita kurang 7</p><p>2x + 7 - 7 = 5x - 11 - 7</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2x = 5x - 18 Ruas kiri dan ruas kanan kita kurang 5x</p><p> \u00a0 \u00a02x - 5x = 5x - 18 - 5x</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-3x = -18 Ruas kiri dan ruas kanan kita bagi -3</p><p> \u00a0 \u00a0-3x : -3 = -18 : -3</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x = 6</p><p></p><p>Maka x + 3 = 6 + 3 = 9</p><p></p><ul><li><strong>Pelajari Lebih Lanjut</strong> Bab PLSV \u2192 Apa yg dimaksud persamaan linier satu variabel? brainly.co.id/tugas/1909229</li><li>25 - 4y = 6y + 15 \u00a0[ tentukan himpunan penyelesaian dari persamaan linear ] brainly.co.id/tugas/2167585</li></ul><h3>==============================</h3><h3>Detail Jawaban</h3><p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: PLSV</p><p><strong>Kode </strong>: 8.2.1</p><p></p><p><strong>Kata</strong> <strong>Kunci </strong>: Al-jabar, persamaan, linear, satu, variabel, koevisien, konstanta.</p><p></p><p></p><p></p><p></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "satu-kotak-coklat-dibagikan-kepada-24-anak-setiap-anak-mendapat-8-541",
+            "question": "Satu kotak coklat dibagikan kepada 24 anak setiap anak mendapat 8 coklat . jika coklat itu di bagikan kepada 16 anak banyak coklat yg diperoleh setiap anak adalah ,....    tolong pakai cara yaa..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "24 x 8 = 16/x<br><span>x = 24 x 8 : 16 = 12 anak<br></span><br>maaf kalo salah<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-op-13cm-ox-15cm-py-10cm-dan-xz-36cm-hitunglah-pa-926",
+            "question": "Jika OP = 13cm, OX = 15cm, PY = 10cm, dan XZ = 36cm. hitunglah panjang XY, panjang OZ, dan perbandingan luas segitiga OXZ dan segitiga PYZ    agar lebih jelas lihat gambar",
+            "attachments": [
+                "question-attachments/jika-op-13cm-ox-15cm-py-10cm-dan-xz-36cm-hitunglah-pa-926-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a).\u00a0OP=XY<br>\u00a0 \u00a0 \u00a013= 13<br>\u00a0karena, OP dan XY bersebrangan otomatis sama<br><br>b). YZ\u00a0<u></u>- XY= 36-13= 23<br>\u00a0 \u00a0 DIK : YP = 10<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 YZ = 23<br>\u00a0 \u00a0 DIT PZ = ?<br><br>\u00a0 \u00a0PZ =\u221a YZ\u00b2 - YP\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a 23\u00b2 - 10\u00b2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u221a 529 - 100<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a429<br>\u00a0 \u00a0 \u00a0 \u00a0 = \u00a0\u221a 20,72<br>panjng OZ = OP + PZ<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 13 + 20,72<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 33,72<br>\u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "herman-meminjam-uang-di-bank-sebesar-900000-bank-tersebut-membe-800",
+            "question": "Herman meminjam uang di bank sebesar 900.000. Bank tersebut memberikan bunga pinjaman 15% per tahun. Jika Herman hendak mengembalikan pinjaman dengan cara cicil selama 18 bulan, maka besar cicilan tiap bulannya adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "115^2/10000x50000= 66.125 rupiah",
+                    "attachments": []
+                },
+                {
+                    "answer": "\u00a0pinjam 900.000<br>bunga 15%<br>cicilan 18 bulan<br><br>-&gt; 15/100 x 900.000 = 135.000 (bunga)<br>-&gt; 900.000 + 135.000 = 1.035.000<br>-&gt; 1.035.000 : 18 = 57.500 (besar cicilan tiap bulan)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lingkaran-628-cm-dan-p314-hitunglah-panjang-827",
+            "question": "Keliling sebuah lingkaran 62.8 cm dan \u03c0=3.14 .hitunglah panjang jari jari nya ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k/2 = r<br>62.8 / 3.14 = 2<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\pi [/tex]. 2r=62,8<br>3,14.r=31,4<br>r=31,4/3,14<br>r=10 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "himpunan-penyelesaian-dari-22x-5-3x-1-gt-3x-13-dengan-x-peu-759",
+            "question": "Himpunan penyelesaian dari 2(2x-5)-3(x-1) &gt; 3x-13 dengan x peubah pada B = {0,1,2,3,4,...,8}",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "=2(2x-5)-3(x-1)&gt;3x-13<br>=4x-10-3x+3&gt;3x-13<br>=x-7&gt;3x-13<br>=2x&lt;6<br>=x&lt;3<br>HP={0,1,2}",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

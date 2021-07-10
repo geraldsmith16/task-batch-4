@@ -1,0 +1,152 @@
+{
+    "question": "Sebuah kubus kayu dengan panjang rusuk 10cm mengapung pada perbatasan antara minyak dan air dengan sisi paling bawahnya 2cm di bawah bidang batas minyak-air, seperti pada gambar. Ketinggian kolom minyak dan air masing - masing adalah 10cm. Massa jenis minyak adalah 0,8 g/cm^3. Tekanan hidrostatis yang bekerja pada sisi paling bawah balok adalah..    A. 800 Pa\r\nB. 840 Pa\r\nC. 900 Pa\r\nD. 1020 Pa\r\nE. 9600 Pa",
+    "attachments": [
+        "question-attachments/sebuah-kubus-kayu-dengan-panjang-rusuk-10cm-mengapung-pada-perbat-730-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "<span>gram ke KG = 1/1000<br>cm^3 ke m^3 = 1/1000000<br>jadi,<br>=0,8/1000/1/1000000<br>=8/10000/1/1000000<br>=8/10000 * 1000000/1<br>=800 Pa</span>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-pegas-panjangnya-20-cm-ditarik-dengan-gaya-10-n-menyebabka-284",
+            "question": "Sebuah pegas panjangnya 20 cm ditarik dengan gaya 10 N menyebabkan panjang pegas menjadi 22cm.bila pegas terrsebut ditarik dengan gaya F,sehingga panjang pegas menjadi 23cm,maka besarr gaya F sama dengan . . .    a.12 N\r\nb.15 N\r\nc.17 N\r\nd.20 N\r\ne.22 N",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Besar gaya F sama dengan . . .\n</p><p>b.15 N\n</p><p><strong>Pembahasan:\n</strong></p><p><strong>Tahap 1: menentukan konstanta pegas\n</strong></p><p>Besar peregangan pegas ditentukan oleh Konstanta pegas atau tetapan gaya pegas (k). Konstanta ini merupakan perbandingan atau rasio dari perpanjangan atau perpendekan pegas (x) bila pegas tersebut dikenakan suatu gaya (F). \u00a0</p><p>Rumus tetapan atau konstanta pegas adalah:\n</p><p>F = k \u2206x \u00a0\n</p><p>atau:\n</p><p>k = F / \u2206x\n</p><p>Dimana:\n</p><p>F = besar gaya bekerja (dalam satuan Newton atau N)\n</p><p>k = konstanta pegas (dalam satuan N/m)\n</p><p>\u2206x = perubahan panjang pegas (dalam satuan meter atau m)\n</p><p>Dalam soal diketahui:\n</p><p>F = 10 N\n</p><p>\u2206x = 22 \u2013 20 = 2 cm = 0,02 m\n</p><p>Sehingga:\n</p><p>k = F / \u2206x\n</p><p> \u00a0 = 10 / 0,02\n</p><p> \u00a0 = 500 N/m\n</p><p><strong>Tahap 2: Menentukan perubahan panjang\n</strong></p><p>Kemudian, pegas ditarik menjadi 23 cm, atau diketahui:\n</p><p>\u2206x = 23 \u2013 20 = 3 cm = 0,03 m\n</p><p>k = 500 N/m\n</p><p>Sehingga gaya sekatrang adalah:\n</p><p>F = k \u2206x \u00a0</p><p> \u00a0 = (500)(0,03) \u00a0</p><p> \u00a0 = 15 N\n</p><p><strong>Pelajari lebih lanjut:\n</strong></p><p>Tetapan gaya pegas adalah???\n</p><p>https://brainly.co.id/tugas/10838921\n</p><p>--------------------------------------------------------------------------------------------------------\n</p><p><strong>Kelas: XI \u00a0</strong></p><p><strong>Kode: 11.6.2 \u00a0</strong></p><p><strong>Mata pelajaran: Fisika \u00a0</strong></p><p><strong>Materi: Bab 2 - Elastisitas \u00a0 \u00a0</strong></p><p><strong>Kata kunci: Konstanta Pegas \u00a0</strong></p><p><strong> \u00a0</strong></p><p>\n</p><p> \u00a0</p><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "ELASTISITAS<br>\u2022 Hukum Hooke<br><br>Keadaan pertama<br>F\u2081 = 10 N<br>\u2206x\u2081 = 22 - 20 = 2 cm<br><br>Keadaan kedua<br>F\u2082 = __?<br>\u2206x\u2082 = 23 - 20 = 3 cm<br><br>Hukum Hooke<br>F = k \u2206x<br>\u2192 k = F / \u2206x<br><br>Pada kedua keadaan, nilai konstanta k sama besar<br>k = k<br>F\u2081 / \u2206x\u2081 = F\u2082 / \u2206\u2082<br>10 / 2 = F\u2082 / 3<br>F\u2082 = 3 \u2022 10 / 2<br>F\u2082 = 15 N \u2714\ufe0f<br>(jawaban B)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-trafo-memiliki-daya-masukan-720-watt-tegangan-dan-arus-ke-464",
+            "question": "sebuah trafo memiliki daya masukan 720 watt. Tegangan dan arus keluaran dari trafo berturut-turut 72 V dan 6 A. Efisiensi trafo tersebut sebesar...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik Pp = 720 Watt<br>\u00a0 \u00a0 \u00a0 V = 72 volt<br>\u00a0 \u00a0 \u00a0 \u00a0l = 6 A<br>Dit efisiensi ?<br>jawab<br>Rumus Pp = V.l<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 72 . 6<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 432<br><br>efisiensi = Ps / Pp x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 432 / 720 x 100%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 60 %<br><br>Semoga membantu :) D",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-bergerak-dengan-kecepatan-60-kmjam-dalam-si-kecepa-154",
+            "question": "Sebuah mobil bergerak dengan kecepatan 60 km/jam. dalam SI kecepatan mobil itu adalah ... m/detik",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "60km=60.000m, 1jam=3600detik, sehinnga 60.000/3600=16,7m/detik",
+                    "attachments": []
+                },
+                {
+                    "answer": "60 km/jam = ..... m/s\n60000 m/3600 s= 16,67 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833",
+            "question": "seorang anak lelaki bermassa m = 50 kg berdiri di pusat sebuah mainan korsel yang sedang berputar terhadap suatu poros tanpa gesekan pada kecepatan 1,0 rad/s. anggap mainan korsel sebagai sebuah cakram pejal dengan massa m = 100 kg dan jai jari R = 2,0 m. jika anak laki laki itu melompat ke posisi 1,0 m dari pusat, berapakah kecepatan sudut sistem anak dan korsel setelah anak mendarat ? berapa besar energi kinetik yang hilang",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Inersia <br>Kelas: XI SMA IPA <br><br><br>Perhitungan dapat dilihat pada lampiran",
+                    "attachments": [
+                        "answer-attachments/seorang-anak-lelaki-bermassa-m-50-kg-berdiri-di-pusat-sebuah-ma-833-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balon-udara-berisi-udara-panas-memiliki-volume-500m3-bal-902",
+            "question": "sebuah balon udara berisi udara panas memiliki volume 500m^3. balon itu bergerak ke atas dengan kelajuan tetap di udara yang massa jenisnya 1,2 kg/m^3. massa jenis udara panas yang ada di dalam balon ketika itu adalah 0.80 kg/m^3. \u00a0 \u00a0 a. berapa massa total balon dan udara panas di dalamnya? b. berapa percepatan ke atas balon ketika suhu udara di dalam balon dinaikkan hingga massa jenisnya menjadi 0,7kg/m^3 ? \u00a0 \u00a0 \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Jawab A.\u00a0<br><br>\u03a3F = 0\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = 0\u00a0<br>-m + (1.2)\u00a0500 - (0.8)\u00a0500 \u00a0 \u00a0= 0\u00a0<br>m = 200 kg\u00a0<br><br><br><br><br>Jawab B.\u00a0<br><br>\u03a3F = m a\u00a0<br>-mg + \u03c1 g V - (\u03c1 panas) g V = M a\u00a0<br>-(200)(9.8) + (1.2)(9.8)(500) - (0.7)(9.8)(500) = (200 + 0.7 * 500) a\u00a0<br>a = 0.89 m/s\u00b2</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-yahh-sebuah-benda-massanya-4-kg-mula-mula-diam-kemudia-962",
+            "question": "tolong yahh ,, sebuah benda massanya 4 kg mula-mula diam, kemudian bergerak lurus dengan percepatan 4 m/s^2. usaha yang diubah menjadi enerhi kinetik setelah 2 sekon adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : m = 4kg<br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 v = 4 m/s<br>Dit : Ek =...?<br>Penyelesaian :<br><br>Ek = 1/2 \u00d7 m \u00d7 v\u00b2<br>Ek = 1/2 x 4 kg x (4m/s)\u00b2<br>Ek = 2 kg x 16 m\u00b2/s\u00b2<br>Ek = 32 joule<br><br><br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Vt= Vo + a.t\n= 0 + 4. 2\n= 8 m/s\n\nEk= 1/2 .m.v^2\n= 1/2 . 4. 8^2\n= 128 J",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-kohesi-beserta-contohnya-654",
+            "question": "Apa yang di maksud kohesi beserta contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengertian-kalor-berdasarkan-pengertian-konvensional-dan-berdasar-593",
+            "question": "Pengertian kalor berdasarkan pengertian konvensional dan berdasarkan teori kinetik zat?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kalor adalah energi panas yang berpindah sari benda yang bersuhu lebih tinggi ke benda yang bersuhu lebih randah",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Konvensional : Energi yang muncul akibat perubahan suhu<br>Teori kinetik Zat :Energi yang muncul akibat adanya perubahan Tekanan dan Volume suatu zat pada massa dan Suhu tertentu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667",
+            "question": "Hitunglah laju aliran volume air dalam pipa yang berjari-jari 5 cm dengan laju 10 cm/det ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Fisika - Mekanika Fluida<br>Kelas : 2 SMA/XI SMA<br>Pembahasan :<br>Jawaban terlampir",
+                    "attachments": [
+                        "answer-attachments/hitunglah-laju-aliran-volume-air-dalam-pipa-yang-berjari-jari-5-c-667-1.png"
+                    ]
+                },
+                {
+                    "answer": "Dik:<br>r = 5 cm --&gt; 0,05 m<br>v = 10 cm/s --&gt; 0,1 m/s<br>Dit:<br>Q = ...?<br>Jawab:<br>Q = A v<br>= \u03c0r\u00b2 . 0,1<br>= 3,14 (0,05)\u00b2 . 0,1<br>= 0,000785m\u00b3/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-pemanfaatan-radio-isotop-409",
+            "question": "Sebutkan\u00a0pemanfaatan radio\u00a0isotop?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Pemanfaat radioisotop adalah untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><h2><strong>Pembahasan</strong></h2><p><strong></strong></p><p><strong>RADIOISOTOP</strong></p><p><strong></strong></p><p>Radioisotop atau isotop radioaktif memiliki sifat</p><p>1. Bersifat tidak stabil dan terus menerus meluruh menjadi isotop lain dengan memancarkan sinar radioaktif. Karena sifat ini, maka atom radioaktif digunakan sebagai perunut atau penelusur mekanisme suatu reaksi.</p><p>2. Memancarkan sinar radiasi yang dapat mengubah sifat benda. </p><p>Karena kedua hal inilah maka radioisotop banyak dimanfaatkan untuk berbagai bidang, seperti:</p><p>1. Bidang kesehatan</p><p>Sifat perunut yang dipergunakan untuk mendeteksi kerusakan organ tubuh dan sifat radiasi untuk membunuh sel - sel kanker tanpa perlu tindakan pengangkatan jaringan.</p><ul><li>Iodium - 131 untuk mendeteksi kerusakan jaringan kelenjar gondok dan mendeteksi sel kanker pada otak.</li><li>Kobalt - 60 untuk kemoterapi leukimia.</li><li>Taksenium - 99 untuk membunuh sel kanker dan mendeteksi lokasi tumor dalam tubuh.</li><li>Talium - 201 untuk mendeteksi penyakit jantung dan pembuluh darah.</li><li>Besi - 58 untuk mempelajari proses pembentukan sel darah merah.</li><li>Fosforus - 32 untuk mempelajari fungsi ATPdan penyembuhan penyakit pembentukan sel darah merah yang berlebihan.</li><li>Sinar gamma untuk sterilisasi peralatan kedokteran.</li></ul><p>2. Bidang industri pengawetan makanan.</p><p>Digunakan sinar gamma untuk</p><ul><li>Membasmi mikroorganisme seperti pengawetan merica, ketumbat dan kemiri.</li><li>Menghambat pertunasan untuk pengawetan tanaman yang berkembang biak dengan tunas seperti jahe, bawang dan kentang.</li></ul><p>3. Bidang konstruksi</p><p>Di bidang ini, radioisotop digunakan untuk mendeteksi kebocoran pada pipa bawah tanah dengan alat pencacah radioaktif Geiger Counter. Isotop yang digunakan adalah Natrium - 24.</p><p>Bahkan bisa dipergunakan untuk menguji kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</p><p>4. Bidang pertanian</p><p>Nitrogen - 15 dipergunakan untuk memantau penyerapan pupuk pada tanaman.</p><p>Radioisotop juga bisa digunakan untuk memberantas hama.</p><p>5. Bidang hidrologi.</p><p>Natrium - 24 digunakan untuk menguji kecepatan aliran sungai atau aliran lumpur hal ini dipergunakan untuk mempelajari debit sungai.</p><p>6. Bidang biologi.</p><p>Karbon - 14 atau Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi fotosintesis.</p><p>7. Bidang kimia</p><p>Oksigen - 18 dipergunakan untuk mempelajari mekanisme reaksi esterifikasi.</p><p>8. Bidang listrik.</p><p>Reaksi inti menghasilkan energi yang sangat besar yang mampu menggerakan generator yang menghasilkan energi listrik.</p><p>9. Bidang penanggalan karbon.</p><p>Karbon - 14 dipergunakan untuk menentukan umur fosil, barang purbakala dan barang seni.</p><p></p><p>Radioisotop juga memiliki dampak yang berbahaya jarena merusak sel, menyebabkan kelainan sel, bahkan mematikan sel pada makhluk hidup.</p><p><strong>Ditanyakan:</strong></p><p>Pemanfaatan radioisotop ?</p><p><strong>Penjelasan:</strong></p><p>Radioisotop banyak dimanfaatkan untuk</p><ul><li><strong>Bidang kesehatan untuk mendeteksi kerusakan organ tubuh, mempelajari sistem kerja organ tubuh, menentukan letak tumor, mensterilkan peralatan kedokteran dan mematikan sel kanker.</strong></li><li><strong>Bidang industri pengawetan makanan untuk mematikan mikroorganisme dan mencegah pertumbuhan tunas.</strong></li><li><strong>Mendeteksi kebocoran logam pada pipa di dalam tanah mendeteksi kebocoran sambungan logam pada pembuatan rangka pesawat terbang.</strong></li><li><strong>Memantau penyerapan pupuk dan memberantas hama.</strong></li><li><strong>Mempelajari debit aliran sungai.</strong></li><li><strong>Mempelajari mekanisme fotosintesis.</strong></li><li><strong>Mempelajari terjadinya reaksi kimia.</strong></li><li><strong>Menghasilkan energi listrik.</strong></li><li><strong>Menentukan usia fosil, barang purbakala dan barang seni.</strong></li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>Pelajari lebih lanjut</strong></p><p>Radioisotop Bidang Kesehatan https://brainly.co.id/tugas/7927308</p><p>Radioisotop Di Bidang Hidrologi https://brainly.co.id/tugas/21698259</p><p>Pemanfaatan Sinar Gamma https://brainly.co.id/tugas/23032773</p><p><strong></strong></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas : </strong>XII</p><p><strong>Mapel : </strong>Kimia</p><p><strong>Bab : </strong>Kimia Unsur </p><p><strong>Kode : </strong>12.7.3.</p>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

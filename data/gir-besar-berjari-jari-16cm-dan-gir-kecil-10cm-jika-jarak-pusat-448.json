@@ -1,0 +1,146 @@
+{
+    "question": "gir besar berjari jari 16cm dan gir kecil 10cm, jika jarak pusat dua gir 60cm, panjang rantai yang tidak melilit gir adalah?",
+    "attachments": [
+        "question-attachments/gir-besar-berjari-jari-16cm-dan-gir-kecil-10cm-jika-jarak-pusat-448-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "[tex] \\sqrt{p ^{2} } - (R-r) ^{2} [/tex]<br>[tex] \\sqrt{60^{2} -(16-10)^{2} [/tex]<br>[tex]\\sqrt{3600}-(6^{2})[/tex])<br>[tex] \\sqrt{3600-36[/tex]<br>[tex] \\sqrt3564 [/tex]<br>18[tex] \\sqrt{11[/tex]",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "jika-sudut-a-25-sudut-b-hitunglah-a-sudut-a-dan-sudut-b-ji-965",
+            "question": "jika sudut a= 2/5 sudut b\u00a0 hitunglah\u00a0 a. sudut a dan sudut b jika keduanya saling berpelurus b. selisih sudut a dan b jika kedua sudutnya saling berpenyiku \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Jika sudut A = 2/5 sudut B. Hitunglah</p><ul><li>a. \u00a0m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika keduanya saling berpelurus!\u00a0</li><li>b. \u00a0Selisih m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika kedua\u00a0sudut saling berpenyiku </li></ul><h3>Pendahuluan </h3><ul><li>Sudut berpelurus (suplemen) \u21d2 Dua sudut dikatakan berpelurus jika jumlah besar sudut keduanya 180\u00b0 yaitu \u2220 A +\u00a0\u2220 B = 180\u00b0</li><li>Sudut berpenyiku (komplemen) \u21d2 Dua sudut dikatakan berpenyiku jika jumlah besar sudut keduanya 90\u00b0 yaitu \u2220 A +\u00a0\u2220 B = 90\u00b0</li></ul><h2>\nPembahasan :\u00a0</h2><p>\u2220 A = 2/5\u00a0\u2220 B</p><p></p><p><strong>a. \u00a0m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika keduanya saling berpelurus </strong></p><ul><li><strong>Menentukan besar \u2220 B</strong></li></ul><p>\u2220 A +\u00a0\u2220 B = 180\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B + B = 180\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B\u00a0+ [tex] \\frac{5}{5} [/tex]\u00a0B = 180\u00b0</p><p>[tex] \\frac{7}{5} [/tex]\u00a0B = 180\u00b0</p><p> \u00a0 B = 180\u00b0 : [tex] \\frac{7}{5} [/tex]</p><p> \u00a0 B = 180\u00b0\u00a0\u00d7 [tex] \\frac{5}{7} [/tex]</p><p> \u00a0 B = 128,57\u00b0</p><p>Jadi besar \u2220 B adalah 128,57\u00b0</p><ul><li><strong>Menentukan besar \u2220 A</strong></li></ul><p>\u2220 A +\u00a0\u2220 B = 180\u00b0</p><p>A \u00a0+ 128,57\u00b0 = 180\u00b0</p><p>A = 180\u00b0 - 128,57\u00b0 </p><p>A = 51,43\u00b0</p><p>Jadi besar \u2220 A adalah 51,43\u00b0</p><p></p><p><strong>b. \u00a0Selisih m\u00a0\u2220\u00a0A dan m\u00a0\u2220\u00a0B jika kedua\u00a0sudut saling berpenyiku </strong></p><ul><li><strong>Menentukan besar \u2220 B</strong></li></ul><p>\u2220A +\u00a0\u2220 B = 90\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B\u00a0+ B = 90\u00b0</p><p>[tex] \\frac{2}{5} [/tex] B\u00a0+ [tex] \\frac{5}{5} [/tex] B = 90\u00b0</p><p>[tex] \\frac{7}{5} [/tex] B = 90\u00b0</p><p>B = 90\u00b0 : [tex]\\frac{7}{5} [/tex] </p><p>B = 90\u00b0\u00a0\u00d7 [tex] \\frac{5}{7} [/tex]</p><p>B = 64,28\u00b0</p><p>Jadi besar \u2220 B adalah 64,28\u00b0</p><ul><li><strong>Menentukan besar \u2220 A</strong></li></ul><p>\u2220A +\u00a0\u2220 B = 90\u00b0</p><p>A + 64,28\u00b0 = 90\u00b0 </p><p>A = 90\u00b0 - 64,28\u00b0</p><p>A = 25,72\u00b0</p><p>Jadi besar \u2220 A adalah 25,72\u00b0</p><p>Selisih kedua sudut =\u00a0\u2220 B -\u00a0\u2220 A</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 64,28\u00b0 - 25,72\u00b0 </p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 38,56\u00b0</p><p></p><p>--------------------------------------------------------------------</p><h3>Pelajari Lebih Lanjut tentang Sudut</h3><ol><li>Menyebutkan pasangan Sudut-sudut sehadap , Sudut-sudut sepihak (dalam dan luar) \u00a0dan Sudut-sudut berseberangan (dalam dan luar) \u2192 brainly.co.id/tugas/14626027</li><li>Tentukanlah nilai a pada setiap gambar berpenyiku dan berpelurus \u2192 brainly.co.id/tugas/9983992</li><li>Menentukan besar sudut sehadap dan bertolak belakang \u2192 brainly.co.id/tugas/14732988</li><li>Besar pelurus sudut AOC \u2192 brainly.co.id/tugas/6300257</li></ol><h3>Detil Jawaban</h3><ul><li>Kelas \u00a0 \u00a0 \u00a0 \u00a0: 7 SMP</li><li>Mapel \u00a0 \u00a0 \u00a0 : Matematika</li><li>Materi \u00a0 \u00a0 \u00a0 : Bab 3 - Garis dan Sudut</li><li>Kode \u00a0 \u00a0 \u00a0 \u00a0 : 7.2.3</li></ul><p></p><p>Semoga Bermanfaat</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-3-bilangan-genap-berurutan-sama-dengan-90jumlah-bilangan-460",
+            "question": "jumlah 3 bilangan genap berurutan sama dengan 90.jumlah bilangan terbesar dan terkecil adalah........... \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : VIII<br>Pelajaran : Matematika<br>Kategori : Opti<br>Kata kunci : bilangan genap = 2n<br><br>Jawaban ada di lampiran, semoga membantu!!!",
+                    "attachments": [
+                        "answer-attachments/jumlah-3-bilangan-genap-berurutan-sama-dengan-90jumlah-bilangan-460-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oa-10-cm-dan-jarak-ob-26-cm-luas-segitiga-oab-ada-913",
+            "question": "Diketahui OA = 10 CM dan jarak OB = 26 cm . luas segitiga OAB adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "phytagoras dari 10 dan 26 \nL= 24x10/2\nL= 120 cm kuadrat",
+                    "attachments": []
+                },
+                {
+                    "answer": "OA = 10cm<br>OB = 26cm =&gt; karena paling panjang,\u00a0brati sisi miring<br>AB = 24cm &lt;dari trypel phytagoras(5,12,13)&gt;<br>[tex]L= \\frac{A. t}{2} [/tex] \u00a0 \u00a0 \u00a0 \u00a0A = 10 \u00a0t = 24<br>jadi...coba dihitung ya :)<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-nasabah-menabung-uang-di-bank-sebesar-rp1200000-setela-614",
+            "question": "seorang nasabah menabung uang di bank sebesar Rp.1.200.000 setelah 10 bulan tabungan nasabah tersebut menjadi Rp.1.380.000 berapa prosentase bunga per tahun bank tersebut?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bunga perbulan dalam 10 bulan = (1.380.000-1.200.000)/10<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 18000<br>bunga dalam setahun = 18000.12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 216.000<br>persentase= 216.000/1.200.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  = 18 %<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-hari-raya-supermarket-menjual-pakaian-dengan-diskon-besar-556",
+            "question": "Pada hari raya , supermarket menjual pakaian dengan diskon besar besaran. Ibu membeli kemeja adik dengan harga Rp 150.000 setelah di diskon 30% (+15%), artinya akan terjadi diskon lagi sebesar 15% dari total harga setelah didiskon 30%. Berapakah harga kemeja tersebut jika tidak didiskon???    jawab secepatnya ya! pake cara!!\r\n\r\n\r\n#thanks",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "30/100 dikali 150.000 = 45.000<br>150.000 - 45.000 = 105.000<br>15/100 dikali 105.000 = 15.750<br>105.000 - 15.750 = 89.250 Hasilnya...<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pake konsep bunga majemuk\n1. cari 115/100*150.000 dulu=172.500\n2. caru 130/100*172.500=224.250\n\njadi hqrga sebelum diskon 224.250,-\n\ncat: jangan menjumlahkan kedua diskon(30+15) karena hasilnya salah",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tersedia-kawat-dengan-panjang-35-m-jika-kawat-itu-akan-dibuat-k-585",
+            "question": "tersedia kawat dengan panjang 3,5 m. jika kawat itu akan dibuat kerangka kubus dengan panjang rusuk 27,5 cm maka panjang kawat yang tidak terpakai adalah ? \u00a0 \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "semua rusuk = 12<br>27,5 * 12 = 330 cm = 3,3 meter<br>jadi yang ga terpakai : 3,5 - 3,3 = <strong><u>0,2 m = 20 cm</u></strong>",
+                    "attachments": []
+                },
+                {
+                    "answer": "3,5m=350 cm<br>kubus memiliki 12 rusuk<br>yg dibutuhkan=12*27,5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=330cm<br>yg tdk terpakai=350-330=20cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-jari-jari-lingkaran-p-6-cm-jari-jari-lingkaran-keci-125",
+            "question": "diketahui jari-jari lingkaran P = 6 cm , jari-jari lingkaran kecil Q = 3 cm , dan panjang garis singgung persekutuan dalam kedua lingkaran 12 cm . jarak titik pusat lingkaran P dan Q adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>s2=(r1+r2)2+gd2</span>\n\n<span>s2=(6+3)2+122</span>\n\n<span>s2=92+122</span>\n\n<span>s2=81+144</span>\n\n<span>s2=225</span>\n\ns=15 cm.\n\n<span>Jadi jarak pusat kedua lingkaran adalah 15 cm. (angka 2\nartinya kuadrat yah.. J)</span>\n\n<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ditentukan-barisan-geometri-128-64-32-16-a-carilah-ras-285",
+            "question": "Ditentukan barisan geometri 128, -64, 32, -16, ...    a. Carilah rasio dan rumus ke-n\r\nb. Suku keberapakah yang nilai nya samaa dengan -1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Ditentukan barisan geometri 128, -64, 32, -16, ...<br>a. Carilah rasio dan rumus ke-n<br><span>b. Suku keberapakah yang nilai nya samaa dengan -1?<br>r = u2/u1<br>r = -64/128<br>r = -1/2<br>Un = a x r^n-1\u00a0<br>Un = 128 x (-1/2)^n-1<br></span><span>Un = 128 x (-1/2)^n : (-1/2)<br>Un = -\u00a0256 x (-1/2)^n<br>-1 =\u00a0</span>\n-\u00a0256 x (-1/2)^n<br>(-1/2)^n = -1/-256<br>(-1/2)^n = 1/256<br>n = 8<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "715-sudut-putaran-penuh-derajat-952",
+            "question": "7/15 sudut putaran penuh = .... Derajat",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "7/15 x 360 = 168 derajat...",
+                    "attachments": []
+                },
+                {
+                    "answer": "168 derajat<br><br><br>semoga membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumina-menabung-di-bank-sebesar-rp100000-dengan-bunga-18-tiap-980",
+            "question": "Jumina menabung di bank sebesar Rp.100.000 dengan bunga 18% tiap tahun. Jika tabungan Jumina sekarang berjumlah Rp.109.000 maka ia telah menabung selama ... bulan    *pake caranya!!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "100.000*18%=18000<br>dibagi 12 bulan,jadi 18000/12 = 1500<br>9.000/1500=6 bulan<br>terdapat 9.000 dari 109.000 - 100.000<br>Jadi,jawaban nya Jumina telah menabung selama 6 bulan,<br>SEMOGA BERMANFAAT<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "bunga=<u>bulan</u> \u00d7t%\u00d7modal<u><br></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  tahun<u><br></u>9000=<u>bulan</u>\u00d7<u>18</u>\u00d7100000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 12\u00a0 \u00a0 100<br>9000=1500<br>bulan?=9000\u00f71500=6 bulan",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

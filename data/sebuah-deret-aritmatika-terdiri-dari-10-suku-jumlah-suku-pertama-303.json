@@ -1,0 +1,148 @@
+{
+    "question": "Sebuah deret aritmatika terdiri dari 10 suku, jumlah suku pertama dan ke dua adalah 9. Adapun jumlah suku ke 5 dan 6 adalah 33. jumlah deret tersebut adalah ...    A. 30\u00a0 \u00a0 \u00a0 C. 156\r\nB. 67\u00a0 \u00a0 \u00a0 D. 165\r\nJAWAB YG BENAR YAH .. MINTOL :D DENGAN CARANYA ?",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "U1 + U2 = 9<br>a + a + b = 9<br>2a + b = 9............1<br><br>U5 + U6 = 33<br>a + 4b + a + 5b = 33<br>2a + 9b = 33..........2<br><br>dari eliminasi persamaan 1 dan 2 didapat a =3,\u00a0 b = 3<br>Sn = [tex] \\frac{n}{2} [/tex] (2a + (n-1)b)<br>S10 = [tex] \\frac{10}{2} [/tex] (2.3 + (10-1)3)<br>=&gt; 5(6 + 27)<br>=&gt; 5(33) =\u00a0 165 (D)....semoga membantu..ok?<br><br>",
+            "attachments": []
+        },
+        {
+            "answer": "a+a+b=9\n2a+b=9...persamaan 1\na+4b+a+5b=33\n2a+9b=33...persamaan \n2\neliminasi pers 1 dan 2\ndapat a=3 dan b=3\njadi 10/2(2*3+(10-1)3)\n5*33=165",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "cara-mencari-panjang-apotema-lingkaran-bagaimana-dan-tentang-car-580",
+            "question": "cara mencari panjang apotema lingkaran bagaimana? dan tentang cara mencari luas juring dan tembereng ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "apotema bisa pake konsep luas segitiga dan dalil phytagoras<br>Cara mencari Tembereng :<br><span>Luas tembereng = Luas Juring \u2013 Luas Segitiga\u00a0</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Panjang tali busur bisa dicari dengan rumus : <br><br>\n                          Panjang tali busur = besar sudut yg diapit dua jari2: 360 derajat *2*pi*r <br><br>\n Apotema : dicari dengan dalil pythagoras. <br><br>\nTembereng :  Luas juring - Luas segitiga ( keduanya dalam satu bidang datar yg dibentuk oleh dua jari2 suatu lingkaran.)  <br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dik-panjangbusur-40cm-besar-sudut-aob50-derajat-dan-sudut-cod-769",
+            "question": "Dik: panjangbusur 40cm, besar sudut AOB50 derajat, dan sudut COD 80 derajat\u00a0    dit: hitunglah panjang busur cd",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AB = 40cm<br>AOB =\u00a050 derajat<br>COD =\u00a080 derajat\u00a0<br>CD = ..... cm<br><u>AB</u>\u00a0= <u>AOB</u>\u00a0<br>CD \u00a0 \u00a0COD<br><u>40</u> = <u>50</u>\u00a0<br>CD \u00a0 80<br>CD = <u>320</u><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 5<br>CD = 64 cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<u>80 </u>x 40 = 64<u><br></u>50<br><br>jadi panjang busur cd adalah 64 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-lingkaran-176-cm2-sudut-bac-45-derajat-berapa-luas-da-106",
+            "question": "Keliling lingkaran 176 cm^2. sudut BAC 45 derajat. berapa luas daerah yg diarsir? bantuin y :)",
+            "attachments": [
+                "question-attachments/keliling-lingkaran-176-cm2-sudut-bac-45-derajat-berapa-luas-da-106-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Informasi tentang soal nya sedikit jadi saya belum tau tapi\u00a0<br>180&#039;-45&#039;=135&#039;<br>4:3 = 176 : (176:4) kali 3<br>45&#039; = 44 cm2\u00a0<br>yang diarsir 135&#039; = 44 kali 3 =132 cm2<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-lingkaran-luasnya-1256-cm2-jika-jari-jari-lingkaran-itu-d-133",
+            "question": "suatu lingkaran luasnya 1.256 cm2. jika jari jari lingkaran itu dikurangi 6 maka luas lingkaran sekarang adalah.....cm2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "munkin klo di itung itung jasil nya 622 soalnta1256:2=628-6=622",
+                    "attachments": []
+                },
+                {
+                    "answer": "1256 : 3.14 = 400<span></span> .<br>Akar dari 400 = 20cm .<br>20-6 = 14 cm<br>22per7 dikali 14 dikali 14 = 616 cm persegi.<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "deret-geometri-s101023-r2-u1-161",
+            "question": "Deret geometri. S10=1023 r=2. U1?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1023 = a(2^10-1)/1<br>1023 =a (1023)<br>a=1<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-sebuah-lingkaran-25434-cm2-dan-p-314-tentukan-a-diam-893",
+            "question": "Luas sebuah lingkaran 254,34 cm2 dan \u03c0 = 3,14. tentukan:\r\n a. diameternya\r\n b. kelilingnya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. L = \u03c0.r\u00b2<br>\u00a0\u00a0  254,34 = 3,14.r\u00b2<br>\u00a0\u00a0 \u00a0  r\u00b2\u00a0\u00a0 = 254,34/3,14<br>\u00a0\u00a0 \u00a0 r\u00b2\u00a0\u00a0  =\u00a0 81<br>\u00a0\u00a0 \u00a0 r\u00b2\u00a0  = \u221a81<br>\u00a0\u00a0 \u00a0 r\u00b2\u00a0 = 9 cm<br>jadi d = 2.9<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 = 18 cm<br>b. k = \u03c0d<br>\u00a0\u00a0 \u00a0 \u00a0 = 3,14 . 18<br>\u00a0\u00a0 \u00a0 \u00a0  = 56,52 cm<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a. diameter 18<br>b. keliling 56,52",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-roda-yg-berputar-sebanyak-25-kali-dapat-menempuh-jarak-22-131",
+            "question": "sebuah roda yg berputar sebanyak 25 kali dapat menempuh jarak 22 m. jika \u03c0= 22/7, maka luas permukaan roda itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2200cm/25 (mau nyari 1puteran[1keliling])<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 88<br>keliling= d x\u00a0\u03c0<br>88 = d x 22/7<br>28 = d<br>jadi r nya itu 14<br>--<br>L =\u00a0\u03c0 x r\u00b2<br>L = 22/7 x 14 x 14<br>L = 616 cm\u00b2<br>aku harap ini membantu^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ida-menabung-uang-di-bank-sebesar-rp200000000-dengan-suku-bung-758",
+            "question": "Ida menabung uang di bank sebesar Rp2.000.000,00 dengan suku bunga tunggal sebesar 15% per tahun. Tentukan besar bunga yang diperoleh Ida pada:    a. akhir tahun pertama\r\n b. akhir tahun kedua\r\n c. akhir tahun ketiga\r\n d. akhir tahun keempat\r\n\r\n Mohon bantuan dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "15% \u00d7 Rp 2.000.000,- = Rp 300.000<br>a. akhir tahun 1 = Rp 300.000<br>b. akhir tahun 2 = Rp 600.000<br>c. akhir tahun 3 = Rp 900.000<br>d. akhir tahun 4 = Rp 1.200.000<br>semoga membantu:)<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.15% x 2.000.000.00=<u> 300.000,00</u> pada akhir tahun pertama.<br>b.30% x 2.000.000.00=<u> 600.000,00</u> pada akhir tahun kedua<br>c.45% x 2.000.000,00=<u> 900.000,00</u> pada akhir tahun ketiga<br>d.60% x 2.000.000,00=<u> 1.200.000,00</u> pada akhir tahun keempat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tinggi-tumpukan-dua-buah-kursi-92-cm-dan-tinggi-tumpukan-empat-160",
+            "question": "tinggi tumpukan dua buah kursi 92 cm , dan tinggi tumpukan empat buah kursi 108 cm . jika ada 15 kursi sejenis ditumpuk , maka tingginya adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Tinggi tumpukan dua buah kursi</strong> 92 cm, tinggi tumpukan empat buah kursi 108 cm, jika ada 15 kursi sejenis ditumpuk, maka tingginya adalah 196 cm. Soal ini merupakan penerapan materi barisan dan deret aritmatika. <strong>Barisan aritmatika</strong> adalah barisan yang antar dua suku berdekatannya memiliki selisih yang tetap. Untuk menentukan <strong>suku ke n pada barisan aritmatika</strong> adalah\n</p><p>Un = a + (n \u2013 1)b\n</p><p><strong>Rumus jumlah n suku pertama\n</strong></p><p>Sn = n/2 (2a + (n \u2013 1)b)\n</p><p>Sn = n/2 (a + Un)\n</p><p><u>Keterangan</u>\n</p><p>a = suku pertama\n</p><p>b = beda \u21d2 b = U\u2082 \u2013 U\u2081 = U\u2083 \u2013 U\u2082 = ....\n</p><br><h3>Pembahasan\n</h3><br><p><strong>Diketahui\n</strong></p><p>Tinggi tumpukan dua buah kursi 92 cm \u21d2 U\u2082 = 92\n</p><p>Tinggi tumpukan empat buah kursi 108 cm \u21d2 U\u2084 = 108\n</p><br><p><strong>Ditanyakan\n</strong></p><p>tinggi tumpukan 15 kursi (U\u2081\u2085)\n</p><br><p><strong>Jawab\n</strong></p><p>U\u2084 = 108 \u21d2 a + 3b = 108\n</p><p>U\u2082 = 92 \u21d2 \u00a0 <u>a + b = 92 \u00a0 \u00a0 \u00a0</u>\u2013\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2b = 16\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 <strong>b = 8\n</strong></p><p><strong>Substitusikan b = 8 ke U\u2082 = 92</strong>\n</p><p>a + b = 92\n</p><p>a + 8 = 92\n</p><p>a = 92 \u2013 8\n</p><p><strong>a = 84\n</strong></p><br><p><u>tinggi tumpukan 15 kursi\n</u></p><p>U\u2081\u2085 = a + 14b\n</p><p>U\u2081\u2085 = 84 + 14(8)\n</p><p>U\u2081\u2085 = 84 + 112\n</p><p><strong>U\u2081\u2085 = = 196\n</strong></p><p>Jadi <strong>tinggi tumpukan 15 kursi adalah 196 cm\n</strong></p><br><h3>Pelajari lebih lanjut \u00a0\n</h3><br><p>Contoh soal lain tentang barisan aritmatika\n</p><p>https://brainly.co.id/tugas/1779659\n</p><br><p>------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0 \u00a0\n</h3><br><p><strong>Kelas</strong> : 9\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Barisan dan Deret Bilangan\n</p><p><strong>Kode</strong> : 9.2.2\n</p><br><p><strong>Kata Kunci</strong> : tinggi tumpukan kursi\n</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-sekelompok-siswa-35-siswa-gemar-bermain-basket-23-siswa-ge-817",
+            "question": "dari sekelompok siswa, 35 siswa gemar bermain basket, 23 siswa gemar bermain voli, 9 siswa gemar bermain kedua cabang olah raga tersebut dan7 siswa tidak menyukai keduanya . berapa jumlah siswa dalam kelompok tersebut ? tentukan dalam himpunan matematika beserta diagram venn nya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>himpunan</strong> adalah kumpulan benda atau obyek yang memiliki definisi yang jelas atau dengan kata lain memiliki batasan-batasan yang jelas atau kumpulan benda ataupun obyek yang anggota\"nya dapat didefinisikan secara jelas , sehingga antara satu orang dengan yang lain tdk akan terjadi multi tafsir.</p><p><strong>Irisan Himpunan</strong></p><p>Irisan himpunan adalah anggota himpunan yang menjadi anggota himpunan satu sekaligus menjadi anggota himpunan yang lain </p><p>Irisan Himpunan dilambangkan dengan \u2229</p><p><strong>Gabungan Himpunan</strong></p><p>Gabungan himpunan adalah semua anggota atau obyek yang menjadi anggota satu dan anggota himpunan yang lain disebutkan jadi 1</p><p>Gabungan Himpunan dilambangkan dengan \u222a</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><h3>Pembahasan</h3><p>diketahui:</p><p>35 siswa gemar bermain basket ................................. n(A)</p><p>23 siswa gemar bermain voli ....................................... n(B)</p><p>9 siswa gemar bermain kedua cabang olah raga \u00a0. n(A\u2229B) </p><p>7 siswa tidak menyukai keduanya .............................. n(A\u222aB)&#039;</p><p>ditanya, berapa jumlah siswa dalam kelompok tersebut ? n(S)</p><p>jawab:</p><p>gunakan rumus</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><p> \u00a0 \u00a0 \u00a0 = 35 + 23 - 9 + 7</p><p> \u00a0 \u00a0 \u00a0 = 56 siswa</p><h3>Pelajari Lebih lanjut</h3><p>tentang himpunan dapat juga disimak di</p><p>brainly.co.id/tugas/4938280</p><p>brainly.co.id/tugas/1477355</p><p>brainly.co.id/tugas/697707</p><p>perbedaan himpunan dan kumpulan dapat disimak di</p><p>brainly.co.id/tugas/11791002</p><p>brainly.co.id/tugas/693631</p><p>brainly.co.id/tugas/3635184</p><p>brainly.co.id/tugas/101649</p><h3>==============================================</h3><h3>Detail Jawaban</h3><p><strong>kelas</strong> : 7</p><p><strong>mapel</strong> : matematika</p><p><strong>kategori</strong> : himpunan</p><p><strong>kata kunci </strong>; irisan dan gabungan</p><p><strong>kode</strong> : 7.2.1</p><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

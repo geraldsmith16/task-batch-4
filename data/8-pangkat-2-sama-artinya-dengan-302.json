@@ -1,0 +1,140 @@
+{
+    "question": "8 pangkat -2 sama artinya dengan",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "sama artinya dengan 8^-2 =\u00a0[tex] \\frac{1}{8^2} =  \\frac{1}{64}  [/tex]",
+            "attachments": []
+        },
+        {
+            "answer": "Kalau tidak salah sama dengan pangkat 8 : pangkat 2<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-barisan-geometri-141664-tentukan-a-rasio-b-rumus-s-309",
+            "question": "Dari barisan geometri 1,4,16,64...    tentukan :\r\na. rasio\r\nb. rumus suku ke-n\r\nc. besar suku ke 10",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a. rasio\u00a0<br>U2 / U1 = 4/1 =\u00a04<br><br>b.\u00a0[tex]U_n=a.r^{n-1}\\\\\nU_n=1.4^{n-1}\\\\\nU_n=4^{n-1}\\\\[/tex]<br><br>c.\u00a0[tex]U_n=4^{n-1}\\\\\\\\\nU_{10}=4^{10-1}\\\\\\\\\nU_{10}=4^{9}\\\\\\\\\nU_{10}=262144\\\\\\\\[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suku-ke-25-barisan-bilangan-14-25-36-47-adalah-299",
+            "question": "suku ke-25 barisan bilangan 1/4 , 2/5 , 3/6 , 4/7 . . . Adalah . . . . . . . Pake cara ? Yang jwab Thanks yah !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/4 , 2/5 , 3/6 , 4/7 , ...<br>U25 ?<br><br>U1=a=1/4<br>U2=a+b=2/5<br><br>cari b<br>b = U2 - U1<br>b = 2/5 - 1/4<br>b = 3/20<br><br>1/4 + 3/20 = 5+3/20 = 8/20 = 2/5<br>nah, jadi ini termasuk deret aritmetika, karna deret aritmetika, maka memakai rumus<br>Un = a + (n-1)b<br>U25 = a + (25-1)b<br>U25 = a + 24b<br>U25 = 1/4 + 24(3/20)<br>U25 = 1/4 + 72/20<br>U25 = 5+72/20<br>U25 = 77/20<br><br><span>CMIIW ^_^<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-ya-ini-penting-penarikan-kesimpulan-1-jika-rudi-tidak-mel-701",
+            "question": "Tolong ya ini penting    Penarikan Kesimpulan\r\n1. Jika Rudi tidak melanjutkan kuliah atau bekerja\r\n\u00a0 \u00a0 maka ibu menjodohkan Rudi.\r\n\u00a0 \u00a0 Ibu tidak menjodohkan Rudi.\r\n\u00a0 \u00a0Kesimpulannya adalah ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n2. Diketahui premis-premis sebagai berikut.\r\n\u00a0 \u00a0 P1 : Jika ombak\u00a0besar maka nelayan tidak menangkap ikan.\r\n\u00a0 \u00a0 P2 : Jika nelayan tidak menangkap ikan maka tidak ada orang yang berjualan ikan di pasar\r\n\u00a0 \u00a0Kesimpulan kedua premis diatas adalah ....\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n3. Diketahui premis-premis:\r\n\u00a0 \u00a0 ~m v b\r\n\u00a0 \u00a0 ~c v ~a \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Isian yang tepat adalah ....\r\n\u00a0 \u00a0\u00a0~a\u00a0\u21d2 m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 a. m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 d. ~c\r\n\u00a0 \u00a0~b \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b. ~m \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 e. c\r\n\u00a0 \u00a0 ............\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 c. ~b\r\n\u00a0 \u00a0Jawabannya:\r\n\r\n4. Premis 1 : Jika Ijad tidak masuk sekolah maka Ijad di rumah sakit.\r\n\u00a0 \u00a0 Premis 2 : Jika Ijad di rumah sakit maka Ijad sakit demam berdarah.\r\n\u00a0 \u00a0 \u00a0Silogisme di atas mempunyai kesimpulan ....\r\n\u00a0 \u00a0 Jawabannya:\r\n\r\n5. Diketahui:\r\n\u00a0 \u00a0P1 : Jika servis hotel baik maka hotel itu banyak tamu.\r\n\u00a0 \u00a0P2 : Jika hotel itu banyak tamu, maka hotel itu mendapat untung.\r\n\u00a0 \u00a0P3 : Hotel tidak mendapat untung.\r\n\u00a0 Kesimpulan dari Argumen di atas adalah ....\r\n\u00a0 \u00a0Jawabannya:",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "jawab\u00a0<br><br>1 . Rudi melanjutkan kuliah karna rudi tidak dijodohkan ibunya\u00a0<br>2, jika ombak besar maka nelayan tidak bisa menangkap ikan maka pasar pun akan sepi karna tidak ada nelayan yang berjualan\u00a0<br>3. a<br>4 ijad tidak masuk sekolah dan dirawat dirumah sakit karana terkena demam berdarah\u00a0<br>5 hotel tersebut servisnya tidak baik karna hotel itu sepi\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.rudi melanjutkan kuliah<br>2.jika ombak besar maka tidak ada orang yang berjualan ikan di pasar<br>3.d.<span>~c<br>4.jika ijad tidak masuk sekolah maka ijad sakit demam berdarah<br>5.servis hotel itu baik<br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-lingkaran-yang-berpusat-di-titik-1-3-dan-berdiamete-694",
+            "question": "Persamaan lingkaran yang berpusat di titik (-1, 3) dan berdiameter akar 40 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pusat (-1,3)<br>d = V40<br>r = (V40)/2<br>\u00a0 = (2V10)/2<br>\u00a0 = V10<br><br>(x+1)^2 + (y-3)^2 = (V10)^2<br>x^2 + 2x + 1 + y^2 - 6y + 9 = 10<br>x^2 + y^2 + 2x - 6y + 10 - 10 = 0<br>x^2 + y^2 + 2x - 6y = 0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866",
+            "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "hitung-jumlah-deret-aritmatika-2712302-189",
+            "question": "Hitung jumlah deret aritmatika 2+7+12+...+302",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2+7+12+...+302<br>a= 2<br>b= 7-2 = 5<br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br>Sn = \u00bd n (2a + (n-1)b<br>S61 = \u00bd 61 (2.2 + 60.5)<br>= \u00bd 61 (4+300)<br>=152 x 61<br><span>=9272</span>",
+                    "attachments": []
+                },
+                {
+                    "answer": "a= 2 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0b= 7-2 = 5<br><br>Un = a + (n-1)b<br>302 = 2 + (n-1) 5<br>302 = 2 + 5n-5<br>302 = 5n-3<br>302+3 = 5n<br>305/5 = n<br>61 = n<br><br>Sn = [tex] \\frac{n}{2} [/tex]\u00a0(2a + (n-1)b<br><br>S61 = [tex] \\frac{61}{2} [/tex]\u00a0(2.2 + (60.5))<br><br>= 30,5 (4+300)<br><span><br>=9\u00a0272</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "menjawab-limit-fungsi-menggunakan-tabel-dan-grafik-198",
+            "question": "Menjawab limit fungsi menggunakan tabel dan grafik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "menjawab limit berarti menjawab pertanyaan dengan waku yang telah ditentukan",
+                    "attachments": []
+                },
+                {
+                    "answer": "grafik tu apa.............................",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "3-bilangan-positif-membentuk-barisan-geometri-dengan-rasio-r-gt-798",
+            "question": "3 Bilangan positif membentuk barisan geometri dengan rasio r &gt; 1. Jika suku tengah ditambah 4, maka terbentuk sebuah barisan aritmetika yang jumlahnya 30. tentukan Hasil kali dri ketiga blngan trsebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misalnya bilangan yang dimaksud adalah : p/r , p dan pr <br>suku tengah ditambah 4 ----&gt; p/r , p+4 , pr ..... barisan arimetika dg jumlah 30<br>p+4 - (p/r) = pr - (p+4) <br>2p + 8 = pr + p/r ....... pers(1) <br>p/r + p+4 + pr = 30 <br>p+4 + p/r + pr = 30 .....pers(2) <br>subitusi pers(1) ke pers(2) <br>p+4 + 2p + 8 = 30 <br>3p + 12 = 30 <br>3p = 18<br>p = 6 <br>hasil kali tiga bilangan tersebut = p/r x p x pr = p\u00b3 = 6\u00b3 = 216 <br>oke kalo puas kasih terbaik ya, tks<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "nilai-dari-sinus-105-sinus-15-adalah-743",
+            "question": "Nilai dari sinus 105 - sinus 15 adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>sin 105 - sin 15 =\u00a0</span>[tex] \\frac{1 +  \\sqrt{3} }{2 \\sqrt{2} } -  \\frac{ \\sqrt{3}-1 }{2 \\sqrt{2} } =  \\frac{1}{2}  \\sqrt{2} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-deret-geometri-dengan-u1-2-dan-s10-33s5-nilai-u6-304",
+            "question": "Diketahui deret geometri dengan U1 = 2 dan S10 = 33S5. Nilai U6 = . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U1 = 2 berarti U=ar^n-1 = 2<br><br>S10 = 33 S5 berarti a\u00a0[tex] \\frac{1-r^n}{1-r} [/tex]<br><br>\u00a0 \u00a0 \u00a0 \u00a0= 2[tex] \\frac{(r^10) - 1}{r-1} [/tex] = 33. 2[tex] \\frac{(r^5)-1}{r-1} } [/tex]<br><br>S5 \u00a0 \u00a0= (r^5)\u00a0-1 = 33<br><br>r^5 = 34<br><br>r =\u00a0[tex] \\sqrt[5]{34} [/tex]<br>\u00a0 \u00a0<br><br><br>U6 = U5 + U1<br>\u00a0 \u00a0 \u00a0= ar^4 + a<br>\u00a0 \u00a0\u00a0",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "jumlah kuaci santi berbanding kuaci rani adalh 8:6 dan banyak kuaci rani sama dengan 4/5 kuaci leni.kuaci rani lebih banyak 18 buah dari kuaci leni.berapa jumlah kuaci santi,rani dan leni seluruhnya?tolong dijawab pake caranya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "santi = a<br>rani = b\u00a0<br>leni = c<br><br>a:b = 8:6<br>b = 4/5 c<br>b+18 = c<br><br>karena b = 4/5c,c = 5/4b<br>b+18 = 5/4b<br>1/4b = 18<br>b=72<br><br>72 = 4/5 c<br>c = 5/4 x 72 = 90<br><br>a : b = 8 : 6<br>a : 72 = 8 : 6<br>a = 8/6 x 92 = 96\u00a0<br><br>santi + rani + leni = 96 + 72 + 90 = 258<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-trapesium-abcd-siku-siku-di-b-dengan-panjang-ab-21-cm-383",
+            "question": "Diketahui trapesium ABCD siku-siku di B dengan panjang AB = 21 cm , CD = 6 cm dan luasnya 108 cm keliling tapaesium adalah.....    pliss di jwb buat pr bsokni dan pakai cara ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L = (AB+CD) \u00d7 t per 2<br>108 = (21+6) \u00d7 t per 2<br>108 = 27\u00d7t/2<br>108 = 13,5t<br>t = 8<br><br>cari sisi miringnya<br>a\u00b2 + b\u00b2 = c\u00b2<br>15\u00b2 + 8\u00b2 = c\u00b2<br>225 + 64 = c\u00b2<br>289 = c\u00b2<br>c = \u221a289 = 13<br><br>Jadi kelilingnya adalah<br><em><strong>13 + 8 + 21 + 6 = 48</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-lingkaran-616-cm2-dan-sebuah-juring-pada-lingkaran-tsb-184",
+            "question": "Luas suatu lingkaran 616 cm2 dan sebuah juring pada lingkaran tsb luasnya 77 cm2. maka besar sudut pusatnya adalah    a. 45\u00b0\r\n b. 60\u00b0 \r\n c. 72\u00b0\r\n d. 90\u00b0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>a. 45\u00b0</span> <br>karena <u>45</u>/360 X 616 = 1/8 X 616 = 77 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "kpk-dari-725-dan-875-adalah-598",
+            "question": "\u00a0\u00a0KPK dari 725 dan 875 adalah ........",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "725 = 5 x 5 x 29 = 52<span>\u00a0x 29</span><br>875= 5 x 5 x 5 x 7 = 53<span>\u00a0x 7</span><br>Jadi KPK = 53<span>\u00a0x 7 x 29 = 25.375</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-tara5-kg-persentase-tara212-ditanya-berapa-kg-bru-551",
+            "question": "Diketahui:\r\nTara:5 kg\r\nPersentase tara:2,12%\r\n\r\nDitanya:\r\nBerapa kg bruto dan netto?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "bruto =\n5 kg : 2,12%  = 5 : 2,12/100 \n= 5 x 100/2,12 = 500/2,12 = 235,8\njadi, brutonya adalah 235,8\nnetto = bruto - tara.\nnetto = 235,8 - 5 = 230,8\njadi, nettonya adalah 230,8",
+                    "attachments": []
+                },
+                {
+                    "answer": "Tara = Persentase tara \u00d7 bruto<br>5 = <u>2,12</u>\u00d7 bruto<br>\u00a0\u00a0 \u00a0 \u00a0 100<br>500 = 2,12 \u00d7 bruto<br>bruto =\u00a0 <u>500</u><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 2,12<br>bruto = 235,85 kg<br><br>netto = 235,85 - 5kg<br>netto = 230,85 kg<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dibantu-ya-2-jika-x-adalah-bilangan-asli-tentukanlah-himpunan-361",
+            "question": "Dibantu ya\u00a0    2. Jika x adalah bilangan asli, tentukanlah himpunan penyelesaian dari persamaan linear berikut.\u00a0:\r\na) 6x + 5 = 26 \u2013 x\u00a0\r\nb) 2 \u2013 4x = 3\u00a0\r\nc) x \u2013 12 = 2x + 36\r\n\u00a0d) -5x \u2013 4x + 10 = 1\u00a0\r\ne) 2 +\u00a04x = 5",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Sistem persamaan linear</strong> satu variabel adalah persamaan yang hanya memiliki satu variabel yang berpangkat satu. Bentuk umumnya ax + b = c dengan a, b, c adalah bilangan bulat, a \u2260 0 dan x adalah variabel.\n</p><br><h3>Pembahasan\n</h3><br><p><strong>a) 6x + 5 = 26 \u2013 x </strong>-----&gt; kedua ruas ditambah x\n</p><p>6x + 5 + x = 26 \u2013 x + x \u00a0</p><p>7x + 5 = 26 -------------&gt; kedua ruas dikurang 5\n</p><p>7x + 5 \u2013 5 = 26 \u2013 5\n</p><p>7x = 21 ------------------&gt; kedua ruas dibagi 7\n</p><p>7x : 7 = 21 : 7\n</p><p>x = 3\n</p><p>HP = {3}\n</p><br><p><strong>b) 2 \u2013 4x = 3</strong> ------------&gt; kedua ruas dikurang 2\n</p><p>2 \u2013 4x \u2013 2 = 3 \u2013 2\n</p><p>\u20134x = 1 -------------------&gt; kedua ruas bagi (\u20134)\n</p><p>\u20134x : \u20134 = 1 : \u20134 \u00a0</p><p>x = \u2013\u00bc \u00a0</p><p>HP = {\u2013\u00bc}\n</p><br><p><strong>c) x \u2013 12 = 2x + 36</strong> -----&gt; kedua ruas dikurang 2x\n</p><p>x \u2013 12 \u2013 2x = 2x + 36 \u2013 2x\n</p><p>\u2013x \u2013 12 = 36 -------------&gt; kedua ruas ditambah 12\n</p><p>\u2013x \u2013 12 + 12 = 36 + 12\n</p><p>\u2013x = 48 --------------------&gt; kedua ruas kali (\u20131)\n</p><p>\u2013x . (\u20131) = 48 . (\u20131)\n</p><p>x = \u201348 \u00a0</p><p>HP = {\u201348}\n</p><br><p><strong>d) \u20135x \u2013 4x + 10 = 1 </strong> \u00a0</p><p>\u20139x + 10 = 1 --------------&gt; kedua ruas dikurang 10\n</p><p>\u20139x + 10 \u2013 10 = 1 \u2013 10\n</p><p>\u20139x = \u20139 --------------------&gt; kedua ruas dibagi (\u20139)\n</p><p>\u20139x : (\u20139) = \u20139 : (\u20139)\n</p><p>x = 1\n</p><p>HP = {1}\n</p><br><p><strong>e) 2 + 4x = 5</strong> ---------------&gt; kedua ruas dikurang 2\n</p><p>2 + 4x \u2013 2 = 5 \u2013 2\n</p><p>4x = 3 ------------------------&gt; kedua ruas bagi 4\n</p><p>4x : 4 = 3 : 4\n</p><p>x = \u00be \u00a0</p><p>HP = {\u00be}\n</p><br><h3>Pelajari lebih lanjut \u00a0 \u00a0</h3><br><p>Contoh soal tentang sistem persamaan linear dua variabel\n</p><p>https://brainly.co.id/tugas/1184793\n</p><br><p>--------------------------------------------------\n</p><br><h3>Detil Jawaban \u00a0\n</h3><br><p><strong>Kelas</strong> : 7\n</p><p><strong>Mapel</strong> : Matematika \u00a0</p><p><strong>Kategori </strong>: Persamaan dan pertidaksamaan satu Variabel\n</p><p><strong>Kode</strong> : 7.2.6\n</p><br><p><strong>Kata Kunci </strong>: Sistem Persamaan Linear</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-jari-jari-lingkaranjika-diketahui-luas-lingkaran-sama-d-202",
+            "question": "Tentukan jari jari lingkaran,jika diketahui luas lingkaran sama dengan 113,04 cm2!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "luas linkaran=pi  r^{2}<br>113,04=3,14\u00a0. r^{2}<br>113,04/3,14= r^{2)<br>36= r^{2}<br>[tex] \\sqrt{36} [/tex]=r<br>6=r",
+                    "attachments": []
+                },
+                {
+                    "answer": "L=\u00a0\u03c0r\u00b2<br>113,04=3,14\u00d7r\u00b2<br>r\u00b2=113,04\u00f73,14<br>r\u00b2=36<br>r=\u221a36<br>r=6",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-empat-suku-pertama-dari-barisan-aritmatika-jika-jumlah-524",
+            "question": "Tentukan empat suku pertama dari barisan aritmatika, jika jumlah 20 suku pertama dan jumlah\u00a018 suku pertama deret yg sesuai berturut-turut adalah 440 dan 360.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] S_{20} = 440[/tex]<br>[tex] S_{18} = 360[/tex]<br>[tex] S_{20}-S_{18}=2b = 440-360[/tex]<br>[tex] 2b = 120[/tex]\u00a0<br>[tex] b = .....[/tex]<br>[tex] S_{18} = 360 = a + 17b[/tex]<br>[tex] a = ...[/tex]<br>empat suku pertama : a,\u00a0a+b,\u00a0a+2b,\u00a0a+3b",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "skala-sebuah-peta-115000000-jarak-kota-a-dan-b-pada-peta-itu-129",
+            "question": "Skala sebuah peta 1:1.5000.000. Jarak kota A dan B pada peta itu 6 cm .Jarak sebenarnya kota A dan B = ......... km",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "6 x 1.500.000 cm = 90.000.000 km<br>= 900 km<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "maaf yah klw slah <br>1:1.5000.000 .x. 6cm<br>900km<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-trapesium-pqrs-dengan-psqr-dan-sudut-pqr578-ten-221",
+            "question": "Diketahui trapesium PQRS. dengan PS/QR dan sudut P:Q:R=5:7:8. tentukan besar sudut R!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Karena yang hanya dikasih penjelas, yang P,Q, dan R<br>dan diketahui Jumlah seluruh sudut segi Empat adalah 360 derajat<br>Jadi, 360/4=90 derajat<br>(90\u00a0X\u00a03):(5+7+8)= 13,5 derajat<br>Maka, 13,5 x 8= 108 derajat",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-besar-ltaob-144-derajat-dan-panjang-busur-ab-5024cm-hitun-999",
+            "question": "1. besar &lt;AOB 144 derajat dan panjang busur AB= 50,24cm. hitunglah panjang jari-jari lingkaran!    2. besar &lt;POQ = 40 derajat dan luas juring OPQ = 134 cm persegi. hitunglah keliling lingkaran!\r\n3. besar &lt;COD = 45 derajat dan panjang jari-jari OD = 40cm. hitunglah panjang besar busur CD!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. pnjang bursur AB= alpha/360 derajat x 2pi r<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 50,24=144 derajat/360 derajat x 2 x 22/7xr<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 50,24=2/5(sama2 dibgi 72) x 44/7 r<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 50,24=88/35 r<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r=50,24 per 88/35<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0r=50,24x35/88<br>\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=19,9=20 cm<br>2.luas juring=alpha/360 derajat x pi r kuadrat<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0134=40 derajat/360 derajat x 3,14 r kuadrat<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0134=\u00a01/9(sma\"dibgi 40)x 3,14 r kuadrat<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0134=0,35 r kuadrat\u00a0<br>\u00a0\u00a0 \u00a0 r kuadrat=382,8<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0r\u00a0\u00a0= akar 382,8=19,5 cm<br>Jadi,K=2pir<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 =\u00a02x3,14x19,5=122,46 cm<br>3.Panjang busur CD=alpha/360 derajt x2pi\u00a0r<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =45 derajat/360 derajat x 2\u00a0x\u00a03,14 x 40<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/8(sama\"dibgi 45) x 2 x 125,6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =1/4 x 125,6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =31,4 cm<br>smoga j bener,,<br>tpi kok point ny dikit bnget :(",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. p.busur = phi*d*&lt;/360<br>\u00a0\u00a0 \u00a0 50,24 = 3,14*2r*144/360<br>\u00a0\u00a0 \u00a0 18086,4 = 452,16*2r<br>\u00a0\u00a0 \u00a0 2r = 40<br>\u00a0\u00a0 \u00a0  r = 20<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "question": "Berdasarkan diagram rangkaian RLC berikut ini , kuat arus maksimum dari rangkaian adalah ... ()",
+    "attachments": [
+        "question-attachments/berdasarkan-diagram-rangkaian-rlc-berikut-ini-kuat-arus-maksimu-842-1.jpg"
+    ],
+    "answers": [
+        {
+            "answer": "Ada dua cara, yang superkilat adalah\u00a0<br>Nilai impedansi Z, adalah analog dengan sisi miring segitiga siku siku<br>hal ini karena rumus Z<br><br>[tex]Z =  \\sqrt{R^2+(X_l-X_c)^2} [/tex]<br><br>Karena R = 12 Ohm, maka kita bisa mengannggap ini adlaah salah satu jawaban dari phytagoras di mana sama dengan\u00a0<br><br>3,4,5 -&gt; 9,12,15<br><br>Jadi kemungkinan nilai Z adalah 15 atau 13, dan mana yang lebih berhubungan dengan 26<br><br>Dari sini kita coba ambil angka 13 yang jawabannya adalah<br><br>[tex]l_m = \\frac{V_m}{X} = \\frac{26}{13} = 2 ampere [/tex]<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "di-depan-cermin-cekung-yang-titik-fokusnya-10-cm-diletakkan-sebua-739",
+            "question": "di depan cermin cekung yang titik fokusnya 10 cm diletakkan sebuah benda x, agar bayangan benda x berukuran 2 kali lebih besar dari nyata, benda harus diletakkan ..... dari cermin.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik : f = 10 cm\u00a0  ; s&#039; = 2s <br>Dit : s = ...<br>Jawab : <br>1/s = 1/f - 1/s<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-fokus-sebuah-cermin-cekung-8-cm-tentukan-letak-perb-163",
+            "question": "1. \u00a0 \u00a0jarak fokus sebuah cermin cekung 8 cm tentukan letak perbesaran dan jarak \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bayangan jika jarak benda sejauh 2o cm. \u00a0 2. \u00a0 sebuah benda terletak 30 cm di depan cermin dengan jarak fokus 15 cm. tentukan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a. jarak bayangan \u00a0 \u00a0 \u00a0 \u00a0b. perbesaran bayangan \u00a0 \u00a0 \u00a0 \u00a0c. sifat sifat bayangan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk nomor 1 aja ya<br>1/8 = 1/20 + 1/s&#039;<br>1/s&#039; = 1/8 - 1/20<br>1/s&#039; = 5/40 - 2/40<br>s&#039; = 40/3 = <strong><em>13,3 cm</em></strong> <u>(pembuktiannya titik fokus berada di 8cm maka titik M berada di 16 cm sehingga benda berada di ruang 3, untuk cermin cekung titik O-F itu ruang 1, F-M ruang 2, M kebelakang ruang 3, dibelakang cermin ruang 4, rumus untuk letak benda dan perbesaran secara sederhana adalah ruang benda + ruang bayangan = 5, tadi benda ada di ruang 3, maka 3 + x = 5, maka x = 2, terbukti bahwa bayangan berada di ruang 2 karena jaraknya 13,3 cm)</u><br>Perbesaran s&#039;/s = 13,3/8 = <em><strong>1,6x</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-buah-gabus-berada-di-puncak-puncak-gelombang-keduanya-berger-852",
+            "question": "dua buah gabus berada di puncak-puncak gelombang. keduanya bergerak naik turun di atas permukaan air laut sebanyak 20 kali dalam waktu 4 detik mengikuti gelombang air laut. jika jarak kedua gabus 100 cm dan diantaranya terdapat 2 lembah dan satu bukit maka frekuensi gelombang dan ceoat rambat gelombang berturut-turut adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f : 20/4 =5\nv : f x (lambda / panjang gelombang)\nv : 5 x (100 cm = 1 m)\n     5 x 1 = 5",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-seutas-kawat-piano-yang-terbuat-dari-baja-mempunyai-panjang-1-886",
+            "question": "1. seutas kawat piano yang terbuat dari baja, mempunyai panjang 1,6 m dengan garis tengah 0,2 cm. berapa besar tegangan kawat jika kawat tersebut mengalami perubahan panjang sebesar 0,3 cm?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik lo =1,6 m \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0\u0394l = 0,3 cm = 0,003 m<br>\u00a0 \u00a0\u00a0 d = 0,2 cm = 0,002 m<br>Dit tegangan ?<br>jawab.<br>LO=\u03c0r^2 = 3,14 x 0,001^2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 3,14 x10^-6 m<br>E = tegangan / regangan<br>\u00a0 \u00a0= F.l / A.\u0394l<br><br><br>tegangan = F.l0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1,6 F",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-pejal-menggelinding-murni-pada-bidang-miring-dengan-s-256",
+            "question": "Sebuah bola pejal menggelinding murni    pada bidang miring dengan sudut\r\n kemiringan \u03b8. Berapakah percepatan\r\n linear bola tersebut jika diketahui\r\n percepatan gravitasinya g?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span><span>Inersia untuk bola pejal:\u00a0</span><br><span>I = \u2156 MR\u00b2\u00a0</span><br><br><span>Translasi:\u00a0</span><br><span>mg sin\u03b8 - fk = m a .....(1)\u00a0</span><br><br><span>Rotasi:\u00a0</span><br><span>fk R = I \u03b1\u00a0</span><br><span>fk R = \u2156MR\u00b2 a/R\u00a0</span><br><span>fk = \u2156 m a ... (2)\u00a0</span><br><br><span>substitusi (2) ke (1)\u00a0</span><br><span>mg sin\u03b8 - fk = m a\u00a0</span><br><span>mg sin\u03b8 - \u2156 m a = m a\u00a0</span><br><span>coret m\u00a0</span><br><span>g sin\u03b8 - \u2156 a = a\u00a0</span><br><span>g sin\u03b8 = \u2077/\u2085 a\u00a0</span><br><span>a = \u2075/\u2087 g sin\u03b8</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebatang-baja-angka-muai-panjang-105c-panjangnya-1000-325",
+            "question": "sebatang baja (angka muai panjang 10\u207b\u2075/\u2070C) panjangnya 100,0 cm pada suhu 30\u2070C. bila panjang batang baja itu sekarang menjadi 100,1 cm, maka suhunya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Lt = L0 x\u00a0\u03b1 x\u00a0\u0394T<br>0,1 = 100 x\u00a0[tex] 10^{-5} [/tex] x ( x-30)<br>0,1 =\u00a0[tex] 10^{-3} [/tex] (x-30)<br>0,1 =\u00a0[tex] 10^{-3}x[/tex] - 0,03<br>0,1 + 0,03 =\u00a0[tex] 10^{-3}x[/tex]<br>0,13 =\u00a0[tex] 10^{-3}x[/tex]<br>x = [tex] 130^{0} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "anton-berdiri-di-samping-sumber-bunyi-yang-frekuensinya-1008-hz-447",
+            "question": "anton berdiri di samping sumber bunyi yang frekuensinya 1.008 Hz. sebuah sumber bunyi lain yang frekuensinya 1.008 Hz mendekati anton dengan kecepatan 4 m/s bila cepat rambat bunyi di udara 340 m/s, maka besar frekuensi layangan yang didengar anton adalahh ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1008hz = \u00a0f<br>4m/s \u00a0 \u00a0 \u00a0 \u00a0340m/s<br>f = 1008 hz . 340 / 4<br>\u00a0maaf jika ada kesalahan\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-pelapukan-secara-biologi-dan-fisika-911",
+            "question": "Sebutkan pelapukan secara biologi dan fisika ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pelapukan fisik adalah suatu proses yang menyebabkan terjadinya \ndisintegrasi formasi bebatuan tanpa mengubah struktur kimia di dalamnya.\n Umumnya disebabkan oleh berbagai aktivitas fisik, seperti adanya gaya \ndan panas, namun tidak menampik adanya kemungkinan proses lain seperti \nkarena cahaya, listrik, dan radiasi elektromagnetik. Abrasi, erosi, dan \npengikisan itu adalah pelapukan fisik diakibatkan oleh adanya gaya. \nPenyinaran oleh matahari juga dapat menyebabkan bebatuan lapuk, yang \ndikategorikan pelapukan fisik oleh panas. Hancurnya bebatuan karena suhu\n yang dingin juga dikategorikan pelapukan termal; pelapukan fisik akibat\n perubahan panas. Oleh listrik misalnya petir. Oleh radiasi \nelektromagnetik sangat jarang terjadi di bumi, lebih sering terjadi di \nluar angkasa di mana benda langit banyak dikikis secara perlahan-lahan \noleh radiasi bintang-bintang (matahari juga bintang). <br>\u00a0<br><br><br>\nPelapukan biologi sebenarnya tidak dikategorikan, karena jika diteliti \nlebih dalam, pelapukan biologi sesungguhnya adalah pelapukan fisik dan \nkimia. Disebut pelapukan fisik jika proses fisik tumbuhan, mislanya \ngerakan akar yang menembus ke dalam bebatuan, maka itu dikategorikan \nsebagai pelapukan fisik. Disebut pelapukan kimia jika tanaman \nmenghasilkan substansi atau zat yang dapat menyebabkan bebatuan melapuk,\n misalnya liken yang melapukkan bebatuan untuk memperoleh nutrisi. \nPelapukan biologi, dalam text book biologi yang lama, dikategorikan \ntersendiri karena dilakukan oleh makhluk hidup, di mana kategori \npelapukan lainnya tidak. Namun jika dilihat lebih dalam, sesungguhnya \nitu adalah pelapukan kimia dan fisik. <br><br><br>semoga membantu :)\u00a0<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pelapukan Biologi atau Organik\u00a0<br><span>merupakan pelapukan yang disebabkan oleh makhluk hidup.\u00a0</span><br><br><span>Penyebabnya adalah proses organisme yaitu binatang, tumbuhan dan manusia.\u00a0</span><br><span>1. Binatang yang dapat melakukan pelapukan antara lain cacing tanah, serangga.\u00a0</span><br><span>2. Pengaruh yang disebabkan oleh tumbuhan ini dapat bersifat mekanik atau kimiawi.\u00a0</span><br><span>* Pengaruh sifat mekanik yaitu berkembangnya akar tumbuh-tumbuhan\u00a0</span><br><span>di dalam tanah yang dapat merusak tanah disekitarnya.\u00a0</span><br><span>* Pengaruh zat kimiawi yaitu berupa zat asam yang dikeluarkan oleh akar-\u00a0</span><br><span>akar serat makanan menghisap garam makanan dapat merusak batuan.\u00a0</span><br><span>3. Manusia juga berperan dalam pelapukan melalui aktifitas penebangan\u00a0</span><br><span>pohon, pembangunan maupun penambangan.\u00a0</span><br><span><br>Pelapukan Fisika atau Mekanik\u00a0</span><br><span>merupakan pelapukan yang disebabkan oleh proses fisika .\u00a0</span><br><span>Pada proses ini batuan akan mengalami perubahan fisik baik bentuk maupun\u00a0</span><br><span>ukurannya.\u00a0</span><br><span>Pelapukan ini di sebut juga pelapukan mekanik sebab prosesnya berlangsung\u00a0</span><br><span>secara mekanik.\u00a0</span><br><br><span>Penyebab terjadinya pelapukan mekanik yaitu:\u00a0</span><br><span>1. Adanya perbedaan temperatur yang tinggi.\u00a0</span><br><span>Pelapukan ini terutama terjadi di daerah yang beriklim kontinental atau\u00a0</span><br><span>beriklim gurun. Pada siang hari bersuhu panas maka batuan menjadi\u00a0</span><br><span>mengembang, pada malam hari saat udara menjadi dingin, batuan\u00a0</span><br><span>mengerut, hal ini dapat mengakibatkan batuan pecah atau retak-retak.\u00a0</span><br><br><span>2. Adapun pembekuan air di dalam batuan.\u00a0</span><br><span>Pelapukan ini terjadi di daerah yang beriklim sedang. Jika air membeku\u00a0</span><br><span>maka volumenya akan mengembang dan menyebabkan tekanan, karena\u00a0</span><br><span>tekanan ini batu- batuan menjadi rusak atau pecah.\u00a0</span><br><br><span>3. Berubahnya air garam menjadi kristal.\u00a0</span><br><span>Pelapukan ini terjadi di daerah pantai. Jika air tanah mengandung garam,\u00a0</span><br><span>maka pada siang hari airnya menguap dan garam akan mengkristal, kristal\u00a0</span><br><span>garam ini yang merusak batuan.\u00a0</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bentuk-hubungan-yg-terjadi-antara-tanaman-sirih-yg-tumbuh-meramba-860",
+            "question": "bentuk hubungan yg terjadi antara tanaman sirih yg tumbuh merambat di pohon mangga sama dengan bentuk hubungan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggrek dengan tanaman jambu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "kalau salah nggak apa apa ya?<br>anggrek dengan pohon,ikan badut dan anemon laut,ikan ramora dan ikan hiu,tumbuhan paku dan pohon jati<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-manfaat-dari-anomali-air-dan-mengapa-bisa-terjadi-anomali-ai-762",
+            "question": "Apa manfaat dari anomali air? dan mengapa bisa terjadi anomali air?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Manfaatnya :<br>Anomali air sangat penting bagi kehidupan\u00a0ikan dan tumbuhan di dalam air pada cuaca sangat dingin. </span><span>\u00a0sehingga ikan dan tumbuhan dalam danau mampu menghadapi musim dingin.<br><br>Anomali dapat terjadi :<br></span>Ketika air dingin di dalam danau mencapai suhu dibawah 4 derajat Celcius, pertambahan volume air karena karena pemuaian akan memperkecil massa jenis air yang lebih dingin.Air yang lebih dingin massa jenisnya lebih kecil akan bergerak ke permukaan danau, sedangkan air\u00a04 derajat Celcius\u00a0yang massa jenisnya lenih besar akan tenggelam ke dasar danau. Hasilnya, air di permukaan danau akan membeku terlebih dahulu, sebab air di permukaanlah yang mencapai suhu 0\u00a0derajat Celcius. Jadi, di permukaan air akan terbentuk lapisan es. Air di bawah lapisan es pada danau yang dalam tidak pernah membeku,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Anomali\n air sangat penting bagi kehidupan\u00a0ikan dan tumbuhan di dalam air pada \ncuaca sangat dingin. Ketika air dingin di dalam danau mencapai suhu \ndibawah 4 derajat Celcius, pertambahan volume air karena karena pemuaian\n akan memperkecil massa jenis air yang lebih dingin.<br><span>Air\n yang lebih dingin massa jenisnya lebih kecil akan bergerak ke permukaan\n danau, sedangkan air\u00a04 derajat Celcius\u00a0yang massa jenisnya lenih besar \nakan tenggelam ke dasar danau. Hasilnya, air di permukaan danau akan \nmembeku terlebih dahulu, sebab air di permukaanlah yang mencapai suhu \n0\u00a0derajat Celcius. Jadi, di permukaan air akan terbentuk lapisan es. Air\n di bawah lapisan es pada danau yang dalam tidak pernah membeku, \nsehingga ikan dan tumbuhan dalam danau mampu menghadapi musim dingin.</span><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

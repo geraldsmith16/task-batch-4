@@ -1,0 +1,131 @@
+{
+    "question": "satu liter larutan penyangga mengandung 0,1 M CH3COOH dan 0,1 M CH3COO- (Ka CH3COOH = 10-5 ). Bila ke dalam larutan ditambahkan 0,4 gram NaOH (Ar Na= 23, O= 16, H = 1), hitunglah pH larutan: a. sebelum ditambah NaOh b. setelah ditambah NaOH",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "a. sebelum ditambahkan NaOH<br>\u00a0 \u00a0<br>[H+] = Akar Ka. M\u00a0CH3COOH = Akar 10^-5 . 0,1 M = Akar 10^-6 = 10^-3<br>ph = - log [H+] = - Log 10^-3 = 3- log1 = 3<br><br>b. sesudah ditambahkan NaOH<br><br>MOL NaoH = Gram/Mr = 0,4/40 = 0,01 mol<br>Mol CH3COOH = Molaritas\u00a0x\u00a0Liter = 0,1 x 1 = 0,1<br><br>CH3COOH + NAOH\u00a0\u21d2 CHA3COONA + H2O<br>\u00a0 \u00a00,1 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01<br>\u00a0 0,01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,01\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -<br>\u00a0\u00a00,09 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00,01<br>\u00a0 \u00a0 \u00a0<br>maka H+ = Ka . Mol asam/mol garam<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 10^-5 . 0,09/0,01<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9.10^-5<br>\u00a0 \u00a0 \u00a0ph = - log H+ = - log 9.10^-5 = 5 - log\u00a09",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "dari-1-gram-naoh-mr-40-gmol-akan-dihasilkan-larutan-naoh-02-905",
+            "question": "Dari 1 gram NaOH (Mr = 40 g/mol) akan dihasilkan larutan NaOH 0,25 M sebanyak . ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Jawab :</strong></p><p>Dari 1 gram NaOH (Mr = 40 g/mol) akan dihasilkan larutan NaOH 0,25 M sebanyak <strong>100 mL.</strong></p><p><strong>Penyelesaian Soal :</strong></p><p>Diketahui : massa NaOH = 1 gram</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [NaOH] = 0,25 M</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Mr NaOH = 40 g/mol</p><p>Ditanya : Volume NaOH ?</p><p>Jawab :</p><ul><li>Hitung mol NaOH dengan cara :</li></ul><p>n NaOH = massa/ Mr</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1 gram/ 40 g/mol</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 0,025 mol</p><ul><li>Hitung Volume NaOH dengan cara :</li></ul><p>M = n/V</p><p>V = n/M</p><p> \u00a0 = 0,025 mol/ 0,25 M</p><p> \u00a0 = 0,1 L = 100 mL</p><p><strong>\u2234 Kesimpulan Volume NaOH yang dihasilkan adalah sebanyak 100 mL.</strong></p><p><strong>Pembahasan :\n</strong></p><p>larutan adalah campuran homogen dari dua zat - zat terlarut dan zat pelarut untuk melarutkannya. Konsentrasi adalah pengukuran jumlah zat terlarut yang larut dalam zat pelarut. Ada banyak alasan untuk menghitung konsentrasi suatu larutan, walaupun demikian, dasar perhitungan kimia yang digunakan sama saja, baik saat Anda menguji tingkat klorin di bak air panas atau melakukan analisis penting pada sampel darah.\n</p><p><strong>Pengertian Molaritas (M)\n</strong></p><p>Konsentrasi merupakan jumlah zat terlarut yang ada terhadap jumlah pelarut tertentu atau terhadap jumlah larutan tertentu. (diasumsikan zat terlarut berwujud cair atau padat, sedangkan pelarutnya berwujud cair) Konsentrasi dapat diungkapkan dengan beragam cara, salah satunya yang paling sering dipakai, dan memang akan kita gunakan sekarang ini adalah Molaritas (M), atau konsentrasi molar. Molaritas adalah jumlah mol terlarut setiap liter larutan. Atau bias diungkapkan dengan rumus:\n</p><p><strong>M = n/V\n</strong></p><p>Keterangan : M = konsentrasi zat\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n = mol zat terlarut\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 V = volume larutan (L)\n</p><p><strong>Pengenceran</strong>\n</p><p>Proses pengenceran adalah proses yang dilakukan dengan mencampurkan pelarut yang lebih ukurannya dari suatu zat yang dilarutkannya. engenceran pada prinsipnya hanya menambahkan pelarut saja, sehingga jumlah mol zat terlarut sebelum pengenceran sama dengan jumlah mol zat terlarut sesudah pengenceran. Dengan kata lain jumlah mmol zat terlarut sebelum pengenceran sama dengan jumlah mmol zat terlarut sesudah penegenceran atau jumlah massa zat terlarut sebelum pengenceran sama dengan jumlah massa zat terlarut sesudah pengenceran.\n</p><p>Rumus : \u00a0</p><p><strong>V\u2081 \u00d7 M\u2081 = V\u2082 \u00d7 M\u2082\n</strong></p><p>Keterangan :\n</p><p>M\u2081 = Molaritas larutan sebelum pelarutan/pengenceran\n</p><p>V\u2081 = Volume larutan sebelum pelarutan/pengenceran\n</p><p>M\u2082 = Molaritas larutan sesudah pelarutan/pengenceran\n</p><p>V\u2082 = Volume Molaritas larutan sesudah pelarutan/pengenceran\n</p><p><strong>Molaritas Untuk Massa dalam Persen\n</strong></p><p>Rumus lain yang kalian bisa gunakan untuk mencari molaritas suatu larutan bila yang kalian tahu bukanlah massa zat terlarut berbentuk larutan juga maka kalian bisa gunakan rumus molaritas dibawah ini, yaitu sebagai berikut :\n</p><p><strong>M = (massa jenis x % massa x 10) / Mr\n</strong></p><p><strong>Molalitas (m)\n</strong></p><p>Molalitas berbeda dengan molaritas, molalitas sendiri adalah jumlah dari mol zat terlarut tiap seribu gram pelarut. Untuk menentukan molalitas suatu zat diperlukan rumus :\n</p><p><strong>molalitas (m) = [tex]\\frac{mol zat terlarut}{Kg pelarut}[/tex]\n</strong></p><p><strong>Normalitas Larutan (N)\n</strong></p><p>Normalitas adalah besaran yang menyatakan jumlah mol ekivalen zat terlarut dalam tiap satuan volume larutan. Satuan normalitas adalah normal (N) yang sama dengan mol ekivalen/liter. Rumus normalitas larutan adalah sebagai berikut :\n</p><p><strong>N = (n/V) \u00d7 e\n</strong></p><p>Ket : N = normalitas\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0n = mol\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0e = ekivalen\n</p><p> \u00a0 \u00a0 \u00a0 \u00a0V = volume (Liter)\n</p><p>Untuk asam, 1 mol ekivalen sebanding dengan 1 mol ion H\u207a\n</p><p>Untuk basa, 1 mol ekivalen sebanding dengan 1 mol ion OH\u207b\n</p><p><strong>Pelajari lebih lanjut :\n</strong></p><p>Materi tentang molaritas dalam persen https://brainly.co.id/tugas/20898282\n</p><p>Materi tentang molaritas brainly.co.id/tugas/17676574\n</p><p>Materi tentang normalitas brainly.co.id/tugas/20861380\n</p><p>Materi tentang molaritas https://brainly.co.id/tugas/20998786\n</p><p>-----------------------------------------------------------------------------------------------------------\n</p><p><strong>Detail Jawaban :\n</strong></p><p>Kelas : 10\n</p><p>Mapel : kimia\n</p><p>Bab : 7\n</p><p>Kode : 10.7.9\n</p><p>Kata Kunci : molaritas, kerapatan, konsentrasi, pengenceran\n</p>",
+                    "attachments": [
+                        "answer-attachments/dari-1-gram-naoh-mr-40-gmol-akan-dihasilkan-larutan-naoh-02-905-1.jpg",
+                        "answer-attachments/dari-1-gram-naoh-mr-40-gmol-akan-dihasilkan-larutan-naoh-02-905-2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-asam-basa-konjugasi-dari-ahco3-h3o-171",
+            "question": "Tentukan asam basa konjugasi dari\u00a0    a.\u00a0HCO3 -\u00a0 + \u00a0 H3O+\u00a0 \u00a0\u21d2 H2CO3\u00a0\u00a0\u00a0 +\u00a0 H2O\r\n\r\n\r\nb.\u00a0NH4+\u00a0 \u00a0 \u00a0+ \u00a0 OH-\u00a0 \u00a0 \u00a0\u21d2\u00a0\u00a0NH3\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0+\u00a0 H2O",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "H2O tu basa konjugasi<br><span>H2CO3 dan NH3 tu asam konjugasi<br><br><br></span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebanyak-100-ml-nh4oh-01-m-dicampur-dengan-400-ml-larutan-nh4oh-360",
+            "question": "Sebanyak 100 mL NH4OH 0,1 M\u00a0dicampur dengan 400 mL larutan NH4OH 02 M\u00a0lain. \u00a0Hitung pH larutan campuran ! (Kb=5x10 pangkat -7)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M cmpurn= 100*0,1+400*0,2 per 100+400\n                     = 50/500=0,1 M\n[OH-]= Akar kuadrat dr 0,1 M * 5x10 pgkt-7\n           = akar kuadrat dr 5* 10 pgkt-8\n           = 2,24 * 10 pgkt-4\npOH=- log 2,24 * 10 pgkt-4\n         =4- log 2,24\npH = 14-(4- log 2,24)\n       = 10 + log 2,24",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-senyawa-mempunyai-rumus-empiris-c3h4o-dan-massa-molekul-rel-781",
+            "question": "suatu senyawa mempunyai rumus empiris C3H4O dan massa molekul relatif=112 jika Ar c=12 H=1 O=16 maka rumus molekul senywa",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "C3H4O \u00a0 = 112<br>(C3H4O)n 112<br>36n + 4n + 16n =112<br>56n \u00a0 \u00a0= 112<br>n = 2<br>jadi rumus molekulnya (C3H4O)2<br>C6H8O2<br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pasangan-senyawa-yang-tergolong-elektrolit-kuat-dan-elektrolit-le-496",
+            "question": "Pasangan senyawa yang tergolong elektrolit kuat dan elektrolit lemah andalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Elektrolit Kuat: \n-Asam= HCl\n-Basa= NaOH\n-Garam= NaCl\n\nElektrolit Lemah:\n-Asam= mizone\n-Basa= CH3COOH",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "mangan-dioksida-yang-massanya-725-gram-direaksikan-dengan-586-g-477",
+            "question": "Mangan dioksida yang massanya 72,5 gram direaksikan dengan 58,6 gram asam klorida hingga membentuk managn(II) klorida, gas klorin, dan uap air. Tentukan pereaksi pembatas, massa mangn(II) klorida?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Pada reaksi mangan dioksida yang massanya 72,5 gram direaksikan dengan 58,6 gram asam klorida hingga membentuk managn(II) klorida, gas klorin, dan uap air. Maka pereaksi pembatasnya adalah HCL dan membentuk massa mangan (II) klorida sebesar 50,4 gram.</strong></p><h2>Pembahasan</h2><p>[tex]\\boxed{\\boxed{\\bold{Stoikiometri}}}[/tex] \u00a0</p><p>Dalam bahasa Yunani, kata stoicheion berarti unsur sedangkan stoikiometri (stoichiometry) berarti mengukur unsur meliputi massa atom dan massa rumus,kadar, konsentrasi, rumus empiris, rumus molekul, persamaan kimia serta semua yang berhubungan dengan reaksi kimia. Dalam stoikiometri, satuan yang digunakan untuk menyatakan jumlah partikel dalam zat dinamakan mol. \u00a0</p><p></p><p>Berdasarkan soal diatas, maka dapat kita tuliskan apa saja yang diketahui dan ditanyakan pada soal :</p><p>[tex]\\boxed{\\boxed{\\bold{Diket}}}[/tex] \u00a0</p><p>Mangan dioksida = MnO\u2082</p><p>Asam klorida = HCl</p><p>massa MnO\u2082 = 72,5 gram</p><p>massa HCl = 58,6 gram</p><p></p><p><strong>Informasi tambahan yang tidak ada pada soal :</strong></p><p>Ar Mn = 55</p><p>Ar Cl = 35,5</p><p>Ar H = 1</p><p>Ar O = 16</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Ditanya}}}[/tex] \u00a0</p><p>a. Pereaksi pembatas</p><p>b. massa mangan (II) klorida</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Jawab}}}[/tex] \u00a0</p><p><strong>Untuk menjawab soal tersebut, kita menggunakan dasar teori \"Pereaksi Pembatas\" yaitu :</strong></p><p>[tex]\\mathbf{Pereaksi~Pembatas }[/tex]\n</p><p>Pereaksi pembatas adalah zat pereaksi yang habis bereaksi sedangkan pereaksi yang lainnya berlebih karena terdapat sisa. \u00a0</p><p>Cara menentukan pereaksi pembatas adalah :\n</p><p>1. Persamaan reaksi harus sudah setara\n</p><p>2. Menentukan mol masing-masing zat pereaksi\n</p><p>3. Membuat MRS (Mula-mula, Reaksi, Setimbang)\n</p><p>4. Meletakkan mol mula-mula setiap zat pereaksi\n</p><p>5. Membagi masing-masing mol zat pereaksi dengan koefisiennya\n</p><p>4. Hasil bagi paling kecil merupakan pereaksi pembatas\n</p><p></p><p>Untuk menentukan jumlah mol, terlebih dahulu kita menentukan persamaan reaksi dan koefisien reaksi terlebih dahulu.</p><p>Mangan (II) klorida = MnCl\u2082</p><p>gas klorin = Cl\u2082</p><p>uap air = H\u2082O</p><p>maka,</p><p><strong>Persamaan reaksi yang terjadi adalah</strong></p><p>MnO\u2082 + HCl ---&gt; MnCl\u2082 + Cl\u2082 + H\u2082O \u00a0 (reaksi belum setara)</p><p>Menyetarakan Atom Cl</p><p>MnO\u2082 + 4HCl ---&gt; MnCl\u2082 + Cl\u2082 + H\u2082O</p><p></p><p>Menyetarakan atom H</p><p>MnO\u2082 + 4HCl ---&gt; MnCl\u2082 + Cl\u2082 + 2H\u2082O \u00a0(sudah setara)</p><p></p><p><strong>LANGKAH 1</strong></p><p><strong>Menentukan Mr MnO\u2082 dan Mr HCl</strong></p><p>[tex]\\mathbf{\\mathit{Massa~Atom~Molekul~(Mr)}}[/tex]\n</p><p>Massa molekul relatif \u00a0(Mr) adalah jumlah total dari massa atom relatif unsur-unsur penyusunnya dalam suatu senyawa atau molekul. Massa molekul relatif (Mr) digunakan untuk sneyawa atau molekul sedangkan massa atom relatif digunakan untuk unsur atau atom. Rumus untuk menentukan massa molekul relatif (Mr) adalah:\n</p><p>[tex]\\boxed{\\boxed{\\bold{Mr~A_nB_m~=~n.~Ar~A~+~m.~Ar~B}}}[/tex]\n</p><p><strong>maka,</strong></p><p>Mr MnO\u2082 = 1. Ar Mn + 2. Ar O</p><p>Mr MnO\u2082 = 1. 55 + 2. 16</p><p>Mr MnO\u2082 \u00a0= 87</p><p></p><p>Mr HCl = 1. Ar H + 1. Ar Cl</p><p>Mr HCl = 1. 1 + 1. 35,5</p><p>Mr HCl = 36,5</p><p></p><p><strong>LANGKAH 2</strong></p><p><strong>Menentukan jumlah mol (n) MnO\u2082 dan HCl</strong></p><p>Rumus yang digunakan adalah :</p><p>[tex]\\mathbf{Menentukan~jumlah~mol~dengan~massa}[/tex]\n</p><p> [tex]\\boxed{\\boxed{\\bold{n~=~\\frac{gram}{Mr} }}}[/tex]\n</p><p>dengan, \u00a0</p><p>n = jumlah mol (mol) \u00a0</p><p>gram = massa (gram) \u00a0</p><p>Mr = massa molekul relatif \u00a0</p><p><strong>maka,</strong></p><p>n MnO\u2082 = [tex]\\frac{massa}{Mr}[/tex]</p><p>n MnO\u2082 = [tex]\\frac{72,5}{87}[/tex]</p><p>n MnO\u2082 = 0,83 mol</p><p></p><p>n HCl = [tex]\\frac{massa}{Mr}[/tex]</p><p>n HCl = [tex]\\frac{58,6}{36,5}[/tex]</p><p>n HCl = 1,6 mol</p><p></p><p><strong>LANGKAH 3</strong></p><p><strong>Menentukan jumlah mol (n) setelah reaksi</strong></p><p>Ingat dasar teori sebelumnya tentang cara menentukan pereaksi pembatas.</p><p>Persamaan reaksi yang terjadi adalah</p><p> \u00a0 \u00a0 \u00a0MnO\u2082 \u00a0 + \u00a0 \u00a04HCl \u00a0 ---&gt; \u00a0 MnCl\u2082 \u00a0 + Cl\u2082 \u00a0 \u00a0 + 2H\u2082O</p><p>M 0,83 mol \u00a0 \u00a01,6 mol \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0-</p><p>R \u00a00,4 mol \u00a0 \u00a0 \u00a01,6 mol \u00a0 \u00a0 \u00a0 \u00a0 0,4 mol \u00a0 0,4 mol \u00a00,8 mol</p><p>S \u00a00,43 mol \u00a0 \u00a0 \u00a0 <strong> \u00a0- \u00a0</strong> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,4 mol \u00a0 0,4 mol \u00a00,8 mol</p><p>Pereaksi pembatas adalah zat pereaksi yang habis bereaksi yaitu HCl</p><p></p><p><strong>LANGKAH 4</strong></p><p><strong>Menentukan Mr MnCl\u2082 </strong></p><p>Mr MnCl\u2082 \u00a0= 1. Ar Mn + 2. Ar Cl</p><p>Mr MnCl\u2082 \u00a0= 1. 55 + 2. 35,5</p><p>Mr MnCl\u2082 \u00a0= 55 + 71</p><p>Mr MnCl\u2082 \u00a0= 126</p><p></p><p><strong>LANGKAH 5</strong></p><p><strong>Menentukan massa MnCl\u2082 </strong></p><p>masing menggunakan rumus yang sama yaitu :</p><p> [tex]\\boxed{\\boxed{\\bold{n~=~\\frac{gram}{Mr} }}}[/tex]\n</p><p>maka,</p><p>n MnCl\u2082 \u00a0= \u00a0[tex]\\frac{massa}{Mr}[/tex]</p><p>0,4 = [tex]\\frac{massa}{126}[/tex]</p><p>massa MnCl\u2082 = 0,4 x 126</p><p>massa MnCl\u2082 \u00a0= 50,4 gram</p><p></p><p>[tex]\\boxed{\\boxed{\\bold{Kesimpulan}}}[/tex] \u00a0</p><p>a. Pereaksi pembatas pada soal adalah HCl karena habis (tidak ada sisa) setelah reaksi berlangsung</p><p>b. massa mangan (II) klorida \u00a0MnCl\u2082 \u00a0yang terbentuk sebesar 50,4 gram</p><p></p><p></p><p>[tex]\\mathbf{Pelajari~Lebih~Lanjut }[/tex] \u00a0</p><ul><li>\nPereaksi pembatas https://brainly.co.id/tugas/21425602, https://brainly.co.id/tugas/21579146, https://brainly.co.id/tugas/21999336, https://brainly.co.id/tugas/13898481, https://brainly.co.id/tugas/10933034, https://brainly.co.id/tugas/21211909, https://brainly.co.id/tugas/6345208, https://brainly.co.id/tugas/22800974</li></ul><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]\\boxed{\\bigstar}\\boxed{\\bold{Semoga~Membantu}}\\boxed{\\bigstar}[/tex] \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0</p><p> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 [tex]\\boxed{\\bigstar}\\boxed{\\bold{ionkovalen}}\\boxed{\\bigstar}[/tex]\n</p><p>\n</p><p>[tex]\\mathbf{Detil~Jawaban }[/tex] \u00a0</p><p>Mapel : Kimia\n</p><p>Bab : Stoikiometri</p><p>Kelas : X\n</p><p>Semester : 2\n</p><p>Kode : 10.7.9</p><p>Kata kunci : persamaan reaksi, pereaksi pembatas, massa, jumlah mol, Ar, Mr</p>",
+                    "attachments": [
+                        "answer-attachments/mangan-dioksida-yang-massanya-725-gram-direaksikan-dengan-586-g-477-1.jpg",
+                        "answer-attachments/mangan-dioksida-yang-massanya-725-gram-direaksikan-dengan-586-g-477-2.jpg",
+                        "answer-attachments/mangan-dioksida-yang-massanya-725-gram-direaksikan-dengan-586-g-477-3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "apa-persamaan-dan-perbedaan-sifat-antara-air-dan-susu-strawbery-426",
+            "question": "Apa persamaan dan perbedaan sifat antara air dan susu strawbery?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<h2>Apa persamaan dan perbedaan sifat antara air dan susu strawbery?</h2><p> </p><h2>Jawaban</h2><p> </p><h3>Pendahuluan</h3><p>Materi adalah segala sesuatu yang mempunyai massa dan menempati ruang (memiliki volume). Massa dan volume termasuk sifat materi. Sifat materi dapat dikelompokkan berdasarkan jumlah dari materi dan perubahan yang terjadi pada materi.</p><p>Sifat materi berdasar jumlah dari materi adalah sifat ekstensif dan sifat intensif. Sedangkan menurut perubahan yang terjadi sifat materi dikelompokkan menjadi sifat fisis atau sifat fisika dan sifat kimia. Sifat fisika adalah sifat suatu materi yang dapat diamati tanpa harus mengubah susunan materi atau menghasilkan zat baru. Contoh sifat fisika adalah massa, volume, suhu, warna, rasa, bau, titik didih, titik lebur, daya hantar listrik, kelarutan, dan kekerasan.</p><p>Sifat kimia adalah sifat materi yang dapat diamati ketika materi tersebut mengalami perubahan menjadi zat baru. Contoh sifat kimia dari materi adalah mudah berkarat, mudah terbakar, mudah bususk, dan mudah meledak.</p><p> </p><h3>Pembahasan</h3><p>Pada soal diatas ditanyakan persamaan dan perbedaan sifat antara air dan susu strawberry.</p><p>Persamaan sifat fisika dari air adalah sama - sama berupa cairan.</p><p>Sedangkan perbedaan sifat fisika dari air dan susu strawberry adalah:</p><p>- air jernih tidak berwarna sedangkan susu strawberry keruh dan berwarna merah muda</p><p>- titik didih air 100\u00b0C sedangkan titik didih susu strawberry sedikit lebih tinggi dari titik didih air, yaitu 100.16\u00b0C</p><p>- air tidak memiliki aroma dan rasa, sedangkan susu strawberry memiliki aroma strawberry dan berasa manis</p><p>Sifat kimia dari air dan susu strawberry berbeda. Susu strawberry memiliki sifat kimia dapat membusuk / \u00a0basi sedangkan air tidak dapat busuk / \u00a0basi. </p><p> </p><h3>Kesimpulan</h3><p>Persamaan sifat air dan susu strawberry: berwujud cairan</p><p>Perbedaan sifat air dan susu strawberry: \u00a0</p><p>- air jernih tidak berwarna sedangkan susu strawberry keruh dan berwarna merah muda</p><p>- titik didih air 100\u00b0C sedangkan titik didih susu strawberry sedikit lebih tinggi dari titik didih air, yaitu 100.16\u00b0C</p><p>- air tidak memiliki aroma dan rasa, sedangkan susu strawberry memiliki aroma strawberry dan berasa manis</p><p>- susu strawberry memiliki sifat kimia dapat membusuk / \u00a0basi sedangkan air tidak dapat busuk / \u00a0basi</p><p> </p><h2>Pelajari lebih lanjut </h2><p>1. Materi tentang sifat kimia dan sifat fisika benda https://brainly.co.id/tugas/5077220</p><p>2. Materi tentang sifat kimia dan sifat fisika benda https://brainly.co.id/tugas/3023912</p><p>-----------------------------</p><p> </p><h2>Detil Jawaban</h2><p>Kelas : 10</p><p>Mapel : Kimia</p><p>Bab : Pendahuluan Ilmu Kimia</p><p>Kode : 10.7.1</p><br><p>Kata Kunci: sifat fisika, sifat kimia</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bilok-dari-naclo-2naclnaclo3-731",
+            "question": "Bilok dari NaClO-2NaCl+NaClO3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "NaClO\u00a0<br>Biloks Na= +1<br>Biloks Cl= -1<br>Biloks O = -2<br><br>2NaCl<br>Biloks Na= +1<br>Biloks Cl= -1<br><br>NaClO\u2083<br>Biloks Na= +1<br>Biloks O = -2<br>Karena ini bukan senyawa biner (terdiri lebih dari 2 unsur), maka, biasanya unsur yg di tengah yg dicari, karena biloks Na dan O sudah ada diketentuan mencari bilangan oksidasi.<br><br>Karena itu, kita simbolkan Cl dengan huruf &#039;x&#039;<br><br>NaClO\u2083 --&gt;\u00a0 1 + x + -2 (3) *karena unsur O ada tiga* = 0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1 + x - 6 =0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x= +5<br>Jadi, Na= +1<br>\u00a0 \u00a0 \u00a0 \u00a0 Cl= +5<br>\u00a0 \u00a0 \u00a0 \u00a0 O= -2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-larutan-hcn-01-m-mempunyai-ph-sebesar-3-log-2-berapa-676",
+            "question": "Suatu larutan HCN 0,1 M mempunyai pH sebesar 3 \u2013    log 2, berapa gram KCN yang harus dilarutkan dalam air, agar diperoleh 500 ml\r\n larutan KCN dengan pH 9 + log 2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ph9+log 2?90 tp jkml akan\u00a0ditambah 60 akan mji 500ml",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapa-gram-massa-56-liter-uap-air-pada-keadaan-stp-ar-h-1-o-986",
+            "question": "Berapa gram massa 5,6 liter uap air pada keadaan STP (Ar H = 1, O = 16)?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Pembahasan</strong><br><br>Diminta menentukan massa (gram) 5,6 liter uap air pada keadaan STP<br>(Ar H = 1, O = 16)<br><br>Persoalan ini termasuk dalam pembahasan stokiometri konsep mol. Perhatikan gambar terlampir yang memuat hubungan mol dengan massa, jumlah partikal, volum gas, dan konsentrasi larutan.<br><br>[tex]\\boxed{STEP-1 \\ | \\ Siapkan \\ Mr \\ H_2O}[/tex]<br><br>Mr H\u2082O = 2(1) + 16 = 18<br><br>[tex]\\boxed{STEP-2 \\ | \\ Hitung \\ mol \\ H_2O}[/tex]<br><br>\u21d4\u00a0[tex]n =  \\frac{V}{22,4} [/tex]<br><br>\u21d4\u00a0n =\u00a0 \\frac{5,6}{22,4}<br><br>\u21d4 n = 0,25 mol<br><br>[tex]\\boxed{STEP-3 \\ | \\ Hitung \\ massa \\ H_2O}[/tex]<br><br>\u21d4\u00a0[tex]n =  \\frac{massa}{Mr}  [/tex]<br><br>\u21d4 Massa = n x Mr<br><br>\u21d4 Massa = 0,25 x 18<br><br>\u2234 <strong>Diperoleh massa sebesar</strong>\u00a0[tex]\\boxed{4,5 \\ gram}[/tex]<br><br>-----------------------------------<br><br><strong>Alternatif Pengerjaan</strong><br><br>Hubungkan langsung antara massa dengan volum gas pada STP<br><br>\u21d4\u00a0[tex] \\boxed{\\frac{massa}{Mr} = \\frac{V}{22,4}}[/tex]<br><br>\u21d4\u00a0[tex]Massa = Mr \\times  \\frac{V}{22,4} [/tex]<br><br>\u21d4 [tex]Massa = 18 \\times \\frac{5,6}{22,4} [/tex]<br><br>\u2234\u00a0[tex]\\boxed{Massa \\ uap \\ air = 4,5 \\ gram}[/tex]<br>-----------------------------------<br>Pelajari lebih lanjut penentuan rumus molekul senyawa<br>https://brainly.co.id/tugas/5521851<br>Simak soal sejenis di sini<br>brainly.co.id/tugas/38448<br>Ingin mempelajari soal stoikiometri lainnya mengenai pereaksi pembatas dan perhitungan massa endapan dalam suatu reaksi kimia<br>brainly.co.id/tugas/150723<br>_____________________<br><br><strong>Kelas\u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0: X</strong><br><strong>Mapel\u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0: Kimia</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0 : Stoikiometri</strong><br><strong>Kata Kunci\u00a0 : konsep, mol, gram, massa, uap, air, keadaan, STP, standar, Ar, H, O</strong><br><br><strong>Kode : 10.7.7 [Kelas 10 Kimia Bab 7 Stoikiometri]</strong>",
+                    "attachments": [
+                        "answer-attachments/berapa-gram-massa-56-liter-uap-air-pada-keadaan-stp-ar-h-1-o-986-1.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}

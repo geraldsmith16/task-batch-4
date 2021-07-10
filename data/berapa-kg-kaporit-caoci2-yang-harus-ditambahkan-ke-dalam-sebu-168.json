@@ -1,0 +1,128 @@
+{
+    "question": "Berapa kg kaporit (CaOCI\u2082) yang harus ditambahkan ke dalam sebuah kolam renang yang berisi 60.000 m\u00b3air, agar kadar kaporit dalam air kolam tersebut sebesar 5 ppm*?    *ppm=part per million\r\n1\u00a0\u00b0/\u2080=10\u2074 ppm\r\ntolong.. :)",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "5 ppm = 5/1juta<br><br>60.000m3 * \u00a05 / 1juta = 0.3 m3<br><br>Karena 1m3 air\u00a0itu 1000kg , maka 0,3m3 adalah 300kg..<br><br><br>300kg kaporit",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "kesalahan-apa-yang-akan-terjadi-jika-pada-titrasi-asam-lemah-deng-406",
+            "question": "Kesalahan apa yang akan terjadi jika pada titrasi asam lemah dengan basa kuat digunakan metil merah sebagai indikator?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titrasi asam lemah dan basa kuat mempunyai titik ekivalen yang berada di atas pH 7 (sekitar 8),jika digunakan metil merah yang mempunyai rentang 4,0 - 5,8, maka percobaan yang dilakukan akan mendapatkan hasil yang salah ini dikarenakan metil merah hanya bisa memperlihatkan perubahan pada rentang 4,0 - 5,8.<br><br>intinya hasil yang didapatkan tidak valid dikarenakan rentang perubahan warna metil merah (4,0 - 5,8 / tidak berwarna - merah) tidak sesuai dengan titik ekivalen dari titrasi tersebut,<br><br>semoga membantu :)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-05-l-larutan-asam-asetat-01m-ditambah-05l-larutan-na-774",
+            "question": "Diketahui 0,5 L larutan asam asetat 0,1M ditambah 0,5L larutan natrium asetat 0,1M. (Ka=1,8x10-5) . Tentukan : a. Ph larutan tersebut setelah dicampur b.berapa ph larutan jika ditambah 5ml asam klorida 0,1M?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "asam asetat (CH3COOH)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br>natrium asetat (CH3COONa)<br>mol = V x M = 0,5 x 0,1 = 0,05 mol<br><br>(CH3COOH, as lemah) ---&gt;\u00a0 CH3COO-\u00a0 \u00a0 +\u00a0 \u00a0  H+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br>CH3COONa\u00a0 ----&gt; (CH3COO-, basa konjugasi)+\u00a0 \u00a0 Na+<br>0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05<br><br>a. pH larutan<br>dari soal didapatkan bahwa larutan merupakan larutan penyangga asam.<br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,05 / 0,05)<br>H+ = 1,8 x 10^-5<br><br>pH = 5 - log 1,8 = 4,74<br><br>b. ditambah asam 5 ml (0,005 Liter) HCl 0,1 M<br>mol HCl = 0,005 x 0,1 = 0,0005 mol<br><br>karena adanya penambahan asam, maka asam akan bereaksi dengan garam asam lemah dan menghasilkan asam lemah, sehingga konsentrasi asam lemah bertambah dan konsentrasi garam asam lemah berkurang.<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CH3COONa\u00a0  +\u00a0 \u00a0 HCl\u00a0  -----&gt;\u00a0 \u00a0 CH3COOH\u00a0 \u00a0 +\u00a0 \u00a0 NaCl (abaikan NaCl)<br>M\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,05\u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,05<br>R\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,005\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,005<br>S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0,045\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 -\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  0,055<br><br>maka <br>H+ = Ka x (mol asam lemah/ mol basa konjugasi)<br>H+ = 1,8 x 10^-5 (0,055 / 0,045)<br>H+ = 2,196 x 10^-5<br><br>pH = 5 - log 2,196 = 4,65<br><br><br>semoga membantu :)<br>beri label terbaik jika jawaban saya terbaik :)<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawab-sebanyak-196-gram-garam-ch3cooh-mr98-dilarutkan-dalam-a-846",
+            "question": "jawab sebanyak 19,6 gram garam CH3COOH (Mr=98) dilarutkan dalam air hingga volume 500 mL.jika Ka CH3COOH=10-5,maka pH larutan CH3COOH adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "M = gr . 1000 / Mr . V  <br>\nM = 19,6 . 1000 / 98 . 500 <br>\nM = 0,4 <br><br>\n[H^+] = akar 1 x 10^5 . 4 x 10^-1 <br>\n[H^+] = akar 4 x 10^4 <br>\n[H^+] = 2 x 10^2 <br><br>\npH = -log 2 x 10^2 <br>\npH = 2 - log 2  <br>pH = 2- 0,301<br>pH = 1,699<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-larutan-hcn-01-m-mempunyai-ph-sebesar-3-log-2-berapa-676",
+            "question": "Suatu larutan HCN 0,1 M mempunyai pH sebesar 3 \u2013    log 2, berapa gram KCN yang harus dilarutkan dalam air, agar diperoleh 500 ml\r\n larutan KCN dengan pH 9 + log 2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "ph9+log 2?90 tp jkml akan\u00a0ditambah 60 akan mji 500ml",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "di-antara-atom-atom-unsur-berikut-yg-paling-mudah-membentuk-ion-898",
+            "question": "Di antara atom-atom unsur berikut, yg paling mudah membentuk ion negatif adalah . . .    A.6C\r\n B.7N\r\n C.9F\r\n D.10Ne\r\n E.19K\r\n Nb: dengan alasannya, sebelumnya saya ucapkan terima kasih :) (y)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Penjelasan: <br><br>\n\u21d2 Unsur gas mulia \u2081\u2080Ne tak dapat menjadi ion negatif karena konfigurasi elektronnya stabil (oktet).<br><br>\n\n\u21d2 Unsur \u2081\u2089K bersifat elektropositif atau cenderung membentuk ion positif (kation), yakni melepas 1 elektron valensinya agar mencapai oktet saat  berikatan dengan ion negatif (anion) lain.<br><br>\n\n\u21d2 Ion negatif atau anion adalah unsur yang cenderung menangkap elektron agar konfigurasi elektron mencapai keadaan oktet (stabil). Unsur yang paling mudah membentuk ion negatif adalah unsur yang paling bersifat elektronegatif atau dengan kata lain harga keelektronegatifan tertinggi. <br><br>\n\n\u21d2 Sesuai sifat periodik, unsur yang memiliki harga keelektronegatifan tertinggi adalah \u2089F.",
+                    "attachments": []
+                },
+                {
+                    "answer": "C\u2086=1s\u00b2 2s\u00b2 2p\u00b2<br>N\u2087=1s\u00b2 2s\u00b2 2p\u00b3<br>F\u2089=1s\u00b2 2s\u00b2 2p\u2075<br>Ne\u2081\u2080=1s\u00b2 2s\u00b2 2p\u2076<br>K\u2081\u2089=1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076 4s\u00b9<br><br>Dari konfigurasi di atas dapat dilihat bahwa yang paling mudah membentuk ion negatif adalah F\u2089<br><br>Semoga Membantu<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-reduktor-oksidator-hasil-oksidasi-dan-hasil-reduksi-680",
+            "question": "Tentukan reduktor , oksidator , hasil oksidasi dan hasil reduksi pada reaksi redoks berikut !    # Cu + 2H2SO4 -&gt; CuSO4 + SO2 + 2H2O \r\n\r\n#MnO2 + 4HCL -&gt; MnCl2 + 2H2O + Cl2",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "* \u00a0 \u00a00 \u00a0 \u00a0 \u00a0+1+6-2 \u00a0 \u00a0 \u00a0 \u00a0 2++6-2 \u00a0+4\u00a0-2 \u00a0 \u00a0 +1 -2<br>\u00a0 \u00a0\u00a0Cu + 2H\u2082SO\u2084 ----&gt; CuSO\u2084 + SO\u2082 + 2H\u2082O<br>\u00a0 \u00a0 \u00a0<br>oksidator = H\u2082SO\u2084<br>reduktor = Cu<br>hasil oksidasi = CuSO\u2084<br>hasil reduksi = SO\u2082<br><br><br><br>* +4 -2 \u00a0 \u00a0 +1 -1 \u00a0 \u00a0 \u00a0 +2 -1 \u00a0 \u00a0 \u00a0+1 -2 \u00a0 \u00a00<br>\u00a0 MnO\u2082 + 4HCl ----&gt; MnCl\u2082 + 2H\u2082O + Cl\u2082<br><br>oksidator = MnO\u2082<br>reduktor = HCl<br>hasil oksidasi = Cl\u2082<br>hasil reduksi = MnCl\u2082<br><br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jawaban-terlengkap-dapat-poin-tambahan-1-berapa-konsentrasi-l-514",
+            "question": "Jawaban terlengkap dapat poin tambahan!!!    1. Berapa konsentrasi larutan H\u2082SO\u2084 0,2 M jika diperlukan 45 mL asam sulfat untuk menitrasi 25 mL Larutan NaOH 0,6 M?\r\n2. Jika metil oranye digunakan sebagai indikator untuk titrasi 20 mL HCl 0.1 M dengan NaOH 0,100 M, berapa mililiter sebelum titik ekuivalen dicapai warna indikator berubah?\r\n3. Sebanyak 50 mL suatu sampel cuka mengandung asam asetat diencerkan hingga 250 mL dalam suatu labu ukur. Untuk menetralkan 20 mL larutan tersebut diperlukan 28,1\u00a0 mL larutan NaOH 0,136 M. Berapa molaritas cuka dalam sampel?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1. Va x Ma x val = Vb x Mb x val<br>\u00a0 \u00a0 45 x Ma x 2 \u00a0 = \u00a025 x 0,6 x 1<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ma \u00a0 = \u00a00,167 M<br><br>2. karena metil oranye memiliki trayek pH 3,1\u00a0-\u00a04,8 sehingga tidak bisa menjadi indikator &gt; 4,8 (tidak tampak titik ekuivalennya)<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-senyawa-dianalisis-menghasilkan-komposisi-62079-c-10-34-100",
+            "question": "suatu senyawa dianalisis menghasilkan komposisi 62,079% C, 10, 34% H, 27,59% O. jika 1,45 gram senyawa trsbut diuapkan pada suhu 8o derajat celcius dan tekanan 37cmhg ternyata volumenya 743ml. rumus molekul senyawa nya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>Kelas\u00a0 \u00a0 \u00a0 \u00a0 \u00a0: X</strong><br><strong>Pelajaran\u00a0 \u00a0: Kimia</strong><br><strong>Kategori\u00a0 \u00a0 \u00a0: Hitungan Kimia (Stoikiometri)</strong><br><strong>Kata Kunci : senyawa, hidrokarbon, perbandingan, tekanan, umum, rumus, empiris, molekul, asam, alkanoat, karboksilat</strong><br><br><strong>Kode : 10.7.7 [</strong><span><strong>Kelas 10 Kimia Bab 7 Stoikiometri]</strong><br><br><u><em>Diketahui</em></u><br>Komposisi C : H : O = 62,079% : 10,34% : 27,59%<br>Massa senyawa = 1,45 gram<br>Tekanan p = 37 cmHg<br>Volum V = 743 ml = 0,743 liter<br>Suhu T = 80</span>\u00b0C<br><br><u><em>Ditanya</em></u><br>(a). Massa molekul relatif (Mr)<br>(b). Rumus empiris<br>(c). Rumus molekul<br><br><u><em>Penyelesaian</em></u><br><br><strong>Step-1</strong><br><strong>Mencari Mr</strong><br><br>Siapkan tekanan dalam satuan atm. 1 atm = 76 cmHg.<br>[tex]p =  37 \\ cmHg \\times \\frac{1 \\ atm}{76 \\ cmHg} =  \\frac{37}{76} \\ cmHg [/tex] atau 0,49 atm.<br>Siapkan suhu mutlak, T = 80 + 273 = 353K.<br><br>Gunakan rumus persamaan umum gas ideal.<br>[tex]pV = nRT[/tex]<br>Keterangan<br>n = jumlah mol, yakni massa per Mr<br>p = tekanan (atm)<br>V = volum (liter)<br>T = suhu mutlak (K)<br>R = tetapan gas umum 0,082<br><br>[tex]pV =  \\frac{massa}{Mr}RT [/tex]<br><br>Jadikan Mr sebagai subyek yang akan dicari.<br>[tex]Mr =  \\frac{massa \\times R \\times T}{pV} [/tex]<br><br>Masukkan data-data soal.<br>[tex]Mr =  \\frac{(1,45)(0,082)(353)}{(0,49)(0,743)}[/tex]<br><br><strong>Diperoleh Mr senyawa karbon tersebut sebesar 116,04 dibulatkan menjadi 116.</strong><br><br><strong>Step-2</strong><br><strong>Menentukan rumus empiris</strong><br>(Ar C = 12; H = 1; O = 16)<br><br>Komposisi C : H : O = 62,079% : 10,34% : 27,59%<br>Perbandingan banyak atom diperoleh dengan membaginya terhadap massa atom relatif (Ar) masing-masing unsur.<br>[tex]C : H : O =  \\frac{62,079}{12} :  \\frac{10,34}{1}  :  \\frac{27,59}{16}  [/tex]<br>C : H : O = 5,17 : 10,34 : 1,72\u00a0<br>Semua dibagi 1,72 sebagai bilangan terkecil.<br>C : H : O = 3 : 6 : 1 (dibulatkan)<br><br><strong>Jadi rumus empirisnya adalah C\u2083H\u2086O.</strong><br><br><strong>Step-3</strong><br><strong>Menentukan rumus molekul\u00a0</strong><br><br>[tex](C_3H_6O)_n = Mr[/tex]<br>[tex](3Ar C \\ + \\ 6ArH \\ + \\ ArO)n = Mr[/tex]<br>[tex][3(12) + 6(1) + 16].n = 116[/tex]<br>58n = 116<br>n = 2<br><br><strong>Sehingga rumus molekulnya adalah\u00a0[tex](C_3H_6O)_2[/tex] atau\u00a0[tex]C_6H_{12}O_2[/tex].</strong><br><strong>Mengikuti deret homolog\u00a0[tex]C_nH_{2n}O_2[/tex] dari asam alkanoat (asam karboksilat).</strong><br><br>__________________<br>Simak lebih lanjut di Brainly.co.id - https://brainly.co.id/tugas/13285810#readmore<br>Ingin mempelajari soal stoikiometri lainnya mengenai pereaksi pembatas dan perhitungan massa endapan dalam suatu reaksi kimia?<br>brainly.co.id/tugas/150723<br>Ingin mengulang berlatih penyetaraan reaksi? <br>brainly.co.id/tugas/24247",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dikenal-ada-4-persenyawaan-kloryang-berturut-turut-mengandung-kl-438",
+            "question": "dikenal ada 4 persenyawaan klor,yang berturut turut mengandung klor sebanyak 53,65%;49,10%;43,56%;27,84%. jelaskan perhitungan, dan apakah hukum kelipatan perbandingan dalton berlaku dalam senyawa ini...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawabannya pake picture aja yaa :)",
+                    "attachments": [
+                        "answer-attachments/dikenal-ada-4-persenyawaan-kloryang-berturut-turut-mengandung-kl-438-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "50-ml-nh3-01-m-ditambah-25-ml-hcl-01-m-kb-nh3-10-5-ph-larut-964",
+            "question": "50 ml NH3 0,1 M ditambah 25 ml HCl 0,1 M (Kb NH3 = 10^-5 ph larutan adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "\u00a0\u00a0 \u00a0  NH3\u00a0 +\u00a0 HCl\u00a0  &lt;panah&gt;\u00a0 NH3Cl\u00a0 +\u00a0 H2<br>m\u00a0 \u00a0 5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>t\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  2,5\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2,5<br>s\u00a0 \u00a0 \u00a0 2,5\u00a0 \u00a0 \u00a0  0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  2,5<br>sisa basa lemah dan garamnya= buffer<br>rumus buffer=<br>OH-=kb.mol basa lemah/garamnya <br>OH-=10^-5.2,5/2,5<br>OH-=10^-5<br>pOH=5<br>pH=14-5=9<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "question": "Diketahui barisan geometri 2 , 6 , 18 ,... jika suku terakhirnya 1458 , suku tengah barisan tersebut adalah suku ke..",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Pembahasan</h2><p>\u27aa <strong>Barisan bilangan</strong>, yaitu urutan dari bilangan-bilangan yang tersusun berdasarkan pada pola tertentu.</p><p>\u3164<strong><u>Barisan geometri</u> </strong>(barisan ukur) merupakan barisan yang hasil bagi setiap suku dengan suku sebelumnya tetap. Hasil bagi tersebut disebut dengan rasio (r). Berikut rumus-rumus yang akan digunakan dalam menyelesaikan kasus soal ini. </p><p>\u2666 <strong>Menentukan suku tengah barisan geometri</strong></p><p>[tex]\\red {\\boxed{ { \\sf U_t =  \\sqrt{a  \\times  U_n} }}}[/tex]</p><p>Keterangan:</p><ul><li>Ut = suku tengah</li><li>a = suku pertama</li><li>Un = suku terakhir</li></ul><p>\u2666 <strong>Menentukan rasio (r) </strong></p><p>[tex] \\blue {\\boxed{ { \\sf r =  \\frac{U_2}{U_1} =  \\frac{U_3}{U_2} =  \\frac{U_4}{U_3} ,...,  \\frac{U_n}{U_{n - 1}}}}}[/tex]</p><p>Keterangan:</p><ul><li>r = rasio</li><li>Un = suku ke-n</li><li>U1 = suku pertama</li><li>U2 = suku kedua</li><li>dst..... </li></ul><p>\u2666 <strong>Menentukan suku ke-n</strong></p><p>[tex] \\green {\\boxed{ { \\sf U_n = a {r}^{n - 1} }}}[/tex]</p><p>Keterangan:</p><ul><li>Un = suku ke-n</li><li>a = suku pertama</li><li>r = rasio</li></ul><p>\u2666 <strong>Menentukan letak suku tengah barisan geometri</strong></p><p>[tex] \\red {\\boxed{ { \\sf t = \\frac{1}{2}  \\: (n + 1) }}}[/tex]</p><p>Keterangan:</p><ul><li>t = posisi suku tengah</li><li>n = banyaknya suku</li></ul><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h2>Penyelesaian Soal</h2><p><strong><u>Diketahui</u></strong><strong><u>:</u></strong> </p><p>Barisan geometri 2, 6, 18, .. dan suku terakhirnya 1458</p><ul><li>U\u2081 = a = 2</li><li>U\u2082 = 6</li><li>Un = 1458  (suku terakhir)</li></ul><p><strong><u>Ditanya</u></strong><strong><u>:</u></strong></p><p>Suku tengah barisan tersebut adalah suku ke? </p><p><strong><u>Dijawab</u></strong><strong><u>:</u></strong></p><p><strong>\u203aMenentukan </strong><strong>rasio</strong><strong> </strong><strong>(</strong><strong>r</strong><strong>)</strong></p><p>[tex]\\displaystyle  \\sf r =  \\frac{U_2}{U_1}  = \\frac{6}{2} = 3[/tex]</p><p><strong>\u203aMenentukan suku </strong><strong>tengah</strong></p><p>[tex] \\sf U_t =  \\sqrt{a  \\times  U_n} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2  \\times  1458} [/tex]</p><p>[tex] \\sf U_t =  \\sqrt{2916} [/tex]</p><p>[tex] \\sf U_t = 54[/tex]</p><p><strong>\u203aMenentukan suku ke-n</strong></p><p>Yang ditanyakan berarti Ut = 54 terletak pada suku ke? Berarti terlebih dahulu kita harus mencari nilai n nya.</p><p>[tex] \\sf Un = a {r}^{n - 1} [/tex]</p><p>[tex] \\sf 1458 = 2(3{)}^{n - 1} [/tex]</p><p>[tex] \\displaystyle  \\sf \\frac{1458}{2}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf 729 =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  {3}^{6}  =  {3}^{n - 1} [/tex]</p><p>[tex] \\sf  \\:  \\:  6 =  n - 1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  6  +  1[/tex]</p><p>[tex] \\sf  \\:  \\:  n =  7[/tex]</p><p><strong>\u203a</strong><strong>Menentukan letak suku tengah</strong></p><p>Setelah itu, menentukan letak suku tengah barisan geometri. </p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (n + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (7 + 1) [/tex]</p><p>[tex] \\displaystyle \\sf t = \\frac{1}{2}  \\:  (8) [/tex]</p><p>[tex]\\displaystyle {\\boxed{ { \\sf t = 4}}}[/tex]</p><p>\u2756 Jadi, Ut = 54 terletak pada suku ke 4. </p><p><strong>\u3164\u3164\u3164</strong></p><h3><strong>Kesimpulan</strong><strong>:</strong></h3><p><strong>Suku tengah barisan tersebut adalah suku ke-4. </strong></p><p>\u3164\u3164\u3164</p><h3>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</h3><h3>Pelajari Lebih Lanjut:</h3><p>Mengenai materi tentang barisan dan deret geometri pada link di bawah ini. </p><ol><li>Menentukan nilai tengah dan letak suku tengah dari barisan geometri brainly.co.id/tugas/39988697</li><li>Menentukan suku tengah pada barisan geometri  brainly.co.id/tugas/6301435</li><li>Menentukan nilai suku tengah dari 11 suku pada barisan geometri brainly.co.id/tugas/31495198</li></ol><p>\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 </p><h3>\u00bb Detail Jawaban</h3><p><strong>Mapel\u3164\u3164 :</strong> Matematika</p><p><strong>Kelas \u3164\u3164 :</strong> XI SMA</p><p><strong>Materi\u3164\u3164:</strong> Bab 7 - Barisan dan Deret</p><p><strong>Kode kategorisasi :</strong> 11.2.7</p><p><strong>Kata kunci : </strong>barisan geometri, suku tengah</p><p>\u3164\u3164\u3164</p><p>#AyoSemangat! </p><p></p>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "diketahui-sin-x-cos-x-3-dan-tan-x-1-tentukanlah-nilai-sin-182",
+            "question": "Diketahui sin x + cos x = 3 dan tan x = 1. tentukanlah nilai sin x dan cos x!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tan x = 1<br>depan /samping = 1/1<br>jadi , <br><strong>depan = 1</strong><br><strong>samping = 1</strong> otomatis,<br><strong>miring = 1\u221a2</strong> atau \u221a2<br><br>jadi, <br><strong>sin x = de/mi = 1/\u221a2 = 1/2 \u221a2</strong><br><strong>cos x = sa/mi = 1/\u221a2 = 1/2 \u221a2</strong><br>\u00a0semoga membantu,,<br>dan semoga tidak salah,,<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "sin x + cos x = 3 =&gt; cos x = 3 - sin x<br><br>tan x = 1<br>[tex] \\frac{sin x}{cos x} [/tex] = 1<br>[tex] \\frac{sin x}{3 - sin x} [/tex] = 1<br>sin x = 3 - sin x<br>2 sin x = 3<br>sin x = [tex] \\frac{3}{2} [/tex]<br><br>cos x = 3 - sin x<br>cos x = 3 - [tex] \\frac{3}{2} [/tex]<br>cos x = [tex] \\frac{3}{2} [/tex]<br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "untuk-memeriksa-sebuah-barisan-merupakan-barisan-geometri-apakah-349",
+            "question": "untuk memeriksa sebuah barisan merupakan barisan geometri apakah cukup hanya dengan menentukan rasio dua suku berurutan? jelaskan dengan menggunakan contoh",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "cara menentukan rasio bisa dengan cara lain, seperti :<br>misalkan U1= 2, U3 = 18 <br>[tex] =    \\sqrt{\\frac{ U_{3}}{U_{1}} }  \\\\   =   \\sqrt{\\frac{{18}}{2} }  \\\\  =\\sqrt{9}  \\\\ =3[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-bola-dijatuhkan-tegak-lurus-dari-ketinggian-4m-dan-setiap-962",
+            "question": "sebuah bola dijatuhkan tegak lurus dari ketinggian 4m dan setiap kali memantul tingginya 3/4 tinggi semula.Tentukan panjang lintasan yang dilalui bola sampai berhenti ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{b + a}{b - a} . 4 =  \\frac{4 + 3}{4 - 3} . 4 =  \\frac{7}{1} . 4 = 28 m[/tex]frac{4 + 3}{4 - 3} \u00d7 4\u00a0=[/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "akar-3-akar-5-4-akar-3-3-akar-5-187",
+            "question": "Akar 3 + akar 5 \u00f7 4 akar 3 - 3 akar 5 = ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Bentuk Akar<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Diketahui\u00a0<br>\u221a3 +\u00a0\u221a5 : 4\u221a3 - 3\u221a5. <br>Soal belum lengkap. Kemungkinan soal yang ditanyakan tentang merasionalkan bentuk akar.\u00a0<br>Mari kita selesaikan.<br><br>[tex] \\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}\\\\=\\frac{ \\sqrt{3}+ \\sqrt{5}}{4 \\sqrt{3}-3 \\sqrt{5}}. \\frac{4 \\sqrt{3}+3 \\sqrt{5}}{4 \\sqrt{3}+3 \\sqrt{5}}\\\\= \\frac{4.3+3 \\sqrt{15}+4 \\sqrt{15}+3.5}{16.3-9.5}\\\\= \\frac{12+7 \\sqrt{15}+15}{48-45}\\\\= \\frac{27+7 \\sqrt{15}}{3}     [/tex]<br><br>Semangat!",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866",
+            "question": "Agar fungsi f(x) = (m + 3)x kuadrat + 2mx + (m+1) definit positif, batas-batas nilai m yang memenuhi adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori Soal : Matematika - Fungsi Kuadrat<br>Kelas : X (1 SMA)<br>Pembahasan :<br>Suatu fungsi kuadrat tidak memotong sumbu x dan selalu positif untuk setiap x (definit positif) syaratnya D &lt; 0 dan a &gt; 0.<br><br>Mari kita lihat soal tersebut.<br>Diketahui fungsi kuadrat : f(x) = (m + 3)x\u00b2 + 2mx + (m + 1).<br>a = m + 3, b = 2m, dan c = m + 1<br>syarat definit positif, yaitu :<br>1. a &gt; 0<br>\u21d4 m + 3 &gt; 0<br>\u21d4 m &gt; -3<br>2. D &lt; 0<br>\u21d4 b\u00b2 - 4ac &lt; 0<br>\u21d4 (2m)\u00b2 - 4.(m + 3).(m + 1) &lt; 0<br>\u21d4 4m\u00b2 - 4.(m\u00b2 + 3m + m + 3) &lt; 0<br>\u21d4 4m\u00b2 - 4m\u00b2 - 12m - 4m - 12 &lt; 0<br>\u21d4 -16m - 12 &lt; 0<br>\u21d4 -16m &lt; 12<br>\u21d4 m &gt; -12/16<br>\u21d4 m &gt; -3/4<br><br>Perhatikan gambar terlampir.<br>Jadi, batas-batas nilai m yang memenuhi fungsi kuadrat tersebut adalah m &gt; -3/4.<br><br>Semangat!",
+                    "attachments": [
+                        "answer-attachments/agar-fungsi-fx-m-3x-kuadrat-2mx-m1-definit-positif-866-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-tiga-bilangan-barisan-aritmatika-adalah-45-jika-suku-kedu-114",
+            "question": "jumlah tiga bilangan barisan aritmatika adalah 45, jika suku kedua dikurangi 1 dan suku ketiga di tambah 5 maka, barisan tersebut menjadi barisan geometri, rasio barisan geometri tersebut adalah ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Anggap suku suku itu adalah\u00a0<br>suku 1 = a-b<br>suku 2 = a<br>suku 3 = a+b<br>dan jumlahnya adalah 45<br><br>maka didapatkan : (a-b) + a +(a+b) = 45<br>b habis dan tersisa 3a = 45, maka a=15.<br><br>maka baris geometrinya menjadi 15-b + 15 + 15+b dan ketentuan soalnya adalah suku 2 dikurang 1 dan suku 3 ditambah 5 maka menjadi:<br>15-b + 14 + 20+b\u00a0<br><br>untuk mencari rasio, kita cari dulu kan biasanya b itu nah b itu didapetin dari cara silang kita yaitu:<br><br>suku2/suku1 = suku3/suku2 (rumus umumnya)<br>hasil kali silangnya dapet kan tuh -b^2 - 5b + 300 = 196 (\u00a0^\u00a0= kudarat ya ahaha)<br>kita turunin lagi tuh jadinya -b^2 - 5b + 104 atau sama juga b^2 + 5b - 104 biar ga bingung negatif dipangkat b^2 nya.<br><br>dapet kan tuh (b-8) (b+13) maka b bisa 8 atau -13<br><br>karna rasio, masukkan aja suku2/suku1<br>14\u00a0/\u00a015-b<br><br>*b nya kita ganti dengan 8 dan -13<br><br>hasilnya adalah untuk b = 8 rasionya 2<br>untuk b = -13 rasionya adalah 1/2<br><br>CMIIW ya hhe<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "yang-merupakan-pasangan-invers-dari-fungsi-fxx43-adalah-422",
+            "question": "Yang merupakan pasangan invers dari fungsi f(x)=x+4/3 adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) = (x + 4)/3<br>misal f(x) = y<br>y = (x + 4)/3<br>3y =x + 4<br>x = 3y - 4<br>[tex] f^{-1}(y) [/tex] = 3y - 4<br>[tex] f^{-1}(x) [/tex] = 3x - 4<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-rumus-rumus-skala-692",
+            "question": "Apa rumus-rumus skala?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jarak sebenarnya :jarak pada peta(SKALA)<br>Jarak sebenarnya:skala (JARAK PADA PETA)<br>Jarak pada peta\u00d7skala (JARAK SEBENARNYA)",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tentukan-besar-sudut-dari-13-sudut-lurus-682",
+            "question": "Tentukan besar sudut dari 1/3 sudut lurus\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/3 dikali 180 (sudut lurus) = 60 derajat<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "60 derajat<br>maaf kalau salah ..<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

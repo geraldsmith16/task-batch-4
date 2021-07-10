@@ -1,0 +1,142 @@
+{
+    "question": "Sebuah balok mempunyai panjang dan tinggi masing masing 15cm dan 10cm.jika panjang diagonal alas balok 17cm,luas permukaan balok adalah...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "P = 15\u00a0<br>T = 10\u00a0<br>Diagonal = 17\u00a0<br>L = 289 - 225 = 64\u00a0<br>akar dari 64 = 8<br>L.Permukaan balok = 2{(pxl)+(pxt)+(lxt)}<br>\u00a0 \u00a0 = 2 {(15x8)+(15x10)+(8x10)}<br>\u00a0 \u00a0 = 2(120+150+80)<br>\u00a0 \u00a0 = 2x350<br>\u00a0 \u00a0 = 700",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "putri-akan-membuat-nasi-tumpeng-berbentuk-kerucut-yang-permukaann-372",
+            "question": "putri akan membuat nasi tumpeng berbentuk kerucut yang permukaannya (selimut) akan ditutup penuh dengan hiasan dari makanan. jika diameter tumpeng 28 cm dan tinggi 48 cm serta (phi : 22/7), luas tumpeng yang akan dihias makanan adalah....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>d = 28 cm<br>r = 14 cm<br>t = 48 cm<br><br>Luas tumpeng yang akan dihias = phi x r x s<br><br>S =\u00a0\u221a14\u00b2 + 48\u00b2<br>\u00a0 \u00a0=\u221a196 + 2304 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(menggunakan konsep phytagoras)<br>\u00a0 \u00a0=\u00a050\u00a0<br><br>Luas tumpeng yang akan dihias = phi x r x\u00a0s\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0<u>\u00a022\u00a0</u> x 14 x 50<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a07<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2200 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-lingkaran-masing-masing-berpusat-di-titik-o-dan-p-dengan-panj-530",
+            "question": "Dua lingkaran masing masing berpusat di titik O dan P dengan panjang jari-jari 10cm dan 6cm .Jika jarak kedua titik pusat lingkaran adalah 34cm, tentukan garis singgung AB    Mhon dengan cara ,Trims~",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "AB =\u00a0\u221as\u00b2 - (R + r)\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a34\u00b2 - (10 + 6)\u00b2<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a1156 - 256<br>\u00a0 \u00a0 \u00a0=\u00a0\u221a900<br>\u00a0 \u00a0 \u00a0= 30 cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex]l =  \\sqrt{p^2 - (R-r)^2}  \\\\ l = \\sqrt{34^2 -(10-6)^2}  \\\\  l =  \\sqrt{1156-16}  \\\\ l = \\sqrt{1140} [/tex]",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "persamaan-paling-sederhana-yang-ekivalen-dengan-persamaan-x-28-x-183",
+            "question": "Persamaan paling sederhana yang ekivalen dengan persamaan x-2=8-x adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "x -2 = 8-x<br>x + x = 8 + 2<br>2x = 10<br>x = 5",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>Persamaan<br>x-2=8-x<br>x + x = 8 + 2<br>2 x = 10<br>\u00a0 \u00a0x = 5</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1000001-pangkat-2-999999-pangkat-2-906",
+            "question": "1000001 pangkat 2 - 999999 pangkat 2 =",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<strong>a\u00b2 - b\u00b2 = (a+b)(a-b)</strong><br><br>maka<br>1.000.001\u00b2 - 999.999\u00b2 <br>= (1.000.001 + 999.999) (1.000.001 - 999.999) <br>= (2.000.000) (2) <br><u>= 4.000.000</u><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-3-karung-beras-dengan-harga-seluruhnya-r-572",
+            "question": "Seorang pedagang membeli 3 karung beras dengan harga seluruhnya Rp.875.000,00 . setiap karung tertulis bruto 40kg dan tara 2,5% . beras tersebut dijual dengan harga Rp.8.000,00 per kg dan karungnya dijual Rp.1.500,00 per buah . tentukan keuntungan pedagang tersebut.    \u00a0\u00a0 \u00a0 Bruto = neto + tara \r\n\u00a0\u00a0 \u00a0 Neto\u00a0 = Bruto - tara \r\n\u00a0\u00a0 \u00a0 Tara\u00a0\u00a0 = Bruto - neto\r\n\r\nBruto = berat barang dan kemasan \r\nTara\u00a0\u00a0 = barat kemasan \r\nneto\u00a0\u00a0 = berat barang \r\n\r\n\u00a0\u00a0 toloong dijawabbb yaaaa,,,, pleaseeeeeeee.......",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "tara=2,5/100 x 40 = 1 kg tiap karung<br>netto=40kg-1kg=39kg \u00a0tiap karung<br>harga jual beras 3 karung\u00a0= (39kgx3) x 8000 =117kg x 8000=936000<br>harga jual 3\u00a0karung = (1kgx3) x 1500 =3kg x 1500 = 4500<br>jumlah harga beras dan karungnya= 936000+4500=940500<br>untung=harga jual - harga beli = 940500-875000=65500<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keliling-sebuah-lapangan-berbentuk-lingkaran-110-meterjari2-lap-636",
+            "question": "Keliling sebuah lapangan berbentuk lingkaran 110 meter.jari2 lap. tersebut adalah.. ?? m",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = 2\u00d7\u03c0\u00d7r<br>110 = 2\u00d722/7\u00d7r<br>110 = 44r/7<br>r = 770/44<br>r = 17,5 m<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "L =\u00a0\u03c02r<br>110 = 22/7 X 2r<br>110 X 7 = 22 X 2r<br>770 = 44r<br>r\u00a0= 770/44<br>r =17,5 m",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-20-ikat-sayuran-dengan-harga-rp1500-pe-554",
+            "question": "seorang pedagang membeli 20 ikat sayuran dengan harga Rp.1.500 per 5 ikat .kemudian sayuran itu ia jual dengan harga Rp.1.500 per 4 Ikat ,maka pedagang sayur tersebut akan mengalami... a.untung 20%\u00a0 b.Rugi 20% c.untung 25% d.Rugi 25%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pedagang mendapat keuntungan 1/5 *100% yaitu 20%",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pembelian= Rp 6.000  |  Penjualan= 7.500  |  Keuntungan=7500-6000=1500  |  1500/6000*100%=25%  |  Kalau salah mohon koreksinya^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-busur-lingkaran-di-depan-sudut-60derajat-adalah-20cm-kel-932",
+            "question": "Panjang busur lingkaran di depan sudut 60derajat adalah 20cm. keliling lingkaran itu adalah....cm    jika luas lingkaran 616 cm2 sedang luas juring AOB adalah 462 cm2, maka besar sudut pusat AOB adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1) 60 derajat/360 derajat = 20 cm; keliling= 6 x 20 cm = 120 cm<br>2) sudut AOB = 616/462 = 1/3 = 360/3 = 120 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pak-rio-menyimpan-uangnya-di-bank-pada-awal-bulan-januari-2011-se-590",
+            "question": "Pak rio menyimpan uangnya di bank pada awal bulan januari 2011 sebesar Rp.4000000.Pada akhir bulan Desember 2011 Pak Rio mengambil uangnya yang sudah berjumblah Rp.4800000.Selama setahun tersebut persentase bunga yang diberikan bank sebesar . . .",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "[tex] \\frac{80.000}{400.000}[/tex]\u00a0\u00a0x 100 % = 20 %",
+                    "attachments": []
+                },
+                {
+                    "answer": "4/8=0.2=2/10=20/100=20%",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pecahan-yang-terletak-diantara-pecahan-56-dan-67-adalah-515",
+            "question": "Pecahan yang terletak diantara pecahan 5/6 dan 6/7 adalah ??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "5/6 dan 6/7 harus disamakan terlebih dahulu.,yaitu dengan cara mengalikan penyebutnya. 6 x 7 didapatlah 42. Ubah pecahan 5/6 dan 6/7 menjadi pecahan yg berpenyebut 42. 5/6 = 35/42 dan 6/7 = 36/42. kalikan kedua pecahan tersebut dengan 2, menjadi: 70/84 dan 72/84. Pecahan diantara keduanya? <br>71/84<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

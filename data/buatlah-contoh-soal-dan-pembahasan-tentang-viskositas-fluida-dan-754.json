@@ -1,0 +1,152 @@
+{
+    "question": "Buatlah contoh soal dan pembahasan tentang viskositas fluida dan hukum stokes!",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<strong>(A). Soal tentang mencari koefisien viskositas</strong><br><strong></strong><br>Sebuah bola yang massa jenisnya 6,36 gram/cm\u00b3 dan berdiameter 20 mm jatuh ke dalam\u00a0cairan\u00a0pelumas\u00a0yang massa jenisnya 5,10 gram/cm\u00b3. Jika kecepatan terminal bola mencapai 0,2 m/s, dan g = 10 m/s\u00b2, tentukan koefisien viskositas cairan pelumas tersebut.<br><br><em>Diketahui:</em><br>\u03c1 bola = 6,36 gram/cm\u00b3 = 6360 kg/m\u00b3<br>\u03c1 fluida = 5,10 gram/cm\u00b3 = 5100 kg/m\u00b3<br>d bola = 20 mm \u21d2 R = 10 mm = 10\u207b\u00b2 m<br>vt bola = 0,2 m/s<br><br><em>Ditanya:</em><br>koefisien viskositas fluida \u03b7<br><br><em>Penyelesaian:</em><br><em></em><br><strong>\u21d4 Kecepatan terminal vt = [2R\u00b2g.(\u03c1b - \u03c1f)] / 9\u03b7</strong><br><br>\u21d4 Koefisien viskositas \u03b7 = [2R\u00b2g.(\u03c1b - \u03c1f)] / 9.vt<br><br>\u21d4 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = [2.(10\u207b\u00b2)\u00b2.(10).(6360 - 5100)] / [9 x 0,2]<br><br>\u21d4\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 140 x 10\u207b\u00b2 Pa.s<br><br><strong>\u2234 Koefisien viskositas\u00a0 sebesar 140 x 10\u207b\u00b2 Pa.s</strong><br><br><strong>(B). Soal Hukum Stokes</strong><br><br>Sebuah bola logam berdiameter 200 mm jatuh ke dalam cairan gliserin yang memiliki koefisien viskositas 1,5 Pa.s sehingga memiliki kecepatan 0,2 m/s. Tentukan gaya gesekan Stokes antara bola dan gliserin.<br><br><em>Diketahui:</em><br>d = 200 mm = 0,2 m<em> </em>\u21d2 R = 0,1 m<br>\u03b7 = 1,25 Pa. s<br>v = 0,2 m/s<br><br><em>Ditanya:</em><br>Gaya gesekan Stokes<br><br><em>Penyelesaian:</em><br><br><strong>\u21d4 Gaya gesekan Stokes\u00a0F = 6\u03c0\u03b7Rv</strong><br><strong></strong><br>\u21d4\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 6 x 3,14 x 1,25 x 0,1 x 0,2<br><br>\u21d4\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 = 0,471 N<br><br><strong>\u2234 Gaya gesekan Stokes sebesar 0,471 N</strong><br><strong></strong><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476",
+            "question": "Perhatikan rangkaian listrik pada gambar dibawah. Berapa kuat arus yang mengalir pada rangkaian tersebut\u00a0",
+            "attachments": [
+                "question-attachments/perhatikan-rangkaian-listrik-pada-gambar-dibawah-berapa-kuat-aru-476-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "R2 nya berapa?\u00a0<br>Cari kuat arus itu rumusnya\u00a0<br>I = V/R",
+                    "attachments": []
+                },
+                {
+                    "answer": "Soal ini merupakan penerapan hukum II kirchof, buat loop dengan arah terserah, lihat sumber tegangan, kalau kutub yang pertama dilewati loop sama, maka jumlahkan, apabila beda maka dikurangkan. lalu bagi dengan jumlah bambatan total.\u00a0<br>[tex]I = \\frac{E_2-E_1}{R_1+R_2+R_3} = \\frac{12-8}{3+5+2}= \\frac{4}{10} = 0.4 A[/tex]\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875",
+            "question": "Tolong dikasi caranya juga ya , gambar ada dibawah biar lebii j3las :)    Benda pada gambar di bawah ini memiliki berat 100 N digantung dalam keadaan diam . Maka besar tegangan tali T1 dan T2 berturut turut adalah ?\r\n( T1 berada pada kiri dan membentuk sudut 53derajat dan T2 berada pada kanan dan membentuk sudut 37drajat )",
+            "attachments": [
+                "question-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "<p><em><strong>Konsep Dasar </strong></em></p><p>Kesetimbangan merupakan salah satu hal penting dalam kehidupan keseharian. Dalam bidang teknik kontruksi bangunan pada kontruksi gedung, jembatan, atap sebuah stadion, dan struktur bangunan lain sangat bergantung pada kesetimbangan. Begitu pula pada mesin biologis tubuh makhluk hidup, misalnya kesetimbangan pada tulang, otot dan urat. Kesetimbangan yang dimiliki oleh setiap benda atau sistem tersebut sangat erat hubungannya dengan gaya-gaya dan momen-momennya yang bekerja pada benda tersebut.</p><p>Baik benda itu dalam keadaan diam maupun bergerak, keduanya dapat saja bekerja gaya luar baik itu jumlah gayanya satu maupun banyak. Gaya luar tersebut mengakibatkan dua dampak pada benda. </p><p><strong>PERTAMA</strong>, dengan tidak memperhatikan titik tangkap gaya yang bekerja pada benda maka benda akan bergerak translasi atau linier atau lurus.</p><p><strong>KEDUA</strong>, dengan memperhatikan titik tangkap gaya yang bekerja pada benda maka benda akan bergerak rotasi.</p><p>Jadi sebuah benda tegar dikatakan dalam kesetimbangan apabila benda itu tidak mengalami perubahan kecepatan gerak transalasi maupun kecepatan gerak rotasi. Artinya, benda itu tidak mengalami percepatan translasi (a = 0) maupun percepatan sudut (\u03b1 = 0). </p><p>Berdasarkan hukum kedua Newton, baik untuk gerak translasi maupun rotasi, benda tegar berada dalam keadaan kesetimbangan manakala resultan gaya dan resultan momen gaya (torsi) bernilai NOL. Secara matematis dituliskan sebagai berikut :</p><p><strong>\u03a3 F = 0 dan \u03a3 \u03c4 = 0</strong></p><p></p><p>Penting untuk dicatat, benda tegar yang berada dalam keadaan setimbang <strong>TIDAK HARUS DIAM</strong>. Ia boleh bergerak, tetapi dengan kecepatan translasi (V = tetap) dan kecepatan sudut putarnya juga harus TETAP (\u03c9 = tetap), nah keadaan setimbang seperti ini disebut dengan istilah <strong>Kesetimbangan Dinamis</strong>. </p><p></p><p><strong><em>SOAL</em></strong> </p><p>Benda pada gambar di bawah memiliki berat 100 N digantung dalam keadaan diam. Maka besar tegangan tali T1 dan T2 berturut - turut adalah ... </p><p><em><strong>Penyelesaian </strong></em></p><p></p><p><strong>Step 1</strong></p><p>sudut apit antara T1 dan bidang atas adalah 53\u00b0, kita uraikan atau proyeksikan ke arah sumbu x dan sumbu y sehingga menjadi :</p><p>T1x = - T1. cos 53\u00b0 = - T1. 3/5  [tanda negatif artinya arak ke kiri ke sumbu x negatif]</p><p>dan </p><p>T1y = T1. sin 53\u00b0 = T1. 4/5 [tanda positif artinya arah ke atas ke sumbu y positif]</p><p></p><p><strong>Step 2</strong></p><p>sudut apit antara T2 dan bidang atas adalah 37\u00b0, kita uraikan atau proyeksikan ke arah sumbu x dan sumbu y sehingga menjadi :</p><p>T2x =  T2. cos 37\u00b0 =  T2. 4/5  [tanda positif artinya arak ke kanan ke sumbu x positif]</p><p>dan </p><p>T2y = T2. sin 37\u00b0 = T2. 3/5 [tanda positif artinya arah ke atas ke sumbu y positif]</p><p></p><p><strong>Step 3</strong></p><p>Gunakan konsep :</p><p>\u2211 Fx = 0</p><p>T1x + T2x = 0</p><p>- T1. 3/5 + T2. 4/5 = 0</p><p>- 3.T1 + 4.T2 = 0 ....... Pers (1)</p><p></p><p><strong>Step 4</strong></p><p>Gunakan konsep :</p><p>\u2211 Fy = 0</p><p>T1y + T2y - w = 0 .        </p><p>T1. 4/5 + T2. 3/5 - 100 = 0      [semua ruas dikalikan 5]</p><p>4.T1 + 3.T2 - 500 = 0</p><p>4.T1 + 3.T2 = 500 ....... Pers (2)</p><p></p><p><strong>Step 5</strong></p><p>Eliminasi persamaan (1) dan (2)</p><p>- 3.T1 + 4.T2 = 0 .     |x3|  \u2192 - 9.T1 + 12.T2 = 0</p><p> 4.T1 + 3.T2  = 500 . |x4| \u2192   16.T1 + 12.T2 = 2000</p><p>------------------------------------------------------------------------ selesih</p><p>                                       \u2192 - 25.T1 + 0 = - 2000</p><p>                                       \u2192          25.T1 = 2000</p><p>maka T1 = 2000 / 25 = 80 N</p><p></p><p><strong>Step 6</strong></p><p>masukkan T1 = 80 N ke persamaan (1) </p><p>- 3.T1 + 4.T2 = 0</p><p>- 3. 80 + 4.T2 = 0</p><p>- 240 + 4.T2 = 0</p><p>4.T2 = 240</p><p>T2 = 240 / 4</p><p>T2 = 60 N</p><p></p><p><strong>Jadi besar tegangan Tali T1 dan T2 berturut - turut adalah 80 N dan 60 N</strong></p><p>Jawaban : A</p><p></p><p></p><p></p><p><em><strong>CARA ATURAN SINUS</strong></em></p><p>Buat tiga arah panah gaya yang bertitik tangkap ditengah sebagai titik partikelnya, </p><p>T1 / sin A = T2 / sin B = w / sin C</p><p>Dimana :</p><p>* A adalah sudut apit antara garis T2 dan w yaitu A = 90\u00b0 + 37\u00b0 = 127\u00b0</p><p>** B adalah sudut apit antara garis T1 dan w yaitu B = 90\u00b0 + 53\u00b0 = 143\u00b0</p><p>*** C adalah sudut apit antara garis T1 dan T2 yaitu C = 90\u00b0</p><p></p><p><strong>Step 1</strong></p><p>Cari T1 = __?</p><p>T1 / sin A = w / sin C</p><p>T1 / sin 127\u00b0 = 100 / sin 90\u00b0</p><p>T1 / sin 53\u00b0 = 100 / 1</p><p>T1 / (4/5) = 100</p><p>T1 = 100 x (4/5) </p><p><strong>T1 = 80 N</strong></p><p></p><p><strong>Step 2</strong></p><p>Cari T2 = __?</p><p>T2 / sin B = w / sin C</p><p>T2 / sin 143\u00b0 = 100 / sin 90\u00b0</p><p>T2 / sin 37\u00b0 = 100 / 1</p><p>T2 / (3/5) = 100</p><p>T2 = 100 x (3/5) </p><p><strong>T2 = 60 N</strong></p><p></p><p><strong>Jadi besar tegangan Tali T1 dan T2 berturut - turut adalah 80 N dan 60 N</strong></p><p>Jawaban : A</p><p></p><p>__________________________________________________________</p><p>Simak Soal :</p><p><strong>Syarat kesetimbangan benda tegar</strong>, https://brainly.co.id/tugas/3489</p><p>___________________________________________________________</p><p><strong>Kelas : 11 SMA</strong></p><p><strong>Pelajaran : FISIKA</strong></p><p><strong>Kategori : Dinamika Rotasi dan Kesetimbangan Benda Tegar</strong></p><p><strong>Kata Kunci : Kesetimbangan, Gaya tegangan Tali</strong></p><p><strong>Kode : 11.6.7 [Kelas 11 SMA FISIKA Bab 7 - Dinamikas Rotasi dan Kesetimbangan Benda Tegar]</strong></p><p></p>",
+                    "attachments": [
+                        "answer-attachments/tolong-dikasi-caranya-juga-ya-gambar-ada-dibawah-biar-lebii-j3l-875-1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "bejana-berhubungan-memiliki-luas-penampang-15-cm2-dan-500-cm2-ji-112",
+            "question": "Bejana berhubungan memiliki luas penampang 15    cm2 dan 500 cm2. Jika pada penampang kecil ditekan\r\ndengan gaya 10 N maka berapakah massa beban yang\r\ndapat diangkat pada penampang besar?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus dari bejana berhubungan bila diketahui luas penampang nya adalah\u00a0<br><br>[tex]P = \\frac{F}{A} [/tex]<br><br>P = tekanan\u00a0<br>F = Gaya<br>A = luas penampang\u00a0<br><br>Konsep dari bejana berhubungan adalah memiliki tekanan hidrostatis yang sama.<br><br>p1 = p2\u00a0<br>p1 =\u00a0[tex] \\frac{10}{15} = 0.6[/tex]<br><br>Maka gaya pada F2 adalah<br>p2 = F2 / A2\u00a0<br><br>0.6 = F2 / 500\u00a0<br>F2 = 0.6 * 500\u00a0<br>F2 = 300\u00a0<br><br>F2 = m.g\u00a0<br>300 = m.10<br>m = 30\u00a0<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "P1 = P2\u00a0<br>udah bandingkan aja dua duanya dapet deh :D\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "batang-panjangnya-1-m-bergerak-dengan-kecepatan-v-diamati-oleh-p-650",
+            "question": "batang panjangnya 1 m bergerak dengan kecepatan v. diamati oleh pengamat yang diam panjang batang menjadi 80 cm. bila c=kecepatan cahaya, maka kecepatan batang itu adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=80 cm&gt; 0.8 m<br>Lo = 1 m<br>L = Lo/y &gt; y= Lo/L &gt; y= 1/0.8 &gt; y= 5/4<br>dengan menggunakan rumus pitagoras maka V = 3/5c (0.6c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "berapakah-kenaikan-alkohol-dalam-sebuah-pipa-kapiler-berdiameter-258",
+            "question": "berapakah kenaikan alkohol dalam sebuah pipa kapiler berdiameter 0,07 cm jika tegangan permukaan sama dengan 0,023 n/m dan massa 0,8 g/cm3. asumsikan bahwa sudut kontaknya sama dengan nol !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Diketahui :<br>\u03b3 = 0,023 N/m\u00a0<br>\u03b8 = 0\u00ba\u00a0<br>\u03c1 = 0,8 g/cm\u00b3\u00a0\u21d2\u00a0800 N/m\u00b3\u00a0<br>r =\u00a0[tex] \\frac{0,07}{2} [/tex] =\u00a00,035 cm\u00a0\u21d2 0,00035 m<br>Ditanyakan :\u00a0h = .. ?\u00a0<br>Penyelesaian :<br><br>[tex]h= \\frac{\\gamma.Cos \\theta}{\\rho.g.r} [/tex]<br><br>[tex]h= \\frac{0,023*Cos 0}{800*10*0,00035} [/tex]<br><br>[tex]h= \\frac{0,023*1}{2,8} [/tex]<br><br>[tex]h= 8,2 . 10^{-3} [/tex] m \u00a0 ,\u00a0atau<br><br>h\u00a0=\u00a0<strong>0,82 cm</strong>\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-dimaksud-dengan-kohesi-dan-adhesi-400",
+            "question": "Apa yang dimaksud dengan kohesi dan adhesi \u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "kohesi adalah gaya tarik menarik antara partikel partikel yang sejenis. Kohesi dipengaruhi oleh kerapatan dan jarak antarpartikel dalam zat sedangkan adhesi adalah <span></span>gaya \ntarik menarik antara partikel partikel yang tidak sejenis, gaya adhesi \nakan mengakibatkan dua zat akan saling melekat bila dicampurkan.<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Kohesi adalah gaya tarik\u00a0antara<span>\u00a0molekul molekul zat yg sejenis.</span><br><span>contoh: gaya tarik antara molekul molekul\u00a0</span>air.<br><span>Adhesi adalah\u00a0gaya tarik menarik antara molekul molekul zat yg tidak sejenis\u00a0.</span><br><span>contoh:\u00a0 gaya tarik menarik antara molekul papan tulis dan molekul kapur dan gaya tarik menarik molekul\u00a0</span>pena<span>\u00a0dan molekul kertas</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tongkat-homogen-dengan-panjang-40-cm-bermassa-30-kg-pada-463",
+            "question": "Sebuah tongkat homogen dengan panjang 40 cm bermassa 30 kg. Pada salah satu ujung tongkat di beri beban, sedangkan ujung lainnya sebagai tumpuan. Jika F\u00a0= 280 N, maka momen gaya pada titik O adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Pembahasan\nGaya-gaya yang bekerja pada tongkat adalah F, berat dari benda 2 kg (20 N)dan jangan lupa berat dari tongkat itu sendiri 30 N (ambil di tengah batang), ubah jarak ke meter.\u00a0\n\nSigma T nol =F.dF -Wb.db - Wt.dt\nsigma T nol =280.0,05 - 20.0,04 -30.0,02\n                          =0 Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>F=mg<br>\u00a0 =2.10<br>\u00a0 =20 n<br></span>\u00a0T nol =F.dF -Wb.db - Wt.dt<br>T nol =280.0,05 - 20.0,04 -30.0,02 =0 Nm<br><span><br><br></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apa-yang-di-maksud-kohesi-beserta-contohnya-654",
+            "question": "Apa yang di maksud kohesi beserta contohnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaya tarik menarik antar molekul yang sama.<br>contoh = tarik menarik antar molekul air raksa,sehingga air raksa sulit dipisahkan<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "1. Kohesi adalah gaya tarik-menarik antar molekul yang sama.\n2. Kohesi adalah keserasian hubungan antara unsur yang satu dengan unsur yang lain sehingga tercipta pengertian yang apik dan koheren (Anton M. Moeliono, 1988:343).\nContohnya : \n- Air di atas daun talas\n- Air raksa yang dimasukkan ke dalam tabung reaksi kimia",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "agar-suatu-pegas-dapat-bertambah-panjang-sebesar-6-cm-diperlukan-961",
+            "question": "agar suatu pegas dapat bertambah panjang sebesar 6\u00a0cm diperlukan gaya sebesar 24\u00a0N. besar usaha yang dilakukan agar pegas bertambah panjang 24 cm adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Dik:\u0394l\u2081\u00a0 =6cm, F\u2081=24 N<br>\u00a0\u00a0 \u00a0\u00a0 \u0394l \u2082=24cm<br>Dit: F2=?<br>Jwb:\u00a0<u>\u0394l\u2081</u> = <u>F\u2081</u><br>\u00a0\u00a0 \u00a0 \u00a0\u00a0 \u0394l\u2082\u00a0 \u00a0  F\u2082<br>\u00a0\u00a0 \u00a0 \u00a0 <u>\u00a0 6</u> = <u>24</u><br>\u00a0\u00a0 \u00a0 \u00a0  24\u00a0 \u00a0  F\u2082<br>6F\u2082=24.24<br>6F\u2082=576<br>F\u2082=<u>576</u> = 96N<br>\u00a0\u00a0 \u00a0 \u00a0  6<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "24 x 24=576\n576/6=56\n\nsemoga benar ya.\nklo slh maaf",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "apakah-rumus-momen-gaya-526",
+            "question": "Apakah rumus momen gaya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>Besar momen gaya (t) adalah hasil kali gaya (F) dengan lengan momen (l). Rumusnya ini:<br></span>l: L kecil bukan i<br><br>t: F. l<br><br>Keterangan:<br><span>t\u00a0: Momen Gaya (Nm)<br></span><span>F: Gaya (N)<br></span><span>l : lengan momen (m)</span>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

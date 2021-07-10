@@ -1,0 +1,138 @@
+{
+    "question": "\u00a01.sebuah kereta api dari ke keadaan diam bergerak dari sebuah stasiun dan selama dari 10 s percepatanya 4m/s2.lalu kereta itu bergerak dg kecepatan konstan selama 30sekon. lalu di perlambat dengan\u00a0 8m/s.sampai berhenti di stasiun berikutnya .berapa jarak total yang di tempuhnya ? \u00a0 2. seorang penerjun berlari dg kecepatan 1,6m/s lalu terjun horizontal dari tebing vertikal dan mencapai air di bawah 3 sekon,berapa tinggi tebing dan seberapa jauh kaki tebih penerjun menyentuh air? \u00a0 3.sebuah peluru di tembakan gengan kecepatan awal 75 m/s dan sudut 30 di atas horizontal pada tempat latihan yang panjang, a,berapa tinggi maksimum yang di capai peluru b. waktu total di udara c. jarak horizontal total yang di tempuh d.kecepatan peluru 1,5 sekon setelah penembakan \u00a0 4.sebuah mobil yg masanya 1 ton meluncur dengan kecepatan tetap 54 m/jam.suatu saat mobil di rem dengn gaya 300 n gerak mobil selama di rem di anggap gerak lurus berubah beraturan,setelah beberapa sekon dan di mana mobil berhenti? \u00a0 5.sebuah benda di gantung pada sebuah kawat yang dapat memikul beban maksimum sebesar 15000 N.jika percepatan gravitasi 10m/s dan massa bendanya 1200 kg,berapa harga maksimum percepatan ke atas yang di berikan pada benda itu ? \u00a0  \u00a0",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "1. vo=0, a1= 4m/s\u00b2, t1= 10s,\u00a0 t2= 30 s, -a2=8m/s\u00b2<br>S1= vo.t + 1/2 a. t\u00b2<br>\u00a0\u00a0 = 0 + 1/2. 4. 10\u00b2<br>\u00a0\u00a0 = 200 m<br>V=a.t<br>\u00a0 = 4. 10<br>\u00a0 = 40 m/s<br>S2= v. t2<br>\u00a0\u00a0 = 40. 30<br>\u00a0\u00a0 = 1200 m<br>t3= V/a<br>\u00a0\u00a0 = 40/ 8<br>\u00a0\u00a0 = 5 s<br>S3= V.t - 1/2 a. t\u00b2<br>\u00a0\u00a0\u00a0 = 40. 5 s - 1/2. 8. 5\u00b2<br>\u00a0\u00a0 \u00a0 = 200 - 100<br>\u00a0\u00a0 \u00a0 = 100 m<br>S total = s1 + s2 + s3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 200 + 1200 + 100<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 1500 m= 1.5 km<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "notasi-ilmiah-dari-0001-389",
+            "question": "Notasi ilmiah dari 0,001?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "notasi ilmiah dari 0,001 =\u00a01 x 10 pangkat -3",
+                    "attachments": []
+                },
+                {
+                    "answer": "notasi ilmiah dari 0,001 = 10^-3",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "suatu-benda-bermassa-20-kg-massa-jenis-4000-kgm3-diikat-dengan-490",
+            "question": "Suatu benda bermassa 20 kg, massa jenis 4000 kg/m3, diikat dengan tali dan dimasukkan ke dalam bak yang berisi minyak (massa jenis minyak 800 kg/m3) hingga benda dalam keadaan tergantung (g=10m/s2). maka tegangan tali pada sistem ini adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "D1 : massa jenis benda= 4000 kg.m^3 \u00a0 \u00a0 \u00a0 \u00a0 m = 20kg<br>\u00a0 \u00a0 \u00a0 \u00a0massa jenis fluida= 800 kg/m^3 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0g = 10 m/s^2<br>D2 : T=..?<br>D3 : <br>V benda = m benda/massa jenis benda<br>V benda = 20/4000<br>V benda = 1/200 m^3<br>sigma F = 0<br>T + Fa = W<br>T + massa jenis fluida.volume benda.g = massa benda.g<br>T + 800.1/200.10 = 20.10<br>T + 40 = 200<br>T = 200-40<br>T = 160 N",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "1-jarak-fokus-sebuah-cermin-cekung-8-cm-tentukan-letak-perb-163",
+            "question": "1. \u00a0 \u00a0jarak fokus sebuah cermin cekung 8 cm tentukan letak perbesaran dan jarak \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 bayangan jika jarak benda sejauh 2o cm. \u00a0 2. \u00a0 sebuah benda terletak 30 cm di depan cermin dengan jarak fokus 15 cm. tentukan \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a. jarak bayangan \u00a0 \u00a0 \u00a0 \u00a0b. perbesaran bayangan \u00a0 \u00a0 \u00a0 \u00a0c. sifat sifat bayangan\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Untuk nomor 1 aja ya<br>1/8 = 1/20 + 1/s&#039;<br>1/s&#039; = 1/8 - 1/20<br>1/s&#039; = 5/40 - 2/40<br>s&#039; = 40/3 = <strong><em>13,3 cm</em></strong> <u>(pembuktiannya titik fokus berada di 8cm maka titik M berada di 16 cm sehingga benda berada di ruang 3, untuk cermin cekung titik O-F itu ruang 1, F-M ruang 2, M kebelakang ruang 3, dibelakang cermin ruang 4, rumus untuk letak benda dan perbesaran secara sederhana adalah ruang benda + ruang bayangan = 5, tadi benda ada di ruang 3, maka 3 + x = 5, maka x = 2, terbukti bahwa bayangan berada di ruang 2 karena jaraknya 13,3 cm)</u><br>Perbesaran s&#039;/s = 13,3/8 = <em><strong>1,6x</strong></em><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-benda-massanya-8kg-terletak-pada-lantai-mendatar-yang-lici-457",
+            "question": "sebuah benda massanya 8kg terletak pada lantai mendatar yang licin. benda dipengaruhi gaya mendatar ke\u00a0kanan F1\u00a0= 150 N, dan ke kiri F2 = 80 N. setelah bergerak 8 sekon, gaya F1 dihilangkan. kapan dan dimana gerak benda akan membalik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kategori: Fisika Bab Gaya<br><span>Kelas: X SMA\u00a0</span><br><br><span>Perhitungan dapat dilihat pada lampiran</span>",
+                    "attachments": [
+                        "answer-attachments/sebuah-benda-massanya-8kg-terletak-pada-lantai-mendatar-yang-lici-457-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-dengan-massa-800-kg-menabrak-pohon-yang-ada-dipinggi-192",
+            "question": "sebuah mobil dengan massa 800 kg menabrak pohon yang ada dipinggir jalan dengan kecepatan 72 km/jam hingga berhenti. hitung besarnya impuls yang terjadi !",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Impuls = perubahan momentum<br>I = perubahan (m.v)<br>I = m2v2 - m1v1<br>I = 800 x 0 - 800 x 20<br>I = 0 - 16.000<br>I = -16.000\u00a0Nm",
+                    "attachments": []
+                },
+                {
+                    "answer": "Besarnya impuls yang terjadi adalah -16000 Nm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "10-contoh-aplikasi-tekanan-dalam-kehidupan-sehari-hari-492",
+            "question": "10 contoh aplikasi tekanan dalam kehidupan sehari-hari?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "membentuk plastisin yang di tekan,.<br>memencet tombol<br>memijat seseorang<br>menusukan jarum di bantal<br>meloncat2 di kasur yang empuk<br>mencubit seseorang,..<br>menduduki sesuatu<br>memncet tombol hp<br>memeras sari buah<br>memukul seseorang<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "contoh-proses-termodinamika-dalam-kehidupan-sehari-hari-721",
+            "question": "Contoh proses termodinamika dalam kehidupan sehari-hari",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Contoh proses termodinamika dalam kehidupan sehari-hari adalahpanas",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-mobil-ambulans-yang-membunyikan-sirine-bergerak-dengan-laj-864",
+            "question": "Sebuah mobil ambulans yang membunyikan sirine bergerak dengan laju 90 km/jam-1 mendekati    seorang pendengar diam mendengar frekuensi bunyi sirine 1020\u00a0Hz. Bila kecepatan bunyi di udara 340 ms-1, maka frekuensi sirine ambulans adalah.....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Fp = 1020 Hz<br>V = 340 m/s<br>Vs = 90 km/jam --&gt; 25 m/s<br><br>Jadi, <br>Fp = [tex] \\frac{V}{V-Vs} [/tex]Fs<br>1020 = [tex] \\frac{340}{340-25} [/tex]Fs<br>Fs = 1020 / 1,08<br>= 944,4 Hz<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cek lampiran.\u00a0Semoga membantu :)",
+                    "attachments": [
+                        "answer-attachments/sebuah-mobil-ambulans-yang-membunyikan-sirine-bergerak-dengan-laj-864-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-batang-homogen-massa-4-kg-dan-panjangnya-120-cm-batang-ter-613",
+            "question": "sebuah batang homogen massa 4 kg dan panjangnya 120 cm batang tersebut diputar dengan sumbu putar terletak pada 40 cm dari salah satu ujungnya hitunglah momen inersia dari batang homogen itu",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gunakan teorema sumbu sejajar,\n\nI = Io + m r\u00b2\n\nI = (1/12)mL\u00b2 + m r\u00b2\n\nI = (1/12)(4)(1.2)\u00b2 + 4 (\u00bd * 1.2 - 0.4)\u00b2\n\nI = 0.64 kg m\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pejalan-kaki-melakukan-usaha-25-x-105-j-dalam-suatu-lat-302",
+            "question": "Seorang pejalan kaki melakukan usaha 2,5 x 10*5 J dalam suatu latihan rutin. Energi dalamnya berkurang 6,8 x 10*5 J. Berapa besar kalor yang dia serap atau keluarkan? (Anda harus menetapkan menyerep atau mengeluarkan)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Rumus Q serap dan Q lepas<br>Q1 - W (Q1-Q2)- Q2<br>Q1 = lingkungan ke sistem\u00a0j<br>W = usaha j<br>Q2 = sistem ke lingkungan j<br><br>menyerap<br>Q1 = 6,8x10^5 +\u00a02,5x10^<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 9,3 x 10^5 j<br><br>yang di keluarkan<br>Q2 = Q1-W<br>\u00a0 \u00a0 \u00a0 = 9,3x10^5 - 2,5^10^5<br>\u00a0 \u00a0 \u00a0 = 6,8x10^5 j",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "question": "dari sekelompok siswa, 35 siswa gemar bermain basket, 23 siswa gemar bermain voli, 9 siswa gemar bermain kedua cabang olah raga tersebut dan7 siswa tidak menyukai keduanya . berapa jumlah siswa dalam kelompok tersebut ? tentukan dalam himpunan matematika beserta diagram venn nya",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<p><strong>himpunan</strong> adalah kumpulan benda atau obyek yang memiliki definisi yang jelas atau dengan kata lain memiliki batasan-batasan yang jelas atau kumpulan benda ataupun obyek yang anggota\"nya dapat didefinisikan secara jelas , sehingga antara satu orang dengan yang lain tdk akan terjadi multi tafsir.</p><p><strong>Irisan Himpunan</strong></p><p>Irisan himpunan adalah anggota himpunan yang menjadi anggota himpunan satu sekaligus menjadi anggota himpunan yang lain </p><p>Irisan Himpunan dilambangkan dengan \u2229</p><p><strong>Gabungan Himpunan</strong></p><p>Gabungan himpunan adalah semua anggota atau obyek yang menjadi anggota satu dan anggota himpunan yang lain disebutkan jadi 1</p><p>Gabungan Himpunan dilambangkan dengan \u222a</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><h3>Pembahasan</h3><p>diketahui:</p><p>35 siswa gemar bermain basket ................................. n(A)</p><p>23 siswa gemar bermain voli ....................................... n(B)</p><p>9 siswa gemar bermain kedua cabang olah raga \u00a0. n(A\u2229B) </p><p>7 siswa tidak menyukai keduanya .............................. n(A\u222aB)&#039;</p><p>ditanya, berapa jumlah siswa dalam kelompok tersebut ? n(S)</p><p>jawab:</p><p>gunakan rumus</p><p>n(S) = n(A) + n(B) - n(A\u2229B) + n(A\u222aB)&#039;</p><p> \u00a0 \u00a0 \u00a0 = 35 + 23 - 9 + 7</p><p> \u00a0 \u00a0 \u00a0 = 56 siswa</p><h3>Pelajari Lebih lanjut</h3><p>tentang himpunan dapat juga disimak di</p><p>brainly.co.id/tugas/4938280</p><p>brainly.co.id/tugas/1477355</p><p>brainly.co.id/tugas/697707</p><p>perbedaan himpunan dan kumpulan dapat disimak di</p><p>brainly.co.id/tugas/11791002</p><p>brainly.co.id/tugas/693631</p><p>brainly.co.id/tugas/3635184</p><p>brainly.co.id/tugas/101649</p><h3>==============================================</h3><h3>Detail Jawaban</h3><p><strong>kelas</strong> : 7</p><p><strong>mapel</strong> : matematika</p><p><strong>kategori</strong> : himpunan</p><p><strong>kata kunci </strong>; irisan dan gabungan</p><p><strong>kode</strong> : 7.2.1</p><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "mohon-dibantu-sebuah-atap-rumah-yang-berbentuk-limas-mempunyai-al-667",
+            "question": "Mohon dibantu    sebuah atap rumah yang berbentuk limas mempunyai alas berbentuk persegi dengan panjang sisi 8 m dan tinggi 3 m. atap tersebut akan ditutupi genteng berukuran 40 cm x 20 cm. banyak genteng yang diperlukan adalah ....\r\nA. 2.000 buah\r\nB. 1.600 buah\r\nC. 1.000 buah\r\nD. 800 buah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=8m<br>t=3m<br>T.limas=akar3kuadrat+4kuadrat<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar25=5m<br>luas permukaan atap =4*luas segitiga<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =4*1/2*8*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=4*4*5<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =80m persegi<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=800.000cmpersegi<br>banyak genteng yg diperlukan=<br>=seluruh\u00a0luas atap genteng(4luas segitiga)/luas genteng<br>=800.000/40*20<br>=800.000/800<br>=1000<br>jadi jumlah genteng yg dibutuhkan 1000 buah\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "panjang bagian miring<br>=\u00a0[tex] \\sqrt{4^2 + 3^2}[/tex]<br>= 5 m<br>luas bagian atas<br>= 4\u00a0* 1/2 * 5 * 8<br>= 80 m^2<br>luas genteng<br>= 40 * 20<br>=800 cm^2<br>=0,08 m^2<br>total genteng yangdiperlukan<br>= 80 : 0,08<br>= 1000 buah genteng",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-tunai-sebuah-televisi-rp230000000-bu-tuti-membeli-telev-142",
+            "question": "Harga tunai sebuah televisi Rp2.300.000,00. Bu Tuti membeli televisi tersebut dengan cara mencicil tanpa uang muka. Bunga yang dikenakan 5% per bulan. Tentukan besar cicilan yang harus dibayae Bu Tuti jika lamanya mencicil 5 bulan!    Mohon dapat membantu dan caranya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Bunga = 2.300.000 x 5%<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 115.000<br><br>Cicilan yang \u00a0dibayar = 2.300.000 + (115.000 x 5bulan)<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2.300.000 + 575.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 2.875.000<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "keuntungan-atas-penjualan-sebuah-barang-adalah-x-dari-modal-jik-947",
+            "question": "Keuntungan atas penjualan sebuah barang adalah x% dari modal. Jika penjualan adalah b11 kali laba tersebut. Tentukanlah perbandingan antara P : M : L,dimana P= penjualan, M= modal,dan L=laba",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Kelas: VII</p>\n\n<p>Pelajaran : Matematika</p>\n\n<p>Kategori: Perbandingan</p>\n\n<p>Kata kunci: perbandingan, laba</p>\n\n<p>\u00a0</p>\n\n<p>Untuk mempermudah pembuatan perbandingan kita misalkan saja:</p>\n\n<p>P = penjualan</p>\n\n<p>M = modal </p>\n\n<p>L = laba</p>\n\n<p>\u00a0</p>\n\n<p>Telah diketahui bahwa \u00a0penjualan adalah 11 kali laba atau ditulis\nsebagai:</p>\n\n<p>P = 11 L</p>\n\n<p>\u00a0</p>\n\n<p>Karena modal adalah selisih antara penjualan dan modal yang\ndiperoleh </p>\n\n<p>M = P - L</p>\n\n<p>Jika laba = L, dan penjualan adalah 11L maka modal adalah:</p>\n\n<p>M = 11 L \u2013 L = 10 L</p>\n\n<p>\u00a0</p>\n\n<p>Maka perbandingan dari </p>\n\n<p>P : M : L </p>\n\n<p>Adalah</p>\n\n<p>11 L : 10 L : L</p>\n\n<p>Dibagi masing masing dengan L, </p>\n\n<p>11 : 10 : 1</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sudut-aob-120-derajat-sudut-boc-150-derajat-dan-luas-956",
+            "question": "Diketahui sudut AOB 120 derajat , sudut BOC 150 derajat dan luas juring AOB 84 cm persegi .Luas Juring BOC = ... cm persegi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "150/120=BOS/84<br>BOC \u00a0= 150x84/120<br>BOC \u00a0= 105<br><br><br>Insyaallah betul",
+                    "attachments": []
+                },
+                {
+                    "answer": "[tex] \\frac{LJ AOB}{SP AOB} X  \\frac{LJ BOC}{SP BOC} [/tex]<br>=[tex] \\frac{84}{120}  X  \\frac{x}{150} [/tex]<br>= 12600\u00a0= 120 x<br>= x = 105 cm\u00b2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "cara-mencari-jarak-titik-pusat-bila-diket-jari-dua-lingkaran-bert-979",
+            "question": "cara mencari jarak titik pusat bila diket jari dua lingkaran berturut-turut 3cm dan 13 cm . dan garis singgung persekutuan luar 24 cm .\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "garis singgung persekutuan luar memiliki rumus:<br>L\u00b2 =\u00a0 p\u00b2 - ( r\u2081 -\u00a0 r\u2082 )\u00b2<br>24\u00b2 = p\u00b2 - (13 - 3 )\u00b2<br>576 = p\u00b2 - 100<br>p\u00b2 = 676<br>p = \u221a676<br>p = 26<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "amuba-akan-membelah-diri-menjadi-dua-setiap-15-menit-jika-mula-m-696",
+            "question": "Amuba akan membelah diri menjadi dua setiap 15 menit .jika mula mula ada 30 amuba makabanyak amuba setelah 2 jam adalah    caranya and jwbanya kya apa ?????",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p>Amuba akan membelah diri menjadi dua setiap 15 menit. JIka mula-mula ada 30\u00a0amuba, maka banyak amuba setelah 2 jam\u00a0adalah [tex]\\displaystyle\\sf\\boxed{\\sf 7.680}[/tex] Selengkapnya dapat disimak pada pembahasan di bawah ini!</p><p></p><p><strong>PENDAHULUAN</strong></p><p><strong>Barisan </strong>adalah aplikasi untuk mengurutkan anggota-anggota dari himpunan yang kemudian diurutkan pada suku pertama, suku kedua, dan seterusnya. \u00a0</p><p><strong>Baris Geometri</strong> adalah barisan dimana nilai suku yang diperoleh dari suku sebelumnya merupakan perkalian dengan rasio (r). Sedangkan<strong> deret geometri </strong>adalah suatu deret dimana perbandingan rasionya akan selalu tetap.</p><p>Adapun <strong>rumus </strong>yang berkaitan dengan <strong>baris dan deret geometri</strong>, antara lain :</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~suku~ke-n}[/tex]</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf U_n = a{r}^{n-1}}}[/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Naik)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a({r}^{n} - 1)}{r - 1}}}~~~ \\sf untuk:r\\ne{1}~dan~r &gt; 1 [/tex]</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rumus~jumlah~n~suku~pertama~(Deret~Turun)}[/tex] \u00a0</p><p>[tex]\\displaystyle\\boxed{\\boxed{\\bf S_n = \\dfrac{a(1 - {r}^{n})}{1 - r}}}~~~ \\sf untuk:r\\ne{1}~dan~r &lt; 1 [/tex] \u00a0</p><p>dengan,</p><p>[tex]\\displaystyle\\blacktriangleright\\bold{ Rasio: }~\\boxed{\\boxed{\\bf r = \\dfrac{U_n}{U_{n-1}}}}[/tex]</p><p>dimana :</p><p>\u25cb <em>Un </em>= suku ke-n</p><p>\u25cb <em>Sn </em>= jumlah n suku pertama</p><p>\u25cb <em>a </em>= suku pertama</p><p>\u25cb <em>r</em> = rasio \u00a0</p><p>\u25cb <em>n </em>= banyak suku</p><p>Kembali ke soal, mari simak penyelesaiannya pada pembahasan di bawah ini!</p><p></p><h2>PEMBAHASAN</h2><p><strong>Diketahui :</strong></p><ul><li>r = 2 (karena membelah menjadi dua)</li><li>a = 30</li><li>2 jam = 120 menit</li></ul><p><strong>Ditanya : </strong>banyak amuba setelah 2 jam = . . . ?</p><p><strong>Jawab :</strong></p><p>\u2756 <strong>Menentukan nilai banyak suku (n)</strong></p><p>[tex]\\displaystyle\\sf n = \\dfrac{120}{15} + 1 \\\\ \\\\ \\displaystyle\\sf n = 8 + 1 \\\\ \\\\ \\displaystyle\\sf n = 9[/tex]</p><p>Diperoleh n = 9. Dijumlahkan 1 sebab sebelum pembelahan terjadi dianggap n = 0.</p><p>\u2756 Sehingga, <strong>banyak amuba setelah 2 jam </strong></p><p>[tex]\\displaystyle\\sf U_n = ar^{n-1} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 2^{9-1} \\\\ \\\\  \\displaystyle\\sf U_9 = 30 \\cdot 2^{8} \\\\ \\\\ \\displaystyle\\sf U_9 = 30 \\cdot 256 \\\\ \\\\ \\displaystyle\\sf U_9 = \\boxed{\\sf 7680}[/tex]</p><p><strong>\u2234 Kesimpulan : </strong>Jadi, banyak amuba setelah 2 jam adalah 7680 amuba.</p><p></p><p><strong>PELAJARI LEBIH LANJUT</strong></p><p>Materi tentang <strong>barisan dan deret </strong>lainnya dapat disimak di bawah ini :</p><ul><li>Suku kedua dan suku keempat suatu deret geometri tak hingga berturut-turut adalah 1 dan 1/9. Jumlah semua suku deret itu adalah <strong><em>brainly.co.id/tugas/14140968</em></strong></li><li>Jumlah tak hingga dari deret 64 + 48 + 36 + . . . adalah <strong><em>brainly.co.id/tugas/25620449</em></strong></li><li>Sebuah mobil dibeli dengan harga Rp80.000.000,00. Setiap tahun nilai jualnya menjadi 3/4 dari harga sebelumnya. Nilai jual setelah dipakai 3 tahun adalah <strong><em>brainly.co.id/tugas/1730171</em></strong></li></ul><h3><strong>____________________________</strong></h3><h3><strong>DETAIL JAWABAN</strong></h3><p><strong>Kelas : </strong>IX</p><p><strong>Mapel : </strong>Matematika</p><p><strong>Bab : </strong>Bab 2 - Barisan dan Deret Bilangan</p><p><strong>Kode : </strong>9.2.2</p><p><strong>Kata kunci : </strong>deret geometri tak hingga, suku pertama, rasio, jumlah semua suku</p><p></p><p><em>Jika ada yang ingin ditanyakan, silahkan cantumkan di kolom komentar. Terima kasih.</em></p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-20-ikat-sayuran-dengan-harga-rp1500-pe-554",
+            "question": "seorang pedagang membeli 20 ikat sayuran dengan harga Rp.1.500 per 5 ikat .kemudian sayuran itu ia jual dengan harga Rp.1.500 per 4 Ikat ,maka pedagang sayur tersebut akan mengalami... a.untung 20%\u00a0 b.Rugi 20% c.untung 25% d.Rugi 25%",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "pedagang mendapat keuntungan 1/5 *100% yaitu 20%",
+                    "attachments": []
+                },
+                {
+                    "answer": "Pembelian= Rp 6.000  |  Penjualan= 7.500  |  Keuntungan=7500-6000=1500  |  1500/6000*100%=25%  |  Kalau salah mohon koreksinya^^",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-oc14-cmpanjang-busur-dc22-cmsudut-aob40-derajatda-366",
+            "question": "Diketahui OC=14 cm,panjang busur DC=22 cm,sudut AOB=40 derajat,dan sudut COD=90 derajat,hitunglah;    a.panjang busur AB\r\nb.luas juring COD\r\nc.luas tembereng DC",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a) \u00a0 AB/DC=AOB/DOC<br>\u00a0 \u00a0 \u00a0 AB/22=40/90<br>\u00a0 \u00a0 \u00a0 AB= 88/9 cm<br>b) \u00a090/360.[tex] \\pi [/tex].14^2<br>\u00a0 \u00a0 \u00a0= 1/4 * 22/7 *\u00a014 *14<br>\u00a0 \u00a0 \u00a0= 154 cm^2<br>c) \u00a0154 - 1/2*sin90*14*14<br>\u00a0 \u00a0Sin 90 = 1<br>\u00a0 \u00a0= 154 - 7*14<br>\u00a0 \u00a0 = 154 -98<br>\u00a0 \u00a0 = 56 cm^2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "luas-suatu-juring-lingkaran-berjari-jari-4-cm-dan-sudut-pusat-315-939",
+            "question": "Luas suatu juring lingkaran berjari-jari 4 cm dan sudut pusat 315 derajat dengan phi = 22/7",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L.juring = l. lingkaran x sudut juring/360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=\u00a0[tex] \\pi [/tex][tex] r{2} [/tex] x 315/360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22/7 x\u00a0[tex] (4)^{2}  [/tex] x 0,875<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22/7 x 16 x 0,875<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 308/7<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 44<br><br>smoga bnar yah.",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "uraikan-dari-yang-terbesar-2-pangkat-5555-5-pangkat-2222-3-pang-351",
+            "question": "Uraikan dari yang terbesar 2 pangkat 5555, 5 pangkat 2222, 3 pangkat 3333",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2 pangkat 5555 = 2 pangkat 5 (1111)<br>5 pangkat 2222 = 5 pangkat 2 (1111)<br>3 pangkat 3333 = 3 pangkat 3 (1111)<br>jadi urutan dari yang terbesar <br>2 pangkat 5555<br>3 pangkat 3333<br>5 pangkat 2222<br>^^<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "2 pangkat 5555 = (2^5)^1111 = 32^1111<br>5 pangkat 2222 = (5^2)^1111 = 25^1111<br>3 pangkat 3333 = (3^3)^1111 = 27^1111<br>\u00a0jadi urutan dari yg terbesar adalah<br><br>2 pangkat 5555, 3 pangkat 3333, 5 pangkat 2222<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

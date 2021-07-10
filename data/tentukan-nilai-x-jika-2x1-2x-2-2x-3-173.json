@@ -1,0 +1,154 @@
+{
+    "question": "Tentukan nilai x, jika (2x+1) + (2x + 2) + (2x + 3) + ....... + (2x + 50) = 4275",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "(2x+1)+(2x+2)+(2x+3)+......+(2x+50) = 4275<br>50(2x) + 1+50 . 25 =\u00a04275<br>100x + 1275 = 4275<br>x = 4275 - 1275 / 100<br>x = 3000 / 100<br>x = 30",
+            "attachments": []
+        },
+        {
+            "answer": "a=U1=2x+1<br>U2=2x+2<br>b=U2-U1=2x+2-(2x+1)=1<br>Un=a+(n-1)b<br>=2x+1+(n-1)1=2x+50<br>2x+n=2x+50<br>n=50<br>Sn=n/2(a+Un)<br>=50/2(2x+1+(2x+50))=4275<br>=25(4x+51)=4275<br>=100x+1275=4275<br>=100x=3000<br>x=30<br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "suatu-barisan-aritmatika-suku-ke-8-22-dan-suku-ke-12-34-jumlah-545",
+            "question": "Suatu barisan Aritmatika suku ke-8 =22 dan suku ke-12 =34. Jumlah 24 suku pertama adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "U8 \u00a0\u00a0= a\u00a0+\u00a07b \u00a0\u00a0= 22<br>U12 = <u>a + 11b\u00a0= \u00a034</u> -<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04b = 12<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b\u00a0 = 12/4<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b \u00a0= 3<br><br>a\u00a0+ 7b \u00a0= 22<br>a + 7.3 = 22<br>a + 21 \u00a0= 22<br>\u00a0 \u00a0 \u00a0 \u00a0 a \u00a0= 22 - 21<br>\u00a0 \u00a0 \u00a0 \u00a0 a \u00a0= 1<br><br>Sn \u00a0\u00a0= n/2 (2a + (n-1)b)<br>S24 = 24/2 (2.1 + (24-1)3)<br>\u00a0 \u00a0 \u00a0 \u00a0= 12\u00a0(2 + (23)3)<br>\u00a0 \u00a0 \u00a0 \u00a0= 12 (2 + 69)<br>\u00a0 \u00a0 \u00a0 \u00a0= 12 (71)<br>\u00a0 \u00a0 \u00a0 \u00a0= 852<br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "u 8 = 22 .. u 12 = 34<br>u8\u00a0 =\u00a0 a + 7b \u00a0 = 22<br><u>u12 = a + 11 b = 34</u> -<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  - 4b\u00a0 = -12<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 b = 3 ( min di bagi min hasilnya tiga plus <u>-12</u> = 3 \u00a0 ) maka nilai b = 3<br><u></u>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 - 4<br><br>setelah kita menggunakan metode eliminasi selanjutnya kita pergunakan juga dengan menggunakan metode subsitusi yaitu ; pengambilan suku yang akan kita pergunakan untuk metode eliminasi ini terserah lbh enak menggunakan yg mana ...sebagai contoh saya menggunakan u8<br><br>sub : a + 7b = 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 a + 7(3) = 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  a + 21 = 22<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0  a\u00a0  = 22- 21 = 1<br><br>jumlah suku ke 24 = <u>1</u>. 24 (2.1 +( 24-1 ) 3<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2<br><br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12 ( 2 + 23.3 )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12 ( 2+ 69 )<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 12. 71<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 852<br><br><br># rumus jumlah suku = 1/2 n (2.a + (n-1 ) . b<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-no3-ada-gambar-yg-soalnya-jika-lingkaran-o-mempunyai-jari-367",
+            "question": "Dari no.3 ada gambar yg soalnya: jika lingkaran O mempunyai jari jari 14cm dan besar sudut AOB 30 derajat,maka hitunglah:    a.panjang busur AB\r\n b.luas juring AOB",
+            "attachments": [
+                "question-attachments/dari-no3-ada-gambar-yg-soalnya-jika-lingkaran-o-mempunyai-jari-367-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "a. luas juring AOB =<br>\u00a0 \u00a0 L.lingkaran =\u00a0[tex] \\pi [/tex] r.r<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 22 : 7 x 14 x 14<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 616 cm<br>\u00a0 \u00a0 maka AOB ; sudut lingkaran = luas juring OAB ; luas lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 30 \u00a0 : \u00a0 \u00a0360 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 : \u00a0 \u00a0 616<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0 \u00a0 30 x 616 : 360<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a051,3<br><br>b. panjang busur AB =<br>\u00a0 \u00a0 Keliling Lingkaran =\u00a0[tex] \\pi [/tex] x d<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22 : 7 x 28<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 88 cm<br>\u00a0 \u00a0 \u00a0maka AOB \u00a0 : sudut lingkaran = panjang busur AB : keliling lingkaran<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a030 \u00a0 : \u00a0 \u00a0 \u00a0 \u00a0360 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0: \u00a0 \u00a0 \u00a0 \u00a088<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0x \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= \u00a0 \u00a0 \u00a0 \u00a030 x 88 : 360\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 7,3\u00a0<br>insaya allah caranya kaya gini<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "b.luas juring ab:keliling lingkaran k=2\u03c0r<br>K=2(22/7)14<br>K=88cm<br><br>L=\u03c0r\u00b2<br>L=22/7 (14)\u00b2<br>L=616cm<br>\u00a0<br>L juring\u00a0POQ=POQ/L\u00a0O=30/360<br><br>L juring POQ=0,0833x616<br>=51,3 cm\u00a0<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ratih-membeli-sebuah-komputer-seharga-rp-4350000-dan-dikenakan-486",
+            "question": "Ratih membeli sebuah komputer seharga Rp. 4.350.000 dan dikenakan pajak penjualan 5%    a. besar pajak penjualan \r\nb. harga komputer setelah dikenakan pajak",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.5x 4.350.000/100 : 217.500\nb.4.350.000-217.500 : 4.132.500\n\nkalau suka tolong jawaban terbaik yahh? terima kasih",
+                    "attachments": []
+                },
+                {
+                    "answer": "a.5/100 x 4.350.000=21.750<br>b.4.350.000 +\u00a021.750 =\u00a04.567.500",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "harga-2-celana-panjang-dan-5-kemeja-rp-41000000sedangkan-harg-765",
+            "question": "harga 2 celana panjang dan 5 kemeja Rp. 410.000,00,sedangkan harga 3 celana panjang dan 2 kemeja Rp 340.000,00.harga sebuah celana panjang dan 2 kemeja adalah..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2cp + 5k = 410.000 | x3| 6cp+15k = 1.230.000<br>3cp + 2k = 340.000 | x2| 6cp+4k\u00a0 =\u00a0 \u00a0 680.000 _<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 11k = 550.000<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 k = 50.000<br><br>2cp + 5k = 410.000<br>2cp + 5x50.000 = 410.000<br>2cp + 250.000 = 410.000<br>2cp = 410.000-250.000<br>2cp = 160.000<br>cp = 80.000<br><br>1cp + 2k = <br>1x80.000 + 2x50.000 <br>80.000 + 100.000 = 180.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668",
+            "question": "Pada gambar dibawah, jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah........",
+            "attachments": [
+                "question-attachments/pada-gambar-dibawah-jika-besar-ltoqr-15-dan-ltprq-40-668-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jawabannya adalah 65\u00b0",
+                    "attachments": []
+                },
+                {
+                    "answer": "jika besar &lt;OQR = 15\u2070 dan &lt;PRQ = 40\u2070. Maka besar &lt;QPR adalah<span><span></span></span> 65 derajat<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sudut-yang-besarnya-112-putaran-adalah-tolong-dibantu-y-448",
+            "question": "Sudut yang besarnya 1/12 putaran adalah ......\r\ntolong \u00a0dibantu ya\u00a0",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1/12 x 360 = 30 derajat\u00a0<br><br>jadikan jawaban terbaik yaa XD<br>semoga membantu",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-jari-jari-lingkaran-yang-luasnya-70650-cm2-dengan-phi-3-515",
+            "question": "Panjang jari jari lingkaran yang luasnya 706,50 cm2 dengan phi 3,14 adalah..    a. 10,0\r\n b. 12,5\r\n c. 15 cm\r\n d. 17,5 cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "706,5 = 3,14 x r\"<br>225 = r&#039;&#039;<br>15 = r",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas lingkaran = phi r kuadrat<br>706,50 = 3,14 r kuadrat<br>706,50/3,14 = r kuadrat<br>225 = r kuadrat<br>[tex] \\sqrt{225} [/tex] = r<br>r = 15 <br><br>jadi panjang jari-jari = 15 (c)<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-suku-berikutnya-dari-barisan-1235813-adalah-tolong-576",
+            "question": "Dua suku berikutnya dari barisan: 1,2,3,5,8,13,... adalah?\r\n tolong dijawab ya,please... :\"(",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<p><strong>Dua suku berikutnya dari barisan</strong>: 1, 2, 3, 5, 8, 13, ... adalah 21, 34. Barisan tersebut adalah barisan fibbonanci. <strong>Barisan fibbonanci</strong> adalah barisan yang diperoleh dengan cara menjumlakan bilangan sebelumnya untuk mendapatkan bilangan berikutnya. Contoh untuk mendapatkan suku ke 5 diperoleh dengan menjumlahkan suku ke 4 dan suku ke 3. Untuk lebih jelasnya bisa dilihat di pembahasan</p><br><h3>Pembahasan</h3><h3></h3><p>1, \u00a0 \u00a02, \u00a0 3, \u00a05, \u00a0 8, 13, ...., .....</p><p>U\u2081, U\u2082, U\u2083, U\u2084, U\u2085, U\u2086, U\u2087, U\u2088</p><p>U\u2081 = 1</p><p>U\u2082 = 2</p><p>U\u2083 = U\u2082 + U\u2081 = 2 + 1 = 3</p><p>U\u2084 = U\u2083 + U\u2082 = 3 + 2 = 5</p><p>U\u2085 = U\u2084 + U\u2083 = 5 + 3 = 8</p><p>U\u2086 = U\u2085 + U\u2084 = 8 + 5 = 13</p><p><u>Jadi</u></p><p>U\u2087 = U\u2086 + U\u2085 = 13 + 8 = <strong>21</strong></p><p>U\u2088 = U\u2087 + U\u2086 = 21 + 13 = <strong>34</strong></p><br><p>Barisan utuhnya</p><p>1, 2, 3, 5, 8, 13, <strong>21, 34</strong></p><br><p>Berarti <strong>dua suku berikutnya dari barisan tersebut adalah 21, 34</strong></p><br><h3>Pelajari lebih lanjut \u00a0 </h3><br><p>Contoh soal lain tentang barisan fibbonanci</p><p>https://brainly.co.id/tugas/12222950</p><br><p>------------------------------------------------</p><br><h3>Detil Jawaban \u00a0 </h3><br><p><strong>Kelas</strong> : 9</p><p><strong>Mapel</strong> : Matematika</p><p><strong>Kategori</strong> : Barisan dan Deret Bilangan</p><p><strong>Kode</strong> : 9.2.2</p><br><p><strong>Kata Kunci</strong> : Dua suku berikutnya dari barisan</p>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ibu-membeli-4-rak-telur-dengan-harga-telur-rp2100000-tiap-rak-919",
+            "question": "ibu membeli 4 rak telur dengan harga telur Rp.21.000,00 tiap rak. berisi 30 butir telur. kemudian ibu menjual kembali dan setiap satu butir telur mendapatkan keuntungan Rp.100,00, berapakah harga jual telur seluruhnya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "4 * 21.000= Rp 84.000<br>84.000 : (4 * 30)= 84.000 : 120 = 700<br>700 + 100 = 800<br>jadi, harga jual telur <u>Rp 800,00</u><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>semua telur yg dibeli = 21.000 x 4 = 84.000<br>jumlah telur = 30 x 4 = 120 butir=<br>harga 1 butir telur yg dibeli ibu = 21.000 : 30= 700<br>700 + 100= 800<br>harga jual seluruhnya= 800 x 120 = 96.000</span><br>untung = harga jual-harga beli<br>= 84.000-96.000<br>= 12.000<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-pedagang-membeli-4-buah-peti-telur-dengan-harga-rp54320-279",
+            "question": "seorang pedagang membeli 4 buah peti telur dengan harga Rp.543.200,00 setiap peti memiliki bruto 25 kg dan tara 3% jika pedagang menghendaki untung 25% maka harga jual telur tiap kg nya adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "seorang pedagang membeli 4 buah peti telur dengan harga \nRp.543.200,00 setiap peti memiliki bruto 25 kg dan tara 3% jika pedagang\n menghendaki untung 25% maka harga jual telur tiap kg nya adalah?<br><br>jawab<br>netto= bruto-tarra<br>\u00a0\u00a0 \u00a0 \u00a0  = 25- (3%\u00d725)<br>\u00a0\u00a0 \u00a0 \u00a0 = 25- 0,75<br>\u00a0\u00a0 \u00a0 \u00a0 = 24,25 kg<br>keuntungan<br>\u00a025% \u00d7 Rp.543.200,00 = Rp.135.800,00<br>harga jual= (harga beli + untung)/netto<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =(Rp.543.200,00 + Rp.135.800,00)/24,25<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =Rp679.000,00/24,25<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 =Rp28.000,00<br>jadi pedagang harus menjual telur dengan harga Rp28.000,00/kg<br><br>=============================================================<br>mohon cek ulang perhitungannya<br>Trimakasih<br>______________________________________________________________________<br>==============================================================<br><br><br><br><br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

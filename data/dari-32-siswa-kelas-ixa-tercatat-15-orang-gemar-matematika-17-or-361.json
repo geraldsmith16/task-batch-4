@@ -1,0 +1,158 @@
+{
+    "question": "Dari 32 siswa kelas IXA    tercatat 15 orang gemar matematika, 17 orang gemar IPA, dan 5 orang gemar\r\n keduanya. Banyaknya siswa yang tidak gemar matematika maupun IPA adalah ....",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "gemr MTK = 15 org<br>gmar IPA= 17 org<br>gmar kduax = 5 org<br>seluruh siswa = 32<br>tdk gemar keduax = 32- ((15+17)-5)) = 32-27 = 5 org",
+            "attachments": []
+        },
+        {
+            "answer": "10 orang\u00a0<br>karena <br>15 orang mtk - 5 orang gemar keduanya = 10 orang gemar mtk<br>17 orang ipa - 5 orang gemar keduanya = 12 orang gemar ipa<br><br>jadi , 22 + 5 orang yang menyukai keduanya = 27\u00a0orang yang menyukai ipa dan mtk\u00a0<br>32 jumlah siswa IXA - 27 orang yang menyukai ipa dan mtk = <strong>5\ufeff</strong><strong>\u00a0orang yang tdk menyukai keduanya</strong><br><br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "sebuah-stadion-berbentuk-lingkaran-dengan-diameter-84-meter-sepa-412",
+            "question": "Sebuah stadion berbentuk lingkaran dengan diameter 84 meter. Sepanjang stadion akan dipasang lampu dengan jarak 6 meter. Hitunglah banyak lampu yang akan diperlukan!    (kalobisapakecaranya)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "keliling = pi.d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7 * 84<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 264<br><br>banyak lampu = 264 : 6<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 44 buah lampu<br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "keliling = \u03c0.d<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 22/7 x\u00a0 84<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 264 m<br><br>banyak lampu = 264 : 6<br><span>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 44 buah lampu</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469",
+            "question": "Diketahui:    S={bilangan asli kurang dari 15 }\r\nA={bilangan asli genap yang kurang dari 10}\r\nB={bilangan asli ganjil antara 1 dan 11}\r\nC={bilagan prima yang kurang dari 10}\r\nD={faktor dari 12 }\r\nnyatakan himpunan himpunan di atas dengan mendaftar anggotanya ! kemudian buatlah diagram venn untuk masing masing himpunan berikut dengan S sebagai himpunan semestanya!\r\na.S,A,DAN\u00a0B \u00a0 \u00a0 \u00a0d.S,B DAN C\r\nb.S,A DAN C \u00a0 \u00a0 \u00a0e.S,B,DAN D\r\nC.S,A DAN D \u00a0 \u00a0 \u00a0f.S,C DAN D",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "untuk anggota dari masing2 himpunannya adalah sebagai berikut<br>S={1,2,3,4,5,6,7,8,9,10,11,12,13,14 }<br>A={2,4,6,8}<br>B={3,5,7,9}<br>C={2,3,5,7}<br><span>D={1,2,3,4,6,12}<br><br>untuk diagram venn nya coba lihat gambarnya d google aja<br>diagram venn merupakan gambar diagram menggunakan lingkaran untuk masing2 himpunan,<br>jadi misalkan seperti soal A,ditanyakan adalah S, A dan B<br>karena S merupakan himpunana semstanya , maka S merupakan lingkaran terbesar<br>kemudian di dalamnya di gambar lingkaran A dan B , namun tidak bersinggungan , dikarenakan tidak memiliki anggota dengan nilai yg sama<br>dan di tiap lingkaran dituliskan masing2 anggotanya , untuk S anggota yg sdah berada di dalam A dan B , tidak ditulis kembali, dan yg belum ada di lingkaran A dan B, ditulis di luar lingkaran A dan B, namun tetap berada di dalam lingkaran S<br>untuk contoh soal a nya ada pada lampiran\u00a0<br>yg B dan seterusnya kayaknya bisa menyesuaikan :)</span>",
+                    "attachments": [
+                        "answer-attachments/diketahui-sbilangan-asli-kurang-dari-15-abilangan-asli-gen-469-1.jpg"
+                    ]
+                },
+                {
+                    "answer": "S= {1,2,3,4,5,6,7,8,9,10,11,12,13,14}\nA= {2,4,6,8}\nB= { 3,5,7,9}\nC= {2,3,5,7}\nD= {1,2,3,4,6,12}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "bila-keliling-lingkaran-88-cm-maka-jari-jari-lingkaran-adalah-220",
+            "question": "Bila keliling lingkaran = 88 cm, maka jari-jari lingkaran adalah",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "k = 2[tex] \\pi [/tex] r<br>88 cm = 2 dikali 3,14 dikali x (jari jari)<br>88 = 6,28 dikali x<br>x = 88 dibagi 6,28 = 14,01 bisa dijadikan 14 cm aja <br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "k = 2[tex] \\pi [/tex]r atau\u00a0[tex] \\pi [/tex]D<br>k = 88<br>2[tex] \\pi r[/tex] = 88<br>[tex] \\pi r = 88/2[/tex]<br>22/7r = 44<br>r = 44x7/22<br>r = 14",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-gambar-berikut-besar-sudut-abc60-derajat-dan-sudut-bdc25-d-822",
+            "question": "Pada gambar berikut besar sudut ABC=60 derajat    dan sudut bdc=25 derajat maka besar sudut aec \u00a0adalah\u00a0\r\n\r\ngambarnya yg no 14",
+            "attachments": [
+                "question-attachments/pada-gambar-berikut-besar-sudut-abc60-derajat-dan-sudut-bdc25-d-822-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "BCD : 180 - 60 = 120<br>AEC : 180 - 120 - 25 = 35",
+                    "attachments": []
+                },
+                {
+                    "answer": "Cuma mengurangi saja<br>60 derajat - 25 derajat = 35 derajat<br><br>Caranya? Ini mengenai sudut di luar lingkaran",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pada-limas-segiempat-beraturan-t-abcd-berikutjika-panjang-rusuk-802",
+            "question": "pada limas segiempat beraturan T ABCD berikut,jika panjang rusuk alasnya 6cm, sedangkan tinggi limas adalah 4 cm.hitunglah luas permukaan limas tersebut...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "s=6<br>t limas=4<br>lp=?<br>t selimut=akar 3kuadrat +4kuadra<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0=akar 9+16<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =akar 25=5<br>LP=luas alas+luas selimut(4Lsegitiga)<br>\u00a0 \u00a0 =6x6 + 1/2x4x6x5<br>\u00a0 \u00a0 \u00a0=36 + 2x6x5<br>\u00a0 \u00a0 \u00a0 =36 +60<br>\u00a0 \u00a0 \u00a0=96 cm persegi",
+                    "attachments": []
+                },
+                {
+                    "answer": "luas permk. limas = 2 x Luas alas + (keliling alas . T prisma )<br>= 2 x (4x4) + ( 4x6)\u00a0 . 4<br>=2x 16 + 24.4<br>=128<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "panjang-sisi-sisi-sebuah-segitiga-adalah-26-cm-28-cm-dan-38-cm-842",
+            "question": "panjang sisi- sisi sebuah segitiga adalah 26 cm, 28 cm, dan 38 cm. Hitunglah\u00a0 a. panjang jari-jari lingkaran dalam segitiga. b. panjang jari-jari lingkaran luar segitiga. \u00a0 yang bisa mohon bantuannya ya",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "dik : sisi segitiga =&gt; a = 26 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 b =28 cm<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0c = 38 cm<br>dit : a.) rd (jari-jari dalam segitiga) = ...?<br>\u00a0 \u00a0 \u00a0 b.) rl (jari-jari luar segitiga) = ...?<br>jwb :\u00a0<br>a.) rd = Lsegitiga/S<br>\u00a0 \u00a0 \u00a0Lsegitiga = a x t per 2 = 26 x 28 per 2 = 13 x 28 = 364 cm\u00b2<br>\u00a0 \u00a0 \u00a0S = 1/2 Ksegitiga = 1/2 (26+28+38) = 1/2 (92) = 46 cm<br>\u00a0 \u00a0 \u00a0rd = 364 cm\u00b2/46\u00a0cm = 7,91<br>b.) rl = a.b.c / 4Lsegitiga = 26.28.38/4(364) = 27.664/1.456 = 19 cm",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "20-sen-malasyia-berapa-rupiah-ya-10-sen-singapura-berapa-rupiah-644",
+            "question": "20 sen malasyia berapa rupiah ya? 10 sen singapura berapa rupiah ya?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "20 sen malaysia = brp rupiah?<br><br>1 ringgit = 3.280,59<br>1 ringgit = 100 sen<br><strong>20 sen</strong> = 20% x 1 ringgit<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 20% x 3.280,59<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<strong>  = 656,12 rupiah</strong><br><br>10 sen singapura = brp rupiah?<br><br>1 dollar singapura = 9.897,21 rupiah<br>1 dolar = 100 sen<br><strong>10 sen</strong> = 10% x 1 dolar<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 = 10% x 9.897,21<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 <strong>= 989,721 rupiah</strong><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "seorang-karyawan-memperoleh-gaji-sebulan-1400000dengan-penghasi-374",
+            "question": "seorang karyawan memperoleh gaji sebulan 1.400.000dengan penghasilan tidak kena pajak 480.000. jika besar pajak penghasilan 10% besar gaji yang diterima karyawan itu adalah?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "gaji satu bulan = Rp 1.400.000<br>gaji tidak kena pajak = Rp\u00a0480.000<br>presentase pajak = 10%<br>gaji kotor = gaji 1 bulan - gaji tidak terkena pajak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 1.400.000 - Rp 480.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 920.000<br>gaji bersih =\u00a0[tex] \\frac{persentase gaji - persentase pajak}{y} [persentase gaji] x Rp920.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{100% - 10 %}{100%} [/tex] x Rp 920.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 =\u00a0[tex] \\frac{90%}{100%} [/tex] x Rp 920.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = Rp 828.000<br>gaji total = gaji bersih + gaji tidak kena pajak<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 828.000 + Rp 480.000<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= Rp 1.308.000",
+                    "attachments": []
+                },
+                {
+                    "answer": "1.400.000 - 480.000 = 920.000\n? \u00d7 920.000\n? \u00d7 920.000 \n=828.000\n\n828.000 + 480.000\n1.308.000",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-segitiga-siku-siku-memiliki-sisi-miring-25-cmjika-salah-s-132",
+            "question": "sebuah segitiga siku-siku memiliki sisi miring 25 cm.jika salah satu sisi siku-sikunya 7 cm,maka sisi siku-siku yang lain nya adalah??",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Sisi yang lain =\u00a0\u221a25\u00b2 - 7\u00b2 =\u00a0\u221a625-49 =\u00a0\u221a576 = 24cm",
+                    "attachments": []
+                },
+                {
+                    "answer": "(25 x 25) - (7 x 7)= 625 - 49= <span>\u221a</span>576 = 24<br><br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-balok-mempunyai-panjang-dan-tinggi-masing-masing-15cm-dan-748",
+            "question": "Sebuah balok mempunyai panjang dan tinggi masing masing 15cm dan 10cm.jika panjang diagonal alas balok 17cm,luas permukaan balok adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "P = 15\u00a0<br>T = 10\u00a0<br>Diagonal = 17\u00a0<br>L = 289 - 225 = 64\u00a0<br>akar dari 64 = 8<br>L.Permukaan balok = 2{(pxl)+(pxt)+(lxt)}<br>\u00a0 \u00a0 = 2 {(15x8)+(15x10)+(8x10)}<br>\u00a0 \u00a0 = 2(120+150+80)<br>\u00a0 \u00a0 = 2x350<br>\u00a0 \u00a0 = 700",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

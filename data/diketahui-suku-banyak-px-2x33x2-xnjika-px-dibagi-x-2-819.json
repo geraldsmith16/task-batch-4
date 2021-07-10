@@ -1,0 +1,126 @@
+{
+    "question": "Diketahui\u00a0suku banyak P(x) =2x\u00b3+3x\u00b2-x+n.jika\u00a0p(x) dibagi (x-2)bersisa\u00a025,p(x)dibagi\u00a0(x+1)    terimakasih...",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "<span>P(x) =2x\u00b3+3x\u00b2-x+n.jika\u00a0p(x) dibagi (x-2)bersisa\u00a025<br>P(2) = 2.2\u00b3 + 3.2\u00b2 - 2 + n<br>25 = 16 + 12 - 2 + n<br>25 = 26 + n<br>n = -1<br></span><br><span><span><br>P(x) =2x\u00b3+3x\u00b2-x - 1</span><br><br>P(x) dibagi (x + 1) sisa ==&gt;<br><br>P(-1) = </span>2.(-1)\u00b3+3(-1)\u00b2-(-1) -1 = -2 + 3 + 1 - 1 = 1<br><br>",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "selisih-dua-bilangan-positif-sama-dengan-14-jika-hasil-kali-kedu-724",
+            "question": "selisih dua bilangan positif sama dengan 14. jika hasil kali kedua bilangan itu sama dengan 240. Tentukan bilangan\" itu ! bantu ya :)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a-b = 14<br>a= 14-b<br><br>ab = 240<br>(14-b) b =240<br>14b - b^2 =240<br>14b- b ^2 -240 = 0<br>(b+24) (b-10) = 0<br>b+24= 0 \u00a0\u00a0V \u00a0\u00a0b-10 = 0<br>b1 = -24 \u00a0\u00a0V \u00a0\u00a0b2 = 10<br>krn bil. positif. maka b= 10<br><br>a= 14 +\u00a0b<br>a = 14+10<br>a = 24<br><br>jadi bil. itu adalah 24 dan 10",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-sukubanyak-fx-dibagi-dengan-x-2-memberikan-sisa-6-dan-ji-624",
+            "question": "Jika sukubanyak f(x) dibagi dengan (x-2) memberikan sisa 6 dan jika f(x) dibagi dengan (x+5) memberikan sisa -8. Tentukan sisanya jika f(x) dibagi dengan (x pangkat 2 + 3x-10)    mohon di bantu..\r\n dengan cara kerja nya ya..:)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "f(x) : (x - 2) sisa 6<br>f(x) : (x + 5) sisa -8<br><br>f(x) = (x\u00b2 + 3x - 10).H(x) + S(x)<br>f(x) = (x - 2)(x + 5).H(x) + S(x)<br><br>f(2) = 2a + b<br>6 = 2a + b ....1 <br>f(-5) = -5a + b<br>-8 = -5a + b ....2<br><br>eliminasi 1 dan 2 didapat a = 2, b = 2 <br>S(x) = ax + b ==&gt; 2x + 2 ....ok?<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dari-10-orang-pemain-bulutangkis-pria-akan-disusun-pemain-ganda-835",
+            "question": "dari 10 orang pemain bulutangkis pria akan disusun pemain ganda. banyak susunan pemain ganda yang dapat dibentuk adalah ..",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Kelas : XI (2 SMA)<br>Materi : Peluang<br>Kata Kunci : Kombinasi<br>Pembahasan :<br>Suatu kombinasi r elemen yang diambil dari n elemen yang tersedia (setiap elemen itu berbeda) adalah suatu pilihan dari r elemen tanpa memperhatikan urutannya (r\u00a0\u2264 n).<br>[tex]_nC_r= \\frac{n!}{r!.(n-r)!} [/tex]<br><br>Mari kita lihat soal tersebut.<br><span>Dari 10 orang pemain bulutangkis pria akan disusun pemain ganda.\u00a0</span>Banyak pasangan ganda sama dengan banyak kombinasi 2 dari 10.<br><br>\u2081\u2080C\u2082 <br>[tex]=\\frac{10!}{2!.(10-2)!}\\\\= \\frac{10!}{2!.8!}\\\\= \\frac{10.9. 8!}{2!.8!}\\\\=  \\frac{10.9}{2.1}\\\\= 5.9\\\\=45   [/tex]<br><br>Jadi, banyaknya susunan pasangan ganda putera bulu tangkis itu adalah 45 cara.<br><br>Semangat!\u00a0",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jumlah-pembilang-dan-penyebut-sebuah-pecahan-adalah-38-jika-pemb-665",
+            "question": "Jumlah pembilang dan penyebut sebuah pecahan adalah 38, jika pembilang dan penyebutnya masing-masing dikurangi 4, maka nilai pecahan itu menjadi 3/7.    Tentukan pecahan tersebut.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "misal pembilang = x<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0penyebut = y<br><br>x+y = 38 \u00a0persamaan 1<br><br><u>x-4</u> \u00a0=<u>3</u> \u00a0 persamaan 2<u><br></u>y-4 \u00a0 \u00a0<u>7<br></u><br>7(x-4) = 3(y-4)<br>7x-28 = 3y-12<br>7x-3y=-12+28<br><br>7x-3y=16 persamaan 3<br><br>\u00a0Persamaan 1 - persamaan 3<br><br>kalikan persamaan 1 dengan 7<br><br>7(x+y) = 38 x 7<br>7x+7y=266 \u00a0<br><br>eiminasi dengan persamaan 3<br><br>7x + 7y = 266<br><u>7x - 3y= 16 -<br></u>10y=250<br>y=25<br>sub y=25 ke persaamaan 1\u00a0<br><br>x+25 =38<br>\u00a0x=13<br><br>jadi,pembilangnya 13,penyebutnya 25<br><br>JADI PERSAMAANNYA ADALAH 13/25<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-matriks-2x-4-1-2-9-2-517",
+            "question": "jika matriks (2x \u00a04 ) \u00a0- \u00a0 (1 \u00a0 \u00a02) \u00a0 \u00a0 \u00a0= \u00a0 (9 \u00a0 \u00a0 2) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (7 \u00a0 \u00a0 y) \u00a0 \u00a0 \u00a0 (3 \u00a0 \u00a04) \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (4 \u00a0 \u00a0 3) \u00a0 nilai x dan y ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "nilai x\n2x - 1 = 9\n2x = 10\nx = 10:2\nx = 5\n\nnilai y\ny - 4 = 3\ny = 3 + 4 = 7",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "tiga-buah-bilangan-membentuk-barisan-aritmatika-dengan-beda-3-ji-672",
+            "question": "tiga buah bilangan membentuk barisan aritmatika dengan beda 3. jika suku kedua dikurangi 1, maka terbentuklah barisan geometri dengan jumlah 14. rasio barisan tersebut adalah ....",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "baris aritmatika misal a, a+b, a+2b <br>a, a+3-1,a+2.3<br>a,a+2,a+6 (menjadi baris geometri )<br>[tex] \\frac{a+6}{a+2} = \\frac{a+2}{a} [/tex]<br>a^2+4a+4=a^2+6a<br>2a=4<br>a=2<br>msk kan a=2<br>2,4,8<br>jdi rasionya 2<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-matriks-a-5-2-1-4-maka-invers-matriks-a-adalah-759",
+            "question": "Jika diketahui matriks a= -5 2 1 4 maka invers matriks a adalah...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a= -5 \u00a02<br>\u00a0 \u00a0 \u00a01 \u00a0 4<br>a-1 (a invers) = 1/( -5x4) - ( 2x1 )\u00a0 4\u00a0 -2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0-1 \u00a0-5<br>a-1 = 1/(-20-2) \u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 -1 \u00a0-5<br>a-1 = 1/-22 \u00a0\u00a04\u00a0\u00a0-2<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a01 \u00a0-5<br>a-1 = -2/11 \u00a0 1/11<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a01/22 \u00a0 \u00a05/22<br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "grafik-suatu-fungsi-kuadrat-memotong-sumbu-x-di-titik-a-10-b-545",
+            "question": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "grafik suatu fungsi kuadrat memotong sumbu X di titik A (-1,0) B (4,0) dan memotong sumbu Y di titik C (0,8). tentukan persamaan grafik fungsi tersebut!<br>x = 0, maka y = c = 8\u00a0<br>f (-1) = a - b + 8 = 0 X 4<br>f (4) = 16a + 4b + 8 = 0<br>f (-1) = <u>4a - 4b + 32 = 0 \u00a0 \u00a0</u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a020a = -40<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0a = -2<br>a - b + 8 = 0<br>-2 - b + 8 = 0<br>-b = -6<br>b = 6<br>f(x) =\u00a0-2x^2 + 6x + 8<br>\u00a0 \u00a0 \u00a0\u00a0<u><br></u> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<u><br></u>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-sudut-r110-derajat-sudut-q30-derajat-dan-sisi-p-708",
+            "question": "jika diketahui sudut R=110 derajat, sudut Q=30 derajat dan sisi p= 10 cm, maka LUAS SEGITIGA PQR adalah............",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "L=(p2 x sinQ x sinR) / 2 x sinP<br>\u00a0 = (10kuadrat x sin 30 x sin 110) / 2 x sin 40<br>\u00a0 = 100 x 0,5 x 0,9 / 2 x 0,6<br>\u00a0 =45 / 1,2<br>\u00a0 =37,5 cm2",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jika-diketahui-2log-3a-dan-2log-5b-maka-nilai-2log-45-adala-499",
+            "question": "Jika\u00a0diketahui 2log 3=a dan 2log 5=b maka nilai 2log 45\u00a0\u00a0adalah ...",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "2log5=b , 5log2= 1/b ,  berarti a/b = 5log2 x 2log5= a/b \n\n2log45= 5log45/5log2\n    = 5log(3.3.5)/1/b\n     = (5log3+5log3+5log5)b\n     = ( a/b + a/b + 1)b\n     = (2a/b + 1)b\n     = 2a + b",
+                    "attachments": []
+                },
+                {
+                    "answer": "menurut saya\u00a0jawaban nya 2a+b",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

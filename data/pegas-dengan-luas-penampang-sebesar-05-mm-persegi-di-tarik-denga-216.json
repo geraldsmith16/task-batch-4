@@ -1,0 +1,142 @@
+{
+    "question": "pegas dengan luas penampang sebesar 0,5 mm persegi di tarik dengan gaya sebesar 2,5N. tentukan tegangan pada pegas tersebut",
+    "attachments": [],
+    "answers": [
+        {
+            "answer": "T= F/A<br>= 2,5/0,5 . 10 pngkt -6<br>= 5 x 10 pnkgt 6<br>",
+            "attachments": []
+        },
+        {
+            "answer": "rumusnya tegangan itu = F : A\u00a0<br>keterangan :<br>F = gaya\u00a0<br>A = luas penampang\u00a0<br><br>F\u00a0\u21d2 2,5N<br>A\u00a0\u21d2 0,5 mm = 0,5 : 1000 = 0,0005 m ( mm di ganti m )<br>jadi,\u00a0<br>tegangan = F : A<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 = 2,5 : 0,0005\u00a0<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0= 5000 N/m\u00b2",
+            "attachments": []
+        }
+    ],
+    "related_questions": [
+        {
+            "slug": "pada-seutas-kawat-baja-dengan-panjang-3m-dan-luas-penampang-015-924",
+            "question": "Pada seutas kawat baja dengan panjang 3m dan luas penampang 0,15 cm\u00b2 digantungkan sebuah beban bermassa 500 kg (g= 9,8m/s\u00b2). tentukan    a. tetapan gaya kawat\r\nb. pertambahan panjang kawat\r\n(modulus elastis baja= 2,0 \u00d7 10^{11}\u00a0 N/m\u00b2)",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "a.F=k.<span>\u2206x<br>\u00a0 m.g=k.</span><span>\u2206x<br>\u00a0 500.9,8=k.3<br>\u00a0 k=</span>[tex] \\frac{4900}{3} [/tex]=1.633<br>b.<br>F/A=1.633/0,0015=108866<br>pertambahan panjang kawat=e.l=F/A=1.633/0,0015=108.2,0.10^{11}.<br>=216.10^{11}",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "jelaskan-tentang-posisi-konjungsi-dan-oposisi-139",
+            "question": "Jelaskan tentang posisi konjungsi dan oposisi",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Konjungsi adalah bila kedudukan bulan searah dengan matahari, pada saat\n itu bagian bulan yang menghadap bumi adalah bagian yang gelap sehingga \nkita tidak dapat melihat bulan bercahaya terlebih bulan dan matahari \nberkedudukan sejajar. Pada kondisi tertentu posisi konjungsi ini dapat \nmenimbulkan terjadinya gerhana matahari.sudut elongasinya adalah 0o <br><br>Oposisi yaitu kedudukan bulan yang berlawanan arah dengan matahari \ndilihat dari bumi. Pada posisi inilah bulan cahayanya penuh atau bulan \ntampak sebagi bulan purnama. Pada kondisi tertentu posisi oposisi ini \ndapat menimbulkan terjadinya gerhana bulan.sudut elongasinya adalah 180o\n <br><br>",
+                    "attachments": []
+                },
+                {
+                    "answer": "<span>\u00d8 Konjungsi adalah bila kedudukan bulan searah dengan matahari, pada saat itu bagian bulan yang menghadap bumi adalah bagian yang gelap sehingga kita tidak dapat melihat bulan bercahaya terlebih bulan dan matahari berkedudukan sejajar. Pada kondisi tertentu posisi konjungsi ini dapat menimbulkan terjadinya gerhana matahari.sudut elongasinya adalah 0o<br></span><span>\u00d8 Oposisi yaitu kedudukan bulan yang berlawanan arah dengan matahari dilihat dari bumi. Pada posisi inilah bulan cahayanya penuh atau bulan tampak sebagi bulan purnama. Pada kondisi tertentu posisi oposisi ini dapat menimbulkan terjadinya gerhana bulan.sudut elongasinya adalah 180o .</span><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-tangki-berisi-air-yang-berada-di-atas-raksa-sebuah-kubus-395",
+            "question": "sebuah tangki berisi air yang berada di atas raksa. sebuah kubus besi dengan rusuk 60 mm berdiri tegak lurus seimbang dalam cairan. tentukan tinggi kubus yang tercelup dalam setiap cairan. massa jenis besi dan raksa berturu-turut adalah 7,7 x 10^3 kg/m^3 dan 13,6 x 10^3 kg/m^3",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "<span>mb.. g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)\u00a0<br>\u03c1b Vb g = \u03c1a g (x Vb) + \u03c1Hg g (1-x) Vb)<br>7700\u00a0= 1000 x\u00a0+ 13600 (1\u00a0-\u00a0x)\u00a0<br>7700\u00a0= 1000 x\u00a0+ 13600 - 13600 x\u00a0<br>13500 x = 5900\u00a0<br>\u00a0\u00a0 \u00a0 \u00a0 \u00a0 x = 59/135\u00a0<br><br>t air = 59/135 \u00d7 60 = 26,2 mm\u00a0<br>t\u00a0raksa = 60 - 26,2 = 33,8 mm\u00a0</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "pengaruh-suhu-fluida-terhadap-tegangan-permukaannya-jelaskan-971",
+            "question": "Pengaruh suhu fluida terhadap tegangan permukaannya, jelaskan!",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Faktor yang mempengaruhi tegangan permukaan yaitu :<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Suhu<br>Tegangan permukaan menurun dengan meningkatnya suhu, karena meningkatnya energi kinetik molekul.\u00a0</span></span><span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span>Zat terlarut (solute)</span>Keberadaan zat terlarut dalam suatu cairan akan mempengaruhi tegangan permukaan. Penambahan zat terlarut akan meningkatkan viskositas larutan, sehingga tegangan permukaan akan bertambah besar. Tetapi apabila zat yang berada dipermukaan caiaran membentuk lapisan monomolekular, maka akan menurunkan tegangan permukaan. Zat tersebut biasa disebut dengan surfaktan.<span><span>-<span>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></span><span>Surfaktan<br>Surfaktan (surface active agents), zat yang dapat mengaktifkan permukaan, karena cenderung untuk terkonsentrasi pada permukaan atau antar muka. Surfaktan mempunyai orientasi yang jelas sehingga cenderung pada rantai lurus. Sabun merupakan salah satu contoh dari surfaktan.</span></span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820",
+            "question": "Dua piringan berjari jari sama memiliki massa masing\u00a0- masing: mA=0,8 kg dan mB=1,6 kg. Pada awalnya kedua piringan berputar dengan kecepatan sudut\u00a0\u03c9A = 32 rpm dan \u03c9B = 8 rpm. Jika kedua piringan digabungkan sepusat maka, Tentukan kecepatan sudutnya setelah digabung?    dibawah ini contoh dan carakerjanya!",
+            "attachments": [
+                "question-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+            ],
+            "answers": [
+                {
+                    "answer": "Jangan lupa divote terbaik ya!\u00a0",
+                    "attachments": [
+                        "answer-attachments/dua-piringan-berjari-jari-sama-memiliki-massa-masing-masing-m-820-1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "sebuah-pipa-panjang-memiliki-penampang-berbeda-pada-empat-bagian-226",
+            "question": "Sebuah pipa panjang memiliki penampang berbeda pada empat bagian. Luas penampang pipa berturut-turut pada bagian 1, bagian 2 dan bagian 3 adalah 150 cm2, 100 cm2, dan 50 cm2. Laju aliran air pada bagian 1 adalah 8 m/s. Sedangkan pada bagian 4 adalah 4,8 m/s. Tentukanlah:    A. Debit air melalui keempat penampang iti\r\n B. Luas penampang pada bagian 4\r\n C. Laju air pada bagian 2 dan 3.",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "Jawab A<br><br>Debit air sama di semua bagian :<br>Q1 = Q2 = Q3= Q4 = 800 x 150<br>=120000cm^3/s<br><br>Jawab B<br><br>Luas penampang pada bagian 4 :<br>A1V1 = A4V4<br><br>V4 = A1V1 / A4 = 150 x\u00a08 / 4,8 = 250 cm^2<br><br>Jawab C<br><br>Laju air pada bagian 2 dan 3<br>V2 = Q2 / A2 = 120000 / 100 = 1200 cm/s = 12 m/s<br>V3 = Q3\u00a0/\u00a0A3\u00a0= 120000 / 50 \u00a0= 2400 cm/s = 24 m/s",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "penderita-miopi-menggunakan-kacamata-2-d-agar-penglihatannya-men-547",
+            "question": "Penderita miopi menggunakan kacamata -2 D agar penglihatannya menjadi normal.Apabila orang tersebut tanpa kaca mata,titik jauh sebesar...    a.50cm\r\nb.75cm\r\nc,100cm\r\nd.125cm\r\ne.150cm",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "titik jauh penderita miopi menggunakan kacamata 2 D adalah 100cm\u00a0",
+                    "attachments": []
+                },
+                {
+                    "answer": "-100/-2 =50 cm<br>\u00a0semoga membantu<br><br>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "sebutkan-alasan-mengapa-tangan-anda-tidak-dapat-digunakan-sebagai-701",
+            "question": "Sebutkan alasan mengapa tangan anda tidak dapat digunakan sebagai alat pengukur suhu yang baik?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "karna tangan setiap orang rasanya pengukurnya tdk lah sama<br>dan berbeda<br>suhu saat sama-sama kedinginan dan kepanasan saja jika setiap rg yang merasakan saja pasti beda.<br><br>semoga membantu \u00a0:)",
+                    "attachments": []
+                },
+                {
+                    "answer": "Karena tangan hanya dapat merasakan panas tetapi tidak\u00a0dapat menentukan angka yang tertulus\u00a0berapa derajat suhu tersebut",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "ada-berapa-elektron-dalam-muatan-1-c-dan-berapakah-massa-elektro-584",
+            "question": "Ada berapa elektron dalam muatan 1 C, dan berapakah massa elektron elektron itu?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "1 columb =\u00a0<span>\u00a06.241</span>\u00d710^<span>18 elektron<br><br>massa elektron =\u00a0</span><span>\u00a09,109 \u00d7 10^\u221231 kilogram, <br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0ataupun setara dengan 5,489 \u00d7 10^\u22124 satuan\u00a0</span>massa<span>\u00a0atom</span>",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "slug": "balok-bermassa-10-kg-terletak-di-atas-permukaan-kasar-dengan-miu-296",
+            "question": "Balok bermassa 10 kg terletak di atas permukaan kasar dengan miu k = 0,4    Balok itu kemudian ditarik dengan gaya sebesar 100 N sehingga bergerak\r\nBerapakah kecepatan balok setelah bergerak sejauh 3 m\u00a0jika\u00a0percepatan gravitasi bumi g = 10 m/s2 ?",
+            "attachments": [],
+            "answers": [
+                {
+                    "answer": "N= w<br>N= 10x10 &gt; 100N<br>\u03a3F= m.a<br>F-f=m.a<br>100-(100x0,4)=10a<br>100-40=10a<br>a=60/10<br>a=6 m/s2<br>mencari kecepatan menggunakan rumus kecepatan dan jarak:<br>Vt\u00b2=Vo\u00b2+2as<br>Vt\u00b2=0\u00b2+2.6.3 (kecepatan awal 0 m/s)<br>Vt\u00b2= 36<br>Vt= \u221a36 &gt; 6 m/s.<br>",
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}
